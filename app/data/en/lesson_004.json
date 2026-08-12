@@ -1,0 +1,1395 @@
+{
+  "id": "lesson_004",
+  "position": 5,
+  "unit_id": 1,
+  "course_id": "en.A1",
+  "title_form": "Describe yourself and others (appearance and colors)",
+  "title_target": "Describirse a uno mismo y a otros (apariencia y colores)",
+  "theme_focus": "Describe yourself and others (appearance and colors)",
+  "learning_objectives": [
+    "Can describe physical appearance using basic adjectives, colors, and have got for features."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_002",
+    "lesson_003"
+  ],
+  "grammar_focus": [
+    "adjective_position (before noun: a tall man, NOT a man tall)",
+    "adjective_with_be (She is tall, His eyes are blue)",
+    "adjective_with_have_got (She has got blue eyes, He has got short hair)",
+    "indefinite_article_a_vs_an_intro (a book, an apple)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "big_adj",
+        "small_adj",
+        "old_adj",
+        "young_adj",
+        "tall_adj",
+        "short_adj",
+        "black_adj",
+        "white_adj",
+        "brown_adj",
+        "grey_adj",
+        "purple_adj",
+        "pink_2",
+        "a_det"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "age",
+        "and_conj",
+        "baby",
+        "be_verb_2",
+        "brother",
+        "bye_interj",
+        "children",
+        "dad",
+        "daughter",
+        "excuse_me_interj",
+        "family",
+        "father",
+        "five_num",
+        "four_num",
+        "friend",
+        "from_prep",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "have_got_verb",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "husband",
+        "i_pronoun",
+        "in_prep",
+        "live_verb",
+        "meet_verb",
+        "mom",
+        "mother",
+        "my_det",
+        "name",
+        "no_interj",
+        "ok_interj",
+        "one_num",
+        "our_det",
+        "parents",
+        "please_interj",
+        "she_pronoun",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "son",
+        "sorry_interj",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "they_pronoun",
+        "three_num",
+        "two_num",
+        "we_pronoun",
+        "wife",
+        "work_verb",
+        "yes_interj",
+        "you_pronoun",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Ana, una estudiante colombiana de 25 años, llega a su primera clase de inglés en una academia de Madrid y no conoce a nadie. La profesora, Laura, le pide que describa a su hermano mayor para practicar los adjetivos de apariencia. Ana está nerviosa porque no recuerda las palabras para decir 'alto' o 'pelo negro'. Respira hondo y dice: 'My brother is tall and he has black hair'. Laura sonríe y le muestra una foto de su propio hermano, que es bajo y tiene el pelo gris. Al final de la clase, Ana describe a su madre sin mirar el libro y se siente mucho más segura.",
+  "introduction_md": "¿Puedes describir a tu mejor amigo en inglés sin señalar con el dedo? En esta lección vas a aprender las palabras exactas para hablar de la apariencia de las personas: si son altos o bajos, jóvenes o mayores, y de qué color son sus ojos o su pelo. Ya sabes presentarte y hablar de tu familia; ahora vas a dar el siguiente paso: describir cómo se ve alguien. Vas a usar el verbo *have got* para decir 'tiene el pelo negro' o 'tiene los ojos marrones', y el verbo *be* para decir 'es alto' o 'es joven'. También vas a aprender dónde colocar los colores y adjetivos antes del sustantivo, como en 'a big dog' o 'a small cat'. Con estas herramientas podrás describir a cualquier persona en inglés, desde tu hermano hasta tu profesor. Al final, podrás hacer un retrato hablado de alguien y que los demás lo reconozcan. ¡Vamos a ello!",
+  "intro_target": "Can you describe your best friend in English without pointing? In this lesson you will learn the exact words to talk about people's appearance: if they are tall or short, young or old, and what color their eyes or hair are. You already know how to introduce yourself and talk about your family; now you will take the next step: describing how someone looks. You will use the verb *have got* to say 'he has black hair' or 'she has brown eyes', and the verb *be* to say 'he is tall' or 'she is young'. You will also learn where to place colors and adjectives before the noun, like in 'a big dog' or 'a small cat'. With these tools you will be able to describe anyone in English, from your brother to your teacher. At the end, you will be able to give a spoken portrait of someone and others will recognize them. Let's go!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "tall_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My brother is tall.",
+      "translation_form": "Mi hermano es alto.",
+      "highlight_words": [
+        "tall"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "short_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is short and young.",
+      "translation_form": "Ella es baja y joven.",
+      "highlight_words": [
+        "short",
+        "young"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My grandfather is old.",
+      "translation_form": "Mi abuelo es viejo.",
+      "highlight_words": [
+        "old"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "young_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The baby is young.",
+      "translation_form": "El bebé es joven.",
+      "highlight_words": [
+        "young"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He has got a big family.",
+      "translation_form": "Él tiene una familia grande.",
+      "highlight_words": [
+        "big",
+        "a"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She has got a small dog.",
+      "translation_form": "Ella tiene un perro pequeño.",
+      "highlight_words": [
+        "small",
+        "a"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "black_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "His eyes are black.",
+      "translation_form": "Sus ojos son negros.",
+      "highlight_words": [
+        "black"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "white_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Her hair is white.",
+      "translation_form": "Su cabello es blanco.",
+      "highlight_words": [
+        "white"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "brown_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He has got brown eyes.",
+      "translation_form": "Él tiene ojos marrones.",
+      "highlight_words": [
+        "brown"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "grey_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My dad has got grey hair.",
+      "translation_form": "Mi papá tiene cabello gris.",
+      "highlight_words": [
+        "grey"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": "purple_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She has got a purple bag.",
+      "translation_form": "Ella tiene una bolsa morada.",
+      "highlight_words": [
+        "purple",
+        "a"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_012",
+      "lexeme_id": "pink_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Her dress is pink.",
+      "translation_form": "Su vestido es rosa.",
+      "highlight_words": [
+        "pink"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_013",
+      "lexeme_id": "a_det",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He is a tall man.",
+      "translation_form": "Él es un hombre alto.",
+      "highlight_words": [
+        "a",
+        "tall"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "adjective_position",
+      "title_form": "La posición de los adjetivos",
+      "title_target": "Adjective position",
+      "description_md_form": "En inglés, los **adjetivos** (palabras que describen) van **antes del sustantivo** (la persona o cosa). Esto es diferente del español, donde normalmente van después.\n\n- **My brother is tall.** → Mi hermano es alto. (Aquí *tall* va después de *is* porque describe al sujeto).\n- **He has got a big family.** → Él tiene una familia grande. (Aquí *big* va antes de *family*).\n\nCuando el adjetivo describe al sujeto con el verbo **to be**, va después del verbo. Cuando describe a un sustantivo, va **directamente antes** de ese sustantivo. ¡No lo pongas después!\n\n- **She is young.** → Ella es joven.\n- **She is a young woman.** → Ella es una mujer joven.",
+      "description_md_target": "In English, **adjectives** (describing words) go **before the noun** (the person or thing). This is different from Spanish, where they usually go after.\n\n- **My brother is tall.** → Mi hermano es alto. (Here *tall* goes after *is* because it describes the subject).\n- **He has got a big family.** → Él tiene una familia grande. (Here *big* goes before *family*).\n\nWhen the adjective describes the subject with the verb **to be**, it goes after the verb. When it describes a noun, it goes **directly before** that noun. Don't put it after!\n\n- **She is young.** → Ella es joven.\n- **She is a young woman.** → Ella es una mujer joven.",
+      "grammar_structure": "Subject + to be + adjective | Subject + have got + a/an + adjective + noun",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "adjective_position",
+          "text_target": "She is a young woman.",
+          "translation_form": "Ella es una mujer joven.",
+          "highlight_words": [
+            "young",
+            "woman"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "adjective_position",
+          "text_target": "He has got a big family.",
+          "translation_form": "Él tiene una familia grande.",
+          "highlight_words": [
+            "big",
+            "family"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**¡Cuidado!** En español decimos *una familia grande*, pero en inglés el adjetivo va **antes**: *a big family*. Nunca digas *a family big*."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Si el adjetivo va después de *is* (to be), describe al sujeto. Si va antes de un sustantivo, describe a ese sustantivo. ¡Dos posiciones, dos funciones!"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *a family big* en lugar de *a big family* (el adjetivo va antes del sustantivo).",
+        "Decir *She is a woman young* en lugar de *She is a young woman*.",
+        "Confundir la posición: *My brother tall is* en lugar de *My brother is tall* (con to be, el adjetivo va después del verbo)."
+      ]
+    },
+    {
+      "slug": "adjective_with_be",
+      "title_form": "Adjetivos con el verbo to be",
+      "title_target": "Adjectives with to be",
+      "description_md_form": "Para describir a alguien o algo, usamos el verbo **to be** (ser/estar) seguido de un **adjetivo**. El adjetivo describe una característica: tamaño, edad, color, etc.\n\n**Estructura:** Sujeto + **to be** + adjetivo.\n\n- `I am tall.` (Soy alto.)\n- `She is young.` (Ella es joven.)\n- `My brother is short.` (Mi hermano es bajo.)\n\n**Importante:** En inglés, el adjetivo **no cambia** según el sujeto. Siempre es la misma palabra: `tall`, `young`, `short`. No decimos *\"I am talls\"* ni *\"She is youngs\"*.\n\nEl adjetivo va **después** del verbo, no antes. Decimos `He is old`, no *\"He old is\"*.",
+      "description_md_target": "To describe someone or something, we use the verb **to be** followed by an **adjective**. The adjective describes a characteristic: size, age, color, etc.\n\n**Structure:** Subject + **to be** + adjective.\n\n- `I am tall.`\n- `She is young.`\n- `My brother is short.`\n\n**Important:** In English, the adjective **does not change** with the subject. It is always the same word: `tall`, `young`, `short`. We don't say *\"I am talls\"* or *\"She is youngs\"*.\n\nThe adjective goes **after** the verb, not before. We say `He is old`, not *\"He old is\"*.",
+      "grammar_structure": "Subject + to be + adjective",
+      "conjugation_table": {
+        "name": "present_simple_be",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "am",
+            "notes": null
+          },
+          {
+            "pronoun": "He / She",
+            "form": "is",
+            "notes": null
+          },
+          {
+            "pronoun": "You / We / They",
+            "form": "are",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "adjective_with_be",
+          "text_target": "My brother is tall.",
+          "translation_form": "Mi hermano es alto.",
+          "highlight_words": [
+            "is",
+            "tall"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "adjective_with_be",
+          "text_target": "She is short and young.",
+          "translation_form": "Ella es baja y joven.",
+          "highlight_words": [
+            "is",
+            "short",
+            "young"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** el adjetivo en inglés es invariable. No cambia con el género ni el número. `He is tall` y `She is tall` usan la misma palabra `tall`."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** no digas *\"He is talls\"* o *\"She is youngs\"*. El adjetivo nunca lleva **-s** en inglés."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *\"He is talls\"* en lugar de `He is tall` (el adjetivo no lleva -s).",
+        "Decir *\"She is youngs\"* en lugar de `She is young` (el adjetivo no cambia con el sujeto).",
+        "Poner el adjetivo antes del verbo: *\"He tall is\"* en lugar de `He is tall`."
+      ]
+    },
+    {
+      "slug": "adjective_with_have_got",
+      "title_form": "Describir rasgos con have got",
+      "title_target": "Describing features with have got",
+      "description_md_form": "Para describir **rasgos físicos** (ojos, pelo, familia), usamos **have got** + adjetivo. El verbo cambia según la persona: **I have got**, **he/she has got**. El adjetivo va **antes** del sustantivo, no después: *He has got **brown** eyes*. No decimos *He has got eyes brown*. Con **have got** describimos lo que una persona **tiene** (pelo, ojos, familia), mientras que con **be** describimos lo que una persona **es** (alto, joven). Ejemplo: *She has got a **big** family* (tiene) vs. *She is **young*** (es).",
+      "description_md_target": "To describe **physical features** (eyes, hair, family), we use **have got** + adjective. The verb changes by person: **I have got**, **he/she has got**. The adjective goes **before** the noun, not after: *He has got **brown** eyes*. We don't say *He has got eyes brown*. With **have got** we describe what a person **has** (hair, eyes, family), while with **be** we describe what a person **is** (tall, young). Example: *She has got a **big** family* (has) vs. *She is **young*** (is).",
+      "grammar_structure": "Subject + have/has got + (a) + adjective + noun",
+      "conjugation_table": {
+        "name": "have_got_present",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She",
+            "form": "has got",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "have got",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "adjective_with_have_got",
+          "text_target": "He has got a big family.",
+          "translation_form": "Él tiene una familia grande.",
+          "highlight_words": [
+            "has",
+            "got",
+            "big"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "adjective_with_have_got",
+          "text_target": "She has got brown eyes.",
+          "translation_form": "Ella tiene ojos marrones.",
+          "highlight_words": [
+            "has",
+            "got",
+            "brown"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: con **he/she** usamos **has got**, no *have got*. Es un error muy común decir *She have got*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Ojo con el orden**: el adjetivo va **antes** del sustantivo. Decimos *a big family*, no *a family big*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'She have got' en lugar de 'She has got'.",
+        "Poner el adjetivo antes del sustantivo: 'a brown eyes' en vez de 'brown eyes'.",
+        "Olvidar el artículo 'a' con sustantivos singulares: 'He has got big family' en vez de 'He has got a big family'."
+      ]
+    },
+    {
+      "slug": "indefinite_article_a_vs_an_intro",
+      "title_form": "El artículo indefinido: a vs. an",
+      "title_target": "The indefinite article: a vs. an",
+      "description_md_form": "En inglés, usamos **a** o **an** antes de un sustantivo singular para decir *un* o *una*. La regla es simple: usamos **a** antes de palabras que empiezan con **sonido de consonante**, y **an** antes de palabras que empiezan con **sonido de vocal**.\n\n- **a** + sonido de consonante: `a big family`, `a tall brother`.\n- **an** + sonido de vocal: `an old man`, `an orange`.\n\n**¡Ojo!** La regla depende del **sonido**, no de la letra. Por ejemplo, *hour* empieza con *h*, pero la *h* no se pronuncia, así que decimos `an hour`. En esta lección, practicamos con adjetivos como `big`, `small`, `old` y `young` para describir a personas y cosas.",
+      "description_md_target": "In English, we use **a** or **an** before a singular noun to say *un* or *una*. The rule is simple: we use **a** before words that start with a **consonant sound**, and **an** before words that start with a **vowel sound**.\n\n- **a** + consonant sound: `a big family`, `a tall brother`.\n- **an** + vowel sound: `an old man`, `an orange`.\n\n**Note!** The rule depends on the **sound**, not the letter. For example, *hour* starts with *h*, but the *h* is silent, so we say `an hour`. In this lesson, we practice with adjectives like `big`, `small`, `old`, and `young` to describe people and things.",
+      "grammar_structure": "a/an + adjective + singular noun",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "a_det",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "He has got a big family.",
+          "translation_form": "Él tiene una familia grande.",
+          "highlight_words": [
+            "a",
+            "big"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "old_adj",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My grandfather is an old man.",
+          "translation_form": "Mi abuelo es un hombre viejo.",
+          "highlight_words": [
+            "an",
+            "old"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** la regla es por el **sonido**, no por la letra. `a` va con sonido de consonante (`a big`), `an` va con sonido de vocal (`an old`)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** no digas `a old man`. Como `old` empieza con sonido de vocal, necesitas `an old man`."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'a old man' en lugar de 'an old man' (la regla depende del sonido, no de la letra).",
+        "Olvidar el artículo: 'He has got big family' en lugar de 'He has got a big family'.",
+        "Usar 'a' antes de palabras que empiezan con vocal: 'a apple' en lugar de 'an apple'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'tall'?",
+      "options": [
+        "alto",
+        "bajo",
+        "viejo",
+        "joven"
+      ],
+      "correct_answer": "alto",
+      "explanation_md": "'Tall' se usa para describir a alguien o algo que es alto.",
+      "related_lexeme_ids": [
+        "tall_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'grey'?",
+      "options": [
+        "gris",
+        "negro",
+        "blanco",
+        "marrón"
+      ],
+      "correct_answer": "gris",
+      "explanation_md": "'Grey' es el color gris, como el color de un día nublado.",
+      "related_lexeme_ids": [
+        "grey_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "En la frase 'My brother is tall', ¿qué palabra describe al hermano?",
+      "options": [
+        "brother",
+        "is",
+        "tall",
+        "my"
+      ],
+      "correct_answer": "tall",
+      "explanation_md": "'Tall' es el adjetivo que describe cómo es el hermano.",
+      "related_lexeme_ids": [
+        "tall_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta de decir 'una familia grande'?",
+      "options": [
+        "a family big",
+        "big a family",
+        "a big family",
+        "family big a"
+      ],
+      "correct_answer": "a big family",
+      "explanation_md": "En inglés, el adjetivo va antes del sustantivo: 'a big family'.",
+      "related_lexeme_ids": [
+        "big_adj",
+        "a_det"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'She is ____ and young.' (Ella es baja y joven.)",
+      "options": null,
+      "correct_answer": "short",
+      "explanation_md": "'Short' significa 'baja' y se usa con el verbo 'to be' para describir.",
+      "related_lexeme_ids": [
+        "short_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'He has got a ____ family.' (Él tiene una familia grande.)",
+      "options": null,
+      "correct_answer": "big",
+      "explanation_md": "'Big' significa 'grande' y va antes del sustantivo 'family'.",
+      "related_lexeme_ids": [
+        "big_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Mi abuelo es viejo.'",
+      "options": null,
+      "correct_answer": "My grandfather is old.",
+      "explanation_md": "Usamos 'My grandfather' para 'mi abuelo' y 'is old' para 'es viejo'.",
+      "related_lexeme_ids": [
+        "old_adj",
+        "grandfather"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ella es baja y joven.'",
+      "options": null,
+      "correct_answer": "She is short and young.",
+      "explanation_md": "Usamos 'She is' para 'ella es', y los adjetivos 'short' y 'young' unidos con 'and'.",
+      "related_lexeme_ids": [
+        "short_adj",
+        "young_adj",
+        "and_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada adjetivo con su significado:",
+      "options": [
+        "black",
+        "negro",
+        "white",
+        "blanco",
+        "brown",
+        "marrón",
+        "purple",
+        "morado"
+      ],
+      "correct_answer": [
+        "black=negro",
+        "white=blanco",
+        "brown=marrón",
+        "purple=morado"
+      ],
+      "explanation_md": "Estos son los colores básicos en inglés.",
+      "related_lexeme_ids": [
+        "black_adj",
+        "white_adj",
+        "brown_adj",
+        "purple_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada adjetivo con su significado:",
+      "options": [
+        "big",
+        "grande",
+        "small",
+        "pequeño",
+        "old",
+        "viejo",
+        "young",
+        "joven"
+      ],
+      "correct_answer": [
+        "big=grande",
+        "small=pequeño",
+        "old=viejo",
+        "young=joven"
+      ],
+      "explanation_md": "Estos adjetivos describen tamaño y edad.",
+      "related_lexeme_ids": [
+        "big_adj",
+        "small_adj",
+        "old_adj",
+        "young_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "¿Cómo se dice 'The baby is young.' en español?",
+      "options": null,
+      "correct_answer": "El bebé es joven.",
+      "explanation_md": "'The baby' es 'el bebé', 'is' es 'es' y 'young' es 'joven'.",
+      "related_lexeme_ids": [
+        "young_adj",
+        "baby"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "¿Cómo se dice 'He has got a big family.' en español?",
+      "options": null,
+      "correct_answer": "Él tiene una familia grande.",
+      "explanation_md": "'He has got' es 'él tiene' y 'a big family' es 'una familia grande'.",
+      "related_lexeme_ids": [
+        "big_adj",
+        "a_det",
+        "have_got_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "big",
+      "back": "grande",
+      "hint": "opuesto de small",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "small",
+      "back": "pequeño",
+      "hint": "opuesto de big",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "old",
+      "back": "viejo / antiguo",
+      "hint": "opuesto de young",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "young",
+      "back": "joven",
+      "hint": "opuesto de old",
+      "lexeme_id": "young_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "tall",
+      "back": "alto",
+      "hint": "para personas y edificios",
+      "lexeme_id": "tall_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "appearance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "short",
+      "back": "bajo",
+      "hint": "opuesto de tall",
+      "lexeme_id": "short_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "appearance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "black",
+      "back": "negro",
+      "hint": "color del café sin leche",
+      "lexeme_id": "black_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "colors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "white",
+      "back": "blanco",
+      "hint": "color de la nieve",
+      "lexeme_id": "white_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "colors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "brown",
+      "back": "marrón",
+      "hint": "color del chocolate",
+      "lexeme_id": "brown_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "colors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "grey",
+      "back": "gris",
+      "hint": "color entre blanco y negro",
+      "lexeme_id": "grey_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "colors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "purple",
+      "back": "morado / violeta",
+      "hint": "color de las uvas",
+      "lexeme_id": "purple_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "colors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "pink",
+      "back": "rosa / rosado",
+      "hint": "color de los flamencos",
+      "lexeme_id": "pink_2",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "colors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "a",
+      "back": "un / una",
+      "hint": "artículo indefinido",
+      "lexeme_id": "a_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "family",
+      "back": "familia",
+      "hint": "grupo de personas relacionadas",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "friend",
+      "back": "amigo / amiga",
+      "hint": "persona que conoces bien",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "A1",
+        "people"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "big",
+      "reading": "",
+      "translation": "grande",
+      "pos": "adjective",
+      "example": "He has got a big family.",
+      "example_translation": "Él tiene una familia grande.",
+      "lexeme_id": "big_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "small",
+      "reading": "",
+      "translation": "pequeño",
+      "pos": "adjective",
+      "example": "She has got a small dog.",
+      "example_translation": "Ella tiene un perro pequeño.",
+      "lexeme_id": "small_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "old",
+      "reading": "",
+      "translation": "viejo / antiguo",
+      "pos": "adjective",
+      "example": "My grandfather is old.",
+      "example_translation": "Mi abuelo es viejo.",
+      "lexeme_id": "old_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "young",
+      "reading": "",
+      "translation": "joven",
+      "pos": "adjective",
+      "example": "The baby is young.",
+      "example_translation": "El bebé es joven.",
+      "lexeme_id": "young_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tall",
+      "reading": "",
+      "translation": "alto",
+      "pos": "adjective",
+      "example": "My brother is tall.",
+      "example_translation": "Mi hermano es alto.",
+      "lexeme_id": "tall_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "short",
+      "reading": "",
+      "translation": "bajo",
+      "pos": "adjective",
+      "example": "She is short and young.",
+      "example_translation": "Ella es baja y joven.",
+      "lexeme_id": "short_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "black",
+      "reading": "",
+      "translation": "negro",
+      "pos": "adjective",
+      "example": "His eyes are black.",
+      "example_translation": "Sus ojos son negros.",
+      "lexeme_id": "black_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "white",
+      "reading": "",
+      "translation": "blanco",
+      "pos": "adjective",
+      "example": "Her hair is white.",
+      "example_translation": "Su cabello es blanco.",
+      "lexeme_id": "white_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "brown",
+      "reading": "",
+      "translation": "marrón",
+      "pos": "adjective",
+      "example": "He has got brown eyes.",
+      "example_translation": "Él tiene ojos marrones.",
+      "lexeme_id": "brown_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "grey",
+      "reading": "",
+      "translation": "gris",
+      "pos": "adjective",
+      "example": "My dad has got grey hair.",
+      "example_translation": "Mi papá tiene cabello gris.",
+      "lexeme_id": "grey_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "purple",
+      "reading": "",
+      "translation": "morado / violeta",
+      "pos": "adjective",
+      "example": "She has got a purple bag.",
+      "example_translation": "Ella tiene una bolsa morada.",
+      "lexeme_id": "purple_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "pink",
+      "reading": "",
+      "translation": "rosa / rosado",
+      "pos": "adjective",
+      "example": "Her dress is pink.",
+      "example_translation": "Su vestido es rosa.",
+      "lexeme_id": "pink_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "a",
+      "reading": "",
+      "translation": "uno / una (artículo indefinido)",
+      "pos": "determiner",
+      "example": "He is a tall man.",
+      "example_translation": "Él es un hombre alto.",
+      "lexeme_id": "a_det",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describe yourself and others (appearance and colors)",
+      "title_target": "Quiz: Describe yourself and others (appearance and colors)",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "I",
+            "have",
+            "got",
+            "a",
+            "big",
+            "family"
+          ],
+          "correct_answer": "I have got a big family",
+          "explanation_form": "En inglés, el adjetivo (big) va antes del sustantivo (family). La estructura es: sujeto + have got + artículo + adjetivo + sustantivo.",
+          "explanation_target": "In English, the adjective (big) goes before the noun (family). The structure is: subject + have got + article + adjective + noun.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "big_adj",
+            "have_got_verb",
+            "a_det",
+            "family",
+            "adjective_position"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "My",
+            "grandfather",
+            "is",
+            "old"
+          ],
+          "correct_answer": "My grandfather is old",
+          "explanation_form": "Usamos 'is' (del verbo to be) para describir a alguien. El adjetivo (old) va después del verbo.",
+          "explanation_target": "We use 'is' (from the verb to be) to describe someone. The adjective (old) goes after the verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "old_adj",
+            "grandfather",
+            "adjective_with_be",
+            "my_det"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "She",
+            "has",
+            "got",
+            "brown",
+            "hair"
+          ],
+          "correct_answer": "She has got brown hair",
+          "explanation_form": "Para describir el cabello de alguien usamos 'has got' (tiene). El color (brown) va antes del sustantivo (hair).",
+          "explanation_target": "To describe someone's hair we use 'has got'. The color (brown) goes before the noun (hair).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "brown_adj",
+            "have_got_verb",
+            "she_pronoun",
+            "adjective_position"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'My brother is ____.' (joven)",
+          "prompt_target": "Complete the sentence: 'My brother is ____.' (young)",
+          "options": null,
+          "correct_answer": "young",
+          "explanation_form": "La palabra para 'joven' en inglés es 'young'. Se usa con el verbo 'to be' (is) para describir a alguien.",
+          "explanation_target": "The word for 'joven' in English is 'young'. It is used with the verb 'to be' (is) to describe someone.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "young_adj",
+            "adjective_with_be",
+            "brother"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'I have got ____ cat.' (un)",
+          "prompt_target": "Complete the sentence: 'I have got ____ cat.' (a)",
+          "options": null,
+          "correct_answer": "a",
+          "explanation_form": "Usamos 'a' antes de palabras que empiezan con consonante. 'Cat' empieza con consonante, así que decimos 'a cat'.",
+          "explanation_target": "We use 'a' before words that start with a consonant. 'Cat' starts with a consonant, so we say 'a cat'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "a_det",
+            "indefinite_article_a_vs_an_intro",
+            "have_got_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "matching",
+          "prompt_form": "Empareja cada color con su traducción:",
+          "prompt_target": "Match each color with its translation:",
+          "options": [
+            "black",
+            "negro",
+            "white",
+            "blanco",
+            "grey",
+            "gris",
+            "purple",
+            "morado"
+          ],
+          "correct_answer": [
+            "black=negro",
+            "white=blanco",
+            "grey=gris",
+            "purple=morado"
+          ],
+          "explanation_form": "Estos son los colores básicos en inglés. Recuerda: black (negro), white (blanco), grey (gris), purple (morado).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "black_adj",
+            "white_adj",
+            "grey_adj",
+            "purple_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta?",
+          "prompt_target": "Which is the correct form?",
+          "options": [
+            "She have got pink shoes",
+            "She has got pink shoes",
+            "She has pink shoes got",
+            "She got has pink shoes"
+          ],
+          "correct_answer": "She has got pink shoes",
+          "explanation_form": "Con 'she' (ella) usamos 'has got', no 'have got'. El orden correcto es: sujeto + has got + adjetivo + sustantivo.",
+          "explanation_target": "With 'she' we use 'has got', not 'have got'. The correct order is: subject + has got + adjective + noun.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "pink_2",
+            "have_got_verb",
+            "she_pronoun",
+            "adjective_with_have_got"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta?",
+          "prompt_target": "Which is the correct form?",
+          "options": [
+            "They is tall",
+            "They are tall",
+            "They am tall",
+            "They be tall"
+          ],
+          "correct_answer": "They are tall",
+          "explanation_form": "Con 'they' (ellos/ellas) usamos 'are' del verbo 'to be'. La estructura es: sujeto + are + adjetivo.",
+          "explanation_target": "With 'they' we use 'are' from the verb 'to be'. The structure is: subject + are + adjective.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "tall_adj",
+            "adjective_with_be",
+            "they_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta?",
+          "prompt_target": "Which is the correct form?",
+          "options": [
+            "I have got a small dog",
+            "I has got a small dog",
+            "I have a got small dog",
+            "I have got small a dog"
+          ],
+          "correct_answer": "I have got a small dog",
+          "explanation_form": "Con 'I' (yo) usamos 'have got'. El artículo 'a' va antes del adjetivo, y el adjetivo antes del sustantivo.",
+          "explanation_target": "With 'I' we use 'have got'. The article 'a' goes before the adjective, and the adjective before the noun.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "small_adj",
+            "have_got_verb",
+            "a_det",
+            "adjective_with_have_got"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'My sister is ____.' (baja)",
+          "prompt_target": "Complete the sentence: 'My sister is ____.' (short)",
+          "options": null,
+          "correct_answer": "short",
+          "explanation_form": "La palabra para 'baja' (estatura) en inglés es 'short'. Se usa con el verbo 'to be' (is) para describir a alguien.",
+          "explanation_target": "The word for 'short' (height) in English is 'short'. It is used with the verb 'to be' (is) to describe someone.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "short_adj",
+            "adjective_with_be",
+            "sister"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El orden de los adjetivos en ingles\n\nEn espanol, solemos decir \"un perro grande y negro\". En ingles, el orden es diferente: primero va el articulo (a/the), luego el adjetivo de tamano (big/small) y despues el color (black/white). Por ejemplo: **a big black dog** (un perro negro grande). Recuerda que el adjetivo SIEMPRE va antes del sustantivo, nunca despues. No digas \"a dog big\", eso suena muy artificial.\n\n## Dos verbos para describir: be y have got\n\nPara describir a alguien, usamos dos verbos diferentes. Con **be** (ser/estar) describimos caracteristicas generales: **He is tall** (El es alto), **She is young** (Ella es joven). Con **have got** (tener) describimos rasgos fisicos especificos: **He has got brown eyes** (El tiene ojos marrones), **She has got grey hair** (Ella tiene pelo gris). Es un error comun decir \"He is brown eyes\" - recuerda que para partes del cuerpo y rasgos fisicos usamos **have got**, no **be**.\n\n## El articulo indefinido: a vs an\n\nEn ingles, usamos **a** antes de palabras que empiezan con sonido de consonante: **a big dog**, **a tall man**. Usamos **an** antes de palabras que empiezan con sonido de vocal: **an old man**, **an orange**. Ojo: la regla es por SONIDO, no por letra. Por ejemplo, decimos **an hour** (una hora) porque la h no se pronuncia, pero **a university** (una universidad) porque suena como 'yu'. Para tu nivel, recuerda: **a** + consonante, **an** + vocal.\n\n## Errores comunes de hispanohablantes\n\nUn error muy tipico es olvidar el verbo **be** en las descripciones. En espanol decimos \"El alto\" sin verbo, pero en ingles SIEMPRE necesitas el verbo: **He is tall**, nunca \"He tall\". Otro error es confundir **short** (bajo, de estatura) con **small** (pequeno, de tamano). Una persona es **short**, un objeto es **small**. Tambien recuerda que los colores van despues del tamano: **a small white cat**, no \"a white small cat\".\n\n## Mini-glosario de esta leccion\n\n- **Big** = grande (tamano)\n- **Small** = pequeno (tamano)\n- **Tall** = alto (estatura)\n- **Short** = bajo (estatura)\n- **Old** = viejo/anciano\n- **Young** = joven\n- **Black** = negro\n- **White** = blanco\n- **Brown** = marron/cafe\n- **Grey** = gris\n- **Purple** = morado/violeta\n- **Pink** = rosa\n\nPractica describiendo a tu familia y amigos: **My father is tall and he has got grey hair**. Cuantas mas oraciones hagas, mas natural te resultara.",
+  "metadata": {
+    "generated_at": "2026-08-11T17:52:13Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

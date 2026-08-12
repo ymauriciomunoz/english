@@ -1,0 +1,1648 @@
+{
+  "id": "lesson_033",
+  "position": 34,
+  "unit_id": 6,
+  "course_id": "en.A1",
+  "title_form": "Communication: phone, email, messages",
+  "title_target": "Comunicación: teléfono, email, mensajes",
+  "theme_focus": "Communication: phone, email, messages",
+  "learning_objectives": [
+    "Can talk about how they communicate: phone calls, messages, emails."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_014",
+    "lesson_017"
+  ],
+  "grammar_focus": [
+    "present_simple_with_communication_verbs (I call my mom, She sends messages, We talk every day)",
+    "preposition_to_with_communication (talk to, listen to, write to, speak to)",
+    "object_pronouns_with_communication (I call her, I talk to him, I send it to them)",
+    "frequency_with_communication (I always text my friends, She never calls)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "speak_verb",
+        "understand_verb",
+        "call_verb",
+        "know_verb_2",
+        "phone",
+        "phone_verb",
+        "say_verb_2",
+        "send_verb",
+        "talk_verb",
+        "tell_verb",
+        "letter",
+        "message",
+        "telephone"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "back",
+        "bank",
+        "bathroom",
+        "be_verb_2",
+        "beach",
+        "bedroom",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "better_adj",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "body",
+        "book",
+        "bored_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "can_modal",
+        "car",
+        "chair",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clean_verb",
+        "clock",
+        "close_verb",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "colour",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "desk",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "drive_verb",
+        "early_adj_2",
+        "eat_verb",
+        "enjoy_verb",
+        "evening",
+        "exam",
+        "excited_adj",
+        "excuse_me_interj",
+        "expensive_adj",
+        "eye",
+        "face",
+        "family",
+        "father",
+        "favourite_2",
+        "favourite_adj",
+        "feel_verb",
+        "feet",
+        "film",
+        "fine_adj",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "floor",
+        "food",
+        "foot",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "going_to_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "great_adj",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hand",
+        "happy_adj",
+        "hat",
+        "hate_verb",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "head",
+        "hello_interj",
+        "help_verb",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "home",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "house",
+        "hungry_adj",
+        "hurt_verb",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "key",
+        "kitchen",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "like_verb",
+        "listen_to_music_phrase",
+        "live_verb",
+        "look_verb",
+        "love_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "need_verb",
+        "never_adv",
+        "next_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "open_verb",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "room",
+        "run_verb",
+        "running",
+        "sad_adj",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "sick_adj",
+        "single_adj_2",
+        "sister",
+        "sit_verb",
+        "six_num",
+        "skirt",
+        "sleep_verb",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "stand_verb",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "table",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "teeth_2",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "that_det_pron",
+        "the_det",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "these_det_pron",
+        "they_pronoun",
+        "thirsty_adj",
+        "this_det_pron",
+        "those_det_pron",
+        "three_num",
+        "ticket",
+        "time",
+        "tired_adj",
+        "to_prep",
+        "today",
+        "toilet",
+        "tomorrow",
+        "tooth",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "use_verb",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "wait_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "want_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "well_adv",
+        "white_adj",
+        "wife",
+        "window",
+        "wine",
+        "winter",
+        "wonderful_adj",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Ana, una estudiante colombiana de 25 años, está en un hotel en Londres y necesita llamar a su amiga Lucy para confirmar un plan. El recepcionista del hotel, Mark, le presta el teléfono y le sonríe. Ana está nerviosa porque nunca ha llamado por teléfono en inglés. Marca el número y escucha la voz de Lucy al otro lado. Al final de la llamada, Ana sonríe aliviada porque entendió todo y ya tiene un plan para la tarde.",
+  "introduction_md": "¿Alguna vez has necesitado llamar a alguien y no sabías qué decir? Imagina que estás en un hotel en Londres y necesitas pedir ayuda por teléfono. En esta lección vas a aprender a comunicarte por teléfono, por email y con mensajes. Ya sabes saludar, presentarte y hablar de tu familia. Ahora vas a dar el siguiente paso: hablar con otras personas a distancia. Vas a aprender verbos como *call*, *send*, *speak* y *understand*, y palabras como *phone*, *message* y *letter*. También vas a practicar cómo decir con quién hablas y qué le dices. Al final, podrás hacer una llamada simple, escribir un mensaje corto o enviar un email básico. Este es un paso importante para comunicarte en inglés en situaciones reales. ¡Vamos a empezar!",
+  "intro_target": "Have you ever needed to call someone and you didn't know what to say? Imagine you are in a hotel in London and you need to ask for help on the phone. In this lesson you are going to learn to communicate by phone, by email, and with messages. You already know how to greet, introduce yourself, and talk about your family. Now you are going to take the next step: talk to other people at a distance. You are going to learn verbs like *call*, *send*, *speak*, and *understand*, and words like *phone*, *message*, and *letter*. You are also going to practice how to say who you talk to and what you say to them. At the end, you will be able to make a simple call, write a short message, or send a basic email. This is an important step to communicate in English in real situations. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I call my mom every day.",
+      "translation_form": "Llamo a mi mamá todos los días.",
+      "highlight_words": [
+        "call"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We talk to our teacher after class.",
+      "translation_form": "Hablamos con nuestro profesor después de clase.",
+      "highlight_words": [
+        "talk"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "send_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She sends a message to her friend.",
+      "translation_form": "Ella envía un mensaje a su amiga.",
+      "highlight_words": [
+        "send",
+        "message"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "understand_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I understand the message now.",
+      "translation_form": "Entiendo el mensaje ahora.",
+      "highlight_words": [
+        "understand",
+        "message"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "phone_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He phones his wife from the office.",
+      "translation_form": "Él llama a su esposa desde la oficina.",
+      "highlight_words": [
+        "phones"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I tell her about my day.",
+      "translation_form": "Le cuento a ella sobre mi día.",
+      "highlight_words": [
+        "tell"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "know_verb_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I know the telephone number.",
+      "translation_form": "Sé el número de teléfono.",
+      "highlight_words": [
+        "know",
+        "telephone"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "say_verb_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She says hello to the waiter.",
+      "translation_form": "Ella le dice hola al camarero.",
+      "highlight_words": [
+        "says"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "letter",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I write a letter to my grandmother.",
+      "translation_form": "Escribo una carta a mi abuela.",
+      "highlight_words": [
+        "letter"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "speak_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We speak to the doctor at the hospital.",
+      "translation_form": "Hablamos con el doctor en el hospital.",
+      "highlight_words": [
+        "speak"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": "phone",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My phone is on the table.",
+      "translation_form": "Mi teléfono está sobre la mesa.",
+      "highlight_words": [
+        "phone"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_012",
+      "lexeme_id": "message",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I send a message to my friend.",
+      "translation_form": "Siempre les escribo mensajes a mis amigos.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present_simple_with_communication_verbs",
+      "title_form": "Presente simple con verbos de comunicación",
+      "title_target": "Present Simple with Communication Verbs",
+      "description_md_form": "Para hablar de **acciones habituales** de comunicación, usamos el **presente simple**. Con *I, you, we, they*, el verbo no cambia: *I call, you send, we talk*. Con *he, she, it*, añadimos **-s** al verbo: *he calls, she sends, it works*. \n\n**Ejemplos:**\n- *I call my mom every day.* (Llamo a mi mamá todos los días.)\n- *She sends a message to her friend.* (Ella envía un mensaje a su amiga.)\n\n**Recuerda:** estos verbos (*call, send, talk, speak, tell, say, understand, know, phone*) describen cómo nos comunicamos. Usa el presente simple para rutinas y hábitos.",
+      "description_md_target": "To talk about **habitual actions** of communication, we use the **present simple**. With *I, you, we, they*, the verb does not change: *I call, you send, we talk*. With *he, she, it*, we add **-s** to the verb: *he calls, she sends, it works*. \n\n**Examples:**\n- *I call my mom every day.*\n- *She sends a message to her friend.*\n\n**Remember:** these verbs (*call, send, talk, speak, tell, say, understand, know, phone*) describe how we communicate. Use the present simple for routines and habits.",
+      "grammar_structure": "Subject + verb (base form / +s for he, she, it) + object",
+      "conjugation_table": {
+        "name": "present_simple_communication",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "call",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "call",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "calls",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "call",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "call",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "call_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I call my mom every day.",
+          "translation_form": "Llamo a mi mamá todos los días.",
+          "highlight_words": [
+            "call"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "send_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She sends a message to her friend.",
+          "translation_form": "Ella envía un mensaje a su amiga.",
+          "highlight_words": [
+            "sends"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Con *he, she, it*, no olvides la **-s** al final del verbo. Es el error más común. *He call* es incorrecto; di *he calls*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *I am call*. Usa solo *I call* para acciones habituales. *Am* es para describir estados, no acciones."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar la -s en tercera persona: *He call* en lugar de *He calls*.",
+        "Usar el verbo *to be* con verbos de acción: *I am call* en lugar de *I call*.",
+        "Confundir *say* y *tell*: *I say a message* en lugar de *I send a message*."
+      ]
+    },
+    {
+      "slug": "preposition_to_with_communication",
+      "title_form": "La preposición TO con verbos de comunicación",
+      "title_target": "The preposition TO with communication verbs",
+      "description_md_form": "En inglés, muchos verbos de comunicación usan la preposición **to** para indicar **a quién** le hablas, llamas o envías algo. Es como decir \"a\" en español: *I talk to my friend* (Hablo a mi amigo).\n\nObserva el patrón: **verbo + to + persona**. Por ejemplo: *I speak to my teacher*, *She sends a message to her mom*, *He phones his wife*.\n\n**Importante:** No uses \"to\" con el verbo *call* cuando significa \"llamar por teléfono\". Decimos *I call my mom*, no *I call to my mom*. Pero sí usamos \"to\" con *talk*, *speak*, *send* y *tell*.\n\nLa preposición **to** también aparece con *write*: *I write a letter to my friend*. Así indicas quién recibe la carta o el mensaje.",
+      "description_md_target": "In English, many communication verbs use the preposition **to** to indicate **to whom** you talk, call, or send something. It is like saying \"a\" in Spanish: *I talk to my friend* (I talk to my friend).\n\nNotice the pattern: **verb + to + person**. For example: *I speak to my teacher*, *She sends a message to her mom*, *He phones his wife*.\n\n**Important:** Do not use \"to\" with the verb *call* when it means \"to phone someone\". We say *I call my mom*, not *I call to my mom*. But we do use \"to\" with *talk*, *speak*, *send*, and *tell*.\n\nThe preposition **to** also appears with *write*: *I write a letter to my friend*. This shows who receives the letter or message.",
+      "grammar_structure": "Subject + communication verb + to + person",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "talk_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I talk to my teacher after class.",
+          "translation_form": "Hablo con mi profesor después de clase.",
+          "highlight_words": [
+            "talk",
+            "to"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "send_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She sends a message to her friend.",
+          "translation_form": "Ella envía un mensaje a su amiga.",
+          "highlight_words": [
+            "sends",
+            "to"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas** *I call to my mom*. Con el verbo *call* (llamar por teléfono) no usamos \"to\". Decimos *I call my mom*. Pero con *talk*, *speak*, *send* y *tell* sí usamos \"to\"."
+        },
+        {
+          "type": "tip",
+          "text_md": "Piensa en **to** como la flecha que señala a la persona: *I speak **to** my friend*, *I send a message **to** my sister*. ¡La persona siempre va después de \"to\"!"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I call to my mom* en lugar de *I call my mom* (con call no se usa to).",
+        "Olvidar la preposición: *I talk my teacher* en lugar de *I talk to my teacher*.",
+        "Usar \"to\" con el objeto directo: *I send to a message* en lugar de *I send a message to...*."
+      ]
+    },
+    {
+      "slug": "object_pronouns_with_communication",
+      "title_form": "Pronombres de objeto con verbos de comunicación",
+      "title_target": "Object Pronouns with Communication Verbs",
+      "description_md_form": "En inglés, cuando el verbo de comunicación (call, tell, send, phone) tiene un **objeto directo**, usamos los **pronombres de objeto**: `me`, `you`, `him`, `her`, `it`, `us`, `them`. Estos pronombres van **después del verbo**, no antes. Por ejemplo: `I call her every day.` (La llamo todos los días). No decimos `I call she`. El pronombre `her` reemplaza a la persona que recibe la acción. Con `tell` y `send`, el pronombre va después del verbo: `Tell me the message.` (Dime el mensaje). `Send it to him.` (Envíalo a él). Practica con estos verbos: `call`, `phone`, `tell`, `send`, `understand`.",
+      "description_md_target": "In English, when a communication verb (call, tell, send, phone) has a **direct object**, we use **object pronouns**: `me`, `you`, `him`, `her`, `it`, `us`, `them`. These pronouns go **after the verb**, not before. For example: `I call her every day.` We don't say `I call she`. The pronoun `her` replaces the person who receives the action. With `tell` and `send`, the pronoun goes after the verb: `Tell me the message.` `Send it to him.` Practice with these verbs: `call`, `phone`, `tell`, `send`, `understand`.",
+      "grammar_structure": "Subject + communication verb + object pronoun + (complement)",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "call_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I call her every day.",
+          "translation_form": "La llamo todos los días.",
+          "highlight_words": [
+            "call",
+            "her"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "tell_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Tell me the message.",
+          "translation_form": "Dime el mensaje.",
+          "highlight_words": [
+            "tell",
+            "me"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas** `I call she.` En inglés, el pronombre después del verbo cambia: `she` → `her`, `he` → `him`, `they` → `them`. Es un error muy común para hispanohablantes."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: con `send` y `tell`, el pronombre va justo después del verbo: `Send me a message.` (Envíame un mensaje). No digas `Send a message me.`"
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I call she' en lugar de 'I call her' (confundir pronombres de sujeto con pronombres de objeto).",
+        "Poner el pronombre antes del verbo: 'Her I call' en lugar de 'I call her'.",
+        "Olvidar el pronombre: 'I call every day' cuando quieres decir 'I call her every day'.",
+        "Usar 'me' en lugar de 'I' como sujeto: 'Me call her' en lugar de 'I call her'."
+      ]
+    },
+    {
+      "slug": "frequency_with_communication",
+      "title_form": "Frecuencia con verbos de comunicación",
+      "title_target": "Frequency with communication verbs",
+      "description_md_form": "Para decir **con qué frecuencia** haces algo, usa palabras como `always` (siempre), `usually` (normalmente), `often` (a menudo), `sometimes` (a veces) y `never` (nunca). Estas palabras van **antes del verbo principal**. Por ejemplo: `I always call my mom.` (Siempre llamo a mi mamá). Con el verbo `to be`, van **después**: `I am never late.` (Nunca llego tarde). Con los verbos de comunicación como `call`, `send`, `talk` o `tell`, la frecuencia va justo antes del verbo: `She sometimes sends a message.` (Ella a veces envía un mensaje). Esta estructura te ayuda a hablar de tus hábitos de comunicación de forma natural.",
+      "description_md_target": "To say **how often** you do something, use words like `always`, `usually`, `often`, `sometimes` and `never`. These words go **before the main verb**. For example: `I always call my mom.` With the verb `to be`, they go **after**: `I am never late.` With communication verbs like `call`, `send`, `talk` or `tell`, the frequency goes right before the verb: `She sometimes sends a message.` This structure helps you talk about your communication habits naturally.",
+      "grammar_structure": "Subject + frequency adverb + main verb + complement",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "frequency_with_communication",
+          "text_target": "I always call my mom on Sunday.",
+          "translation_form": "Siempre llamo a mi mamá el domingo.",
+          "highlight_words": [
+            "always",
+            "call"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "frequency_with_communication",
+          "text_target": "She sometimes sends a message to her friend.",
+          "translation_form": "Ella a veces envía un mensaje a su amiga.",
+          "highlight_words": [
+            "sometimes",
+            "sends"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: la frecuencia va **antes** del verbo principal. No digas `I call always my mom`, sino `I always call my mom`."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado**: con el verbo `to be`, la frecuencia va **después**. No digas `I always am happy`, sino `I am always happy`."
+        }
+      ],
+      "common_errors_es": [
+        "Colocar el adverbio de frecuencia después del verbo principal: `I call always` en lugar de `I always call`.",
+        "Colocar el adverbio de frecuencia antes del verbo `to be`: `I always am` en lugar de `I am always`.",
+        "Usar `never` con un verbo en forma negativa: `I never don't call` en lugar de `I never call`."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'phone'?",
+      "options": [
+        "teléfono",
+        "mensaje",
+        "carta",
+        "correo"
+      ],
+      "correct_answer": "teléfono",
+      "explanation_md": "'Phone' significa teléfono, el aparato que usamos para llamar.",
+      "related_lexeme_ids": [
+        "phone"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'message'?",
+      "options": [
+        "mensaje",
+        "teléfono",
+        "carta",
+        "llamada"
+      ],
+      "correct_answer": "mensaje",
+      "explanation_md": "'Message' significa mensaje, como un texto que envías por teléfono.",
+      "related_lexeme_ids": [
+        "message"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la frase: 'I ____ my mom every day.' (Llamo a mi mamá todos los días.)",
+      "options": [
+        "call",
+        "send",
+        "write",
+        "talk"
+      ],
+      "correct_answer": "call",
+      "explanation_md": "'Call' significa llamar por teléfono. 'I call my mom' = Llamo a mi mamá.",
+      "related_lexeme_ids": [
+        "call_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta de decir 'Ella envía un mensaje a su amiga'?",
+      "options": [
+        "She sends a message to her friend.",
+        "She send a message to her friend.",
+        "She sends a message her friend.",
+        "She sending a message to her friend."
+      ],
+      "correct_answer": "She sends a message to her friend.",
+      "explanation_md": "Con 'she' usamos 'sends' (presente simple) y la preposición 'to' antes de la persona: 'to her friend'.",
+      "related_lexeme_ids": [
+        "send_verb",
+        "message"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con la palabra correcta: 'We ____ to our teacher after class.' (Hablamos con nuestro profesor después de clase.)",
+      "options": null,
+      "correct_answer": "talk",
+      "explanation_md": "'Talk to' significa hablar con alguien. 'We talk to our teacher' = Hablamos con nuestro profesor.",
+      "related_lexeme_ids": [
+        "talk_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con la palabra correcta: 'I ____ the message now.' (Entiendo el mensaje ahora.)",
+      "options": null,
+      "correct_answer": "understand",
+      "explanation_md": "'Understand' significa entender. 'I understand the message' = Entiendo el mensaje.",
+      "related_lexeme_ids": [
+        "understand_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Él llama a su esposa desde la oficina.'",
+      "options": null,
+      "correct_answer": "He phones his wife from the office.",
+      "explanation_md": "'Phones' es otra forma de decir 'calls'. 'His wife' = su esposa, 'from the office' = desde la oficina.",
+      "related_lexeme_ids": [
+        "phone_verb",
+        "wife"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Yo sé su número de teléfono.'",
+      "options": null,
+      "correct_answer": "I know his phone number.",
+      "explanation_md": "'Know' significa saber/conocer. 'His phone number' = su número de teléfono.",
+      "related_lexeme_ids": [
+        "know_verb_2",
+        "phone"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada verbo con su significado:",
+      "options": [
+        "call",
+        "llamar",
+        "send",
+        "enviar",
+        "tell",
+        "decir",
+        "write",
+        "escribir"
+      ],
+      "correct_answer": [
+        "call=llamar",
+        "send=enviar",
+        "tell=decir",
+        "write=escribir"
+      ],
+      "explanation_md": "Estos son verbos de comunicación: call (llamar), send (enviar), tell (decir), write (escribir).",
+      "related_lexeme_ids": [
+        "call_verb",
+        "send_verb",
+        "tell_verb",
+        "write_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su traducción:",
+      "options": [
+        "letter",
+        "carta",
+        "telephone",
+        "teléfono",
+        "message",
+        "mensaje",
+        "phone",
+        "teléfono"
+      ],
+      "correct_answer": [
+        "letter=carta",
+        "telephone=teléfono",
+        "message=mensaje",
+        "phone=teléfono"
+      ],
+      "explanation_md": "Estas son palabras de comunicación: letter (carta), telephone (teléfono), message (mensaje), phone (teléfono).",
+      "related_lexeme_ids": [
+        "letter",
+        "telephone",
+        "message",
+        "phone"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'She tells me a story.'",
+      "options": null,
+      "correct_answer": "Ella me cuenta una historia.",
+      "explanation_md": "'Tells' significa cuenta/dice. 'Me' = me (pronombre de objeto). 'A story' = una historia.",
+      "related_lexeme_ids": [
+        "tell_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I speak English and Spanish.'",
+      "options": null,
+      "correct_answer": "Hablo inglés y español.",
+      "explanation_md": "'Speak' significa hablar. 'English and Spanish' = inglés y español.",
+      "related_lexeme_ids": [
+        "speak_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "speak",
+      "back": "hablar",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "speak_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "understand",
+      "back": "entender / comprender",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "understand_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "call",
+      "back": "llamar",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "know",
+      "back": "saber / conocer",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "know_verb_2",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "phone",
+      "back": "teléfono",
+      "hint": "sustantivo",
+      "lexeme_id": "phone",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "phone",
+      "back": "llamar por teléfono",
+      "hint": "verbo",
+      "lexeme_id": "phone_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "say",
+      "back": "decir",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "say_verb_2",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "send",
+      "back": "enviar",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "send_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "talk",
+      "back": "hablar",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "tell",
+      "back": "decir / contar",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "letter",
+      "back": "carta",
+      "hint": "sustantivo",
+      "lexeme_id": "letter",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "message",
+      "back": "mensaje",
+      "hint": "sustantivo",
+      "lexeme_id": "message",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "telephone",
+      "back": "teléfono",
+      "hint": "sustantivo",
+      "lexeme_id": "telephone",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "write",
+      "back": "escribir",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "write_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "read",
+      "back": "leer",
+      "hint": "verbo de comunicación",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "speak",
+      "reading": "",
+      "translation": "hablar",
+      "pos": "verb",
+      "example": "We speak to the doctor at the hospital.",
+      "example_translation": "Hablamos con el doctor en el hospital.",
+      "lexeme_id": "speak_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "understand",
+      "reading": "",
+      "translation": "entender / comprender",
+      "pos": "verb",
+      "example": "I understand the message now.",
+      "example_translation": "Entiendo el mensaje ahora.",
+      "lexeme_id": "understand_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "call",
+      "reading": "",
+      "translation": "llamar",
+      "pos": "verb",
+      "example": "I call my mom every day.",
+      "example_translation": "Llamo a mi mamá todos los días.",
+      "lexeme_id": "call_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "know",
+      "reading": "",
+      "translation": "saber / conocer",
+      "pos": "verb",
+      "example": "I know the telephone number.",
+      "example_translation": "Sé el número de teléfono.",
+      "lexeme_id": "know_verb_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "phone",
+      "reading": "",
+      "translation": "teléfono",
+      "pos": "noun",
+      "example": "My phone is on the table.",
+      "example_translation": "Mi teléfono está sobre la mesa.",
+      "lexeme_id": "phone",
+      "chunk_id": null
+    },
+    {
+      "target_word": "phone",
+      "reading": "",
+      "translation": "llamar por teléfono",
+      "pos": "verb",
+      "example": "He phones his wife from the office.",
+      "example_translation": "Él llama a su esposa desde la oficina.",
+      "lexeme_id": "phone_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "say",
+      "reading": "",
+      "translation": "decir",
+      "pos": "verb",
+      "example": "She says hello to the waiter.",
+      "example_translation": "Ella le dice hola al camarero.",
+      "lexeme_id": "say_verb_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "send",
+      "reading": "",
+      "translation": "enviar",
+      "pos": "verb",
+      "example": "She sends a message to her friend.",
+      "example_translation": "Ella envía un mensaje a su amiga.",
+      "lexeme_id": "send_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "talk",
+      "reading": "",
+      "translation": "hablar",
+      "pos": "verb",
+      "example": "We talk to our teacher after class.",
+      "example_translation": "Hablamos con nuestro profesor después de clase.",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tell",
+      "reading": "",
+      "translation": "decir / contar",
+      "pos": "verb",
+      "example": "I tell her about my day.",
+      "example_translation": "Le cuento a ella sobre mi día.",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "letter",
+      "reading": "",
+      "translation": "carta",
+      "pos": "noun",
+      "example": "I write a letter to my grandmother.",
+      "example_translation": "Escribo una carta a mi abuela.",
+      "lexeme_id": "letter",
+      "chunk_id": null
+    },
+    {
+      "target_word": "message",
+      "reading": "",
+      "translation": "mensaje",
+      "pos": "noun",
+      "example": "I send a message to my friend.",
+      "example_translation": "Siempre les escribo mensajes a mis amigos.",
+      "lexeme_id": "message",
+      "chunk_id": null
+    },
+    {
+      "target_word": "telephone",
+      "reading": "",
+      "translation": "teléfono",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "telephone",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Communication: phone, email, messages",
+      "title_target": "Quiz: Communication: phone, email, messages",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to make a correct question:",
+          "options": [
+            "you",
+            "Can",
+            "call",
+            "me",
+            "?"
+          ],
+          "correct_answer": "Can you call me?",
+          "explanation_form": "En inglés, las preguntas con 'can' siguen el orden: Can + sujeto + verbo + complemento. 'Me' es el objeto directo.",
+          "explanation_target": "In English, questions with 'can' follow the order: Can + subject + verb + object. 'Me' is the direct object.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "call_verb",
+            "can_modal",
+            "object_pronouns_with_communication"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I need to ____ a message to my friend.'",
+          "prompt_target": "Complete the sentence: 'I need to ____ a message to my friend.'",
+          "options": null,
+          "correct_answer": "send",
+          "explanation_form": "El verbo 'send' significa 'enviar'. Se usa con 'message' para decir 'enviar un mensaje'.",
+          "explanation_target": "The verb 'send' means 'enviar'. It is used with 'message' to say 'send a message'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "send_verb",
+            "message"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "speak",
+            "hablar",
+            "understand",
+            "entender",
+            "tell",
+            "decir"
+          ],
+          "correct_answer": [
+            "speak=hablar",
+            "understand=entender",
+            "tell=decir"
+          ],
+          "explanation_form": "Estos son verbos de comunicación muy comunes. 'Speak' es hablar, 'understand' es entender y 'tell' es decir/contar.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "speak_verb",
+            "understand_verb",
+            "tell_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del verbo 'to know' en presente simple para 'she'?",
+          "prompt_target": "What is the correct form of the verb 'to know' in present simple for 'she'?",
+          "options": [
+            "know",
+            "knows",
+            "knowing",
+            "knew"
+          ],
+          "correct_answer": "knows",
+          "explanation_form": "En presente simple, con 'he', 'she' o 'it', agregamos -s al verbo: she knows.",
+          "explanation_target": "In present simple, with 'he', 'she' or 'it', we add -s to the verb: she knows.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "know_verb_2",
+            "present_simple_with_communication_verbs"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Ella habla con su madre por teléfono.'",
+          "prompt_target": "Translate to English: 'Ella habla con su madre por teléfono.'",
+          "options": null,
+          "correct_answer": "She talks to her mother on the phone.",
+          "explanation_form": "Usamos 'talk to' para hablar con alguien y 'on the phone' para decir por teléfono.",
+          "explanation_target": "We use 'talk to' to speak with someone and 'on the phone' to say by phone.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "talk_verb",
+            "phone",
+            "preposition_to_with_communication"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I don't understand'?",
+          "prompt_target": "What does 'I don't understand' mean?",
+          "options": [
+            "No entiendo",
+            "No hablo",
+            "No sé",
+            "No escucho"
+          ],
+          "correct_answer": "No entiendo",
+          "explanation_form": "'Understand' significa 'entender'. 'I don't understand' es 'No entiendo'.",
+          "explanation_target": "'Understand' means 'entender'. 'I don't understand' is 'No entiendo'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "understand_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el pronombre correcto: 'Please call ____ tomorrow.' (a mí)",
+          "prompt_target": "Fill in with the correct pronoun: 'Please call ____ tomorrow.' (to me)",
+          "options": null,
+          "correct_answer": "me",
+          "explanation_form": "'Me' es el pronombre objeto que significa 'me/a mí'. Después del verbo 'call' usamos el objeto.",
+          "explanation_target": "'Me' is the object pronoun that means 'me'. After the verb 'call' we use the object.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "call_verb",
+            "object_pronouns_with_communication"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "always",
+            "I",
+            "write",
+            "letters",
+            "to",
+            "my",
+            "grandmother",
+            "."
+          ],
+          "correct_answer": "I always write letters to my grandmother.",
+          "explanation_form": "Los adverbios de frecuencia como 'always' van antes del verbo principal. 'Write letters to' significa 'escribir cartas a'.",
+          "explanation_target": "Frequency adverbs like 'always' go before the main verb. 'Write letters to' means 'escribir cartas a'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "write_verb",
+            "letter",
+            "always_adv",
+            "frequency_with_communication"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta? 'She ____ to her brother every day.'",
+          "prompt_target": "What is the correct form? 'She ____ to her brother every day.'",
+          "options": [
+            "speak",
+            "speaks",
+            "speaking",
+            "spoke"
+          ],
+          "correct_answer": "speaks",
+          "explanation_form": "Con 'she' en presente simple, agregamos -s al verbo: she speaks.",
+          "explanation_target": "With 'she' in present simple, we add -s to the verb: she speaks.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "speak_verb",
+            "present_simple_with_communication_verbs"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice en español 'I need to call the doctor'?",
+          "prompt_target": "How do you say in Spanish 'I need to call the doctor'?",
+          "options": null,
+          "correct_answer": "Necesito llamar al doctor.",
+          "explanation_form": "'Need to' significa 'necesitar', 'call' es 'llamar' y 'the doctor' es 'al doctor'.",
+          "explanation_target": "'Need to' means 'necesitar', 'call' is 'llamar' and 'the doctor' is 'al doctor'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "call_verb",
+            "need_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": null,
+          "options": [
+            "phone",
+            "teléfono",
+            "message",
+            "mensaje",
+            "letter",
+            "carta"
+          ],
+          "correct_answer": [
+            "phone=teléfono",
+            "message=mensaje",
+            "letter=carta"
+          ],
+          "explanation_form": "Estas son palabras clave para comunicarse: 'phone' es teléfono, 'message' es mensaje y 'letter' es carta.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "phone",
+            "message",
+            "letter"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la preposición correcta: 'I talk ____ my friend every day.'",
+          "prompt_target": "Fill in with the correct preposition: 'I talk ____ my friend every day.'",
+          "options": null,
+          "correct_answer": "to",
+          "explanation_form": "El verbo 'talk' se usa con la preposición 'to' cuando hablamos con alguien: talk to someone.",
+          "explanation_target": "The verb 'talk' is used with the preposition 'to' when we speak with someone: talk to someone.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "talk_verb",
+            "preposition_to_with_communication"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Verbos de comunicacion: speak, talk, say, tell\n\nEn ingles, no todos los verbos de comunicacion significan lo mismo. **Speak** y **talk** son parecidos, pero **speak** es mas formal y se usa para idiomas (I speak English) o por telefono (Can I speak to you?). **Talk** es mas informal y de conversacion (We talk every day). **Say** se enfoca en las palabras exactas (Say it again, please) y **tell** necesita una persona (Tell me your name). Un error comun es decir *I say you* en vez de *I tell you*. Recuerda: tell + persona, say + palabras.\n\n## La preposicion TO con verbos de comunicacion\n\nCuando usas **speak**, **talk** o **send** con una persona, necesitas la preposicion **to**. Por ejemplo: I talk to my friend, She sends a message to her mom, Can I speak to the teacher? En espanol a veces omitimos la preposicion, pero en ingles es obligatoria. No digas *I call my brother* (eso esta bien porque call no lleva to), pero si *I talk my brother* (incorrecto). Practica con el verbo **send**: send a message to + persona, send an email to + persona.\n\n## Pronombres objeto: me, you, him, her\n\nLos pronombres objeto (me, you, him, her, us, them) van DESPUES del verbo. Por ejemplo: Call me later, I send her a message, Tell him the news. En espanol decimos \"le llamo\" o \"le envio\", pero en ingles el pronombre va siempre despues del verbo, nunca antes. Un error tipico es decir *Me call* en vez de *Call me*. Con los verbos de esta leccion, el patron es: verbo + pronombre objeto (Call her, Tell them, Send me).\n\n## Frecuencia: always, usually, sometimes, never\n\nLos adverbios de frecuencia (always, usually, sometimes, never) van entre el sujeto y el verbo principal: I always call my mom, She usually sends emails, He sometimes talks to me, They never write letters. Con el verbo **to be** van despues: I am always on the phone. Estos adverbios te ayudan a hablar de tus habitos de comunicacion. Por ejemplo: I usually send messages, but I sometimes call my friends. Practica combinando frecuencia + verbos de comunicacion para describir tu rutina.\n\n## Errores comunes y trucos de memoria\n\nUn error frecuente es confundir **phone** (sustantivo) y **phone** (verbo). I have a phone (sustantivo) vs I phone my friend (verbo). Tambien recuerda que **telephone** es mas formal que **phone**. Para recordar **letter** vs **message**: letter es carta fisica, message es mensaje (texto o voz). Truco: message suena como \"mensaje\" en espanol. Y para **understand**: I understand you = Te entiendo. Cuando no entiendes, di: Sorry, I don't understand. Can you say it again, please? Esta frase es muy util en la vida real.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:13:15Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

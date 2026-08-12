@@ -1,0 +1,1631 @@
+{
+  "id": "lesson_002",
+  "position": 3,
+  "unit_id": 1,
+  "course_id": "en.A1",
+  "title_form": "Personal information: age, where from, contact",
+  "title_target": "Información personal: edad, origen, contacto",
+  "theme_focus": "Personal information: age, where from, contact",
+  "learning_objectives": [
+    "Can ask and answer questions about age, origin, address, phone number, and email."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_001",
+    "lesson_pre_002"
+  ],
+  "grammar_focus": [
+    "present_simple_of_be_affirmative_full (I am, he/she/it is, we/they are)",
+    "present_simple_of_be_negative (I'm not, he isn't, we aren't)",
+    "present_simple_of_be_yes_no_questions (Are you...?, Is he...?)",
+    "wh_questions_with_be (Where are you from?, How old are you?, What do you do?)",
+    "possessive_adjectives_full_set (my, your, his, her, our, their)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "age",
+        "from_prep",
+        "live_verb",
+        "work_verb",
+        "in_prep",
+        "he_pronoun",
+        "she_pronoun",
+        "we_pronoun",
+        "they_pronoun",
+        "his_det",
+        "her_det",
+        "our_det",
+        "their_det",
+        "and_conj",
+        "single_adj_2"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "be_verb_2",
+        "bye_interj",
+        "excuse_me_interj",
+        "five_num",
+        "four_num",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "hello_interj",
+        "hi_interj",
+        "i_pronoun",
+        "my_det",
+        "name",
+        "no_interj",
+        "ok_interj",
+        "one_num",
+        "please_interj",
+        "six_num",
+        "sorry_interj",
+        "thank_you_interj",
+        "thanks_interj",
+        "three_num",
+        "two_num",
+        "yes_interj",
+        "you_pronoun",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Ana, una estudiante de 25 años originaria de México, llega a su primer día de trabajo en una oficina en Madrid. Está nerviosa porque no conoce a nadie y su jefe, Mark, le pide que se presente ante el equipo. Ana respira hondo y dice: 'Hello, I am Ana, I am 25, I am from Mexico'. Sus compañeros, Laura y Tom, sonríen y le preguntan de dónde es y dónde vive. Al final del día, Ana ya tiene los correos de todos y se siente mucho más tranquila.",
+  "introduction_md": "¿Sabes decir tu edad en inglés sin dudar? Imagina que alguien te pregunta 'How old are you?' y necesitas responder con seguridad. En esta lección vas a dominar las preguntas y respuestas sobre información personal: tu edad, tu origen, tu dirección, tu teléfono y tu correo. Ya sabes saludar y presentarte con 'I am' y 'My name is'. Ahora vas a dar el siguiente paso: usar los pronombres he, she, we, they y los posesivos his, her, our, their para hablar de ti y de otras personas. Con el verbo 'to be' en presente, vas a poder decir de dónde eres, dónde vives y qué haces. Al final, podrás tener una conversación completa de presentación con alguien nuevo. Es una habilidad esencial para viajar, trabajar o hacer amigos. ¡Vamos a practicar con situaciones reales y útiles!",
+  "intro_target": "Do you know how to say your age in English without hesitating? Imagine someone asks you 'How old are you?' and you need to answer with confidence. In this lesson you will master questions and answers about personal information: your age, your origin, your address, your phone number, and your email. You already know how to greet and introduce yourself with 'I am' and 'My name is'. Now you will take the next step: use the pronouns he, she, we, they and the possessives his, her, our, their to talk about yourself and other people. With the verb 'to be' in the present, you will be able to say where you are from, where you live, and what you do. At the end, you will be able to have a complete introduction conversation with someone new. It is an essential skill for traveling, working, or making friends. Let's practice with real and useful situations!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "age",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "How old are you? I am twenty-five.",
+      "translation_form": "¿Cuántos años tienes? Tengo veinticinco.",
+      "highlight_words": [
+        "are",
+        "you",
+        "i",
+        "am"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "from_prep",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Where are you from? I am from Spain.",
+      "translation_form": "¿De dónde eres? Soy de España.",
+      "highlight_words": [
+        "from",
+        "are",
+        "you",
+        "i",
+        "am"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "live_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We live in Madrid with our family.",
+      "translation_form": "Vivimos en Madrid con nuestra familia.",
+      "highlight_words": [
+        "live",
+        "in",
+        "we",
+        "our"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "work_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She works in a hospital and he works in a school.",
+      "translation_form": "Ella trabaja en un hospital y él trabaja en una escuela.",
+      "highlight_words": [
+        "work",
+        "in",
+        "she",
+        "he",
+        "and"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "he_pronoun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He is single and she is married.",
+      "translation_form": "Él es soltero y ella está casada.",
+      "highlight_words": [
+        "he",
+        "is",
+        "single",
+        "and",
+        "she"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "she_pronoun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is from Italy and her name is Anna.",
+      "translation_form": "Ella es de Italia y su nombre es Anna.",
+      "highlight_words": [
+        "she",
+        "is",
+        "from",
+        "her",
+        "name"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "we_pronoun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are from Mexico and we live in Texas.",
+      "translation_form": "Somos de México y vivimos en Texas.",
+      "highlight_words": [
+        "we",
+        "are",
+        "from",
+        "live",
+        "in"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "they_pronoun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They are from Brazil and they work in a bank.",
+      "translation_form": "Ellos son de Brasil y trabajan en un banco.",
+      "highlight_words": [
+        "they",
+        "are",
+        "from",
+        "work",
+        "in"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "his_det",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "His name is John and he is from Canada.",
+      "translation_form": "Su nombre es John y él es de Canadá.",
+      "highlight_words": [
+        "his",
+        "name",
+        "is",
+        "he",
+        "from"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "her_det",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Her name is Maria and she is from Spain.",
+      "translation_form": "Su nombre es Maria y ella es de España.",
+      "highlight_words": [
+        "her",
+        "name",
+        "is",
+        "she",
+        "from"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": "our_det",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Our house is in London and our car is new.",
+      "translation_form": "Nuestra casa está en Londres y nuestro coche es nuevo.",
+      "highlight_words": [
+        "our",
+        "is",
+        "in"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_012",
+      "lexeme_id": "their_det",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Their names are Tom and Ana and they are from Peru.",
+      "translation_form": "Sus nombres son Tom y Ana y ellos son de Perú.",
+      "highlight_words": [
+        "their",
+        "names",
+        "are",
+        "and",
+        "they",
+        "from"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_013",
+      "lexeme_id": "and_conj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am from Chile and you are from Argentina.",
+      "translation_form": "Yo soy de Chile y tú eres de Argentina.",
+      "highlight_words": [
+        "and",
+        "i",
+        "am",
+        "from",
+        "you",
+        "are"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_014",
+      "lexeme_id": "single_adj_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He is single and he lives alone.",
+      "translation_form": "Él es soltero y vive solo.",
+      "highlight_words": [
+        "he",
+        "is",
+        "single",
+        "and",
+        "lives"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_015",
+      "lexeme_id": "in_prep",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They live in New York and work in a hospital.",
+      "translation_form": "Ellos viven en Nueva York y trabajan en un hospital.",
+      "highlight_words": [
+        "they",
+        "live",
+        "in",
+        "work"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present_simple_of_be_affirmative_full",
+      "title_form": "El verbo to be en afirmativo",
+      "title_target": "The verb to be in affirmative",
+      "description_md_form": "El verbo **to be** significa *ser* o *estar*. Es el verbo más importante en inglés. En afirmativo, cada pronombre tiene su forma:\n\n- **I am** (yo soy/estoy)\n- **He / She / It is** (él/ella es o está)\n- **We / They are** (nosotros/ellos son o están)\n\nUsamos **am**, **is** y **are** para hablar de edad, origen, trabajo y más. Por ejemplo: `I am twenty-five years old.` (Tengo veinticinco años) o `She is from Spain.` (Ella es de España).\n\nEn conversación, solemos usar la forma corta: **I'm**, **he's**, **she's**, **we're**, **they're**. Por ejemplo: `We're from Madrid.` (Somos de Madrid).",
+      "description_md_target": "The verb **to be** means *ser* or *estar*. It is the most important verb in English. In affirmative, each pronoun has its form:\n\n- **I am** (I am)\n- **He / She / It is** (he/she is)\n- **We / They are** (we/they are)\n\nWe use **am**, **is** and **are** to talk about age, origin, work and more. For example: `I am twenty-five years old.` or `She is from Spain.`\n\nIn conversation, we often use the short form: **I'm**, **he's**, **she's**, **we're**, **they're**. For example: `We're from Madrid.`",
+      "grammar_structure": "Subject + am/is/are + complement",
+      "conjugation_table": {
+        "name": "present_simple_of_be",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "am",
+            "notes": null
+          },
+          {
+            "pronoun": "He / She",
+            "form": "is",
+            "notes": null
+          },
+          {
+            "pronoun": "We / They",
+            "form": "are",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_of_be_affirmative_full",
+          "text_target": "I am twenty-five years old and I am from Spain.",
+          "translation_form": "Tengo veinticinco años y soy de España.",
+          "highlight_words": [
+            "am",
+            "from"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_of_be_affirmative_full",
+          "text_target": "She is single and he is from Spain.",
+          "translation_form": "Ella es soltera y él es de España.",
+          "highlight_words": [
+            "is",
+            "and"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: en inglés, para decir la edad usamos *years old*: `I am twenty-five years old.` En conversación, a veces se omite *years old* y se dice solo `I am twenty-five.`"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado**: *he*, *she* y *it* usan **is**, no *am* ni *are*. Por ejemplo: `He is from Madrid.` (Él es de Madrid), **no** *He are from Madrid*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I is' en lugar de 'I am'. Siempre usamos 'am' con 'I'.",
+        "Usar 'are' con 'he' o 'she'. Con 'he' y 'she' siempre usamos 'is'.",
+        "Olvidar el verbo 'to be' en oraciones como 'She from Spain'. Siempre necesitamos el verbo: 'She is from Spain.'"
+      ]
+    },
+    {
+      "slug": "present_simple_of_be_negative",
+      "title_form": "El verbo to be en negativo",
+      "title_target": "The verb to be in negative",
+      "description_md_form": "Para decir que algo **no es** así, usamos el verbo **to be** en negativo. La fórmula es: **sujeto + am/is/are + not**. En conversación, solemos usar las formas cortas: **I'm not**, **he isn't**, **she isn't**, **we aren't**, **they aren't**. Por ejemplo: *I am not from Spain* (No soy de España) o *She is not single* (Ella no es soltera). Recuerda que **not** siempre va después del verbo. Con **he**, **she** e **it**, usamos **is not**; con **we**, **you** y **they**, usamos **are not**. Con **I**, usamos **am not**.",
+      "description_md_target": "To say that something **is not** true, we use the verb **to be** in negative. The formula is: **subject + am/is/are + not**. In conversation, we often use short forms: **I'm not**, **he isn't**, **she isn't**, **we aren't**, **they aren't**. For example: *I am not from Spain* or *She is not single*. Remember that **not** always goes after the verb. With **he**, **she**, and **it**, we use **is not**; with **we**, **you**, and **they**, we use **are not**. With **I**, we use **am not**.",
+      "grammar_structure": "Subject + am/is/are + not + complement",
+      "conjugation_table": {
+        "name": "present_simple_negative",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "am not",
+            "notes": null
+          },
+          {
+            "pronoun": "He / She",
+            "form": "is not",
+            "notes": null
+          },
+          {
+            "pronoun": "We / They",
+            "form": "are not",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_of_be_negative",
+          "text_target": "I am not from Spain. I am from Mexico.",
+          "translation_form": "No soy de España. Soy de México.",
+          "highlight_words": [
+            "am",
+            "not"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_of_be_negative",
+          "text_target": "She is not single. She is from Italy.",
+          "translation_form": "Ella no es soltera. Ella es de Italia.",
+          "highlight_words": [
+            "is",
+            "not"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas 'I no am'.** En inglés, la negación se hace con **not** después del verbo, no con 'no' antes. Di **I am not**."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Formas cortas:** En conversación, usa **isn't** y **aren't**. Son más naturales y comunes."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I no am from Spain' en lugar de 'I am not from Spain'.",
+        "Usar 'isn't' con 'we' o 'they' (incorrecto: 'we isn't'; correcto: 'we aren't').",
+        "Olvidar el verbo 'to be' y decir 'I not from Spain' en lugar de 'I am not from Spain'."
+      ]
+    },
+    {
+      "slug": "present_simple_of_be_yes_no_questions",
+      "title_form": "Preguntas de sí o no con el verbo to be",
+      "title_target": "Yes/No Questions with the Verb To Be",
+      "description_md_form": "Para hacer una **pregunta de sí o no** con el verbo *to be*, simplemente **invierte el orden**: pon el verbo **antes** del sujeto.\n\n- **Afirmativa:** *You are from Spain.* (Eres de España.)\n- **Pregunta:** *Are you from Spain?* (¿Eres de España?)\n\nLa respuesta corta usa **Yes** o **No** + el pronombre + el verbo:\n\n- *Yes, I am.* / *No, I am not.*\n\nCon **he**, **she**, **we** y **they**, la forma cambia:\n\n- *Is he single?* → *Yes, he is.* / *No, he is not.*\n- *Are they from Madrid?* → *Yes, they are.* / *No, they are not.*\n\nRecuerda: la entonación sube al final de la pregunta.",
+      "description_md_target": "To make a **yes/no question** with the verb *to be*, simply **invert the order**: put the verb **before** the subject.\n\n- **Affirmative:** *You are from Spain.*\n- **Question:** *Are you from Spain?*\n\nThe short answer uses **Yes** or **No** + the pronoun + the verb:\n\n- *Yes, I am.* / *No, I am not.*\n\nWith **he**, **she**, **we** and **they**, the form changes:\n\n- *Is he single?* → *Yes, he is.* / *No, he is not.*\n- *Are they from Madrid?* → *Yes, they are.* / *No, they are not.*\n\nRemember: the intonation rises at the end of the question.",
+      "grammar_structure": "To be + subject + complement?",
+      "conjugation_table": {
+        "name": "present_simple_of_be",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "am",
+            "notes": null
+          },
+          {
+            "pronoun": "He / She",
+            "form": "is",
+            "notes": null
+          },
+          {
+            "pronoun": "We / They",
+            "form": "are",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "are",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_of_be_yes_no_questions",
+          "text_target": "Are you from Spain? Yes, I am.",
+          "translation_form": "¿Eres de España? Sí, lo soy.",
+          "highlight_words": [
+            "are",
+            "you",
+            "from",
+            "spain",
+            "yes",
+            "i",
+            "am"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_of_be_yes_no_questions",
+          "text_target": "Is she married? No, she is single.",
+          "translation_form": "¿Está casada? No, es soltera.",
+          "highlight_words": [
+            "is",
+            "she",
+            "married",
+            "no",
+            "single"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Respuestas cortas:** En inglés, no digas solo *Yes* o *No*. Siempre añade el pronombre y el verbo: *Yes, I am.* / *No, she is not.*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No uses *do* con *to be*:** Para preguntar con *to be*, no uses *do* ni *does*. Di *Are you...?* y no *Do you are...?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *Do you are from Spain?* en lugar de *Are you from Spain?*",
+        "Olvidar el pronombre en la respuesta corta: *Yes, am* en lugar de *Yes, I am*.",
+        "Usar *is* con *you*: *Is you from Madrid?* en lugar de *Are you from Madrid?*"
+      ]
+    },
+    {
+      "slug": "wh_questions_with_be",
+      "title_form": "Preguntas con Wh- y el verbo to be",
+      "title_target": "Wh- Questions with to be",
+      "description_md_form": "Para preguntar por **edad**, **origen** o **información personal**, usamos las **wh- words**: *where* (dónde), *how old* (cuántos años), *who* (quién).\n\nLa fórmula es: **Wh- word + am/is/are + sujeto?**\n\n- *Where are you from?* (¿De dónde eres?)\n- *How old are you?* (¿Cuántos años tienes?)\n- *Who is she?* (¿Quién es ella?)\n\nObserva que el verbo **to be** va **antes** del sujeto en la pregunta. En español, el orden es más flexible, pero en inglés es fijo. La respuesta usa el verbo en afirmativo: *I am from Spain.*",
+      "description_md_target": "To ask about **age**, **origin**, or **personal information**, we use the **wh- words**: *where*, *how old*, *who*.\n\nThe formula is: **Wh- word + am/is/are + subject?**\n\n- *Where are you from?*\n- *How old are you?*\n- *Who is she?*\n\nNotice that the verb **to be** goes **before** the subject in the question. In Spanish, the order is more flexible, but in English it is fixed. The answer uses the verb in the affirmative: *I am from Spain.*",
+      "grammar_structure": "Wh- word + am/is/are + subject + complement?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_questions_with_be",
+          "text_target": "Where are you from? I am from Spain.",
+          "translation_form": "¿De dónde eres? Soy de España.",
+          "highlight_words": [
+            "where",
+            "are",
+            "from"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_questions_with_be",
+          "text_target": "How old are you? I am twenty-five.",
+          "translation_form": "¿Cuántos años tienes? Tengo veinticinco.",
+          "highlight_words": [
+            "how",
+            "old",
+            "are"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: en las preguntas con *wh-*, el verbo *to be* va **antes** del sujeto. No digas *You are from where?*, di *Where are you from?*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado**: *How old* significa *cuántos años*, no *cómo de viejo*. Es la forma natural de preguntar la edad en inglés."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *You are from where?* en lugar de *Where are you from?* — el verbo va antes del sujeto.",
+        "Usar *How old* con el verbo *have*: *How old have you?* — en inglés usamos *to be*: *How old are you?*",
+        "Olvidar el verbo *to be* en la pregunta: *Where you from?* — siempre necesitas *are*."
+      ]
+    },
+    {
+      "slug": "possessive_adjectives_full_set",
+      "title_form": "Adjetivos posesivos: my, your, his, her, our, their",
+      "title_target": "Possessive adjectives: my, your, his, her, our, their",
+      "description_md_form": "Los **adjetivos posesivos** en inglés indican de quién es algo. A diferencia del español, **no cambian** según el género o número del objeto: `his book` y `his books` usan la misma palabra. La forma depende solo de la **persona** que posee: `my` (mi), `your` (tu), `his` (su, de él), `her` (su, de ella), `our` (nuestro), `their` (su, de ellos). Siempre van **antes de un sustantivo**: `her name`, `our family`. En inglés no existe la distinción entre \"su de él\" y \"su de ella\" que se resuelve con contexto: `his` es para hombres, `her` para mujeres.",
+      "description_md_target": "Possessive adjectives in English show who owns something. Unlike Spanish, they **do not change** based on the gender or number of the object: `his book` and `his books` use the same word. The form depends only on the **person** who owns: `my`, `your`, `his`, `her`, `our`, `their`. They always go **before a noun**: `her name`, `our family`. In English, there is no distinction between \"su de él\" and \"su de ella\" — `his` is for men, `her` for women.",
+      "grammar_structure": "Possessive adjective + noun",
+      "conjugation_table": {
+        "name": "possessive_adjectives",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "my",
+            "notes": null
+          },
+          {
+            "pronoun": "you",
+            "form": "your",
+            "notes": null
+          },
+          {
+            "pronoun": "he",
+            "form": "his",
+            "notes": null
+          },
+          {
+            "pronoun": "she",
+            "form": "her",
+            "notes": null
+          },
+          {
+            "pronoun": "we",
+            "form": "our",
+            "notes": null
+          },
+          {
+            "pronoun": "they",
+            "form": "their",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "possessive_adjectives_full_set",
+          "text_target": "He is single and she is married. Her name is Ana and his name is Luis.",
+          "translation_form": "Él es soltero y ella está casada. Su nombre es Ana y su nombre es Luis.",
+          "highlight_words": [
+            "his",
+            "her"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "possessive_adjectives_full_set",
+          "text_target": "We live in Madrid with our family. They work in a hospital with their friends.",
+          "translation_form": "Vivimos en Madrid con nuestra familia. Ellos trabajan en un hospital con sus amigos.",
+          "highlight_words": [
+            "our",
+            "their"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado con \"su\"**: en español \"su\" puede significar muchas cosas. En inglés debes elegir: `his` (de él), `her` (de ella), `their` (de ellos). No digas `his name` para una mujer."
+        },
+        {
+          "type": "tip",
+          "text_md": "**No confundas `her` (su) con `she` (ella)**: `her` acompaña a un sustantivo (`her age`), mientras que `she` es el sujeto de la oración (`She is twenty`)."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'su' sin distinguir: decir 'his name' cuando hablamos de una mujer (debería ser 'her name').",
+        "Confundir 'her' (su de ella) con 'she' (ella): 'Her is from Spain' es incorrecto; debe ser 'She is from Spain'.",
+        "Olvidar que el posesivo no cambia con el plural: 'their family' y 'their families' usan 'their' en ambos casos.",
+        "Poner el posesivo después del sustantivo como en español: decir 'the name her' en lugar de 'her name'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'age'?",
+      "options": [
+        "edad",
+        "nombre",
+        "trabajo",
+        "familia"
+      ],
+      "correct_answer": "edad",
+      "explanation_md": "'Age' significa 'edad' en español.",
+      "related_lexeme_ids": [
+        "age"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'from'?",
+      "options": [
+        "de",
+        "en",
+        "con",
+        "para"
+      ],
+      "correct_answer": "de",
+      "explanation_md": "'From' se usa para indicar origen o procedencia, como en 'I am from Spain'.",
+      "related_lexeme_ids": [
+        "from_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la pregunta: '____ are you from?'",
+      "options": [
+        "What",
+        "Where",
+        "Who",
+        "When"
+      ],
+      "correct_answer": "Where",
+      "explanation_md": "Usamos 'Where' para preguntar por el lugar de origen.",
+      "related_lexeme_ids": [
+        "from_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la forma correcta: 'She ____ in a hospital.'",
+      "options": [
+        "work",
+        "works",
+        "working",
+        "worked"
+      ],
+      "correct_answer": "works",
+      "explanation_md": "Con 'she' (ella), el verbo 'work' lleva -s: 'works'.",
+      "related_lexeme_ids": [
+        "work_verb",
+        "she_pronoun"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con el adjetivo posesivo correcto: 'We live in Madrid with ____ family.'",
+      "options": null,
+      "correct_answer": "our",
+      "explanation_md": "'Our' es el posesivo para 'we' (nosotros).",
+      "related_lexeme_ids": [
+        "our_det",
+        "we_pronoun"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con el verbo correcto: 'He ____ single.'",
+      "options": null,
+      "correct_answer": "is",
+      "explanation_md": "Con 'he' (él), usamos 'is' del verbo to be.",
+      "related_lexeme_ids": [
+        "he_pronoun",
+        "single_adj_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Cuántos años tienes?'",
+      "options": null,
+      "correct_answer": "How old are you?",
+      "explanation_md": "La pregunta 'How old are you?' es la forma natural de preguntar la edad.",
+      "related_lexeme_ids": [
+        "age"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ella trabaja en una escuela.'",
+      "options": null,
+      "correct_answer": "She works in a school.",
+      "explanation_md": "Recuerda añadir -s al verbo con 'she': 'works'.",
+      "related_lexeme_ids": [
+        "she_pronoun",
+        "work_verb",
+        "in_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada pronombre con su posesivo:",
+      "options": [
+        "he",
+        "she",
+        "we",
+        "they",
+        "his",
+        "her",
+        "our",
+        "their"
+      ],
+      "correct_answer": [
+        "he=his",
+        "she=her",
+        "we=our",
+        "they=their"
+      ],
+      "explanation_md": "Cada pronombre tiene su adjetivo posesivo correspondiente.",
+      "related_lexeme_ids": [
+        "he_pronoun",
+        "she_pronoun",
+        "we_pronoun",
+        "they_pronoun",
+        "his_det",
+        "her_det",
+        "our_det",
+        "their_det"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada pregunta con su respuesta:",
+      "options": [
+        "How old are you?",
+        "Where are you from?",
+        "I am from Spain.",
+        "I am twenty-five."
+      ],
+      "correct_answer": [
+        "How old are you?=I am twenty-five.",
+        "Where are you from?=I am from Spain."
+      ],
+      "explanation_md": "Relaciona cada pregunta con su respuesta lógica.",
+      "related_lexeme_ids": [
+        "age",
+        "from_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'They live in Madrid.'",
+      "options": null,
+      "correct_answer": "Ellos viven en Madrid.",
+      "explanation_md": "'They' es 'ellos' y 'live' es 'viven'.",
+      "related_lexeme_ids": [
+        "they_pronoun",
+        "live_verb",
+        "in_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'He is single and she is married.'",
+      "options": null,
+      "correct_answer": "Él es soltero y ella está casada.",
+      "explanation_md": "'Single' es 'soltero' y 'married' es 'casado/a'. 'And' une las dos ideas.",
+      "related_lexeme_ids": [
+        "he_pronoun",
+        "she_pronoun",
+        "single_adj_2",
+        "and_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "age",
+      "back": "edad",
+      "hint": "pregunta sobre años",
+      "lexeme_id": "age",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "identity"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "from",
+      "back": "de / desde",
+      "hint": "origen o procedencia",
+      "lexeme_id": "from_prep",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "prepositions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "live",
+      "back": "vivir",
+      "hint": "residir en un lugar",
+      "lexeme_id": "live_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "work",
+      "back": "trabajar",
+      "hint": "empleo o labor",
+      "lexeme_id": "work_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "in",
+      "back": "en / dentro de",
+      "hint": "ubicación o tiempo",
+      "lexeme_id": "in_prep",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "prepositions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "he",
+      "back": "él",
+      "hint": "pronombre masculino singular",
+      "lexeme_id": "he_pronoun",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "she",
+      "back": "ella",
+      "hint": "pronombre femenino singular",
+      "lexeme_id": "she_pronoun",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "we",
+      "back": "nosotros",
+      "hint": "pronombre primera persona plural",
+      "lexeme_id": "we_pronoun",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "they",
+      "back": "ellos",
+      "hint": "pronombre tercera persona plural",
+      "lexeme_id": "they_pronoun",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "his",
+      "back": "su (de él)",
+      "hint": "posesivo masculino",
+      "lexeme_id": "his_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "her",
+      "back": "su (de ella)",
+      "hint": "posesivo femenino",
+      "lexeme_id": "her_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "our",
+      "back": "nuestro",
+      "hint": "posesivo primera persona plural",
+      "lexeme_id": "our_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "their",
+      "back": "su (de ellos)",
+      "hint": "posesivo tercera persona plural",
+      "lexeme_id": "their_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "and",
+      "back": "y",
+      "hint": "conector",
+      "lexeme_id": "and_conj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "single",
+      "back": "individual / soltero",
+      "hint": "estado civil o uno solo",
+      "lexeme_id": "single_adj_2",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "identity"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_016",
+      "front": "I",
+      "back": "yo",
+      "hint": "pronombre primera persona singular",
+      "lexeme_id": "i_pronoun",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_017",
+      "front": "my",
+      "back": "mi",
+      "hint": "posesivo primera persona singular",
+      "lexeme_id": "my_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_018",
+      "front": "name",
+      "back": "nombre",
+      "hint": "cómo te llamas",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "identity"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_019",
+      "front": "you",
+      "back": "tú / usted",
+      "hint": "pronombre segunda persona",
+      "lexeme_id": "you_pronoun",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_020",
+      "front": "be",
+      "back": "ser / estar",
+      "hint": "verbo esencial",
+      "lexeme_id": "be_verb_2",
+      "chunk_id": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "age",
+      "reading": "",
+      "translation": "edad",
+      "pos": "noun",
+      "example": "How old are you? I am twenty-five.",
+      "example_translation": "¿Cuántos años tienes? Tengo veinticinco.",
+      "lexeme_id": "age",
+      "chunk_id": null
+    },
+    {
+      "target_word": "from",
+      "reading": "",
+      "translation": "de / desde",
+      "pos": "prep",
+      "example": "Where are you from? I am from Spain.",
+      "example_translation": "¿De dónde eres? Soy de España.",
+      "lexeme_id": "from_prep",
+      "chunk_id": null
+    },
+    {
+      "target_word": "live",
+      "reading": "",
+      "translation": "vivir",
+      "pos": "verb",
+      "example": "We live in Madrid with our family.",
+      "example_translation": "Vivimos en Madrid con nuestra familia.",
+      "lexeme_id": "live_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "work",
+      "reading": "",
+      "translation": "trabajar",
+      "pos": "verb",
+      "example": "She works in a hospital and he works in a school.",
+      "example_translation": "Ella trabaja en un hospital y él trabaja en una escuela.",
+      "lexeme_id": "work_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "in",
+      "reading": "",
+      "translation": "en / dentro de",
+      "pos": "prep",
+      "example": "They live in New York and work in a hospital.",
+      "example_translation": "Ellos viven en Nueva York y trabajan en un hospital.",
+      "lexeme_id": "in_prep",
+      "chunk_id": null
+    },
+    {
+      "target_word": "he",
+      "reading": "",
+      "translation": "él",
+      "pos": "pronoun",
+      "example": "He is single and she is married.",
+      "example_translation": "Él es soltero y ella está casada.",
+      "lexeme_id": "he_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "she",
+      "reading": "",
+      "translation": "ella",
+      "pos": "pronoun",
+      "example": "She is from Italy and her name is Anna.",
+      "example_translation": "Ella es de Italia y su nombre es Anna.",
+      "lexeme_id": "she_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "we",
+      "reading": "",
+      "translation": "nosotros",
+      "pos": "pronoun",
+      "example": "We are from Mexico and we live in Texas.",
+      "example_translation": "Somos de México y vivimos en Texas.",
+      "lexeme_id": "we_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "they",
+      "reading": "",
+      "translation": "ellos",
+      "pos": "pronoun",
+      "example": "They are from Brazil and they work in a bank.",
+      "example_translation": "Ellos son de Brasil y trabajan en un banco.",
+      "lexeme_id": "they_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "his",
+      "reading": "",
+      "translation": "su (de él)",
+      "pos": "determiner",
+      "example": "His name is John and he is from Canada.",
+      "example_translation": "Su nombre es John y él es de Canadá.",
+      "lexeme_id": "his_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "her",
+      "reading": "",
+      "translation": "su (de ella)",
+      "pos": "determiner",
+      "example": "Her name is Maria and she is from Spain.",
+      "example_translation": "Su nombre es Maria y ella es de España.",
+      "lexeme_id": "her_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "our",
+      "reading": "",
+      "translation": "nuestro",
+      "pos": "determiner",
+      "example": "Our house is in London and our car is new.",
+      "example_translation": "Nuestra casa está en Londres y nuestro coche es nuevo.",
+      "lexeme_id": "our_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "their",
+      "reading": "",
+      "translation": "su (de ellos)",
+      "pos": "determiner",
+      "example": "Their names are Tom and Ana and they are from Peru.",
+      "example_translation": "Sus nombres son Tom y Ana y ellos son de Perú.",
+      "lexeme_id": "their_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "and",
+      "reading": "",
+      "translation": "y",
+      "pos": "conj",
+      "example": "I am from Chile and you are from Argentina.",
+      "example_translation": "Yo soy de Chile y tú eres de Argentina.",
+      "lexeme_id": "and_conj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "single",
+      "reading": "",
+      "translation": "individual",
+      "pos": "adjective",
+      "example": "He is single and he lives alone.",
+      "example_translation": "Él es soltero y vive solo.",
+      "lexeme_id": "single_adj_2",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Personal information: age, where from, contact",
+      "title_target": "Quiz: Personal information: age, where from, contact",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "she",
+            "is",
+            "from",
+            "where"
+          ],
+          "correct_answer": "Where is she from?",
+          "explanation_form": "Para preguntar el origen de una persona usamos 'Where' + verbo 'to be' + sujeto + 'from'. La estructura correcta es: Where is she from?",
+          "explanation_target": "To ask about a person's origin we use 'Where' + verb 'to be' + subject + 'from'. The correct structure is: Where is she from?",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "where_adv",
+            "from_prep",
+            "she_pronoun",
+            "be_verb_2",
+            "wh_questions_with_be"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'He is 30 years ____.'",
+          "prompt_target": "Complete the sentence: 'He is 30 years ____.'",
+          "options": null,
+          "correct_answer": "old",
+          "explanation_form": "Para hablar de la edad usamos 'years old'. La estructura es: sujeto + verbo 'to be' + número + years old.",
+          "explanation_target": "To talk about age we use 'years old'. The structure is: subject + verb 'to be' + number + years old.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "age",
+            "single_adj_2",
+            "present_simple_of_be_affirmative_full"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce al español: 'They live in Madrid.'",
+          "prompt_target": "Translate to Spanish: 'They live in Madrid.'",
+          "options": null,
+          "correct_answer": "Ellos viven en Madrid.",
+          "explanation_form": "'They' es 'ellos/ellas', 'live' es 'viven' y 'in Madrid' es 'en Madrid'. La traducción correcta es: Ellos viven en Madrid.",
+          "explanation_target": "'They' is 'ellos/ellas', 'live' is 'viven' and 'in Madrid' is 'en Madrid'. The correct translation is: Ellos viven en Madrid.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "they_pronoun",
+            "live_verb",
+            "in_prep",
+            "present_simple_of_be_affirmative_full"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma negativa correcta de 'She is from Spain'?",
+          "prompt_target": "What is the correct negative form of 'She is from Spain'?",
+          "options": [
+            "She is not from Spain.",
+            "She not is from Spain.",
+            "She is no from Spain.",
+            "She doesn't from Spain."
+          ],
+          "correct_answer": "She is not from Spain.",
+          "explanation_form": "La forma negativa del verbo 'to be' se forma con 'not' después del verbo: She is not from Spain. Las otras opciones tienen errores de estructura.",
+          "explanation_target": "The negative form of the verb 'to be' is formed with 'not' after the verb: She is not from Spain. The other options have structural errors.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "she_pronoun",
+            "from_prep",
+            "present_simple_of_be_negative"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa con el adjetivo posesivo correcto: 'This is Maria. ____ name is Maria.'",
+          "prompt_target": "Complete with the correct possessive adjective: 'This is Maria. ____ name is Maria.'",
+          "options": null,
+          "correct_answer": "Her",
+          "explanation_form": "Para referirnos a una mujer (Maria) usamos 'her' (su). La frase correcta es: Her name es Maria.",
+          "explanation_target": "To refer to a woman (Maria) we use 'her'. The correct sentence is: Her name is Maria.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "her_det",
+            "possessive_adjectives_full_set"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "matching",
+          "prompt_form": "Empareja cada pronombre con su adjetivo posesivo:",
+          "prompt_target": "Match each pronoun with its possessive adjective:",
+          "options": [
+            "he",
+            "his",
+            "she",
+            "her",
+            "we",
+            "our",
+            "they",
+            "their"
+          ],
+          "correct_answer": [
+            "he=his",
+            "she=her",
+            "we=our",
+            "they=their"
+          ],
+          "explanation_form": "Los adjetivos posesivos correspondientes son: he → his, she → her, we → our, they → their.",
+          "explanation_target": "The corresponding possessive adjectives are: he → his, she → her, we → our, they → their.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "he_pronoun",
+            "she_pronoun",
+            "we_pronoun",
+            "they_pronoun",
+            "his_det",
+            "her_det",
+            "our_det",
+            "their_det",
+            "possessive_adjectives_full_set"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Él trabaja en una oficina.'",
+          "prompt_target": "Translate to English: 'Él trabaja en una oficina.'",
+          "options": null,
+          "correct_answer": "He works in an office.",
+          "explanation_form": "'Él' es 'He', 'trabaja' es 'works' y 'en una oficina' es 'in an office'. La traducción correcta es: He works in an office.",
+          "explanation_target": "'Él' is 'He', 'trabaja' is 'works' and 'en una oficina' is 'in an office'. The correct translation is: He works in an office.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "he_pronoun",
+            "work_verb",
+            "in_prep",
+            "present_simple_of_be_affirmative_full"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para saber la edad de alguien?",
+          "prompt_target": "What is the correct question to ask someone's age?",
+          "options": [
+            "How old are you?",
+            "How many years are you?",
+            "What age have you?",
+            "How old you are?"
+          ],
+          "correct_answer": "How old are you?",
+          "explanation_form": "La forma correcta de preguntar la edad es 'How old are you?'. Las otras opciones no son estructuras válidas en inglés.",
+          "explanation_target": "The correct way to ask age is 'How old are you?'. The other options are not valid structures in English.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "age",
+            "single_adj_2",
+            "wh_questions_with_be"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa con 'and' o 'but': 'She is 25 years old ____ she is from Italy.'",
+          "prompt_target": "Complete with 'and' or 'but': 'She is 25 years old ____ she is from Italy.'",
+          "options": null,
+          "correct_answer": "and",
+          "explanation_form": "Usamos 'and' para unir dos ideas que se complementan. Aquí unimos la edad y el origen de la persona: She is 25 years old and she is from Italy.",
+          "explanation_target": "We use 'and' to join two complementary ideas. Here we join the age and origin of the person: She is 25 years old and she is from Italy.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "and_conj",
+            "age",
+            "from_prep",
+            "she_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "our",
+            "is",
+            "teacher",
+            "this"
+          ],
+          "correct_answer": "This is our teacher.",
+          "explanation_form": "La estructura correcta es: This + is + our + teacher. 'Our' es el adjetivo posesivo para 'we' (nuestro/nuestra).",
+          "explanation_target": "The correct structure is: This + is + our + teacher. 'Our' is the possessive adjective for 'we'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "our_det",
+            "present_simple_of_be_affirmative_full",
+            "possessive_adjectives_full_set"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El verbo TO BE: tu mejor amigo\n\nPara hablar de tu edad, de dónde eres y tu contacto, el verbo **to be** (ser/estar) es esencial. En presente, tiene tres formas: **am** (con I), **is** (con he, she, it) y **are** (con you, we, they). Por ejemplo: *I am 25 years old*, *She is from Spain*, *We are at work*. Un error común es olvidar el verbo: en español decimos \"yo 25 años\", pero en inglés SIEMPRE necesitas el verbo: **I am 25**, nunca \"I 25\".\n\n## Preguntas con TO BE: invierte el orden\n\nPara hacer preguntas de sí/no, simplemente invierte el sujeto y el verbo: *You are from Italy* → **Are you from Italy?** Para preguntas con información (WH-questions), usa *what*, *where*, *how old* al inicio: **Where are you from?**, **How old is he?**, **What is your email?**. Recuerda que *how old* significa \"cuántos años\" y se usa con el verbo to be, no con *have*.\n\n## Los posesivos: my, your, his, her, our, their\n\nLos adjetivos posesivos en inglés son invariables: no cambian según el género ni el número. **His** es para hombres, **her** para mujeres, **our** para \"nuestro/a/os/as\" y **their** para \"su/sus\" (de ellos). Ejemplos: *His name is John*, *Her phone number is 555-1234*, *Our address is on Main Street*. Un error típico es confundir *his* y *her* con el género de la persona, no con el objeto: decimos *her email* si la persona es mujer, aunque \"email\" sea masculino en español.\n\n## Preposiciones: from, in, at\n\n**From** indica origen o procedencia: *I am from Mexico*. **In** indica lugar o ciudad: *I live in Madrid*. **At** se usa para lugares específicos o direcciones: *I work at the hospital*. Para dar tu dirección completa, usa *at* con el número y la calle: *I live at 25 Main Street*. No digas \"I am of Mexico\" — el español \"soy de\" se traduce como **from**, no como *of*.\n\n## Errores comunes que debes evitar\n\n1. **\"I am agree\"** → incorrecto. Usa *I agree* (sin am). 2. **\"She don't\"** → incorrecto. Con *she*, *he*, *it* usa *doesn't*: *She doesn't work here*. 3. **\"How old you are?\"** → incorrecto. La pregunta correcta es *How old are you?* 4. **\"My age is 30\"** → suena raro. Mejor: *I am 30 years old*. 5. **\"I have 25 years\"** → error clásico del español. En inglés, la edad se expresa con *to be*: *I am 25 years old*.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:14:14Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

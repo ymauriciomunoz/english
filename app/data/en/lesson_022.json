@@ -1,0 +1,1277 @@
+{
+  "id": "lesson_022",
+  "position": 23,
+  "unit_id": 5,
+  "course_id": "en.A1",
+  "title_form": "Weather and seasons",
+  "title_target": "Clima y estaciones",
+  "theme_focus": "Weather and seasons",
+  "learning_objectives": [
+    "Can describe the weather, talk about seasons, and use temperature expressions."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_008"
+  ],
+  "grammar_focus": [
+    "weather_with_it_is (It's sunny today, It's raining, It's cold outside)",
+    "wh_questions_about_weather (What's the weather like?, What's the temperature?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "weather",
+        "sun",
+        "rain",
+        "snow",
+        "hot_adj",
+        "cold_adj",
+        "warm_adj",
+        "cool_adj"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "book",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "coat",
+        "coffee",
+        "come_verb",
+        "cook_verb",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "early_adj_2",
+        "eat_verb",
+        "evening",
+        "exam",
+        "excuse_me_interj",
+        "expensive_adj",
+        "family",
+        "father",
+        "film",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hotel",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "listen_to_music_phrase",
+        "live_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "run_verb",
+        "running",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "small_adj",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "three_num",
+        "ticket",
+        "time",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "week",
+        "weekend",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante colombiana de 24 años, llega a Londres en invierno para estudiar inglés. En la estación de tren, mira por la ventana y ve nieve por primera vez; está emocionada pero también confundida porque no sabe cómo describir el clima. Un compañero de clase, James, un chico inglés de 26 años, la saluda y le pregunta: 'What is the weather like today?'. Sofía señala la nieve y dice: 'It is snow!'. James sonríe y le enseña a decir 'It is snowing' y 'It is cold'. Al final del día, Sofía ya puede hablar del clima con confianza y se siente más preparada para su nueva vida.",
+  "introduction_md": "¿Qué tiempo hace hoy en tu ciudad? ¿Hay sol, llueve o nieva? En esta lección vas a aprender a describir el clima y las estaciones del año en inglés, algo que necesitas todos los días para planear tu ropa, tus viajes y tus planes. Ya sabes hablar de tu rutina, de tu familia y de tus gustos; ahora vas a poder decir si hace calor o frío, si el día está templado o fresco, y preguntar sobre el tiempo en otros lugares. Con estas frases podrás conversar con cualquier persona sobre un tema universal: el clima. Al final, podrás entender un pronóstico sencillo y responder preguntas como 'What is the weather like?'. Practicaremos con diálogos cortos y naturales, como los que escucharías en un café o en la calle. ¡Vamos a empezar!",
+  "intro_target": "What is the weather like in your city today? Is it sunny, rainy, or snowy? In this lesson, you will learn to describe the weather and the seasons of the year in English, something you need every day to plan your clothes, your trips, and your plans. You already know how to talk about your routine, your family, and your likes; now you will be able to say if it is hot or cold, if the day is warm or cool, and ask about the weather in other places. With these phrases, you can talk to anyone about a universal topic: the weather. At the end, you will understand a simple forecast and answer questions like 'What is the weather like?'. We will practice with short, natural dialogues, like the ones you would hear at a café or on the street. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "weather",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What's the weather like today?",
+      "translation_form": "¿Cómo está el clima hoy?",
+      "highlight_words": [
+        "weather",
+        "today"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "sun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's sunny and hot in summer.",
+      "translation_form": "Hace sol y calor en verano.",
+      "highlight_words": [
+        "sun",
+        "hot",
+        "summer"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "rain",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's raining, so I stay home.",
+      "translation_form": "Está lloviendo, así que me quedo en casa.",
+      "highlight_words": [
+        "rain",
+        "stay"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "snow",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's snowing in the mountains.",
+      "translation_form": "Está nevando en las montañas.",
+      "highlight_words": [
+        "snow"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "cold_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's cold outside, wear a coat.",
+      "translation_form": "Hace frío afuera, usa un abrigo.",
+      "highlight_words": [
+        "cold",
+        "coat"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "warm_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's warm in spring, I like it.",
+      "translation_form": "Hace templado en primavera, me gusta.",
+      "highlight_words": [
+        "warm",
+        "spring"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "cool_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's cool in the evening, very nice.",
+      "translation_form": "Hace fresco en la tarde, muy agradable.",
+      "highlight_words": [
+        "cool",
+        "evening"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "hot_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What's the temperature? It's very hot.",
+      "translation_form": "¿Cuál es la temperatura? Hace mucho calor.",
+      "highlight_words": [
+        "hot"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "weather_with_it_is",
+      "title_form": "El clima con It is",
+      "title_target": "Weather with It is",
+      "description_md_form": "Para hablar del clima en inglés, usamos **it** como sujeto. En español decimos \"hace sol\" o \"está lloviendo\", pero en inglés siempre empezamos con **it is** (o su forma corta **it's**).\n\n- **It is sunny** = Hace sol.\n- **It is hot** = Hace calor.\n- **It is raining** = Está lloviendo.\n\nEl patrón es simple: **It is + adjetivo** (sunny, hot, cold) o **It is + verbo -ing** (raining, snowing). No necesitas traducir \"it\" como \"ello\"; es solo una palabra vacía que usamos para completar la oración.\n\nRecuerda: **it's** es la forma corta de **it is**. Es muy común en conversación.",
+      "description_md_target": "To talk about the weather in English, we use **it** as the subject. In Spanish we say \"hace sol\" or \"está lloviendo\", but in English we always start with **it is** (or its short form **it's**).\n\n- **It is sunny** = Hace sol.\n- **It is hot** = Hace calor.\n- **It is raining** = Está lloviendo.\n\nThe pattern is simple: **It is + adjective** (sunny, hot, cold) or **It is + verb -ing** (raining, snowing). You don't need to translate \"it\" as \"ello\"; it's just a dummy word we use to complete the sentence.\n\nRemember: **it's** is the short form of **it is**. It's very common in conversation.",
+      "grammar_structure": "It is + adjective / It is + verb-ing",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "weather_with_it_is",
+          "text_target": "It is sunny and hot in summer.",
+          "translation_form": "Hace sol y calor en verano.",
+          "highlight_words": [
+            "it",
+            "is",
+            "sunny",
+            "hot"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "weather_with_it_is",
+          "text_target": "It is raining, so I stay home.",
+          "translation_form": "Está lloviendo, así que me quedo en casa.",
+          "highlight_words": [
+            "it",
+            "is",
+            "raining"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**It's** es la forma corta de **it is**. Úsala en conversación: *It's cold outside.*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "No digas *is sunny* sin **it**. En inglés, **it** es obligatorio: *It is sunny.*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'Is sunny' en lugar de 'It is sunny' — el sujeto 'it' es obligatorio.",
+        "Traducir 'hace calor' como 'makes hot' — usa 'It is hot'.",
+        "Olvidar la forma corta 'it's' en conversación informal."
+      ]
+    },
+    {
+      "slug": "wh_questions_about_weather",
+      "title_form": "Preguntas con What sobre el clima",
+      "title_target": "What questions about the weather",
+      "description_md_form": "Para preguntar sobre el clima, usamos **What** + **is** + **the weather like** + **today**? Esta estructura es fija y muy común en inglés.\n\n**What's the weather like today?** = ¿Cómo está el clima hoy?\n\nLa respuesta usa el patrón **It is** + adjetivo: **It's sunny and hot.** (Hace sol y calor).\n\n**What** también se usa con **season**: **What season is it?** (¿Qué estación es?).\n\nRecuerda: **What's** es la contracción de **What is**. En inglés, **like** es obligatorio en esta pregunta; no puedes omitirlo. La estructura es siempre **What + is + the weather like?**",
+      "description_md_target": "To ask about the weather, we use **What** + **is** + **the weather like** + **today**? This structure is fixed and very common in English.\n\n**What's the weather like today?** = How is the weather today?\n\nThe answer uses the pattern **It is** + adjective: **It's sunny and hot.**\n\n**What** is also used with **season**: **What season is it?**\n\nRemember: **What's** is the contraction of **What is**. In English, **like** is mandatory in this question; you cannot omit it. The structure is always **What + is + the weather like?**",
+      "grammar_structure": "What + is + the weather like + (today)?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "weather",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "What's the weather like today?",
+          "translation_form": "¿Cómo está el clima hoy?",
+          "highlight_words": [
+            "what",
+            "weather",
+            "like"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "hot_adj",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "It's hot and sunny in summer.",
+          "translation_form": "Hace calor y sol en verano.",
+          "highlight_words": [
+            "hot",
+            "sunny",
+            "summer"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas** *What's the weather?* **sin** *like*. En inglés, **like** es obligatorio: **What's the weather like?**"
+        },
+        {
+          "type": "tip",
+          "text_md": "**What's** es la contracción de **What is**. Úsala siempre en conversación: **What's the weather like today?**"
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar 'like' en la pregunta: *What's the weather?* → **What's the weather like?**",
+        "Usar 'How' en lugar de 'What': *How's the weather?* → **What's the weather like?**",
+        "Confundir 'weather' con 'season': *What's the season?* → **What season is it?**"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'weather'?",
+      "options": [
+        "clima",
+        "sol",
+        "lluvia",
+        "nieve"
+      ],
+      "correct_answer": "clima",
+      "explanation_md": "'Weather' se refiere al estado del clima en un momento y lugar determinados.",
+      "related_lexeme_ids": [
+        "weather"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'snow'?",
+      "options": [
+        "nieve",
+        "sol",
+        "lluvia",
+        "viento"
+      ],
+      "correct_answer": "nieve",
+      "explanation_md": "'Snow' es la nieve que cae en invierno.",
+      "related_lexeme_ids": [
+        "snow"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "En verano, el clima es...",
+      "options": [
+        "cold",
+        "hot",
+        "cool",
+        "snowy"
+      ],
+      "correct_answer": "hot",
+      "explanation_md": "En verano hace calor, por eso usamos 'hot'.",
+      "related_lexeme_ids": [
+        "hot_adj",
+        "summer"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué pregunta haces para saber el clima?",
+      "options": [
+        "What's the weather like?",
+        "What's your name?",
+        "What time is it?",
+        "Where is the sun?"
+      ],
+      "correct_answer": "What's the weather like?",
+      "explanation_md": "Para preguntar por el clima usamos 'What's the weather like?'.",
+      "related_lexeme_ids": [
+        "weather"
+      ],
+      "related_chunk_ids": [
+        "wh_questions_about_weather"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'It's ____ in winter.' (hace frío)",
+      "options": null,
+      "correct_answer": "cold",
+      "explanation_md": "Usamos 'cold' para describir el clima frío del invierno.",
+      "related_lexeme_ids": [
+        "cold_adj",
+        "winter"
+      ],
+      "related_chunk_ids": [
+        "weather_with_it_is"
+      ],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'It's ____ and sunny today.' (hace calor)",
+      "options": null,
+      "correct_answer": "hot",
+      "explanation_md": "Usamos 'hot' para describir un día caluroso.",
+      "related_lexeme_ids": [
+        "hot_adj",
+        "sun"
+      ],
+      "related_chunk_ids": [
+        "weather_with_it_is"
+      ],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Está lloviendo.'",
+      "options": null,
+      "correct_answer": "It's raining.",
+      "explanation_md": "Para expresar que está lloviendo usamos 'It's raining'.",
+      "related_lexeme_ids": [
+        "rain"
+      ],
+      "related_chunk_ids": [
+        "weather_with_it_is"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Hace sol y calor en verano.'",
+      "options": null,
+      "correct_answer": "It's sunny and hot in summer.",
+      "explanation_md": "Combinamos 'sunny' y 'hot' para describir el clima de verano.",
+      "related_lexeme_ids": [
+        "sun",
+        "hot_adj",
+        "summer"
+      ],
+      "related_chunk_ids": [
+        "weather_with_it_is"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "sun",
+        "sol",
+        "rain",
+        "lluvia",
+        "snow",
+        "nieve",
+        "weather",
+        "clima"
+      ],
+      "correct_answer": [
+        "sun=sol",
+        "rain=lluvia",
+        "snow=nieve",
+        "weather=clima"
+      ],
+      "explanation_md": "Estas son las palabras básicas del clima.",
+      "related_lexeme_ids": [
+        "sun",
+        "rain",
+        "snow",
+        "weather"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada adjetivo con su significado:",
+      "options": [
+        "hot",
+        "caliente",
+        "cold",
+        "frío",
+        "warm",
+        "templado",
+        "cool",
+        "fresco"
+      ],
+      "correct_answer": [
+        "hot=caliente",
+        "cold=frío",
+        "warm=templado",
+        "cool=fresco"
+      ],
+      "explanation_md": "Estos adjetivos describen la temperatura.",
+      "related_lexeme_ids": [
+        "hot_adj",
+        "cold_adj",
+        "warm_adj",
+        "cool_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'It's snowing in the mountains.'",
+      "options": null,
+      "correct_answer": "Está nevando en las montañas.",
+      "explanation_md": "La oración describe nieve cayendo en las montañas.",
+      "related_lexeme_ids": [
+        "snow"
+      ],
+      "related_chunk_ids": [
+        "weather_with_it_is"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'It's cold outside, wear a coat.'",
+      "options": null,
+      "correct_answer": "Hace frío afuera, usa un abrigo.",
+      "explanation_md": "La oración advierte sobre el frío y sugiere usar abrigo.",
+      "related_lexeme_ids": [
+        "cold_adj",
+        "coat"
+      ],
+      "related_chunk_ids": [
+        "weather_with_it_is"
+      ],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "weather",
+      "back": "clima / tiempo",
+      "hint": "se usa para hablar del clima",
+      "lexeme_id": "weather",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "sun",
+      "back": "sol",
+      "hint": "brilla en el cielo",
+      "lexeme_id": "sun",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "rain",
+      "back": "lluvia",
+      "hint": "cae del cielo",
+      "lexeme_id": "rain",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "snow",
+      "back": "nieve",
+      "hint": "es blanca y fría",
+      "lexeme_id": "snow",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "hot",
+      "back": "caliente",
+      "hint": "lo contrario de frío",
+      "lexeme_id": "hot_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "cold",
+      "back": "frío",
+      "hint": "lo contrario de caliente",
+      "lexeme_id": "cold_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "warm",
+      "back": "cálido / templado",
+      "hint": "ni frío ni caliente",
+      "lexeme_id": "warm_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "cool",
+      "back": "fresco",
+      "hint": "un poco frío",
+      "lexeme_id": "cool_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "summer",
+      "back": "verano",
+      "hint": "la estación más caliente",
+      "lexeme_id": "summer",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "winter",
+      "back": "invierno",
+      "hint": "la estación más fría",
+      "lexeme_id": "winter",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "weather"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "weather",
+      "reading": "",
+      "translation": "clima / tiempo",
+      "pos": "noun",
+      "example": "What's the weather like today?",
+      "example_translation": "¿Cómo está el clima hoy?",
+      "lexeme_id": "weather",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sun",
+      "reading": "",
+      "translation": "sol",
+      "pos": "noun",
+      "example": "It's sunny and hot in summer.",
+      "example_translation": "Hace sol y calor en verano.",
+      "lexeme_id": "sun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "rain",
+      "reading": "",
+      "translation": "lluvia",
+      "pos": "noun",
+      "example": "It's raining, so I stay home.",
+      "example_translation": "Está lloviendo, así que me quedo en casa.",
+      "lexeme_id": "rain",
+      "chunk_id": null
+    },
+    {
+      "target_word": "snow",
+      "reading": "",
+      "translation": "nieve",
+      "pos": "noun",
+      "example": "It's snowing in the mountains.",
+      "example_translation": "Está nevando en las montañas.",
+      "lexeme_id": "snow",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hot",
+      "reading": "",
+      "translation": "caliente",
+      "pos": "adjective",
+      "example": "What's the temperature? It's very hot.",
+      "example_translation": "¿Cuál es la temperatura? Hace mucho calor.",
+      "lexeme_id": "hot_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cold",
+      "reading": "",
+      "translation": "frío",
+      "pos": "adjective",
+      "example": "It's cold outside, wear a coat.",
+      "example_translation": "Hace frío afuera, usa un abrigo.",
+      "lexeme_id": "cold_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "warm",
+      "reading": "",
+      "translation": "cálido / templado",
+      "pos": "adjective",
+      "example": "It's warm in spring, I like it.",
+      "example_translation": "Hace templado en primavera, me gusta.",
+      "lexeme_id": "warm_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cool",
+      "reading": "",
+      "translation": "fresco",
+      "pos": "adjective",
+      "example": "It's cool in the evening, very nice.",
+      "example_translation": "Hace fresco en la tarde, muy agradable.",
+      "lexeme_id": "cool_adj",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Weather and seasons",
+      "title_target": "Quiz: Weather and seasons",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'weather'?",
+          "prompt_target": "What does 'weather' mean?",
+          "options": [
+            "clima",
+            "sol",
+            "lluvia",
+            "estación"
+          ],
+          "correct_answer": "clima",
+          "explanation_form": "'Weather' se refiere al clima o tiempo atmosférico en general.",
+          "explanation_target": "'Weather' refers to the climate or atmospheric conditions in general.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "weather"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____ is hot today.' (El sol está brillando)",
+          "prompt_target": "Complete the sentence: '____ is hot today.' (The sun is shining)",
+          "options": null,
+          "correct_answer": "It",
+          "explanation_form": "Usamos 'It' como sujeto para hablar del clima. La frase completa es 'It is hot today.'",
+          "explanation_target": "We use 'It' as the subject to talk about the weather. The full sentence is 'It is hot today.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sun",
+            "hot_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "It",
+            "is",
+            "cold",
+            "today"
+          ],
+          "correct_answer": "It is cold today",
+          "explanation_form": "La estructura correcta es: It + is + adjetivo + today. 'It is cold today' significa 'Hoy hace frío'.",
+          "explanation_target": "The correct structure is: It + is + adjective + today. 'It is cold today' means 'Hoy hace frío'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cold_adj",
+            "weather_with_it_is"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "rain",
+            "lluvia",
+            "snow",
+            "nieve",
+            "warm",
+            "templado"
+          ],
+          "correct_answer": [
+            "rain=lluvia",
+            "snow=nieve",
+            "warm=templado"
+          ],
+          "explanation_form": "Estas son palabras básicas del clima: rain (lluvia), snow (nieve) y warm (templado).",
+          "explanation_target": "These are basic weather words: rain (lluvia), snow (nieve) and warm (templado).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "rain",
+            "snow",
+            "warm_adj"
+          ],
+          "points": 15,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "translation_form_to_target",
+          "prompt_form": "¿Cómo se dice 'hace frío' en inglés?",
+          "prompt_target": "How do you say 'hace frío' in English?",
+          "options": null,
+          "correct_answer": "It is cold",
+          "explanation_form": "Para hablar del clima usamos 'It is' + adjetivo. 'It is cold' significa 'hace frío'.",
+          "explanation_target": "To talk about the weather we use 'It is' + adjective. 'It is cold' means 'hace frío'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "cold_adj",
+            "weather_with_it_is"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la palabra para 'verano'?",
+          "prompt_target": "Which word means 'verano'?",
+          "options": [
+            "winter",
+            "summer",
+            "spring",
+            "autumn"
+          ],
+          "correct_answer": "summer",
+          "explanation_form": "'Summer' es la estación del verano, cuando hace calor.",
+          "explanation_target": "'Summer' is the season of summer, when it is hot.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "summer"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: '____ is cool in the morning.' (El clima es fresco por la mañana)",
+          "prompt_target": "Complete: '____ is cool in the morning.' (The weather is fresh in the morning)",
+          "options": null,
+          "correct_answer": "It",
+          "explanation_form": "Usamos 'It' como sujeto para hablar del clima. La frase completa es 'It is cool in the morning.'",
+          "explanation_target": "We use 'It' as the subject to talk about the weather. The full sentence is 'It is cool in the morning.'",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "cool_adj",
+            "weather_with_it_is"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Qué significa 'It is raining'?",
+          "prompt_target": "What does 'It is raining' mean?",
+          "options": null,
+          "correct_answer": "Está lloviendo",
+          "explanation_form": "'It is raining' significa 'está lloviendo'. Usamos el verbo 'rain' en forma continua.",
+          "explanation_target": "'It is raining' means 'está lloviendo'. We use the verb 'rain' in continuous form.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "rain",
+            "weather_with_it_is"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué pregunta es correcta para saber el clima?",
+          "prompt_target": "Which question is correct to ask about the weather?",
+          "options": [
+            "What is the weather like?",
+            "What is the sun?",
+            "How is the rain?",
+            "Where is the weather?"
+          ],
+          "correct_answer": "What is the weather like?",
+          "explanation_form": "La pregunta correcta para saber el clima es 'What is the weather like?' que significa '¿Cómo está el clima?'.",
+          "explanation_target": "The correct question to ask about the weather is 'What is the weather like?' which means '¿Cómo está el clima?'.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "weather",
+            "wh_questions_about_weather"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta:",
+          "prompt_target": "Order the words to form a question:",
+          "options": [
+            "Is",
+            "it",
+            "snowing",
+            "?"
+          ],
+          "correct_answer": "Is it snowing?",
+          "explanation_form": "Para preguntar si está nevando, invertimos el orden: Is + it + snowing? La respuesta sería 'Yes, it is' o 'No, it isn't'.",
+          "explanation_target": "To ask if it is snowing, we invert the order: Is + it + snowing? The answer would be 'Yes, it is' or 'No, it isn't'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "snow",
+            "weather_with_it_is"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'The ____ is hot in summer.' (El sol está caliente en verano)",
+          "prompt_target": "Complete: 'The ____ is hot in summer.' (The sun is hot in summer)",
+          "options": null,
+          "correct_answer": "It",
+          "explanation_form": "Usamos 'It' para referirnos al clima. La frase completa es 'It is hot in summer.'",
+          "explanation_target": "We use 'It' to refer to the weather. The full sentence is 'It is hot in summer.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sun",
+            "hot_adj",
+            "summer"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "matching",
+          "prompt_form": "Empareja cada adjetivo con su opuesto:",
+          "prompt_target": "Match each adjective with its opposite:",
+          "options": [
+            "hot",
+            "frío",
+            "cold",
+            "caliente",
+            "warm",
+            "fresco"
+          ],
+          "correct_answer": [
+            "hot=caliente",
+            "cold=frío",
+            "warm=templado"
+          ],
+          "explanation_form": "Estos son adjetivos para describir la temperatura: hot (caliente), cold (frío) y warm (templado).",
+          "explanation_target": "These are adjectives to describe temperature: hot (caliente), cold (frío) and warm (templado).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hot_adj",
+            "cold_adj",
+            "warm_adj"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El clima con \"It is\"\n\nEn ingles, para hablar del clima casi siempre usamos la estructura **It is + adjetivo**. El pronombre **it** no se traduce como \"ello\" o \"eso\"; simplemente es una forma fija que significa \"el clima está\". Por eso decimos **It is hot** (hace calor), **It is cold** (hace frío), **It is sunny** (hace sol) o **It is rainy** (está lloviendo).\n\n**¡Ojo, hispanohablante!** En español usamos verbos como \"hacer\" o \"estar\", pero en inglés no necesitas ningún verbo extra. No digas *The weather is hot* (aunque no es un error grave, suena poco natural). Lo natural es **It is hot**. Piensa en **it** como un comodín que siempre acompaña al clima.\n\n## Preguntas sobre el clima\n\nPara preguntar por el clima, usa **What** + el verbo **to be**. La formula es: **What is it like?** (¿Cómo está el clima?). Tambien puedes preguntar **Is it cold today?** (¿Hace frío hoy?) o **Is it sunny in the morning?** (¿Hace sol por la mañana?).\n\nRecuerda que en las preguntas, el verbo **is** va antes del sujeto. Observa: **It is warm** → **Is it warm?** (¿Hace calorcito?). Esta inversión es clave y la verás mucho en inglés. Practica con las estaciones: **Is it cold in winter?** (¿Hace frío en invierno?).\n\n## Las estaciones del año\n\nLas cuatro estaciones en inglés son: **spring** (primavera), **summer** (verano), **autumn** (otoño) y **winter** (invierno). Para decir \"en primavera\" o \"en verano\", usa la preposición **in**: **in spring**, **in summer**, **in autumn**, **in winter**.\n\nUn tip: en inglés británico se dice **autumn**, pero en inglés americano también escucharás **fall**. Ambas son correctas. Para un hispanohablante, **autumn** es más fácil de recordar porque se parece a \"otoño\" en su raíz latina.\n\n## Adjetivos de temperatura: matices\n\nTenemos cuatro adjetivos clave para la temperatura: **hot** (caliente/mucho calor), **warm** (templado/calorcito), **cool** (fresco) y **cold** (frío). La diferencia entre **hot** y **warm** es importante: **hot** es incómodo, **warm** es agradable. Igual con **cool** y **cold**: **cool** es agradable, **cold** es incómodo.\n\nPiensa en una bebida: **hot coffee** (café caliente) vs. **warm coffee** (café tibio). O en el clima: **It is cool in the evening** (hace fresco por la tarde) vs. **It is cold at night** (hace frío por la noche). Estos matices hacen tu inglés mucho más preciso.\n\n## Errores comunes y trucos\n\n**Error 1:** Decir *The sun is hot* para referirte al clima. Mejor: **It is sunny** (hace sol). **Error 2:** Confundir **weather** (clima) con **whether** (si). Se pronuncian igual, pero se escriben distinto. **Error 3:** Olvidar el **it** en frases como *Is cold* → **It is cold**.\n\n**Truco mnemotécnico:** Asocia cada estación con un adjetivo: **summer = hot**, **winter = cold**, **spring = warm**, **autumn = cool**. Así nunca olvidarás qué adjetivo usar. Y recuerda: en inglés, el clima siempre habla por sí solo con **it**.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:24:03Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

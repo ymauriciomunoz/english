@@ -1,0 +1,1203 @@
+{
+  "id": "lesson_031",
+  "position": 32,
+  "unit_id": 6,
+  "course_id": "en.A1",
+  "title_form": "Animals and pets",
+  "title_target": "Animales y mascotas",
+  "theme_focus": "Animals and pets",
+  "learning_objectives": [
+    "Can name common animals and talk about pets using have got."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_002",
+    "lesson_003"
+  ],
+  "grammar_focus": [
+    "have_got_review_with_animals (I've got a cat, Have you got a pet?)",
+    "plural_review_with_animals (one cat / two cats, one fish / two fish, one sheep / two sheep)",
+    "articles_with_animals (a dog, an elephant — a/an con sonido vocálico)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "back",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "better_adj",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "body",
+        "book",
+        "bored_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "can_modal",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "close_verb",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "colour",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "drive_verb",
+        "early_adj_2",
+        "eat_verb",
+        "enjoy_verb",
+        "evening",
+        "exam",
+        "excited_adj",
+        "excuse_me_interj",
+        "expensive_adj",
+        "eye",
+        "face",
+        "family",
+        "father",
+        "favourite_2",
+        "favourite_adj",
+        "feel_verb",
+        "feet",
+        "film",
+        "fine_adj",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "foot",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "going_to_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "great_adj",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hand",
+        "happy_adj",
+        "hat",
+        "hate_verb",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "head",
+        "hello_interj",
+        "help_verb",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "hungry_adj",
+        "hurt_verb",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "like_verb",
+        "listen_to_music_phrase",
+        "live_verb",
+        "look_verb",
+        "love_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "need_verb",
+        "never_adv",
+        "next_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "open_verb",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "run_verb",
+        "running",
+        "sad_adj",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "sick_adj",
+        "single_adj_2",
+        "sister",
+        "sit_verb",
+        "six_num",
+        "skirt",
+        "sleep_verb",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "stand_verb",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "teeth_2",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "that_det_pron",
+        "the_det",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "these_det_pron",
+        "they_pronoun",
+        "thirsty_adj",
+        "this_det_pron",
+        "those_det_pron",
+        "three_num",
+        "ticket",
+        "time",
+        "tired_adj",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tooth",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "use_verb",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "wait_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "want_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "well_adv",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "wonderful_adj",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante de 22 años de México, está en una cafetería en Londres tomando un té. Al lado, un chico llamado James saca fotos de su perro y se lo muestra a la mesera. Sofía, que se siente un poco tímida, ve la oportunidad de practicar inglés y le pregunta: 'Is that your dog?' James sonríe y le cuenta que tiene dos perros y un gato. Sofía respira hondo y le dice que ella tiene un gato en México. Al final, intercambian fotos de sus mascotas y Sofía se siente más segura hablando en inglés.",
+  "introduction_md": "¿Tienes una mascota en casa? Piensa en tu perro, tu gato o ese pez que nada en la pecera. En esta lección vas a aprender a nombrar a los animales más comunes y a hablar de tus mascotas con la estructura 'have got'. Ya sabes usar 'have got' para hablar de tu familia y tus cosas; ahora lo aplicarás al mundo animal. Imagina que un amigo te pregunta: 'Have you got a pet?' y tú quieres responder con naturalidad. Al final de la lección podrás describir qué animales tienes, cuántos son y de qué color son, usando el plural y los artículos correctamente. Es un paso sencillo pero muy útil para conversaciones cotidianas. ¡Vamos a practicar con ejemplos reales y ejercicios divertidos para que te sientas seguro hablando de tus animales favoritos!",
+  "intro_target": "Do you have a pet at home? Think about your dog, your cat, or that fish swimming in the tank. In this lesson, you will learn to name the most common animals and talk about your pets using 'have got'. You already know how to use 'have got' to talk about your family and your things; now you will apply it to the animal world. Imagine a friend asks you: 'Have you got a pet?' and you want to answer naturally. By the end of the lesson, you will be able to describe which animals you have, how many there are, and what color they are, using plurals and articles correctly. It is a simple but very useful step for everyday conversations. Let's practice with real examples and fun exercises so you feel confident talking about your favorite animals!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I've got a cat and a dog.",
+      "translation_form": "Tengo un gato y un perro.",
+      "highlight_words": [
+        "cat",
+        "dog"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Have you got a pet? Yes, I have two fish.",
+      "translation_form": "¿Tienes una mascota? Sí, tengo dos peces.",
+      "highlight_words": [
+        "pet",
+        "fish"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Has my sister got an elephant? No, she has got a cat.",
+      "translation_form": "¿Mi hermana tiene un elefante? No, ella tiene un gato.",
+      "highlight_words": [
+        "elephant",
+        "cat"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have one sheep and two fish.",
+      "translation_form": "Tengo una oveja y dos peces.",
+      "highlight_words": [
+        "sheep",
+        "fish"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We have got three cats and one dog.",
+      "translation_form": "Tenemos tres gatos y un perro.",
+      "highlight_words": [
+        "cats",
+        "dog"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Have you got a pet? Yes, I have a dog.",
+      "translation_form": "¿Tienes una mascota? Sí, tengo un perro.",
+      "highlight_words": [
+        "pet",
+        "dog"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "have_got_review_with_animals",
+      "title_form": "Have got con animales",
+      "title_target": "Have got with animals",
+      "description_md_form": "Usamos **have got** para hablar de lo que tenemos, como nuestras mascotas. Es muy común en inglés británico y en conversaciones diarias.\n\nLa estructura es: **sujeto + have/has got + animal**.\n\n- Con **I, you, we, they** usamos **have got**.\n- Con **he, she, it** usamos **has got**.\n\nEjemplos:\n- `I have got a cat.` (Tengo un gato.)\n- `She has got a dog.` (Ella tiene un perro.)\n\nPara preguntar, ponemos **have/has** al principio: `Have you got a pet?` (¿Tienes una mascota?).\n\nPara responder corto, decimos: `Yes, I have.` o `No, I haven't.`",
+      "description_md_target": "We use **have got** to talk about what we have, like our pets. It is very common in British English and in daily conversations.\n\nThe structure is: **subject + have/has got + animal**.\n\n- With **I, you, we, they** we use **have got**.\n- With **he, she, it** we use **has got**.\n\nExamples:\n- `I have got a cat.` (I have a cat.)\n- `She has got a dog.` (She has a dog.)\n\nTo ask, we put **have/has** at the beginning: `Have you got a pet?` (Do you have a pet?).\n\nFor short answers, we say: `Yes, I have.` or `No, I haven't.`",
+      "grammar_structure": "Subject + have/has got + (a/an) + animal",
+      "conjugation_table": {
+        "name": "have_got_present",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "has got",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "have got",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "have_got_review_with_animals",
+          "text_target": "I have got a cat and a dog.",
+          "translation_form": "Tengo un gato y un perro.",
+          "highlight_words": [
+            "have",
+            "got",
+            "cat",
+            "dog"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "have_got_review_with_animals",
+          "text_target": "Have you got a pet? Yes, I have two fish.",
+          "translation_form": "¿Tienes una mascota? Sí, tengo dos peces.",
+          "highlight_words": [
+            "have",
+            "got",
+            "pet",
+            "fish"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: con **he, she, it** usamos **has got**, no *have got*. Por ejemplo: `She has got a cat.`"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado**: no digas *I have got a cat and a dog* con *have* y *got* separados por otras palabras. Siempre van juntos: **have got**."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I has got* en lugar de *I have got*. Con I siempre usamos have.",
+        "Olvidar el artículo: *I have got cat* en lugar de *I have got a cat*.",
+        "Usar *have* en lugar de *has* con he/she/it: *She have got* en lugar de *She has got*."
+      ]
+    },
+    {
+      "slug": "plural_review_with_animals",
+      "title_form": "El plural con animales",
+      "title_target": "Plural with animals",
+      "description_md_form": "En inglés, el plural de la mayoría de los animales se forma agregando **-s** al final: *cat* → *cats*, *dog* → *dogs*. Pero hay animales con plurales **irregulares** que debes memorizar. Por ejemplo, *sheep* (oveja) es igual en singular y plural: *one sheep*, *two sheep*. Lo mismo pasa con *fish* (pez): *one fish*, *two fish*. Cuando hablamos de mascotas, usamos números para decir cuántas tenemos: *I have two cats*. Recuerda que el verbo **have got** también cambia con el plural: *I have got three cats*. Practica con animales comunes y sus plurales para hablar de tus mascotas con naturalidad.",
+      "description_md_target": "In English, the plural of most animals is formed by adding **-s** at the end: *cat* → *cats*, *dog* → *dogs*. But there are animals with **irregular** plurals that you must memorize. For example, *sheep* is the same in singular and plural: *one sheep*, *two sheep*. The same happens with *fish*: *one fish*, *two fish*. When we talk about pets, we use numbers to say how many we have: *I have two cats*. Remember that the verb **have got** also changes with the plural: *I have got three cats*. Practice with common animals and their plurals to talk about your pets naturally.",
+      "grammar_structure": "Number + animal (singular/plural)",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "plural_review_with_animals",
+          "text_target": "I have one sheep and two fish.",
+          "translation_form": "Tengo una oveja y dos peces.",
+          "highlight_words": [
+            "sheep",
+            "fish"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "plural_review_with_animals",
+          "text_target": "We have got three cats and one dog.",
+          "translation_form": "Tenemos tres gatos y un perro.",
+          "highlight_words": [
+            "cats",
+            "dog"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: *sheep* y *fish* no cambian en plural. No digas *sheeps* ni *fishes* cuando hablas de varios peces de la misma especie."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: En español decimos *un pez, dos peces*, pero en inglés *fish* es igual: *one fish, two fish*. No agregues *-es*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *sheeps* en lugar de *sheep* para el plural de oveja.",
+        "Decir *fishes* cuando hablamos de varios peces de la misma especie; lo correcto es *fish*.",
+        "Olvidar que *fish* y *sheep* son invariables y agregar *-s* automáticamente."
+      ]
+    },
+    {
+      "slug": "articles_with_animals",
+      "title_form": "Articulos con animales",
+      "title_target": "Articles with animals",
+      "description_md_form": "En ingles, cuando hablamos de **un** animal en singular, usamos el articulo **a** (o **an** antes de vocal). Por ejemplo: *I have **a** cat* (Tengo un gato) o *She has **an** elephant* (Ella tiene un elefante).\n\nCon **have got**, el articulo va **despues de 'got'**, no antes. Observa: *I have got **a** dog* (Tengo un perro). No decimos *I have a got dog*.\n\nPara hablar de **varios** animales, usamos el plural sin articulo: *I have two cats* (Tengo dos gatos). El articulo **a/an** solo se usa con singular.\n\nRecuerda: **a** para consonantes y **an** para vocales (a, e, i, o, u).",
+      "description_md_target": "In English, when we talk about **one** animal in singular, we use the article **a** (or **an** before a vowel). For example: *I have **a** cat* or *She has **an** elephant*.\n\nWith **have got**, the article goes **after 'got'**, not before. Look: *I have got **a** dog*. We don't say *I have a got dog*.\n\nTo talk about **several** animals, we use the plural without an article: *I have two cats*. The article **a/an** is only used with singular.\n\nRemember: **a** for consonants and **an** for vowels (a, e, i, o, u).",
+      "grammar_structure": "Subject + have/has got + a/an + animal (singular)",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "have_got_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I have got a cat and a dog.",
+          "translation_form": "Tengo un gato y un perro.",
+          "highlight_words": [
+            "a",
+            "cat",
+            "dog"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "she_pronoun",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She has got an elephant.",
+          "translation_form": "Ella tiene un elefante.",
+          "highlight_words": [
+            "an",
+            "elephant"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip**: Usa **an** solo cuando la palabra empieza con vocal: *an elephant*, *an apple*. Con consonantes usa **a**: *a cat*, *a dog*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error comun**: No digas *I have a got cat*. El articulo va despues de **got**: *I have got a cat*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I have a got cat' en lugar de 'I have got a cat'.",
+        "Usar 'a' con vocales: 'a elephant' en vez de 'an elephant'.",
+        "Olvidar el articulo: 'I have cat' en vez de 'I have a cat'.",
+        "Usar articulo con plural: 'a cats' en vez de 'cats'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'cat'?",
+      "options": [
+        "perro",
+        "gato",
+        "pájaro",
+        "pez"
+      ],
+      "correct_answer": "gato",
+      "explanation_md": "'Cat' significa 'gato' en español.",
+      "related_lexeme_ids": [
+        "cat"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'dog'?",
+      "options": [
+        "gato",
+        "conejo",
+        "perro",
+        "caballo"
+      ],
+      "correct_answer": "perro",
+      "explanation_md": "'Dog' significa 'perro' en español.",
+      "related_lexeme_ids": [
+        "dog"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'fish'?",
+      "options": [
+        "pez",
+        "pájaro",
+        "gato",
+        "perro"
+      ],
+      "correct_answer": "pez",
+      "explanation_md": "'Fish' significa 'pez' en español.",
+      "related_lexeme_ids": [
+        "fish"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa: 'I've got ___ cat.' (Tengo un gato.)",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "two"
+      ],
+      "correct_answer": "a",
+      "explanation_md": "Usamos 'a' antes de consonantes. 'Cat' empieza con consonante, así que decimos 'a cat'.",
+      "related_lexeme_ids": [
+        "a_det",
+        "cat"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es el plural correcto de 'fish'?",
+      "options": [
+        "fishs",
+        "fishes",
+        "fish",
+        "fishen"
+      ],
+      "correct_answer": "fish",
+      "explanation_md": "'Fish' es igual en singular y plural. Decimos 'one fish' y 'two fish'.",
+      "related_lexeme_ids": [
+        "fish"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué oración es correcta?",
+      "options": [
+        "She has got a dog.",
+        "She have got a dog.",
+        "She has got dog.",
+        "She has a dogs."
+      ],
+      "correct_answer": "She has got a dog.",
+      "explanation_md": "Con 'she' usamos 'has got'. Además, necesitamos el artículo 'a' antes de 'dog'.",
+      "related_lexeme_ids": [
+        "she_pronoun",
+        "have_got_verb",
+        "dog"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'have' o 'has': 'I ___ got a cat.'",
+      "options": null,
+      "correct_answer": "have",
+      "explanation_md": "Con 'I' usamos 'have got'.",
+      "related_lexeme_ids": [
+        "i_pronoun",
+        "have_got_verb",
+        "cat"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'a' o 'an': 'She has got ___ elephant.'",
+      "options": null,
+      "correct_answer": "an",
+      "explanation_md": "Usamos 'an' antes de vocales. 'Elephant' empieza con vocal, así que decimos 'an elephant'.",
+      "related_lexeme_ids": [
+        "elephant"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con el plural: 'I have two ___ (cat).'",
+      "options": null,
+      "correct_answer": "cats",
+      "explanation_md": "Para formar el plural de 'cat', agregamos 's': 'cats'.",
+      "related_lexeme_ids": [
+        "cat"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Tengo un perro.'",
+      "options": null,
+      "correct_answer": "I've got a dog.",
+      "explanation_md": "Para decir 'tengo' usamos 'I've got'. No olvides el artículo 'a' antes de 'dog'.",
+      "related_lexeme_ids": [
+        "i_pronoun",
+        "have_got_verb",
+        "dog"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Mi hermana tiene dos peces.'",
+      "options": null,
+      "correct_answer": "My sister has got two fish.",
+      "explanation_md": "Con 'my sister' usamos 'has got'. Recuerda que 'fish' no cambia en plural.",
+      "related_lexeme_ids": [
+        "my_det",
+        "sister",
+        "have_got_verb",
+        "fish"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'We have got three cats.'",
+      "options": null,
+      "correct_answer": "Tenemos tres gatos.",
+      "explanation_md": "'We have got' significa 'tenemos'. 'Three cats' es 'tres gatos'.",
+      "related_lexeme_ids": [
+        "we_pronoun",
+        "have_got_verb",
+        "three_num",
+        "cat"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "have got",
+      "back": "tener",
+      "hint": "se usa para expresar posesión",
+      "lexeme_id": "have_got_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "animals"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "a dog",
+      "back": "un perro",
+      "hint": "artículo indefinido + animal",
+      "lexeme_id": "a_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "animals"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "two cats",
+      "back": "dos gatos",
+      "hint": "plural con número",
+      "lexeme_id": "two_num",
+      "chunk_id": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "animals"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "the dog",
+      "back": "el perro",
+      "hint": "artículo definido",
+      "lexeme_id": "the_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "animals"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Animals and pets",
+      "title_target": "Quiz: Animals and pets",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "I",
+            "have",
+            "got",
+            "a",
+            "cat"
+          ],
+          "correct_answer": "I have got a cat",
+          "explanation_form": "En inglés, la estructura es: sujeto + have got + artículo + animal. 'I have got a cat' significa 'Tengo un gato'.",
+          "explanation_target": "In English, the structure is: subject + have got + article + animal. 'I have got a cat' means 'I have a cat'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_review_with_animals",
+            "cat",
+            "a_det",
+            "i_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "She",
+            "has",
+            "got",
+            "a",
+            "dog"
+          ],
+          "correct_answer": "She has got a dog",
+          "explanation_form": "Con 'she' (ella), usamos 'has got'. La estructura es: sujeto + has got + artículo + animal.",
+          "explanation_target": "With 'she', we use 'has got'. The structure is: subject + has got + article + animal.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_review_with_animals",
+            "dog",
+            "a_det",
+            "she_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'My sister ____ got a fish.' (tiene)",
+          "prompt_target": "Complete the sentence: 'My sister ____ got a fish.' (has)",
+          "options": null,
+          "correct_answer": "has",
+          "explanation_form": "Con 'my sister' (mi hermana), que es tercera persona singular, usamos 'has got'. La forma correcta es 'My sister has got a fish.'",
+          "explanation_target": "With 'my sister', which is third person singular, we use 'has got'. The correct form is 'My sister has got a fish.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_review_with_animals",
+            "fish",
+            "sister",
+            "my_det"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'I ____ got an elephant.' (tengo)",
+          "prompt_target": "Complete the sentence: 'I ____ got an elephant.' (have)",
+          "options": null,
+          "correct_answer": "have",
+          "explanation_form": "Con 'I' (yo), usamos 'have got'. La forma correcta es 'I have got an elephant.'",
+          "explanation_target": "With 'I', we use 'have got'. The correct form is 'I have got an elephant.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_review_with_animals",
+            "elephant",
+            "i_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta?",
+          "prompt_target": "Which is the correct form?",
+          "options": [
+            "She have got a dog",
+            "She has got a dog",
+            "She has a dog got",
+            "She got has a dog"
+          ],
+          "correct_answer": "She has got a dog",
+          "explanation_form": "Con 'she' (ella), usamos 'has got'. El orden correcto es: sujeto + has got + artículo + animal.",
+          "explanation_target": "With 'she', we use 'has got'. The correct order is: subject + has got + article + animal.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "have_got_review_with_animals",
+            "dog",
+            "she_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta?",
+          "prompt_target": "Which is the correct form?",
+          "options": [
+            "I has got a cat",
+            "I have got a cat",
+            "I got have a cat",
+            "I a cat have got"
+          ],
+          "correct_answer": "I have got a cat",
+          "explanation_form": "Con 'I' (yo), usamos 'have got'. El orden correcto es: sujeto + have got + artículo + animal.",
+          "explanation_target": "With 'I', we use 'have got'. The correct order is: subject + have got + article + animal.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "have_got_review_with_animals",
+            "cat",
+            "i_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice 'Mi hermana tiene un pez' en inglés?",
+          "prompt_target": "How do you say 'My sister has a fish' in English?",
+          "options": null,
+          "correct_answer": "My sister has got a fish",
+          "explanation_form": "La traducción correcta es 'My sister has got a fish'. Recordá que con 'my sister' usamos 'has got'.",
+          "explanation_target": "The correct translation is 'My sister has got a fish'. Remember that with 'my sister' we use 'has got'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_review_with_animals",
+            "fish",
+            "sister",
+            "my_det"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice 'Tengo un perro' en inglés?",
+          "prompt_target": "How do you say 'I have a dog' in English?",
+          "options": null,
+          "correct_answer": "I have got a dog",
+          "explanation_form": "La traducción correcta es 'I have got a dog'. Con 'I' usamos 'have got'.",
+          "explanation_target": "The correct translation is 'I have got a dog'. With 'I' we use 'have got'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_review_with_animals",
+            "dog",
+            "i_pronoun"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja cada animal con su traducción:",
+          "prompt_target": "Match each animal with its translation:",
+          "options": [
+            "cat",
+            "gato",
+            "dog",
+            "perro",
+            "fish",
+            "pez",
+            "elephant",
+            "elefante"
+          ],
+          "correct_answer": [
+            "cat=gato",
+            "dog=perro",
+            "fish=pez",
+            "elephant=elefante"
+          ],
+          "explanation_form": "Estos son los animales que aprendimos en esta lección: cat (gato), dog (perro), fish (pez) y elephant (elefante).",
+          "explanation_target": "These are the animals we learned in this lesson: cat, dog, fish and elephant.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "cat",
+            "dog",
+            "fish",
+            "elephant"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el plural correcto de 'cat'?",
+          "prompt_target": "What is the correct plural of 'cat'?",
+          "options": [
+            "cats",
+            "cates",
+            "caties",
+            "cat"
+          ],
+          "correct_answer": "cats",
+          "explanation_form": "El plural de 'cat' es 'cats'. En inglés, generalmente agregamos '-s' al final para formar el plural.",
+          "explanation_target": "The plural of 'cat' is 'cats'. In English, we usually add '-s' at the end to form the plural.",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "plural_review_with_animals",
+            "cat"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el plural correcto de 'fish'?",
+          "prompt_target": "What is the correct plural of 'fish'?",
+          "options": [
+            "fishs",
+            "fishes",
+            "fish",
+            "fishez"
+          ],
+          "correct_answer": "fish",
+          "explanation_form": "El plural de 'fish' es 'fish'. Es una palabra que no cambia en plural, como 'sheep' (oveja).",
+          "explanation_target": "The plural of 'fish' is 'fish'. It is a word that does not change in the plural, like 'sheep'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "plural_review_with_animals",
+            "fish"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el artículo correcto: 'I have got ____ elephant.'",
+          "prompt_target": "Complete with the correct article: 'I have got ____ elephant.'",
+          "options": null,
+          "correct_answer": "an",
+          "explanation_form": "Usamos 'an' antes de palabras que empiezan con vocal. 'Elephant' empieza con 'e', entonces decimos 'an elephant'.",
+          "explanation_target": "We use 'an' before words that start with a vowel. 'Elephant' starts with 'e', so we say 'an elephant'.",
+          "references_exercise_id": "ex_005",
+          "references_lesson_topics": [
+            "articles_with_animals",
+            "elephant"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Los animales y el verbo have got\n\nEn esta lección vas a aprender a hablar de tus mascotas y de los animales que te rodean. Para decir que tienes una mascota, usamos **have got**. Fíjate en la diferencia: en español decimos \"yo tengo un perro\", pero en inglés la estructura es \"I have got a dog\". Es como decir \"yo he conseguido un perro\". No olvides que con **he**, **she** e **it**, el verbo cambia a **has got**: \"She has got a cat\".\n\n## El plural de los animales\n\nCuando hablamos de varios animales, añadimos una **-s** al final: *one dog, two dogs*. Pero hay excepciones que debes memorizar. Por ejemplo, **fish** es igual en singular y en plural: *one fish, three fish*. También tenemos **sheep** (oveja/ovejas) que no cambia. Para preguntar cuántos animales hay, usamos **How many...?** seguido del animal en plural: \"How many cats have you got?\"\n\n## Los artículos: a, an y the\n\nEn inglés, cuando mencionamos un animal por primera vez, usamos **a** (o **an** si la palabra empieza con vocal): *a dog, an elephant*. Cuando ya lo hemos mencionado o es conocido, usamos **the**: \"I have got a dog. The dog is black.\" Un error común es olvidar el artículo, pero en inglés es obligatorio: no puedes decir \"I have got dog\". Siempre necesitas **a**, **an** o **the**.\n\n## Errores comunes de los hispanohablantes\n\nEl error más frecuente es traducir literalmente \"yo tengo\" como \"I have\" y olvidar el **got**. Aunque \"I have a dog\" también es correcto, en esta lección practicamos **have got** porque es muy común en conversación. Otro error es decir \"I have a dog black\" en lugar de \"I have a black dog\". En inglés, el adjetivo de color va **antes** del sustantivo. Recuerda también que los animales tienen género neutro: decimos **it** para un perro o un gato, no he o she, a menos que sepamos el sexo.\n\n## Consejos para practicar\n\nCuando veas un animal en la calle o en un video, intenta decir en voz alta: \"It has got four legs\" o \"It is a small dog\". También puedes describir tu mascota o la de un amigo: \"My friend has got a big cat\". Practica las preguntas y respuestas cortas: \"Have you got a pet? Yes, I have.\" / \"No, I haven't.\" Esta estructura es muy útil y la usarás mucho. ¡No tengas miedo de equivocarte y habla de animales siempre que puedas!",
+  "metadata": {
+    "generated_at": "2026-08-11T18:24:12Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

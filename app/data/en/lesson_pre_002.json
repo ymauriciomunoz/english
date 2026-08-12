@@ -1,0 +1,915 @@
+{
+  "id": "lesson_pre_002",
+  "position": 1,
+  "unit_id": 1,
+  "course_id": "en.A1",
+  "title_form": "Numbers from 11 to 100",
+  "title_target": "Números del 11 al 100",
+  "theme_focus": "Numbers from 11 to 100",
+  "learning_objectives": [
+    "Can count from 11 to 100 and understand how compound numbers are formed."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_pre_001"
+  ],
+  "grammar_focus": [
+    "compound_numbers_11_to_19 (eleven, twelve, thirteen...nineteen — spelling irregular, single words)",
+    "tens_20_to_90 (twenty, thirty, forty (no u), fifty, sixty, seventy, eighty, ninety)",
+    "compound_numbers_21_to_99 (twenty-one, thirty-five, ninety-nine — hyphenated)",
+    "hundred (one hundred, two hundred, a hundred)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "excuse_me_interj",
+        "five_num",
+        "four_num",
+        "no_interj",
+        "ok_interj",
+        "one_num",
+        "please_interj",
+        "six_num",
+        "sorry_interj",
+        "thank_you_interj",
+        "thanks_interj",
+        "three_num",
+        "two_num",
+        "yes_interj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Diego, un estudiante colombiano de 25 años, llega a su clase de inglés en una academia de Madrid y descubre que hoy practicarán números. Su profesora, Laura, le pide que cuente cuántos estudiantes hay en el aula y que diga su edad. Diego se pone nervioso porque solo sabe contar hasta 10, pero Laura le sonríe y le enseña el truco de las decenas. Al final de la clase, Diego cuenta hasta 100 sin equivocarse y se siente orgulloso de su progreso.",
+  "introduction_md": "¿Sabes cuántos años tienes en inglés? Si ya dominas los números del 1 al 10, hoy vas a dar el salto para contar hasta 100. Imagina que estás en un mercado en Londres y quieres comprar 25 manzanas, o que alguien te pregunta tu edad y quieres responder con seguridad. En esta lección vas a descubrir el patrón mágico que siguen los números en inglés: una vez que aprendes las decenas (twenty, thirty, forty...), formar cualquier número del 21 al 99 es tan fácil como unir dos piezas de un rompecabezas. También verás cómo se forman los números del 11 al 19, que tienen sus propias reglas, y cómo decir 100. Al final, podrás decir tu edad, contar objetos y entender precios sin dudar. Es más sencillo de lo que piensas, y con unos pocos trucos lo tendrás dominado en minutos.",
+  "intro_target": "Do you know how old you are in English? If you already know the numbers from 1 to 10, today you will take the leap to count up to 100. Imagine you are at a market in London and you want to buy 25 apples, or someone asks you your age and you want to answer with confidence. In this lesson you will discover the magic pattern that numbers follow in English: once you learn the tens (twenty, thirty, forty...), forming any number from 21 to 99 is as easy as joining two pieces of a puzzle. You will also see how the numbers from 11 to 19 are formed, which have their own rules, and how to say 100. At the end, you will be able to say your age, count objects, and understand prices without hesitating. It is easier than you think, and with a few tricks you will have it mastered in minutes.",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have eleven books.",
+      "translation_form": "Tengo once libros.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is fifteen years old.",
+      "translation_form": "Ella tiene quince años.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There are nineteen students.",
+      "translation_form": "Hay diecinueve estudiantes.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Twenty people are here.",
+      "translation_form": "Veinte personas están aquí.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Thirty days have September.",
+      "translation_form": "Treinta días tiene septiembre.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Forty chairs are in the room.",
+      "translation_form": "Cuarenta sillas están en la sala.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Fifty dollars is a lot.",
+      "translation_form": "Cincuenta dólares es mucho.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Sixty minutes make an hour.",
+      "translation_form": "Sesenta minutos hacen una hora.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Seventy years is a long time.",
+      "translation_form": "Setenta años es mucho tiempo.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Eighty students passed the test.",
+      "translation_form": "Ochenta estudiantes aprobaron el examen.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Ninety people came to the party.",
+      "translation_form": "Noventa personas vinieron a la fiesta.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_012",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Twenty-one is my lucky number.",
+      "translation_form": "Veintiuno es mi número de la suerte.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_013",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Thirty-five students are in class.",
+      "translation_form": "Treinta y cinco estudiantes están en clase.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_014",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Ninety-nine is a big number.",
+      "translation_form": "Noventa y nueve es un número grande.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_015",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "One hundred is a round number.",
+      "translation_form": "Cien es un número redondo.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_016",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Two hundred people live here.",
+      "translation_form": "Doscientas personas viven aquí.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_017",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "A hundred years is a century.",
+      "translation_form": "Cien años es un siglo.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "compound_numbers_11_to_19",
+      "title_form": "Números compuestos del 11 al 19",
+      "title_target": "Compound numbers from 11 to 19",
+      "description_md_form": "Los números del **11 al 19** son especiales porque no siguen una regla fija. En español decimos *once, doce, trece*... pero en inglés cada número tiene su propia palabra: **eleven** (11), **twelve** (12), **thirteen** (13), **fourteen** (14), **fifteen** (15), **sixteen** (16), **seventeen** (17), **eighteen** (18) y **nineteen** (19).\n\nLa buena noticia: del **13 al 19**, la mayoría termina en **-teen** (thirteen, fourteen, sixteen...). Solo **eleven** y **twelve** son completamente diferentes. ¡Memorízalos bien!\n\nEstos números se usan para contar cosas: *I have eleven books* (Tengo once libros). No necesitas conjugar nada especial: solo pon el número antes del sustantivo.",
+      "description_md_target": "The numbers from **11 to 19** are special because they don't follow a fixed rule. In English, each number has its own word: **eleven** (11), **twelve** (12), **thirteen** (13), **fourteen** (14), **fifteen** (15), **sixteen** (16), **seventeen** (17), **eighteen** (18) and **nineteen** (19).\n\nThe good news: from **13 to 19**, most end in **-teen** (thirteen, fourteen, sixteen...). Only **eleven** and **twelve** are completely different. Memorize them well!\n\nThese numbers are used to count things: *I have eleven books*. You don't need to conjugate anything special: just put the number before the noun.",
+      "grammar_structure": "Number (11-19) + noun",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "compound_numbers_11_to_19",
+          "text_target": "I have eleven books.",
+          "translation_form": "Tengo once libros.",
+          "highlight_words": [
+            "eleven"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "compound_numbers_11_to_19",
+          "text_target": "She is fifteen years old.",
+          "translation_form": "Ella tiene quince años.",
+          "highlight_words": [
+            "fifteen"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Truco**: del 13 al 19, casi todos terminan en **-teen**. Piensa en *thir-teen*, *four-teen*, *six-teen*... ¡Solo **eleven** y **twelve** son diferentes!"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado**: no digas *ten-three* para 13. En inglés, 13 es **thirteen**, una sola palabra. No combines números como en español."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *ten-three* en lugar de *thirteen* (13). Los números del 11 al 19 son palabras únicas, no combinaciones.",
+        "Confundir *thirteen* (13) con *thirty* (30). El primero termina en -teen, el segundo en -ty.",
+        "Olvidar que *eleven* (11) y *twelve* (12) no siguen ninguna regla: hay que memorizarlos.",
+        "Usar *fiveteen* en lugar de *fifteen* (15). La forma correcta cambia la 'v' por 'f'."
+      ]
+    },
+    {
+      "slug": "tens_20_to_90",
+      "title_form": "Decenas del 20 al 90",
+      "title_target": "Tens from 20 to 90",
+      "description_md_form": "Para formar las **decenas** (20, 30, 40...) en inglés, usamos el número de la decena + el sufijo **-ty**. Por ejemplo: `two` (2) → `twenty` (20), `three` (3) → `thirty` (30), `four` (4) → `forty` (40).\n\nObserva que **no** se usa la palabra *ten* para estas decenas. Decimos `twenty`, no *two-ten*. La forma es directa: el número base + **-ty**.\n\nAquí tienes las decenas más comunes: `twenty` (20), `thirty` (30), `forty` (40), `fifty` (50), `sixty` (60), `seventy` (70), `eighty` (80), `ninety` (90).\n\nRecuerda: estas decenas son la base para formar números compuestos como `twenty-one` (21) o `thirty-five` (35), que veremos en otra lección.",
+      "description_md_target": "To form the **tens** (20, 30, 40...) in English, we use the number of the ten + the suffix **-ty**. For example: `two` (2) → `twenty` (20), `three` (3) → `thirty` (30), `four` (4) → `forty` (40).\n\nNotice that we **do not** use the word *ten* for these tens. We say `twenty`, not *two-ten*. The form is direct: the base number + **-ty**.\n\nHere are the most common tens: `twenty` (20), `thirty` (30), `forty` (40), `fifty` (50), `sixty` (60), `seventy` (70), `eighty` (80), `ninety` (90).\n\nRemember: these tens are the base for forming compound numbers like `twenty-one` (21) or `thirty-five` (35), which we will see in another lesson.",
+      "grammar_structure": "Number (2-9) + -ty",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "tens_20_to_90",
+          "text_target": "Twenty people are here.",
+          "translation_form": "Veinte personas están aquí.",
+          "highlight_words": [
+            "twenty"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "tens_20_to_90",
+          "text_target": "Thirty days have September.",
+          "translation_form": "Treinta días tiene septiembre.",
+          "highlight_words": [
+            "thirty"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Ojo con la ortografía**: `four` (4) se convierte en `forty` (40), sin la *u*. Y `five` (5) se convierte en `fifty` (50), cambiando la *v* por *f*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas *two-ten* o *three-ten***. En inglés, las decenas son palabras únicas: `twenty`, `thirty`, `forty`. No combines el número con la palabra *ten*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *two-ten* en lugar de `twenty` (20).",
+        "Escribir *fourty* en lugar de `forty` (40), olvidando que se pierde la *u*.",
+        "Confundir `thirteen` (13) con `thirty` (30), ya que suenan parecido pero son números diferentes."
+      ]
+    },
+    {
+      "slug": "compound_numbers_21_to_99",
+      "title_form": "Números compuestos del 21 al 99",
+      "title_target": "Compound Numbers from 21 to 99",
+      "description_md_form": "Para formar números del 21 al 99 en inglés, **combina la decena con la unidad** usando un guion (`-`). Primero dices la decena (twenty, thirty, forty...) y luego la unidad (one, two, three...).\n\nEjemplos: `twenty-one` (21), `thirty-five` (35), `forty-eight` (48), `sixty-two` (62).\n\n**Importante:** el guion es obligatorio al escribir estos números. En español decimos \"veintiuno\" como una sola palabra, pero en inglés siempre son dos partes unidas por guion. La unidad va después de la decena, nunca antes.",
+      "description_md_target": "To form numbers from 21 to 99 in English, **combine the tens with the unit** using a hyphen (`-`). First say the tens (twenty, thirty, forty...) and then the unit (one, two, three...).\n\nExamples: `twenty-one` (21), `thirty-five` (35), `forty-eight` (48), `sixty-two` (62).\n\n**Important:** the hyphen is mandatory when writing these numbers. In Spanish we say \"veintiuno\" as one word, but in English it is always two parts joined by a hyphen. The unit goes after the tens, never before.",
+      "grammar_structure": "Tens (20-90) + Hyphen (-) + Unit (1-9)",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "compound_numbers_21_to_99",
+          "text_target": "Twenty-one people are here.",
+          "translation_form": "Veintiuna personas están aquí.",
+          "highlight_words": [
+            "twenty-one"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "compound_numbers_21_to_99",
+          "text_target": "She has thirty-five books.",
+          "translation_form": "Ella tiene treinta y cinco libros.",
+          "highlight_words": [
+            "thirty-five"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda el guion:** `twenty-one`, `forty-seven`, `eighty-three`. Sin guion es un error común. En español \"veintiuno\" es una palabra, pero en inglés siempre son dos partes con guion."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No inviertas el orden:** en inglés la decena va primero y la unidad después. `twenty-five` es 25, pero `five-twenty` no existe. Siempre decenas primero."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el guion: escribir 'twenty one' en lugar de 'twenty-one'.",
+        "Invertir el orden: decir 'five-twenty' en lugar de 'twenty-five'.",
+        "Confundir la pronunciación de 'thirty' (30) con 'thirteen' (13)."
+      ]
+    },
+    {
+      "slug": "hundred",
+      "title_form": "El número 100 (hundred)",
+      "title_target": "The number 100 (hundred)",
+      "description_md_form": "El número **100** en inglés es **hundred**. Es una palabra especial que usamos para contar cantidades grandes. Para decir números como 200, 300 o 400, ponemos un número del 1 al 9 antes de **hundred**: **two hundred** (200), **three hundred** (300), **four hundred** (400).\n\n**¡Importante!** En inglés, **hundred** no cambia de forma. Decimos **two hundred**, no *two hundreds*. La palabra **hundred** siempre está en singular.\n\nUsamos **hundred** para hablar de cantidades exactas, como **one hundred** (100) o **five hundred** (500). Es una palabra muy útil para números grandes.",
+      "description_md_target": "The number **100** in English is **hundred**. It is a special word we use to count large quantities. To say numbers like 200, 300, or 400, we put a number from 1 to 9 before **hundred**: **two hundred** (200), **three hundred** (300), **four hundred** (400).\n\n**Important!** In English, **hundred** does not change form. We say **two hundred**, not *two hundreds*. The word **hundred** is always singular.\n\nWe use **hundred** to talk about exact quantities, like **one hundred** (100) or **five hundred** (500). It is a very useful word for large numbers.",
+      "grammar_structure": "Number (1-9) + hundred",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "hundred",
+          "text_target": "One hundred people are here.",
+          "translation_form": "Cien personas están aquí.",
+          "highlight_words": [
+            "one",
+            "hundred"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "hundred",
+          "text_target": "Two hundred books are on the table.",
+          "translation_form": "Doscientos libros están en la mesa.",
+          "highlight_words": [
+            "two",
+            "hundred"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, **hundred** siempre va en singular. No digas *two hundreds*. Es como decir **two hundred** (doscientos) sin la 's'."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *two hundreds*. Usa **two hundred** sin 's'. Para 100, puedes usar 'a hundred' o 'one hundred'."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'two hundreds' en lugar de 'two hundred'. La palabra 'hundred' no lleva 's' en plural.",
+        "Usar 'a hundred' en lugar de 'one hundred' en contextos formales o cuando necesitas ser preciso.",
+        "Confundir 'hundred' con 'thousand' (mil). 'Hundred' es 100, 'thousand' es 1000."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'eleven'?",
+      "options": [
+        "once",
+        "doce",
+        "diez",
+        "trece"
+      ],
+      "correct_answer": "once",
+      "explanation_md": "'Eleven' es el número 11 en inglés.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "compound_numbers_11_to_19"
+      ],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'twenty'?",
+      "options": [
+        "veinte",
+        "treinta",
+        "doce",
+        "quince"
+      ],
+      "correct_answer": "veinte",
+      "explanation_md": "'Twenty' es la decena 20 en inglés.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "tens_20_to_90"
+      ],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "En la escuela, tu amiga dice: 'I have fifteen books.' ¿Cuántos libros tiene?",
+      "options": [
+        "15",
+        "5",
+        "50",
+        "14"
+      ],
+      "correct_answer": "15",
+      "explanation_md": "'Fifteen' significa quince (15).",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "compound_numbers_11_to_19"
+      ],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "En una tienda, el vendedor dice: 'Thirty dollars, please.' ¿Cuánto cuesta?",
+      "options": [
+        "30",
+        "13",
+        "3",
+        "33"
+      ],
+      "correct_answer": "30",
+      "explanation_md": "'Thirty' significa treinta (30).",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "tens_20_to_90"
+      ],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con el número correcto: 'There are ____ students in my class.' (Hay 19 estudiantes)",
+      "options": null,
+      "correct_answer": "nineteen",
+      "explanation_md": "'Nineteen' es el número 19.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "compound_numbers_11_to_19"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con el número correcto: 'My grandmother is ____ years old.' (Mi abuela tiene 80 años)",
+      "options": null,
+      "correct_answer": "eighty",
+      "explanation_md": "'Eighty' es la decena 80.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "tens_20_to_90"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Tengo veinticinco años.'",
+      "options": null,
+      "correct_answer": "I am twenty-five years old.",
+      "explanation_md": "'Veinticinco' se forma con 'twenty' + 'five'.",
+      "related_lexeme_ids": [
+        "five_num"
+      ],
+      "related_chunk_ids": [
+        "compound_numbers_21_to_99"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Hay cien personas aquí.'",
+      "options": null,
+      "correct_answer": "There are one hundred people here.",
+      "explanation_md": "'Cien' se dice 'one hundred' en inglés.",
+      "related_lexeme_ids": [
+        "one_num"
+      ],
+      "related_chunk_ids": [
+        "hundred"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada número con su traducción:",
+      "options": [
+        "twelve",
+        "doce",
+        "forty",
+        "cuarenta",
+        "seventeen",
+        "diecisiete",
+        "sixty",
+        "sesenta"
+      ],
+      "correct_answer": [
+        "twelve=doce",
+        "forty=cuarenta",
+        "seventeen=diecisiete",
+        "sixty=sesenta"
+      ],
+      "explanation_md": "Cada número tiene su traducción específica en español.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "compound_numbers_11_to_19",
+        "tens_20_to_90"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada número con su traducción:",
+      "options": [
+        "ninety",
+        "noventa",
+        "twenty-three",
+        "veintitrés",
+        "fifty",
+        "cincuenta",
+        "thirty-one",
+        "treinta y uno"
+      ],
+      "correct_answer": [
+        "ninety=noventa",
+        "twenty-three=veintitrés",
+        "fifty=cincuenta",
+        "thirty-one=treinta y uno"
+      ],
+      "explanation_md": "Los números compuestos combinan decenas y unidades.",
+      "related_lexeme_ids": [
+        "three_num"
+      ],
+      "related_chunk_ids": [
+        "tens_20_to_90",
+        "compound_numbers_21_to_99"
+      ],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'There are fourteen apples on the table.'",
+      "options": null,
+      "correct_answer": "Hay catorce manzanas en la mesa.",
+      "explanation_md": "'Fourteen' significa catorce.",
+      "related_lexeme_ids": [
+        "four_num"
+      ],
+      "related_chunk_ids": [
+        "compound_numbers_11_to_19"
+      ],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'She has seventy-six dollars.'",
+      "options": null,
+      "correct_answer": "Ella tiene setenta y seis dólares.",
+      "explanation_md": "'Seventy-six' se forma con 'seventy' + 'six'.",
+      "related_lexeme_ids": [
+        "six_num"
+      ],
+      "related_chunk_ids": [
+        "tens_20_to_90",
+        "compound_numbers_21_to_99"
+      ],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [],
+  "vocabulary": [],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Numbers from 11 to 100",
+      "title_target": "Quiz: Numbers from 11 to 100",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice 'catorce' en inglés?",
+          "prompt_target": "How do you say 'catorce' in English?",
+          "options": [
+            "fourteen",
+            "forty",
+            "four",
+            "fourth"
+          ],
+          "correct_answer": "fourteen",
+          "explanation_form": "'Catorce' se dice 'fourteen'. Es un número compuesto de 11 a 19, que se forma con 'four' + 'teen'.",
+          "explanation_target": "'Catorce' is 'fourteen'. It is a compound number from 11 to 19, formed with 'four' + 'teen'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "compound_numbers_11_to_19"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I have ____ books.' (tengo veinte libros)",
+          "prompt_target": "Fill in the blank: 'I have ____ books.' (I have twenty books)",
+          "options": null,
+          "correct_answer": "twenty",
+          "explanation_form": "'Veinte' se dice 'twenty'. Es una decena (20, 30, 40...), que se forma con el número base + 'ty'.",
+          "explanation_target": "'Veinte' is 'twenty'. It is a ten (20, 30, 40...), formed with the base number + 'ty'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "tens_20_to_90"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar la frase correcta: 'tengo treinta y cinco años'",
+          "prompt_target": "Order the words to form the correct sentence: 'I am thirty-five years old'",
+          "options": [
+            "I",
+            "am",
+            "thirty",
+            "five",
+            "years",
+            "old"
+          ],
+          "correct_answer": "I am thirty-five years old",
+          "explanation_form": "La frase correcta es 'I am thirty-five years old'. Para números compuestos del 21 al 99, se usa la decena + guion + la unidad.",
+          "explanation_target": "The correct sentence is 'I am thirty-five years old'. For compound numbers from 21 to 99, use the ten + hyphen + the unit.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "compound_numbers_21_to_99"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué número es 'one hundred'?",
+          "prompt_target": "What number is 'one hundred'?",
+          "options": [
+            "10",
+            "100",
+            "1000",
+            "110"
+          ],
+          "correct_answer": "100",
+          "explanation_form": "'One hundred' significa 'cien'. Es el número 100, que se forma con 'one' + 'hundred'.",
+          "explanation_target": "'One hundred' means 'cien'. It is the number 100, formed with 'one' + 'hundred'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hundred"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'setenta y dos'",
+          "prompt_target": "Translate to English: 'setenta y dos'",
+          "options": null,
+          "correct_answer": "seventy-two",
+          "explanation_form": "'Setenta y dos' se dice 'seventy-two'. Es un número compuesto del 21 al 99: decena + guion + unidad.",
+          "explanation_target": "'Setenta y dos' is 'seventy-two'. It is a compound number from 21 to 99: ten + hyphen + unit.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "compound_numbers_21_to_99"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "matching",
+          "prompt_form": "Empareja cada número con su forma escrita en inglés:",
+          "prompt_target": "Match each number with its written form in English:",
+          "options": [
+            "11",
+            "eleven",
+            "20",
+            "twenty",
+            "50",
+            "fifty"
+          ],
+          "correct_answer": [
+            "11=eleven",
+            "20=twenty",
+            "50=fifty"
+          ],
+          "explanation_form": "Los números del 11 al 19 tienen formas especiales (eleven, twelve, thirteen...). Las decenas (20, 30, 40...) terminan en '-ty'.",
+          "explanation_target": "Numbers from 11 to 19 have special forms (eleven, twelve, thirteen...). Tens (20, 30, 40...) end in '-ty'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "compound_numbers_11_to_19",
+            "tens_20_to_90"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de escribir 'noventa y nueve'?",
+          "prompt_target": "What is the correct way to write 'noventa y nueve'?",
+          "options": [
+            "ninety-nine",
+            "ninty-nine",
+            "ninety nine",
+            "ninety-ninety"
+          ],
+          "correct_answer": "ninety-nine",
+          "explanation_form": "'Noventa y nueve' se escribe 'ninety-nine'. Los números compuestos del 21 al 99 llevan guion entre la decena y la unidad.",
+          "explanation_target": "'Noventa y nueve' is written 'ninety-nine'. Compound numbers from 21 to 99 have a hyphen between the ten and the unit.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "compound_numbers_21_to_99"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Qué número es 'sixty'?",
+          "prompt_target": "What number is 'sixty'?",
+          "options": null,
+          "correct_answer": "60",
+          "explanation_form": "'Sixty' significa 'sesenta'. Es una decena que termina en '-ty'.",
+          "explanation_target": "'Sixty' means 'sesenta'. It is a ten ending in '-ty'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "tens_20_to_90"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'She is ____ years old.' (ella tiene quince años)",
+          "prompt_target": "Fill in the blank: 'She is ____ years old.' (she is fifteen years old)",
+          "options": null,
+          "correct_answer": "fifteen",
+          "explanation_form": "'Quince' se dice 'fifteen'. Es un número compuesto del 11 al 19 con forma especial.",
+          "explanation_target": "'Quince' is 'fifteen'. It is a compound number from 11 to 19 with a special form.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "compound_numbers_11_to_19"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice 'cien' en inglés?",
+          "prompt_target": "How do you say 'cien' in English?",
+          "options": [
+            "hundred",
+            "one hundred",
+            "hundred one",
+            "one hundreds"
+          ],
+          "correct_answer": "one hundred",
+          "explanation_form": "'Cien' se dice 'one hundred'. Se usa 'one' + 'hundred' para el número 100.",
+          "explanation_target": "'Cien' is 'one hundred'. Use 'one' + 'hundred' for the number 100.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hundred"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Los números del 11 al 19: ¡no son compuestos!\n\nEn inglés, los números del 11 al 19 son **irregulares** y no siguen un patrón claro. No intentes formarlos combinando palabras como en español (diez + seis = dieciséis). Aquí tienes que memorizarlos tal cual: **eleven** (11), **twelve** (12), **thirteen** (13), **fourteen** (14), **fifteen** (15), **sixteen** (16), **seventeen** (17), **eighteen** (18) y **nineteen** (19).\n\nUn truco útil: fíjate que la mayoría terminan en **-teen**, que es una pista de que están relacionados con el 10. Pero cuidado con **thirteen** (13) y **fifteen** (15), que cambian la raíz (three → thir, five → fif). ¡No digas *threeteen* ni *fiveteen*!\n\n## Las decenas: del 20 al 90\n\nLas decenas en inglés son mucho más fáciles porque siguen un patrón regular: el número base + **-ty**. Así, **twenty** (20), **thirty** (30), **forty** (40), **fifty** (50), **sixty** (60), **seventy** (70), **eighty** (80) y **ninety** (90).\n\nOjo con dos trampas: **forty** (40) pierde la 'u' de *four*, y **eighty** (80) solo tiene una 't' (no es *eightty*). Para los hispanohablantes, la confusión más común es mezclar el sonido de la 'y' final con una 'i' española. Recuerda: **twenty** suena como /ˈtwenti/, con la 'y' corta, similar a la 'i' de 'pizza'.\n\n## Números compuestos: del 21 al 99\n\nAquí está la clave de esta lección: para formar cualquier número entre 21 y 99, solo tienes que **unir la decena con la unidad usando un guion (-)**. Por ejemplo: **twenty-one** (21), **thirty-two** (32), **forty-five** (45), **sixty-seven** (67), **ninety-nine** (99).\n\nEste es un error muy común para los hispanohablantes: en español escribimos 'veintiuno' como una sola palabra, pero en inglés **siempre** se usa el guion. No digas *twenty one* sin guion en la escritura formal, aunque al hablar suene como una sola palabra. El guion es obligatorio en la forma escrita.\n\n## El número 100: a hundred\n\nPara decir 100 en inglés, usamos **a hundred** o **one hundred**. Ambas formas son correctas, pero **a hundred** es más común en conversación informal. La palabra **hundred** es invariable: no decimos *two hundreds*, sino **two hundred** (200).\n\nUn dato curioso: en inglés, a diferencia del español, no usamos la conjunción 'y' entre las decenas y las unidades. Decimos **sixty-seven** (67), no *sixty and seven*. La 'y' solo aparece en números como **one hundred and five** (105), pero eso lo verás en lecciones más avanzadas.\n\n## Errores comunes y cómo evitarlos\n\n1. **No confundas *thirteen* (13) con *thirty* (30)**: la diferencia está en el final (-teen vs -ty). Escucha atentamente: *thirteen* tiene el acento en la segunda sílaba (thir-TEEN), mientras que *thirty* lo tiene en la primera (THIR-ty).\n2. **No digas *fiveteen* ni *fivety***: las formas correctas son **fifteen** (15) y **fifty** (50).\n3. **No olvides el guion** en los números compuestos: **eighty-two** (82), **forty-eight** (48).\n4. **No digas *a hundred* cuando quieres decir exactamente 100 en contextos formales**: aunque es aceptable, en exámenes o documentos oficiales prefiere **one hundred**.\n\nRecuerda practicar contando en voz alta: primero del 11 al 19, luego las decenas, y finalmente combínalos. ¡La práctica hace al maestro!",
+  "metadata": {
+    "generated_at": "2026-08-11T18:10:44Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "partial",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

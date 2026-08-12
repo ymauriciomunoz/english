@@ -1,0 +1,1722 @@
+{
+  "id": "lesson_020",
+  "position": 21,
+  "unit_id": 5,
+  "course_id": "en.A1",
+  "title_form": "Hobbies and free time",
+  "title_target": "Pasatiempos y tiempo libre",
+  "theme_focus": "Hobbies and free time",
+  "learning_objectives": [
+    "Can talk about their hobbies and free-time activities using like + -ing/noun."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_009",
+    "lesson_018"
+  ],
+  "grammar_focus": [
+    "like_love_hate_plus_ing (I like reading, She loves swimming, He hates cooking)",
+    "like_love_hate_plus_noun (I love music, He hates football)",
+    "wh_questions_about_hobbies (What do you like doing?, What's your hobby?)",
+    "frequency_with_hobbies (I sometimes play tennis, I always read at night)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "play_verb",
+        "read_verb",
+        "sport",
+        "football",
+        "tennis",
+        "music",
+        "film",
+        "book",
+        "swim_verb",
+        "cook_verb",
+        "game",
+        "movie",
+        "watch_tv_phrase",
+        "listen_to_music_phrase",
+        "museum",
+        "guitar"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "coat",
+        "coffee",
+        "come_verb",
+        "cost_verb",
+        "country",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "early_adj_2",
+        "eat_verb",
+        "evening",
+        "exam",
+        "excuse_me_interj",
+        "expensive_adj",
+        "family",
+        "father",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "half",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hotel",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "live_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "small_adj",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "spring",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "supermarket",
+        "sweater",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "three_num",
+        "ticket",
+        "time",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "water",
+        "we_pronoun",
+        "week",
+        "weekend",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante colombiana de 22 años, llega a un pequeño café en Londres para conocer a su nuevo compañero de piso, James. Está nerviosa porque no sabe qué temas hablar con él. James le sonríe y le pregunta: 'What do you do in your free time?'. Sofía respira hondo y empieza a hablar de sus pasatiempos: le encanta escuchar música y cocinar. James le cuenta que le gusta jugar al tenis y ver películas. Al final del café, Sofía se siente tranquila y feliz, y ya tiene un plan para el fin de semana: ir a un museo con James.",
+  "introduction_md": "¿Qué haces los sábados por la mañana? ¿Juegas al fútbol, lees un libro o simplemente ves la tele? En esta lección vas a aprender a hablar de tus pasatiempos y de tu tiempo libre en inglés. Ya sabes decir la hora, hablar de tu familia y describir tu día a día. Ahora es el momento de contar qué te gusta hacer cuando no estás trabajando o estudiando. Vas a descubrir cómo usar el verbo *like* con actividades y con cosas, y también cómo preguntar a otras personas por sus aficiones. Al final de la lección, podrás mantener una pequeña conversación sobre música, deportes, películas y libros. Además, aprenderás a decir con qué frecuencia haces cada cosa, usando palabras como *always*, *usually* o *never*. ¡Prepárate para hablar de lo que más te gusta!",
+  "intro_target": "What do you do on Saturday mornings? Do you play football, read a book, or just watch TV? In this lesson, you are going to learn to talk about your hobbies and your free time in English. You already know how to tell the time, talk about your family, and describe your daily routine. Now it is time to say what you like to do when you are not working or studying. You are going to discover how to use the verb *like* with activities and with things, and also how to ask other people about their hobbies. At the end of the lesson, you will be able to have a small conversation about music, sports, films, and books. Also, you will learn to say how often you do each thing, using words like *always*, *usually*, or *never*. Get ready to talk about what you like the most!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "like_love_hate_plus_ing",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like reading books.",
+      "translation_form": "Me gusta leer libros.",
+      "highlight_words": [
+        "reading",
+        "books"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "like_love_hate_plus_noun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She loves music.",
+      "translation_form": "Ella ama la música.",
+      "highlight_words": [
+        "loves",
+        "music"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "wh_questions_about_hobbies",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What do you like doing?",
+      "translation_form": "¿Qué te gusta hacer?",
+      "highlight_words": [
+        "like",
+        "doing"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "frequency_with_hobbies",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I sometimes play tennis.",
+      "translation_form": "A veces juego al tenis.",
+      "highlight_words": [
+        "sometimes",
+        "play",
+        "tennis"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "play_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He plays football on weekends.",
+      "translation_form": "Él juega al fútbol los fines de semana.",
+      "highlight_words": [
+        "plays",
+        "football",
+        "weekends"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "watch_tv_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We watch TV at night.",
+      "translation_form": "Nosotros vemos la televisión por la noche.",
+      "highlight_words": [
+        "watch",
+        "tv",
+        "night"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "listen_to_music_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They listen to music in the car.",
+      "translation_form": "Ellos escuchan música en el coche.",
+      "highlight_words": [
+        "listen",
+        "music",
+        "car"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "swim_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She swims in the summer.",
+      "translation_form": "Ella nada en el verano.",
+      "highlight_words": [
+        "swims",
+        "summer"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I cook dinner with my mom.",
+      "translation_form": "Yo cocino la cena con mi mamá.",
+      "highlight_words": [
+        "cook",
+        "dinner",
+        "mom"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "museum",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We visit the museum on Sunday.",
+      "translation_form": "Nosotros visitamos el museo el domingo.",
+      "highlight_words": [
+        "visit",
+        "museum",
+        "sunday"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": "guitar",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He plays the guitar very well.",
+      "translation_form": "Él toca la guitarra muy bien.",
+      "highlight_words": [
+        "plays",
+        "guitar"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_012",
+      "lexeme_id": "game",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like playing games with friends.",
+      "translation_form": "Me gusta jugar juegos con amigos.",
+      "highlight_words": [
+        "playing",
+        "games",
+        "friends"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_013",
+      "lexeme_id": "movie",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We watch a movie tonight.",
+      "translation_form": "Nosotros vemos una película esta noche.",
+      "highlight_words": [
+        "watch",
+        "movie",
+        "tonight"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_014",
+      "lexeme_id": "sport",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I love sport and exercise.",
+      "translation_form": "Me encanta el deporte y el ejercicio.",
+      "highlight_words": [
+        "love",
+        "sport"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_015",
+      "lexeme_id": "book",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She reads a book every day.",
+      "translation_form": "Ella lee un libro todos los días.",
+      "highlight_words": [
+        "reads",
+        "book",
+        "every",
+        "day"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_016",
+      "lexeme_id": "film",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like watching films.",
+      "translation_form": "Me gusta ver películas.",
+      "highlight_words": [
+        "watching",
+        "films"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "like_love_hate_plus_ing",
+      "title_form": "Me gusta + verbo -ing",
+      "title_target": "Like + Verb -ing",
+      "description_md_form": "Para hablar de **hobbies** y actividades en tu tiempo libre, usa **like**, **love** o **hate** + verbo con **-ing**. Este patrón expresa lo que disfrutas o no disfrutas hacer.\n\n**Estructura:**\n\n- **I like** + verbo **-ing** → *I like reading.* (Me gusta leer.)\n- **She loves** + verbo **-ing** → *She loves cooking.* (Ella ama cocinar.)\n- **He hates** + verbo **-ing** → *He hates swimming.* (Él odia nadar.)\n\nEl verbo con **-ing** describe la actividad. No cambia con la persona: siempre es la misma forma. Usa este patrón para responder a la pregunta *What do you like doing?* (¿Qué te gusta hacer?).",
+      "description_md_target": "To talk about **hobbies** and free-time activities, use **like**, **love**, or **hate** + verb with **-ing**. This pattern expresses what you enjoy or don't enjoy doing.\n\n**Structure:**\n\n- **I like** + verb **-ing** → *I like reading.*\n- **She loves** + verb **-ing** → *She loves cooking.*\n- **He hates** + verb **-ing** → *He hates swimming.*\n\nThe verb with **-ing** describes the activity. It doesn't change with the person: it's always the same form. Use this pattern to answer the question *What do you like doing?*",
+      "grammar_structure": "Subject + like/love/hate + verb-ing",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "like_love_hate_plus_ing",
+          "text_target": "I like reading books.",
+          "translation_form": "Me gusta leer libros.",
+          "highlight_words": [
+            "like",
+            "reading"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "like_love_hate_plus_ing",
+          "text_target": "She loves listening to music.",
+          "translation_form": "Ella ama escuchar música.",
+          "highlight_words": [
+            "loves",
+            "listening"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** el verbo con **-ing** no cambia con la persona. Siempre es la misma forma: *I like playing*, *She likes playing*, *They like playing*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** no digas *I like play football*. El verbo después de **like** siempre lleva **-ing**: *I like playing football*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar el verbo en infinitivo después de like: *I like play* (incorrecto) → *I like playing* (correcto).",
+        "Olvidar el -ing en el segundo verbo: *She loves cook* (incorrecto) → *She loves cooking* (correcto).",
+        "Confundir el orden de las palabras: *I reading like* (incorrecto) → *I like reading* (correcto)."
+      ]
+    },
+    {
+      "slug": "like_love_hate_plus_noun",
+      "title_form": "Me gusta, amo y odio + sustantivo",
+      "title_target": "Like, love and hate + noun",
+      "description_md_form": "Para hablar de tus **pasatiempos** y **gustos**, usa los verbos **like** (gustar), **love** (amar/encantar) y **hate** (odiar) seguidos de un **sustantivo** (una cosa o actividad).\n\nLa estructura es simple: **sujeto + like/love/hate + sustantivo**.\n\n- **I like music.** = Me gusta la música.\n- **She loves football.** = Ella ama el fútbol.\n- **He hates tennis.** = Él odia el tenis.\n\n**Importante:** en inglés, el verbo **like** no cambia con el sujeto (I like, you like, he likes). Solo agregas una **-s** al final con **he**, **she** o **it**.\n\nUsa este patrón para hablar de lo que te gusta hacer en tu tiempo libre: **I like books**, **She loves films**, **We hate games**.",
+      "description_md_target": "To talk about your **hobbies** and **likes**, use the verbs **like**, **love** and **hate** followed by a **noun** (a thing or activity).\n\nThe structure is simple: **subject + like/love/hate + noun**.\n\n- **I like music.**\n- **She loves football.**\n- **He hates tennis.**\n\n**Important:** in English, the verb **like** does not change with the subject (I like, you like, he likes). You only add an **-s** at the end with **he**, **she** or **it**.\n\nUse this pattern to talk about what you like to do in your free time: **I like books**, **She loves films**, **We hate games**.",
+      "grammar_structure": "Subject + like/love/hate + noun",
+      "conjugation_table": {
+        "name": "present_simple_like",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "like",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "like",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "likes",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "like",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "like",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "music",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I like music.",
+          "translation_form": "Me gusta la música.",
+          "highlight_words": [
+            "like",
+            "music"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "football",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She loves football.",
+          "translation_form": "Ella ama el fútbol.",
+          "highlight_words": [
+            "loves",
+            "football"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas 'I like the music'.** En inglés, cuando hablas de gustos en general, **no** uses el artículo **the** antes del sustantivo. Di **'I like music'**, no 'I like the music'."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda la -s con he/she/it.** Con **he**, **she** o **it**, el verbo cambia: **he likes**, **she loves**, **it hates**. Con **I**, **you**, **we** y **they**, no cambia: **I like**, **you like**, **we like**."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I like the music' en lugar de 'I like music' (no se usa 'the' para gustos en general).",
+        "Olvidar la -s en la tercera persona: 'He like football' en lugar de 'He likes football'.",
+        "Traducir literalmente 'Me gusta' como 'Me like' en lugar de 'I like'."
+      ]
+    },
+    {
+      "slug": "wh_questions_about_hobbies",
+      "title_form": "Preguntas con What sobre pasatiempos",
+      "title_target": "What questions about hobbies",
+      "description_md_form": "Para preguntar sobre pasatiempos, usamos **What** al inicio de la pregunta. La estructura es: **What + do/does + sujeto + verbo?**\n\n- Con **I, you, we, they** usamos **do**: *What do you like?*\n- Con **he, she, it** usamos **does**: *What does she like?*\n\nDespués de **do/does**, el verbo va en su forma base (sin -s): *What does he play?* (no *plays*).\n\nPara preguntar sobre actividades, usamos **What + do/does + sujeto + like doing?**: *What do you like doing?* = ¿Qué te gusta hacer?\n\nLa respuesta usa **like + -ing** o **like + sustantivo**: *I like reading.* / *I like music.*",
+      "description_md_target": "To ask about hobbies, we use **What** at the start of the question. The structure is: **What + do/does + subject + verb?**\n\n- With **I, you, we, they** we use **do**: *What do you like?*\n- With **he, she, it** we use **does**: *What does she like?*\n\nAfter **do/does**, the verb goes in its base form (without -s): *What does he play?* (not *plays*).\n\nTo ask about activities, we use **What + do/does + subject + like doing?**: *What do you like doing?*\n\nThe answer uses **like + -ing** or **like + noun**: *I like reading.* / *I like music.*",
+      "grammar_structure": "What + do/does + subject + verb (base form)?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_questions_about_hobbies",
+          "text_target": "What do you like doing?",
+          "translation_form": "¿Qué te gusta hacer?",
+          "highlight_words": [
+            "what",
+            "do",
+            "like",
+            "doing"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_questions_about_hobbies",
+          "text_target": "What does she play?",
+          "translation_form": "¿Qué toca ella?",
+          "highlight_words": [
+            "what",
+            "does",
+            "play"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: después de *does*, el verbo no lleva -s. Decimos *What does he play?* y NO *What does he plays?*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado**: en español decimos *¿Qué te gusta hacer?* con *hacer*, pero en inglés usamos *doing*: *What do you like doing?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *What do you like do?* en lugar de *What do you like doing?*",
+        "Usar *does* con *I* o *you*: *What does you like?* (correcto: *What do you like?*)",
+        "Mantener la -s en el verbo después de *does*: *What does he plays?* (correcto: *What does he play?*)",
+        "Olvidar *do/does*: *What you like?* (correcto: *What do you like?*)"
+      ]
+    },
+    {
+      "slug": "frequency_with_hobbies",
+      "title_form": "Frecuencia con pasatiempos",
+      "title_target": "Frequency with hobbies",
+      "description_md_form": "Para hablar de **con qué frecuencia** haces tus pasatiempos, usa adverbios de frecuencia como `always`, `usually`, `sometimes` y `never`. Colócalos **antes del verbo principal**: `I always play tennis.` (Siempre juego al tenis). Con el verbo `to be`, van **después**: `I am never late.` (Nunca llego tarde). También puedes usar expresiones de tiempo como `on weekends` (los fines de semana) o `in the morning` (por la mañana) al final de la oración: `He plays football on weekends.` (Él juega al fútbol los fines de semana). Estas palabras te ayudan a describir tu rutina y tus gustos con claridad.",
+      "description_md_target": "To talk about **how often** you do your hobbies, use frequency adverbs like `always`, `usually`, `sometimes` and `never`. Place them **before the main verb**: `I always play tennis.` With the verb `to be`, they go **after**: `I am never late.` You can also use time expressions like `on weekends` or `in the morning` at the end of the sentence: `He plays football on weekends.` These words help you describe your routine and likes clearly.",
+      "grammar_structure": "Subject + frequency adverb + main verb + complement",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "play_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I sometimes play tennis.",
+          "translation_form": "A veces juego al tenis.",
+          "highlight_words": [
+            "sometimes",
+            "play"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "football",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "He plays football on weekends.",
+          "translation_form": "Él juega al fútbol los fines de semana.",
+          "highlight_words": [
+            "plays",
+            "football",
+            "weekends"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Posición del adverbio**: `always`, `usually`, `sometimes` y `never` van **antes** del verbo de acción: `I always read books.` Pero con `to be`, van **después**: `I am never late.`"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas**: `I play sometimes tennis.` El adverbio va **antes** del verbo, no después: `I sometimes play tennis.`"
+        }
+      ],
+      "common_errors_es": [
+        "Colocar el adverbio después del verbo: 'I play sometimes tennis' en lugar de 'I sometimes play tennis'.",
+        "Olvidar que con 'to be' el adverbio va después: 'I am always happy' y no 'I always am happy'.",
+        "Usar 'never' con verbo en forma negativa: 'I don't never play' en lugar de 'I never play'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'football'?",
+      "options": [
+        "Fútbol",
+        "Baloncesto",
+        "Tenis",
+        "Natación"
+      ],
+      "correct_answer": "Fútbol",
+      "explanation_md": "'Football' es el deporte del fútbol.",
+      "related_lexeme_ids": [
+        "football"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'guitar'?",
+      "options": [
+        "Piano",
+        "Guitarra",
+        "Batería",
+        "Violín"
+      ],
+      "correct_answer": "Guitarra",
+      "explanation_md": "'Guitar' es el instrumento musical de cuerdas.",
+      "related_lexeme_ids": [
+        "guitar"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la frase: 'I like ____ books.'",
+      "options": [
+        "read",
+        "reading",
+        "reads",
+        "to reading"
+      ],
+      "correct_answer": "reading",
+      "explanation_md": "Después de 'like' usamos el verbo con -ing: 'I like reading books.'",
+      "related_lexeme_ids": [
+        "read_verb",
+        "book"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la pregunta correcta para saber los pasatiempos de alguien?",
+      "options": [
+        "What do you like doing?",
+        "What you like doing?",
+        "What do you likes doing?",
+        "What does you like doing?"
+      ],
+      "correct_answer": "What do you like doing?",
+      "explanation_md": "Para preguntar por pasatiempos usamos 'What do you like doing?'",
+      "related_lexeme_ids": [
+        "play_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con la palabra correcta: 'She loves ____ music.'",
+      "options": null,
+      "correct_answer": "listening to",
+      "explanation_md": "Usamos 'listening to' después de 'loves' para expresar que le encanta escuchar música.",
+      "related_lexeme_ids": [
+        "listen_to_music_phrase",
+        "music"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con la palabra correcta: 'I ____ play tennis on weekends.' (frecuencia: a veces)",
+      "options": null,
+      "correct_answer": "sometimes",
+      "explanation_md": "'Sometimes' significa 'a veces' y va antes del verbo principal.",
+      "related_lexeme_ids": [
+        "tennis",
+        "sometimes_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Él juega al fútbol los fines de semana.'",
+      "options": null,
+      "correct_answer": "He plays football on weekends.",
+      "explanation_md": "Usamos 'plays' para 'él juega' y 'on weekends' para 'los fines de semana'.",
+      "related_lexeme_ids": [
+        "football",
+        "weekend"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Me gusta nadar.'",
+      "options": null,
+      "correct_answer": "I like swimming.",
+      "explanation_md": "Después de 'like' usamos el verbo con -ing: 'swimming'.",
+      "related_lexeme_ids": [
+        "swim_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "film",
+        "película",
+        "museum",
+        "museo",
+        "game",
+        "juego",
+        "cook",
+        "cocinar"
+      ],
+      "correct_answer": [
+        "film=película",
+        "museum=museo",
+        "game=juego",
+        "cook=cocinar"
+      ],
+      "explanation_md": "Estas son palabras relacionadas con pasatiempos y tiempo libre.",
+      "related_lexeme_ids": [
+        "film",
+        "museum",
+        "game",
+        "cook_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada verbo con su traducción:",
+      "options": [
+        "play",
+        "jugar",
+        "read",
+        "leer",
+        "swim",
+        "nadar",
+        "cook",
+        "cocinar"
+      ],
+      "correct_answer": [
+        "play=jugar",
+        "read=leer",
+        "swim=nadar",
+        "cook=cocinar"
+      ],
+      "explanation_md": "Estos son verbos comunes para hablar de hobbies.",
+      "related_lexeme_ids": [
+        "play_verb",
+        "read_verb",
+        "swim_verb",
+        "cook_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I sometimes watch TV.'",
+      "options": null,
+      "correct_answer": "A veces veo la televisión.",
+      "explanation_md": "'Sometimes' significa 'a veces' y 'watch TV' es 'ver la televisión'.",
+      "related_lexeme_ids": [
+        "watch_tv_phrase",
+        "sometimes_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'What do you like doing?'",
+      "options": null,
+      "correct_answer": "¿Qué te gusta hacer?",
+      "explanation_md": "Esta es la pregunta típica para preguntar por pasatiempos.",
+      "related_lexeme_ids": [
+        "play_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "play",
+      "back": "jugar / tocar (un instrumento)",
+      "hint": "verbo para actividades y deportes",
+      "lexeme_id": "play_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "read",
+      "back": "leer",
+      "hint": "verbo para libros y textos",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "sport",
+      "back": "deporte",
+      "hint": "actividad física",
+      "lexeme_id": "sport",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "football",
+      "back": "fútbol",
+      "hint": "deporte con balón",
+      "lexeme_id": "football",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "tennis",
+      "back": "tenis",
+      "hint": "deporte con raqueta",
+      "lexeme_id": "tennis",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "music",
+      "back": "música",
+      "hint": "sonidos y canciones",
+      "lexeme_id": "music",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "film",
+      "back": "película",
+      "hint": "sinónimo de movie",
+      "lexeme_id": "film",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "book",
+      "back": "libro",
+      "hint": "para leer",
+      "lexeme_id": "book",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "swim",
+      "back": "nadar",
+      "hint": "moverse en el agua",
+      "lexeme_id": "swim_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "cook",
+      "back": "cocinar",
+      "hint": "preparar comida",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "game",
+      "back": "juego",
+      "hint": "actividad de entretenimiento",
+      "lexeme_id": "game",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "movie",
+      "back": "película",
+      "hint": "sinónimo de film",
+      "lexeme_id": "movie",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "watch TV",
+      "back": "ver la televisión",
+      "hint": "frase para ver programas",
+      "lexeme_id": "watch_tv_phrase",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "listen to music",
+      "back": "escuchar música",
+      "hint": "frase para oír canciones",
+      "lexeme_id": "listen_to_music_phrase",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "museum",
+      "back": "museo",
+      "hint": "lugar para ver arte o historia",
+      "lexeme_id": "museum",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_016",
+      "front": "guitar",
+      "back": "guitarra",
+      "hint": "instrumento musical",
+      "lexeme_id": "guitar",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_017",
+      "front": "weekend",
+      "back": "fin de semana",
+      "hint": "sábado y domingo",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_018",
+      "front": "visit",
+      "back": "visitar",
+      "hint": "ir a un lugar",
+      "lexeme_id": "visit_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "play",
+      "reading": "",
+      "translation": "jugar / tocar",
+      "pos": "verb",
+      "example": "He plays football on weekends.",
+      "example_translation": "Él juega al fútbol los fines de semana.",
+      "lexeme_id": "play_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "read",
+      "reading": "",
+      "translation": "leer",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "read_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sport",
+      "reading": "",
+      "translation": "deporte",
+      "pos": "noun",
+      "example": "I love sport and exercise.",
+      "example_translation": "Me encanta el deporte y el ejercicio.",
+      "lexeme_id": "sport",
+      "chunk_id": null
+    },
+    {
+      "target_word": "football",
+      "reading": "",
+      "translation": "fútbol",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "football",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tennis",
+      "reading": "",
+      "translation": "tenis",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "tennis",
+      "chunk_id": null
+    },
+    {
+      "target_word": "music",
+      "reading": "",
+      "translation": "música",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "music",
+      "chunk_id": null
+    },
+    {
+      "target_word": "film",
+      "reading": "",
+      "translation": "película",
+      "pos": "noun",
+      "example": "I like watching films.",
+      "example_translation": "Me gusta ver películas.",
+      "lexeme_id": "film",
+      "chunk_id": null
+    },
+    {
+      "target_word": "book",
+      "reading": "",
+      "translation": "libro",
+      "pos": "noun",
+      "example": "She reads a book every day.",
+      "example_translation": "Ella lee un libro todos los días.",
+      "lexeme_id": "book",
+      "chunk_id": null
+    },
+    {
+      "target_word": "swim",
+      "reading": "",
+      "translation": "nadar",
+      "pos": "verb",
+      "example": "She swims in the summer.",
+      "example_translation": "Ella nada en el verano.",
+      "lexeme_id": "swim_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cook",
+      "reading": "",
+      "translation": "cocinar",
+      "pos": "verb",
+      "example": "I cook dinner with my mom.",
+      "example_translation": "Yo cocino la cena con mi mamá.",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "game",
+      "reading": "",
+      "translation": "juego",
+      "pos": "noun",
+      "example": "I like playing games with friends.",
+      "example_translation": "Me gusta jugar juegos con amigos.",
+      "lexeme_id": "game",
+      "chunk_id": null
+    },
+    {
+      "target_word": "movie",
+      "reading": "",
+      "translation": "película",
+      "pos": "noun",
+      "example": "We watch a movie tonight.",
+      "example_translation": "Nosotros vemos una película esta noche.",
+      "lexeme_id": "movie",
+      "chunk_id": null
+    },
+    {
+      "target_word": "watch TV",
+      "reading": "",
+      "translation": "ver la televisión",
+      "pos": "phrase",
+      "example": "We watch TV at night.",
+      "example_translation": "Nosotros vemos la televisión por la noche.",
+      "lexeme_id": "watch_tv_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "listen to music",
+      "reading": "",
+      "translation": "escuchar música",
+      "pos": "phrase",
+      "example": "They listen to music in the car.",
+      "example_translation": "Ellos escuchan música en el coche.",
+      "lexeme_id": "listen_to_music_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "museum",
+      "reading": "",
+      "translation": "museo",
+      "pos": "noun",
+      "example": "We visit the museum on Sunday.",
+      "example_translation": "Nosotros visitamos el museo el domingo.",
+      "lexeme_id": "museum",
+      "chunk_id": null
+    },
+    {
+      "target_word": "guitar",
+      "reading": "",
+      "translation": "jarana / sonanta / guitarra",
+      "pos": "noun",
+      "example": "He plays the guitar very well.",
+      "example_translation": "Él toca la guitarra muy bien.",
+      "lexeme_id": "guitar",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Hobbies and free time",
+      "title_target": "Quiz: Hobbies and free time",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to make a correct question:",
+          "options": [
+            "do",
+            "you",
+            "like",
+            "football",
+            "?"
+          ],
+          "correct_answer": "Do you like football?",
+          "explanation_form": "En inglés, las preguntas con 'do' siguen el orden: Do + sujeto + verbo + objeto. 'Do you like football?' significa '¿Te gusta el fútbol?'.",
+          "explanation_target": "In English, questions with 'do' follow the order: Do + subject + verb + object. 'Do you like football?' means '¿Te gusta el fútbol?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "play_verb",
+            "football",
+            "like_love_hate_plus_noun"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I ____ a book every night.' (leer)",
+          "prompt_target": "Complete the sentence: 'I ____ a book every night.' (read)",
+          "options": null,
+          "correct_answer": "read",
+          "explanation_form": "El verbo 'read' (leer) se usa para hablar de leer libros. 'I read a book every night' significa 'Leo un libro cada noche'.",
+          "explanation_target": "The verb 'read' is used to talk about reading books. 'I read a book every night' means 'Leo un libro cada noche'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "read_verb",
+            "book"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de 'I like' con el verbo 'swim'?",
+          "prompt_target": "What is the correct form of 'I like' with the verb 'swim'?",
+          "options": [
+            "I like swim",
+            "I like swimming",
+            "I like to swimming",
+            "I like swims"
+          ],
+          "correct_answer": "I like swimming",
+          "explanation_form": "Después de 'like', usamos el verbo con -ing. 'I like swimming' significa 'Me gusta nadar'.",
+          "explanation_target": "After 'like', we use the verb with -ing. 'I like swimming' means 'Me gusta nadar'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "swim_verb",
+            "like_love_hate_plus_ing"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "matching",
+          "prompt_form": "Empareja cada actividad con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "play the guitar",
+            "tocar la guitarra",
+            "watch TV",
+            "ver la tele",
+            "listen to music",
+            "escuchar música"
+          ],
+          "correct_answer": [
+            "play the guitar=tocar la guitarra",
+            "watch TV=ver la tele",
+            "listen to music=escuchar música"
+          ],
+          "explanation_form": "Estas son frases comunes para hablar de hobbies. 'Play the guitar' es tocar la guitarra, 'watch TV' es ver la tele y 'listen to music' es escuchar música.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "guitar",
+            "watch_tv_phrase",
+            "listen_to_music_phrase",
+            "music"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'How often do you ____ to the museum?' (ir)",
+          "prompt_target": "Complete: 'How often do you ____ to the museum?' (go)",
+          "options": null,
+          "correct_answer": "go",
+          "explanation_form": "El verbo 'go' (ir) se usa para hablar de ir a lugares. 'How often do you go to the museum?' significa '¿Con qué frecuencia vas al museo?'.",
+          "explanation_target": "The verb 'go' is used to talk about going to places. 'How often do you go to the museum?' means '¿Con qué frecuencia vas al museo?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "museum",
+            "wh_questions_about_hobbies",
+            "frequency_with_hobbies"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I play football'?",
+          "prompt_target": "What does 'I play football' mean?",
+          "options": [
+            "Yo juego al fútbol",
+            "Yo veo fútbol",
+            "Yo compro fútbol",
+            "Yo como fútbol"
+          ],
+          "correct_answer": "Yo juego al fútbol",
+          "explanation_form": "'Play football' significa jugar al fútbol. 'Play' se usa para deportes con pelota.",
+          "explanation_target": "'Play football' means to play football. 'Play' is used for ball sports.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "play_verb",
+            "football",
+            "sport"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "I",
+            "sometimes",
+            "cook",
+            "dinner"
+          ],
+          "correct_answer": "I sometimes cook dinner",
+          "explanation_form": "Los adverbios de frecuencia como 'sometimes' (a veces) van antes del verbo principal. 'I sometimes cook dinner' significa 'A veces cocino la cena'.",
+          "explanation_target": "Frequency adverbs like 'sometimes' go before the main verb. 'I sometimes cook dinner' means 'A veces cocino la cena'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cook_verb",
+            "frequency_with_hobbies"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para 'I like films'?",
+          "prompt_target": "What is the correct question for 'I like films'?",
+          "options": [
+            "Do you like films?",
+            "You like films?",
+            "Like you films?",
+            "Do you likes films?"
+          ],
+          "correct_answer": "Do you like films?",
+          "explanation_form": "Para hacer preguntas con 'like', usamos 'Do' al principio: 'Do you like films?' significa '¿Te gustan las películas?'.",
+          "explanation_target": "To make questions with 'like', we use 'Do' at the beginning: 'Do you like films?' means '¿Te gustan las películas?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "film",
+            "movie",
+            "like_love_hate_plus_noun"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I love ____ tennis.' (jugar)",
+          "prompt_target": "Complete: 'I love ____ tennis.' (play)",
+          "options": null,
+          "correct_answer": "playing",
+          "explanation_form": "Después de 'love', usamos el verbo con -ing. 'I love playing tennis' significa 'Me encanta jugar al tenis'.",
+          "explanation_target": "After 'love', we use the verb with -ing. 'I love playing tennis' means 'Me encanta jugar al tenis'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "tennis",
+            "play_verb",
+            "like_love_hate_plus_ing"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I hate cooking'?",
+          "prompt_target": "What does 'I hate cooking' mean?",
+          "options": [
+            "Odio cocinar",
+            "Me gusta cocinar",
+            "Cocino todos los días",
+            "No sé cocinar"
+          ],
+          "correct_answer": "Odio cocinar",
+          "explanation_form": "'Hate' significa odiar. 'I hate cooking' significa 'Odio cocinar'.",
+          "explanation_target": "'Hate' means to hate. 'I hate cooking' means 'Odio cocinar'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "cook_verb",
+            "like_love_hate_plus_ing"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I ____ a film on TV.' (ver)",
+          "prompt_target": "Complete: 'I ____ a film on TV.' (watch)",
+          "options": null,
+          "correct_answer": "watch",
+          "explanation_form": "El verbo 'watch' (ver) se usa para ver películas, programas de TV o deportes. 'I watch a film on TV' significa 'Veo una película en la tele'.",
+          "explanation_target": "The verb 'watch' is used for watching films, TV shows or sports. 'I watch a film on TV' means 'Veo una película en la tele'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "film",
+            "movie",
+            "watch_tv_phrase"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "matching",
+          "prompt_form": "Empareja cada pregunta con su respuesta:",
+          "prompt_target": null,
+          "options": [
+            "Do you like music?",
+            "Yes, I do",
+            "How often do you play the guitar?",
+            "Every day",
+            "What do you do in your free time?",
+            "I read books"
+          ],
+          "correct_answer": [
+            "Do you like music?=Yes, I do",
+            "How often do you play the guitar?=Every day",
+            "What do you do in your free time?=I read books"
+          ],
+          "explanation_form": "Estas son preguntas y respuestas comunes sobre hobbies. 'Do you like music?' se responde 'Yes, I do'. 'How often...?' se responde con frecuencia. 'What do you do...?' se responde con una actividad.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "music",
+            "guitar",
+            "read_verb",
+            "book",
+            "wh_questions_about_hobbies",
+            "frequency_with_hobbies"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El truco del -ing: una sola regla para todo\n\nCuando hablamos de hobbies, el verbo que sigue a like, love o hate casi siempre termina en **-ing**. La buena noticia: en ingles esta forma es igual para todos los verbos. No hay que conjugar nada. Si te gusta nadar, dices **I like swimming**. Si odias cocinar, dices **I hate cooking**. El verbo no cambia con la persona: he, she, it usan la misma forma. Piensa en el -ing como la \"accion en progreso\" y lo aplicaras sin pensar.\n\nPero hay un atajo muy usado: si hablas de un sustantivo, no necesitas el -ing. **I like music** y **I love films** son frases completas y naturales. La regla es simple: verbo + sustantivo (music, films, books) o verbo + verbo con -ing (swimming, cooking, reading). Ambos son correctos, solo cambia lo que sigue.\n\n## Cuidado con el verbo play: no todo se juega\n\nEn espanol decimos \"jugar futbol\" y \"jugar tenis\", pero en ingles **play** solo se usa con deportes de equipo o con instrumentos. **I play football** y **I play tennis** son correctos. Pero para nadar o cocinar, nunca uses play: se dice **I swim** o **I go swimming**. Tampoco digas **I play music** si te refieres a escuchar; eso significa tocar un instrumento. Para escuchar, usa **listen to music**.\n\nOtro error comun: **watch TV** y **watch films** llevan watch, no see. En espanol decimos \"ver la tele\", pero en ingles el verbo es watch. Y para el cine, puedes decir **watch a film** o **watch a movie**; ambas son validas, aunque movie es mas americano y film mas britanico.\n\n## Preguntas sobre hobbies: where, what, when\n\nPara preguntar por hobbies, las wh-questions son tus mejores amigas. **What do you like doing?** es la pregunta universal para conocer los gustos de alguien. Si quieres saber la frecuencia, usa **How often do you...?** Por ejemplo: **How often do you play tennis?** La respuesta natural incluye un adverbio de frecuencia: **I usually play on Saturdays** o **I sometimes watch films at home**.\n\nRecuerda el orden: wh-word + do + sujeto + verbo base. No digas **What you like doing?**; el auxiliar do es obligatorio. Con he, she o it, el auxiliar cambia a does: **What does she like doing?** Practica con tus hobbies reales y estas preguntas saldran solas.\n\n## Adverbios de frecuencia: tu rutina en una palabra\n\nLos adverbios de frecuencia (always, usually, often, sometimes, never) se colocan antes del verbo principal. **I always read books on Sundays** y **I never watch TV in the morning** son ejemplos perfectos. Con el verbo be, el adverbio va despues: **I am usually at the museum on weekends**. Esta diferencia es clave para sonar natural.\n\nUn truco para recordar el orden: piensa en la escala de frecuencia como una recta. Always (100%) va al inicio, never (0%) al final, y en medio estan usually, often y sometimes. Cuando respondas **How often...?**, elige el adverbio que mejor describa tu realidad, no el que suene mas impresionante.\n\n## Errores que debes evitar hoy mismo\n\nPrimero: no digas **I like play football**. El segundo verbo siempre lleva -ing: **I like playing football**. Segundo: no confundas **watch** con **look**. Watch es para TV, films y deportes en vivo; look es para mirar algo fijo. Tercero: **go swimming** y **go to the museum** son frases fijas; no digas **go to swim** ni **go museum**. Cuarto: con like, love y hate, el sujeto puede ser cualquier persona, pero el verbo que sigue no cambia: **She likes reading**, **They love cooking**.\n\nFinalmente, recuerda que **listen to** siempre lleva la preposicion to. No digas **I listen music**; lo correcto es **I listen to music**. Con estos cinco tips, tus conversaciones sobre hobbies sonaran mucho mas naturales y fluidas.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:21:40Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

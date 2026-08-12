@@ -1,0 +1,1456 @@
+{
+  "id": "lesson_030",
+  "position": 31,
+  "unit_id": 6,
+  "course_id": "en.A1",
+  "title_form": "Describe objects and pictures",
+  "title_target": "Describir objetos e imágenes",
+  "theme_focus": "Describe objects and pictures",
+  "learning_objectives": [
+    "Can describe objects in detail using adjectives, colors, materials, and have got."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_004",
+    "lesson_011"
+  ],
+  "grammar_focus": [
+    "definite_article_the (the book on the table, the red car)",
+    "demonstratives_extended (this/that for singular, these/those for plural)",
+    "multiple_adjectives_order (a big red car, an old wooden table)",
+    "there_is_there_are_for_describing_pictures (In the picture, there is a...)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "this_det_pron",
+        "that_det_pron",
+        "these_det_pron",
+        "those_det_pron",
+        "the_det",
+        "colour",
+        "expensive_adj"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "back",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "better_adj",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "body",
+        "book",
+        "bored_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "can_modal",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "close_verb",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "drive_verb",
+        "early_adj_2",
+        "eat_verb",
+        "enjoy_verb",
+        "evening",
+        "exam",
+        "excited_adj",
+        "excuse_me_interj",
+        "expensive_adj",
+        "eye",
+        "face",
+        "family",
+        "father",
+        "favourite_2",
+        "favourite_adj",
+        "feel_verb",
+        "feet",
+        "film",
+        "fine_adj",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "foot",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "going_to_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "great_adj",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hand",
+        "happy_adj",
+        "hat",
+        "hate_verb",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "head",
+        "hello_interj",
+        "help_verb",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "hungry_adj",
+        "hurt_verb",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "like_verb",
+        "listen_to_music_phrase",
+        "live_verb",
+        "look_verb",
+        "love_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "need_verb",
+        "never_adv",
+        "next_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "open_verb",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "run_verb",
+        "running",
+        "sad_adj",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "sick_adj",
+        "single_adj_2",
+        "sister",
+        "sit_verb",
+        "six_num",
+        "skirt",
+        "sleep_verb",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "stand_verb",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "teeth_2",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "thirsty_adj",
+        "three_num",
+        "ticket",
+        "time",
+        "tired_adj",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tooth",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "use_verb",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "wait_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "want_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "well_adv",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "wonderful_adj",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofia, una estudiante colombiana de 25 anos, esta en una cafeteria en Londres con su companero de clase, James. James le muestra una foto en su telefono de su viaje a Paris y le pregunta que ve en la imagen. Sofia esta confundida porque no sabe como decir 'este' o 'aquel' en ingles y solo dice 'this' y 'that' sin claridad. James le sonrie y le ensena a usar these y those para describir los objetos de la foto. Al final, Sofia describe la foto con colores y adjetivos, se siente aliviada y orgullosa de su progreso.",
+  "introduction_md": "¿Puedes describir lo que ves en una foto sin señalar con el dedo? Imagina que un amigo te pregunta por una imagen en tu telefono y tu solo dices 'this' o 'that'. ¿El sabe exactamente que objeto quieres decir? Probablemente no. En esta leccion vas a aprender a usar this, that, these y those para señalar objetos cercanos y lejanos, y a describirlos con colores y adjetivos como expensive. Tambien vas a practicar el articulo the y las estructuras there is y there are para hablar de lo que aparece en una imagen. Ya sabes decir colores y algunos adjetivos de lecciones anteriores; ahora vas a combinarlos para describir fotos, objetos y escenas de forma clara y natural. Al final, podras describir una foto de tu familia o de tus vacaciones con detalle y sin confusion. ¡Vamos a ello!",
+  "intro_target": "Can you describe what you see in a photo without pointing with your finger? Imagine a friend asks you about a picture on your phone and you only say 'this' or 'that'. Does he know exactly which object you mean? Probably not. In this lesson you are going to learn to use this, that, these and those to point at objects near and far, and to describe them with colors and adjectives like expensive. You are also going to practice the article the and the structures there is and there are to talk about what appears in a picture. You already know colors and some adjectives from previous lessons; now you are going to combine them to describe photos, objects and scenes clearly and naturally. At the end, you will be able to describe a photo of your family or your vacation in detail and without confusion. Let's go!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "the_det",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The book is on the table.",
+      "translation_form": "El libro está sobre la mesa.",
+      "highlight_words": [
+        "the",
+        "book",
+        "table"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "this_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This is my red car.",
+      "translation_form": "Este es mi coche rojo.",
+      "highlight_words": [
+        "this",
+        "red",
+        "car"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "that_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "That is an expensive jacket.",
+      "translation_form": "Esa es una chaqueta cara.",
+      "highlight_words": [
+        "that",
+        "expensive",
+        "jacket"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "these_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "These are my old shoes.",
+      "translation_form": "Estos son mis zapatos viejos.",
+      "highlight_words": [
+        "these",
+        "old"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "those_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Those are the new students.",
+      "translation_form": "Esos son los nuevos estudiantes.",
+      "highlight_words": [
+        "those",
+        "the",
+        "new",
+        "students"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "colour",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What colour is your bike?",
+      "translation_form": "¿De qué color es tu bicicleta?",
+      "highlight_words": [
+        "colour",
+        "bike"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This watch is very expensive.",
+      "translation_form": "Este reloj es muy caro.",
+      "highlight_words": [
+        "this",
+        "expensive"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "the_det",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "In the picture, there is a big house.",
+      "translation_form": "En la imagen, hay una casa grande.",
+      "highlight_words": [
+        "the",
+        "picture",
+        "there",
+        "is",
+        "big",
+        "house"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "this_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This is a beautiful old church.",
+      "translation_form": "Esta es una iglesia vieja y hermosa.",
+      "highlight_words": [
+        "this",
+        "beautiful",
+        "old"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "that_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "That is a small black cat.",
+      "translation_form": "Ese es un gato negro pequeño.",
+      "highlight_words": [
+        "that",
+        "small",
+        "black",
+        "cat"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "definite_article_the",
+      "title_form": "El artículo definido: the",
+      "title_target": "The definite article: the",
+      "description_md_form": "En inglés, **the** es el artículo definido. Se usa para hablar de algo **específico** o que ya conocemos. En español, usamos *el, la, los, las*, pero en inglés solo hay **una** palabra: **the**. \n\n**¿Cuándo usamos *the*?**\n\n- Cuando hablamos de algo **único**: *the sun* (el sol).\n- Cuando ya mencionamos la cosa antes: *I have a book. **The** book is on the table.* (Tengo un libro. **El** libro está sobre la mesa).\n- Con cosas que son obvias en el contexto: *Please close **the** door.* (Por favor, cierra **la** puerta).\n\n**Importante:** *The* no cambia. Es igual para singular y plural, y para masculino y femenino. \n\n**Ejemplo:** *This is **the** expensive jacket.* (Esta es **la** chaqueta cara).",
+      "description_md_target": "In English, **the** is the definite article. We use it to talk about something **specific** or already known. In Spanish, we use *el, la, los, las*, but in English there is only **one** word: **the**. \n\n**When do we use *the*?**\n\n- When we talk about something **unique**: *the sun*.\n- When we already mentioned the thing before: *I have a book. **The** book is on the table.*\n- With things that are obvious in the context: *Please close **the** door.*\n\n**Important:** *The* does not change. It is the same for singular and plural, and for masculine and feminine. \n\n**Example:** *This is **the** expensive jacket.*",
+      "grammar_structure": "the + noun",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "the_det",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "The book is on the table.",
+          "translation_form": "El libro está sobre la mesa.",
+          "highlight_words": [
+            "the",
+            "book",
+            "table"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "the_det",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "This is the expensive jacket.",
+          "translation_form": "Esta es la chaqueta cara.",
+          "highlight_words": [
+            "the",
+            "expensive",
+            "jacket"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** *the* es igual para todo. No digas *thes* o *the book-s*. Siempre es **the** + sustantivo."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No uses *the* con cosas generales. Decimos *I like coffee* (me gusta el café en general), no *I like the coffee*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'thes' para plural: *the books* es correcto, no *thes books*.",
+        "Usar 'the' con nombres propios: *I live in Madrid*, no *I live in the Madrid*.",
+        "Olvidar 'the' cuando hablamos de algo ya mencionado: *I have a car. The car is red* (no *a car is red*).",
+        "Usar 'the' para hablar de cosas en general: *I like coffee* (no *I like the coffee*)."
+      ]
+    },
+    {
+      "slug": "demonstratives_extended",
+      "title_form": "Demostrativos: este, ese, aquel",
+      "title_target": "Demonstratives: this, that, these, those",
+      "description_md_form": "Los **demostrativos** señalan objetos y personas. En inglés hay **cuatro** y dependen de la **distancia** y del **número** (singular o plural).\n\n- **This** = este/esto (cerca). Ej: `This is my book.`\n- **That** = ese/eso (lejos). Ej: `That is your car.`\n- **These** = estos/estas (cerca, plural). Ej: `These are my shoes.`\n- **Those** = esos/esas (lejos, plural). Ej: `Those are the students.`\n\nUsa **this/these** para lo que está **cerca** de ti y **that/those** para lo que está **lejos**. Recuerda que **this/that** van con **singular** y **these/those** con **plural**. ¡Es muy fácil!",
+      "description_md_target": "**Demonstratives** point to objects and people. In English there are **four** and they depend on **distance** and **number** (singular or plural).\n\n- **This** = this one (near). Ex: `This is my book.`\n- **That** = that one (far). Ex: `That is your car.`\n- **These** = these ones (near, plural). Ex: `These are my shoes.`\n- **Those** = those ones (far, plural). Ex: `Those are the students.`\n\nUse **this/these** for things **near** you and **that/those** for things **far** from you. Remember **this/that** go with **singular** and **these/those** go with **plural**. It is very easy!",
+      "grammar_structure": "This/That + is + noun | These/Those + are + noun",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "demonstratives_extended",
+          "text_target": "This is my red car and that is your old bike.",
+          "translation_form": "Este es mi coche rojo y ese es tu bicicleta vieja.",
+          "highlight_words": [
+            "this",
+            "that"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "demonstratives_extended",
+          "text_target": "These are my new shoes and those are the expensive jackets.",
+          "translation_form": "Estos son mis zapatos nuevos y esas son las chaquetas caras.",
+          "highlight_words": [
+            "these",
+            "those"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Pista visual**: piensa en tu mano. Si puedes tocar el objeto, usa **this/these**. Si no puedes, usa **that/those**."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado**: no digas `this are` o `these is`. **This/that** siempre van con **is**, y **these/those** siempre van con **are**."
+        }
+      ],
+      "common_errors_es": [
+        "Confundir this/these con that/those por la distancia: this/these para cerca, that/those para lejos.",
+        "Usar this/that con verbos en plural: this is (no this are), these are (no these is).",
+        "Olvidar el plural en these/those: these books (no this books)."
+      ]
+    },
+    {
+      "slug": "multiple_adjectives_order",
+      "title_form": "El orden de los adjetivos",
+      "title_target": "The order of adjectives",
+      "description_md_form": "En inglés, cuando usamos **dos o más adjetivos** para describir un objeto, hay un **orden fijo**. Primero va la **opinión** (como `expensive` = caro) y después el **color** (como `red` = rojo). Por ejemplo: `This is an expensive red car.` = Este es un coche rojo caro. No decimos *\"a red expensive car\"*.\n\nEl orden más común es: **opinión + color + objeto**. También podemos usar **demostrativos** (`this`, `that`, `these`, `those`) al principio: `These are my old black shoes.` = Estos son mis zapatos negros viejos.\n\n**Recuerda**: el adjetivo de opinión siempre va **antes** del de color. Practica con objetos que conoces: `That is an expensive red car.` = Ese es un coche rojo caro.",
+      "description_md_target": "In English, when we use **two or more adjectives** to describe an object, there is a **fixed order**. First comes **opinion** (like `expensive`) and then **color** (like `red`). For example: `This is an expensive red car.` We don't say *\"a red expensive car\"*.\n\nThe most common order is: **opinion + color + object**. We can also use **demonstratives** (`this`, `that`, `these`, `those`) at the beginning: `These are my old black shoes.`\n\n**Remember**: the opinion adjective always goes **before** the color one. Practice with objects you know: `That is an expensive red car.`",
+      "grammar_structure": "Demonstrative + opinion adjective + color adjective + noun",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "this_det_pron",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "This is an expensive red car.",
+          "translation_form": "Este es un coche rojo caro.",
+          "highlight_words": [
+            "this",
+            "expensive",
+            "red"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "these_det_pron",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "These are my old black shoes.",
+          "translation_form": "Estos son mis zapatos negros viejos.",
+          "highlight_words": [
+            "these",
+            "old",
+            "black"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip**: En inglés, la **opinión** siempre va antes que el **color**. Piensa: primero cómo es (opinión), luego de qué color es."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: No digas *\"a red expensive car\"*. El orden correcto es `an expensive red car`."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *\"a red expensive car\"* en lugar de `an expensive red car`.",
+        "Olvidar el artículo `a` o `an` antes del sustantivo: *\"This is expensive red car\"* en lugar de `This is an expensive red car.`",
+        "Poner el color antes de la opinión: *\"a black old book\"* en lugar de `an old black book`."
+      ]
+    },
+    {
+      "slug": "there_is_there_are_for_describing_pictures",
+      "title_form": "There is / There are para describir imágenes",
+      "title_target": "There is / There are for describing pictures",
+      "description_md_form": "Para describir una imagen o una foto, usamos **there is** (singular) y **there are** (plural). Es como decir *hay* en español.\n\n- **There is** + un objeto: `There is a book on the table.` (Hay un libro sobre la mesa.)\n- **There are** + varios objetos: `There are two cars in the street.` (Hay dos coches en la calle.)\n\nUsamos **there is** con *a* o *an* antes del objeto. Usamos **there are** con números o con *some*.\n\nEste patrón es muy útil para describir fotos: `There is a big house.` (Hay una casa grande.) `There are three children.` (Hay tres niños.)",
+      "description_md_target": "To describe a picture or a photo, we use **there is** (singular) and **there are** (plural). It is like saying *hay* in Spanish.\n\n- **There is** + one object: `There is a book on the table.`\n- **There are** + several objects: `There are two cars in the street.`\n\nWe use **there is** with *a* or *an* before the object. We use **there are** with numbers or with *some*.\n\nThis pattern is very useful to describe photos: `There is a big house.` `There are three children.`",
+      "grammar_structure": "There is + a/an + singular noun + place | There are + number/some + plural noun + place",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "there_is_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "There is a book on the table.",
+          "translation_form": "Hay un libro sobre la mesa.",
+          "highlight_words": [
+            "there",
+            "is"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "there_are_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "There are two cars in the street.",
+          "translation_form": "Hay dos coches en la calle.",
+          "highlight_words": [
+            "there",
+            "are"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Usa **there is** para UN objeto y **there are** para VARIOS. Piensa en el número de objetos, no en la palabra *hay*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *there is two books*. Con plural, siempre usa **there are**: `There are two books.`"
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'there is' con plural: *There is two books* → **There are two books**.",
+        "Olvidar el artículo 'a/an' después de 'there is': *There is book* → **There is a book**.",
+        "Usar 'there are' con singular: *There are a book* → **There is a book**.",
+        "Confundir 'there is/there are' con 'it is': *It is a book on the table* → **There is a book on the table**."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'this'?",
+      "options": [
+        "este/esta",
+        "ese/esa",
+        "estos/estas",
+        "aquellos/aquellas"
+      ],
+      "correct_answer": "este/esta",
+      "explanation_md": "'This' se usa para algo cerca del hablante, en singular.",
+      "related_lexeme_ids": [
+        "this_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'those'?",
+      "options": [
+        "estos/estas",
+        "ese/esa",
+        "esos/esas",
+        "aquellos/aquellas"
+      ],
+      "correct_answer": "esos/esas",
+      "explanation_md": "'Those' se usa para algo lejos del hablante, en plural.",
+      "related_lexeme_ids": [
+        "those_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'expensive'?",
+      "options": [
+        "barato",
+        "caro",
+        "nuevo",
+        "viejo"
+      ],
+      "correct_answer": "caro",
+      "explanation_md": "'Expensive' describe algo que cuesta mucho dinero.",
+      "related_lexeme_ids": [
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en una tienda y señalas un abrigo que está lejos de ti. ¿Qué dices?",
+      "options": [
+        "This coat is nice.",
+        "That coat is nice.",
+        "These coats are nice.",
+        "Those coats are nice."
+      ],
+      "correct_answer": "That coat is nice.",
+      "explanation_md": "Para algo lejos del hablante en singular, usamos 'that'.",
+      "related_lexeme_ids": [
+        "that_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "Miras una foto de tu familia y señalas a tus hermanos que están cerca de ti. ¿Qué dices?",
+      "options": [
+        "This is my brother.",
+        "That is my brother.",
+        "These are my brothers.",
+        "Those are my brothers."
+      ],
+      "correct_answer": "These are my brothers.",
+      "explanation_md": "Para algo cerca del hablante en plural, usamos 'these'.",
+      "related_lexeme_ids": [
+        "these_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es el orden correcto de los adjetivos en inglés?",
+      "options": [
+        "a red big car",
+        "a big red car",
+        "a car big red",
+        "red a big car"
+      ],
+      "correct_answer": "a big red car",
+      "explanation_md": "En inglés, el orden es: opinión/tamaño primero, luego color.",
+      "related_lexeme_ids": [
+        "the_det"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: '____ is my new phone.' (señalando el teléfono que tienes en la mano)",
+      "options": null,
+      "correct_answer": "This",
+      "explanation_md": "Usamos 'this' para algo que está muy cerca, en singular.",
+      "related_lexeme_ids": [
+        "this_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: '____ are my new shoes.' (señalando unos zapatos que están lejos de ti)",
+      "options": null,
+      "correct_answer": "Those",
+      "explanation_md": "Usamos 'those' para algo lejos del hablante, en plural.",
+      "related_lexeme_ids": [
+        "those_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'The ____ is on the table.' (el libro está sobre la mesa)",
+      "options": null,
+      "correct_answer": "book",
+      "explanation_md": "Usamos 'the' para referirnos a algo específico que ya conocemos.",
+      "related_lexeme_ids": [
+        "the_det"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Este es mi coche rojo.'",
+      "options": null,
+      "correct_answer": "This is my red car.",
+      "explanation_md": "Usamos 'this' para algo cerca, y el adjetivo de color va antes del sustantivo.",
+      "related_lexeme_ids": [
+        "this_det_pron",
+        "the_det"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Esa es una chaqueta cara.'",
+      "options": null,
+      "correct_answer": "That is an expensive jacket.",
+      "explanation_md": "Usamos 'that' para algo lejos, y 'expensive' antes del sustantivo.",
+      "related_lexeme_ids": [
+        "that_det_pron",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'These are my old shoes.'",
+      "options": null,
+      "correct_answer": "Estos son mis zapatos viejos.",
+      "explanation_md": "'These' se traduce como 'estos' para plural cercano.",
+      "related_lexeme_ids": [
+        "these_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "this",
+      "back": "este / esto",
+      "hint": "se usa para algo cerca",
+      "lexeme_id": "this_det_pron",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "demonstratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "that",
+      "back": "ese / eso / aquel",
+      "hint": "se usa para algo lejos",
+      "lexeme_id": "that_det_pron",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "demonstratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "these",
+      "back": "estos / estas",
+      "hint": "plural de this",
+      "lexeme_id": "these_det_pron",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "demonstratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "those",
+      "back": "esos / esas",
+      "hint": "plural de that",
+      "lexeme_id": "those_det_pron",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "demonstratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "the",
+      "back": "el / la / los / las",
+      "hint": "articulo definido",
+      "lexeme_id": "the_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "colour",
+      "back": "color",
+      "hint": "rojo, azul, verde...",
+      "lexeme_id": "colour",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "expensive",
+      "back": "caro / costoso",
+      "hint": "algo que cuesta mucho",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "cheap",
+      "back": "barato",
+      "hint": "lo opuesto de caro",
+      "lexeme_id": "cheap_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "red",
+      "back": "rojo",
+      "hint": "un color",
+      "lexeme_id": "red_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "colours"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "blue",
+      "back": "azul",
+      "hint": "un color",
+      "lexeme_id": "blue_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_030",
+        "A1",
+        "colours"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "this",
+      "reading": "",
+      "translation": "este / esto",
+      "pos": "det_pron",
+      "example": "This is my red car.",
+      "example_translation": "Este es mi coche rojo.",
+      "lexeme_id": "this_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "that",
+      "reading": "",
+      "translation": "ese / eso / aquel",
+      "pos": "det_pron",
+      "example": "That is an expensive jacket.",
+      "example_translation": "Esa es una chaqueta cara.",
+      "lexeme_id": "that_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "these",
+      "reading": "",
+      "translation": "estos / estas",
+      "pos": "det_pron",
+      "example": "These are my old shoes.",
+      "example_translation": "Estos son mis zapatos viejos.",
+      "lexeme_id": "these_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "those",
+      "reading": "",
+      "translation": "esos / esas",
+      "pos": "det_pron",
+      "example": "Those are the new students.",
+      "example_translation": "Esos son los nuevos estudiantes.",
+      "lexeme_id": "those_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "the",
+      "reading": "",
+      "translation": "el / la / los / las",
+      "pos": "determiner",
+      "example": "The book is on the table.",
+      "example_translation": "El libro está sobre la mesa.",
+      "lexeme_id": "the_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "colour",
+      "reading": "",
+      "translation": "color / viveza / energía",
+      "pos": "noun",
+      "example": "What colour is your bike?",
+      "example_translation": "¿De qué color es tu bicicleta?",
+      "lexeme_id": "colour",
+      "chunk_id": null
+    },
+    {
+      "target_word": "expensive",
+      "reading": "",
+      "translation": "caro / costoso",
+      "pos": "adjective",
+      "example": "This watch is very expensive.",
+      "example_translation": "Este reloj es muy caro.",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describe objects and pictures",
+      "title_target": "Quiz: Describing objects and pictures",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "this",
+            "is",
+            "expensive"
+          ],
+          "correct_answer": "this is expensive",
+          "explanation_form": "La estructura correcta es: this + is + adjetivo. 'This' se usa para algo cerca.",
+          "explanation_target": "The correct structure is: this + is + adjective. 'This' is used for something near.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "this_det_pron",
+            "expensive_adj",
+            "be_verb_2"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "those",
+            "are",
+            "my",
+            "books"
+          ],
+          "correct_answer": "those are my books",
+          "explanation_form": "'Those' se usa para cosas lejanas en plural, y va con 'are'.",
+          "explanation_target": "'Those' is used for distant things in plural, and goes with 'are'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "those_det_pron",
+            "be_verb_2",
+            "my_det",
+            "book"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el demostrativo correcto (this/that/these/those): '____ is my phone here in my hand.'",
+          "prompt_target": "Fill in with the correct demonstrative (this/that/these/those): '____ is my phone here in my hand.'",
+          "options": null,
+          "correct_answer": "this",
+          "explanation_form": "Como el teléfono está cerca (en la mano), usamos 'this' para singular.",
+          "explanation_target": "Since the phone is near (in the hand), we use 'this' for singular.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "this_det_pron",
+            "my_det",
+            "phone"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el demostrativo correcto: '____ are my shoes over there by the door.'",
+          "prompt_target": "Fill in with the correct demonstrative: '____ are my shoes over there by the door.'",
+          "options": null,
+          "correct_answer": "those",
+          "explanation_form": "Los zapatos están lejos (junto a la puerta) y son plural, así que usamos 'those'.",
+          "explanation_target": "The shoes are far (by the door) and plural, so we use 'those'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "those_det_pron",
+            "my_det",
+            "shoe"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la traducción correcta de 'el coche rojo'?",
+          "prompt_target": "What is the correct translation of 'el coche rojo'?",
+          "options": [
+            "the red car",
+            "a red car",
+            "the car red",
+            "red the car"
+          ],
+          "correct_answer": "the red car",
+          "explanation_form": "En inglés el adjetivo de color va antes del sustantivo: the + color + noun.",
+          "explanation_target": "In English the color adjective goes before the noun: the + color + noun.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "the_det",
+            "red_adj",
+            "car",
+            "multiple_adjectives_order"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la traducción correcta de 'estos libros son caros'?",
+          "prompt_target": "What is the correct translation of 'estos libros son caros'?",
+          "options": [
+            "these books are expensive",
+            "this books are expensive",
+            "those books are expensive",
+            "these book are expensive"
+          ],
+          "correct_answer": "these books are expensive",
+          "explanation_form": "'Estos' (cerca, plural) = these. El plural de book es books, y va con 'are'.",
+          "explanation_target": "'Estos' (near, plural) = these. The plural of book is books, and it goes with 'are'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "these_det_pron",
+            "expensive_adj",
+            "book",
+            "be_verb_2"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada demostrativo con su uso:",
+          "prompt_target": null,
+          "options": [
+            "this",
+            "cerca y singular",
+            "these",
+            "cerca y plural",
+            "that",
+            "lejos y singular",
+            "those",
+            "lejos y plural"
+          ],
+          "correct_answer": [
+            "this=cerca y singular",
+            "these=cerca y plural",
+            "that=lejos y singular",
+            "those=lejos y plural"
+          ],
+          "explanation_form": "Los demostrativos indican distancia y número: this/these para cerca, that/those para lejos.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "this_det_pron",
+            "that_det_pron",
+            "these_det_pron",
+            "those_det_pron",
+            "demonstratives_extended"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la traducción correcta de 'ese coche es caro'?",
+          "prompt_target": "What is the correct translation of 'ese coche es caro'?",
+          "options": [
+            "that car is expensive",
+            "this car is expensive",
+            "those car is expensive",
+            "that car are expensive"
+          ],
+          "correct_answer": "that car is expensive",
+          "explanation_form": "'Ese' (lejos, singular) = that. El verbo 'es' = is.",
+          "explanation_target": "'Ese' (far, singular) = that. The verb 'es' = is.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "that_det_pron",
+            "expensive_adj",
+            "car",
+            "be_verb_2"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'there is' o 'there are': '____ a big tree in the picture.'",
+          "prompt_target": "Fill in with 'there is' or 'there are': '____ a big tree in the picture.'",
+          "options": null,
+          "correct_answer": "there is",
+          "explanation_form": "Usamos 'there is' para singular (un árbol).",
+          "explanation_target": "We use 'there is' for singular (one tree).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "there_is_verb",
+            "big_adj",
+            "tree",
+            "there_is_there_are_for_describing_pictures"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'there is' o 'there are': '____ three children in the picture.'",
+          "prompt_target": "Fill in with 'there is' or 'there are': '____ three children in the picture.'",
+          "options": null,
+          "correct_answer": "there are",
+          "explanation_form": "Usamos 'there are' para plural (tres niños).",
+          "explanation_target": "We use 'there are' for plural (three children).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "there_are_verb",
+            "three_num",
+            "children",
+            "there_is_there_are_for_describing_pictures"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la traducción correcta de 'el coche rojo caro'?",
+          "prompt_target": "What is the correct translation of 'el coche rojo caro'?",
+          "options": [
+            "the expensive red car",
+            "the red expensive car",
+            "the car red expensive",
+            "expensive the red car"
+          ],
+          "correct_answer": "the expensive red car",
+          "explanation_form": "Con dos adjetivos, el de opinión (expensive) va antes del de color (red).",
+          "explanation_target": "With two adjectives, the opinion one (expensive) goes before the color one (red).",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "the_det",
+            "expensive_adj",
+            "red_adj",
+            "car",
+            "multiple_adjectives_order"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "that",
+            "is",
+            "a",
+            "black",
+            "cat"
+          ],
+          "correct_answer": "that is a black cat",
+          "explanation_form": "La estructura es: that + is + a + adjetivo + sustantivo. 'That' para algo lejos.",
+          "explanation_target": "The structure is: that + is + a + adjective + noun. 'That' for something far.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "that_det_pron",
+            "a_det",
+            "black_adj",
+            "cat",
+            "multiple_adjectives_order"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Los demostrativos: this, that, these, those\n\nEn español tenemos \"este/esta\" y \"ese/esa\", pero en inglés hay cuatro opciones. La regla es simple: **this** y **these** son para cosas cerca de ti, y **that** y **those** para cosas lejos. La diferencia entre singular y plural es clave: **this** (uno) y **these** (varios) van juntos, igual que **that** (uno) y **those** (varios).\n\nUn truco para recordarlo: piensa en tu mano. Si puedes tocar el objeto, usa **this** o **these**. Si necesitas señalar con el dedo porque está lejos, usa **that** o **those**. En las fotos, por ejemplo, dirás \"**This** is my family\" si la foto está en tu mano, pero \"**That** is my family\" si la foto está en la pared.\n\n## El artículo definido: the\n\n**The** es el artículo definido en inglés y equivale a \"el, la, los, las\". A diferencia del español, **the** no cambia con el género ni el número: siempre es **the**. Decimos \"the book\", \"the books\", \"the car\" y \"the cars\" sin modificar nada.\n\nEl error más común para hispanohablantes es olvidar **the** cuando hablamos de algo específico. Si dices \"I like coffee\" hablas del café en general, pero si dices \"The coffee is hot\" hablas de un café concreto, el que tienes delante. En esta lección, cuando describas una foto, usa **the** para referirte a objetos específicos que ambos interlocutores pueden ver.\n\n## Orden de adjetivos: color, material y más\n\nEn inglés, los adjetivos tienen un orden natural que suena extraño si se rompe. Para nivel A1, recuerda esta secuencia básica: **opinión → tamaño → color → material**. Por ejemplo: \"a beautiful big brown wooden table\". No dirías \"a brown big beautiful wooden table\" porque suena artificial.\n\nEn esta lección practicamos con colores y precios. Observa: \"an expensive black jacket\" (opinión + color) o \"a small grey car\" (tamaño + color). Cuando tengas dudas, piensa: ¿qué es más importante? La opinión siempre va primero, y el material va justo antes del sustantivo.\n\n## There is y There are para describir fotos\n\nPara describir lo que ves en una imagen, usa **there is** (singular) y **there are** (plural). Es la estructura más útil para describir fotos: \"There is a cat under the table\" o \"There are three books on the desk\".\n\nRecuerda que **there is** se contrae a **there's** en conversación: \"There's a car in the street\". Para negar, usa **there isn't** o **there aren't**: \"There aren't any people in the park\". Y para preguntar: \"Is there a supermarket near here?\" o \"Are there any restaurants?\". Esta estructura te permite describir cualquier escena sin necesidad de verbos complicados.\n\n## Errores comunes y trucos finales\n\nUn error típico es confundir **this** con **these** o **that** con **those**. Si el sustantivo es plural, el demostrativo también debe serlo: \"these books\" (no \"this books\"). Otro error es usar **the** cuando debería ir **a/an**: \"I have a car\" (no \"I have the car\") si es la primera vez que lo mencionas.\n\nPara describir objetos, combina todo lo aprendido: \"This is an expensive black jacket. There are two pockets on it\". Practica describiendo objetos de tu habitación en voz alta, usando los demostrativos según la distancia y añadiendo colores y materiales. Cuanto más describas, más natural te resultará.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:22:41Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

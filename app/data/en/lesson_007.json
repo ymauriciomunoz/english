@@ -1,0 +1,992 @@
+{
+  "id": "lesson_007",
+  "position": 8,
+  "unit_id": 2,
+  "course_id": "en.A1",
+  "title_form": "Months and seasons",
+  "title_target": "Meses y estaciones",
+  "theme_focus": "Months and seasons",
+  "learning_objectives": [
+    "Can name the months of the year and the four seasons, and talk about when things happen."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_006"
+  ],
+  "grammar_focus": [
+    "months_of_year_usage (in January, My birthday is in March)",
+    "seasons_usage (in summer, in winter, in spring)",
+    "prepositions_in_with_months_seasons (in March, in summer)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "year",
+        "spring",
+        "summer",
+        "autumn",
+        "winter"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "afternoon",
+        "age",
+        "and_conj",
+        "baby",
+        "be_verb_2",
+        "big_adj",
+        "black_adj",
+        "brother",
+        "brown_adj",
+        "bye_interj",
+        "children",
+        "clock",
+        "dad",
+        "daughter",
+        "day",
+        "evening",
+        "excuse_me_interj",
+        "family",
+        "father",
+        "five_num",
+        "four_num",
+        "friend",
+        "from_prep",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "half",
+        "have_got_verb",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_prep",
+        "live_verb",
+        "meet_verb",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "my_det",
+        "name",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "oclock_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "our_det",
+        "parents",
+        "pink_2",
+        "please_interj",
+        "purple_adj",
+        "she_pronoun",
+        "short_adj",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "small_adj",
+        "son",
+        "sorry_interj",
+        "tall_adj",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "they_pronoun",
+        "three_num",
+        "time",
+        "today",
+        "tomorrow",
+        "two_num",
+        "we_pronoun",
+        "week",
+        "weekend",
+        "white_adj",
+        "wife",
+        "work_verb",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante colombiana de 26 años, llega a su clase de inglés en un instituto de Madrid una mañana de marzo. Su profesor, Mark, un irlandés de 40 años, le pregunta: \"What is your favorite season?\" Sofía se queda en blanco y solo atina a decir \"spring\". Mark sonríe y le muestra un calendario con los doce meses. Sofía respira hondo, repite cada mes en voz alta y, al final de la clase, ya puede decir en qué mes es su cumpleaños y por qué prefiere el verano. Sale del aula sintiéndose más segura y lista para hablar del año entero.",
+  "introduction_md": "¿Sabes cuántos meses tiene un año en inglés? ¡Exacto, doce! Pero, ¿puedes decir en qué mes es tu cumpleaños o qué estación prefieres? En esta lección vas a aprender los meses del año y las cuatro estaciones en inglés. Ya sabes hablar de la hora, los días y la familia; ahora es momento de dar el salto al calendario completo. Imagina que alguien te pregunta: \"When is your birthday?\" o \"What is your favorite season?\" y tú respondes con confianza. Conocer los meses y las estaciones te ayudará a planear viajes, hablar del clima y entender conversaciones cotidianas. Además, aprenderás a usar la preposición correcta con cada mes y estación, algo que los hispanohablantes suelen confundir. ¡Vamos a hacer que el año entero pase por tu boca en inglés!",
+  "intro_target": "Do you know how many months there are in a year in English? Exactly, twelve! But can you say what month your birthday is in or which season you prefer? In this lesson you are going to learn the months of the year and the four seasons in English. You already know how to talk about time, days, and family; now it is time to make the leap to the full calendar. Imagine someone asks you: \"When is your birthday?\" or \"What is your favorite season?\" and you answer with confidence. Knowing the months and seasons will help you plan trips, talk about the weather, and understand everyday conversations. Also, you will learn to use the correct preposition with each month and season, something Spanish speakers often confuse. Let us make the whole year pass through your mouth in English!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "spring",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My birthday is in spring.",
+      "translation_form": "Mi cumpleaños es en primavera.",
+      "highlight_words": [
+        "spring"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "summer",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We live in the city in summer.",
+      "translation_form": "Vivimos en la ciudad en verano.",
+      "highlight_words": [
+        "summer"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "autumn",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The leaves are brown in autumn.",
+      "translation_form": "Las hojas son marrones en otoño.",
+      "highlight_words": [
+        "autumn"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "winter",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It is cold in winter.",
+      "translation_form": "Hace frío en invierno.",
+      "highlight_words": [
+        "winter"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My son is five years old.",
+      "translation_form": "Mi hijo tiene cinco años.",
+      "highlight_words": [
+        "year",
+        "son"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "spring",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We meet our friends in spring.",
+      "translation_form": "Nos encontramos con nuestros amigos en primavera.",
+      "highlight_words": [
+        "spring",
+        "friend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "months_of_year_usage",
+      "title_form": "Los meses del año",
+      "title_target": "Months of the year",
+      "description_md_form": "En inglés, los **meses del año** se escriben **siempre con mayúscula inicial**, incluso en medio de una oración. Esto es diferente del español, donde solo el primer mes lleva mayúscula.\n\nPara decir **\"en enero\"** o **\"en marzo\"**, usamos la preposición **in**: `in January`, `in March`. Esta preposición es fija y no cambia con el mes.\n\nLos meses se usan para hablar de fechas y de cuándo ocurren las cosas. Por ejemplo: `My birthday is in May.` (Mi cumpleaños es en mayo).\n\n**Recuerda**: la estructura es siempre **in + mes**. No digas `on January` ni `at January`. La preposición correcta es **in**.",
+      "description_md_target": "In English, the **months of the year** are **always capitalized**, even in the middle of a sentence. This is different from Spanish, where only the first month is capitalized.\n\nTo say **\"in January\"** or **\"in March\"**, we use the preposition **in**: `in January`, `in March`. This preposition is fixed and does not change with the month.\n\nMonths are used to talk about dates and when things happen. For example: `My birthday is in May.` (My birthday is in May).\n\n**Remember**: the structure is always **in + month**. Do not say `on January` or `at January`. The correct preposition is **in**.",
+      "grammar_structure": "in + month",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "year",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My birthday is in May.",
+          "translation_form": "Mi cumpleaños es en mayo.",
+          "highlight_words": [
+            "in",
+            "may"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "spring",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "We live in the city in summer.",
+          "translation_form": "Vivimos en la ciudad en verano.",
+          "highlight_words": [
+            "in",
+            "summer"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Mayúscula siempre**: `January`, `February`, `March`... Todos los meses llevan mayúscula en inglés, sin importar dónde estén en la oración."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas** `on January` ni `at January`. La preposición correcta para meses es **in**: `in January`."
+        }
+      ],
+      "common_errors_es": [
+        "Escribir los meses con minúscula: `january` es incorrecto, debe ser `January`.",
+        "Usar la preposición equivocada: `on January` o `at January` son incorrectos; la forma correcta es `in January`.",
+        "Olvidar la preposición: decir `My birthday is May` en lugar de `My birthday is in May`."
+      ]
+    },
+    {
+      "slug": "seasons_usage",
+      "title_form": "Las estaciones del año",
+      "title_target": "The seasons of the year",
+      "description_md_form": "En inglés, las **cuatro estaciones** son: **spring** (primavera), **summer** (verano), **autumn** (otoño) y **winter** (invierno).\n\nPara hablar de las estaciones, usamos la estructura **It is + estación** para describir el clima o el ambiente general. Por ejemplo: *It is cold in winter* (Hace frío en invierno).\n\nTambién usamos **in + estación** para decir *cuándo* ocurre algo. Por ejemplo: *My birthday is in spring* (Mi cumpleaños es en primavera).\n\n**Importante:** en inglés, las estaciones **no llevan artículo** (no decimos *the spring*). Simplemente decimos *in spring*, *in summer*, etc.",
+      "description_md_target": "In English, the **four seasons** are: **spring**, **summer**, **autumn** and **winter**.\n\nTo talk about the seasons, we use the structure **It is + season** to describe the weather or general atmosphere. For example: *It is cold in winter*.\n\nWe also use **in + season** to say *when* something happens. For example: *My birthday is in spring*.\n\n**Important:** in English, the seasons **do not take an article** (we don't say *the spring*). We simply say *in spring*, *in summer*, etc.",
+      "grammar_structure": "It is + [season] / in + [season]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "spring",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My birthday is in spring.",
+          "translation_form": "Mi cumpleaños es en primavera.",
+          "highlight_words": [
+            "spring"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "winter",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "It is cold in winter.",
+          "translation_form": "Hace frío en invierno.",
+          "highlight_words": [
+            "winter"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas *the spring*.** En inglés, las estaciones no llevan artículo. Di simplemente *in spring*, *in summer*, etc."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** *autumn* es la palabra británica para otoño. En Estados Unidos también se dice *fall*, pero *autumn* es correcto en ambos."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'the spring' en lugar de solo 'spring'. Las estaciones no llevan artículo en inglés.",
+        "Usar 'on' en lugar de 'in' con las estaciones. Siempre es 'in spring', 'in summer', etc.",
+        "Confundir 'autumn' con 'winter'. Autumn es otoño y winter es invierno."
+      ]
+    },
+    {
+      "slug": "prepositions_in_with_months_seasons",
+      "title_form": "La preposicion IN con meses y estaciones",
+      "title_target": "The preposition IN with months and seasons",
+      "description_md_form": "En ingles, usamos la preposicion **in** para hablar de **meses** y **estaciones** del año. Es una regla fija: no se puede omitir ni cambiar por otra preposicion.\n\n**Ejemplos:**\n- `My birthday is in spring.` (Mi cumpleaños es en primavera.)\n- `We live in the city in summer.` (Vivimos en la ciudad en verano.)\n- `It is cold in winter.` (Hace frio en invierno.)\n\n**Estructura:** `in` + mes o estacion.\n\n**Importante:** En español decimos \"en primavera\" o \"en verano\". En ingles, la estructura es la misma: **in** + estacion. No uses otras preposiciones como `on` o `at` con meses o estaciones. Solo **in**.",
+      "description_md_target": "In English, we use the preposition **in** to talk about **months** and **seasons** of the year. It is a fixed rule: you cannot omit it or change it for another preposition.\n\n**Examples:**\n- `My birthday is in spring.`\n- `We live in the city in summer.`\n- `It is cold in winter.`\n\n**Structure:** `in` + month or season.\n\n**Important:** In Spanish, we say \"en primavera\" or \"en verano\". In English, the structure is the same: **in** + season. Do not use other prepositions like `on` or `at` with months or seasons. Only **in**.",
+      "grammar_structure": "in + [month/season]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "winter",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "It is cold in winter.",
+          "translation_form": "Hace frio en invierno.",
+          "highlight_words": [
+            "in",
+            "winter"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "spring",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My birthday is in spring.",
+          "translation_form": "Mi cumpleaños es en primavera.",
+          "highlight_words": [
+            "in",
+            "spring"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Piensa en **in** como una caja grande que contiene el tiempo. Los meses y las estaciones son cajas grandes, por eso usamos **in**."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error comun:** No digas `on spring` o `at winter`. Siempre es **in** + estacion o mes."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'on spring' en lugar de 'in spring'.",
+        "Decir 'at winter' en lugar de 'in winter'.",
+        "Omitir la preposicion: 'My birthday is spring' (incorrecto)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'spring'?",
+      "options": [
+        "Primavera",
+        "Verano",
+        "Otoño",
+        "Invierno"
+      ],
+      "correct_answer": "Primavera",
+      "explanation_md": "Spring es la estación de la primavera, cuando las flores florecen.",
+      "related_lexeme_ids": [
+        "spring"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'autumn'?",
+      "options": [
+        "Invierno",
+        "Otoño",
+        "Primavera",
+        "Verano"
+      ],
+      "correct_answer": "Otoño",
+      "explanation_md": "Autumn es el otoño, la estación en la que las hojas caen de los árboles.",
+      "related_lexeme_ids": [
+        "autumn"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la estación más fría del año?",
+      "options": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "correct_answer": "Winter",
+      "explanation_md": "Winter es el invierno, la estación más fría del año.",
+      "related_lexeme_ids": [
+        "winter"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué estación viene después de la primavera?",
+      "options": [
+        "Winter",
+        "Autumn",
+        "Summer",
+        "Spring"
+      ],
+      "correct_answer": "Summer",
+      "explanation_md": "Después de la primavera (spring) viene el verano (summer).",
+      "related_lexeme_ids": [
+        "summer"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'My birthday is ____ spring.' (Mi cumpleaños es en primavera.)",
+      "options": null,
+      "correct_answer": "in",
+      "explanation_md": "Usamos 'in' antes de las estaciones del año: in spring, in summer, etc.",
+      "related_lexeme_ids": [
+        "spring"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'The leaves are brown ____ autumn.' (Las hojas son marrones en otoño.)",
+      "options": null,
+      "correct_answer": "in",
+      "explanation_md": "Usamos 'in' antes de las estaciones del año: in autumn, in winter, etc.",
+      "related_lexeme_ids": [
+        "autumn"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Hace frío en invierno.'",
+      "options": null,
+      "correct_answer": "It is cold in winter.",
+      "explanation_md": "Recuerda usar 'in' antes de la estación: in winter.",
+      "related_lexeme_ids": [
+        "winter"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Vivimos en la ciudad en verano.'",
+      "options": null,
+      "correct_answer": "We live in the city in summer.",
+      "explanation_md": "Usamos 'in' para la ciudad y también para la estación: in the city in summer.",
+      "related_lexeme_ids": [
+        "summer"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada estación con su traducción:",
+      "options": [
+        "Spring",
+        "Verano",
+        "Summer",
+        "Primavera",
+        "Winter",
+        "Otoño",
+        "Autumn",
+        "Invierno"
+      ],
+      "correct_answer": [
+        "Spring=Primavera",
+        "Summer=Verano",
+        "Winter=Invierno",
+        "Autumn=Otoño"
+      ],
+      "explanation_md": "Estas son las cuatro estaciones del año en inglés.",
+      "related_lexeme_ids": [
+        "spring",
+        "summer",
+        "winter",
+        "autumn"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'My son is five years old.'",
+      "options": null,
+      "correct_answer": "Mi hijo tiene cinco años.",
+      "explanation_md": "En inglés decimos 'is five years old' para expresar la edad.",
+      "related_lexeme_ids": [
+        "year"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'It is cold in winter.'",
+      "options": null,
+      "correct_answer": "Hace frío en invierno.",
+      "explanation_md": "La estructura 'It is + adjetivo' se usa para describir el clima.",
+      "related_lexeme_ids": [
+        "winter"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la estación más cálida del año?",
+      "options": [
+        "Winter",
+        "Autumn",
+        "Summer",
+        "Spring"
+      ],
+      "correct_answer": "Summer",
+      "explanation_md": "Summer es el verano, la estación más cálida del año.",
+      "related_lexeme_ids": [
+        "summer"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "year",
+      "back": "año",
+      "hint": "unidad de tiempo",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "spring",
+      "back": "primavera",
+      "hint": "estación del año",
+      "lexeme_id": "spring",
+      "chunk_id": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "seasons"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "summer",
+      "back": "verano",
+      "hint": "estación del año",
+      "lexeme_id": "summer",
+      "chunk_id": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "seasons"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "autumn",
+      "back": "otoño",
+      "hint": "estación del año",
+      "lexeme_id": "autumn",
+      "chunk_id": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "seasons"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "winter",
+      "back": "invierno",
+      "hint": "estación del año",
+      "lexeme_id": "winter",
+      "chunk_id": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "seasons"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "year",
+      "reading": "",
+      "translation": "año",
+      "pos": "noun",
+      "example": "My son is five years old.",
+      "example_translation": "Mi hijo tiene cinco años.",
+      "lexeme_id": "year",
+      "chunk_id": null
+    },
+    {
+      "target_word": "spring",
+      "reading": "",
+      "translation": "primavera",
+      "pos": "noun",
+      "example": "My birthday is in spring.",
+      "example_translation": "Mi cumpleaños es en primavera.",
+      "lexeme_id": "spring",
+      "chunk_id": null
+    },
+    {
+      "target_word": "summer",
+      "reading": "",
+      "translation": "verano",
+      "pos": "noun",
+      "example": "We live in the city in summer.",
+      "example_translation": "Vivimos en la ciudad en verano.",
+      "lexeme_id": "summer",
+      "chunk_id": null
+    },
+    {
+      "target_word": "autumn",
+      "reading": "",
+      "translation": "otoño",
+      "pos": "noun",
+      "example": "The leaves are brown in autumn.",
+      "example_translation": "Las hojas son marrones en otoño.",
+      "lexeme_id": "autumn",
+      "chunk_id": null
+    },
+    {
+      "target_word": "winter",
+      "reading": "",
+      "translation": "invierno",
+      "pos": "noun",
+      "example": "It is cold in winter.",
+      "example_translation": "Hace frío en invierno.",
+      "lexeme_id": "winter",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Months and seasons",
+      "title_target": "Quiz: Months and seasons",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "My",
+            "favorite",
+            "season",
+            "is",
+            "spring"
+          ],
+          "correct_answer": "My favorite season is spring",
+          "explanation_form": "La estructura correcta es: My favorite season is spring. En inglés, el adjetivo va antes del sustantivo.",
+          "explanation_target": "The correct structure is: My favorite season is spring. In English, the adjective goes before the noun.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "spring",
+            "seasons_usage"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____ is the coldest season of the year.'",
+          "prompt_target": "Complete the sentence: '____ is the coldest season of the year.'",
+          "options": null,
+          "correct_answer": "Winter",
+          "explanation_form": "Winter es la estación más fría del año. Se usa 'winter' con mayúscula inicial cuando es el inicio de la oración.",
+          "explanation_target": "Winter is the coldest season of the year. Use 'winter' with a capital letter at the beginning of the sentence.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "winter",
+            "year",
+            "seasons_usage"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué estación viene después de summer?",
+          "prompt_target": "Which season comes after summer?",
+          "options": [
+            "Spring",
+            "Autumn",
+            "Winter",
+            "Summer"
+          ],
+          "correct_answer": "Autumn",
+          "explanation_form": "El orden de las estaciones es: spring, summer, autumn, winter. Después de summer viene autumn.",
+          "explanation_target": "The order of the seasons is: spring, summer, autumn, winter. After summer comes autumn.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "summer",
+            "autumn",
+            "seasons_usage"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'My birthday is ____ March.'",
+          "prompt_target": "Complete: 'My birthday is ____ March.'",
+          "options": null,
+          "correct_answer": "in",
+          "explanation_form": "Se usa 'in' con los meses del año: in March, in April, etc.",
+          "explanation_target": "Use 'in' with months of the year: in March, in April, etc.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "months_of_year_usage",
+            "prepositions_in_with_months_seasons"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada estación con su traducción:",
+          "prompt_target": "Match each season with its translation:",
+          "options": [
+            "spring",
+            "primavera",
+            "summer",
+            "verano",
+            "autumn",
+            "otoño",
+            "winter",
+            "invierno"
+          ],
+          "correct_answer": [
+            "spring=primavera",
+            "summer=verano",
+            "autumn=otoño",
+            "winter=invierno"
+          ],
+          "explanation_form": "Las cuatro estaciones en inglés son: spring (primavera), summer (verano), autumn (otoño) y winter (invierno).",
+          "explanation_target": "The four seasons in English are: spring, summer, autumn and winter.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "spring",
+            "summer",
+            "autumn",
+            "winter",
+            "seasons_usage"
+          ],
+          "points": 15,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice 'año' en inglés?",
+          "prompt_target": "How do you say 'año' in English?",
+          "options": null,
+          "correct_answer": "year",
+          "explanation_form": "La palabra 'year' significa 'año' en inglés.",
+          "explanation_target": "The word 'year' means 'año' in English.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "year"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la frase correcta?",
+          "prompt_target": "Which sentence is correct?",
+          "options": [
+            "I like spring.",
+            "I like the spring.",
+            "I like in spring.",
+            "I like on spring."
+          ],
+          "correct_answer": "I like spring.",
+          "explanation_form": "Con las estaciones no se usa artículo: I like spring, not 'I like the spring'.",
+          "explanation_target": "Do not use an article with seasons: I like spring, not 'I like the spring'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "spring",
+            "seasons_usage"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'There are four ____ in a year.'",
+          "prompt_target": "Complete: 'There are four ____ in a year.'",
+          "options": null,
+          "correct_answer": "seasons",
+          "explanation_form": "Un año tiene cuatro estaciones: spring, summer, autumn y winter.",
+          "explanation_target": "A year has four seasons: spring, summer, autumn and winter.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "year",
+            "seasons_usage"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'El otoño es mi estación favorita.'",
+          "prompt_target": "Translate to English: 'El otoño es mi estación favorita.'",
+          "options": null,
+          "correct_answer": "Autumn is my favorite season.",
+          "explanation_form": "La traducción correcta es: Autumn is my favorite season. Recuerda que 'autumn' se usa sin artículo.",
+          "explanation_target": "The correct translation is: Autumn is my favorite season. Remember that 'autumn' is used without an article.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "autumn",
+            "seasons_usage"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué preposición se usa con los meses?",
+          "prompt_target": "Which preposition is used with months?",
+          "options": [
+            "on",
+            "at",
+            "in",
+            "by"
+          ],
+          "correct_answer": "in",
+          "explanation_form": "Se usa 'in' con los meses: in January, in February, etc.",
+          "explanation_target": "Use 'in' with months: in January, in February, etc.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "months_of_year_usage",
+            "prepositions_in_with_months_seasons"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "Summer",
+            "is",
+            "hot"
+          ],
+          "correct_answer": "Summer is hot",
+          "explanation_form": "La estructura correcta es: Summer is hot. El verbo 'is' va después del sujeto.",
+          "explanation_target": "The correct structure is: Summer is hot. The verb 'is' goes after the subject.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "summer",
+            "seasons_usage"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'In ____, the leaves fall from the trees.'",
+          "prompt_target": "Complete: 'In ____, the leaves fall from the trees.'",
+          "options": null,
+          "correct_answer": "autumn",
+          "explanation_form": "En otoño (autumn), las hojas caen de los árboles. Se usa 'in' con las estaciones.",
+          "explanation_target": "In autumn, the leaves fall from the trees. Use 'in' with seasons.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "autumn",
+            "prepositions_in_with_months_seasons",
+            "seasons_usage"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Los meses en ingles: casi iguales que en español\n\nLa buena noticia es que los meses en inglés se parecen mucho a los de español. Por ejemplo, **March**, **April** y **May** son muy fáciles de recordar. Pero cuidado: en inglés, los meses SIEMPRE se escriben con mayúscula inicial, incluso en medio de una oración. En español escribimos \"voy en mayo\", pero en inglés es \"I go in May\".\n\nOtro tip: los meses en inglés no tienen género (no son masculinos ni femeninos), así que no necesitas preocuparte por el artículo. Solo di \"in January\", \"in July\", etc.\n\n## Las estaciones: spring, summer, autumn y winter\n\nLas cuatro estaciones en inglés son **spring** (primavera), **summer** (verano), **autumn** (otoño) y **winter** (invierno). Nota que en inglés americano, el otoño también se dice \"fall\", pero en esta lección usamos \"autumn\", que es la forma británica y también se entiende en todo el mundo.\n\nPara hablar de las estaciones, usamos la preposición **in**: \"in spring\", \"in summer\", \"in autumn\", \"in winter\". Es igual que con los meses: \"in March\", \"in December\".\n\n## La preposición IN: tu mejor amiga para fechas\n\nLa regla de oro de esta lección es: para meses y estaciones, usa SIEMPRE **in**. Decimos \"in January\", \"in summer\", \"in autumn\". Nunca digas \"on January\" o \"at January\" — eso es un error muy común entre hispanohablantes.\n\nRecuerda: **in** se usa para periodos de tiempo largos (meses, estaciones, años). Para días de la semana usamos **on** (\"on Monday\"), y para horas usamos **at** (\"at 5 o'clock\"). Esta distinción es clave y la practicarás mucho.\n\n## El año: year y cómo hablar de tu edad\n\nLa palabra **year** (año) es muy útil. Puedes decir \"I am 25 years old\" (tengo 25 años) o \"My brother is 10 years old\". Nota que en inglés, la edad se expresa con el verbo **to be** (ser/estar), no con \"tener\" como en español.\n\nTambién puedes usar \"year\" para hablar de periodos: \"this year\" (este año), \"next year\" (el año que viene), \"last year\" (el año pasado). Estas expresiones te ayudarán a ubicar eventos en el tiempo.\n\n## Mnemotécnico para recordar las estaciones\n\nPara no confundir las estaciones, piensa en el clima: **spring** es cuando las flores \"sprout\" (brotan), **summer** es cuando hace \"sun\" (sol), **autumn** es cuando las hojas \"fall\" (caen, aunque en inglés británico se dice autumn), y **winter** es cuando hace \"wind\" (viento) y frío. Esta asociación te ayudará a recordar las cuatro palabras sin esfuerzo.\n\nY recuerda: en el hemisferio sur, las estaciones están invertidas. Si estás en Argentina o Chile, diciembre es verano, no invierno. Pero en inglés, la palabra es la misma: \"December is in summer\" en el sur, \"December is in winter\" en el norte.",
+  "metadata": {
+    "generated_at": "2026-08-11T17:56:03Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

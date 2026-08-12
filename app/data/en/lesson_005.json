@@ -1,0 +1,1102 @@
+{
+  "id": "lesson_005",
+  "position": 6,
+  "unit_id": 2,
+  "course_id": "en.A1",
+  "title_form": "Telling time",
+  "title_target": "Decir la hora",
+  "theme_focus": "Telling time",
+  "learning_objectives": [
+    "Can tell the time using basic expressions (o'clock, half past, quarter)."
+  ],
+  "estimated_minutes": 20,
+  "prerequisites": [
+    "lesson_pre_001",
+    "lesson_pre_002"
+  ],
+  "grammar_focus": [
+    "telling_time (It's three o'clock, It's half past two, It's quarter to ten)",
+    "time_of_day_phrases (in the morning, in the afternoon, in the evening, at night)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "now",
+        "morning",
+        "afternoon",
+        "evening",
+        "night",
+        "time",
+        "hour",
+        "half",
+        "oclock_adv",
+        "clock",
+        "noon",
+        "midnight"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "age",
+        "and_conj",
+        "baby",
+        "be_verb_2",
+        "big_adj",
+        "black_adj",
+        "brother",
+        "brown_adj",
+        "bye_interj",
+        "children",
+        "dad",
+        "daughter",
+        "excuse_me_interj",
+        "family",
+        "father",
+        "five_num",
+        "four_num",
+        "friend",
+        "from_prep",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "have_got_verb",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "husband",
+        "i_pronoun",
+        "in_prep",
+        "live_verb",
+        "meet_verb",
+        "mom",
+        "mother",
+        "my_det",
+        "name",
+        "no_interj",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "our_det",
+        "parents",
+        "pink_2",
+        "please_interj",
+        "purple_adj",
+        "she_pronoun",
+        "short_adj",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "small_adj",
+        "son",
+        "sorry_interj",
+        "tall_adj",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "they_pronoun",
+        "three_num",
+        "two_num",
+        "we_pronoun",
+        "white_adj",
+        "wife",
+        "work_verb",
+        "yes_interj",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Ana, una estudiante colombiana de 24 años, llega a un café en Londres a las 3 de la tarde para encontrarse con su amiga británica, Sarah. Ana mira su reloj y se da cuenta de que no sabe decir la hora en inglés, así que se siente nerviosa y confundida. Sarah llega y le pregunta: 'What time is it?', y Ana respira hondo, recuerda lo que ha estudiado y responde: 'It is three o'clock'. Sarah sonríe, y Ana se siente aliviada y más segura para seguir conversando.",
+  "introduction_md": "¿Alguna vez has mirado tu reloj y no has sabido decir qué hora es en inglés? Es una situación que se repite en viajes, reuniones y llamadas. En esta lección vas a dominar las expresiones básicas para decir la hora: o'clock, half past y quarter. Conocerás también las partes del día (morning, afternoon, evening, night) y momentos clave como noon y midnight. Ya sabes saludar y presentarte; ahora vas a poder quedar con amigos, llegar a tiempo a tus citas y entender los horarios en cualquier lugar. Verás que con pocas palabras puedes comunicar mucho. Vamos a practicar con ejemplos reales y ejercicios que te harán sentir seguro al hablar del tiempo. Al final, podrás decir la hora con naturalidad y entenderás mejor las conversaciones cotidianas. ¡Empecemos!",
+  "intro_target": "Have you ever looked at your watch and not known how to say the time in English? It is a common situation in trips, meetings, and calls. In this lesson, you will master the basic expressions to tell the time: o'clock, half past, and quarter. You will also learn the parts of the day (morning, afternoon, evening, night) and key moments like noon and midnight. You already know how to greet and introduce yourself; now you will be able to meet friends, arrive on time for your appointments, and understand schedules anywhere. You will see that with a few words you can communicate a lot. Let's practice with real examples and exercises that will make you feel confident when talking about time. By the end, you will be able to tell the time naturally and understand everyday conversations better. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What time is it now?",
+      "translation_form": "¿Qué hora es ahora?",
+      "highlight_words": [
+        "time",
+        "now"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "oclock_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's three o'clock in the afternoon.",
+      "translation_form": "Son las tres en punto de la tarde.",
+      "highlight_words": [
+        "three",
+        "afternoon"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "half",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's half past two in the morning.",
+      "translation_form": "Son las dos y media de la mañana.",
+      "highlight_words": [
+        "half",
+        "two",
+        "morning"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "clock",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My clock says it's noon.",
+      "translation_form": "Mi reloj dice que es mediodía.",
+      "highlight_words": [
+        "clock",
+        "noon"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "midnight",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We meet at midnight, not at night.",
+      "translation_form": "Nos encontramos a medianoche, no por la noche.",
+      "highlight_words": [
+        "midnight",
+        "night"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "One hour is sixty minutes.",
+      "translation_form": "Una hora son sesenta minutos.",
+      "highlight_words": [
+        "hour"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "evening",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Good evening! It's six o'clock.",
+      "translation_form": "¡Buenas noches! Son las seis en punto.",
+      "highlight_words": [
+        "evening",
+        "six"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "telling_time",
+      "title_form": "Decir la hora",
+      "title_target": "Telling Time",
+      "description_md_form": "Para decir la hora en inglés, usamos la estructura **It's + hora + parte del día**. La palabra **it** significa \"ello\" y no se traduce al español. Por ejemplo: *It's three o'clock in the afternoon* (Son las tres en punto de la tarde).\n\nUsamos **o'clock** para las horas en punto y **half past** para la media hora. La parte del día (**morning**, **afternoon**, **evening**, **night**) se coloca al final con la preposición **in**.\n\nPara preguntar la hora, decimos **What time is it?** (¿Qué hora es?). La respuesta siempre comienza con **It's**.",
+      "description_md_target": "To tell time in English, we use the structure **It's + hour + part of the day**. The word **it** means \"ello\" and is not translated into Spanish. For example: *It's three o'clock in the afternoon* (Son las tres en punto de la tarde).\n\nWe use **o'clock** for exact hours and **half past** for the half hour. The part of the day (**morning**, **afternoon**, **evening**, **night**) goes at the end with the preposition **in**.\n\nTo ask the time, we say **What time is it?** (¿Qué hora es?). The answer always starts with **It's**.",
+      "grammar_structure": "It's + [hour] + o'clock / half past + [hour] + in the + [morning/afternoon/evening]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "telling_time",
+          "text_target": "It's three o'clock in the afternoon.",
+          "translation_form": "Son las tres en punto de la tarde.",
+          "highlight_words": [
+            "three",
+            "afternoon"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "telling_time",
+          "text_target": "It's half past two in the morning.",
+          "translation_form": "Son las dos y media de la mañana.",
+          "highlight_words": [
+            "half",
+            "past",
+            "two",
+            "morning"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, la hora se dice primero y luego la parte del día. En español es al revés: primero la parte del día y luego la hora. Por ejemplo: *It's five o'clock in the evening* = Son las cinco de la noche."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *It's the three o'clock*. La palabra **the** no se usa antes de la hora. Solo di *It's three o'clock*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'It's the three o'clock' en lugar de 'It's three o'clock' (no se usa 'the' antes de la hora).",
+        "Olvidar la preposición 'in' antes de la parte del día: 'It's two o'clock the afternoon' en lugar de 'It's two o'clock in the afternoon'.",
+        "Traducir literalmente 'Son las...' como 'They are...' en lugar de usar 'It's...'."
+      ]
+    },
+    {
+      "slug": "time_of_day_phrases",
+      "title_form": "Frases de la hora del día",
+      "title_target": "Time of day phrases",
+      "description_md_form": "En inglés, las partes del día se usan con la preposición **in** para hablar de cuándo ocurre algo. Decimos **in the morning** (por la mañana), **in the afternoon** (por la tarde) y **in the evening** (por la noche, al atardecer). Para la noche profunda usamos **at night** (por la noche).\n\nHay dos momentos especiales que no usan preposición: **noon** (mediodía) y **midnight** (medianoche). Decimos simplemente *at noon* y *at midnight*.\n\nEjemplos: `I work in the morning.` (Trabajo por la mañana.) y `We meet at noon.` (Nos encontramos al mediodía.)",
+      "description_md_target": "In English, parts of the day use the preposition **in** to talk about when something happens. We say **in the morning**, **in the afternoon**, and **in the evening**. For deep night we use **at night**.\n\nThere are two special moments that don't use a preposition: **noon** and **midnight**. We simply say *at noon* and *at midnight*.\n\nExamples: `I work in the morning.` and `We meet at noon.`",
+      "grammar_structure": "in + the + [morning/afternoon/evening] | at + [night/noon/midnight]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "time_of_day_phrases",
+          "text_target": "I work in the morning and in the afternoon.",
+          "translation_form": "Trabajo por la mañana y por la tarde.",
+          "highlight_words": [
+            "in",
+            "morning",
+            "afternoon"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "time_of_day_phrases",
+          "text_target": "We meet at noon, not at night.",
+          "translation_form": "Nos encontramos al mediodía, no por la noche.",
+          "highlight_words": [
+            "at",
+            "noon",
+            "night"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "Recuerda: **in** para morning, afternoon y evening. **at** para night, noon y midnight. ¡No digas *in night*!"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Evening** es la noche temprana (al atardecer), **night** es la noche profunda. Saluda con *good evening* al atardecer y con *good night* antes de dormir."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'in night' en lugar de 'at night'. Con night siempre usamos 'at'.",
+        "Confundir 'evening' (noche temprana) con 'night' (noche profunda).",
+        "Olvidar el artículo 'the' después de 'in': se dice 'in the morning', no 'in morning'.",
+        "Usar 'in' con 'noon' o 'midnight': se dice 'at noon' y 'at midnight', no 'in noon'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'now'?",
+      "options": [
+        "ahora",
+        "después",
+        "siempre",
+        "nunca"
+      ],
+      "correct_answer": "ahora",
+      "explanation_md": "'Now' significa 'ahora', el momento presente.",
+      "related_lexeme_ids": [
+        "now"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'half'?",
+      "options": [
+        "media",
+        "hora",
+        "cuarto",
+        "minuto"
+      ],
+      "correct_answer": "media",
+      "explanation_md": "'Half' significa 'media' o 'mitad', como en 'half past two' (dos y media).",
+      "related_lexeme_ids": [
+        "half"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Son las 12:00 del mediodía. ¿Qué hora es?",
+      "options": [
+        "It's noon.",
+        "It's midnight.",
+        "It's morning.",
+        "It's night."
+      ],
+      "correct_answer": "It's noon.",
+      "explanation_md": "El mediodía se dice 'noon' en inglés.",
+      "related_lexeme_ids": [
+        "noon"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Son las 12:00 de la noche. ¿Qué hora es?",
+      "options": [
+        "It's noon.",
+        "It's midnight.",
+        "It's afternoon.",
+        "It's evening."
+      ],
+      "correct_answer": "It's midnight.",
+      "explanation_md": "La medianoche se dice 'midnight' en inglés.",
+      "related_lexeme_ids": [
+        "midnight"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'What ____ is it now?' (¿Qué hora es ahora?)",
+      "options": null,
+      "correct_answer": "time",
+      "explanation_md": "Para preguntar la hora usamos 'What time is it?'.",
+      "related_lexeme_ids": [
+        "time"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'It's three ____ in the afternoon.' (Son las tres en punto de la tarde.)",
+      "options": null,
+      "correct_answer": "o'clock",
+      "explanation_md": "Usamos 'o'clock' para decir la hora en punto.",
+      "related_lexeme_ids": [
+        "oclock_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Son las dos y media de la mañana.'",
+      "options": null,
+      "correct_answer": "It's half past two in the morning.",
+      "explanation_md": "Para decir 'y media' usamos 'half past' y luego la hora.",
+      "related_lexeme_ids": [
+        "half",
+        "morning"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Mi reloj dice que es mediodía.'",
+      "options": null,
+      "correct_answer": "My clock says it's noon.",
+      "explanation_md": "Usamos 'clock' para referirnos al reloj y 'noon' para el mediodía.",
+      "related_lexeme_ids": [
+        "clock",
+        "noon"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "morning",
+        "mañana",
+        "evening",
+        "tarde/noche",
+        "night",
+        "noche",
+        "afternoon",
+        "tarde"
+      ],
+      "correct_answer": [
+        "morning=mañana",
+        "evening=tarde/noche",
+        "night=noche",
+        "afternoon=tarde"
+      ],
+      "explanation_md": "Estas son las partes del día en inglés.",
+      "related_lexeme_ids": [
+        "morning",
+        "evening",
+        "night",
+        "afternoon"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "hour",
+        "hora",
+        "clock",
+        "reloj",
+        "time",
+        "tiempo/hora",
+        "half",
+        "media"
+      ],
+      "correct_answer": [
+        "hour=hora",
+        "clock=reloj",
+        "time=tiempo/hora",
+        "half=media"
+      ],
+      "explanation_md": "Estas palabras son esenciales para hablar del tiempo.",
+      "related_lexeme_ids": [
+        "hour",
+        "clock",
+        "time",
+        "half"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'We meet at midnight, not at night.'",
+      "options": null,
+      "correct_answer": "Nos encontramos a medianoche, no por la noche.",
+      "explanation_md": "'Midnight' es la medianoche (12:00 AM) y 'night' es la noche en general.",
+      "related_lexeme_ids": [
+        "midnight",
+        "night"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'What time is it now? It's three o'clock in the afternoon.'",
+      "options": null,
+      "correct_answer": "¿Qué hora es ahora? Son las tres en punto de la tarde.",
+      "explanation_md": "Esta es la forma estándar de preguntar y decir la hora.",
+      "related_lexeme_ids": [
+        "now",
+        "oclock_adv",
+        "afternoon"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "now",
+      "back": "ahora",
+      "hint": "indica el momento presente",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "morning",
+      "back": "mañana (parte del día)",
+      "hint": "de 6 a 12 aproximadamente",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "afternoon",
+      "back": "tarde",
+      "hint": "de 12 a 18 aproximadamente",
+      "lexeme_id": "afternoon",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "evening",
+      "back": "noche (al atardecer)",
+      "hint": "de 18 a 21 aproximadamente",
+      "lexeme_id": "evening",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "night",
+      "back": "noche",
+      "hint": "cuando ya es oscuro",
+      "lexeme_id": "night",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "time",
+      "back": "hora / tiempo",
+      "hint": "pregunta: What time is it?",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "hour",
+      "back": "hora (unidad de 60 minutos)",
+      "hint": "una hora = 60 minutos",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "half",
+      "back": "y media",
+      "hint": "half past two = dos y media",
+      "lexeme_id": "half",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "o'clock",
+      "back": "en punto",
+      "hint": "three o'clock = las tres en punto",
+      "lexeme_id": "oclock_adv",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "clock",
+      "back": "reloj",
+      "hint": "el objeto que marca la hora",
+      "lexeme_id": "clock",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "noon",
+      "back": "mediodía",
+      "hint": "las 12 del día",
+      "lexeme_id": "noon",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "midnight",
+      "back": "medianoche",
+      "hint": "las 12 de la noche",
+      "lexeme_id": "midnight",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "now",
+      "reading": "",
+      "translation": "ahora",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "now",
+      "chunk_id": null
+    },
+    {
+      "target_word": "morning",
+      "reading": "",
+      "translation": "mañana (parte del día)",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "morning",
+      "chunk_id": null
+    },
+    {
+      "target_word": "afternoon",
+      "reading": "",
+      "translation": "tarde",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "afternoon",
+      "chunk_id": null
+    },
+    {
+      "target_word": "evening",
+      "reading": "",
+      "translation": "noche (al atardecer)",
+      "pos": "noun",
+      "example": "Good evening! It's six o'clock.",
+      "example_translation": "¡Buenas noches! Son las seis en punto.",
+      "lexeme_id": "evening",
+      "chunk_id": null
+    },
+    {
+      "target_word": "night",
+      "reading": "",
+      "translation": "noche",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "night",
+      "chunk_id": null
+    },
+    {
+      "target_word": "time",
+      "reading": "",
+      "translation": "hora / tiempo",
+      "pos": "noun",
+      "example": "What time is it now?",
+      "example_translation": "¿Qué hora es ahora?",
+      "lexeme_id": "time",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hour",
+      "reading": "",
+      "translation": "hora",
+      "pos": "noun",
+      "example": "One hour is sixty minutes.",
+      "example_translation": "Una hora son sesenta minutos.",
+      "lexeme_id": "hour",
+      "chunk_id": null
+    },
+    {
+      "target_word": "half",
+      "reading": "",
+      "translation": "y media",
+      "pos": "noun",
+      "example": "It's half past two in the morning.",
+      "example_translation": "Son las dos y media de la mañana.",
+      "lexeme_id": "half",
+      "chunk_id": null
+    },
+    {
+      "target_word": "o'clock",
+      "reading": "",
+      "translation": "en punto",
+      "pos": "adverb",
+      "example": "It's three o'clock in the afternoon.",
+      "example_translation": "Son las tres en punto de la tarde.",
+      "lexeme_id": "oclock_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "clock",
+      "reading": "",
+      "translation": "reloj",
+      "pos": "noun",
+      "example": "My clock says it's noon.",
+      "example_translation": "Mi reloj dice que es mediodía.",
+      "lexeme_id": "clock",
+      "chunk_id": null
+    },
+    {
+      "target_word": "noon",
+      "reading": "",
+      "translation": "mediodía",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "noon",
+      "chunk_id": null
+    },
+    {
+      "target_word": "midnight",
+      "reading": "",
+      "translation": "medianoche",
+      "pos": "noun",
+      "example": "We meet at midnight, not at night.",
+      "example_translation": "Nos encontramos a medianoche, no por la noche.",
+      "lexeme_id": "midnight",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Telling time",
+      "title_target": "Quiz: Telling time",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "What",
+            "time",
+            "is",
+            "it",
+            "?"
+          ],
+          "correct_answer": "What time is it?",
+          "explanation_form": "La pregunta para preguntar la hora es 'What time is it?'. El orden es: What + time + is + it.",
+          "explanation_target": "The question to ask the time is 'What time is it?'. The order is: What + time + is + it.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "time",
+            "telling_time"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'It is ____ past ten.' (Son las diez y media)",
+          "prompt_target": "Complete the sentence: 'It is ____ past ten.' (It is half past ten)",
+          "options": null,
+          "correct_answer": "half",
+          "explanation_form": "'Half' significa 'media'. 'Half past ten' = 'diez y media'.",
+          "explanation_target": "'Half' means 'media'. 'Half past ten' = 'diez y media'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "half",
+            "hour"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'It is noon'?",
+          "prompt_target": "What does 'It is noon' mean?",
+          "options": [
+            "Es mediodía",
+            "Es medianoche",
+            "Es de mañana",
+            "Es de tarde"
+          ],
+          "correct_answer": "Es mediodía",
+          "explanation_form": "'Noon' significa 'mediodía' (las 12 del mediodía).",
+          "explanation_target": "'Noon' means 'mediodía' (12 o'clock in the middle of the day).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "noon",
+            "midnight"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'It is ____ o'clock.' (Son las tres en punto)",
+          "prompt_target": "Complete: 'It is ____ o'clock.' (It is three o'clock)",
+          "options": null,
+          "correct_answer": "three",
+          "explanation_form": "'Three' significa 'tres'. 'Three o'clock' = 'las tres en punto'.",
+          "explanation_target": "'Three' means 'tres'. 'Three o'clock' = 'las tres en punto'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "oclock_adv",
+            "clock"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada momento del día con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "morning",
+            "mañana",
+            "afternoon",
+            "tarde",
+            "evening",
+            "noche (temprano)",
+            "night",
+            "noche (tarde)"
+          ],
+          "correct_answer": [
+            "morning=mañana",
+            "afternoon=tarde",
+            "evening=noche (temprano)",
+            "night=noche (tarde)"
+          ],
+          "explanation_form": "'Morning' es la mañana, 'afternoon' la tarde, 'evening' la noche temprano y 'night' la noche tarde.",
+          "explanation_target": "'Morning' is the morning, 'afternoon' the afternoon, 'evening' the early night and 'night' the late night.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "morning",
+            "afternoon",
+            "evening",
+            "night"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué hora es si digo 'It is half past two'?",
+          "prompt_target": "What time is it if I say 'It is half past two'?",
+          "options": [
+            "Son las dos y media",
+            "Son las dos en punto",
+            "Son las tres y media",
+            "Son las dos y cuarto"
+          ],
+          "correct_answer": "Son las dos y media",
+          "explanation_form": "'Half past two' significa 'dos y media'.",
+          "explanation_target": "'Half past two' means 'two thirty'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "half",
+            "hour"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'It is ____.' (Es medianoche)",
+          "prompt_target": "Complete: 'It is ____.' (It is midnight)",
+          "options": null,
+          "correct_answer": "midnight",
+          "explanation_form": "'Midnight' significa 'medianoche' (las 12 de la noche).",
+          "explanation_target": "'Midnight' means 'medianoche' (12 o'clock at night).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "midnight",
+            "night"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'It is now three o'clock'?",
+          "prompt_target": "What does 'It is now three o'clock' mean?",
+          "options": [
+            "Ahora son las tres",
+            "Son las tres y media",
+            "Son las tres de la tarde",
+            "Son las tres de la mañana"
+          ],
+          "correct_answer": "Ahora son las tres",
+          "explanation_form": "'Now' significa 'ahora'. 'It is now three o'clock' = 'Ahora son las tres'.",
+          "explanation_target": "'Now' means 'ahora'. 'It is now three o'clock' = 'Ahora son las tres'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "now",
+            "oclock_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "It",
+            "is",
+            "half",
+            "past",
+            "seven"
+          ],
+          "correct_answer": "It is half past seven",
+          "explanation_form": "La estructura es: It + is + half + past + hora. 'Half past seven' = 'siete y media'.",
+          "explanation_target": "The structure is: It + is + half + past + hour. 'Half past seven' = 'siete y media'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "half",
+            "hour",
+            "time_of_day_phrases"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'It is ____ o'clock in the ____.' (Son las ocho de la mañana)",
+          "prompt_target": "Complete: 'It is ____ o'clock in the ____.' (It is eight o'clock in the morning)",
+          "options": null,
+          "correct_answer": "eight; morning",
+          "explanation_form": "'Eight' significa 'ocho' y 'morning' significa 'mañana'. 'In the morning' = 'de la mañana'.",
+          "explanation_target": "'Eight' means 'ocho' and 'morning' means 'mañana'. 'In the morning' = 'de la mañana'.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "morning",
+            "oclock_adv",
+            "time_of_day_phrases"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## La hora en ingles: la base\n\nPara decir la hora en ingles, la estructura mas natural es **\"It is\" + hora + \"o'clock\"** para las horas en punto. Por ejemplo, **\"It is three o'clock\"** (Son las tres en punto). Fijate que usamos **\"It is\"** (o su forma corta **\"It's\"**) como sujeto, igual que en espanol usamos \"son\" o \"es\". No digas \"The clock is three\" ni \"Time is three\"; la forma correcta siempre empieza con **\"It is\"**.\n\nPara las medias horas, usamos **\"half past\"** + la hora. Asi, **\"It is half past four\"** significa \"Son las cuatro y media\". Es importante que en ingles decimos primero \"half past\" y luego la hora, al reves que en espanol. No digas \"It is four and half\"; la formula fija es **\"half past\" + hora**.\n\n## Las partes del dia\n\nPara hablar de momentos del dia, usamos **\"in the morning\"**, **\"in the afternoon\"**, **\"in the evening\"** y **\"at night\"**. Por ejemplo: **\"I work in the morning\"** (Trabajo por la manana), **\"We meet in the afternoon\"** (Nos vemos por la tarde), **\"They live in the evening\"** no es una frase natural; en su lugar di: **\"I study in the evening\"** (Estudio por la noche).\n\nLa excepcion es **\"at night\"**: decimos \"at night\" y no \"in the night\". Tambien usamos **\"at noon\"** (al mediodia) y **\"at midnight\"** (a la medianoche). Recuerda: **in** para morning/afternoon/evening, **at** para night/noon/midnight. Esta es una regla fija que debes memorizar.\n\n## Errores comunes y trucos\n\n1. **No uses \"now\" para todo**: \"now\" significa \"ahora\" y se usa para el momento presente, no para hablar de la hora en general. Decimos \"What time is it now?\" (Que hora es ahora?) pero para responder usamos \"It is...\", no \"Now is...\".\n\n2. **\"Clock\" vs \"time\"**: \"clock\" es el objeto fisico (el reloj de pared), \"time\" es el concepto abstracto (la hora). Preguntamos \"What time is it?\" (Que hora es?), no \"What clock is it?\".\n\n3. **Truco mnemotecnico**: piensa en \"half past\" como \"la mitad ya paso\" — primero va la mitad (half), luego \"past\" (pasado). Para \"quarter to\", imagina que \"to\" apunta hacia la hora que viene. Asi nunca confundiras el orden.\n\n4. **En conversacion real**: cuando alguien te pregunta la hora, puedes responder corto: \"Three o'clock\" o \"Half past four\". El \"It is\" inicial se puede omitir en respuestas rapidas, pero en oraciones completas siempre va.",
+  "metadata": {
+    "generated_at": "2026-08-11T17:53:23Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

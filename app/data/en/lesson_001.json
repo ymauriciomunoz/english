@@ -1,0 +1,1216 @@
+{
+  "id": "lesson_001",
+  "position": 2,
+  "unit_id": 1,
+  "course_id": "en.A1",
+  "title_form": "Greet and introduce yourself",
+  "title_target": "Saludar y presentarte",
+  "theme_focus": "Greet and introduce yourself",
+  "learning_objectives": [
+    "Can greet people and introduce him/herself using name and basic greetings."
+  ],
+  "estimated_minutes": 20,
+  "prerequisites": [
+    "lesson_pre_001"
+  ],
+  "grammar_focus": [
+    "present_simple_of_be_affirmative_with_name (I am / I'm, you are / you're)",
+    "possessive_adjective_my (my name is...)",
+    "wh_question_with_be (What is your name?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "hello_interj",
+        "hi_interj",
+        "good_morning_interj",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "bye_interj",
+        "name",
+        "i_pronoun",
+        "you_pronoun",
+        "my_det",
+        "be_verb_2"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "excuse_me_interj",
+        "five_num",
+        "four_num",
+        "no_interj",
+        "ok_interj",
+        "one_num",
+        "please_interj",
+        "six_num",
+        "sorry_interj",
+        "thank_you_interj",
+        "thanks_interj",
+        "three_num",
+        "two_num",
+        "yes_interj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante colombiana de 22 años, llega a su primera clase de inglés en una academia en Madrid. Está nerviosa porque no conoce a nadie y llega cinco minutos tarde. La profesora, Laura, le sonríe y le pide que se presente frente al grupo. Sofía respira hondo y dice: 'Hello, I am Sofía, I am 22, I am from Colombia'. Un compañero llamado James le responde 'Hi, nice to meet you' y le ofrece un asiento. Al final de la clase, Sofía ya conoce a tres personas y se siente mucho más tranquila.",
+  "introduction_md": "¿Alguna vez has llegado a un lugar nuevo y no has sabido qué decir? Imagina que entras a una cafetería en Londres y necesitas saludar y presentarte. En esta lección vas a aprender las frases más útiles para saludar, decir tu nombre y despedirte con confianza. Ya conoces palabras como 'please' y 'thank you' de lecciones anteriores; ahora las vas a combinar con saludos como 'hello' y 'good morning'. Al final, podrás presentarte en inglés de forma natural y responder cuando alguien te pregunte tu nombre. No necesitas memorizar reglas complicadas: solo vas a practicar frases cortas que los nativos usan todos los días. Con veinte minutos de práctica, vas a sentir que saludar en inglés es tan fácil como hacerlo en español. ¡Vamos a empezar!",
+  "intro_target": "Have you ever arrived at a new place and not known what to say? Imagine you walk into a coffee shop in London and you need to greet someone and introduce yourself. In this lesson, you are going to learn the most useful phrases to greet people, say your name, and say goodbye with confidence. You already know words like 'please' and 'thank you' from previous lessons; now you are going to combine them with greetings like 'hello' and 'good morning'. At the end, you will be able to introduce yourself in English naturally and respond when someone asks you your name. You do not need to memorize complicated rules: you are just going to practice short phrases that native speakers use every day. With twenty minutes of practice, you are going to feel that greeting in English is as easy as doing it in Spanish. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Hello! My name is Ana.",
+      "translation_form": "¡Hola! Mi nombre es Ana.",
+      "highlight_words": [
+        "hello",
+        "my",
+        "name"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "good_morning_interj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Good morning! I am Tom.",
+      "translation_form": "¡Buenos días! Yo soy Tom.",
+      "highlight_words": [
+        "good morning",
+        "i"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "you_pronoun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What is your name?",
+      "translation_form": "¿Cuál es tu nombre?",
+      "highlight_words": [
+        "you",
+        "name"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "hi_interj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Hi! You are my friend.",
+      "translation_form": "¡Hola! Tú eres mi amigo.",
+      "highlight_words": [
+        "hi",
+        "you",
+        "my"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "good_afternoon_interj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Good afternoon! I am here.",
+      "translation_form": "¡Buenas tardes! Yo estoy aquí.",
+      "highlight_words": [
+        "good afternoon",
+        "i"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "good_evening_interj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Good evening! You are welcome.",
+      "translation_form": "¡Buenas noches! Bienvenido.",
+      "highlight_words": [
+        "good evening",
+        "you"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "bye_interj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Bye! I am happy.",
+      "translation_form": "¡Adiós! Yo estoy feliz.",
+      "highlight_words": [
+        "bye",
+        "i"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My name is John. What is your name?",
+      "translation_form": "Mi nombre es John. ¿Cuál es tu nombre?",
+      "highlight_words": [
+        "my",
+        "name",
+        "you"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "i_pronoun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am fine, thank you.",
+      "translation_form": "Yo estoy bien, gracias.",
+      "highlight_words": [
+        "i",
+        "thank you"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "my_det",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My name is Sara. I am here.",
+      "translation_form": "Mi nombre es Sara. Yo estoy aquí.",
+      "highlight_words": [
+        "my",
+        "name",
+        "i"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": "be_verb_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You are my teacher. Hello!",
+      "translation_form": "Tú eres mi maestro. ¡Hola!",
+      "highlight_words": [
+        "you",
+        "my",
+        "hello"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present_simple_of_be_affirmative_with_name",
+      "title_form": "El verbo ser/estar con nombres",
+      "title_target": "The verb to be with names",
+      "description_md_form": "Para presentarte en inglés, usas el verbo **to be** (ser/estar) con tu nombre. La fórmula es: **I + am + tu nombre**. Por ejemplo: *I am Ana* (Yo soy Ana).\n\nCon otras personas, usas **you + are**: *You are Tom* (Tú eres Tom). También puedes usar **my** (mi) con **name** (nombre): *My name is Ana* (Mi nombre es Ana).\n\nObserva que en inglés **siempre** necesitas el pronombre (I, you) antes del verbo. No puedes decir solo *Am Ana*; necesitas *I am Ana*. El verbo **to be** cambia según la persona: **am** para I, **is** para he/she/it, y **are** para you/we/they.",
+      "description_md_target": "To introduce yourself in English, you use the verb **to be** with your name. The formula is: **I + am + your name**. For example: *I am Ana* (I am Ana).\n\nWith other people, you use **you + are**: *You are Tom*. You can also use **my** with **name**: *My name is Ana*.\n\nNotice that in English you **always** need the pronoun (I, you) before the verb. You cannot say just *Am Ana*; you need *I am Ana*. The verb **to be** changes with the person: **am** for I, **is** for he/she/it, and **are** for you/we/they.",
+      "grammar_structure": "Subject (I/You) + to be (am/are) + name",
+      "conjugation_table": {
+        "name": "present_simple_of_be",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "am",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "are",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "is",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "are",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "are",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_of_be_affirmative_with_name",
+          "text_target": "I am Ana.",
+          "translation_form": "Yo soy Ana.",
+          "highlight_words": [
+            "i",
+            "am"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_of_be_affirmative_with_name",
+          "text_target": "You are Tom.",
+          "translation_form": "Tú eres Tom.",
+          "highlight_words": [
+            "you",
+            "are"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, el pronombre **I** siempre se escribe con mayúscula, incluso en medio de una oración. Por ejemplo: *I am Ana*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *My name is I am Ana*. Usa **una sola** forma: *My name is Ana* o *I am Ana*, pero no las dos juntas."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'Am Ana' en lugar de 'I am Ana'. En inglés, el pronombre es obligatorio.",
+        "Confundir 'my' con 'me'. 'My' es posesivo (mi), 'me' es objeto (me).",
+        "Olvidar la mayúscula en 'I' cuando se escribe solo.",
+        "Usar 'is' con 'I' o 'you'. Recuerda: I am, you are."
+      ]
+    },
+    {
+      "slug": "possessive_adjective_my",
+      "title_form": "El posesivo my (mi)",
+      "title_target": "The possessive my",
+      "description_md_form": "En inglés, para decir que algo es tuyo, usamos **my** (mi). Es un **adjetivo posesivo** y siempre va **antes** del sustantivo. Por ejemplo: **my name** (mi nombre). No cambia nunca, ni con plural ni con género. Es muy simple: **my** + sustantivo. Observa: *My name is Ana.* (Mi nombre es Ana). También puedes usar **my** con otras palabras: *my friend* (mi amigo). Recuerda que en inglés no decimos \"el mi nombre\" — solo **my name**. La estructura es: **my** + sustantivo + verbo.",
+      "description_md_target": "In English, to say that something is yours, we use **my**. It is a **possessive adjective** and it always goes **before** the noun. For example: **my name**. It never changes, not with plural or gender. It is very simple: **my** + noun. Notice: *My name is Ana.* You can also use **my** with other words: *my friend*. Remember that in English we do not say \"the my name\" — just **my name**. The structure is: **my** + noun + verb.",
+      "grammar_structure": "my + noun",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "my_det",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My name is Ana.",
+          "translation_form": "Mi nombre es Ana.",
+          "highlight_words": [
+            "my",
+            "name"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "my_det",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Hi! You are my friend.",
+          "translation_form": "¡Hola! Tú eres mi amigo.",
+          "highlight_words": [
+            "my",
+            "friend"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**my** no cambia: *my name*, *my friend*. No digas \"mines\" ni \"mys\"."
+        },
+        {
+          "type": "common_error",
+          "text_md": "En español decimos \"el mi nombre\", pero en inglés **nunca** uses \"the\" antes de **my**. Solo: *my name*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir \"the my name\" en lugar de \"my name\".",
+        "Olvidar que my no cambia con género o número: siempre es my.",
+        "Confundir my con I: my es posesivo (mi), I es pronombre (yo)."
+      ]
+    },
+    {
+      "slug": "wh_question_with_be",
+      "title_form": "Preguntas con What y el verbo to be",
+      "title_target": "Questions with What and the verb to be",
+      "description_md_form": "Para preguntar por el **nombre** de alguien, usamos **What** + el verbo **to be** + el sujeto. La palabra **What** significa *qué* o *cuál* y va **siempre al inicio** de la pregunta.\n\nObserva el orden: primero **What**, luego el verbo **to be** (is, are), y después el sujeto (**you**, **your name**).\n\n- **What is your name?** = ¿Cuál es tu nombre?\n\nEn inglés, el verbo **to be** cambia según el sujeto. Con **you** usamos **are**: *What are you?* (¿Cómo estás?). Con **your name** usamos **is**: *What is your name?* (¿Cuál es tu nombre?).\n\nRecuerda: la pregunta y la respuesta usan el mismo verbo. Si preguntas con **is**, respondes con **is**.",
+      "description_md_target": "To ask for someone's **name**, we use **What** + the verb **to be** + the subject. The word **What** means *what* or *which* and it goes **always at the beginning** of the question.\n\nLook at the order: first **What**, then the verb **to be** (is, are), and then the subject (**you**, **your name**).\n\n- **What is your name?** = What is your name?\n\nIn English, the verb **to be** changes with the subject. With **you** we use **are**: *What are you?* (What are you?). With **your name** we use **is**: *What is your name?* (What is your name?).\n\nRemember: the question and the answer use the same verb. If you ask with **is**, you answer with **is**.",
+      "grammar_structure": "What + to be (is/are) + subject?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_question_with_be",
+          "text_target": "What is your name?",
+          "translation_form": "¿Cuál es tu nombre?",
+          "highlight_words": [
+            "what",
+            "is",
+            "your",
+            "name"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_question_with_be",
+          "text_target": "What is your name? My name is Ana.",
+          "translation_form": "¿Cuál es tu nombre? Mi nombre es Ana.",
+          "highlight_words": [
+            "what",
+            "is",
+            "your",
+            "name",
+            "my",
+            "name",
+            "is",
+            "ana"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**What is** se puede contraer a **What's**. Es muy común en conversación: *What's your name?* Suena más natural y rápido."
+        },
+        {
+          "type": "common_error",
+          "text_md": "En español decimos *¿Cómo te llamas?*, pero en inglés NO usamos *how* para preguntar el nombre. Usamos **What**: *What is your name?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *How is your name?* en lugar de *What is your name?* — en inglés usamos **What**, no **How**, para preguntar el nombre.",
+        "Olvidar el verbo **to be**: *What your name?* — siempre necesitas **is** o **are**.",
+        "Invertir el orden: *Your name is what?* — la palabra **What** va al inicio de la pregunta.",
+        "Usar *is* con *you*: *What is you?* — con **you** siempre usamos **are**."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'hello'?",
+      "options": [
+        "Hola",
+        "Adiós",
+        "Gracias",
+        "Perdón"
+      ],
+      "correct_answer": "Hola",
+      "explanation_md": "'Hello' es el saludo más común en inglés, equivalente a 'hola' en español.",
+      "related_lexeme_ids": [
+        "hello_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'good morning'?",
+      "options": [
+        "Buenas tardes",
+        "Buenos días",
+        "Buenas noches",
+        "Hola"
+      ],
+      "correct_answer": "Buenos días",
+      "explanation_md": "'Good morning' se usa para saludar por la mañana, hasta el mediodía.",
+      "related_lexeme_ids": [
+        "good_morning_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'my'?",
+      "options": [
+        "tu",
+        "mi",
+        "su",
+        "nuestro"
+      ],
+      "correct_answer": "mi",
+      "explanation_md": "'My' es el adjetivo posesivo que indica pertenencia a la primera persona del singular.",
+      "related_lexeme_ids": [
+        "my_det"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en una reunión de trabajo a las 3 de la tarde. ¿Cómo saludas a tu nuevo colega?",
+      "options": [
+        "Good morning!",
+        "Good evening!",
+        "Good afternoon!",
+        "Bye!"
+      ],
+      "correct_answer": "Good afternoon!",
+      "explanation_md": "Por la tarde (después del mediodía) se usa 'good afternoon' para saludar.",
+      "related_lexeme_ids": [
+        "good_afternoon_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "Tu amiga te pregunta 'What is your name?'. ¿Qué respondes?",
+      "options": [
+        "My name is Ana.",
+        "Your name is Ana.",
+        "I am fine.",
+        "Yes, please."
+      ],
+      "correct_answer": "My name is Ana.",
+      "explanation_md": "Para presentarte usas 'my name is' seguido de tu nombre.",
+      "related_lexeme_ids": [
+        "name",
+        "my_det",
+        "be_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "Son las 8 de la noche y entras a una cena formal. ¿Qué dices?",
+      "options": [
+        "Good morning!",
+        "Good afternoon!",
+        "Good evening!",
+        "Hello!"
+      ],
+      "correct_answer": "Good evening!",
+      "explanation_md": "Por la noche se usa 'good evening' como saludo formal.",
+      "related_lexeme_ids": [
+        "good_evening_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase para presentarte: '____ name is Carlos.'",
+      "options": null,
+      "correct_answer": "My",
+      "explanation_md": "Usamos 'my' (mi) para hablar de nuestro propio nombre.",
+      "related_lexeme_ids": [
+        "my_det"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la pregunta para conocer a alguien: 'What is ____ name?'",
+      "options": null,
+      "correct_answer": "your",
+      "explanation_md": "Usamos 'your' (tu) para preguntar el nombre de la otra persona.",
+      "related_lexeme_ids": [
+        "you_pronoun"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa el saludo de la mañana: '____ morning!'",
+      "options": null,
+      "correct_answer": "Good",
+      "explanation_md": "El saludo matutino es 'good morning'.",
+      "related_lexeme_ids": [
+        "good_morning_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¡Hola! Yo soy Tom.'",
+      "options": null,
+      "correct_answer": "Hello! I am Tom.",
+      "explanation_md": "Usamos 'I am' para presentarnos, seguido de nuestro nombre.",
+      "related_lexeme_ids": [
+        "hello_interj",
+        "i_pronoun",
+        "be_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Cuál es tu nombre?'",
+      "options": null,
+      "correct_answer": "What is your name?",
+      "explanation_md": "La pregunta 'What is your name?' es la forma estándar de preguntar el nombre.",
+      "related_lexeme_ids": [
+        "name",
+        "you_pronoun",
+        "be_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "matching",
+      "prompt_md": "Empareja cada saludo con su momento del día:",
+      "options": [
+        "Good morning",
+        "Buenas tardes",
+        "Good afternoon",
+        "Buenos días",
+        "Good evening",
+        "Buenas noches"
+      ],
+      "correct_answer": [
+        "Good morning=Buenos días",
+        "Good afternoon=Buenas tardes",
+        "Good evening=Buenas noches"
+      ],
+      "explanation_md": "Cada saludo corresponde a un momento específico del día: mañana, tarde y noche.",
+      "related_lexeme_ids": [
+        "good_morning_interj",
+        "good_afternoon_interj",
+        "good_evening_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "hello",
+      "back": "hola",
+      "hint": "saludo formal o general",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "hi",
+      "back": "hola (informal)",
+      "hint": "saludo casual entre amigos",
+      "lexeme_id": "hi_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "good morning",
+      "back": "buenos días",
+      "hint": "saludo por la mañana",
+      "lexeme_id": "good_morning_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "good afternoon",
+      "back": "buenas tardes",
+      "hint": "saludo por la tarde",
+      "lexeme_id": "good_afternoon_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "good evening",
+      "back": "buenas noches (al llegar)",
+      "hint": "saludo por la noche",
+      "lexeme_id": "good_evening_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "bye",
+      "back": "adiós (informal)",
+      "hint": "despedida casual",
+      "lexeme_id": "bye_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "name",
+      "back": "nombre",
+      "hint": "información personal",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "I",
+      "back": "yo",
+      "hint": "pronombre personal",
+      "lexeme_id": "i_pronoun",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "you",
+      "back": "tú / usted / ustedes",
+      "hint": "pronombre personal",
+      "lexeme_id": "you_pronoun",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "my",
+      "back": "mi",
+      "hint": "posesivo",
+      "lexeme_id": "my_det",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "be",
+      "back": "ser / estar",
+      "hint": "verbo principal",
+      "lexeme_id": "be_verb_2",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "thank you",
+      "back": "gracias",
+      "hint": "expresión de cortesía",
+      "lexeme_id": "thank_you_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "please",
+      "back": "por favor",
+      "hint": "expresión de cortesía",
+      "lexeme_id": "please_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "social"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "hello",
+      "reading": "",
+      "translation": "hola",
+      "pos": "interjection",
+      "example": "Hello! My name is Ana.",
+      "example_translation": "¡Hola! Mi nombre es Ana.",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hi",
+      "reading": "",
+      "translation": "hola (informal)",
+      "pos": "interjection",
+      "example": "Hi! You are my friend.",
+      "example_translation": "¡Hola! Tú eres mi amigo.",
+      "lexeme_id": "hi_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "good morning",
+      "reading": "",
+      "translation": "buenos días",
+      "pos": "interjection",
+      "example": "Good morning! I am Tom.",
+      "example_translation": "¡Buenos días! Yo soy Tom.",
+      "lexeme_id": "good_morning_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "good afternoon",
+      "reading": "",
+      "translation": "buenas tardes",
+      "pos": "interjection",
+      "example": "Good afternoon! I am here.",
+      "example_translation": "¡Buenas tardes! Yo estoy aquí.",
+      "lexeme_id": "good_afternoon_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "good evening",
+      "reading": "",
+      "translation": "buenas noches (al llegar)",
+      "pos": "interjection",
+      "example": "Good evening! You are welcome.",
+      "example_translation": "¡Buenas noches! De nada.",
+      "lexeme_id": "good_evening_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bye",
+      "reading": "",
+      "translation": "adiós (informal)",
+      "pos": "interjection",
+      "example": "Bye! I am happy.",
+      "example_translation": "¡Adiós! Yo estoy feliz.",
+      "lexeme_id": "bye_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "name",
+      "reading": "",
+      "translation": "nombre",
+      "pos": "noun",
+      "example": "My name is John. What is your name?",
+      "example_translation": "Mi nombre es John. ¿Cuál es tu nombre?",
+      "lexeme_id": "name",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I",
+      "reading": "",
+      "translation": "yo",
+      "pos": "pronoun",
+      "example": "I am fine, thank you.",
+      "example_translation": "Yo estoy bien, gracias.",
+      "lexeme_id": "i_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "you",
+      "reading": "",
+      "translation": "tú / usted / ustedes",
+      "pos": "pronoun",
+      "example": "What is your name?",
+      "example_translation": "¿Cuál es tu nombre?",
+      "lexeme_id": "you_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "my",
+      "reading": "",
+      "translation": "mi",
+      "pos": "determiner",
+      "example": "My name is Sara. I am here.",
+      "example_translation": "Mi nombre es Sara. Yo estoy aquí.",
+      "lexeme_id": "my_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "be",
+      "reading": "",
+      "translation": "ser / estar",
+      "pos": "verb",
+      "example": "You are my teacher. Hello!",
+      "example_translation": "Tú eres mi maestro. ¡Hola!",
+      "lexeme_id": "be_verb_2",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Greet and introduce yourself",
+      "title_target": "Quiz: Greet and introduce yourself",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá el saludo para la mañana: '____, Maria.'",
+          "prompt_target": "Complete the morning greeting: '____, Maria.'",
+          "options": null,
+          "correct_answer": "Good morning",
+          "explanation_form": "Para saludar por la mañana usamos 'Good morning'.",
+          "explanation_target": "To greet in the morning we use 'Good morning'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "good_morning_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la despedida: '____, see you tomorrow.'",
+          "prompt_target": "Complete the farewell: '____, see you tomorrow.'",
+          "options": null,
+          "correct_answer": "Bye",
+          "explanation_form": "Para despedirnos usamos 'Bye'.",
+          "explanation_target": "To say goodbye we use 'Bye'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "bye_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el pronombre correcto: '____ am Ana.'",
+          "prompt_target": "Complete with the correct pronoun: '____ am Ana.'",
+          "options": null,
+          "correct_answer": "I",
+          "explanation_form": "Usamos 'I' para hablar de nosotros mismos.",
+          "explanation_target": "We use 'I' to talk about ourselves.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "i_pronoun",
+            "present_simple_of_be_affirmative_with_name"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el posesivo correcto: '____ name is John.'",
+          "prompt_target": "Complete with the correct possessive: '____ name is John.'",
+          "options": null,
+          "correct_answer": "My",
+          "explanation_form": "Usamos 'My' para indicar posesión de algo nuestro.",
+          "explanation_target": "We use 'My' to indicate possession of something of ours.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "my_det",
+            "possessive_adjective_my"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el verbo correcto: 'You ____ my friend.'",
+          "prompt_target": "Complete with the correct verb: 'You ____ my friend.'",
+          "options": null,
+          "correct_answer": "are",
+          "explanation_form": "Con 'you' usamos 'are'.",
+          "explanation_target": "With 'you' we use 'are'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "be_verb_2",
+            "you_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el saludo para la tarde?",
+          "prompt_target": "Which is the afternoon greeting?",
+          "options": [
+            "Good morning",
+            "Good afternoon",
+            "Good evening",
+            "Hello"
+          ],
+          "correct_answer": "Good afternoon",
+          "explanation_form": "Para la tarde usamos 'Good afternoon'.",
+          "explanation_target": "For the afternoon we use 'Good afternoon'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "good_afternoon_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el saludo para la noche?",
+          "prompt_target": "Which is the evening greeting?",
+          "options": [
+            "Good morning",
+            "Good afternoon",
+            "Good evening",
+            "Bye"
+          ],
+          "correct_answer": "Good evening",
+          "explanation_form": "Para la noche usamos 'Good evening'.",
+          "explanation_target": "For the evening we use 'Good evening'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "good_evening_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el saludo informal más común?",
+          "prompt_target": "Which is the most common informal greeting?",
+          "options": [
+            "Good morning",
+            "Good afternoon",
+            "Hello",
+            "Bye"
+          ],
+          "correct_answer": "Hi",
+          "explanation_form": "'Hi' es el saludo informal más común.",
+          "explanation_target": "'Hi' is the most common informal greeting.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "hello_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el saludo informal para 'hola'?",
+          "prompt_target": "Which is the informal greeting for 'hola'?",
+          "options": [
+            "Good morning",
+            "Good afternoon",
+            "Hi",
+            "Bye"
+          ],
+          "correct_answer": "Hi",
+          "explanation_form": "'Hi' es una forma informal de saludar.",
+          "explanation_target": "'Hi' is an informal way to greet.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hi_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "My",
+            "name",
+            "is",
+            "Ana"
+          ],
+          "correct_answer": "My name is Ana",
+          "explanation_form": "La estructura correcta es: My + name + is + nombre.",
+          "explanation_target": "The correct structure is: My + name + is + name.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "my_det",
+            "name",
+            "be_verb_2",
+            "present_simple_of_be_affirmative_with_name"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "What",
+            "is",
+            "your",
+            "name"
+          ],
+          "correct_answer": "What is your name",
+          "explanation_form": "La estructura correcta es: What + is + your + name.",
+          "explanation_target": "The correct structure is: What + is + your + name.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "name",
+            "be_verb_2",
+            "wh_question_with_be"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "matching",
+          "prompt_form": "Empareja cada saludo con su momento del día:",
+          "prompt_target": "Match each greeting with its time of day:",
+          "options": [
+            "Good morning",
+            "Good afternoon",
+            "Good evening",
+            "Mañana",
+            "Tarde",
+            "Noche"
+          ],
+          "correct_answer": [
+            "Good morning=Mañana",
+            "Good afternoon=Tarde",
+            "Good evening=Noche"
+          ],
+          "explanation_form": "Good morning se usa por la mañana, Good afternoon por la tarde y Good evening por la noche.",
+          "explanation_target": "Good morning is used in the morning, Good afternoon in the afternoon, and Good evening at night.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "good_morning_interj",
+            "good_afternoon_interj",
+            "good_evening_interj"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Saludos que funcionan en cualquier momento\n\nEn inglés, a diferencia del español, no usamos \"buenos días\" o \"buenas tardes\" todo el tiempo. Para saludar de forma casual, lo más común es usar **hello** o **hi**. **Hi** es más informal y amigable, perfecto para amigos y compañeros. **Hello** es un poco más formal y sirve para cualquier situación. Cuando te presentas, lo más natural es combinar el saludo con tu nombre: **Hello, I am Ana** o **Hi, I am Luis**. No necesitas más para empezar una conversación.\n\n## El verbo to be con tu nombre\n\nPara decir tu nombre, usas el verbo **to be** (ser/estar) en su forma afirmativa: **I am** + tu nombre. Por ejemplo, **I am Maria**. Una forma más corta y muy común es la contracción **I'm**: **I'm Maria**. Ambas son correctas, pero en conversación diaria escucharás más **I'm**. Recuerda que en inglés no necesitas el artículo \"el\" o \"la\" antes del nombre, como a veces se hace en español. Simplemente dices **I am Carlos**, no \"I am the Carlos\".\n\n## Pregunta el nombre de los demás\n\nPara preguntar el nombre de otra persona, usa la pregunta **What is your name?** (¿Cuál es tu nombre?). Esta es una pregunta fija que funciona en casi cualquier contexto. Puedes responder directamente con **My name is** + tu nombre, o simplemente con **I am** + tu nombre. Ambas respuestas son correctas y naturales. Observa que usamos **your** (tu) para preguntar y **my** (mi) para responder. Esta es una regla sencilla: **your** es para lo que pertenece a la otra persona y **my** para lo que te pertenece a ti.\n\n## El orden de las palabras en preguntas\n\nEn inglés, las preguntas con **what** siguen un orden fijo: primero la palabra interrogativa (**What**), luego el verbo (**is**), y después el sujeto (**your name**). Así: **What is your name?** No es como en español, donde puedes cambiar el orden con más libertad. Si memorizas esta estructura, podrás formar muchas otras preguntas útiles. Por ejemplo, con la misma estructura podrías preguntar por otras cosas más adelante. Por ahora, concéntrate en esta pregunta y en responder con **My name is...** o **I am...**.\n\n## Errores comunes que debes evitar\n\nUn error típico de los hispanohablantes es decir \"I am fine\" cuando se presentan, pero eso solo se usa para responder a \"¿cómo estás?\", no para decir tu nombre. Otro error es olvidar el verbo **to be**: decir \"I Ana\" en lugar de **I am Ana**. El verbo es obligatorio en inglés. También es común confundir **my** y **your**: recuerda que **my** es para ti y **your** es para la otra persona. Practica con estos ejemplos: **My name es Pedro** (mi nombre es Pedro) y **What is your name?** (¿cuál es tu nombre?). Con estos tips, tus presentaciones sonarán mucho más naturales.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:12:18Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

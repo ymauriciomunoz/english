@@ -1,0 +1,1491 @@
+{
+  "id": "lesson_024",
+  "position": 25,
+  "unit_id": 5,
+  "course_id": "en.A1",
+  "title_form": "Health and ailments",
+  "title_target": "Salud y enfermedades",
+  "theme_focus": "Health and ailments",
+  "learning_objectives": [
+    "Can describe common health problems, name medicines, and ask for help at a doctor or pharmacy."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_023"
+  ],
+  "grammar_focus": [
+    "have_got_for_ailments (I've got a headache, She has got a stomachache)",
+    "feel_plus_adjective (I feel sick, He feels tired, She feels better)",
+    "wh_questions_about_health (What's the matter?, Where does it hurt?)",
+    "should_shouldnt_intro (You should rest, You shouldn't go to work)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "doctor",
+        "nurse",
+        "hospital",
+        "sick_adj",
+        "hurt_verb",
+        "feel_verb",
+        "better_adj",
+        "well_adv",
+        "sleep_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "back",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "body",
+        "book",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "early_adj_2",
+        "eat_verb",
+        "evening",
+        "exam",
+        "excuse_me_interj",
+        "expensive_adj",
+        "eye",
+        "face",
+        "family",
+        "father",
+        "feet",
+        "film",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "foot",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hand",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "head",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "listen_to_music_phrase",
+        "live_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "run_verb",
+        "running",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "teeth_2",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "three_num",
+        "ticket",
+        "time",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tooth",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Ana, una estudiante colombiana de 25 años, se despierta en su pequeño apartamento en Madrid con un fuerte dolor de cabeza y se siente muy enferma. Decide ir a la farmacia, pero al llegar, la farmacéutica, una mujer mayor llamada Rosa, le habla en inglés y Ana no entiende bien. Ana intenta explicar que se siente mal y que le duele la cabeza, pero le faltan las palabras. Rosa, con paciencia, le pregunta si ha dormido bien y le recomienda descansar y tomar algo. Al salir, Ana se siente aliviada y agradecida por haber podido comunicarse.",
+  "introduction_md": "¿Qué le dices al doctor cuando te duele la cabeza o te sientes mal? En esta lección vas a aprender las palabras y frases esenciales para describir problemas de salud, hablar con un médico o una enfermera, y pedir ayuda en una farmacia o un hospital. Ya sabes hablar de tu rutina diaria, tu familia y tus gustos; ahora es momento de aprender a cuidar de ti mismo. Vamos a practicar cómo decir 'I feel sick', 'My head hurts' y 'I should sleep'. También veremos cómo usar 'have got' para hablar de enfermedades y cómo hacer preguntas sobre la salud. Al final, podrás explicar cómo te sientes y entender las recomendaciones del doctor. ¡Vamos a empezar!",
+  "intro_target": "What do you say to the doctor when your head hurts or you feel bad? In this lesson, you are going to learn the essential words and phrases to describe health problems, talk to a doctor or a nurse, and ask for help at a pharmacy or a hospital. You already know how to talk about your daily routine, your family, and your likes; now it is time to learn how to take care of yourself. We are going to practice how to say 'I feel sick', 'My head hurts', and 'I should sleep'. We will also see how to use 'have got' to talk about illnesses and how to ask questions about health. At the end, you will be able to explain how you feel and understand the doctor's recommendations. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I feel sick today.",
+      "translation_form": "Me siento enfermo hoy.",
+      "highlight_words": [
+        "feel",
+        "sick"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "hurt_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My head hurts.",
+      "translation_form": "Me duele la cabeza.",
+      "highlight_words": [
+        "hurt"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "doctor",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You should see a doctor.",
+      "translation_form": "Deberías ver a un médico.",
+      "highlight_words": [
+        "doctor"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You should sleep and rest.",
+      "translation_form": "Deberías dormir y descansar.",
+      "highlight_words": [
+        "sleep"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She feels better now.",
+      "translation_form": "Ella se siente mejor ahora.",
+      "highlight_words": [
+        "better",
+        "feel"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The nurse is at the hospital.",
+      "translation_form": "La enfermera está en el hospital.",
+      "highlight_words": [
+        "nurse",
+        "hospital"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "well_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I don't feel well.",
+      "translation_form": "No me siento bien.",
+      "highlight_words": [
+        "well",
+        "feel"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "hospital",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Where does it hurt?",
+      "translation_form": "¿Dónde te duele?",
+      "highlight_words": [
+        "hurt"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "have_got_for_ailments",
+      "title_form": "Have got para hablar de enfermedades",
+      "title_target": "Have got for ailments",
+      "description_md_form": "En inglés, para decir que **tienes** un problema de salud, usamos **have got**. Es como decir *tengo* en español. La estructura es: **sujeto + have/has got + problema**. Por ejemplo: *I have got a headache* (Tengo dolor de cabeza). Para preguntar, ponemos **have/has** al principio: *Have you got a cold?* (¿Tienes un resfriado?). Para negar, usamos **haven't got** o **hasn't got**: *I haven't got a fever* (No tengo fiebre). Recuerda que **have got** y **have** significan lo mismo, pero **have got** es muy común en inglés británico y en conversaciones informales. Es una forma fija: no se conjuga como otros verbos.",
+      "description_md_target": "In English, to say you **have** a health problem, we use **have got**. It is like saying *tengo* in Spanish. The structure is: **subject + have/has got + problem**. For example: *I have got a headache*. To ask, we put **have/has** at the beginning: *Have you got a cold?*. To negate, we use **haven't got** or **hasn't got**: *I haven't got a fever*. Remember that **have got** and **have** mean the same, but **have got** is very common in British English and informal conversations. It is a fixed form: it is not conjugated like other verbs.",
+      "grammar_structure": "Subject + have/has got + (a/an) + ailment",
+      "conjugation_table": {
+        "name": "have_got",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "has got",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "have got",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "have_got_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I have got a headache.",
+          "translation_form": "Tengo dolor de cabeza.",
+          "highlight_words": [
+            "have",
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "have_got_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Have you got a cold?",
+          "translation_form": "¿Tienes un resfriado?",
+          "highlight_words": [
+            "have",
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés británico, **have got** es más común que **have** para hablar de posesión y problemas de salud. En inglés americano, se usa más **have**. Ambas son correctas."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *I have got a headache* con el verbo *to be*. La forma correcta es **I have got** o **I have**, nunca *I am have got*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I am have got a headache' mezclando el verbo to be con have got. La forma correcta es 'I have got a headache'.",
+        "Olvidar el artículo 'a' antes del problema de salud: 'I have got headache' en lugar de 'I have got a headache'.",
+        "Usar 'has' con 'I' o 'you': 'I has got a cold' en lugar de 'I have got a cold'.",
+        "Confundir 'have got' con 'have to' (tener que): 'I have got to see a doctor' significa 'tengo que ver a un médico', no 'tengo un médico'."
+      ]
+    },
+    {
+      "slug": "feel_plus_adjective",
+      "title_form": "El verbo feel + adjetivo",
+      "title_target": "The verb feel + adjective",
+      "description_md_form": "En inglés, para hablar de cómo te sientes, usamos el verbo **feel** (sentir) seguido de un **adjetivo**. Es una forma muy común y natural de describir tu estado de salud o tus emociones.\n\n**Estructura:** Sujeto + **feel** + adjetivo\n\n- **I feel sick.** = Me siento enfermo.\n- **She feels better.** = Ella se siente mejor.\n\n**¡Importante!** En español decimos \"me siento bien\" o \"estoy enfermo\", pero en inglés siempre usamos **feel** con el adjetivo. Puedes decir 'I am sick' o 'I feel sick' para expresar que estás enfermo; ambas son correctas, pero 'feel' se usa más para hablar de tu estado actual.\n\nRecuerda: con **he**, **she** o **it**, el verbo cambia a **feels**.",
+      "description_md_target": "In English, to talk about how you feel, we use the verb **feel** followed by an **adjective**. It is a very common and natural way to describe your health or emotions.\n\n**Structure:** Subject + **feel** + adjective\n\n- **I feel sick.** = Me siento enfermo.\n- **She feels better.** = Ella se siente mejor.\n\n**Important!** In Spanish we say \"me siento bien\" or \"estoy enfermo\", but in English we always use **feel** with the adjective. You can say 'I am sick' or 'I feel sick' to express that you are ill; both are correct, but 'feel' is more about your current state.\n\nRemember: with **he**, **she** or **it**, the verb changes to **feels**.",
+      "grammar_structure": "Subject + feel/feels + adjective",
+      "conjugation_table": {
+        "name": "present_simple_feel",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "feel",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "feel",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "feels",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "feel",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "feel",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "feel_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I feel sick today.",
+          "translation_form": "Me siento enfermo hoy.",
+          "highlight_words": [
+            "feel",
+            "sick"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "better_adj",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She feels better now.",
+          "translation_form": "Ella se siente mejor ahora.",
+          "highlight_words": [
+            "feels",
+            "better"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Usa **feel** + adjetivo para hablar de tu estado actual. Para decir que estás enfermo, di **I feel sick** o **I am sick**; ambas son correctas."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas **I feel sickly**. El adverbio **well** se usa con **feel** para decir que estás bien: **I feel well**."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I am feel sick' mezclando el verbo to be con feel. La forma correcta es 'I feel sick' o 'I am sick'.",
+        "Olvidar la 's' en 'feels' con he, she o it: 'She feel better' en lugar de 'She feels better'.",
+        "Usar un adverbio en lugar de un adjetivo: 'I feel wellly' en lugar de 'I feel well'."
+      ]
+    },
+    {
+      "slug": "wh_questions_about_health",
+      "title_form": "Preguntas con Wh sobre la salud",
+      "title_target": "Wh-questions about health",
+      "description_md_form": "Para preguntar sobre la salud, usamos **wh-questions** con el verbo **to be** o con verbos de acción. La estructura es: **Wh-word + verbo + sujeto + resto**. Por ejemplo: *Where is the hospital?* (¿Dónde está el hospital?) o *How do you feel?* (¿Cómo te sientes?). Con el verbo **to be**, la pregunta es directa: *How are you?* (¿Cómo estás?). Con otros verbos, usamos **do/does**: *Where do you feel sick?* (¿Dónde te sientes enfermo?). Las wh-words más comunes son **what** (qué), **where** (dónde), **when** (cuándo), **who** (quién) y **how** (cómo).",
+      "description_md_target": "To ask about health, we use **wh-questions** with the verb **to be** or with action verbs. The structure is: **Wh-word + verb + subject + rest**. For example: *Where is the hospital?* or *How do you feel?* With the verb **to be**, the question is direct: *How are you?* With other verbs, we use **do/does**: *Where do you feel sick?* The most common wh-words are **what**, **where**, **when**, **who** and **how**.",
+      "grammar_structure": "Wh-word + (do/does) + subject + verb + rest?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "feel_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "How do you feel today?",
+          "translation_form": "¿Cómo te sientes hoy?",
+          "highlight_words": [
+            "how",
+            "do",
+            "feel"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "doctor",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Where is the doctor?",
+          "translation_form": "¿Dónde está el médico?",
+          "highlight_words": [
+            "where",
+            "is",
+            "doctor"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Con el verbo **to be**, la pregunta es directa: *Where is the nurse?* (¿Dónde está la enfermera?). Con otros verbos, necesitas **do/does**: *Where do you sleep?* (¿Dónde duermes?)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *Where is the hospital?* cuando quieres preguntar *¿Dónde está el hospital?* — eso es correcto. Pero no digas *Where you feel sick?* — necesitas **do**: *Where do you feel sick?*"
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el auxiliar 'do' con verbos de acción: *Where you feel sick?* → *Where do you feel sick?*",
+        "Invertir el orden en preguntas con 'to be': *Where the doctor is?* → *Where is the doctor?*",
+        "Usar 'what' en lugar de 'how' para preguntar por el estado: *What are you?* → *How are you?*",
+        "Confundir 'where' (dónde) con 'when' (cuándo): *When is the hospital?* → *Where is the hospital?*"
+      ]
+    },
+    {
+      "slug": "should_shouldnt_intro",
+      "title_form": "Deberías... (should / shouldn't)",
+      "title_target": "You should... (should / shouldn't)",
+      "description_md_form": "Usamos **should** para dar un consejo o decir qué es buena idea hacer. Es como \"deberías\" en español. Después de **should**, el verbo va **sin cambios** (sin -s, sin -ing).\n\n- `You should see a doctor.` = Deberías ver a un médico.\n- `You should sleep and rest.` = Deberías dormir y descansar.\n\nPara decir que algo **no** es buena idea, usamos **shouldn't** (should not).\n\n- `You shouldn't go to work.` = No deberías ir a trabajar.\n\n**Should** es igual para todas las personas: I, you, he, she, we, they. No cambia. Es una forma muy útil para dar consejos de salud.",
+      "description_md_target": "We use **should** to give advice or say what is a good idea. It is like \"deberías\" in Spanish. After **should**, the verb stays **the same** (no -s, no -ing).\n\n- `You should see a doctor.` = You should see a doctor.\n- `You should sleep and rest.` = You should sleep and rest.\n\nTo say something is **not** a good idea, we use **shouldn't** (should not).\n\n- `You shouldn't go to work.` = You shouldn't go to work.\n\n**Should** is the same for all people: I, you, he, she, we, they. It does not change. It is a very useful form for giving health advice.",
+      "grammar_structure": "Subject + should/shouldn't + base verb + complement",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "should_shouldnt_intro",
+          "text_target": "You should see a doctor.",
+          "translation_form": "Deberías ver a un médico.",
+          "highlight_words": [
+            "should",
+            "see"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "should_shouldnt_intro",
+          "text_target": "You should sleep and rest.",
+          "translation_form": "Deberías dormir y descansar.",
+          "highlight_words": [
+            "should",
+            "sleep"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: después de **should**, el verbo va en su forma base. No digas \"he shoulds\" ni \"you should to go\". Solo \"he should go\"."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado**: en español decimos \"deberías de\" a veces, pero en inglés **nunca** usamos \"of\" después de should. Es solo \"should + verbo\"."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'you should to go' en lugar de 'you should go' (no usamos 'to' después de should).",
+        "Agregar -s al verbo después de should: 'he shoulds sleep' en lugar de 'he should sleep'.",
+        "Usar 'should of' en lugar de 'should have' (error común de escritura)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'doctor'?",
+      "options": [
+        "médico",
+        "enfermera",
+        "hospital",
+        "paciente"
+      ],
+      "correct_answer": "médico",
+      "explanation_md": "'Doctor' es la persona que te cura cuando estás enfermo.",
+      "related_lexeme_ids": [
+        "doctor"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'nurse'?",
+      "options": [
+        "médico",
+        "enfermera",
+        "hospital",
+        "farmacia"
+      ],
+      "correct_answer": "enfermera",
+      "explanation_md": "'Nurse' es la persona que te cuida en el hospital.",
+      "related_lexeme_ids": [
+        "nurse"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en el hospital y te preguntan: 'How do you feel?' ¿Qué respondes si te sientes mal?",
+      "options": [
+        "I feel sick.",
+        "I feel better.",
+        "I feel well.",
+        "I feel happy."
+      ],
+      "correct_answer": "I feel sick.",
+      "explanation_md": "Cuando te sientes mal, usas 'I feel sick' (me siento enfermo).",
+      "related_lexeme_ids": [
+        "feel_verb",
+        "sick_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Tu amigo tiene dolor de cabeza. ¿Qué le aconsejas?",
+      "options": [
+        "You should sleep.",
+        "You should run.",
+        "You should eat.",
+        "You should work."
+      ],
+      "correct_answer": "You should sleep.",
+      "explanation_md": "Para dar un consejo usamos 'should' + verbo. Dormir ayuda con el dolor de cabeza.",
+      "related_lexeme_ids": [
+        "sleep_verb",
+        "should_shouldnt_intro"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'My head ____.' (Me duele la cabeza)",
+      "options": null,
+      "correct_answer": "hurts",
+      "explanation_md": "Usamos 'hurt' (doler) con la parte del cuerpo. 'My head hurts' = Me duele la cabeza.",
+      "related_lexeme_ids": [
+        "hurt_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'I ____ sick today.' (Me siento enfermo hoy)",
+      "options": null,
+      "correct_answer": "feel",
+      "explanation_md": "Usamos 'feel' + adjetivo para hablar de cómo nos sentimos. 'I feel sick' = Me siento enfermo.",
+      "related_lexeme_ids": [
+        "feel_verb",
+        "sick_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ella se siente mejor ahora.'",
+      "options": null,
+      "correct_answer": "She feels better now.",
+      "explanation_md": "Usamos 'feel' + adjetivo comparativo 'better' (mejor). 'She feels better now' = Ella se siente mejor ahora.",
+      "related_lexeme_ids": [
+        "feel_verb",
+        "better_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Deberías ver a un médico.'",
+      "options": null,
+      "correct_answer": "You should see a doctor.",
+      "explanation_md": "Para dar un consejo usamos 'should' + verbo. 'See a doctor' = ver a un médico.",
+      "related_lexeme_ids": [
+        "doctor",
+        "should_shouldnt_intro"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "hospital",
+        "hospital",
+        "nurse",
+        "enfermera",
+        "doctor",
+        "médico",
+        "sick",
+        "enfermo"
+      ],
+      "correct_answer": [
+        "hospital=hospital",
+        "nurse=enfermera",
+        "doctor=médico",
+        "sick=enfermo"
+      ],
+      "explanation_md": "Estas son palabras clave para hablar de salud y enfermedades.",
+      "related_lexeme_ids": [
+        "hospital",
+        "nurse",
+        "doctor",
+        "sick_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada verbo con su significado:",
+      "options": [
+        "feel",
+        "sentir",
+        "hurt",
+        "doler",
+        "sleep",
+        "dormir",
+        "better",
+        "mejor"
+      ],
+      "correct_answer": [
+        "feel=sentir",
+        "hurt=doler",
+        "sleep=dormir",
+        "better=mejor"
+      ],
+      "explanation_md": "Estos verbos y adjetivos son esenciales para describir cómo te sientes.",
+      "related_lexeme_ids": [
+        "feel_verb",
+        "hurt_verb",
+        "sleep_verb",
+        "better_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'You should sleep and rest.'",
+      "options": null,
+      "correct_answer": "Deberías dormir y descansar.",
+      "explanation_md": "'Should' se traduce como 'deberías' y 'sleep and rest' como 'dormir y descansar'.",
+      "related_lexeme_ids": [
+        "sleep_verb",
+        "should_shouldnt_intro"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'The nurse is at the hospital.'",
+      "options": null,
+      "correct_answer": "La enfermera está en el hospital.",
+      "explanation_md": "'Nurse' es enfermera, 'at the hospital' es en el hospital.",
+      "related_lexeme_ids": [
+        "nurse",
+        "hospital"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "doctor",
+      "back": "médico / doctor",
+      "hint": "profesión de salud",
+      "lexeme_id": "doctor",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "nurse",
+      "back": "enfermero/a",
+      "hint": "profesión de salud",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "hospital",
+      "back": "hospital",
+      "hint": "lugar donde trabajan médicos y enfermeros",
+      "lexeme_id": "hospital",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "sick",
+      "back": "enfermo",
+      "hint": "estado de salud",
+      "lexeme_id": "sick_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "hurt",
+      "back": "doler / herir",
+      "hint": "cuando algo te duele",
+      "lexeme_id": "hurt_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "feel",
+      "back": "sentir",
+      "hint": "cómo te sientes",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "better",
+      "back": "mejor",
+      "hint": "comparativo de good",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "well",
+      "back": "bien",
+      "hint": "adverbio de salud",
+      "lexeme_id": "well_adv",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "sleep",
+      "back": "dormir",
+      "hint": "acción de descansar",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "head",
+      "back": "cabeza",
+      "hint": "parte del cuerpo",
+      "lexeme_id": "head",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "foot",
+      "back": "pie",
+      "hint": "parte del cuerpo",
+      "lexeme_id": "foot",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "have got",
+      "back": "tener",
+      "hint": "verbo para expresar posesión o síntomas",
+      "lexeme_id": "have_got_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "doctor",
+      "reading": "",
+      "translation": "médico / doctor",
+      "pos": "noun",
+      "example": "You should see a doctor.",
+      "example_translation": "Deberías ver a un médico.",
+      "lexeme_id": "doctor",
+      "chunk_id": null
+    },
+    {
+      "target_word": "nurse",
+      "reading": "",
+      "translation": "enfermero/a",
+      "pos": "noun",
+      "example": "The nurse is at the hospital.",
+      "example_translation": "La enfermera está en el hospital.",
+      "lexeme_id": "nurse",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hospital",
+      "reading": "",
+      "translation": "hospital",
+      "pos": "noun",
+      "example": "The nurse is at the hospital.",
+      "example_translation": "La enfermera está en el hospital.",
+      "lexeme_id": "hospital",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sick",
+      "reading": "",
+      "translation": "enfermo",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "sick_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hurt",
+      "reading": "",
+      "translation": "doler / herir",
+      "pos": "verb",
+      "example": "My head hurts.",
+      "example_translation": "Me duele la cabeza.",
+      "lexeme_id": "hurt_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "feel",
+      "reading": "",
+      "translation": "sentir",
+      "pos": "verb",
+      "example": "I feel sick today.",
+      "example_translation": "Me siento enfermo hoy.",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "better",
+      "reading": "",
+      "translation": "mejor",
+      "pos": "adjective",
+      "example": "She feels better now.",
+      "example_translation": "Ella se siente mejor ahora.",
+      "lexeme_id": "better_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "well",
+      "reading": "",
+      "translation": "bien",
+      "pos": "adverb",
+      "example": "I don't feel well.",
+      "example_translation": "No me siento bien.",
+      "lexeme_id": "well_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sleep",
+      "reading": "",
+      "translation": "dormir",
+      "pos": "verb",
+      "example": "You should sleep and rest.",
+      "example_translation": "Deberías dormir y descansar.",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Health and ailments",
+      "title_target": "Quiz: Health and ailments",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to make a correct question:",
+          "options": [
+            "How",
+            "do",
+            "you",
+            "feel",
+            "?"
+          ],
+          "correct_answer": "How do you feel?",
+          "explanation_form": "La pregunta correcta es 'How do you feel?' (¿Cómo te sientes?). En inglés, las preguntas con 'how' siguen el orden: How + do + sujeto + verbo.",
+          "explanation_target": "The correct question is 'How do you feel?' In English, questions with 'how' follow the order: How + do + subject + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "feel_verb",
+            "wh_questions_about_health"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'My head ____.' (Me duele la cabeza.)",
+          "prompt_target": "Complete the sentence: 'My head ____.'",
+          "options": null,
+          "correct_answer": "hurts",
+          "explanation_form": "Para expresar dolor en una parte del cuerpo, usamos 'hurt' en tercera persona: 'My head hurts.' (Me duele la cabeza).",
+          "explanation_target": "To express pain in a body part, we use 'hurt' in third person: 'My head hurts.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hurt_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de dar un consejo?",
+          "prompt_target": "Which is the correct way to give advice?",
+          "options": [
+            "You should sleep.",
+            "You should sleeps.",
+            "You should to sleep.",
+            "You sleeping should."
+          ],
+          "correct_answer": "You should sleep.",
+          "explanation_form": "Después de 'should' usamos el verbo en su forma base, sin 'to' y sin 's': 'You should sleep.' (Deberías dormir).",
+          "explanation_target": "After 'should' we use the base form of the verb, without 'to' and without 's': 'You should sleep.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "should_shouldnt_intro",
+            "sleep_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "doctor",
+            "médico",
+            "nurse",
+            "enfermera",
+            "hospital",
+            "hospital",
+            "sick",
+            "enfermo"
+          ],
+          "correct_answer": [
+            "doctor=médico",
+            "nurse=enfermera",
+            "hospital=hospital",
+            "sick=enfermo"
+          ],
+          "explanation_form": "Estas son las palabras clave del tema salud: doctor (médico), nurse (enfermera), hospital (hospital) y sick (enfermo).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "doctor",
+            "nurse",
+            "hospital",
+            "sick_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'have got' o 'has got': 'I ____ a cold.'",
+          "prompt_target": "Complete with 'have got' or 'has got': 'I ____ a cold.'",
+          "options": null,
+          "correct_answer": "have got",
+          "explanation_form": "Con 'I' usamos 'have got': 'I have got a cold.' (Tengo un resfriado). Para expresar enfermedades usamos 'have got'.",
+          "explanation_target": "With 'I' we use 'have got': 'I have got a cold.' To express illnesses we use 'have got'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_for_ailments"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I feel better'?",
+          "prompt_target": "What does 'I feel better' mean?",
+          "options": [
+            "Me siento mejor.",
+            "Me siento peor.",
+            "Estoy enfermo.",
+            "Tengo fiebre."
+          ],
+          "correct_answer": "Me siento mejor.",
+          "explanation_form": "'I feel better' significa 'Me siento mejor'. 'Better' es el comparativo de 'good' (bien) y se usa para indicar mejora.",
+          "explanation_target": "'I feel better' means 'I feel better' in Spanish. 'Better' is the comparative of 'good' and is used to indicate improvement.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "better_adj",
+            "feel_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "You",
+            "should",
+            "not",
+            "go",
+            "to",
+            "work",
+            "."
+          ],
+          "correct_answer": "You should not go to work.",
+          "explanation_form": "La frase correcta es 'You should not go to work.' (No deberías ir a trabajar). La negación de 'should' es 'should not'.",
+          "explanation_target": "The correct sentence is 'You should not go to work.' The negative of 'should' is 'should not'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "should_shouldnt_intro",
+            "work_verb"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la respuesta correcta a 'How do you feel?'",
+          "prompt_target": "Which is the correct answer to 'How do you feel?'",
+          "options": [
+            "I feel sick.",
+            "I am a doctor.",
+            "I sleep at night.",
+            "I go to the hospital."
+          ],
+          "correct_answer": "I feel sick.",
+          "explanation_form": "A la pregunta 'How do you feel?' (¿Cómo te sientes?) respondemos con 'I feel + adjetivo': 'I feel sick.' (Me siento enfermo).",
+          "explanation_target": "To the question 'How do you feel?' we answer with 'I feel + adjective': 'I feel sick.'",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "feel_verb",
+            "sick_adj",
+            "feel_plus_adjective"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'The ____ works at the hospital.' (La enfermera trabaja en el hospital.)",
+          "prompt_target": "Complete: 'The ____ works at the hospital.'",
+          "options": null,
+          "correct_answer": "nurse",
+          "explanation_form": "La palabra para 'enfermera' es 'nurse'. La frase completa: 'The nurse works at the hospital.'",
+          "explanation_target": "The word for 'enfermera' is 'nurse'. The full sentence: 'The nurse works at the hospital.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "nurse",
+            "hospital"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué consejo es correcto si alguien está enfermo?",
+          "prompt_target": "Which advice is correct if someone is sick?",
+          "options": [
+            "You should see a doctor.",
+            "You should run.",
+            "You should go to work.",
+            "You should drink coffee."
+          ],
+          "correct_answer": "You should see a doctor.",
+          "explanation_form": "Si alguien está enfermo, el consejo lógico es 'You should see a doctor.' (Deberías ver a un médico).",
+          "explanation_target": "If someone is sick, the logical advice is 'You should see a doctor.'",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "should_shouldnt_intro",
+            "doctor"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I ____ a headache.' (Tengo dolor de cabeza.)",
+          "prompt_target": "Complete: 'I ____ a headache.'",
+          "options": null,
+          "correct_answer": "have got",
+          "explanation_form": "Para expresar que tenemos un dolor o enfermedad usamos 'have got': 'I have got a headache.' (Tengo dolor de cabeza).",
+          "explanation_target": "To express that we have a pain or illness we use 'have got': 'I have got a headache.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_for_ailments",
+            "hurt_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma negativa correcta?",
+          "prompt_target": "Which is the correct negative form?",
+          "options": [
+            "You should not go to work.",
+            "You not should sleep.",
+            "You should no sleep.",
+            "You should not to sleep."
+          ],
+          "correct_answer": "You should not go to work.",
+          "explanation_form": "La negación de 'should' es 'should not' seguido del verbo en forma base: 'You should not go to work.' (No deberías ir a trabajar).",
+          "explanation_target": "The negative of 'should' is 'should not' followed by the base form of the verb: 'You should not go to work.'",
+          "references_exercise_id": "ex_005",
+          "references_lesson_topics": [
+            "should_shouldnt_intro",
+            "sleep_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El verbo \"feel\" y las emociones\n\nEn inglés, para hablar de cómo te sientes, usamos el verbo **feel** (sentirse) + un adjetivo. Por ejemplo: **I feel sick** (Me siento enfermo) o **I feel better** (Me siento mejor). Es muy parecido al español, pero recuerda que en inglés NO necesitas el verbo \"estar\" aquí. No digas \"I am feel sick\". El verbo **feel** ya incluye la idea de \"sentirse\".\n\n## \"Have got\" para hablar de enfermedades\n\nPara decir que tienes una enfermedad o un dolor, los ingleses usan **have got** (tener). Por ejemplo: **I have got a headache** (Tengo dolor de cabeza) o **She has got a cold** (Ella tiene un resfriado). Es como decir \"yo tengo cogido\" un resfriado. Es una forma muy común y natural. También puedes usar **have** solo: **I have a headache**. Ambas son correctas, pero **have got** es más informal y conversacional.\n\n## Preguntas con \"What\" y \"Where\" sobre salud\n\nPara preguntar sobre problemas de salud, usa las palabras interrogativas. **What** (qué) para preguntar qué te duele: **What hurts?** (¿Qué te duele?). **Where** (dónde) para preguntar la ubicación del dolor: **Where does it hurt?** (¿Dónde te duele?). En inglés, el dolor se expresa con el verbo **hurt** (doler). Por ejemplo: **My head hurts** (Me duele la cabeza). Es literal: \"mi cabeza duele\".\n\n## El consejo con \"should\" y \"shouldn't\"\n\n**Should** significa \"deberías\" y **shouldn't** significa \"no deberías\". Se usan para dar consejos. Por ejemplo: **You should sleep** (Deberías dormir) o **You shouldn't go to work** (No deberías ir a trabajar). Es muy fácil de usar porque no cambia con la persona: **I should**, **you should**, **he should**. Solo añade el verbo en su forma base después. Es una forma muy educada y útil para hablar con un doctor o una enfermera.\n\n## En el hospital o la farmacia\n\nCuando visitas al **doctor** (médico) o a la **nurse** (enfermera) en el **hospital** (hospital), es útil saber describir cómo te sientes. Puedes decir: **I feel sick** (Me siento enfermo), **I feel better** (Me siento mejor) o **I don't feel well** (No me siento bien). Recuerda que **well** (bien) es un adverbio que se usa para la salud. Si el doctor te dice que descanses, puedes responder: **I should sleep** (Debería dormir).",
+  "metadata": {
+    "generated_at": "2026-08-11T18:11:45Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

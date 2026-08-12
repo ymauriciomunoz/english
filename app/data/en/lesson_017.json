@@ -1,0 +1,1557 @@
+{
+  "id": "lesson_017",
+  "position": 18,
+  "unit_id": 4,
+  "course_id": "en.A1",
+  "title_form": "Talk about your job and occupations",
+  "title_target": "Hablar de tu trabajo y ocupaciones",
+  "theme_focus": "Talk about your job and occupations",
+  "learning_objectives": [
+    "Can talk about their job and other occupations using present simple third person and work-related vocabulary."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_010"
+  ],
+  "grammar_focus": [
+    "present_simple_third_person_affirmative_focus (He works, She teaches, He studies)",
+    "present_simple_third_person_negative (He doesn't work, She doesn't teach)",
+    "present_simple_third_person_yes_no (Does he work?, Does she teach?)",
+    "present_simple_third_person_wh_questions (What does he do?, Where does she work?)",
+    "article_a_an_with_occupations (She's a teacher, He's an engineer)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "teacher",
+        "doctor",
+        "nurse",
+        "waiter",
+        "scientist",
+        "writer",
+        "worker",
+        "office",
+        "work",
+        "work_verb",
+        "study_verb",
+        "learn_verb",
+        "do_homework_phrase"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "between_prep",
+        "big_adj",
+        "bill",
+        "black_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "clock",
+        "coat",
+        "coffee",
+        "come_verb",
+        "cost_verb",
+        "country",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "eat_verb",
+        "evening",
+        "excuse_me_interj",
+        "expensive_adj",
+        "family",
+        "father",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "half",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "hospital",
+        "hotel",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "last_adj",
+        "later_adv",
+        "left",
+        "live_verb",
+        "lunch",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "oclock_adv",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pink_2",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "restaurant",
+        "right",
+        "road",
+        "salad",
+        "school",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "small_adj",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "spring",
+        "start_verb",
+        "station",
+        "street",
+        "summer",
+        "supermarket",
+        "sweater",
+        "t_shirt",
+        "tall_adj",
+        "tea",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "three_num",
+        "time",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vegetable",
+        "village",
+        "wake_up_verb_2",
+        "walk_verb",
+        "water",
+        "we_pronoun",
+        "week",
+        "weekend",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "work_verb",
+        "world",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Ana, una enfermera de 29 años originaria de Sevilla, llega a una oficina en Londres para su primera entrevista de trabajo. Está nerviosa porque no conoce a nadie y su inglés es básico. En la sala de espera, conoce a Tom, un escritor que trabaja en la misma oficina. Tom le sonríe y le pregunta: 'What do you do?'. Ana respira hondo y responde: 'I am a nurse'. Tom le cuenta que su hermana es doctora en el hospital de la ciudad. Cuando la entrevista termina, Ana sale aliviada y con una nueva amiga.",
+  "introduction_md": "¿Sabes decir en inglés lo que hace tu madre o tu mejor amigo? En esta lección vas a descubrir cómo hablar de tu trabajo y del de otras personas con el presente simple. Ya sabes decir 'I work' o 'I study'; ahora aprenderás a decir 'he works' y 'she studies', y a preguntar 'What does she do?'. Con estas herramientas podrás describir profesiones como doctor, teacher o scientist, y entender conversaciones sobre el trabajo de los demás. Al final, podrás presentar a tu familia y amigos diciendo qué hacen cada día. Es un paso clave para conversaciones reales: la gente siempre pregunta por el trabajo. ¡Vamos a practicar con ejemplos de la vida diaria y ejercicios que te harán hablar con confianza!",
+  "intro_target": "Do you know how to say in English what your mother or your best friend does? In this lesson, you will discover how to talk about your job and other people's jobs with the present simple. You already know how to say 'I work' or 'I study'; now you will learn to say 'he works' and 'she studies', and to ask 'What does she do?'. With these tools, you will be able to describe professions like doctor, teacher, or scientist, and understand conversations about other people's work. At the end, you will be able to introduce your family and friends by saying what they do every day. It is a key step for real conversations: people always ask about work. Let's practice with everyday examples and exercises that will make you speak with confidence!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a teacher at the school.",
+      "translation_form": "Ella es profesora en la escuela.",
+      "highlight_words": [
+        "teacher",
+        "school"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "doctor",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He is a doctor at the hospital.",
+      "translation_form": "Él es médico en el hospital.",
+      "highlight_words": [
+        "doctor",
+        "hospital"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She works as a nurse in the hospital.",
+      "translation_form": "Ella trabaja como enfermera en el hospital.",
+      "highlight_words": [
+        "nurse",
+        "works",
+        "hospital"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "waiter",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He is a waiter at the restaurant.",
+      "translation_form": "Él es camarero en el restaurante.",
+      "highlight_words": [
+        "waiter",
+        "restaurant"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "scientist",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a scientist and she studies the world.",
+      "translation_form": "Ella es científica y estudia el mundo.",
+      "highlight_words": [
+        "scientist",
+        "studies",
+        "world"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "writer",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He is a writer and he works at home.",
+      "translation_form": "Él es escritor y trabaja en casa.",
+      "highlight_words": [
+        "writer",
+        "works"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "worker",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a worker at the office.",
+      "translation_form": "Ella es trabajadora en la oficina.",
+      "highlight_words": [
+        "worker",
+        "office"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "work_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He works at the office every day.",
+      "translation_form": "Él trabaja en la oficina todos los días.",
+      "highlight_words": [
+        "works",
+        "office",
+        "day"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She studies at the university.",
+      "translation_form": "Ella estudia en la universidad.",
+      "highlight_words": [
+        "studies",
+        "university"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "learn_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He learns English at school.",
+      "translation_form": "Él aprende inglés en la escuela.",
+      "highlight_words": [
+        "learns",
+        "school"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": "do_homework_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She does homework after dinner.",
+      "translation_form": "Ella hace los deberes después de la cena.",
+      "highlight_words": [
+        "does",
+        "homework",
+        "after",
+        "dinner"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_012",
+      "lexeme_id": "work",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "His work is interesting.",
+      "translation_form": "Su trabajo es interesante.",
+      "highlight_words": [
+        "work"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present_simple_third_person_affirmative_focus",
+      "title_form": "Presente simple: tercera persona (afirmativo)",
+      "title_target": "Present Simple: Third Person (Affirmative)",
+      "description_md_form": "Cuando hablamos de **otra persona** (él, ella, o alguien por su nombre), el verbo cambia. En inglés, para **he**, **she** o un nombre, agregamos una **-s** al verbo.\n\n- **I work** en una oficina. (Yo trabajo)\n- **She works** en una oficina. (Ella trabaja)\n\nEl verbo **to be** es especial: **he is**, **she is**. Por ejemplo: **He is a doctor** (Él es médico).\n\nCon otros verbos, solo añadimos **-s**: **study** → **studies**, **learn** → **learns**. Es un cambio pequeño, pero muy importante para hablar de trabajos y rutinas.",
+      "description_md_target": "When we talk about **another person** (he, she, or someone by name), the verb changes. In English, for **he**, **she**, or a name, we add an **-s** to the verb.\n\n- **I work** in an office.\n- **She works** in an office.\n\nThe verb **to be** is special: **he is**, **she is**. For example: **He is a doctor**.\n\nWith other verbs, we just add **-s**: **study** → **studies**, **learn** → **learns**. It is a small change, but very important for talking about jobs and routines.",
+      "grammar_structure": "Subject (he/she/name) + verb + -s",
+      "conjugation_table": {
+        "name": "present_simple_third_person",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "work",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "work",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She",
+            "form": "works",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "work",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "work",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "work_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She works at the hospital.",
+          "translation_form": "Ella trabaja en el hospital.",
+          "highlight_words": [
+            "works"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "study_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "He studies at the university.",
+          "translation_form": "Él estudia en la universidad.",
+          "highlight_words": [
+            "studies"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: con **he**, **she** o un nombre, el verbo lleva **-s**. Es como en español: *yo trabajo* pero *ella trabaja*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: no digas *She work*. Siempre es **She works** con **-s**."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar la -s: *She work* en vez de *She works*.",
+        "Usar *is* con verbos normales: *She is work* en vez de *She works*.",
+        "Confundir *study* con *studies*: *He study* en vez de *He studies*."
+      ]
+    },
+    {
+      "slug": "present_simple_third_person_negative",
+      "title_form": "Presente simple: negaciones con él y ella",
+      "title_target": "Present Simple: Negative with He and She",
+      "description_md_form": "Para decir que **él** o **ella** NO hace algo, usamos **does not** (o **doesn't**) + el verbo en su forma base. La **-s** del verbo desaparece en las negaciones.\n\n**Estructura:** `He/She + does not (doesn't) + verbo base`\n\n**Ejemplos:**\n- `She doesn't work.` = Ella no trabaja.\n- `He doesn't study.` = Él no estudia.\n\n**Recuerda:** el verbo vuelve a su forma simple (sin -s). No digas *\"She doesn't works\"*. La negación ya lleva la marca de la tercera persona en el **doesn't**.",
+      "description_md_target": "To say that **he** or **she** does NOT do something, we use **does not** (or **doesn't**) + the verb in its base form. The **-s** on the verb disappears in negatives.\n\n**Structure:** `He/She + does not (doesn't) + base verb`\n\n**Examples:**\n- `She doesn't work.` = She does not work.\n- `He doesn't study.` = He does not study.\n\n**Remember:** the verb goes back to its simple form (without -s). Don't say *\"She doesn't works\"*. The negative already carries the third-person marker in **doesn't**.",
+      "grammar_structure": "He/She + does not (doesn't) + base verb",
+      "conjugation_table": {
+        "name": "present_simple_negative",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "do not work",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "do not work",
+            "notes": null
+          },
+          {
+            "pronoun": "He",
+            "form": "does not work",
+            "notes": null
+          },
+          {
+            "pronoun": "She",
+            "form": "does not work",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "do not work",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "do not work",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_third_person_negative",
+          "text_target": "She doesn't work at the office.",
+          "translation_form": "Ella no trabaja en la oficina.",
+          "highlight_words": [
+            "doesn't",
+            "work"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_third_person_negative",
+          "text_target": "He doesn't study at the school.",
+          "translation_form": "Él no estudia en la escuela.",
+          "highlight_words": [
+            "doesn't",
+            "study"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado:** no digas *\"She doesn't works\"*. Cuando usas **doesn't**, el verbo pierde la -s. Es *\"She doesn't work\"*."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip:** **doesn't** es la forma corta de **does not**. Las dos son correctas, pero en conversación usamos más **doesn't**."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'She doesn't works' en lugar de 'She doesn't work'. El verbo va en forma base después de doesn't.",
+        "Usar 'don't' con he o she: 'He don't work' es incorrecto. Debe ser 'He doesn't work'.",
+        "Olvidar el verbo en forma base: 'She doesn't working' es incorrecto. Debe ser 'She doesn't work'."
+      ]
+    },
+    {
+      "slug": "present_simple_third_person_yes_no",
+      "title_form": "Preguntas de sí o no con él y ella",
+      "title_target": "Yes/No Questions with He and She",
+      "description_md_form": "Para preguntar **sí o no** sobre el trabajo de otra persona, usamos **Does** al inicio de la oración. Después de **Does**, el verbo vuelve a su forma base (sin la **-s**).\n\n**Estructura:** *Does* + *he/she* + *verbo base* + *resto* + *?*\n\nEjemplos:\n- **Does** she **work** in an office? (¿Ella trabaja en una oficina?)\n- **Does** he **study** at the university? (¿Él estudia en la universidad?)\n\nPara responder, usamos **Yes, she does** o **No, he doesn't**. No repetimos el verbo en la respuesta corta.",
+      "description_md_target": "To ask **yes or no** questions about another person's job, we use **Does** at the start of the sentence. After **Does**, the verb returns to its base form (without the **-s**).\n\n**Structure:** *Does* + *he/she* + *base verb* + *rest* + *?*\n\nExamples:\n- **Does** she **work** in an office?\n- **Does** he **study** at the university?\n\nTo answer, we use **Yes, she does** or **No, he doesn't**. We don't repeat the verb in the short answer.",
+      "grammar_structure": "Does + he/she + base verb + complement + ?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_third_person_yes_no",
+          "text_target": "Does she work in an office?",
+          "translation_form": "¿Ella trabaja en una oficina?",
+          "highlight_words": [
+            "does",
+            "work"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_third_person_yes_no",
+          "text_target": "Does he study at the university?",
+          "translation_form": "¿Él estudia en la universidad?",
+          "highlight_words": [
+            "does",
+            "study"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** después de **Does**, el verbo pierde la **-s**. Decimos *Does she work?*, no *Does she works?*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas:** *Does he works?* — **Di:** *Does he work?* El verbo va en forma base."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'Do' en lugar de 'Does' con he/she: *Do she work?* → *Does she work?*",
+        "Mantener la -s en el verbo después de Does: *Does he works?* → *Does he work?*",
+        "Responder repitiendo el verbo: *Yes, she works* → *Yes, she does*"
+      ]
+    },
+    {
+      "slug": "present_simple_third_person_wh_questions",
+      "title_form": "Preguntas con WH en presente simple (tercera persona)",
+      "title_target": "WH questions in present simple (third person)",
+      "description_md_form": "Para preguntar **dónde**, **qué** o **cuándo** trabaja alguien, usamos las palabras **WH** (where, what, when) + **does** + el sujeto + el verbo en forma base.\n\n**Estructura:** `WH + does + he/she + verbo base?`\n\nEjemplos:\n- `Where does she work?` = ¿Dónde trabaja ella?\n- `What does he study?` = ¿Qué estudia él?\n\n**Importante:** con **does**, el verbo NO lleva **-s**. Decimos `does she work`, no `does she works`. La **-s** ya está en **does**.\n\nUsamos **where** para lugares, **what** para cosas y **when** para tiempo. La respuesta siempre usa la tercera persona con **-s**: `She works at the hospital.`",
+      "description_md_target": "To ask **where**, **what** or **when** someone works, we use the **WH** words (where, what, when) + **does** + the subject + the verb in base form.\n\n**Structure:** `WH + does + he/she + base verb?`\n\nExamples:\n- `Where does she work?` = Where does she work?\n- `What does he study?` = What does he study?\n\n**Important:** with **does**, the verb does NOT have **-s**. We say `does she work`, not `does she works`. The **-s** is already in **does**.\n\nWe use **where** for places, **what** for things and **when** for time. The answer always uses the third person with **-s**: `She works at the hospital.`",
+      "grammar_structure": "WH + does + he/she + verb (base form) + ...?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_third_person_wh_questions",
+          "text_target": "Where does she work? She works at the hospital.",
+          "translation_form": "¿Dónde trabaja ella? Ella trabaja en el hospital.",
+          "highlight_words": [
+            "where",
+            "does",
+            "work"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present_simple_third_person_wh_questions",
+          "text_target": "What does he study? He studies at the university.",
+          "translation_form": "¿Qué estudia él? Él estudia en la universidad.",
+          "highlight_words": [
+            "what",
+            "does",
+            "study"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas** `Where does she works?` Con **does**, el verbo va en forma base: `Where does she work?` La **-s** ya está en **does**."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Where** pregunta por un lugar (hospital, office, school). **What** pregunta por una cosa o acción (study, learn, work)."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'Where does she works?' en lugar de 'Where does she work?' — con does el verbo no lleva -s.",
+        "Olvidar el auxiliar does: 'Where she works?' en lugar de 'Where does she work?'.",
+        "Usar do en lugar de does con he/she: 'What do he study?' en lugar de 'What does he study?'.",
+        "Confundir where (lugar) con what (cosa): 'What does she work?' en lugar de 'Where does she work?'."
+      ]
+    },
+    {
+      "slug": "article_a_an_with_occupations",
+      "title_form": "El artículo a/an con ocupaciones",
+      "title_target": "The article a/an with occupations",
+      "description_md_form": "En inglés, cuando hablamos de la profesión de una persona, **siempre** usamos el artículo **a** o **an** antes de la ocupación. Es una regla fija: no se puede omitir.\n\n- Usamos **a** antes de palabras que empiezan con sonido de consonante: `a teacher`, `a doctor`, `a nurse`.\n- Usamos **an** antes de palabras que empiezan con sonido de vocal: `an office`, `an engineer`.\n\nLa estructura es: **Subject + to be + a/an + occupation**.\n\nEjemplos: `She is a teacher.` (Ella es profesora), `He is a doctor.` (Él es médico).\n\n**Importante:** En español decimos \"es profesora\" sin artículo, pero en inglés **siempre** necesitas `a` o `an`. Este es uno de los errores más comunes para hispanohablantes.",
+      "description_md_target": "In English, when we talk about a person's job, we **always** use the article **a** or **an** before the occupation. It is a fixed rule: you cannot omit it.\n\n- We use **a** before words that start with a consonant sound: `a teacher`, `a doctor`, `a nurse`.\n- We use **an** before words that start with a vowel sound: `an office`, `an engineer`.\n\nThe structure is: **Subject + to be + a/an + occupation**.\n\nExamples: `She is a teacher.` (She is a teacher), `He is a doctor.` (He is a doctor).\n\n**Important:** In Spanish you say \"es profesora\" without an article, but in English you **always** need `a` or `an`. This is one of the most common mistakes for Spanish speakers.",
+      "grammar_structure": "Subject + to be + a/an + occupation",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "teacher",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She is a teacher at the school.",
+          "translation_form": "Ella es profesora en la escuela.",
+          "highlight_words": [
+            "a",
+            "teacher"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "doctor",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "He is a doctor at the hospital.",
+          "translation_form": "Él es médico en el hospital.",
+          "highlight_words": [
+            "a",
+            "doctor"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No olvides el artículo.** En español decimos \"es profesora\" sin artículo, pero en inglés **siempre** necesitas `a` o `an`: `She is a teacher.` Nunca digas `She is teacher.`"
+        },
+        {
+          "type": "tip",
+          "text_md": "**¿A o an?** Usa `a` antes de sonidos de consonante (`a nurse`, `a waiter`) y `an` antes de sonidos de vocal (`an office`, `an engineer`)."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'She is teacher' en lugar de 'She is a teacher' (omitir el artículo).",
+        "Usar 'an' antes de consonante: 'an teacher' en lugar de 'a teacher'.",
+        "Usar 'a' antes de vocal: 'a office' en lugar de 'an office'.",
+        "Confundir el orden: 'She teacher is' en lugar de 'She is a teacher'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'teacher'?",
+      "options": [
+        "profesor",
+        "médico",
+        "camarero",
+        "científico"
+      ],
+      "correct_answer": "profesor",
+      "explanation_md": "'Teacher' se refiere a la persona que enseña, el profesor o la profesora.",
+      "related_lexeme_ids": [
+        "teacher"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'nurse'?",
+      "options": [
+        "enfermero",
+        "escritor",
+        "doctor",
+        "trabajador"
+      ],
+      "correct_answer": "enfermero/a",
+      "explanation_md": "'Nurse' es la persona que cuida a los pacientes, el enfermero o la enfermera.",
+      "related_lexeme_ids": [
+        "nurse"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada ocupación con su traducción:",
+      "options": [
+        "waiter",
+        "camarero",
+        "scientist",
+        "científico",
+        "writer",
+        "escritor"
+      ],
+      "correct_answer": [
+        "waiter=camarero",
+        "scientist=científico",
+        "writer=escritor"
+      ],
+      "explanation_md": "Estas son tres ocupaciones comunes: camarero, científico y escritor.",
+      "related_lexeme_ids": [
+        "waiter",
+        "scientist",
+        "writer"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "En la oficina, ¿qué hace la persona que trabaja allí?",
+      "options": [
+        "She works in the office.",
+        "She works in the hospital.",
+        "She works in the restaurant.",
+        "She works in the school."
+      ],
+      "correct_answer": "She works in the office.",
+      "explanation_md": "La oficina es el lugar de trabajo, así que la persona trabaja en la oficina.",
+      "related_lexeme_ids": [
+        "office",
+        "work_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta de decir que él no es camarero?",
+      "options": [
+        "He is not a waiter.",
+        "He is a waiter.",
+        "He not is a waiter.",
+        "He is no a waiter."
+      ],
+      "correct_answer": "He is not a waiter.",
+      "explanation_md": "Para negar con 'he' usamos 'is not' después del sujeto.",
+      "related_lexeme_ids": [
+        "waiter"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'She ____ as a nurse in the hospital.' (trabaja)",
+      "options": null,
+      "correct_answer": "works",
+      "explanation_md": "Con 'she' en presente simple, el verbo 'work' cambia a 'works'.",
+      "related_lexeme_ids": [
+        "work_verb",
+        "nurse"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la pregunta: '____ he a doctor?' (¿Es él médico?)",
+      "options": null,
+      "correct_answer": "Is",
+      "explanation_md": "Para preguntar si alguien es algo, usamos 'Is' al inicio de la pregunta.",
+      "related_lexeme_ids": [
+        "doctor"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ella es escritora.'",
+      "options": null,
+      "correct_answer": "She is a writer.",
+      "explanation_md": "Usamos 'She is' + artículo 'a' + la ocupación 'writer'.",
+      "related_lexeme_ids": [
+        "writer"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Él estudia en la universidad.'",
+      "options": null,
+      "correct_answer": "He studies at the university.",
+      "explanation_md": "Con 'he', el verbo 'study' cambia a 'studies' en presente simple.",
+      "related_lexeme_ids": [
+        "study_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'He is a scientist and he studies the world.'",
+      "options": null,
+      "correct_answer": "Él es científico y estudia el mundo.",
+      "explanation_md": "La oración combina la ocupación 'scientist' con el verbo 'studies'.",
+      "related_lexeme_ids": [
+        "scientist",
+        "study_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'She does her homework at home.'",
+      "options": null,
+      "correct_answer": "Ella hace su tarea en casa.",
+      "explanation_md": "'Does her homework' es la forma de decir 'hace su tarea' con 'she'.",
+      "related_lexeme_ids": [
+        "do_homework_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué pregunta es correcta para saber dónde trabaja ella?",
+      "options": [
+        "Where does she work?",
+        "Where do she work?",
+        "Where she works?",
+        "Where is she work?"
+      ],
+      "correct_answer": "Where does she work?",
+      "explanation_md": "Para preguntar por el lugar de trabajo con 'she', usamos 'Where does she work?'.",
+      "related_lexeme_ids": [
+        "work_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "teacher",
+      "back": "profesor/a",
+      "hint": "persona que enseña",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "doctor",
+      "back": "médico / doctor",
+      "hint": "trabaja en un hospital",
+      "lexeme_id": "doctor",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "nurse",
+      "back": "enfermero/a",
+      "hint": "ayuda al doctor",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "waiter",
+      "back": "camarero / mesero",
+      "hint": "trabaja en un restaurante",
+      "lexeme_id": "waiter",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "scientist",
+      "back": "científico / científica",
+      "hint": "trabaja en un laboratorio",
+      "lexeme_id": "scientist",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "writer",
+      "back": "escritor / escritora",
+      "hint": "escribe libros",
+      "lexeme_id": "writer",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "worker",
+      "back": "trabajador",
+      "hint": "persona que trabaja",
+      "lexeme_id": "worker",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "office",
+      "back": "oficina",
+      "hint": "lugar donde trabajas",
+      "lexeme_id": "office",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "work",
+      "back": "trabajo",
+      "hint": "sustantivo",
+      "lexeme_id": "work",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "work",
+      "back": "trabajar",
+      "hint": "verbo",
+      "lexeme_id": "work_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "study",
+      "back": "estudiar",
+      "hint": "verbo",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "learn",
+      "back": "aprender",
+      "hint": "verbo",
+      "lexeme_id": "learn_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "do homework",
+      "back": "hacer los deberes",
+      "hint": "tarea de la escuela",
+      "lexeme_id": "do_homework_phrase",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "teacher",
+      "reading": "",
+      "translation": "profesor/a",
+      "pos": "noun",
+      "example": "She is a teacher at the school.",
+      "example_translation": "Ella es profesora en la escuela.",
+      "lexeme_id": "teacher",
+      "chunk_id": null
+    },
+    {
+      "target_word": "doctor",
+      "reading": "",
+      "translation": "médico / doctor",
+      "pos": "noun",
+      "example": "He is a doctor at the hospital.",
+      "example_translation": "Él es médico en el hospital.",
+      "lexeme_id": "doctor",
+      "chunk_id": null
+    },
+    {
+      "target_word": "nurse",
+      "reading": "",
+      "translation": "enfermero/a",
+      "pos": "noun",
+      "example": "She works as a nurse in the hospital.",
+      "example_translation": "Ella trabaja como enfermera en el hospital.",
+      "lexeme_id": "nurse",
+      "chunk_id": null
+    },
+    {
+      "target_word": "waiter",
+      "reading": "",
+      "translation": "camarero / mesero",
+      "pos": "noun",
+      "example": "He is a waiter at the restaurant.",
+      "example_translation": "Él es camarero en el restaurante.",
+      "lexeme_id": "waiter",
+      "chunk_id": null
+    },
+    {
+      "target_word": "scientist",
+      "reading": "",
+      "translation": "científico / científica",
+      "pos": "noun",
+      "example": "She is a scientist and she studies the world.",
+      "example_translation": "Ella es científica y estudia el mundo.",
+      "lexeme_id": "scientist",
+      "chunk_id": null
+    },
+    {
+      "target_word": "writer",
+      "reading": "",
+      "translation": "escritor / escritora",
+      "pos": "noun",
+      "example": "He is a writer and he works at home.",
+      "example_translation": "Él es escritor y trabaja en casa.",
+      "lexeme_id": "writer",
+      "chunk_id": null
+    },
+    {
+      "target_word": "worker",
+      "reading": "",
+      "translation": "trabajador",
+      "pos": "noun",
+      "example": "She is a worker at the office.",
+      "example_translation": "Ella es trabajadora en la oficina.",
+      "lexeme_id": "worker",
+      "chunk_id": null
+    },
+    {
+      "target_word": "office",
+      "reading": "",
+      "translation": "oficina",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "office",
+      "chunk_id": null
+    },
+    {
+      "target_word": "work",
+      "reading": "",
+      "translation": "trabajo",
+      "pos": "noun",
+      "example": "His work is interesting.",
+      "example_translation": "Su trabajo es interesante.",
+      "lexeme_id": "work",
+      "chunk_id": null
+    },
+    {
+      "target_word": "work",
+      "reading": "",
+      "translation": "trabajar",
+      "pos": "verb",
+      "example": "He works at the office every day.",
+      "example_translation": "Él trabaja en la oficina todos los días.",
+      "lexeme_id": "work_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "study",
+      "reading": "",
+      "translation": "estudiar",
+      "pos": "verb",
+      "example": "She studies at the university.",
+      "example_translation": "Ella estudia en la universidad.",
+      "lexeme_id": "study_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "learn",
+      "reading": "",
+      "translation": "aprender",
+      "pos": "verb",
+      "example": "He learns English at school.",
+      "example_translation": "Él aprende inglés en la escuela.",
+      "lexeme_id": "learn_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "do homework",
+      "reading": "",
+      "translation": "hacer los deberes",
+      "pos": "phrase",
+      "example": "She does homework after dinner.",
+      "example_translation": "Ella hace los deberes después de la cena.",
+      "lexeme_id": "do_homework_phrase",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Talk about your job and occupations",
+      "title_target": "Quiz: Talk about your job and occupations",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración con la forma correcta del verbo: 'My mother ____ in a hospital.'",
+          "prompt_target": "Complete the sentence with the correct verb form: 'My mother ____ in a hospital.'",
+          "options": null,
+          "correct_answer": "works",
+          "explanation_form": "Con 'she' (my mother = she), el verbo 'work' lleva -s: 'works'. Es la tercera persona del singular en presente simple.",
+          "explanation_target": "With 'she' (my mother = she), the verb 'work' takes -s: 'works'. This is the third person singular in present simple.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "work_verb",
+            "present_simple_third_person_affirmative_focus"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la forma negativa: 'He ____ a doctor. He is a nurse.'",
+          "prompt_target": "Complete with the negative form: 'He ____ a doctor. He is a nurse.'",
+          "options": null,
+          "correct_answer": "is not",
+          "explanation_form": "La forma negativa de 'is' es 'is not' (o 'isn't'). Aquí decimos que él NO es doctor, es enfermero.",
+          "explanation_target": "The negative form of 'is' is 'is not' (or 'isn't'). Here we say he is NOT a doctor, he is a nurse.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "doctor",
+            "nurse",
+            "present_simple_third_person_negative"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "Does",
+            "she",
+            "work",
+            "in",
+            "an",
+            "office",
+            "?"
+          ],
+          "correct_answer": "Does she work in an office?",
+          "explanation_form": "Para preguntas sí/no con tercera persona, usamos 'Does' + sujeto + verbo en forma base. 'Work' no lleva -s en la pregunta.",
+          "explanation_target": "For yes/no questions with third person, we use 'Does' + subject + base verb. 'Work' does not take -s in the question.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "work_verb",
+            "office",
+            "present_simple_third_person_yes_no",
+            "article_a_an_with_occupations"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ does he work? He works at a school.'",
+          "prompt_target": "Complete the question: '____ does he work? He works at a school.'",
+          "options": null,
+          "correct_answer": "Where",
+          "explanation_form": "Para preguntar por el lugar usamos 'Where' (dónde). La estructura es: Where + does + sujeto + verbo.",
+          "explanation_target": "To ask about place we use 'Where'. The structure is: Where + does + subject + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "work_verb",
+            "present_simple_third_person_wh_questions"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada ocupación con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "teacher",
+            "maestro",
+            "writer",
+            "escritor",
+            "scientist",
+            "científico",
+            "waiter",
+            "camarero"
+          ],
+          "correct_answer": [
+            "teacher=maestro",
+            "writer=escritor",
+            "scientist=científico",
+            "waiter=camarero"
+          ],
+          "explanation_form": "Estas son ocupaciones comunes. 'Teacher' es maestro, 'writer' es escritor, 'scientist' es científico y 'waiter' es camarero.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "teacher",
+            "writer",
+            "scientist",
+            "waiter"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del verbo 'study' con 'he'?",
+          "prompt_target": "What is the correct form of the verb 'study' with 'he'?",
+          "options": [
+            "He study English.",
+            "He studies English.",
+            "He studys English.",
+            "He studying English."
+          ],
+          "correct_answer": "He studies English.",
+          "explanation_form": "Con 'he', el verbo 'study' cambia a 'studies' (y se elimina la 'y' y se agrega 'ies'). Es la tercera persona del singular.",
+          "explanation_target": "With 'he', the verb 'study' changes to 'studies' (drop the 'y' and add 'ies'). This is the third person singular.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "study_verb",
+            "present_simple_third_person_affirmative_focus"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'a' o 'an': 'She is ____ doctor.'",
+          "prompt_target": "Complete with 'a' or 'an': 'She is ____ doctor.'",
+          "options": null,
+          "correct_answer": "a",
+          "explanation_form": "Usamos 'a' antes de sonidos consonánticos. 'Doctor' empieza con sonido de consonante, entonces es 'a doctor'.",
+          "explanation_target": "We use 'a' before consonant sounds. 'Doctor' starts with a consonant sound, so it's 'a doctor'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "doctor",
+            "article_a_an_with_occupations"
+          ],
+          "points": 5,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'a' o 'an': 'He is ____ writer.'",
+          "prompt_target": "Complete with 'a' or 'an': 'He is ____ writer.'",
+          "options": null,
+          "correct_answer": "a",
+          "explanation_form": "Aunque 'writer' se escribe con vocal, se pronuncia con sonido de consonante /r/. Por eso usamos 'a'.",
+          "explanation_target": "Although 'writer' is written with a vowel, it's pronounced with a consonant sound /r/. That's why we use 'a'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "writer",
+            "article_a_an_with_occupations"
+          ],
+          "points": 5,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del verbo 'learn' con 'she'?",
+          "prompt_target": "What is the correct form of the verb 'learn' with 'she'?",
+          "options": [
+            "She learn English.",
+            "She learns English.",
+            "She learning English.",
+            "She learned English."
+          ],
+          "correct_answer": "She learns English.",
+          "explanation_form": "Con 'she', el verbo 'learn' lleva -s: 'learns'. Es la tercera persona del singular en presente simple.",
+          "explanation_target": "With 'she', the verb 'learn' takes -s: 'learns'. This is the third person singular in present simple.",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "learn_verb",
+            "present_simple_third_person_affirmative_focus"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'My father ____ at a bank. He is a worker.'",
+          "prompt_target": "Complete the sentence: 'My father ____ at a bank. He is a worker.'",
+          "options": null,
+          "correct_answer": "works",
+          "explanation_form": "Con 'my father' (he), el verbo 'work' lleva -s: 'works'. La oración dice que mi padre trabaja en un banco.",
+          "explanation_target": "With 'my father' (he), the verb 'work' takes -s: 'works'. The sentence says my father works at a bank.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "work_verb",
+            "worker",
+            "present_simple_third_person_affirmative_focus"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la forma correcta: 'She ____ her homework every day.'",
+          "prompt_target": "Complete with the correct form: 'She ____ her homework every day.'",
+          "options": null,
+          "correct_answer": "does",
+          "explanation_form": "La frase 'do homework' (hacer la tarea) con 'she' se convierte en 'does homework'. El verbo 'do' cambia a 'does' en tercera persona.",
+          "explanation_target": "The phrase 'do homework' with 'she' becomes 'does homework'. The verb 'do' changes to 'does' in third person.",
+          "references_exercise_id": "ex_005",
+          "references_lesson_topics": [
+            "do_homework_phrase",
+            "present_simple_third_person_affirmative_focus"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para saber dónde trabaja alguien?",
+          "prompt_target": "What is the correct question to ask where someone works?",
+          "options": [
+            "What does he work?",
+            "Where does he work?",
+            "When does he work?",
+            "Who does he work?"
+          ],
+          "correct_answer": "Where does he work?",
+          "explanation_form": "Para preguntar por el LUGAR de trabajo usamos 'Where' (dónde). 'What' pregunta por la cosa, 'When' por el tiempo y 'Who' por la persona.",
+          "explanation_target": "To ask about the PLACE of work we use 'Where'. 'What' asks about the thing, 'When' about the time, and 'Who' about the person.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "work_verb",
+            "present_simple_third_person_wh_questions"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## La -s de la tercera persona: tu mejor amiga\n\nEn ingles, cuando hablamos de **he**, **she** o **it** (el, ella), el verbo cambia y lleva una **-s** al final. Es como una senal que dice: \"esto es de el o de ella\". Por ejemplo: *He works in an office* (El trabaja en una oficina) o *She studies at the university* (Ella estudia en la universidad). Es un cambio pequeno, pero es muy importante. No lo olvides: con **I**, **you**, **we** y **they** no usamos la -s, pero con **he**, **she** y **it** siempre la usamos.\n\n## El truco de a y an con profesiones\n\nCuando decimos la profesion de alguien, usamos **a** o **an** antes de la palabra. Es como decir \"un\" o \"una\" en espanol. La regla es facil: usamos **a** antes de sonidos de consonante (*a teacher*, *a doctor*) y **an** antes de sonidos de vocal (*an office*, *an engineer*). Ojo: no es la letra, es el sonido. Por ejemplo, decimos *a university* porque suena como \"yuniversity\", pero *an hour* porque la h no se pronuncia. Con las profesiones, casi siempre usamos **a** o **an**: *She is a nurse*, *He is a waiter*.\n\n## Preguntas: el verbo do viene al rescate\n\nPara hacer preguntas con el presente simple, usamos el verbo auxiliar **do** o **does**. Con **he**, **she** y **it**, usamos **does** y el verbo principal pierde la -s. Por ejemplo: *Does she work in a hospital?* (Ella trabaja en un hospital?) y la respuesta corta es *Yes, she does* o *No, she doesn't*. Tambien usamos **does** para preguntas con *what*, *where*, *when*: *Where does he work?* (Donde trabaja el?). Recuerda: cuando usas **does**, el verbo va sin -s. Es como si **does** ya llevara la -s por el.\n\n## Errores comunes que debes evitar\n\nUn error muy tipico es olvidar la -s en la tercera persona: decir *he work* en vez de *he works*. Otro error es usar **do** con **he** en preguntas: *Do he work?* es incorrecto; lo correcto es *Does he work?*. Tambien es comun olvidar el articulo con las profesiones: *She is doctor* es incorrecto; debe ser *She is a doctor*. Y cuidado con las negaciones: *He don't work* es incorrecto; lo correcto es *He doesn't work*. Practica estas estructuras y veras que pronto las usaras sin pensar.\n\n## Vocabulario para hablar de trabajos\n\nEn esta leccion aprendiste palabras para hablar de trabajos y ocupaciones. Aqui tienes un mini-glosario para repasar: *teacher* (profesor), *doctor* (medico), *nurse* (enfermero), *waiter* (camarero), *scientist* (cientifico), *writer* (escritor), *worker* (trabajador). Tambien aprendiste verbos utiles: *work* (trabajar), *study* (estudiar), *learn* (aprender) y la frase *do homework* (hacer la tarea). Usa estas palabras para hablar de tu trabajo o del trabajo de tu familia: *My mother is a teacher*, *My father works in a bank*. Asi practicas y amplias tu vocabulario.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:16:08Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

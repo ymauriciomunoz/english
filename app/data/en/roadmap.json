@@ -1,0 +1,1715 @@
+{
+  "course_id": "en.A1.mvp",
+  "language": "en",
+  "level": "A1",
+  "source_spec": "CEFR_A1.md",
+  "status": "draft_round_2",
+  "metadata": {
+    "generated_at": "2026-08-09T21:50:00Z",
+    "total_lessons": 42,
+    "lessons_pre_a1": 2,
+    "lessons_a1": 40,
+    "audit_round_2": [
+      "added_lesson_pre_002_numbers_11_to_100",
+      "reduced_lesson_005_to_only_telling_time",
+      "split_lesson_006_into_L006_days_and_L007_months_seasons",
+      "split_lesson_012_into_L013_meals_at_home_and_L014_order_in_restaurant"
+    ]
+  },
+  "lexeme_id_convention": {
+    "cart_id": "ID del cart data/en/lexemes.json (cefr_level=A1)",
+    "mvp_prefix": "mvp:<lemma> cuando el lemma no existe en el cart A1; se reporta en coverage_report.md como gap"
+  },
+  "lessons": [
+    {
+      "id": "lesson_pre_001",
+      "position": 0,
+      "is_pre_a1": true,
+      "title_form": "Alphabet, spelling, and basic courtesies",
+      "title_target": "Alfabeto, deletreo y cortesía básica",
+      "can_do": "Can recognize the English alphabet, spell simple words, use yes/no and basic courtesy phrases.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "yes_interj",
+          "no_interj",
+          "ok_interj",
+          "please_interj",
+          "thank_you_interj",
+          "thanks_interj",
+          "sorry_interj",
+          "excuse_me_interj",
+          "youre_welcome_interj",
+          "one_num",
+          "two_num",
+          "three_num",
+          "four_num",
+          "five_num",
+          "six_num",
+          "mvp:seven",
+          "mvp:eight",
+          "mvp:nine",
+          "mvp:ten"
+        ],
+        "meta_skills": [
+          "alphabet_A_to_Z_recognition",
+          "spelling_simple_words",
+          "numbers_1_to_10_recognition",
+          "days_of_week_recognition"
+        ]
+      },
+      "grammar": {"new": [], "review": []},
+      "prerequisites": [],
+      "estimated_minutes": 25,
+      "unit": "pre-A1"
+    },
+    {
+      "id": "lesson_pre_002",
+      "position": 1,
+      "is_pre_a1": true,
+      "title_form": "Numbers from 11 to 100",
+      "title_target": "Números del 11 al 100",
+      "can_do": "Can count from 11 to 100 and understand how compound numbers are formed.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "mvp:eleven",
+          "mvp:twelve",
+          "mvp:thirteen",
+          "mvp:fourteen",
+          "mvp:fifteen",
+          "mvp:sixteen",
+          "mvp:seventeen",
+          "mvp:eighteen",
+          "mvp:nineteen",
+          "mvp:twenty",
+          "mvp:thirty",
+          "mvp:forty",
+          "mvp:fifty",
+          "mvp:sixty",
+          "mvp:seventy",
+          "mvp:eighty",
+          "mvp:ninety",
+          "mvp:hundred"
+        ],
+        "meta_skills": [
+          "compound_number_formation_recognition"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "compound_numbers_11_to_19 (eleven, twelve, thirteen...nineteen — spelling irregular, hyphenated 13-19)",
+          "tens_20_to_90 (twenty, thirty, forty (no u), fifty, sixty, seventy, eighty, ninety)",
+          "compound_numbers_21_to_99 (twenty-one, thirty-five, ninety-nine — hyphenated)",
+          "hundred (one hundred, two hundred, a hundred)"
+        ],
+        "review": [
+          "numbers_1_to_10_from_pre_001"
+        ]
+      },
+      "prerequisites": ["lesson_pre_001"],
+      "estimated_minutes": 25,
+      "unit": "pre-A1"
+    },
+    {
+      "id": "lesson_001",
+      "position": 2,
+      "title_form": "Greet and introduce yourself",
+      "title_target": "Saludar y presentarte",
+      "can_do": "Can greet people and introduce him/herself using name and basic greetings.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "hello_interj",
+          "hi_interj",
+          "good_morning_interj",
+          "good_afternoon_interj",
+          "good_evening_interj",
+          "bye_interj",
+          "name",
+          "i_pronoun",
+          "you_pronoun",
+          "my_det",
+          "be_verb_2"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "present_simple_of_be_affirmative_with_name (I am / I'm, you are / you're)",
+          "possessive_adjective_my (my name is...)",
+          "wh_question_with_be (What is your name?)"
+        ],
+        "review": [
+          "alphabet_spelling_from_pre_001",
+          "yes_no_from_pre_001"
+        ]
+      },
+      "prerequisites": ["lesson_pre_001"],
+      "estimated_minutes": 20,
+      "unit": 1
+    },
+    {
+      "id": "lesson_002",
+      "position": 3,
+      "title_form": "Personal information: age, where from, contact",
+      "title_target": "Información personal: edad, origen, contacto",
+      "can_do": "Can ask and answer questions about age, origin, address, phone number, and email.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "age",
+          "from_prep",
+          "live_verb",
+          "work_verb",
+          "in_prep",
+          "he_pronoun",
+          "she_pronoun",
+          "we_pronoun",
+          "they_pronoun",
+          "his_det",
+          "her_det",
+          "our_det",
+          "their_det",
+          "and_conj",
+          "single_adj_2",
+          "mvp:phone",
+          "mvp:email",
+          "mvp:address",
+          "mvp:country",
+          "mvp:Spain",
+          "mvp:Mexico",
+          "mvp:Colombia"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "present_simple_of_be_affirmative_full (I am, he/she/it is, we/they are)",
+          "present_simple_of_be_negative (I'm not, he isn't, we aren't)",
+          "present_simple_of_be_yes_no_questions (Are you...?, Is he...?)",
+          "wh_questions_with_be (Where are you from?, How old are you?, What do you do?)",
+          "possessive_adjectives_full_set (my, your, his, her, our, their)"
+        ],
+        "review": [
+          "present_simple_of_be_affirmative_with_name_from_lesson_001",
+          "wh_question_with_be_from_lesson_001",
+          "numbers_1_to_100_from_pre_002 (for age: I'm 25)"
+        ]
+      },
+      "prerequisites": ["lesson_001", "lesson_pre_002"],
+      "estimated_minutes": 25,
+      "unit": 1
+    },
+    {
+      "id": "lesson_003",
+      "position": 4,
+      "title_form": "Talk about your family",
+      "title_target": "Hablar de tu familia",
+      "can_do": "Can name family members and describe their family using have got.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "have_got_verb",
+          "mother",
+          "mom",
+          "father",
+          "dad",
+          "parents",
+          "brother",
+          "sister",
+          "son",
+          "daughter",
+          "children",
+          "family",
+          "grandmother",
+          "grandfather",
+          "husband",
+          "wife",
+          "baby",
+          "friend",
+          "meet_verb"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "have_got_affirmative (I have got, he/she has got)",
+          "have_got_negative (I haven't got, he hasn't got)",
+          "have_got_yes_no_questions (Have you got...?, Has he got...?)",
+          "how_many_questions (How many brothers have you got?)"
+        ],
+        "review": [
+          "present_simple_of_be_full_from_lesson_002 (for 'This is my sister', 'She is 12')",
+          "possessive_adjectives_from_lesson_002 (my/your/his/her)",
+          "wh_questions_with_be_from_lesson_002 (Who is she?)",
+          "numbers_1_to_100_from_pre_002 (How many children have you got?)"
+        ]
+      },
+      "prerequisites": ["lesson_001", "lesson_002"],
+      "estimated_minutes": 25,
+      "unit": 1
+    },
+    {
+      "id": "lesson_004",
+      "position": 5,
+      "title_form": "Describe yourself and others (appearance and colors)",
+      "title_target": "Describirse a uno mismo y a otros (apariencia y colores)",
+      "can_do": "Can describe physical appearance using basic adjectives, colors, and have got for features.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "big_adj",
+          "small_adj",
+          "old_adj",
+          "young_adj",
+          "tall_adj",
+          "short_adj",
+          "black_adj",
+          "white_adj",
+          "brown_adj",
+          "grey_adj",
+          "purple_adj",
+          "pink_2",
+          "a_det",
+          "mvp:blue",
+          "mvp:red",
+          "mvp:green",
+          "mvp:yellow",
+          "mvp:orange",
+          "mvp:hair",
+          "mvp:eyes",
+          "mvp:long",
+          "mvp:thin"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "adjective_position (before noun: a tall man, NOT a man tall)",
+          "adjective_with_be (She is tall, His eyes are blue)",
+          "adjective_with_have_got (She has got blue eyes, He has got short hair)",
+          "indefinite_article_a_vs_an_intro (a book, an apple)"
+        ],
+        "review": [
+          "have_got_from_lesson_003",
+          "present_simple_of_be_from_lesson_002",
+          "possessive_adjectives_from_lesson_002"
+        ]
+      },
+      "prerequisites": ["lesson_002", "lesson_003"],
+      "estimated_minutes": 30,
+      "unit": 1
+    },
+    {
+      "id": "lesson_005",
+      "position": 6,
+      "title_form": "Telling time",
+      "title_target": "Decir la hora",
+      "can_do": "Can tell the time using basic expressions (o'clock, half past, quarter).",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "now",
+          "morning",
+          "afternoon",
+          "evening",
+          "night",
+          "time",
+          "hour",
+          "half",
+          "oclock_adv",
+          "clock",
+          "noon",
+          "midnight"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "telling_time (It's three o'clock, It's half past two, It's quarter to ten)",
+          "time_of_day_phrases (in the morning, in the afternoon, in the evening, at night)"
+        ],
+        "review": [
+          "numbers_1_to_10_from_pre_001",
+          "numbers_11_to_100_from_pre_002 (for minutes like 'It's three twenty-five')"
+        ]
+      },
+      "prerequisites": ["lesson_pre_001", "lesson_pre_002"],
+      "estimated_minutes": 20,
+      "unit": 2
+    },
+    {
+      "id": "lesson_006",
+      "position": 7,
+      "title_form": "Days of the week",
+      "title_target": "Días de la semana",
+      "can_do": "Can name the days of the week, say what day it is, and use them in context (with telling time and routine).",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "today",
+          "tomorrow",
+          "yesterday",
+          "week",
+          "weekend",
+          "day",
+          "mvp:monday",
+          "mvp:tuesday",
+          "mvp:wednesday",
+          "mvp:thursday",
+          "mvp:friday",
+          "mvp:saturday",
+          "mvp:sunday",
+          "mvp:weekday"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "days_of_week_usage (on Monday, What day is it today?, on Saturday morning)",
+          "prepositions_on_with_days (on Monday, on the weekend, on weekdays)"
+        ],
+        "review": [
+          "telling_time_from_lesson_005 (on Monday at 9, on Saturday morning)",
+          "present_simple_of_be_from_lesson_002 (Today is Monday)",
+          "present_simple_affirmative_from_future_routine (I work on Monday)"
+        ]
+      },
+      "prerequisites": ["lesson_005"],
+      "estimated_minutes": 25,
+      "unit": 2
+    },
+    {
+      "id": "lesson_007",
+      "position": 8,
+      "title_form": "Months and seasons",
+      "title_target": "Meses y estaciones",
+      "can_do": "Can name the months of the year and the four seasons, and talk about when things happen.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "year",
+          "spring",
+          "summer",
+          "autumn",
+          "winter",
+          "mvp:january",
+          "mvp:february",
+          "mvp:march",
+          "mvp:april",
+          "mvp:may",
+          "mvp:june",
+          "mvp:july",
+          "mvp:august",
+          "mvp:september",
+          "mvp:october",
+          "mvp:november",
+          "mvp:december"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "months_of_year_usage (in January, My birthday is in March)",
+          "seasons_usage (in summer, in winter, in spring)",
+          "prepositions_in_with_months_seasons (in March, in summer)"
+        ],
+        "review": [
+          "days_of_week_from_lesson_006 (Monday in March, Saturday in summer)",
+          "telling_time_from_lesson_005 (for 'at 9 in the morning')"
+        ]
+      },
+      "prerequisites": ["lesson_006"],
+      "estimated_minutes": 25,
+      "unit": 2
+    },
+    {
+      "id": "lesson_008",
+      "position": 9,
+      "title_form": "Dates and time prepositions",
+      "title_target": "Fechas y preposiciones de tiempo",
+      "can_do": "Can say dates and use prepositions of time (in/on/at) correctly.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "date",
+          "later_adv",
+          "last_adj"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "dates_with_ordinals (My birthday is on the 15th of March)",
+          "prepositions_of_time_in_on_at (in the morning, on Monday, at night)",
+          "ordinal_numbers_1_to_10_review (from Pre-A1 meta_skills)",
+          "wh_questions_with_be_for_dates (What day is it?, What's the date?)"
+        ],
+        "review": [
+          "telling_time_from_lesson_005",
+          "days_of_week_from_lesson_006",
+          "months_from_lesson_007",
+          "present_simple_of_be_from_lesson_002 (for 'It's Monday')"
+        ]
+      },
+      "prerequisites": ["lesson_005", "lesson_006", "lesson_007"],
+      "estimated_minutes": 20,
+      "unit": 2
+    },
+    {
+      "id": "lesson_009",
+      "position": 10,
+      "title_form": "Daily routine (present simple affirmative)",
+      "title_target": "Rutina diaria (presente simple afirmativo)",
+      "can_do": "Can describe their daily routine using present simple affirmative and frequency adverbs.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "wake_up_verb_2",
+          "get_up_verb",
+          "shower",
+          "have_breakfast_phrase",
+          "have_lunch_phrase",
+          "have_dinner_phrase",
+          "start_verb",
+          "finish_verb",
+          "go_verb",
+          "come_verb",
+          "drink_coffee_phrase",
+          "always_adv",
+          "usually_adv",
+          "often_adv",
+          "sometimes_adv",
+          "never_adv"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "present_simple_affirmative_full (I wake up, He goes, She has)",
+          "third_person_s_rule (he/she/it + verb-s: goes, watches, studies)",
+          "adverbs_of_frequency_position (always/usually/often/sometimes/never + main verb)",
+          "time_expressions_with_routine (every day, every morning, in the morning)"
+        ],
+        "review": [
+          "telling_time_from_lesson_005 (I wake up at 7 o'clock)",
+          "prepositions_of_time_from_lesson_008 (in the morning, at 7)",
+          "vocabulary_of_time_from_lesson_005_006_007 (morning, afternoon, evening, Monday, Saturday, March)",
+          "days_of_week_from_lesson_006 (on Monday, on Saturday morning)"
+        ]
+      },
+      "prerequisites": ["lesson_004", "lesson_008"],
+      "estimated_minutes": 30,
+      "unit": 2
+    },
+    {
+      "id": "lesson_010",
+      "position": 11,
+      "title_form": "Daily routine details (negative, questions, time prepositions)",
+      "title_target": "Detalles de la rutina diaria (negativo, preguntas, preposiciones de tiempo)",
+      "can_do": "Can ask and answer about routines using negative forms, yes/no questions, and more time prepositions.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "before_prep",
+          "after_prep",
+          "from_prep",
+          "to_prep",
+          "mvp:until",
+          "mvp:from_to",
+          "mvp:at_the_weekend",
+          "mvp:every",
+          "mvp:do_homework_phrase"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "present_simple_negative_with_do_does (I don't work, She doesn't study)",
+          "present_simple_yes_no_questions_with_do_does (Do you work?, Does he study?)",
+          "present_simple_wh_questions_with_do_does (What do you do?, Where does he work?, When do you...?)",
+          "prepositions_from_to_until (from 9 to 5, until 10)",
+          "time_expressions_at_on_in_extended (at the weekend, on weekdays, in summer)"
+        ],
+        "review": [
+          "present_simple_affirmative_full_from_lesson_009",
+          "third_person_s_from_lesson_009",
+          "adverbs_of_frequency_from_lesson_009",
+          "telling_time_from_lesson_005",
+          "prepositions_of_time_from_lesson_008"
+        ]
+      },
+      "prerequisites": ["lesson_009"],
+      "estimated_minutes": 30,
+      "unit": 2
+    },
+    {
+      "id": "lesson_011",
+      "position": 12,
+      "title_form": "Places in the city (there is / there are)",
+      "title_target": "Lugares en la ciudad (there is / there are)",
+      "can_do": "Can describe what places exist in their city or neighborhood using there is/are.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "there_is_verb",
+          "there_are_verb",
+          "city",
+          "street",
+          "road",
+          "park",
+          "shop",
+          "supermarket",
+          "restaurant",
+          "hotel",
+          "bank",
+          "hospital",
+          "school",
+          "university",
+          "station",
+          "beach",
+          "village",
+          "country",
+          "world",
+          "mvp:town",
+          "mvp:cafe",
+          "mvp:pharmacy",
+          "mvp:library",
+          "mvp:cinema",
+          "mvp:gym",
+          "mvp:airport"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "there_is_there_are_affirmative (There is a bank, There are two parks)",
+          "there_is_there_are_negative (There isn't a hospital, There aren't any shops)",
+          "there_is_there_are_yes_no_questions (Is there a bank near here?, Are there any restaurants?)",
+          "some_any_with_there_is_are (There are some parks, There isn't any bank)",
+          "singular_plural_agreement_with_there (There is a book / There are books)"
+        ],
+        "review": [
+          "present_simple_of_be_from_lesson_002 (for 'The bank is on Main Street')",
+          "wh_questions_with_be_from_lesson_002 (Where is the bank?)",
+          "a_vs_an_from_lesson_004"
+        ]
+      },
+      "prerequisites": ["lesson_004", "lesson_008"],
+      "estimated_minutes": 30,
+      "unit": 3
+    },
+    {
+      "id": "lesson_012",
+      "position": 13,
+      "title_form": "Ask for and give directions",
+      "title_target": "Pedir y dar direcciones",
+      "can_do": "Can ask for and give simple directions in a city using prepositions of place and imperatives.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "left",
+          "right",
+          "turn_verb",
+          "walk_verb",
+          "go_verb",
+          "under_prep",
+          "next_to_prep",
+          "between_prep",
+          "behind_prep",
+          "in_front_of_prep",
+          "near_prep",
+          "near_adv",
+          "mvp:opposite",
+          "mvp:straight",
+          "mvp:across_from",
+          "mvp:corner",
+          "mvp:take"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "imperative_affirmative (Turn left, Go straight, Open your book)",
+          "imperative_negative (Don't turn right, Don't run)",
+          "prepositions_of_place_full (in, on, at, under, next to, between, behind, in front of, near, opposite, across from)",
+          "wh_questions_with_be_for_location (Where is the bank?, How do I get to the station?)"
+        ],
+        "review": [
+          "there_is_there_are_from_lesson_011 (Is there a pharmacy near here?)",
+          "places_vocab_from_lesson_011"
+        ]
+      },
+      "prerequisites": ["lesson_011"],
+      "estimated_minutes": 30,
+      "unit": 3
+    },
+    {
+      "id": "lesson_013",
+      "position": 14,
+      "title_form": "Meals at home: what you eat and when",
+      "title_target": "Comidas en casa: qué comes y cuándo",
+      "can_do": "Can talk about your meals throughout the day: what you eat for breakfast, lunch, dinner, and at what times.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "breakfast",
+          "lunch",
+          "dinner",
+          "eat_verb",
+          "drink_verb",
+          "drink_coffee_phrase",
+          "water",
+          "coffee",
+          "tea",
+          "juice",
+          "mvp:milk",
+          "fruit",
+          "have_breakfast_phrase",
+          "have_lunch_phrase",
+          "have_dinner_phrase",
+          "mvp:meal",
+          "mvp:snack",
+          "mvp:bread",
+          "mvp:egg",
+          "mvp:butter",
+          "mvp:sugar",
+          "mvp:salt",
+          "mvp:cereal",
+          "mvp:yogurt"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "present_simple_with_meals (I have breakfast at 7, She drinks coffee in the morning, He eats bread for lunch)",
+          "have_for_meals (I have breakfast, I have lunch, I have dinner — NOT I have got)",
+          "time_of_day_with_meals (in the morning for breakfast, at 12 for lunch, in the evening for dinner)",
+          "frequency_with_meals (I always have coffee, She never eats breakfast)"
+        ],
+        "review": [
+          "telling_time_from_lesson_005 (I have breakfast at 7)",
+          "days_of_week_from_lesson_006 (I have lunch at 1 on Monday)",
+          "present_simple_affirmative_from_lesson_009",
+          "adverbs_of_frequency_from_lesson_009"
+        ]
+      },
+      "prerequisites": ["lesson_005", "lesson_006", "lesson_009"],
+      "estimated_minutes": 30,
+      "unit": 3
+    },
+    {
+      "id": "lesson_014",
+      "position": 15,
+      "title_form": "Order food in a restaurant",
+      "title_target": "Pedir comida en un restaurante",
+      "can_do": "Can order food and drinks in a restaurant using polite requests and restaurant-specific vocabulary.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "food",
+          "menu",
+          "bill",
+          "order_verb",
+          "meat",
+          "chicken",
+          "fish",
+          "cheese",
+          "salad",
+          "soup",
+          "cake",
+          "vegetable",
+          "beer",
+          "wine",
+          "restaurant",
+          "mvp:rice",
+          "mvp:apple",
+          "mvp:banana",
+          "mvp:orange_fruit",
+          "mvp:waiter",
+          "mvp:table",
+          "mvp:tip"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "polite_requests_can_could (Can I have a coffee, please?, Could I have the menu?)",
+          "would_like_vs_want (I'd like a coffee, I want a coffee)",
+          "countable_uncountable_intro (a coffee / some water / two eggs)",
+          "object_pronouns_intro (me, you, him, her, it, us, them — for 'Can I have it?')"
+        ],
+        "review": [
+          "present_simple_with_do_does_from_lesson_010 (What do you want?)",
+          "numbers_1_to_100_from_pre_002 (for quantities and prices)",
+          "meals_vocab_from_lesson_013 (for context)",
+          "telling_time_from_lesson_005 (for 'lunch at 1')"
+        ]
+      },
+      "prerequisites": ["lesson_011", "lesson_013"],
+      "estimated_minutes": 30,
+      "unit": 3
+    },
+    {
+      "id": "lesson_015",
+      "position": 16,
+      "title_form": "Clothing and what you wear",
+      "title_target": "Ropa y lo que llevas puesto",
+      "can_do": "Can describe what they and others wear using clothes vocabulary and present simple.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "shirt",
+          "t_shirt",
+          "trousers",
+          "jeans",
+          "dress",
+          "skirt",
+          "jacket",
+          "coat",
+          "hat",
+          "sweater",
+          "mvp:shoes",
+          "mvp:socks",
+          "mvp:wear",
+          "mvp:dress_verb_clothes",
+          "mvp:put_on",
+          "mvp:take_off",
+          "mvp:uniform"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "wear_dress_put_on (I wear a uniform, She wears a dress, I put on a jacket in the morning)",
+          "be_dressed_in_intro (I'm dressed in a blue shirt today — A1-friendly alternative to present continuous)",
+          "demonstratives_with_clothes (this jacket, that dress, these shoes, those jeans)"
+        ],
+        "review": [
+          "have_got_from_lesson_003 (I've got a new jacket)",
+          "colors_from_lesson_004 (a red dress, blue jeans)",
+          "present_simple_of_be_from_lesson_002 (She is in a uniform)",
+          "days_of_week_from_lesson_006 (I wear jeans on Friday)"
+        ]
+      },
+      "prerequisites": ["lesson_004", "lesson_010"],
+      "estimated_minutes": 25,
+      "unit": 3
+    },
+    {
+      "id": "lesson_016",
+      "position": 17,
+      "title_form": "Shopping: prices, trying on, buying",
+      "title_target": "Compras: precios, probarse, comprar",
+      "can_do": "Can buy clothes and other items, ask about prices, try on clothes, and complete a purchase.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "buy_verb",
+          "sell_verb",
+          "pay_verb",
+          "cost_verb",
+          "price",
+          "market",
+          "expensive_adj",
+          "mvp:cheap",
+          "mvp:how_much",
+          "mvp:size",
+          "mvp:try_on",
+          "mvp:fit",
+          "mvp:too_big",
+          "mvp:too_small",
+          "mvp:just_right",
+          "mvp:cash",
+          "mvp:card"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "how_much_vs_how_many (How much is it? / How many do you want?)",
+          "too + adjective (too big, too expensive, too small)",
+          "object_pronouns_review (Can I try it on?, I like them)"
+        ],
+        "review": [
+          "polite_requests_from_lesson_014 (Can I try it on, please?)",
+          "present_simple_with_do_does_from_lesson_010 (How much does it cost?)",
+          "numbers_1_to_100_from_pre_002 (for prices)",
+          "demonstratives_from_lesson_015 (this jacket, that shirt)"
+        ]
+      },
+      "prerequisites": ["lesson_014", "lesson_015"],
+      "estimated_minutes": 30,
+      "unit": 3
+    },
+    {
+      "id": "lesson_017",
+      "position": 18,
+      "title_form": "Talk about your job and occupations",
+      "title_target": "Hablar de tu trabajo y ocupaciones",
+      "can_do": "Can talk about their job and other occupations using present simple third person and work-related vocabulary.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "teacher",
+          "doctor",
+          "nurse",
+          "waiter",
+          "scientist",
+          "writer",
+          "worker",
+          "office",
+          "work",
+          "work_verb",
+          "study_verb",
+          "learn_verb",
+          "do_homework_phrase",
+          "mvp:engineer",
+          "mvp:lawyer",
+          "mvp:manager",
+          "mvp:cook",
+          "mvp:driver",
+          "mvp:police_officer",
+          "mvp:firefighter",
+          "mvp:shop_assistant",
+          "mvp:accountant",
+          "mvp:artist",
+          "mvp:programmer"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "present_simple_third_person_affirmative_focus (He works, She teaches, He studies)",
+          "present_simple_third_person_negative (He doesn't work, She doesn't teach)",
+          "present_simple_third_person_yes_no (Does he work?, Does she teach?)",
+          "present_simple_third_person_wh_questions (What does he do?, Where does she work?)",
+          "article_a_an_with_occupations (She's a teacher, He's an engineer)"
+        ],
+        "review": [
+          "present_simple_affirmative_from_lesson_009",
+          "present_simple_negative_with_do_does_from_lesson_010",
+          "wh_questions_with_do_does_from_lesson_010",
+          "a_vs_an_from_lesson_004"
+        ]
+      },
+      "prerequisites": ["lesson_010"],
+      "estimated_minutes": 30,
+      "unit": 4
+    },
+    {
+      "id": "lesson_018",
+      "position": 19,
+      "title_form": "Talk about school and studies",
+      "title_target": "Hablar de la escuela y los estudios",
+      "can_do": "Can talk about their school subjects, school routine, and what they study.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "student",
+          "class",
+          "classroom",
+          "pen",
+          "lesson",
+          "language",
+          "science",
+          "homework",
+          "exam",
+          "test",
+          "write_verb",
+          "read_verb",
+          "speak_verb",
+          "mvp:math",
+          "mvp:history",
+          "mvp:art",
+          "mvp:english_class",
+          "mvp:subject"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "like_plus_ing (I like reading, She likes studying)",
+          "like_plus_noun (I like English, He likes math)",
+          "object_pronouns_with_like (I like it, She likes them)"
+        ],
+        "review": [
+          "present_simple_third_person_from_lesson_017 (She studies English, He likes science)",
+          "have_got_from_lesson_003 (I have got a new book)",
+          "telling_time_from_lesson_005 (My class is at 9)"
+        ]
+      },
+      "prerequisites": ["lesson_017"],
+      "estimated_minutes": 30,
+      "unit": 4
+    },
+    {
+      "id": "lesson_019",
+      "position": 20,
+      "title_form": "Transport and travel",
+      "title_target": "Transporte y viajes",
+      "can_do": "Can talk about transport, ask for and buy tickets, and describe simple journeys.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "car",
+          "bus",
+          "train",
+          "taxi",
+          "bicycle",
+          "bike",
+          "boat",
+          "station",
+          "ticket",
+          "stop",
+          "leave_verb",
+          "return_verb",
+          "travel_verb",
+          "visit_verb",
+          "stay_verb",
+          "trip",
+          "vacation",
+          "tourist",
+          "map",
+          "early_adj_2",
+          "late_adj",
+          "mvp:plane",
+          "mvp:subway",
+          "mvp:airport",
+          "mvp:arrive",
+          "mvp:platform"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "prepositions_of_motion_by_with_to (by car, by bus, by train, to the station, on foot)",
+          "wh_questions_for_travel (How do you get to work?, How long does it take?)",
+          "conjunctions_when_while (When I go to work, I take the bus)"
+        ],
+        "review": [
+          "telling_time_from_lesson_005 (The train leaves at 8)",
+          "present_simple_third_person_from_lesson_017 (The bus leaves at 9)",
+          "numbers_1_to_100_from_pre_002 (for times and prices)"
+        ]
+      },
+      "prerequisites": ["lesson_016", "lesson_017"],
+      "estimated_minutes": 30,
+      "unit": 4
+    },
+    {
+      "id": "lesson_020",
+      "position": 21,
+      "title_form": "Hobbies and free time",
+      "title_target": "Pasatiempos y tiempo libre",
+      "can_do": "Can talk about their hobbies and free-time activities using like + -ing/noun.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "play_verb",
+          "read_verb",
+          "sport",
+          "football",
+          "tennis",
+          "music",
+          "film",
+          "book",
+          "swim_verb",
+          "cook_verb",
+          "game",
+          "movie",
+          "watch_tv_phrase",
+          "listen_to_music_phrase",
+          "museum",
+          "guitar",
+          "mvp:dancing",
+          "mvp:singing",
+          "mvp:sing",
+          "mvp:dance",
+          "mvp:painting",
+          "mvp:photography",
+          "mvp:video_games",
+          "mvp:free_time"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "like_love_hate_plus_ing (I like reading, She loves swimming, He hates cooking)",
+          "like_love_hate_plus_noun (I love music, He hates football)",
+          "wh_questions_about_hobbies (What do you like doing?, What's your hobby?)",
+          "frequency_with_hobbies (I sometimes play tennis, I always read at night)"
+        ],
+        "review": [
+          "adverbs_of_frequency_from_lesson_009",
+          "present_simple_with_do_does_from_lesson_010",
+          "third_person_s_from_lesson_017 (She plays, He reads)"
+        ]
+      },
+      "prerequisites": ["lesson_009", "lesson_018"],
+      "estimated_minutes": 30,
+      "unit": 5
+    },
+    {
+      "id": "lesson_021",
+      "position": 22,
+      "title_form": "Sports and exercise",
+      "title_target": "Deportes y ejercicio",
+      "can_do": "Can talk about sports they play, exercise routines, and sports vocabulary.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "swimming",
+          "running",
+          "cycling",
+          "sports",
+          "run_verb",
+          "mvp:paint",
+          "mvp:yoga",
+          "mvp:football_player",
+          "mvp:team",
+          "mvp:match",
+          "mvp:win",
+          "mvp:lose"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "go_play_do_with_sports (go swimming, play football, do yoga)",
+          "present_simple_with_sports_routine (I play tennis on Saturdays, She goes swimming every week)",
+          "wh_questions_about_sports (Do you play any sports?, How often do you exercise?)"
+        ],
+        "review": [
+          "like_love_hate_from_lesson_020 (I like running)",
+          "adverbs_of_frequency_from_lesson_009",
+          "prepositions_of_time_from_lesson_008 (on Saturdays, every week)"
+        ]
+      },
+      "prerequisites": ["lesson_020"],
+      "estimated_minutes": 25,
+      "unit": 5
+    },
+    {
+      "id": "lesson_022",
+      "position": 23,
+      "title_form": "Weather and seasons",
+      "title_target": "Clima y estaciones",
+      "can_do": "Can describe the weather, talk about seasons, and use temperature expressions.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "weather",
+          "sun",
+          "rain",
+          "snow",
+          "hot_adj",
+          "cold_adj",
+          "warm_adj",
+          "cool_adj",
+          "mvp:wind",
+          "mvp:cloud",
+          "mvp:cloudy",
+          "mvp:sunny",
+          "mvp:rainy",
+          "mvp:snowy",
+          "mvp:windy",
+          "mvp:storm",
+          "mvp:fog",
+          "mvp:degree",
+          "mvp:celsius",
+          "mvp:fahrenheit"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "weather_with_it_is (It's sunny today, It's raining, It's cold outside)",
+          "wh_questions_about_weather (What's the weather like?, What's the temperature?)"
+        ],
+        "review": [
+          "present_simple_of_be_from_lesson_002 (for temperature descriptions)",
+          "seasons_from_lesson_007 (in summer, in winter)",
+          "prepositions_of_time_from_lesson_008 (in summer, in July)",
+          "months_from_lesson_007 (in July, in December)"
+        ]
+      },
+      "prerequisites": ["lesson_008"],
+      "estimated_minutes": 25,
+      "unit": 5
+    },
+    {
+      "id": "lesson_023",
+      "position": 24,
+      "title_form": "Body parts",
+      "title_target": "Partes del cuerpo",
+      "can_do": "Can name body parts and use them to describe people or express possession (have got).",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "head",
+          "face",
+          "eye",
+          "hand",
+          "foot",
+          "back",
+          "body",
+          "tooth",
+          "feet",
+          "teeth_2",
+          "mvp:hair",
+          "mvp:eyes",
+          "mvp:arm",
+          "mvp:leg",
+          "mvp:finger",
+          "mvp:neck",
+          "mvp:shoulder",
+          "mvp:mouth",
+          "mvp:nose",
+          "mvp:ear"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "have_got_for_body_parts (I've got brown eyes, She has got long hair)",
+          "plural_body_parts (one tooth / two teeth, one foot / two feet)",
+          "a_vs_an_with_body_parts (an eye, an ear, an arm — silent h, vowel sound)"
+        ],
+        "review": [
+          "have_got_from_lesson_003",
+          "colors_from_lesson_004 (brown eyes, black hair)",
+          "adjective_position_from_lesson_004 (long hair, big eyes)"
+        ]
+      },
+      "prerequisites": ["lesson_003", "lesson_004"],
+      "estimated_minutes": 25,
+      "unit": 5
+    },
+    {
+      "id": "lesson_024",
+      "position": 25,
+      "title_form": "Health and ailments",
+      "title_target": "Salud y ailments",
+      "can_do": "Can describe common health problems, name medicines, and ask for help at a doctor or pharmacy.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "doctor",
+          "nurse",
+          "hospital",
+          "sick_adj",
+          "hurt_verb",
+          "feel_verb",
+          "better_adj",
+          "well_adv",
+          "sleep_verb",
+          "mvp:medicine",
+          "mvp:stomach",
+          "mvp:headache",
+          "mvp:stomachache",
+          "mvp:cold_illness",
+          "mvp:flu",
+          "mvp:fever",
+          "mvp:temperature",
+          "mvp:pill",
+          "mvp:pharmacy",
+          "mvp:appointment"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "have_got_for_ailments (I've got a headache, She has got a stomachache)",
+          "feel_plus_adjective (I feel sick, He feels tired, She feels better)",
+          "wh_questions_about_health (What's the matter?, Where does it hurt?)",
+          "should_shouldnt_intro (You should rest, You shouldn't go to work)"
+        ],
+        "review": [
+          "have_got_from_lesson_003_and_023",
+          "body_parts_via_adjectives_from_lesson_023 (long hair, big eyes)",
+          "polite_requests_from_lesson_014 (Can I have some medicine, please?)"
+        ]
+      },
+      "prerequisites": ["lesson_023"],
+      "estimated_minutes": 30,
+      "unit": 5
+    },
+    {
+      "id": "lesson_025",
+      "position": 26,
+      "title_form": "Emotions and feelings",
+      "title_target": "Emociones y sentimientos",
+      "can_do": "Can describe how they feel and ask others about their emotions.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "happy_adj",
+          "sad_adj",
+          "tired_adj",
+          "hungry_adj",
+          "thirsty_adj",
+          "fine_adj",
+          "bored_adj",
+          "excited_adj",
+          "great_adj",
+          "wonderful_adj",
+          "look_verb",
+          "mvp:angry",
+          "mvp:scared",
+          "mvp:surprised",
+          "mvp:worried",
+          "mvp:nervous",
+          "mvp:terrible",
+          "mvp:awful",
+          "mvp:OK_adj"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "feel_plus_adjective_extended (I feel happy, She feels tired, They feel excited)",
+          "look_plus_adjective (You look tired, He looks happy)",
+          "intensifiers_very_really (very happy, really tired)",
+          "wh_questions_about_feelings (How do you feel?, How are you? — extended answer)"
+        ],
+        "review": [
+          "present_simple_of_be_from_lesson_002 (for 'I am happy')",
+          "feel_from_lesson_024 (for health context, now emotional)",
+          "very_adv (already in cart as connector)"
+        ]
+      },
+      "prerequisites": ["lesson_024"],
+      "estimated_minutes": 25,
+      "unit": 5
+    },
+    {
+      "id": "lesson_026",
+      "position": 27,
+      "title_form": "Make plans with friends (going to)",
+      "title_target": "Hacer planes con amigos (going to)",
+      "can_do": "Can talk about future plans using going to and propose activities with friends.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "going_to_verb",
+          "tomorrow",
+          "weekend",
+          "week",
+          "next_adv",
+          "mvp:next_week",
+          "mvp:tonight",
+          "mvp:plan",
+          "mvp:meet_verb_with_friend"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "going_to_affirmative (I'm going to travel next week, She's going to study)",
+          "going_to_negative (I'm not going to work, He isn't going to come)",
+          "going_to_yes_no (Are you going to study?, Is she going to travel?)",
+          "going_to_wh_questions (What are you going to do?, Where are you going to go?, When are you going to leave?)",
+          "time_expressions_for_future (tomorrow, next week, this weekend, tonight)"
+        ],
+        "review": [
+          "present_simple_with_do_does_from_lesson_010 (for present context)",
+          "verb_stem_forms_from_lessons_009_010 (go, study, travel, work)",
+          "wh_words_from_lesson_002 (what, where, when)"
+        ]
+      },
+      "prerequisites": ["lesson_010", "lesson_019"],
+      "estimated_minutes": 30,
+      "unit": 6
+    },
+    {
+      "id": "lesson_027",
+      "position": 28,
+      "title_form": "Skills and abilities (can / can't)",
+      "title_target": "Habilidades y posibilidades (can / can't)",
+      "can_do": "Can talk about their skills and abilities using can/can't.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "can_modal",
+          "play_verb",
+          "swim_verb",
+          "cook_verb",
+          "drive_verb",
+          "mvp:sing",
+          "mvp:dance",
+          "mvp:paint",
+          "mvp:speak_3_languages",
+          "mvp:play_piano",
+          "mvp:ride_bike",
+          "mvp:use_computer"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "can_affirmative (I can swim, She can drive, He can play the guitar)",
+          "can_negative (I can't sing, He can't cook, She can't swim)",
+          "can_yes_no (Can you swim?, Can he drive?)",
+          "can_wh_questions (What can you do?, What languages can you speak?)"
+        ],
+        "review": [
+          "verb_stem_forms (no -s after can: He can swim, NOT He cans swim)",
+          "present_simple_with_do_does_from_lesson_010 (for contrast: I don't swim vs I can't swim)"
+        ]
+      },
+      "prerequisites": ["lesson_010"],
+      "estimated_minutes": 25,
+      "unit": 6
+    },
+    {
+      "id": "lesson_028",
+      "position": 29,
+      "title_form": "Wishes and preferences (want, would like, like)",
+      "title_target": "Deseos y preferencias (want, would like, like)",
+      "can_do": "Can express wishes and preferences using want, would like, and like.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "want_verb",
+          "need_verb",
+          "like_verb",
+          "love_verb",
+          "hate_verb",
+          "favourite_adj",
+          "favourite_2",
+          "enjoy_verb",
+          "mvp:prefer",
+          "mvp:would_like"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "want_plus_infinitive (I want to go home, She wants to study)",
+          "want_plus_noun (I want a coffee, He wants a new car)",
+          "would_like_polite (I'd like a coffee, I'd like to study)",
+          "like_vs_want_vs_would_like_register (casual vs neutral vs polite)",
+          "favourite (My favourite colour is blue, My favourite hobby is reading)"
+        ],
+        "review": [
+          "present_simple_third_person_from_lesson_017 (She wants, He likes)",
+          "object_pronouns_from_lesson_014 (I want it, I like them)",
+          "can_from_lesson_027 (contrast: I can do it vs I want to do it)"
+        ]
+      },
+      "prerequisites": ["lesson_014", "lesson_027"],
+      "estimated_minutes": 30,
+      "unit": 6
+    },
+    {
+      "id": "lesson_029",
+      "position": 30,
+      "title_form": "Requests, permission, and offers",
+      "title_target": "Peticiones, permiso y ofrecimientos",
+      "can_do": "Can make polite requests, ask for permission, and offer help using modals.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "open_verb",
+          "close_verb",
+          "help_verb",
+          "use_verb",
+          "wait_verb",
+          "sit_verb",
+          "stand_verb",
+          "mvp:borrow",
+          "mvp:lend",
+          "mvp:turn_on",
+          "mvp:turn_off"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "can_for_permission (Can I open the window?, Can I use your phone?)",
+          "could_for_polite_permission (Could I borrow your pen?, Could I sit here?)",
+          "can_for_offers (Can I help you?, Can I carry that for you?)",
+          "would_for_offers (Would you like some water?, Would you like to sit down?)",
+          "imperative_review (Open your books, Don't run, Please be quiet)"
+        ],
+        "review": [
+          "polite_requests_from_lesson_014 (Can I have...)",
+          "imperative_from_lesson_012 (Turn left, Go straight)",
+          "object_pronouns_from_lesson_014 (Can I use it?)"
+        ]
+      },
+      "prerequisites": ["lesson_012", "lesson_027"],
+      "estimated_minutes": 30,
+      "unit": 6
+    },
+    {
+      "id": "lesson_030",
+      "position": 31,
+      "title_form": "Describe objects and pictures",
+      "title_target": "Describir objetos y pictures",
+      "can_do": "Can describe objects in detail using adjectives, colors, materials, and have got.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "this_det_pron",
+          "that_det_pron",
+          "these_det_pron",
+          "those_det_pron",
+          "the_det",
+          "colour",
+          "expensive_adj",
+          "mvp:cheap",
+          "mvp:beautiful",
+          "mvp:ugly",
+          "mvp:wood",
+          "mvp:metal",
+          "mvp:plastic",
+          "mvp:glass",
+          "mvp:paper"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "definite_article_the (the book on the table, the red car)",
+          "demonstratives_extended (this/that for singular, these/those for plural)",
+          "multiple_adjectives_order (a big red car, an old wooden table)",
+          "there_is_there_are_for_describing_pictures (In the picture, there is a...)"
+        ],
+        "review": [
+          "have_got_from_lesson_003 (It has got four legs)",
+          "adjective_position_from_lesson_004",
+          "colors_from_lesson_004",
+          "there_is_there_are_from_lesson_011"
+        ]
+      },
+      "prerequisites": ["lesson_004", "lesson_011"],
+      "estimated_minutes": 30,
+      "unit": 6
+    },
+    {
+      "id": "lesson_031",
+      "position": 32,
+      "title_form": "Animals and pets",
+      "title_target": "Animales y mascotas",
+      "can_do": "Can name common animals and talk about pets using have got.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "mvp:cat",
+          "mvp:dog",
+          "mvp:bird",
+          "mvp:horse",
+          "mvp:pig",
+          "mvp:cow",
+          "mvp:mouse",
+          "mvp:sheep",
+          "mvp:lion",
+          "mvp:elephant",
+          "mvp:snake",
+          "mvp:animal",
+          "mvp:pet",
+          "mvp:fish_pet"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "have_got_review_with_animals (I've got a cat, Have you got a pet?)",
+          "plural_review_with_animals (one cat / two cats, one fish / two fish, one sheep / two sheep)",
+          "articles_with_animals (a dog, an elephant — a/an con sonido vocálico)"
+        ],
+        "review": [
+          "have_got_from_lesson_003",
+          "present_simple_of_be_from_lesson_002 (It is a dog)",
+          "colors_from_lesson_004 (a black cat, a white dog)",
+          "adjective_position_from_lesson_004 (a big dog, a small cat)"
+        ]
+      },
+      "prerequisites": ["lesson_002", "lesson_003"],
+      "estimated_minutes": 25,
+      "unit": 6
+    },
+    {
+      "id": "lesson_032",
+      "position": 33,
+      "title_form": "Describe your home",
+      "title_target": "Describir tu casa",
+      "can_do": "Can describe their home: rooms, furniture, and basic features.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "home",
+          "house",
+          "room",
+          "kitchen",
+          "bathroom",
+          "bedroom",
+          "key",
+          "chair",
+          "floor",
+          "table",
+          "window",
+          "desk",
+          "toilet",
+          "clean_verb",
+          "mvp:living_room",
+          "mvp:garden",
+          "mvp:garage",
+          "mvp:yard"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "there_is_there_are_extended (There are three bedrooms, Is there a garden?)",
+          "prepositions_of_place_full_review (in the kitchen, on the table, under the bed)",
+          "have_got_with_rooms (I've got a big kitchen, The house has got a garden)"
+        ],
+        "review": [
+          "there_is_there_are_from_lesson_011",
+          "prepositions_of_place_from_lesson_012 (in, on, under, next to, between, behind, in front of)",
+          "adjectives_from_lesson_004 (big, small, old, new)"
+        ]
+      },
+      "prerequisites": ["lesson_011", "lesson_012"],
+      "estimated_minutes": 30,
+      "unit": 6
+    },
+    {
+      "id": "lesson_033",
+      "position": 34,
+      "title_form": "Communication: phone, email, messages",
+      "title_target": "Comunicación: teléfono, email, mensajes",
+      "can_do": "Can talk about how they communicate: phone calls, messages, emails.",
+      "vocabulary": {
+        "new_lexeme_ids": [
+          "speak_verb",
+          "understand_verb",
+          "call_verb",
+          "know_verb_2",
+          "phone",
+          "phone_verb",
+          "say_verb_2",
+          "send_verb",
+          "talk_verb",
+          "tell_verb",
+          "letter",
+          "message",
+          "telephone",
+          "mvp:email_message",
+          "mvp:text",
+          "mvp:video_call"
+        ]
+      },
+      "grammar": {
+        "new": [
+          "present_simple_with_communication_verbs (I call my mom, She sends messages, We talk every day)",
+          "preposition_to_with_communication (talk to, listen to, write to, speak to)",
+          "object_pronouns_with_communication (I call her, I talk to him, I send it to them)",
+          "frequency_with_communication (I always text my friends, She never calls)"
+        ],
+        "review": [
+          "present_simple_third_person_from_lesson_017 (She calls, He texts)",
+          "object_pronouns_from_lesson_014 (I call her, I send it)",
+          "frequency adverbs_from_lesson_009 (always, usually, never)"
+        ]
+      },
+      "prerequisites": ["lesson_014", "lesson_017"],
+      "estimated_minutes": 25,
+      "unit": 6
+    },
+    {
+      "id": "lesson_034",
+      "position": 35,
+      "title_form": "Spiral review: identity and time",
+      "title_target": "Repaso espiral: identidad y tiempo",
+      "can_do": "Can integrate identity vocabulary (greetings, personal info, family, appearance) with time expressions (numbers, time, days, months, dates, routine) in realistic conversations.",
+      "vocabulary": {"new_lexeme_ids": []},
+      "grammar": {
+        "new": [],
+        "review": [
+          "present_simple_of_be_from_lesson_002",
+          "have_got_from_lesson_003",
+          "adjective_position_from_lesson_004",
+          "cardinal_numbers_from_pre_002",
+          "telling_time_from_lesson_005",
+          "days_of_week_from_lesson_006",
+          "months_seasons_from_lesson_007",
+          "dates_from_lesson_008",
+          "present_simple_affirmative_from_lesson_009",
+          "adverbs_of_frequency_from_lesson_009",
+          "present_simple_neg_questions_from_lesson_010"
+        ]
+      },
+      "prerequisites": ["lesson_001", "lesson_002", "lesson_003", "lesson_004", "lesson_005", "lesson_006", "lesson_007", "lesson_008", "lesson_009", "lesson_010"],
+      "estimated_minutes": 30,
+      "unit": 7
+    },
+    {
+      "id": "lesson_035",
+      "position": 36,
+      "title_form": "Spiral review: places, food, clothing, and shopping",
+      "title_target": "Repaso espiral: lugares, comida, ropa y compras",
+      "can_do": "Can navigate places, talk about meals at home and in restaurants, describe clothes, and shop in integrated scenarios.",
+      "vocabulary": {"new_lexeme_ids": []},
+      "grammar": {
+        "new": [],
+        "review": [
+          "there_is_there_are_from_lesson_011",
+          "imperative_from_lesson_012",
+          "prepositions_of_place_from_lesson_012",
+          "present_simple_with_meals_from_lesson_013",
+          "polite_requests_from_lesson_014",
+          "countable_uncountable_from_lesson_014",
+          "wear_put_on_from_lesson_015",
+          "how_much_vs_how_many_from_lesson_016",
+          "demonstratives_from_lesson_015_and_016"
+        ]
+      },
+      "prerequisites": ["lesson_011", "lesson_012", "lesson_013", "lesson_014", "lesson_015", "lesson_016"],
+      "estimated_minutes": 30,
+      "unit": 7
+    },
+    {
+      "id": "lesson_036",
+      "position": 37,
+      "title_form": "Spiral review: work, school, and transport",
+      "title_target": "Repaso espiral: trabajo, escuela y transporte",
+      "can_do": "Can talk about their job, school routine, and daily commute in integrated scenarios.",
+      "vocabulary": {"new_lexeme_ids": []},
+      "grammar": {
+        "new": [],
+        "review": [
+          "present_simple_third_person_from_lesson_017",
+          "like_plus_ing_from_lesson_018",
+          "prepositions_of_motion_from_lesson_019",
+          "conjunctions_when_while_from_lesson_019"
+        ]
+      },
+      "prerequisites": ["lesson_017", "lesson_018", "lesson_019"],
+      "estimated_minutes": 30,
+      "unit": 7
+    },
+    {
+      "id": "lesson_037",
+      "position": 38,
+      "title_form": "Spiral review: daily life, body, health, and emotions",
+      "title_target": "Repaso espiral: vida diaria, cuerpo, salud y emociones",
+      "can_do": "Can talk about their daily life, body, health problems, and emotional state in integrated scenarios.",
+      "vocabulary": {"new_lexeme_ids": []},
+      "grammar": {
+        "new": [],
+        "review": [
+          "present_simple_affirmative_from_lesson_009",
+          "adverbs_of_frequency_from_lesson_009",
+          "present_simple_neg_questions_from_lesson_010",
+          "hobbies_vocab_from_lesson_020",
+          "sports_vocab_from_lesson_021",
+          "weather_expressions_from_lesson_022",
+          "body_parts_via_have_got_from_lesson_023",
+          "have_got_for_ailments_from_lesson_024",
+          "feel_plus_adjective_from_lesson_024_and_025"
+        ]
+      },
+      "prerequisites": ["lesson_009", "lesson_010", "lesson_020", "lesson_021", "lesson_022", "lesson_023", "lesson_024", "lesson_025"],
+      "estimated_minutes": 30,
+      "unit": 7
+    },
+    {
+      "id": "lesson_038",
+      "position": 39,
+      "title_form": "Spiral review: plans, abilities, wishes, and requests",
+      "title_target": "Repaso espiral: planes, habilidades, deseos y peticiones",
+      "can_do": "Can talk about future plans, skills, wishes, and make requests in integrated scenarios.",
+      "vocabulary": {"new_lexeme_ids": []},
+      "grammar": {
+        "new": [],
+        "review": [
+          "going_to_from_lesson_026",
+          "can_cant_from_lesson_027",
+          "want_would_like_from_lesson_028",
+          "polite_modals_from_lesson_029"
+        ]
+      },
+      "prerequisites": ["lesson_026", "lesson_027", "lesson_028", "lesson_029"],
+      "estimated_minutes": 30,
+      "unit": 7
+    },
+    {
+      "id": "lesson_039",
+      "position": 40,
+      "title_form": "Spiral review: describing objects, animals, home, and communication",
+      "title_target": "Repaso espiral: describir objetos, animales, casa y comunicación",
+      "can_do": "Can describe objects, talk about pets and home, and discuss how they communicate in integrated scenarios.",
+      "vocabulary": {"new_lexeme_ids": []},
+      "grammar": {
+        "new": [],
+        "review": [
+          "definite_article_the_from_lesson_030",
+          "demonstratives_extended_from_lesson_030",
+          "multiple_adjectives_order_from_lesson_030",
+          "have_got_with_animals_from_lesson_031",
+          "there_is_there_are_extended_from_lesson_032",
+          "present_simple_with_communication_verbs_from_lesson_033"
+        ]
+      },
+      "prerequisites": ["lesson_030", "lesson_031", "lesson_032", "lesson_033"],
+      "estimated_minutes": 30,
+      "unit": 7
+    },
+    {
+      "id": "lesson_040",
+      "position": 41,
+      "title_form": "Final consolidation: integrated A1 scenarios",
+      "title_target": "Consolidación final: escenarios integrados A1",
+      "can_do": "Can use A1 structures and vocabulary in extended conversations covering all major topics of the course.",
+      "vocabulary": {"new_lexeme_ids": []},
+      "grammar": {
+        "new": [],
+        "review": [
+          "ALL_A1_GRAMMAR (be, have got, present simple full set, can, going to, there is/are, imperative, modals for permission/offers, would like, like + -ing)"
+        ]
+      },
+      "prerequisites": ["lesson_001", "lesson_002", "lesson_003", "lesson_004", "lesson_005", "lesson_006", "lesson_007", "lesson_008", "lesson_009", "lesson_010", "lesson_011", "lesson_012", "lesson_013", "lesson_014", "lesson_015", "lesson_016", "lesson_017", "lesson_018", "lesson_019", "lesson_020", "lesson_021", "lesson_022", "lesson_023", "lesson_024", "lesson_025", "lesson_026", "lesson_027", "lesson_028", "lesson_029", "lesson_030", "lesson_031", "lesson_032", "lesson_033", "lesson_034", "lesson_035", "lesson_036", "lesson_037", "lesson_038", "lesson_039"],
+      "estimated_minutes": 45,
+      "unit": 7
+    }
+  ]
+}

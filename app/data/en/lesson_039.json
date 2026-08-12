@@ -1,0 +1,1698 @@
+{
+  "id": "lesson_039",
+  "position": 40,
+  "unit_id": 7,
+  "course_id": "en.A1",
+  "title_form": "Spiral review: describing objects, animals, home, and communication",
+  "title_target": "Repaso espiral: describir objetos, animales, casa y comunicación",
+  "theme_focus": "Spiral review: describing objects, animals, home, and communication",
+  "learning_objectives": [
+    "Can describe objects, talk about pets and home, and discuss how they communicate in integrated scenarios."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_030",
+    "lesson_031",
+    "lesson_032",
+    "lesson_033"
+  ],
+  "grammar_focus": [],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "back",
+        "bank",
+        "bathroom",
+        "be_verb_2",
+        "beach",
+        "bedroom",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "better_adj",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "body",
+        "book",
+        "bored_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "call_verb",
+        "can_modal",
+        "car",
+        "chair",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clean_verb",
+        "clock",
+        "close_verb",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "colour",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "desk",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "drive_verb",
+        "early_adj_2",
+        "eat_verb",
+        "enjoy_verb",
+        "evening",
+        "exam",
+        "excited_adj",
+        "excuse_me_interj",
+        "expensive_adj",
+        "eye",
+        "face",
+        "family",
+        "father",
+        "favourite_2",
+        "favourite_adj",
+        "feel_verb",
+        "feet",
+        "film",
+        "fine_adj",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "floor",
+        "food",
+        "foot",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "going_to_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "great_adj",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hand",
+        "happy_adj",
+        "hat",
+        "hate_verb",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "head",
+        "hello_interj",
+        "help_verb",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "home",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "house",
+        "hungry_adj",
+        "hurt_verb",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "key",
+        "kitchen",
+        "know_verb_2",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "letter",
+        "like_verb",
+        "listen_to_music_phrase",
+        "live_verb",
+        "look_verb",
+        "love_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "message",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "need_verb",
+        "never_adv",
+        "next_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "open_verb",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "phone",
+        "phone_verb",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "room",
+        "run_verb",
+        "running",
+        "sad_adj",
+        "salad",
+        "say_verb_2",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "send_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "sick_adj",
+        "single_adj_2",
+        "sister",
+        "sit_verb",
+        "six_num",
+        "skirt",
+        "sleep_verb",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "stand_verb",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "table",
+        "talk_verb",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "teeth_2",
+        "telephone",
+        "tell_verb",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "that_det_pron",
+        "the_det",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "these_det_pron",
+        "they_pronoun",
+        "thirsty_adj",
+        "this_det_pron",
+        "those_det_pron",
+        "three_num",
+        "ticket",
+        "time",
+        "tired_adj",
+        "to_prep",
+        "today",
+        "toilet",
+        "tomorrow",
+        "tooth",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "understand_verb",
+        "university",
+        "use_verb",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "wait_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "want_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "well_adv",
+        "white_adj",
+        "wife",
+        "window",
+        "wine",
+        "winter",
+        "wonderful_adj",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante colombiana de 24 años, llega a su clase de inglés en un centro cultural de Madrid. Hoy es el día del repaso espiral y la profesora, Elena, le pide que describa su casa, su perro y cómo se comunica con su familia en Colombia. Sofía se pone nerviosa porque no sabe si recordará las palabras correctas. Elena le sonríe y le dice que empiece con calma. Sofía respira hondo, piensa en su perro Max y en su sala con el sofá grande, y empieza a hablar. Al terminar, se siente aliviada y orgullosa de haber podido conectar todas las ideas.",
+  "introduction_md": "¿Puedes describir tu casa, tu mascota y cómo te comunicas con tu familia, todo en una sola conversación? Ese es el reto de hoy. En lecciones anteriores aprendiste a hablar de objetos, animales, tu hogar y la comunicación por separado. Ahora vas a combinar todo ese vocabulario en situaciones integradas, como lo harías en la vida real. Imagina que un amigo te pregunta por tu perro, luego por tu sala y después por cómo hablas con tu hermano que vive lejos. Vas a responder con frases naturales y completas. Esta práctica espiral te ayuda a consolidar lo aprendido y a ganar fluidez. Al final, podrás describir tu mundo cotidiano con confianza, sin pensar demasiado en cada palabra. ¡Vamos a ver cuánto recuerdas y cómo lo usas todo junto!",
+  "intro_target": "Can you describe your house, your pet, and how you communicate with your family, all in one conversation? That is the challenge today. In previous lessons, you learned to talk about objects, animals, your home, and communication separately. Now you are going to combine all that vocabulary in integrated situations, like you would in real life. Imagine a friend asks you about your dog, then about your living room, and then about how you talk to your brother who lives far away. You are going to answer with natural, complete sentences. This spiral practice helps you consolidate what you have learned and gain fluency. In the end, you will be able to describe your everyday world with confidence, without thinking too much about each word. Let us see how much you remember and how you use it all together!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This is my house and that is my car.",
+      "translation_form": "Esta es mi casa y ese es mi coche.",
+      "highlight_words": [
+        "this",
+        "my",
+        "house",
+        "that",
+        "car"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The cat is under the table and the dog is next to the chair.",
+      "translation_form": "El gato está debajo de la mesa y el perro está al lado de la silla.",
+      "highlight_words": [
+        "under",
+        "table",
+        "chair"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like coffee but my brother likes tea.",
+      "translation_form": "A mí me gusta el café pero a mi hermano le gusta el té.",
+      "highlight_words": [
+        "like",
+        "coffee",
+        "brother",
+        "tea"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a doctor and he is a teacher.",
+      "translation_form": "Ella es doctora y él es profesor.",
+      "highlight_words": [
+        "doctor",
+        "teacher"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We have a big house with a small garden.",
+      "translation_form": "Tenemos una casa grande con un jardín pequeño.",
+      "highlight_words": [
+        "big",
+        "house",
+        "small"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I go to work by bus every day.",
+      "translation_form": "Voy al trabajo en autobús todos los días.",
+      "highlight_words": [
+        "go",
+        "work",
+        "bus",
+        "day"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My sister is happy because she has a new bike.",
+      "translation_form": "Mi hermana está feliz porque tiene una bicicleta nueva.",
+      "highlight_words": [
+        "sister",
+        "happy",
+        "bike"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The children are playing football in the park.",
+      "translation_form": "Los niños están jugando al fútbol en el parque.",
+      "highlight_words": [
+        "children",
+        "playing",
+        "football",
+        "park"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I usually have breakfast at seven o'clock.",
+      "translation_form": "Normalmente desayuno a las siete en punto.",
+      "highlight_words": [
+        "usually",
+        "breakfast"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My father is a doctor and my mother is a nurse.",
+      "translation_form": "Mi padre es médico y mi madre es enfermera.",
+      "highlight_words": [
+        "father",
+        "doctor",
+        "mother",
+        "nurse"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I want to buy a new phone because my phone is old.",
+      "translation_form": "Quiero comprar un teléfono nuevo porque mi teléfono es viejo.",
+      "highlight_words": [
+        "buy",
+        "phone",
+        "old"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_012",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is reading a book in the living room.",
+      "translation_form": "Ella está leyendo un libro en la sala de estar.",
+      "highlight_words": [
+        "reading",
+        "book",
+        "room"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_013",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are going to the beach this weekend.",
+      "translation_form": "Vamos a la playa este fin de semana.",
+      "highlight_words": [
+        "going",
+        "beach",
+        "weekend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_014",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have a dog and a cat at home.",
+      "translation_form": "Tengo un perro y un gato en casa.",
+      "highlight_words": [
+        "dog",
+        "cat",
+        "home"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_015",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My brother is tall but my sister is short.",
+      "translation_form": "Mi hermano es alto pero mi hermana es baja.",
+      "highlight_words": [
+        "brother",
+        "tall",
+        "sister",
+        "short"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_016",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like to listen to music in the morning.",
+      "translation_form": "Me gusta escuchar música por la mañana.",
+      "highlight_words": [
+        "music",
+        "morning"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_017",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a teacher and she works at a school.",
+      "translation_form": "Ella es profesora y trabaja en una escuela.",
+      "highlight_words": [
+        "teacher",
+        "works",
+        "school"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_018",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have a blue shirt and black trousers.",
+      "translation_form": "Tengo una camisa azul y pantalones negros.",
+      "highlight_words": [
+        "blue",
+        "shirt",
+        "black",
+        "trousers"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_019",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are going to the supermarket to buy food.",
+      "translation_form": "Vamos al supermercado a comprar comida.",
+      "highlight_words": [
+        "going",
+        "supermarket",
+        "buy",
+        "food"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_020",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My parents are from Spain but I am from Mexico.",
+      "translation_form": "Mis padres son de España pero yo soy de México.",
+      "highlight_words": [
+        "parents",
+        "from",
+        "spain"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_021",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am tired because I work a lot.",
+      "translation_form": "Estoy cansado porque trabajo mucho.",
+      "highlight_words": [
+        "tired",
+        "work"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_022",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a good student and she studies every day.",
+      "translation_form": "Ella es una buena estudiante y estudia todos los días.",
+      "highlight_words": [
+        "good",
+        "student",
+        "studies",
+        "day"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_023",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have a meeting at three o'clock in the afternoon.",
+      "translation_form": "Tengo una reunión a las tres de la tarde.",
+      "highlight_words": [
+        "meeting",
+        "afternoon"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_024",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My favorite color is blue and my favorite food is pizza.",
+      "translation_form": "Mi color favorito es el azul y mi comida favorita es la pizza.",
+      "highlight_words": [
+        "favorite",
+        "color",
+        "blue",
+        "food"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_025",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am going to visit my grandmother this weekend.",
+      "translation_form": "Voy a visitar a mi abuela este fin de semana.",
+      "highlight_words": [
+        "going",
+        "visit",
+        "grandmother",
+        "weekend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_026",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The restaurant is next to the bank and the hospital.",
+      "translation_form": "El restaurante está al lado del banco y del hospital.",
+      "highlight_words": [
+        "restaurant",
+        "bank",
+        "hospital"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_027",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like to play tennis and swim in the summer.",
+      "translation_form": "Me gusta jugar al tenis y nadar en verano.",
+      "highlight_words": [
+        "play",
+        "tennis",
+        "swim",
+        "summer"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_028",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My brother is a doctor and he works in a hospital.",
+      "translation_form": "Mi hermano es médico y trabaja en un hospital.",
+      "highlight_words": [
+        "brother",
+        "doctor",
+        "works",
+        "hospital"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_029",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have a test tomorrow and I am nervous.",
+      "translation_form": "Tengo un examen mañana y estoy nervioso.",
+      "highlight_words": [
+        "test",
+        "tomorrow",
+        "nervous"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_030",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a good cook and she makes delicious food.",
+      "translation_form": "Ella es una buena cocinera y hace comida deliciosa.",
+      "highlight_words": [
+        "good",
+        "cook",
+        "food"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_031",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am going to the gym to exercise.",
+      "translation_form": "Voy al gimnasio a hacer ejercicio.",
+      "highlight_words": [
+        "going",
+        "gym",
+        "exercise"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_032",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My sister is a nurse and she works at night.",
+      "translation_form": "Mi hermana es enfermera y trabaja de noche.",
+      "highlight_words": [
+        "sister",
+        "nurse",
+        "works",
+        "night"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_033",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like to read books and watch movies.",
+      "translation_form": "Me gusta leer libros y ver películas.",
+      "highlight_words": [
+        "read",
+        "books",
+        "watch",
+        "movies"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_034",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are going to the park to play football.",
+      "translation_form": "Vamos al parque a jugar al fútbol.",
+      "highlight_words": [
+        "going",
+        "park",
+        "play",
+        "football"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_035",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My father is a teacher and he teaches English.",
+      "translation_form": "Mi padre es profesor y enseña inglés.",
+      "highlight_words": [
+        "father",
+        "teacher",
+        "teaches",
+        "english"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_036",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have a new phone and a new computer.",
+      "translation_form": "Tengo un teléfono nuevo y una computadora nueva.",
+      "highlight_words": [
+        "new",
+        "phone",
+        "computer"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_037",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a good student and she studies a lot.",
+      "translation_form": "Ella es una buena estudiante y estudia mucho.",
+      "highlight_words": [
+        "good",
+        "student",
+        "studies"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_038",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like to drink coffee in the morning.",
+      "translation_form": "Me gusta tomar café por la mañana.",
+      "highlight_words": [
+        "drink",
+        "coffee",
+        "morning"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_039",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are going to the beach for vacation.",
+      "translation_form": "Vamos a la playa de vacaciones.",
+      "highlight_words": [
+        "going",
+        "beach",
+        "vacation"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_040",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My brother is a doctor and he works in a hospital.",
+      "translation_form": "Mi hermano es médico y trabaja en un hospital.",
+      "highlight_words": [
+        "brother",
+        "doctor",
+        "works",
+        "hospital"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_041",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have a test tomorrow and I am nervous.",
+      "translation_form": "Tengo un examen mañana y estoy nervioso.",
+      "highlight_words": [
+        "test",
+        "tomorrow",
+        "nervous"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_042",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a good cook and she makes delicious food.",
+      "translation_form": "Ella es una buena cocinera y hace comida deliciosa.",
+      "highlight_words": [
+        "good",
+        "cook",
+        "food"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_043",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am going to the gym to exercise.",
+      "translation_form": "Voy al gimnasio a hacer ejercicio.",
+      "highlight_words": [
+        "going",
+        "gym",
+        "exercise"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_044",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My sister is a nurse and she works at night.",
+      "translation_form": "Mi hermana es enfermera y trabaja de noche.",
+      "highlight_words": [
+        "sister",
+        "nurse",
+        "works",
+        "night"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_045",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like to read books and watch movies.",
+      "translation_form": "Me gusta leer libros y ver películas.",
+      "highlight_words": [
+        "read",
+        "books",
+        "watch",
+        "movies"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_046",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are going to the park to play football.",
+      "translation_form": "Vamos al parque a jugar al fútbol.",
+      "highlight_words": [
+        "going",
+        "park",
+        "play",
+        "football"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_047",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My father is a teacher and he teaches English.",
+      "translation_form": "Mi padre es profesor y enseña inglés.",
+      "highlight_words": [
+        "father",
+        "teacher",
+        "teaches",
+        "english"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_048",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have a new phone and a new computer.",
+      "translation_form": "Tengo un teléfono nuevo y una computadora nueva.",
+      "highlight_words": [
+        "new",
+        "phone",
+        "computer"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_049",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is a good student and she studies a lot.",
+      "translation_form": "Ella es una buena estudiante y estudia mucho.",
+      "highlight_words": [
+        "good",
+        "student",
+        "studies"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_050",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like to drink coffee in the morning.",
+      "translation_form": "Me gusta tomar café por la mañana.",
+      "highlight_words": [
+        "drink",
+        "coffee",
+        "morning"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'house'?",
+      "options": [
+        "casa",
+        "coche",
+        "mesa",
+        "perro"
+      ],
+      "correct_answer": "casa",
+      "explanation_md": "'House' significa 'casa' en español.",
+      "related_lexeme_ids": [
+        "house"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'car'?",
+      "options": [
+        "casa",
+        "coche",
+        "mesa",
+        "perro"
+      ],
+      "correct_answer": "coche",
+      "explanation_md": "'Car' significa 'coche' en español.",
+      "related_lexeme_ids": [
+        "car"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'table'?",
+      "options": [
+        "casa",
+        "coche",
+        "mesa",
+        "perro"
+      ],
+      "correct_answer": "mesa",
+      "explanation_md": "'Table' significa 'mesa' en español.",
+      "related_lexeme_ids": [
+        "table"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'dog'?",
+      "options": [
+        "casa",
+        "coche",
+        "mesa",
+        "perro"
+      ],
+      "correct_answer": "perro",
+      "explanation_md": "'Dog' significa 'perro' en español.",
+      "related_lexeme_ids": [
+        "dog"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "En la frase 'This is my house', ¿qué significa 'This'?",
+      "options": [
+        "esto/esta",
+        "eso/esa",
+        "aquello",
+        "mi"
+      ],
+      "correct_answer": "esto/esta",
+      "explanation_md": "'This' se usa para algo cercano y significa 'esto' o 'esta'.",
+      "related_lexeme_ids": [
+        "this_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "En la frase 'that is my car', ¿qué significa 'that'?",
+      "options": [
+        "esto/esta",
+        "eso/esa",
+        "aquello",
+        "mi"
+      ],
+      "correct_answer": "eso/esa",
+      "explanation_md": "'That' se usa para algo lejano y significa 'eso' o 'esa'.",
+      "related_lexeme_ids": [
+        "that_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la palabra correcta para completar: 'The cat is ___ the table'?",
+      "options": [
+        "under",
+        "in",
+        "on",
+        "at"
+      ],
+      "correct_answer": "under",
+      "explanation_md": "'Under' significa 'debajo de', que es la posición correcta del gato respecto a la mesa.",
+      "related_lexeme_ids": [
+        "under_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'The dog is ___ to the chair.' (al lado de)",
+      "options": null,
+      "correct_answer": "next",
+      "explanation_md": "'Next to' significa 'al lado de' en inglés.",
+      "related_lexeme_ids": [
+        "next_to_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'I like coffee ___ my brother likes tea.' (pero)",
+      "options": null,
+      "correct_answer": "but",
+      "explanation_md": "'But' se usa para contrastar dos ideas, como en este caso.",
+      "related_lexeme_ids": [
+        "but_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ella es doctora y él es profesor.'",
+      "options": null,
+      "correct_answer": "She is a doctor and he is a teacher.",
+      "explanation_md": "La estructura es 'She is a doctor' y 'he is a teacher', uniendo con 'and'.",
+      "related_lexeme_ids": [
+        "she_pronoun",
+        "doctor",
+        "he_pronoun",
+        "teacher"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'We have a big house with a small garden.'",
+      "options": null,
+      "correct_answer": "Tenemos una casa grande con un jardín pequeño.",
+      "explanation_md": "'We have' es 'tenemos', 'big house' es 'casa grande' y 'small garden' es 'jardín pequeño'.",
+      "related_lexeme_ids": [
+        "we_pronoun",
+        "have_got_verb",
+        "big_adj",
+        "house",
+        "small_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra en inglés con su traducción en español:",
+      "options": [
+        "house",
+        "casa",
+        "car",
+        "coche",
+        "table",
+        "mesa",
+        "dog",
+        "perro"
+      ],
+      "correct_answer": [
+        "house=casa",
+        "car=coche",
+        "table=mesa",
+        "dog=perro"
+      ],
+      "explanation_md": "Estas son las palabras básicas para describir objetos y animales en casa.",
+      "related_lexeme_ids": [
+        "house",
+        "car",
+        "table",
+        "dog"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "good morning",
+      "back": "buenos días",
+      "hint": "saludo por la mañana",
+      "lexeme_id": "good_morning_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "good afternoon",
+      "back": "buenas tardes",
+      "hint": "saludo por la tarde",
+      "lexeme_id": "good_afternoon_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "good evening",
+      "back": "buenas noches (al llegar)",
+      "hint": "saludo por la noche",
+      "lexeme_id": "good_evening_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "hello",
+      "back": "hola",
+      "hint": "saludo general",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "hi",
+      "back": "hola (informal)",
+      "hint": "saludo informal",
+      "lexeme_id": "hi_interj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Repaso espiral: describir objetos, animales, casa y comunicación",
+      "title_target": "Quiz: Spiral review: describing objects, animals, home, and communication",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'big'?",
+          "prompt_target": "What does 'big' mean?",
+          "options": [
+            "grande",
+            "pequeño",
+            "rápido",
+            "lento"
+          ],
+          "correct_answer": "grande",
+          "explanation_form": "'Big' significa 'grande' en español.",
+          "explanation_target": "'Big' means 'grande' in Spanish.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "big_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'She ____ a dog.' (Ella tiene un perro.)",
+          "prompt_target": "Fill in the blank: 'She ____ a dog.'",
+          "options": null,
+          "correct_answer": "has got",
+          "explanation_form": "Para 'ella tiene' usamos 'has got' con 'she'.",
+          "explanation_target": "For 'she has' we use 'has got' with 'she'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_verb",
+            "she_pronoun",
+            "dog"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "The",
+            "car",
+            "is",
+            "next",
+            "to",
+            "the",
+            "house"
+          ],
+          "correct_answer": "The car is next to the house",
+          "explanation_form": "La frase correcta es 'The car is next to the house' (El coche está al lado de la casa).",
+          "explanation_target": "The correct sentence is 'The car is next to the house'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "car",
+            "next_to_prep",
+            "house",
+            "the_det"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": null,
+          "options": [
+            "doctor",
+            "médico",
+            "house",
+            "casa",
+            "dog",
+            "perro",
+            "car",
+            "coche"
+          ],
+          "correct_answer": [
+            "doctor=médico",
+            "house=casa",
+            "dog=perro",
+            "car=coche"
+          ],
+          "explanation_form": "Estas son las palabras clave de la lección: doctor (médico), house (casa), dog (perro), car (coche).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "doctor",
+            "house",
+            "dog",
+            "car"
+          ],
+          "points": 15,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Él es médico.'",
+          "prompt_target": "Translate to English: 'He is a doctor.'",
+          "options": null,
+          "correct_answer": "He is a doctor",
+          "explanation_form": "Usamos 'He is' para 'Él es' y 'a doctor' para 'médico'.",
+          "explanation_target": "We use 'He is' for 'Él es' and 'a doctor' for 'médico'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "he_pronoun",
+            "doctor",
+            "be_verb_2"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la traducción correcta de 'pero'?",
+          "prompt_target": "What is the correct translation of 'pero'?",
+          "options": [
+            "but",
+            "and",
+            "or",
+            "so"
+          ],
+          "correct_answer": "but",
+          "explanation_form": "'But' significa 'pero' en inglés.",
+          "explanation_target": "'But' means 'pero' in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "but_conj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'The dog is ____ the house.' (El perro está al lado de la casa.)",
+          "prompt_target": "Fill in: 'The dog is ____ the house.'",
+          "options": null,
+          "correct_answer": "next to",
+          "explanation_form": "Usamos 'next to' para decir 'al lado de'.",
+          "explanation_target": "We use 'next to' to say 'al lado de'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "next_to_prep",
+            "dog",
+            "house"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice 'She has got a big house' en español?",
+          "prompt_target": "How do you say 'She has got a big house' in Spanish?",
+          "options": null,
+          "correct_answer": "Ella tiene una casa grande",
+          "explanation_form": "'She has got' = 'Ella tiene', 'a big house' = 'una casa grande'.",
+          "explanation_target": "'She has got' = 'Ella tiene', 'a big house' = 'una casa grande'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "she_pronoun",
+            "have_got_verb",
+            "big_adj",
+            "house"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra completa la frase: 'He is a ____.' (Él es un médico.)?",
+          "prompt_target": "Which word completes the sentence: 'He is a ____.'?",
+          "options": [
+            "doctor",
+            "teacher",
+            "student",
+            "worker"
+          ],
+          "correct_answer": "doctor",
+          "explanation_form": "'Doctor' significa 'médico'.",
+          "explanation_target": "'Doctor' means 'médico'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "doctor",
+            "he_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "She",
+            "has",
+            "got",
+            "a",
+            "dog"
+          ],
+          "correct_answer": "She has got a dog",
+          "explanation_form": "La frase correcta es 'She has got a dog' (Ella tiene un perro).",
+          "explanation_target": "The correct sentence is 'She has got a dog'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "she_pronoun",
+            "have_got_verb",
+            "dog"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Repaso en espiral: conecta todo lo que ya sabes\n\nEsta lección es un repaso en espiral, lo que significa que no hay vocabulario nuevo. En lugar de eso, vas a combinar palabras y frases que ya conoces para describir objetos, animales, tu casa y cómo te comunicas. Piensa en ello como si estuvieras usando piezas de Lego que ya tienes para construir algo más grande. Por ejemplo, ya sabes decir \"big\", \"small\", \"house\" y \"dog\". Ahora vas a poder decir \"My house is big and my dog is small\". La meta es que uses el inglés que ya tienes de forma más natural y fluida.\n\n## Errores comunes: el orden de las palabras\n\nUn error típico para los hispanohablantes es el orden de los adjetivos. En español decimos \"una casa grande\", pero en inglés el adjetivo va antes del sustantivo: \"a big house\". Recuerda esta regla de oro: adjetivo + sustantivo. Otro error común es olvidar el verbo \"to be\" cuando describimos. En español decimos \"mi casa es grande\", pero en inglés necesitas el verbo: \"My house is big\". No digas \"My house big\". Practica con los ejemplos de esta lección y verás que el orden se vuelve automático.\n\n## Describir objetos y animales: usa tus sentidos\n\nPara describir objetos y animales, piensa en tus sentidos. ¿Qué ves? (color, tamaño), ¿qué sientes? (textura, temperatura), ¿qué oyes? (sonidos). Por ejemplo, puedes decir \"The cat is black and white\" (color), \"The table is old\" (edad), o \"The soup is hot\" (temperatura). Usa adjetivos que ya conoces como \"big\", \"small\", \"old\", \"new\", \"hot\", \"cold\". Combínalos con los verbos \"is\" y \"are\". Por ejemplo: \"The dogs are happy\" o \"The coffee is hot\". No necesitas palabras complicadas; con las que ya tienes puedes describir casi cualquier cosa.\n\n## Hablar de tu casa y tu comunicación\n\nPara hablar de tu casa, usa \"there is\" y \"there are\" para decir qué hay en cada habitación. Por ejemplo: \"There is a bed in my bedroom\" o \"There are two chairs in the kitchen\". También puedes usar preposiciones de lugar como \"in\", \"on\", \"under\", \"next to\" para decir dónde están las cosas. Para hablar de comunicación, usa verbos como \"call\", \"send\", \"write\", \"talk\", \"speak\". Por ejemplo: \"I call my mom every day\" o \"I send a message to my friend\". Combina ambos temas: \"I talk to my brother on the phone in my bedroom\". Así integras todo lo aprendido.\n\n## Consejo final: piensa en escenarios reales\n\nEn lugar de memorizar listas de palabras, imagina situaciones reales. ¿Cómo describirías tu casa a un amigo? ¿Cómo hablarías de tu mascota? ¿Qué le dirías a alguien por teléfono? Por ejemplo, un diálogo podría ser: \"Hi! How are you?\" - \"I'm fine, thanks. This is my dog. He is small and brown.\" - \"He is very cute!\". Al practicar con escenarios, tu cerebro conecta las palabras con significados y situaciones, lo que hace que las recuerdes mejor y las uses con más confianza. ¡Sigue así y verás cómo todo empieza a fluir!",
+  "metadata": {
+    "generated_at": "2026-08-11T18:19:09Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

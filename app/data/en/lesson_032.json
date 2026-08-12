@@ -1,0 +1,1565 @@
+{
+  "id": "lesson_032",
+  "position": 33,
+  "unit_id": 6,
+  "course_id": "en.A1",
+  "title_form": "Describe your home",
+  "title_target": "Describir tu casa",
+  "theme_focus": "Describe your home",
+  "learning_objectives": [
+    "Can describe their home: rooms, furniture, and basic features."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_011",
+    "lesson_012"
+  ],
+  "grammar_focus": [
+    "there_is_there_are_extended (There are three bedrooms, Is there a garden?)",
+    "prepositions_of_place_full_review (in the kitchen, on the table, under the bed)",
+    "have_got_with_rooms (I've got a big kitchen, The house has got a garden)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "home",
+        "house",
+        "room",
+        "kitchen",
+        "bathroom",
+        "bedroom",
+        "key",
+        "chair",
+        "floor",
+        "table",
+        "window",
+        "desk",
+        "toilet",
+        "clean_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "back",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "better_adj",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "body",
+        "book",
+        "bored_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "can_modal",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "close_verb",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "colour",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "drive_verb",
+        "early_adj_2",
+        "eat_verb",
+        "enjoy_verb",
+        "evening",
+        "exam",
+        "excited_adj",
+        "excuse_me_interj",
+        "expensive_adj",
+        "eye",
+        "face",
+        "family",
+        "father",
+        "favourite_2",
+        "favourite_adj",
+        "feel_verb",
+        "feet",
+        "film",
+        "fine_adj",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "foot",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "going_to_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "great_adj",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hand",
+        "happy_adj",
+        "hat",
+        "hate_verb",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "head",
+        "hello_interj",
+        "help_verb",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "hungry_adj",
+        "hurt_verb",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "like_verb",
+        "listen_to_music_phrase",
+        "live_verb",
+        "look_verb",
+        "love_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "need_verb",
+        "never_adv",
+        "next_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "open_verb",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "run_verb",
+        "running",
+        "sad_adj",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "sick_adj",
+        "single_adj_2",
+        "sister",
+        "sit_verb",
+        "six_num",
+        "skirt",
+        "sleep_verb",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "stand_verb",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "teeth_2",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "that_det_pron",
+        "the_det",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "these_det_pron",
+        "they_pronoun",
+        "thirsty_adj",
+        "this_det_pron",
+        "those_det_pron",
+        "three_num",
+        "ticket",
+        "time",
+        "tired_adj",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tooth",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "use_verb",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "wait_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "want_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "well_adv",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "wonderful_adj",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Ana, una estudiante de 26 años de México, llega a su nueva casa en Londres y está confundida porque no encuentra sus llaves. Su compañera de piso, Lucy, la recibe y le pregunta cómo es su casa en México. Ana, un poco nerviosa, intenta describir su casa con las palabras que sabe. Lucy le sonríe y le enseña a decir 'There is a big kitchen' y 'I have got a small bedroom'. Después de unos minutos, Ana se siente más tranquila y puede describir su casa sin miedo.",
+  "introduction_md": "¿Puedes describir tu casa en inglés sin señalar con el dedo? Imagina que un amigo nuevo te pregunta: 'What is your home like?'. En esta lección vas a aprender las palabras exactas para hablar de las habitaciones, los muebles y las cosas básicas de tu casa. Ya sabes usar 'there is' y 'there are' para decir que algo existe; ahora los vas a usar para describir tu cocina, tu baño y tu dormitorio. También vas a repasar las preposiciones de lugar ('in', 'on', 'under', 'next to') para decir dónde está cada cosa, y vas a usar 'have got' para hablar de las partes de tu casa. Al final, podrás decir frases como 'There is a big table in the kitchen' o 'I have got a small bedroom'. Con esto, podrás conversar sobre tu espacio y entender mejor cuando alguien te describa su casa. ¡Vamos a hacer que tu casa hable inglés!",
+  "intro_target": "Can you describe your home in English without pointing? Imagine a new friend asks you: 'What is your home like?'. In this lesson, you will learn the exact words to talk about the rooms, the furniture, and the basic things in your home. You already know how to use 'there is' and 'there are' to say that something exists; now you will use them to describe your kitchen, your bathroom, and your bedroom. You will also review the prepositions of place ('in', 'on', 'under', 'next to') to say where each thing is, and you will use 'have got' to talk about the parts of your home. At the end, you will be able to say sentences like 'There is a big table in the kitchen' or 'I have got a small bedroom'. With this, you can talk about your space and understand better when someone describes their home to you. Let's make your home speak English!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "there_is_there_are_extended",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There are three bedrooms in my house.",
+      "translation_form": "Hay tres dormitorios en mi casa.",
+      "highlight_words": [
+        "bedrooms",
+        "house"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "prepositions_of_place_full_review",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The key is on the table in the kitchen.",
+      "translation_form": "La llave está sobre la mesa en la cocina.",
+      "highlight_words": [
+        "key",
+        "table",
+        "kitchen"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "have_got_with_rooms",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I've got a big kitchen and a small bathroom.",
+      "translation_form": "Tengo una cocina grande y un baño pequeño.",
+      "highlight_words": [
+        "kitchen",
+        "bathroom"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "there_is_there_are_extended",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Is there a garden behind the house?",
+      "translation_form": "¿Hay un jardín detrás de la casa?",
+      "highlight_words": [
+        "house"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "prepositions_of_place_full_review",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My desk is next to the window in my bedroom.",
+      "translation_form": "Mi escritorio está al lado de la ventana en mi dormitorio.",
+      "highlight_words": [
+        "desk",
+        "window",
+        "bedroom"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "have_got_with_rooms",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The house has got a toilet and a clean floor.",
+      "translation_form": "La casa tiene un baño y un piso limpio.",
+      "highlight_words": [
+        "house",
+        "toilet",
+        "clean",
+        "floor"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Welcome to my home! This is the living room.",
+      "translation_form": "¡Bienvenido a mi hogar! Esta es la sala de estar.",
+      "highlight_words": [
+        "home"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "room",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There is a chair under the desk in this room.",
+      "translation_form": "Hay una silla debajo del escritorio en esta habitación.",
+      "highlight_words": [
+        "chair",
+        "desk",
+        "room"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "there_is_there_are_extended",
+      "title_form": "There is / There are: describir tu casa",
+      "title_target": "There is / There are: describing your home",
+      "description_md_form": "Para describir tu casa, usamos **there is** (singular) y **there are** (plural).\n\n- **There is** + un objeto: `There is a table in the kitchen.` (Hay una mesa en la cocina.)\n- **There are** + varios objetos: `There are three bedrooms in my house.` (Hay tres dormitorios en mi casa.)\n\nPara preguntar, ponemos el verbo al principio: `Is there a garden?` (¿Hay un jardín?) / `Are there two windows?` (¿Hay dos ventanas?).\n\nPara negar, usamos **there isn't** (singular) o **there aren't** (plural): `There isn't a desk in my bedroom.` (No hay un escritorio en mi dormitorio.)\n\nPodemos añadir preposiciones de lugar para ser más específicos: `There is a key on the table.` (Hay una llave sobre la mesa.)",
+      "description_md_target": "To describe your home, we use **there is** (singular) and **there are** (plural).\n\n- **There is** + one object: `There is a table in the kitchen.`\n- **There are** + several objects: `There are three bedrooms in my house.`\n\nTo ask a question, put the verb first: `Is there a garden?` / `Are there two windows?`.\n\nTo make a negative, use **there isn't** (singular) or **there aren't** (plural): `There isn't a desk in my bedroom.`\n\nYou can add prepositions of place to be more specific: `There is a key on the table.`",
+      "grammar_structure": "There is/are + (a/an) + noun + (prepositional phrase)",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "there_is_there_are_extended",
+          "text_target": "There is a big window in the kitchen.",
+          "translation_form": "Hay una ventana grande en la cocina.",
+          "highlight_words": [
+            "there",
+            "is",
+            "window",
+            "kitchen"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "there_is_there_are_extended",
+          "text_target": "Are there two chairs in the bedroom?",
+          "translation_form": "¿Hay dos sillas en el dormitorio?",
+          "highlight_words": [
+            "are",
+            "there",
+            "chairs",
+            "bedroom"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: usamos **there is** para UNA cosa y **there are** para VARIAS cosas. Escucha el sustantivo que sigue para elegir la forma correcta."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado**: en español decimos \"hay\" para singular y plural. En inglés, la forma cambia: **there is** (singular) vs. **there are** (plural)."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'There are a table' en lugar de 'There is a table' (singular).",
+        "Olvidar el artículo: 'There is table' en lugar de 'There is a table'.",
+        "Usar 'there is' con plural: 'There is two windows' en lugar de 'There are two windows'.",
+        "Confundir 'there is' con 'it is': 'It is a key on the table' en lugar de 'There is a key on the table'."
+      ]
+    },
+    {
+      "slug": "prepositions_of_place_full_review",
+      "title_form": "Preposiciones de lugar: repaso completo",
+      "title_target": "Prepositions of Place: Full Review",
+      "description_md_form": "Las **preposiciones de lugar** nos dicen **dónde** está algo o alguien. Son palabras cortas que conectan un objeto con su ubicación.\n\nLas más comunes son:\n- **on** = sobre, encima de (la mesa, el suelo)\n- **in** = en, dentro de (la cocina, el baño)\n- **under** = debajo de\n- **next to** = al lado de\n- **behind** = detrás de\n- **in front of** = delante de\n- **between** = entre\n\n**Estructura básica:** `There is/are + objeto + preposición + lugar`\n\nEjemplo: `The key is on the table.` (La llave está sobre la mesa.)\n\nLa preposición va **siempre después** del objeto y **antes** del lugar. No cambian según el género o número del sustantivo.",
+      "description_md_target": "**Prepositions of place** tell us **where** something or someone is. They are short words that connect an object with its location.\n\nThe most common ones are:\n- **on** = on top of (the table, the floor)\n- **in** = inside (the kitchen, the bathroom)\n- **under** = below\n- **next to** = beside\n- **behind** = at the back of\n- **in front of** = before\n- **between** = in the middle of two things\n\n**Basic structure:** `There is/are + object + preposition + place`\n\nExample: `The key is on the table.`\n\nThe preposition goes **always after** the object and **before** the place. They do not change with gender or number of the noun.",
+      "grammar_structure": "There is/are + [object] + [preposition] + [place]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "prepositions_of_place_full_review",
+          "text_target": "The key is on the table in the kitchen.",
+          "translation_form": "La llave está sobre la mesa en la cocina.",
+          "highlight_words": [
+            "on",
+            "in"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "prepositions_of_place_full_review",
+          "text_target": "My desk is next to the window in my bedroom.",
+          "translation_form": "Mi escritorio está al lado de la ventana en mi dormitorio.",
+          "highlight_words": [
+            "next to",
+            "in"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Puedes combinar dos preposiciones** en una misma frase para ser más preciso. Por ejemplo: `The chair is next to the table in the kitchen.` (La silla está al lado de la mesa en la cocina.)"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas** `The key is the table on in the kitchen.` La preposición va **siempre antes** del lugar: `The key is on the table in the kitchen.` (correcto)."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'The key is the table on' en lugar de 'The key is on the table'. La preposición va antes del lugar, no después.",
+        "Confundir 'in' y 'on': 'in' es para espacios cerrados (in the kitchen), 'on' es para superficies (on the table).",
+        "Olvidar que 'next to' son dos palabras y no se puede decir 'next the table'.",
+        "Usar 'behind' cuando queremos decir 'in front of' y viceversa. 'Behind' es detrás, 'in front of' es delante."
+      ]
+    },
+    {
+      "slug": "have_got_with_rooms",
+      "title_form": "Have got para describir tu casa",
+      "title_target": "Have got to describe your home",
+      "description_md_form": "En inglés, para decir que **tienes** algo en tu casa, usamos **have got**. Es muy común en conversaciones diarias.\n\nLa estructura es: **I / You / We / They + have got** y **He / She / It + has got**.\n\nMira estos ejemplos:\n- `I've got a big kitchen.` = Tengo una cocina grande.\n- `She's got a small bathroom.` = Ella tiene un baño pequeño.\n\n**Importante:** En inglés, para hablar de posesión usamos **have** o **have got**. **Have got** es muy común en conversación, especialmente para cosas en tu hogar, como habitaciones o muebles.\n\nPara preguntar, ponemos **Have** o **Has** al principio: `Have you got a garden?` = ¿Tienes un jardín?",
+      "description_md_target": "In English, to say that you **have** something in your home, we use **have got**. It is very common in daily conversation.\n\nThe structure is: **I / You / We / They + have got** and **He / She / It + has got**.\n\nLook at these examples:\n- `I've got a big kitchen.` = I have a big kitchen.\n- `She's got a small bathroom.` = She has a small bathroom.\n\n**Important:** In English, we **do not** use the verb *tener* like in Spanish. We use **have got** to talk about possession, especially things in your home, like rooms or furniture.\n\nTo ask, we put **Have** or **Has** at the beginning: `Have you got a garden?` = Do you have a garden?",
+      "grammar_structure": "Subject + have/has got + (a/an) + noun",
+      "conjugation_table": {
+        "name": "have_got_present",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "have got ('ve got)",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "have got ('ve got)",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "has got ('s got)",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "have got ('ve got)",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "have got ('ve got)",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "have_got_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I've got a big kitchen and a small bathroom.",
+          "translation_form": "Tengo una cocina grande y un baño pequeño.",
+          "highlight_words": [
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "bedroom",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She's got three bedrooms in her house.",
+          "translation_form": "Ella tiene tres dormitorios en su casa.",
+          "highlight_words": [
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Contracciones:** En conversación, casi siempre usamos las formas cortas: `I've got`, `You've got`, `He's got`, `She's got`. Suena más natural y es más fácil de decir."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas 'I have got a big kitchen' en una respuesta corta.** Para responder a 'Have you got...?', di solo 'Yes, I have' o 'No, I haven't'. No repitas 'got'."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I have a big kitchen' no es un error; ambas formas son correctas. El error sería 'I have got a big kitchen' en una respuesta corta, donde se debe decir solo 'Yes, I have'.",
+        "Olvidar la 's' en 'has' para he/she/it: 'She have got' en lugar de 'She has got'.",
+        "Usar 'do' para preguntar: 'Do you have got...?' es incorrecto. La pregunta correcta es 'Have you got...?'.",
+        "Confundir 'have' y 'has': 'I has got' es incorrecto. Siempre 'I have got'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'kitchen'?",
+      "options": [
+        "Dormitorio",
+        "Cocina",
+        "Baño",
+        "Salón"
+      ],
+      "correct_answer": "Cocina",
+      "explanation_md": "'Kitchen' es la cocina, el lugar donde preparamos la comida.",
+      "related_lexeme_ids": [
+        "kitchen"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'bathroom'?",
+      "options": [
+        "Dormitorio",
+        "Cocina",
+        "Baño",
+        "Salón"
+      ],
+      "correct_answer": "Baño",
+      "explanation_md": "'Bathroom' es el baño, donde nos duchamos y usamos el inodoro.",
+      "related_lexeme_ids": [
+        "bathroom"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'bedroom'?",
+      "options": [
+        "Dormitorio",
+        "Cocina",
+        "Baño",
+        "Salón"
+      ],
+      "correct_answer": "Dormitorio",
+      "explanation_md": "'Bedroom' es el dormitorio, la habitación donde dormimos.",
+      "related_lexeme_ids": [
+        "bedroom"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta de decir 'Hay una mesa en la cocina'?",
+      "options": [
+        "There is a table in the kitchen.",
+        "There are a table in the kitchen.",
+        "There is a table on the kitchen.",
+        "There are a table on the kitchen."
+      ],
+      "correct_answer": "There is a table in the kitchen.",
+      "explanation_md": "Usamos 'there is' para un solo objeto y 'in' para indicar que está dentro de la cocina.",
+      "related_lexeme_ids": [
+        "table",
+        "kitchen"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta de decir 'Tengo un escritorio en mi dormitorio'?",
+      "options": [
+        "I've got a desk in my bedroom.",
+        "I've got a desk on my bedroom.",
+        "I've got a desk at my bedroom.",
+        "I've got a desk under my bedroom."
+      ],
+      "correct_answer": "I've got a desk in my bedroom.",
+      "explanation_md": "Usamos 'have got' para expresar posesión y 'in' para indicar que está dentro del dormitorio.",
+      "related_lexeme_ids": [
+        "desk",
+        "bedroom"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'There are two ____ in my house.' (Hay dos ventanas en mi casa.)",
+      "options": null,
+      "correct_answer": "windows",
+      "explanation_md": "Usamos 'windows' (ventanas) en plural porque decimos 'there are'.",
+      "related_lexeme_ids": [
+        "window"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'The key is ____ the table.' (La llave está sobre la mesa.)",
+      "options": null,
+      "correct_answer": "on",
+      "explanation_md": "Usamos 'on' para indicar que algo está sobre una superficie.",
+      "related_lexeme_ids": [
+        "key",
+        "table"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Hay tres dormitorios en mi casa.'",
+      "options": null,
+      "correct_answer": "There are three bedrooms in my house.",
+      "explanation_md": "Usamos 'there are' para plural y 'in my house' para indicar ubicación.",
+      "related_lexeme_ids": [
+        "bedroom",
+        "house"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Tengo una cocina grande y un baño pequeño.'",
+      "options": null,
+      "correct_answer": "I've got a big kitchen and a small bathroom.",
+      "explanation_md": "Usamos 'have got' para expresar posesión y los adjetivos 'big' y 'small' para describir.",
+      "related_lexeme_ids": [
+        "kitchen",
+        "bathroom"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "chair",
+        "silla",
+        "floor",
+        "suelo",
+        "toilet",
+        "inodoro",
+        "window",
+        "ventana"
+      ],
+      "correct_answer": [
+        "chair=silla",
+        "floor=suelo",
+        "toilet=inodoro",
+        "window=ventana"
+      ],
+      "explanation_md": "Estas son palabras básicas para describir los elementos de una casa.",
+      "related_lexeme_ids": [
+        "chair",
+        "floor",
+        "toilet",
+        "window"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "home",
+        "hogar",
+        "house",
+        "casa",
+        "room",
+        "habitación",
+        "key",
+        "llave"
+      ],
+      "correct_answer": [
+        "home=hogar",
+        "house=casa",
+        "room=habitación",
+        "key=llave"
+      ],
+      "explanation_md": "Estas palabras son esenciales para hablar de tu vivienda.",
+      "related_lexeme_ids": [
+        "home",
+        "house",
+        "room",
+        "key"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'My desk is next to the window in my bedroom.'",
+      "options": null,
+      "correct_answer": "Mi escritorio está al lado de la ventana en mi dormitorio.",
+      "explanation_md": "Usamos 'next to' para indicar que algo está al lado de otra cosa.",
+      "related_lexeme_ids": [
+        "desk",
+        "window",
+        "bedroom"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "home",
+      "back": "hogar / casa",
+      "hint": "el lugar donde vives",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "house",
+      "back": "casa",
+      "hint": "el edificio",
+      "lexeme_id": "house",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "room",
+      "back": "habitación / cuarto",
+      "hint": "una parte de la casa",
+      "lexeme_id": "room",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "kitchen",
+      "back": "cocina",
+      "hint": "donde preparas la comida",
+      "lexeme_id": "kitchen",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "bathroom",
+      "back": "baño",
+      "hint": "donde te duchas",
+      "lexeme_id": "bathroom",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "bedroom",
+      "back": "dormitorio",
+      "hint": "donde duermes",
+      "lexeme_id": "bedroom",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "key",
+      "back": "llave / clave",
+      "hint": "abre la puerta",
+      "lexeme_id": "key",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "chair",
+      "back": "silla",
+      "hint": "para sentarte",
+      "lexeme_id": "chair",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "floor",
+      "back": "piso / suelo",
+      "hint": "donde caminas",
+      "lexeme_id": "floor",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "table",
+      "back": "mesa",
+      "hint": "para comer o trabajar",
+      "lexeme_id": "table",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "window",
+      "back": "ventana",
+      "hint": "miras por ella",
+      "lexeme_id": "window",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "desk",
+      "back": "escritorio",
+      "hint": "mesa para estudiar",
+      "lexeme_id": "desk",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "toilet",
+      "back": "inodoro / aseo / baño",
+      "hint": "el inodoro",
+      "lexeme_id": "toilet",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "clean",
+      "back": "limpiar",
+      "hint": "acción de limpieza",
+      "lexeme_id": "clean_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "home"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "home",
+      "reading": "",
+      "translation": "hogar / casa",
+      "pos": "noun",
+      "example": "Welcome to my home! This is the living room.",
+      "example_translation": "¡Bienvenido a mi hogar! Esta es la sala de estar.",
+      "lexeme_id": "home",
+      "chunk_id": null
+    },
+    {
+      "target_word": "house",
+      "reading": "",
+      "translation": "casa",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "house",
+      "chunk_id": null
+    },
+    {
+      "target_word": "room",
+      "reading": "",
+      "translation": "habitación / cuarto",
+      "pos": "noun",
+      "example": "There is a chair under the desk in this room.",
+      "example_translation": "Hay una silla debajo del escritorio en esta habitación.",
+      "lexeme_id": "room",
+      "chunk_id": null
+    },
+    {
+      "target_word": "kitchen",
+      "reading": "",
+      "translation": "cocina",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "kitchen",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bathroom",
+      "reading": "",
+      "translation": "baño",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "bathroom",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bedroom",
+      "reading": "",
+      "translation": "dormitorio",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "bedroom",
+      "chunk_id": null
+    },
+    {
+      "target_word": "key",
+      "reading": "",
+      "translation": "llave / clave",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "key",
+      "chunk_id": null
+    },
+    {
+      "target_word": "chair",
+      "reading": "",
+      "translation": "silla",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "chair",
+      "chunk_id": null
+    },
+    {
+      "target_word": "floor",
+      "reading": "",
+      "translation": "piso / suelo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "floor",
+      "chunk_id": null
+    },
+    {
+      "target_word": "table",
+      "reading": "",
+      "translation": "mesa",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "table",
+      "chunk_id": null
+    },
+    {
+      "target_word": "window",
+      "reading": "",
+      "translation": "ventana",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "window",
+      "chunk_id": null
+    },
+    {
+      "target_word": "desk",
+      "reading": "",
+      "translation": "escritorio",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "desk",
+      "chunk_id": null
+    },
+    {
+      "target_word": "toilet",
+      "reading": "",
+      "translation": "inodoro / aseo / baño",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "toilet",
+      "chunk_id": null
+    },
+    {
+      "target_word": "clean",
+      "reading": "",
+      "translation": "limpiar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "clean_verb",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describe your home",
+      "title_target": "Quiz: Describing your home",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra significa 'casa' en inglés?",
+          "prompt_target": "Which word means 'casa' in English?",
+          "options": [
+            "house",
+            "room",
+            "key",
+            "floor"
+          ],
+          "correct_answer": "house",
+          "explanation_form": "'House' significa 'casa'. 'Room' es 'habitación', 'key' es 'llave' y 'floor' es 'piso'.",
+          "explanation_target": "'House' means 'casa'. 'Room' is 'habitación', 'key' is 'llave' and 'floor' is 'piso'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "house"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'The ____ is in the kitchen.' (La mesa está en la cocina.)",
+          "prompt_target": "Complete the sentence: 'The ____ is in the kitchen.'",
+          "options": null,
+          "correct_answer": "table",
+          "explanation_form": "'Table' significa 'mesa'. La mesa está en la cocina.",
+          "explanation_target": "'Table' means 'mesa'. The table is in the kitchen.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "table",
+            "kitchen"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta: 'There is a chair in the bedroom.'",
+          "prompt_target": "Order the words to form a correct sentence: 'There is a chair in the bedroom.'",
+          "options": [
+            "There",
+            "is",
+            "a",
+            "chair",
+            "in",
+            "the",
+            "bedroom"
+          ],
+          "correct_answer": "There is a chair in the bedroom.",
+          "explanation_form": "La estructura correcta es 'There is + a + objeto + in + the + habitación'.",
+          "explanation_target": "The correct structure is 'There is + a + object + in + the + room'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "there_is_there_are_extended",
+            "chair",
+            "bedroom"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "home",
+            "hogar",
+            "window",
+            "ventana",
+            "desk",
+            "escritorio",
+            "toilet",
+            "inodoro"
+          ],
+          "correct_answer": [
+            "home=hogar",
+            "window=ventana",
+            "desk=escritorio",
+            "toilet=inodoro"
+          ],
+          "explanation_form": "Estas son las palabras clave para describir tu casa: 'home' (hogar), 'window' (ventana), 'desk' (escritorio) y 'toilet' (inodoro).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "home",
+            "window",
+            "desk",
+            "toilet"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice 'El baño está al lado del dormitorio' en inglés?",
+          "prompt_target": "How do you say 'El baño está al lado del dormitorio' in English?",
+          "options": null,
+          "correct_answer": "The bathroom is next to the bedroom.",
+          "explanation_form": "Usamos 'next to' para decir 'al lado de'. La estructura es: The + habitación + is + next to + the + habitación.",
+          "explanation_target": "We use 'next to' to say 'al lado de'. The structure is: The + room + is + next to + the + room.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "bathroom",
+            "bedroom",
+            "next_to_prep"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de decir 'Hay una llave en el piso'?",
+          "prompt_target": "What is the correct way to say 'Hay una llave en el piso'?",
+          "options": [
+            "There is a key on the floor.",
+            "There is a key in the floor.",
+            "There is a key at the floor.",
+            "There is a key under the floor."
+          ],
+          "correct_answer": "There is a key on the floor.",
+          "explanation_form": "Usamos 'on' para decir 'sobre/en' una superficie como el piso. 'In' es para dentro de algo, 'at' para puntos específicos y 'under' para debajo.",
+          "explanation_target": "We use 'on' to say 'on' a surface like the floor. 'In' is for inside something, 'at' for specific points and 'under' for below.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "key",
+            "floor",
+            "in_prep"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I have got a ____ in my house.' (Tengo una habitación en mi casa.)",
+          "prompt_target": "Complete: 'I have got a ____ in my house.'",
+          "options": null,
+          "correct_answer": "room",
+          "explanation_form": "'Room' significa 'habitación'. La estructura 'have got' se usa para expresar posesión.",
+          "explanation_target": "'Room' means 'habitación'. The structure 'have got' is used to express possession.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "room",
+            "have_got_with_rooms"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'clean' en español?",
+          "prompt_target": "What does 'clean' mean in Spanish?",
+          "options": [
+            "limpiar",
+            "cocinar",
+            "dormir",
+            "comprar"
+          ],
+          "correct_answer": "limpiar",
+          "explanation_form": "'Clean' significa 'limpiar'. Es un verbo común para hablar de las tareas del hogar.",
+          "explanation_target": "'Clean' means 'limpiar'. It is a common verb to talk about household chores.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "clean_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta: 'There is a desk in the room.'",
+          "prompt_target": "Order the words to form a correct sentence: 'There is a desk in the room.'",
+          "options": [
+            "There",
+            "is",
+            "a",
+            "desk",
+            "in",
+            "the",
+            "room"
+          ],
+          "correct_answer": "There is a desk in the room.",
+          "explanation_form": "La estructura correcta es 'There is + a + objeto + in + the + habitación'.",
+          "explanation_target": "The correct structure is 'There is + a + object + in + the + room'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "desk",
+            "room",
+            "there_is_there_are_extended"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'La cocina está entre el baño y el dormitorio.'",
+          "prompt_target": "Translate to English: 'La cocina está entre el baño y el dormitorio.'",
+          "options": null,
+          "correct_answer": "The kitchen is between the bathroom and the bedroom.",
+          "explanation_form": "Usamos 'between' para decir 'entre' dos cosas. La estructura es: The + habitación + is + between + the + habitación + and + the + habitación.",
+          "explanation_target": "We use 'between' to say 'between' two things. The structure is: The + room + is + between + the + room + and + the + room.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "kitchen",
+            "bathroom",
+            "bedroom",
+            "between_prep"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de decir 'Hay una silla en la cocina'?",
+          "prompt_target": "What is the correct way to say 'Hay una silla en la cocina'?",
+          "options": [
+            "There is a chair in the kitchen.",
+            "There is a chair on the kitchen.",
+            "There is a chair at the kitchen.",
+            "There is a chair under the kitchen."
+          ],
+          "correct_answer": "There is a chair in the kitchen.",
+          "explanation_form": "Usamos 'in' para decir 'en' dentro de una habitación. 'On' es para superficies, 'at' para puntos y 'under' para debajo.",
+          "explanation_target": "We use 'in' to say 'in' inside a room. 'On' is for surfaces, 'at' for points and 'under' for below.",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "chair",
+            "kitchen",
+            "in_prep"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "matching",
+          "prompt_form": "Empareja cada habitación con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "kitchen",
+            "cocina",
+            "bathroom",
+            "baño",
+            "bedroom",
+            "dormitorio",
+            "room",
+            "habitación"
+          ],
+          "correct_answer": [
+            "kitchen=cocina",
+            "bathroom=baño",
+            "bedroom=dormitorio",
+            "room=habitación"
+          ],
+          "explanation_form": "Estas son las habitaciones principales de una casa: 'kitchen' (cocina), 'bathroom' (baño), 'bedroom' (dormitorio) y 'room' (habitación).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "kitchen",
+            "bathroom",
+            "bedroom",
+            "room"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Tu casa, tu espacio\n\nCuando hablamos de nuestra casa en ingles, usamos **home** para referirnos al lugar donde vivimos y sentimos que es nuestro espacio personal. En cambio, **house** es solo el edificio fisico. Por eso decimos \"I am at home\" (estoy en mi casa, mi espacio) pero \"My house is big\" (mi casa es grande, el edificio). Piensa en **home** como el lugar con emociones y **house** como la estructura. Este matiz es muy natural en ingles y los hispanohablantes lo confunden al principio.\n\n## Las habitaciones y los muebles\n\nPara describir tu casa, necesitas las habitaciones basicas: **kitchen** (cocina), **bathroom** (bano), **bedroom** (dormitorio) y **room** (habitacion en general). Los muebles mas comunes son **table** (mesa), **chair** (silla), **desk** (escritorio) y **window** (ventana). Un truco util: en ingles, la **bathroom** es donde esta el **toilet** (inodoro) y normalmente tambien la ducha. No digas \"I am in the toilet\" para referirte a la habitacion; di \"I am in the bathroom\". El **toilet** es el objeto, no la habitacion.\n\n## There is y There are: la clave para describir\n\nPara decir que algo existe en tu casa, usa **there is** (singular) y **there are** (plural). Por ejemplo: \"There is a table in the kitchen\" (hay una mesa en la cocina) y \"There are two chairs in the bedroom\" (hay dos sillas en el dormitorio). Recuerda que **there is** se usa con un solo objeto y **there are** con dos o mas. Un error comun es decir \"There are a table\" — esto es incorrecto porque **table** es singular. Practica con los objetos de tu propia casa: mira a tu alrededor y di en voz alta lo que ves.\n\n## Have got: tu casa y tus pertenencias\n\nOtra forma natural de describir tu casa es con **have got** (tener). Por ejemplo: \"I have got a big kitchen\" (tengo una cocina grande) o \"My bedroom has got a desk\" (mi dormitorio tiene un escritorio). Con **have got**, el verbo cambia con la persona: **I have got**, **you have got**, **he/she has got**. Para preguntar, invierte el orden: \"Have you got a bathroom?\" (tienes un bano?). Esta estructura es muy comun en ingles britanico y suena mas conversacional que solo \"have\".\n\n## Preposiciones de lugar: donde estan las cosas\n\nPara decir donde estan los muebles, usa las preposiciones de lugar: **in** (dentro de), **on** (sobre), **under** (debajo de), **next to** (al lado de) y **behind** (detras de). Por ejemplo: \"The key is on the table\" (la llave esta sobre la mesa), \"The chair is next to the desk\" (la silla esta al lado del escritorio). Un error tipico es confundir **in** y **on**: **in** es para espacios cerrados (in the room) y **on** para superficies (on the table). Visualiza la escena: si algo esta sobre una superficie plana, usa **on**; si esta dentro de un espacio, usa **in**.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:10:45Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

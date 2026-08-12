@@ -1,0 +1,1847 @@
+{
+  "id": "lesson_019",
+  "position": 20,
+  "unit_id": 4,
+  "course_id": "en.A1",
+  "title_form": "Transport and travel",
+  "title_target": "Transporte y viajes",
+  "theme_focus": "Transport and travel",
+  "learning_objectives": [
+    "Can talk about transport, ask for and buy tickets, and describe simple journeys."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_016",
+    "lesson_017"
+  ],
+  "grammar_focus": [
+    "prepositions_of_motion_by_with_to (by car, by bus, by train, to the station, on foot)",
+    "wh_questions_for_travel (How do you get to work?, How long does it take?)",
+    "conjunctions_when_while (When I go to work, I take the bus)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "car",
+        "bus",
+        "train",
+        "taxi",
+        "bicycle",
+        "bike",
+        "boat",
+        "station",
+        "ticket",
+        "stop",
+        "leave_verb",
+        "return_verb",
+        "travel_verb",
+        "visit_verb",
+        "stay_verb",
+        "trip",
+        "vacation",
+        "tourist",
+        "map",
+        "early_adj_2",
+        "late_adj"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "between_prep",
+        "big_adj",
+        "bill",
+        "black_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "coat",
+        "coffee",
+        "come_verb",
+        "cost_verb",
+        "country",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "eat_verb",
+        "evening",
+        "exam",
+        "excuse_me_interj",
+        "expensive_adj",
+        "family",
+        "father",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "half",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hotel",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "later_adv",
+        "learn_verb",
+        "left",
+        "lesson",
+        "live_verb",
+        "lunch",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "read_verb",
+        "restaurant",
+        "right",
+        "road",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "small_adj",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "spring",
+        "start_verb",
+        "station",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "supermarket",
+        "sweater",
+        "t_shirt",
+        "tall_adj",
+        "tea",
+        "teacher",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "three_num",
+        "time",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vegetable",
+        "village",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "water",
+        "we_pronoun",
+        "week",
+        "weekend",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante colombiana de 24 años, llega a la estación de tren de Madrid a las 8 de la mañana para comprar un boleto a Sevilla. Está confundida porque no entiende los horarios en la pantalla y no sabe en qué andén esperar. Un empleado de la estación, Miguel, la ve nerviosa y se acerca para ayudarla. Sofía respira hondo, le pregunta por el tren y el boleto, y Miguel le explica todo con una sonrisa. Cuando Sofía sube al tren con su boleto en la mano, se siente aliviada y orgullosa de haberlo logrado.",
+  "introduction_md": "¿Alguna vez te has perdido en una ciudad nueva sin saber cómo pedir un boleto de tren? En esta lección vas a aprender las palabras y frases esenciales para moverte con confianza: cómo preguntar por el autobús, el taxi o el tren, cómo comprar un boleto y cómo describir un viaje sencillo. Ya sabes saludar, pedir comida y hablar de tu familia; ahora es momento de dar el siguiente paso y explorar el mundo. Imagina que estás en una estación de tren en Londres: necesitas saber a qué hora sale el tren, cuánto cuesta el boleto y en qué parada bajarte. Con el vocabulario de esta lección, podrás hacer todo eso y más. Al final, te sentirás listo para planear una pequeña aventura, ya sea visitar a un amigo en otra ciudad o simplemente dar un paseo en bicicleta. ¡Vamos a preparar las maletas y empezar a viajar!",
+  "intro_target": "Have you ever gotten lost in a new city without knowing how to ask for a train ticket? In this lesson, you will learn the essential words and phrases to move around with confidence: how to ask about the bus, the taxi, or the train, how to buy a ticket, and how to describe a simple journey. You already know how to greet people, order food, and talk about your family; now it is time to take the next step and explore the world. Imagine you are at a train station in London: you need to know what time the train leaves, how much the ticket costs, and at which stop to get off. With the vocabulary in this lesson, you will be able to do all that and more. In the end, you will feel ready to plan a small adventure, whether it is visiting a friend in another city or just taking a bike ride. Let us pack our bags and start traveling!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "car",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I go to work by car.",
+      "translation_form": "Voy al trabajo en coche.",
+      "highlight_words": [
+        "car",
+        "work"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She takes the bus to school.",
+      "translation_form": "Ella toma el autobús a la escuela.",
+      "highlight_words": [
+        "bus",
+        "school"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We travel by train to the city.",
+      "translation_form": "Viajamos en tren a la ciudad.",
+      "highlight_words": [
+        "train",
+        "travel",
+        "city"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "taxi",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He takes a taxi to the station.",
+      "translation_form": "Él toma un taxi a la estación.",
+      "highlight_words": [
+        "taxi",
+        "station"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "bicycle",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I ride my bicycle to the park.",
+      "translation_form": "Monto mi bicicleta al parque.",
+      "highlight_words": [
+        "bicycle",
+        "park"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "bike",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My bike is old but fast.",
+      "translation_form": "Mi bicicleta es vieja pero rápida.",
+      "highlight_words": [
+        "bike",
+        "old"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "boat",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The boat goes to the beach.",
+      "translation_form": "El barco va a la playa.",
+      "highlight_words": [
+        "boat",
+        "beach"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "station",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The station is near the hotel.",
+      "translation_form": "La estación está cerca del hotel.",
+      "highlight_words": [
+        "station",
+        "hotel"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "ticket",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I buy a ticket for the train.",
+      "translation_form": "Compro un boleto para el tren.",
+      "highlight_words": [
+        "ticket",
+        "train",
+        "buy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "stop",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The bus stop is on this street.",
+      "translation_form": "La parada de autobús está en esta calle.",
+      "highlight_words": [
+        "stop",
+        "bus",
+        "street"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": "leave_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We leave the house at eight.",
+      "translation_form": "Salimos de casa a las ocho.",
+      "highlight_words": [
+        "leave"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_012",
+      "lexeme_id": "return_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I return home at six.",
+      "translation_form": "Regreso a casa a las seis.",
+      "highlight_words": [
+        "return"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_013",
+      "lexeme_id": "travel_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They travel to Spain in summer.",
+      "translation_form": "Ellos viajan a España en verano.",
+      "highlight_words": [
+        "travel",
+        "summer"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_014",
+      "lexeme_id": "visit_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We visit our family on Sunday.",
+      "translation_form": "Visitamos a nuestra familia el domingo.",
+      "highlight_words": [
+        "visit",
+        "family"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_015",
+      "lexeme_id": "stay_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She stays at the hotel for a week.",
+      "translation_form": "Ella se queda en el hotel por una semana.",
+      "highlight_words": [
+        "stay",
+        "hotel",
+        "week"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_016",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The trip to the beach is fun.",
+      "translation_form": "El viaje a la playa es divertido.",
+      "highlight_words": [
+        "trip",
+        "beach"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_017",
+      "lexeme_id": "vacation",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My vacation starts tomorrow.",
+      "translation_form": "Mis vacaciones empiezan mañana.",
+      "highlight_words": [
+        "vacation",
+        "tomorrow"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_018",
+      "lexeme_id": "tourist",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The tourist asks for a map.",
+      "translation_form": "El turista pide un mapa.",
+      "highlight_words": [
+        "tourist",
+        "map"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_019",
+      "lexeme_id": "map",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have a map of the city.",
+      "translation_form": "Tengo un mapa de la ciudad.",
+      "highlight_words": [
+        "map",
+        "city"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_020",
+      "lexeme_id": "early_adj_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The train is early today.",
+      "translation_form": "El tren está temprano hoy.",
+      "highlight_words": [
+        "train",
+        "early",
+        "today"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_021",
+      "lexeme_id": "late_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The bus is late this morning.",
+      "translation_form": "El autobús está tarde esta mañana.",
+      "highlight_words": [
+        "bus",
+        "late",
+        "morning"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "prepositions_of_motion_by_with_to",
+      "title_form": "Preposiciones de movimiento: by, with y to",
+      "title_target": "Prepositions of motion: by, with and to",
+      "description_md_form": "Para hablar de **transporte y viajes**, usamos tres preposiciones muy importantes:\n\n- **by** + medio de transporte: indica *cómo* viajamos. Ejemplo: `I go to work by car.` (Voy al trabajo en coche).\n- **to** + lugar: indica *hacia dónde* vamos. Ejemplo: `She takes the bus to school.` (Ella toma el autobús a la escuela).\n- **with** + persona u objeto: indica *con quién o con qué* viajamos. Ejemplo: `I travel with my friend.` (Viajo con mi amigo).\n\n**Regla clave:** con **by** NO usamos artículo. Decimos `by car`, `by bus`, `by train`, nunca `by the car`. Con **to** y **with** sí podemos usar artículos y posesivos normalmente.",
+      "description_md_target": "To talk about **transport and travel**, we use three very important prepositions:\n\n- **by** + means of transport: it shows *how* we travel. Example: `I go to work by car.`\n- **to** + place: it shows *where* we go. Example: `She takes the bus to school.`\n- **with** + person or object: it shows *with whom or with what* we travel. Example: `I travel with my friend.`\n\n**Key rule:** with **by** we do NOT use an article. We say `by car`, `by bus`, `by train`, never `by the car`. With **to** and **with** we can use articles and possessives normally.",
+      "grammar_structure": "Subject + verb + (by + transport) + (to + place) + (with + person/object)",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "travel_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I travel to the city by train with my family.",
+          "translation_form": "Viajo a la ciudad en tren con mi familia.",
+          "highlight_words": [
+            "travel",
+            "to",
+            "by",
+            "with"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "go_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "We go to the station by taxi.",
+          "translation_form": "Vamos a la estación en taxi.",
+          "highlight_words": [
+            "go",
+            "to",
+            "by"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**¡Cuidado!** Con **by** no usamos artículo: decimos `by bus`, `by car`, `by train`. Nunca digas `by the bus` o `by a car`."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Para decir *a pie* usamos `on foot`, no `by foot`. Y para *en bicicleta* puedes decir `by bicycle` o `by bike`."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'by the car' en lugar de 'by car'. Con 'by' + transporte no se usa artículo.",
+        "Confundir 'to' (hacia) con 'at' (en un lugar). 'To' indica movimiento: 'I go to the station'.",
+        "Usar 'with' para transporte: 'I travel with bus' es incorrecto. Para transporte usamos 'by': 'I travel by bus'.",
+        "Olvidar que 'by bike' y 'by bicycle' son correctos, pero 'on bike' no lo es."
+      ]
+    },
+    {
+      "slug": "wh_questions_for_travel",
+      "title_form": "Preguntas con Wh- para viajar",
+      "title_target": "Wh- Questions for Travel",
+      "description_md_form": "Para preguntar sobre viajes, usamos **palabras interrogativas** (wh- words) al inicio de la oración. Las más comunes son: **Where** (dónde), **When** (cuándo), **What** (qué), **Who** (quién) y **How** (cómo).\n\nLa estructura es simple: **Wh- word + verbo + sujeto** (o **Wh- word + verbo auxiliar + sujeto + verbo principal**).\n\nEjemplos: **Where is the station?** (¿Dónde está la estación?), **When does the bus leave?** (¿Cuándo sale el autobús?), **How do you travel?** (¿Cómo viajas?).\n\nEn inglés, el verbo **do/does** aparece en preguntas con verbos normales. Para preguntas con **to be**, solo invertimos el orden: **Where are you?**",
+      "description_md_target": "To ask about travel, we use **question words** (wh- words) at the start of the sentence. The most common are: **Where**, **When**, **What**, **Who**, and **How**.\n\nThe structure is simple: **Wh- word + verb + subject** (or **Wh- word + auxiliary verb + subject + main verb**).\n\nExamples: **Where is the station?**, **When does the bus leave?**, **How do you travel?**\n\nIn English, the verb **do/does** appears in questions with normal verbs. For questions with **to be**, we just invert the order: **Where are you?**",
+      "grammar_structure": "Wh- word + (auxiliary do/does) + subject + main verb?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_questions_for_travel",
+          "text_target": "Where is the station?",
+          "translation_form": "¿Dónde está la estación?",
+          "highlight_words": [
+            "where",
+            "is",
+            "station"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_questions_for_travel",
+          "text_target": "When does the train leave?",
+          "translation_form": "¿Cuándo sale el tren?",
+          "highlight_words": [
+            "when",
+            "does",
+            "train",
+            "leave"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: con **he/she/it**, usamos **does** en la pregunta, no **do**. Ejemplo: **When does the bus leave?** (no *When do the bus leave?*)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas**: *Where you go?* **Di**: *Where do you go?* En inglés, las preguntas con verbos normales necesitan **do/does**."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el auxiliar do/does: *Where you go?* en lugar de *Where do you go?*",
+        "Usar do en lugar de does con he/she/it: *When do the train leave?* en lugar de *When does the train leave?*",
+        "Invertir el orden con to be: *Where is the station?* es correcto, pero *Where the station is?* es incorrecto."
+      ]
+    },
+    {
+      "slug": "conjunctions_when_while",
+      "title_form": "Conectores: when y while",
+      "title_target": "Connectors: when and while",
+      "description_md_form": "Usamos **when** y **while** para unir dos acciones que pasan al mismo tiempo. **When** significa *cuando* y **while** significa *mientras*. Ambos conectan una acción principal con otra que ocurre al mismo tiempo.\n\n**When** se usa para acciones cortas o momentos puntuales: *I buy a ticket **when** I arrive at the station.* (Compro un boleto cuando llego a la estación).\n\n**While** se usa para acciones que duran un tiempo: *I listen to music **while** I travel by train.* (Escucho música mientras viajo en tren).\n\nLa acción principal puede ir primero o después. Si empiezas con **when** o **while**, pon una coma: *While I wait for the bus, I read a map.* (Mientras espero el autobús, leo un mapa).",
+      "description_md_target": "We use **when** and **while** to join two actions that happen at the same time. **When** means *cuando* and **while** means *mientras*. Both connect a main action with another that happens at the same time.\n\n**When** is used for short actions or specific moments: *I buy a ticket **when** I arrive at the station.*\n\n**While** is used for actions that last a while: *I listen to music **while** I travel by train.*\n\nThe main action can come first or second. If you start with **when** or **while**, use a comma: *While I wait for the bus, I read a map.*",
+      "grammar_structure": "Main action + when/while + secondary action",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "ticket",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I buy a ticket when I arrive at the station.",
+          "translation_form": "Compro un boleto cuando llego a la estación.",
+          "highlight_words": [
+            "when",
+            "ticket",
+            "station"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "travel_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "While I travel by train, I read a map.",
+          "translation_form": "Mientras viajo en tren, leo un mapa.",
+          "highlight_words": [
+            "while",
+            "travel",
+            "train",
+            "map"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Usa **when** para momentos cortos (llegar, salir) y **while** para acciones largas (viajar, esperar). Piensa: *when* = un punto, *while* = una línea."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *I buy a ticket while I arrive*. **Arrive** es un momento corto, así que usa **when**: *I buy a ticket when I arrive.*"
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'while' con acciones cortas: *I buy a ticket while I arrive* → correcto: *I buy a ticket when I arrive*.",
+        "Olvidar la coma cuando la oración empieza con 'when' o 'while': *While I wait for the bus I read* → correcto: *While I wait for the bus, I read*.",
+        "Confundir 'when' con 'where': *I go to the station where I buy a ticket* → correcto: *I go to the station when I buy a ticket*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'ticket'?",
+      "options": [
+        "boleto",
+        "mapa",
+        "estación",
+        "autobús"
+      ],
+      "correct_answer": "boleto",
+      "explanation_md": "'Ticket' es el boleto que compras para viajar en tren, autobús o avión.",
+      "related_lexeme_ids": [
+        "ticket"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'leave'?",
+      "options": [
+        "salir",
+        "llegar",
+        "comprar",
+        "visitar"
+      ],
+      "correct_answer": "salir",
+      "explanation_md": "'Leave' significa salir o irse de un lugar.",
+      "related_lexeme_ids": [
+        "leave_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en la estación y quieres saber a qué hora sale el tren. ¿Qué preguntas?",
+      "options": [
+        "When does the train leave?",
+        "Where is the bus stop?",
+        "How much is the ticket?",
+        "Who is the tourist?"
+      ],
+      "correct_answer": "When does the train leave?",
+      "explanation_md": "Para preguntar por la hora de salida usamos 'when' (cuándo).",
+      "related_lexeme_ids": [
+        "leave_verb",
+        "train",
+        "station"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Quieres saber cómo viaja tu amigo al trabajo. ¿Qué preguntas?",
+      "options": [
+        "How do you travel to work?",
+        "When do you leave?",
+        "Where is the station?",
+        "Why do you stay?"
+      ],
+      "correct_answer": "How do you travel to work?",
+      "explanation_md": "Para preguntar por el medio de transporte usamos 'how' (cómo).",
+      "related_lexeme_ids": [
+        "travel_verb",
+        "work_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I go to work ____ car.' (Yo voy al trabajo en coche.)",
+      "options": null,
+      "correct_answer": "by",
+      "explanation_md": "Usamos 'by' para indicar el medio de transporte: by car, by bus, by train.",
+      "related_lexeme_ids": [
+        "car",
+        "work_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'She takes the bus ____ school.' (Ella toma el autobús a la escuela.)",
+      "options": null,
+      "correct_answer": "to",
+      "explanation_md": "Usamos 'to' para indicar el destino: to school, to work, to the station.",
+      "related_lexeme_ids": [
+        "bus",
+        "school"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Él toma un taxi a la estación.'",
+      "options": null,
+      "correct_answer": "He takes a taxi to the station.",
+      "explanation_md": "Recuerda el orden: sujeto + verbo + objeto + 'to' + destino.",
+      "related_lexeme_ids": [
+        "taxi",
+        "station"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Yo monto mi bicicleta al parque.'",
+      "options": null,
+      "correct_answer": "I ride my bicycle to the park.",
+      "explanation_md": "Usamos 'ride' para bicicletas y 'to' para el destino.",
+      "related_lexeme_ids": [
+        "bicycle",
+        "park"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada medio de transporte con su traducción:",
+      "options": [
+        "car",
+        "coche",
+        "boat",
+        "barco",
+        "train",
+        "tren",
+        "bus",
+        "autobús"
+      ],
+      "correct_answer": [
+        "car=coche",
+        "boat=barco",
+        "train=tren",
+        "bus=autobús"
+      ],
+      "explanation_md": "Estos son los medios de transporte más comunes para viajar.",
+      "related_lexeme_ids": [
+        "car",
+        "boat",
+        "train",
+        "bus"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "trip",
+        "viaje",
+        "map",
+        "mapa",
+        "tourist",
+        "turista",
+        "vacation",
+        "vacaciones"
+      ],
+      "correct_answer": [
+        "trip=viaje",
+        "map=mapa",
+        "tourist=turista",
+        "vacation=vacaciones"
+      ],
+      "explanation_md": "Estas palabras son útiles cuando viajas a otro lugar.",
+      "related_lexeme_ids": [
+        "trip",
+        "map",
+        "tourist",
+        "vacation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'We travel by train to the city.'",
+      "options": null,
+      "correct_answer": "Viajamos en tren a la ciudad.",
+      "explanation_md": "'By train' se traduce como 'en tren'.",
+      "related_lexeme_ids": [
+        "travel_verb",
+        "train",
+        "city"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I visit my family when I have vacation.'",
+      "options": null,
+      "correct_answer": "Visito a mi familia cuando tengo vacaciones.",
+      "explanation_md": "'When' conecta dos acciones: visitar y tener vacaciones.",
+      "related_lexeme_ids": [
+        "visit_verb",
+        "family",
+        "vacation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "car",
+      "back": "coche / carro",
+      "hint": "vehículo de cuatro ruedas",
+      "lexeme_id": "car",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "bus",
+      "back": "autobús",
+      "hint": "transporte público grande",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "train",
+      "back": "tren",
+      "hint": "va por las vías",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "taxi",
+      "back": "taxi",
+      "hint": "lo tomas en la calle",
+      "lexeme_id": "taxi",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "bicycle",
+      "back": "bicicleta",
+      "hint": "tiene dos ruedas",
+      "lexeme_id": "bicycle",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "bike",
+      "back": "bicicleta",
+      "hint": "forma corta de bicycle",
+      "lexeme_id": "bike",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "boat",
+      "back": "bote / barco",
+      "hint": "va por el agua",
+      "lexeme_id": "boat",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "station",
+      "back": "estación",
+      "hint": "lugar donde para el tren",
+      "lexeme_id": "station",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "places",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "ticket",
+      "back": "boleto / billete / ticket",
+      "hint": "lo compras para viajar",
+      "lexeme_id": "ticket",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "stop",
+      "back": "parada",
+      "hint": "lugar donde para el bus",
+      "lexeme_id": "stop",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "leave",
+      "back": "irse / salir / dejar",
+      "hint": "acción de partir",
+      "lexeme_id": "leave_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "return",
+      "back": "volver / regresar",
+      "hint": "acción de volver",
+      "lexeme_id": "return_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "travel",
+      "back": "viajar",
+      "hint": "ir de un lugar a otro",
+      "lexeme_id": "travel_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "visit",
+      "back": "visitar",
+      "hint": "ir a ver a alguien o algo",
+      "lexeme_id": "visit_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "stay",
+      "back": "quedarse",
+      "hint": "permanecer en un lugar",
+      "lexeme_id": "stay_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_016",
+      "front": "trip",
+      "back": "viaje",
+      "hint": "sustantivo: un viaje",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_017",
+      "front": "vacation",
+      "back": "vacaciones",
+      "hint": "tiempo libre para viajar",
+      "lexeme_id": "vacation",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_018",
+      "front": "tourist",
+      "back": "turista / veraneante",
+      "hint": "persona que viaja por placer",
+      "lexeme_id": "tourist",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_019",
+      "front": "map",
+      "back": "mapa",
+      "hint": "te ayuda a encontrar lugares",
+      "lexeme_id": "map",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_020",
+      "front": "early",
+      "back": "temprano",
+      "hint": "opuesto de tarde",
+      "lexeme_id": "early_adj_2",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_021",
+      "front": "late",
+      "back": "tarde",
+      "hint": "opuesto de temprano",
+      "lexeme_id": "late_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "transport",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_022",
+      "front": "hotel",
+      "back": "hotel",
+      "hint": "lugar donde te quedas cuando viajas",
+      "lexeme_id": "hotel",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_023",
+      "front": "restaurant",
+      "back": "restaurante",
+      "hint": "lugar donde comes",
+      "lexeme_id": "restaurant",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_024",
+      "front": "beach",
+      "back": "playa",
+      "hint": "lugar con arena y mar",
+      "lexeme_id": "beach",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_025",
+      "front": "city",
+      "back": "ciudad",
+      "hint": "lugar grande con muchos edificios",
+      "lexeme_id": "city",
+      "chunk_id": null,
+      "tags": [
+        "lesson_019",
+        "A1",
+        "places"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "car",
+      "reading": "",
+      "translation": "coche / carro",
+      "pos": "noun",
+      "example": "I go to work by car.",
+      "example_translation": "Voy al trabajo en coche.",
+      "lexeme_id": "car",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bus",
+      "reading": "",
+      "translation": "autobús",
+      "pos": "noun",
+      "example": "She takes the bus to school.",
+      "example_translation": "Ella toma el autobús a la escuela.",
+      "lexeme_id": "bus",
+      "chunk_id": null
+    },
+    {
+      "target_word": "train",
+      "reading": "",
+      "translation": "tren",
+      "pos": "noun",
+      "example": "We travel by train to the city.",
+      "example_translation": "Viajamos en tren a la ciudad.",
+      "lexeme_id": "train",
+      "chunk_id": null
+    },
+    {
+      "target_word": "taxi",
+      "reading": "",
+      "translation": "taxi",
+      "pos": "noun",
+      "example": "He takes a taxi to the station.",
+      "example_translation": "Él toma un taxi a la estación.",
+      "lexeme_id": "taxi",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bicycle",
+      "reading": "",
+      "translation": "bicicleta",
+      "pos": "noun",
+      "example": "I ride my bicycle to the park.",
+      "example_translation": "Monto mi bicicleta al parque.",
+      "lexeme_id": "bicycle",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bike",
+      "reading": "",
+      "translation": "bicicleta",
+      "pos": "noun",
+      "example": "My bike is old but fast.",
+      "example_translation": "Mi bicicleta es vieja pero rápida.",
+      "lexeme_id": "bike",
+      "chunk_id": null
+    },
+    {
+      "target_word": "boat",
+      "reading": "",
+      "translation": "bote / barco",
+      "pos": "noun",
+      "example": "The boat goes to the beach.",
+      "example_translation": "El barco va a la playa.",
+      "lexeme_id": "boat",
+      "chunk_id": null
+    },
+    {
+      "target_word": "station",
+      "reading": "",
+      "translation": "estación",
+      "pos": "noun",
+      "example": "The station is near the hotel.",
+      "example_translation": "La estación está cerca del hotel.",
+      "lexeme_id": "station",
+      "chunk_id": null
+    },
+    {
+      "target_word": "ticket",
+      "reading": "",
+      "translation": "boleto / billete / ticket",
+      "pos": "noun",
+      "example": "I buy a ticket for the train.",
+      "example_translation": "Compro un boleto para el tren.",
+      "lexeme_id": "ticket",
+      "chunk_id": null
+    },
+    {
+      "target_word": "stop",
+      "reading": "",
+      "translation": "parada",
+      "pos": "noun",
+      "example": "The bus stop is on this street.",
+      "example_translation": "La parada de autobús está en esta calle.",
+      "lexeme_id": "stop",
+      "chunk_id": null
+    },
+    {
+      "target_word": "leave",
+      "reading": "",
+      "translation": "irse / salir / dejar",
+      "pos": "verb",
+      "example": "We leave the house at eight.",
+      "example_translation": "Salimos de casa a las ocho.",
+      "lexeme_id": "leave_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "return",
+      "reading": "",
+      "translation": "volver / regresar",
+      "pos": "verb",
+      "example": "I return home at six.",
+      "example_translation": "Regreso a casa a las seis.",
+      "lexeme_id": "return_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "travel",
+      "reading": "",
+      "translation": "viajar",
+      "pos": "verb",
+      "example": "They travel to Spain in summer.",
+      "example_translation": "Ellos viajan a España en verano.",
+      "lexeme_id": "travel_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "visit",
+      "reading": "",
+      "translation": "visitar",
+      "pos": "verb",
+      "example": "We visit our family on Sunday.",
+      "example_translation": "Visitamos a nuestra familia el domingo.",
+      "lexeme_id": "visit_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "stay",
+      "reading": "",
+      "translation": "quedarse",
+      "pos": "verb",
+      "example": "She stays at the hotel for a week.",
+      "example_translation": "Ella se queda en el hotel por una semana.",
+      "lexeme_id": "stay_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "trip",
+      "reading": "",
+      "translation": "viaje",
+      "pos": "noun",
+      "example": "The trip to the beach is fun.",
+      "example_translation": "El viaje a la playa es divertido.",
+      "lexeme_id": "trip",
+      "chunk_id": null
+    },
+    {
+      "target_word": "vacation",
+      "reading": "",
+      "translation": "vacaciones",
+      "pos": "noun",
+      "example": "My vacation starts tomorrow.",
+      "example_translation": "Mis vacaciones empiezan mañana.",
+      "lexeme_id": "vacation",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tourist",
+      "reading": "",
+      "translation": "turista / veraneante",
+      "pos": "noun",
+      "example": "The tourist asks for a map.",
+      "example_translation": "El turista pide un mapa.",
+      "lexeme_id": "tourist",
+      "chunk_id": null
+    },
+    {
+      "target_word": "map",
+      "reading": "",
+      "translation": "mapa",
+      "pos": "noun",
+      "example": "I have a map of the city.",
+      "example_translation": "Tengo un mapa de la ciudad.",
+      "lexeme_id": "map",
+      "chunk_id": null
+    },
+    {
+      "target_word": "early",
+      "reading": "",
+      "translation": "temprano",
+      "pos": "adjective",
+      "example": "The train is early today.",
+      "example_translation": "El tren está temprano hoy.",
+      "lexeme_id": "early_adj_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "late",
+      "reading": "",
+      "translation": "tarde",
+      "pos": "adjective",
+      "example": "The bus is late this morning.",
+      "example_translation": "El autobús está tarde esta mañana.",
+      "lexeme_id": "late_adj",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Transport and travel",
+      "title_target": "Quiz: Transporte y viajes",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "How",
+            "do",
+            "you",
+            "go",
+            "to",
+            "school",
+            "?"
+          ],
+          "correct_answer": "How do you go to school?",
+          "explanation_form": "En inglés, las preguntas con 'how' siguen el orden: How + do + sujeto + verbo + resto. Aquí 'go' es el verbo principal y 'to school' indica el destino.",
+          "explanation_target": "In English, questions with 'how' follow the order: How + do + subject + verb + rest. Here 'go' is the main verb and 'to school' indicates the destination.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "how_adv",
+            "go_verb",
+            "school",
+            "prepositions_of_motion_by_with_to"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la preposición correcta: 'I travel ___ bus.'",
+          "prompt_target": "Fill in the blank with the correct preposition: 'I travel ___ bus.'",
+          "options": null,
+          "correct_answer": "by",
+          "explanation_form": "Para medios de transporte usamos 'by' sin artículo: by bus, by car, by train. Decimos 'I travel by bus'.",
+          "explanation_target": "For means of transport we use 'by' without an article: by bus, by car, by train. We say 'I travel by bus'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "bus",
+            "prepositions_of_motion_by_with_to"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "matching",
+          "prompt_form": "Empareja cada medio de transporte con su traducción:",
+          "prompt_target": "Match each means of transport with its translation:",
+          "options": [
+            "car",
+            "coche",
+            "train",
+            "tren",
+            "bicycle",
+            "bicicleta",
+            "boat",
+            "barco"
+          ],
+          "correct_answer": [
+            "car=coche",
+            "train=tren",
+            "bicycle=bicicleta",
+            "boat=barco"
+          ],
+          "explanation_form": "Estos son los medios de transporte básicos: car (coche), train (tren), bicycle (bicicleta) y boat (barco).",
+          "explanation_target": "These are the basic means of transport: car (coche), train (tren), bicycle (bicicleta) and boat (barco).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "car",
+            "train",
+            "bicycle",
+            "boat"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: '¿Dónde está la estación?'",
+          "prompt_target": "Translate into English: '¿Dónde está la estación?'",
+          "options": null,
+          "correct_answer": "Where is the station?",
+          "explanation_form": "Para preguntar por una ubicación usamos 'Where is...?'. 'Station' significa estación.",
+          "explanation_target": "To ask about a location we use 'Where is...?'. 'Station' means estación.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "station",
+            "wh_questions_for_travel"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'ticket'?",
+          "prompt_target": "What is the meaning of 'ticket'?",
+          "options": [
+            "boleto",
+            "mapa",
+            "parada",
+            "viaje"
+          ],
+          "correct_answer": "boleto",
+          "explanation_form": "'Ticket' significa boleto o billete. Lo compras para viajar en tren, bus o avión.",
+          "explanation_target": "'Ticket' means boleto or billete. You buy it to travel by train, bus or plane.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "ticket"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el verbo correcto: 'We ___ to Madrid next week.' (viajar)",
+          "prompt_target": "Fill in the blank with the correct verb: 'We ___ to Madrid next week.' (viajar)",
+          "options": null,
+          "correct_answer": "travel",
+          "explanation_form": "'Travel' significa viajar. La frase completa es 'We travel to Madrid next week'.",
+          "explanation_target": "'Travel' means viajar. The full sentence is 'We travel to Madrid next week'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "travel_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "leave",
+            "at",
+            "eight",
+            "o'clock",
+            "."
+          ],
+          "correct_answer": "I leave at eight o'clock.",
+          "explanation_form": "El orden básico es: sujeto + verbo + complemento. 'Leave' significa salir o partir, y 'at eight o'clock' indica la hora.",
+          "explanation_target": "The basic order is: subject + verb + complement. 'Leave' means salir or partir, and 'at eight o'clock' indicates the time.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "leave_verb",
+            "oclock_adv"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I visit my family'?",
+          "prompt_target": "What does 'I visit my family' mean?",
+          "options": [
+            "Visito a mi familia",
+            "Vivo con mi familia",
+            "Llamo a mi familia",
+            "Extraño a mi familia"
+          ],
+          "correct_answer": "Visito a mi familia",
+          "explanation_form": "'Visit' significa visitar. 'My family' es mi familia. La frase completa es 'Visito a mi familia'.",
+          "explanation_target": "'Visit' means visitar. 'My family' is mi familia. The full sentence is 'Visito a mi familia'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "visit_verb",
+            "family"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice en español 'I stay at the hotel'?",
+          "prompt_target": "How do you say 'I stay at the hotel' in Spanish?",
+          "options": null,
+          "correct_answer": "Me quedo en el hotel",
+          "explanation_form": "'Stay' significa quedarse o permanecer. 'At the hotel' es en el hotel.",
+          "explanation_target": "'Stay' means quedarse or permanecer. 'At the hotel' is en el hotel.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "stay_verb",
+            "hotel"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "map",
+            "mapa",
+            "stop",
+            "parada",
+            "vacation",
+            "vacaciones",
+            "tourist",
+            "turista"
+          ],
+          "correct_answer": [
+            "map=mapa",
+            "stop=parada",
+            "vacation=vacaciones",
+            "tourist=turista"
+          ],
+          "explanation_form": "Estas palabras son útiles para viajar: map (mapa), stop (parada), vacation (vacaciones) y tourist (turista).",
+          "explanation_target": "These words are useful for traveling: map (mapa), stop (parada), vacation (vacaciones) and tourist (turista).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "map",
+            "stop",
+            "vacation",
+            "tourist"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la palabra correcta: 'The bus ___ is on Main Street.' (parada)",
+          "prompt_target": "Fill in the blank with the correct word: 'The bus ___ is on Main Street.' (parada)",
+          "options": null,
+          "correct_answer": "stop",
+          "explanation_form": "'Stop' significa parada. 'The bus stop' es la parada de autobús.",
+          "explanation_target": "'Stop' means parada. 'The bus stop' is la parada de autobús.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "stop",
+            "bus"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'return'?",
+          "prompt_target": "What is the meaning of 'return'?",
+          "options": [
+            "regresar",
+            "salir",
+            "comprar",
+            "esperar"
+          ],
+          "correct_answer": "regresar",
+          "explanation_form": "'Return' significa regresar o volver. Por ejemplo, 'I return home' es 'Regreso a casa'.",
+          "explanation_target": "'Return' means regresar or volver. For example, 'I return home' is 'Regreso a casa'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "return_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Preposiciones de movimiento: by, with, to\n\nPara hablar de transporte, la preposición **by** es tu mejor amiga. La usamos para decir CÓMO viajamos: **by car** (en coche), **by bus** (en autobús), **by train** (en tren), **by taxi** (en taxi). ¡Ojo! No decimos \"by the car\" ni \"by a bus\". Con **by** + medio de transporte, NO usamos artículo. Es un error muy común entre hispanohablantes, así que repítelo: \"I go to work by bus\", no \"I go to work by the bus\".\n\nLa preposición **to** indica DESTINO o dirección. La combinamos con verbos de movimiento: **go to** (ir a), **travel to** (viajar a), **return to** (volver a). Por ejemplo: \"I travel to the city by train\". Y **with** significa \"con\" y la usamos para compañía: \"I travel with my family\". Fíjate en la estructura completa: **travel + to + lugar + by + transporte + with + persona**.\n\n## Preguntas WH para viajar\n\nPara comprar billetes o pedir información, necesitas las preguntas WH. Las más útiles para viajar son: **Where** (dónde), **When** (cuándo), **What** (qué), **How much** (cuánto cuesta) y **What time** (a qué hora). Ejemplos reales: \"Where is the station?\" (¿Dónde está la estación?), \"When does the train leave?\" (¿Cuándo sale el tren?), \"How much is a ticket?\" (¿Cuánto cuesta un billete?).\n\nRecuerda la estructura: **WH + verbo auxiliar + sujeto + verbo principal**. Para A1, lo más práctico es memorizar frases hechas: \"Where is...?\", \"When does...?\", \"How much is...?\". Así sonarás natural desde el principio sin pensar demasiado en la gramática.\n\n## Conjunciones: when y while\n\n**When** (cuando) y **while** (mientras) conectan dos acciones. **When** se usa para una acción que ocurre en un momento concreto: \"When I travel, I buy a ticket\" (Cuando viajo, compro un billete). **While** se usa para dos acciones que ocurren al mismo tiempo: \"While I wait for the bus, I read a map\" (Mientras espero el autobús, leo un mapa).\n\nPara nivel A1, no te preocupes por los tiempos verbales complejos. Usa el presente simple en ambas partes de la frase: \"When I visit a city, I stay in a hotel\". Es correcto y natural. Más adelante aprenderás a combinar otros tiempos.\n\n## Vocabulario clave: verbos y sustantivos\n\nEsta lección tiene verbos muy útiles: **leave** (salir/partir), **return** (volver), **travel** (viajar), **visit** (visitar) y **stay** (quedarse). Fíjate en la diferencia entre **leave** y **return**: \"The train leaves at 9\" (El tren sale a las 9) vs \"I return home at 6\" (Vuelvo a casa a las 6).\n\nLos sustantivos importantes son: **station** (estación), **ticket** (billete), **stop** (parada), **trip** (viaje), **vacation** (vacaciones), **tourist** (turista) y **map** (mapa). Un truco: **trip** es un viaje concreto (\"a trip to the beach\"), mientras que **travel** es el acto general de viajar (\"I love to travel\"). Y recuerda: **early** (temprano) y **late** (tarde) son adjetivos que describen tiempo: \"The bus is early\" (El autobús llega temprano), \"The train is late\" (El tren llega tarde).\n\n## Errores comunes y trucos de memoria\n\n**Error 1**: Decir \"I go by foot\". Lo correcto es \"I walk\" (camino) o \"on foot\". **Error 2**: Confundir **station** y **stop**. **Station** es una estación grande (de tren), **stop** es una parada pequeña (de autobús). **Error 3**: Usar \"make a trip\" en lugar de \"take a trip\" (hacer un viaje).\n\n**Truco de memoria**: Piensa en **by** como \"en\" para transporte: by car = en coche. Y asocia **leave** con \"irse\" y **return** con \"regresar\". Para recordar **early** y **late**, piensa en \"early bird\" (madrugador) y \"late night\" (noche tarde). Practica con frases de la vida real: \"I take the bus to work\", \"She travels by train to Madrid\", \"We visit the museum when we are on vacation\".",
+  "metadata": {
+    "generated_at": "2026-08-11T18:19:35Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

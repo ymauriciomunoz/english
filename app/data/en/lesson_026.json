@@ -1,0 +1,1431 @@
+{
+  "id": "lesson_026",
+  "position": 27,
+  "unit_id": 6,
+  "course_id": "en.A1",
+  "title_form": "Make plans with friends (going to)",
+  "title_target": "Hacer planes con amigos (going to)",
+  "theme_focus": "Make plans with friends (going to)",
+  "learning_objectives": [
+    "Can talk about future plans using going to and propose activities with friends."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_010",
+    "lesson_019"
+  ],
+  "grammar_focus": [
+    "going_to_affirmative (I'm going to travel next week, She's going to study)",
+    "going_to_negative (I'm not going to work, He isn't going to come)",
+    "going_to_yes_no (Are you going to study?, Is she going to travel?)",
+    "going_to_wh_questions (What are you going to do?, Where are you going to go?, When are you going to leave?)",
+    "time_expressions_for_future (tomorrow, next week, this weekend, tonight)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "going_to_verb",
+        "tomorrow",
+        "weekend",
+        "week",
+        "next_adv"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "back",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "better_adj",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "body",
+        "book",
+        "bored_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "early_adj_2",
+        "eat_verb",
+        "evening",
+        "exam",
+        "excited_adj",
+        "excuse_me_interj",
+        "expensive_adj",
+        "eye",
+        "face",
+        "family",
+        "father",
+        "feel_verb",
+        "feet",
+        "film",
+        "fine_adj",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "foot",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "great_adj",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hand",
+        "happy_adj",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "head",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "hungry_adj",
+        "hurt_verb",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "listen_to_music_phrase",
+        "live_verb",
+        "look_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "run_verb",
+        "running",
+        "sad_adj",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "sick_adj",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "sleep_verb",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "teeth_2",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "thirsty_adj",
+        "three_num",
+        "ticket",
+        "time",
+        "tired_adj",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tooth",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "well_adv",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "wonderful_adj",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante colombiana de 24 años, está en un café en Madrid esperando a su amiga inglesa Emma. Sofía está un poco nerviosa porque quiere invitar a Emma al cine el fin de semana, pero no está segura de cómo decirlo en inglés. Emma llega y le sonríe, y Sofía respira hondo y le pregunta: \"Emma, what are you going to do this weekend?\" Emma responde con entusiasmo y le propone ir juntas al parque. Sofía se siente aliviada y feliz porque entendió todo y pudo hacer su invitación.",
+  "introduction_md": "¿Qué vas a hacer este fin de semana? Imagina que un amigo te pregunta eso en inglés. ¿Sabrías responderle con seguridad? En esta lección vas a aprender a hablar de tus planes futuros usando *going to*, una estructura que los nativos usan a diario para contar lo que harán mañana, el próximo fin de semana o la semana que viene. Ya sabes hablar del presente con *be* y del pasado con *yesterday*; ahora es momento de dar el salto al futuro. Con *going to* podrás invitar a tus amigos al cine, al parque o a tomar un café, y también entender sus planes. Al final de la lección, no solo sabrás formar frases afirmativas y negativas, sino que podrás hacer preguntas y responder con naturalidad. Prepárate para planear tu próxima salida con amigos, ¡pero ahora en inglés!",
+  "intro_target": "What are you going to do this weekend? Imagine a friend asks you that in English. Would you know how to answer with confidence? In this lesson, you are going to learn how to talk about your future plans using *going to*, a structure that native speakers use every day to say what they will do tomorrow, next weekend, or next week. You already know how to talk about the present with *be* and about the past with *yesterday*; now it is time to jump into the future. With *going to*, you will be able to invite your friends to the movies, to the park, or for a coffee, and also understand their plans. By the end of the lesson, you will not only know how to form affirmative and negative sentences, but you will also be able to ask questions and answer naturally. Get ready to plan your next outing with friends, but now in English!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I'm going to travel next week.",
+      "translation_form": "Voy a viajar la próxima semana.",
+      "highlight_words": [
+        "week"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She's going to study tomorrow.",
+      "translation_form": "Ella va a estudiar mañana.",
+      "highlight_words": [
+        "tomorrow"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I'm not going to work this weekend.",
+      "translation_form": "No voy a trabajar este fin de semana.",
+      "highlight_words": [
+        "weekend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He isn't going to come to the party.",
+      "translation_form": "Él no va a venir a la fiesta.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Are you going to study tonight?",
+      "translation_form": "¿Vas a estudiar esta noche?",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Is she going to travel tomorrow?",
+      "translation_form": "¿Ella va a viajar mañana?",
+      "highlight_words": [
+        "tomorrow"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What are you going to do this weekend?",
+      "translation_form": "¿Qué vas a hacer este fin de semana?",
+      "highlight_words": [
+        "weekend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Where are you going to go next week?",
+      "translation_form": "¿A dónde vas a ir la próxima semana?",
+      "highlight_words": [
+        "week"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "When are you going to leave?",
+      "translation_form": "¿Cuándo vas a salir?",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We're going to visit the museum tomorrow.",
+      "translation_form": "Vamos a visitar el museo mañana.",
+      "highlight_words": [
+        "tomorrow"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_011",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They're going to play football this weekend.",
+      "translation_form": "Ellos van a jugar fútbol este fin de semana.",
+      "highlight_words": [
+        "weekend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_012",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I'm going to cook dinner tonight.",
+      "translation_form": "Voy a cocinar la cena esta noche.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "going_to_affirmative",
+      "title_form": "Going to: planes futuros (afirmativo)",
+      "title_target": "Going to: future plans (affirmative)",
+      "description_md_form": "Usamos **going to** para hablar de **planes futuros** que ya tenemos en mente. La estructura es: **sujeto + verbo to be (am/is/are) + going to + verbo en infinitivo**.\n\nPor ejemplo: *I'm going to travel next week.* (Voy a viajar la próxima semana). *She's going to study tomorrow.* (Ella va a estudiar mañana).\n\nEl verbo **to be** cambia según el sujeto: **I am**, **he/she/it is**, **you/we/they are**. En conversación, solemos usar las formas cortas: **I'm**, **she's**, **we're**.\n\n**Going to** es perfecto para planes concretos: con amigos, para el fin de semana, para la próxima semana. ¡Es muy común en inglés!",
+      "description_md_target": "We use **going to** to talk about **future plans** we already have in mind. The structure is: **subject + verb to be (am/is/are) + going to + infinitive verb**.\n\nFor example: *I'm going to travel next week.* *She's going to study tomorrow.*\n\nThe verb **to be** changes with the subject: **I am**, **he/she/it is**, **you/we/they are**. In conversation, we often use short forms: **I'm**, **she's**, **we're**.\n\n**Going to** is perfect for concrete plans: with friends, for the weekend, for next week. It's very common in English!",
+      "grammar_structure": "Subject + am/is/are + going to + base verb",
+      "conjugation_table": {
+        "name": "going_to_affirmative",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "am going to travel",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "are going to travel",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "is going to travel",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "are going to travel",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "are going to travel",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "going_to_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I'm going to travel next week.",
+          "translation_form": "Voy a viajar la próxima semana.",
+          "highlight_words": [
+            "going",
+            "to",
+            "travel",
+            "next",
+            "week"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "going_to_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She's going to study tomorrow.",
+          "translation_form": "Ella va a estudiar mañana.",
+          "highlight_words": [
+            "going",
+            "to",
+            "study",
+            "tomorrow"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip**: En inglés, **going to** no cambia. Solo cambia el verbo **to be** (am/is/are). No digas *I going to* — siempre necesitas el verbo **to be**."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: No digas *I am going to to travel*. Solo un **to** después de **going**. La estructura es: **going to + verbo**."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el verbo to be: *I going to travel* en lugar de *I'm going to travel*.",
+        "Usar dos 'to': *I'm going to to study* en lugar de *I'm going to study*.",
+        "Confundir 'going to' con el presente continuo: *I'm going to the store* (voy a la tienda ahora) vs *I'm going to travel* (voy a viajar en el futuro)."
+      ]
+    },
+    {
+      "slug": "going_to_negative",
+      "title_form": "Going to en negativo: no voy a...",
+      "title_target": "Going to in negative: I'm not going to...",
+      "description_md_form": "Para decir que **no** vas a hacer algo en el futuro, usamos **not** después del verbo **to be**. La estructura es: **sujeto + to be + not + going to + verbo**. Por ejemplo: *I'm not going to work this weekend* (No voy a trabajar este fin de semana). Observa que **not** va entre el verbo *to be* y *going to*. En inglés, la contracción más común es **isn't** para *he/she/it* y **aren't** para *you/we/they*. Para *I*, usamos **'m not**. Recuerda: el verbo después de *going to* siempre va en su forma base, sin cambios.",
+      "description_md_target": "To say you are **not** going to do something in the future, use **not** after the verb **to be**. The structure is: **subject + to be + not + going to + verb**. For example: *I'm not going to work this weekend*. Notice that **not** goes between the verb *to be* and *going to*. In English, the most common contractions are **isn't** for *he/she/it* and **aren't** for *you/we/they*. For *I*, we use **'m not**. Remember: the verb after *going to* is always in its base form.",
+      "grammar_structure": "Subject + to be + not + going to + base verb",
+      "conjugation_table": {
+        "name": "going_to_negative",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "am not going to",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "is not (isn't) going to",
+            "notes": null
+          },
+          {
+            "pronoun": "You/We/They",
+            "form": "are not (aren't) going to",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "going_to_negative",
+          "text_target": "I'm not going to work this weekend.",
+          "translation_form": "No voy a trabajar este fin de semana.",
+          "highlight_words": [
+            "not",
+            "going",
+            "to"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "going_to_negative",
+          "text_target": "He isn't going to come to the party.",
+          "translation_form": "Él no va a venir a la fiesta.",
+          "highlight_words": [
+            "isn't",
+            "going",
+            "to"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas:** *I no am going to...* **Di:** *I'm not going to...* En inglés, la negación va con el verbo *to be*, no con *no*."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** *isn't* es la contracción de *is not*, y *aren't* es la de *are not*. Son muy comunes en conversación."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'no' en lugar de 'not': *I no am going to study* → *I'm not going to study*.",
+        "Olvidar el verbo 'to be': *I not going to work* → *I'm not going to work*.",
+        "Poner 'not' después de 'going to': *I'm going to not work* → *I'm not going to work*."
+      ]
+    },
+    {
+      "slug": "going_to_yes_no",
+      "title_form": "Preguntas con going to (¿Vas a...?)",
+      "title_target": "Yes/No questions with going to",
+      "description_md_form": "Para hacer una **pregunta** con *going to*, ponemos el verbo **to be** al principio de la oración. La estructura es: **Am/Is/Are + sujeto + going to + verbo**.\n\nPor ejemplo: *Are you going to study tonight?* (¿Vas a estudiar esta noche?). La respuesta corta es **Yes, I am** o **No, I'm not**.\n\nCon *he*, *she* o *it* usamos **Is**: *Is she going to come?* (¿Ella va a venir?). Con *you*, *we* o *they* usamos **Are**: *Are they going to travel?* (¿Ellos van a viajar?).\n\nRecuerda: la pregunta es para planes futuros, no para acciones del presente.",
+      "description_md_target": "To make a **question** with *going to*, we put the verb **to be** at the beginning of the sentence. The structure is: **Am/Is/Are + subject + going to + verb**.\n\nFor example: *Are you going to study tonight?* The short answer is **Yes, I am** or **No, I'm not**.\n\nWith *he*, *she* or *it* we use **Is**: *Is she going to come?* With *you*, *we* or *they* we use **Are**: *Are they going to travel?*\n\nRemember: the question is about future plans, not present actions.",
+      "grammar_structure": "Am/Is/Are + subject + going to + base verb + ...?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "going_to_yes_no",
+          "text_target": "Are you going to study tomorrow?",
+          "translation_form": "¿Vas a estudiar mañana?",
+          "highlight_words": [
+            "are",
+            "going",
+            "to",
+            "study"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "going_to_yes_no",
+          "text_target": "Is she going to come to the party?",
+          "translation_form": "¿Ella va a venir a la fiesta?",
+          "highlight_words": [
+            "is",
+            "going",
+            "to",
+            "come"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Respuestas cortas**: *Yes, I am* / *No, I'm not*. No digas *Yes, I'm* — la forma corta *I'm* no se usa en respuestas afirmativas cortas."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No olvides el verbo *to be***. En español decimos *¿Vas a estudiar?* sin verbo extra, pero en inglés necesitas *Are you going to study?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *You are going to study?* en vez de *Are you going to study?* — en preguntas, el verbo *to be* va al principio.",
+        "Olvidar el verbo *to be*: *You going to study?* es incorrecto; siempre necesitas *Are you going to study?*",
+        "Usar *Do* en lugar de *Are*: *Do you going to study?* es incorrecto; con *going to* usamos *to be*, no *do*."
+      ]
+    },
+    {
+      "slug": "going_to_wh_questions",
+      "title_form": "Preguntas con Wh- y Going To",
+      "title_target": "Wh- Questions with Going To",
+      "description_md_form": "Para hacer preguntas con **going to**, usamos las palabras interrogativas: **what** (qué), **when** (cuándo), **where** (dónde), **who** (quién) y **how** (cómo).\n\nLa estructura es: **Wh- + am/is/are + sujeto + going to + verbo?**\n\nEjemplos:\n- **What** are you going to do? = ¿Qué vas a hacer?\n- **When** is she going to travel? = ¿Cuándo va a viajar ella?\n- **Where** are they going to go? = ¿Adónde van a ir?\n\nRecuerda que **am** va con *I*, **is** con *he/she/it*, y **are** con *you/we/they*. Las respuestas a estas preguntas son oraciones completas, por ejemplo: 'I'm going to study.'",
+      "description_md_target": "To make questions with **going to**, we use question words: **what**, **when**, **where**, **who** and **how**.\n\nThe structure is: **Wh- + am/is/are + subject + going to + verb?**\n\nExamples:\n- **What** are you going to do?\n- **When** is she going to travel?\n- **Where** are they going to go?\n\nRemember: **am** goes with *I*, **is** with *he/she/it*, and **are** with *you/we/they*. The answers to these questions are complete sentences, for example: 'I'm going to study.'",
+      "grammar_structure": "Wh- + am/is/are + subject + going to + verb?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "going_to_wh_questions",
+          "text_target": "What are you going to do this weekend?",
+          "translation_form": "¿Qué vas a hacer este fin de semana?",
+          "highlight_words": [
+            "what",
+            "are",
+            "going",
+            "to",
+            "do"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "going_to_wh_questions",
+          "text_target": "When is she going to travel next week?",
+          "translation_form": "¿Cuándo va a viajar ella la próxima semana?",
+          "highlight_words": [
+            "when",
+            "is",
+            "going",
+            "to",
+            "travel"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, la palabra interrogativa va SIEMPRE al principio. No digas *You are going to do what?* — di *What are you going to do?*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No olvides el verbo **to be** antes de *going to*. *What you going to do?* es incorrecto. Siempre: *What **are** you going to do?*"
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el verbo to be: *What you going to do?* en vez de *What are you going to do?*",
+        "Poner la palabra interrogativa al final: *You are going to do what?* en vez de *What are you going to do?*",
+        "Usar *do* en lugar de *to be*: *What do you going to do?* en vez de *What are you going to do?*",
+        "Confundir *when* (cuándo) con *where* (dónde): *Where are you going to travel?* pregunta el lugar, no el tiempo."
+      ]
+    },
+    {
+      "slug": "time_expressions_for_future",
+      "title_form": "Expresiones de tiempo para el futuro",
+      "title_target": "Time expressions for the future",
+      "description_md_form": "Para hablar de planes futuros con **going to**, usamos expresiones de tiempo que indican **cuándo** va a pasar algo. Las más comunes son: **tomorrow** (mañana), **this weekend** (este fin de semana), **next week** (la próxima semana) y **next year** (el próximo año).\n\nEstas expresiones van **al final de la oración** o **al principio** para dar énfasis. Por ejemplo: *I'm going to study tomorrow.* (Voy a estudiar mañana.) o *Next week, we're going to travel.* (La próxima semana, vamos a viajar.)\n\nRecuerda: **next** se usa con días, semanas, meses y años para hablar del futuro. No uses **last** para el futuro, porque significa \"pasado\".",
+      "description_md_target": "To talk about future plans with **going to**, we use time expressions that indicate **when** something is going to happen. The most common ones are: **tomorrow** (mañana), **this weekend** (este fin de semana), **next week** (la próxima semana) and **next year** (el próximo año).\n\nThese expressions go **at the end of the sentence** or **at the beginning** for emphasis. For example: *I'm going to study tomorrow.* or *Next week, we're going to travel.*\n\nRemember: **next** is used with days, weeks, months and years to talk about the future. Don't use **last** for the future, because it means \"past\".",
+      "grammar_structure": "Subject + going to + verb + time expression",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "going_to_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I'm going to travel next week.",
+          "translation_form": "Voy a viajar la próxima semana.",
+          "highlight_words": [
+            "going",
+            "to",
+            "travel",
+            "next",
+            "week"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "tomorrow",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She's going to study tomorrow.",
+          "translation_form": "Ella va a estudiar mañana.",
+          "highlight_words": [
+            "going",
+            "to",
+            "study",
+            "tomorrow"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, **next** va antes de la palabra de tiempo: *next week*, *next month*, *next year*. No digas *week next*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No uses **last** para el futuro. *Last week* significa \"la semana pasada\". Para el futuro, usa **next**: *next week*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'week next' en lugar de 'next week'. El orden correcto es next + tiempo.",
+        "Usar 'last' para el futuro. 'Last week' es pasado; para futuro es 'next week'.",
+        "Olvidar la coma cuando la expresión de tiempo va al principio: 'Next week, I'm going to travel.'",
+        "Confundir 'tomorrow' (mañana, futuro) con 'yesterday' (ayer, pasado)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'tomorrow'?",
+      "options": [
+        "mañana",
+        "hoy",
+        "ayer",
+        "noche"
+      ],
+      "correct_answer": "mañana",
+      "explanation_md": "'Tomorrow' significa 'mañana' en español.",
+      "related_lexeme_ids": [
+        "tomorrow"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'weekend'?",
+      "options": [
+        "semana",
+        "fin de semana",
+        "mes",
+        "día"
+      ],
+      "correct_answer": "fin de semana",
+      "explanation_md": "'Weekend' se refiere al sábado y domingo, el fin de semana.",
+      "related_lexeme_ids": [
+        "weekend"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta para decir 'Voy a viajar'?",
+      "options": [
+        "I'm going to travel.",
+        "I going to travel.",
+        "I'm go to travel.",
+        "I'm going travel."
+      ],
+      "correct_answer": "I'm going to travel.",
+      "explanation_md": "La estructura es: sujeto + am/is/are + going to + verbo. 'I'm going to travel' es correcto.",
+      "related_lexeme_ids": [
+        "going_to_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cómo preguntas '¿Vas a estudiar mañana?'",
+      "options": [
+        "Are you going to study tomorrow?",
+        "You are going to study tomorrow?",
+        "Do you going to study tomorrow?",
+        "Are you go to study tomorrow?"
+      ],
+      "correct_answer": "Are you going to study tomorrow?",
+      "explanation_md": "Para preguntas sí/no con 'going to', invertimos el verbo 'to be' y el sujeto: Are you going to...?",
+      "related_lexeme_ids": [
+        "going_to_verb",
+        "tomorrow"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'She ____ going to visit her family.' (Ella va a visitar a su familia.)",
+      "options": null,
+      "correct_answer": "is",
+      "explanation_md": "Con 'she' (ella), usamos 'is' como verbo 'to be' en la estructura 'going to'.",
+      "related_lexeme_ids": [
+        "going_to_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I'm not going to work this ____.' (No voy a trabajar esta semana.)",
+      "options": null,
+      "correct_answer": "week",
+      "explanation_md": "'Week' significa 'semana'. La frase completa es 'this week' (esta semana).",
+      "related_lexeme_ids": [
+        "week"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Voy a estudiar el próximo fin de semana.'",
+      "options": null,
+      "correct_answer": "I'm going to study next weekend.",
+      "explanation_md": "Usamos 'I'm going to' para planes futuros y 'next weekend' para 'el próximo fin de semana'.",
+      "related_lexeme_ids": [
+        "going_to_verb",
+        "weekend",
+        "next_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Qué vas a hacer mañana?'",
+      "options": null,
+      "correct_answer": "What are you going to do tomorrow?",
+      "explanation_md": "Para preguntas con 'what', usamos: What + are + sujeto + going to + verbo?",
+      "related_lexeme_ids": [
+        "going_to_verb",
+        "tomorrow"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "tomorrow",
+        "mañana",
+        "weekend",
+        "fin de semana",
+        "week",
+        "semana",
+        "next",
+        "próximo"
+      ],
+      "correct_answer": [
+        "tomorrow=mañana",
+        "weekend=fin de semana",
+        "week=semana",
+        "next=próximo"
+      ],
+      "explanation_md": "Estas son las palabras de tiempo para hablar del futuro.",
+      "related_lexeme_ids": [
+        "tomorrow",
+        "weekend",
+        "week",
+        "next_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada expresión con su traducción:",
+      "options": [
+        "I'm going to travel",
+        "Voy a viajar",
+        "She isn't going to work",
+        "Ella no va a trabajar",
+        "Are you going to study?",
+        "¿Vas a estudiar?",
+        "We're going to eat",
+        "Vamos a comer"
+      ],
+      "correct_answer": [
+        "I'm going to travel=Voy a viajar",
+        "She isn't going to work=Ella no va a trabajar",
+        "Are you going to study?=¿Vas a estudiar?",
+        "We're going to eat=Vamos a comer"
+      ],
+      "explanation_md": "Estas son las formas afirmativa, negativa e interrogativa de 'going to'.",
+      "related_lexeme_ids": [
+        "going_to_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'He's going to play football next week.'",
+      "options": null,
+      "correct_answer": "Él va a jugar fútbol la próxima semana.",
+      "explanation_md": "'He's going to' = 'Él va a', 'play football' = 'jugar fútbol', 'next week' = 'la próxima semana'.",
+      "related_lexeme_ids": [
+        "going_to_verb",
+        "week",
+        "next_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Are they going to visit the museum this weekend?'",
+      "options": null,
+      "correct_answer": "¿Van a visitar el museo este fin de semana?",
+      "explanation_md": "Es una pregunta sí/no con 'they' (ellos). 'This weekend' = 'este fin de semana'.",
+      "related_lexeme_ids": [
+        "going_to_verb",
+        "weekend"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "going to",
+      "back": "ir a (planes futuros)",
+      "hint": "se usa para hablar de planes",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "A1",
+        "future"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "tomorrow",
+      "back": "mañana",
+      "hint": "el día después de hoy",
+      "lexeme_id": "tomorrow",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "weekend",
+      "back": "fin de semana",
+      "hint": "sábado y domingo",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "week",
+      "back": "semana",
+      "hint": "siete días",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "next",
+      "back": "luego; próximo",
+      "hint": "indica el siguiente en el tiempo",
+      "lexeme_id": "next_adv",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "going to",
+      "reading": "",
+      "translation": "ir a (planes futuros)",
+      "pos": "verb",
+      "example": "I'm going to travel next week.",
+      "example_translation": "Voy a viajar la próxima semana.",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tomorrow",
+      "reading": "",
+      "translation": "mañana",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "tomorrow",
+      "chunk_id": null
+    },
+    {
+      "target_word": "weekend",
+      "reading": "",
+      "translation": "fin de semana",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "weekend",
+      "chunk_id": null
+    },
+    {
+      "target_word": "week",
+      "reading": "",
+      "translation": "semana",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "week",
+      "chunk_id": null
+    },
+    {
+      "target_word": "next",
+      "reading": "",
+      "translation": "luego; próximo",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "next_adv",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Make plans with friends (going to)",
+      "title_target": "Quiz: Making plans with friends (going to)",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "am",
+            "going",
+            "to",
+            "travel",
+            "tomorrow"
+          ],
+          "correct_answer": "I am going to travel tomorrow",
+          "explanation_form": "La estructura para el futuro con 'going to' es: sujeto + am/is/are + going to + verbo. 'Tomorrow' va al final.",
+          "explanation_target": "The structure for the future with 'going to' is: subject + am/is/are + going to + verb. 'Tomorrow' goes at the end.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "going_to_verb",
+            "tomorrow",
+            "going_to_affirmative"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ you going to visit your family this weekend?'",
+          "prompt_target": "Complete the question: '____ you going to visit your family this weekend?'",
+          "options": null,
+          "correct_answer": "Are",
+          "explanation_form": "Para preguntas de sí/no con 'going to', usamos 'Are' con 'you'. La estructura es: Are + sujeto + going to + verbo.",
+          "explanation_target": "For yes/no questions with 'going to', we use 'Are' with 'you'. The structure is: Are + subject + going to + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "going_to_yes_no",
+            "weekend",
+            "going_to_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'No voy a trabajar la próxima semana.'",
+          "prompt_target": "Translate to English: 'No voy a trabajar la próxima semana.'",
+          "options": null,
+          "correct_answer": "I am not going to work next week",
+          "explanation_form": "La negación con 'going to' se forma con 'not' después de 'am/is/are'. 'Next week' se usa para referirse a la próxima semana.",
+          "explanation_target": "The negative with 'going to' is formed with 'not' after 'am/is/are'. 'Next week' is used to refer to the coming week.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "going_to_negative",
+            "next_adv",
+            "week",
+            "work_verb"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para preguntar sobre planes?",
+          "prompt_target": "Which is the correct question to ask about plans?",
+          "options": [
+            "What are you going to do this weekend?",
+            "What you are going to do this weekend?",
+            "What are you go to do this weekend?",
+            "What you going to do this weekend?"
+          ],
+          "correct_answer": "What are you going to do this weekend?",
+          "explanation_form": "En preguntas WH con 'going to', la estructura es: WH + am/is/are + sujeto + going to + verbo. 'What are you going to do...?' es la forma correcta.",
+          "explanation_target": "In WH questions with 'going to', the structure is: WH + am/is/are + subject + going to + verb. 'What are you going to do...?' is the correct form.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "going_to_wh_questions",
+            "weekend",
+            "going_to_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada expresión de tiempo con su traducción:",
+          "prompt_target": "Match each time expression with its translation:",
+          "options": [
+            "tomorrow",
+            "mañana",
+            "next week",
+            "la próxima semana",
+            "this weekend",
+            "este fin de semana"
+          ],
+          "correct_answer": [
+            "tomorrow=mañana",
+            "next week=la próxima semana",
+            "this weekend=este fin de semana"
+          ],
+          "explanation_form": "Estas expresiones de tiempo se usan con 'going to' para hablar del futuro cercano.",
+          "explanation_target": "These time expressions are used with 'going to' to talk about the near future.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "tomorrow",
+            "next_adv",
+            "week",
+            "weekend",
+            "time_expressions_for_future"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la forma correcta de 'going to': 'She ____ going to study at the university next year.'",
+          "prompt_target": "Complete with the correct form of 'going to': 'She ____ going to study at the university next year.'",
+          "options": null,
+          "correct_answer": "is",
+          "explanation_form": "Con 'she' (tercera persona singular), usamos 'is' con 'going to'. La estructura es: She + is + going to + verbo.",
+          "explanation_target": "With 'she' (third person singular), we use 'is' with 'going to'. The structure is: She + is + going to + verb.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "going_to_affirmative",
+            "next_adv",
+            "year",
+            "university"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Qué significa 'I am going to visit my friend tomorrow'?",
+          "prompt_target": "What does 'I am going to visit my friend tomorrow' mean?",
+          "options": null,
+          "correct_answer": "Voy a visitar a mi amigo mañana",
+          "explanation_form": "'Going to' expresa un plan futuro. 'Visit my friend' = visitar a mi amigo, 'tomorrow' = mañana.",
+          "explanation_target": "'Going to' expresses a future plan. 'Visit my friend' = visit my friend, 'tomorrow' = tomorrow.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "going_to_verb",
+            "tomorrow",
+            "visit_verb",
+            "friend"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma negativa correcta?",
+          "prompt_target": "Which is the correct negative form?",
+          "options": [
+            "I am not going to work tomorrow",
+            "I not am going to work tomorrow",
+            "I am going to not work tomorrow",
+            "I am going not to work tomorrow"
+          ],
+          "correct_answer": "I am not going to work tomorrow",
+          "explanation_form": "La negación se forma poniendo 'not' después de 'am/is/are': am not going to + verbo.",
+          "explanation_target": "The negative is formed by putting 'not' after 'am/is/are': am not going to + verb.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "going_to_negative",
+            "tomorrow",
+            "work_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta:",
+          "prompt_target": "Order the words to form a question:",
+          "options": [
+            "Are",
+            "you",
+            "going",
+            "to",
+            "cook",
+            "dinner",
+            "tonight"
+          ],
+          "correct_answer": "Are you going to cook dinner tonight",
+          "explanation_form": "Para preguntas de sí/no, 'Are' va al inicio: Are + sujeto + going to + verbo + complemento.",
+          "explanation_target": "For yes/no questions, 'Are' goes at the beginning: Are + subject + going to + verb + complement.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "going_to_yes_no",
+            "cook_verb",
+            "dinner"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta WH: '____ are you going to travel next week?'",
+          "prompt_target": "Complete the WH question: '____ are you going to travel next week?'",
+          "options": null,
+          "correct_answer": "When",
+          "explanation_form": "'When' se usa para preguntar por el tiempo. La estructura es: When + are + sujeto + going to + verbo.",
+          "explanation_target": "'When' is used to ask about time. The structure is: When + are + subject + going to + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "going_to_wh_questions",
+            "next_adv",
+            "week",
+            "travel_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El plan con 'going to': tu futuro inmediato\n\nCuando hablamos de planes que ya tenemos decididos, el inglés usa **'going to' + verbo**. En español, muchas veces usamos el presente ('mañana voy al parque') o el futuro ('mañana iré al parque'). En inglés, para un plan concreto, lo natural es: **'I'm going to go to the park tomorrow'**. Fíjate que el verbo 'go' aparece dos veces: una como parte de 'going to' y otra como verbo principal. Es normal y suena muy natural.\n\n## La estructura: sujeto + be + going to + verbo\n\nLa clave es que **'going to' siempre va con el verbo 'to be'** (am, is, are). No lo olvides: 'I **am** going to', 'She **is** going to', 'They **are** going to'. Para negar, solo añade 'not': 'I'm **not** going to'. Para preguntar, invierte el orden: '**Are** you going to...?'. Y para preguntas con información, usa 'What', 'Where', 'When' al principio: '**Where** are you going to go?'.\n\n## Errores comunes de hispanohablantes\n\nEl error más típico es olvidar el verbo 'to be': decimos 'I going to' en lugar de 'I **am** going to'. Otro error es usar 'will' para planes ya decididos. Recuerda: 'will' es para decisiones del momento, 'going to' para planes. Por ejemplo, si ya compraste las entradas, dices 'We're going to see a movie'. Si decides en ese instante, dices 'I'll see a movie'.\n\n## Expresiones de tiempo: tomorrow, weekend, week\n\nPara situar tus planes en el tiempo, usa palabras como **'tomorrow'** (mañana), **'this weekend'** (este fin de semana) o **'next week'** (la próxima semana). Estas expresiones van al final o al principio de la oración: 'I'm going to visit my family **this weekend**' o '**Next week**, we're going to travel'. No necesitas preposición antes de 'tomorrow' o 'next'.\n\n## Conecta con tu vida real\n\nPiensa en tus planes reales: 'I'm going to have dinner with my friends tonight', 'We're going to go to the beach this weekend'. Practica contando tus planes en voz alta. Usa las preguntas del quiz para crear mini-diálogos: 'What are you going to do tomorrow?', 'Are you going to study this weekend?'. Así el inglés se vuelve una herramienta para tu vida, no solo una lección.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:15:07Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

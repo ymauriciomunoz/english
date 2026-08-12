@@ -1,0 +1,1375 @@
+{
+  "id": "lesson_023",
+  "position": 24,
+  "unit_id": 5,
+  "course_id": "en.A1",
+  "title_form": "Body parts",
+  "title_target": "Partes del cuerpo",
+  "theme_focus": "Body parts",
+  "learning_objectives": [
+    "Can name body parts and use them to describe people or express possession (have got)."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_003",
+    "lesson_004"
+  ],
+  "grammar_focus": [
+    "have_got_for_body_parts (I've got brown eyes, She has got long hair)",
+    "plural_body_parts (one tooth / two teeth, one foot / two feet)",
+    "a_vs_an_with_body_parts (an eye, an ear, an arm — silent h, vowel sound)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "head",
+        "face",
+        "eye",
+        "hand",
+        "foot",
+        "back",
+        "body",
+        "tooth",
+        "feet",
+        "teeth_2"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "book",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "early_adj_2",
+        "eat_verb",
+        "evening",
+        "exam",
+        "excuse_me_interj",
+        "expensive_adj",
+        "family",
+        "father",
+        "film",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "listen_to_music_phrase",
+        "live_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "run_verb",
+        "running",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "three_num",
+        "ticket",
+        "time",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante de 22 años de México, está en su clase de inglés en una academia de Madrid. Su profesora, Laura, le pide que describa a su hermano usando las partes del cuerpo. Sofía se pone nerviosa porque no recuerda la palabra para 'hombro' y se queda en blanco. Laura le sonríe y le muestra un dibujo de un cuerpo humano en la pizarra. Sofía respira hondo, señala el dibujo y dice: 'He has big hands and blue eyes'. Laura asiente y la felicita. Al final de la clase, Sofía se siente más segura y contenta de haber aprendido algo nuevo.",
+  "introduction_md": "¿Puedes señalar tu cabeza, tus ojos y tus manos en inglés? En esta lección vas a aprender los nombres de las partes del cuerpo y cómo usarlos para describir a las personas. Ya sabes decir 'I have a brother' y 'She has a car'; ahora vas a usar esa misma estructura para hablar de ti mismo: 'I have blue eyes' o 'He has big hands'. También verás cómo formar el plural de algunas palabras especiales, como 'foot' que se convierte en 'feet', y 'tooth' en 'teeth'. Al final, podrás describir tu cuerpo y el de otras personas con confianza. Este vocabulario te servirá en el médico, en el gimnasio o simplemente para hablar de tu familia y amigos. ¡Vamos a empezar!",
+  "intro_target": "Can you point to your head, your eyes, and your hands in English? In this lesson, you will learn the names of body parts and how to use them to describe people. You already know how to say 'I have a brother' and 'She has a car'; now you will use that same structure to talk about yourself: 'I have blue eyes' or 'He has big hands'. You will also see how to form the plural of some special words, like 'foot' which becomes 'feet', and 'tooth' which becomes 'teeth'. At the end, you will be able to describe your body and other people's bodies with confidence. This vocabulary will help you at the doctor's office, at the gym, or just to talk about your family and friends. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "head",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My head is big.",
+      "translation_form": "Mi cabeza es grande.",
+      "highlight_words": [
+        "head"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "face",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Her face is beautiful.",
+      "translation_form": "Su cara es hermosa.",
+      "highlight_words": [
+        "face"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "eye",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have got an eye.",
+      "translation_form": "Tengo un ojo.",
+      "highlight_words": [
+        "eye"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "hand",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My hand is small.",
+      "translation_form": "Mi mano es pequeña.",
+      "highlight_words": [
+        "hand"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "foot",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have got one foot.",
+      "translation_form": "Tengo un pie.",
+      "highlight_words": [
+        "foot"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "back",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My back is long.",
+      "translation_form": "Mi espalda es larga.",
+      "highlight_words": [
+        "back"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "body",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My body is big.",
+      "translation_form": "Mi cuerpo es grande.",
+      "highlight_words": [
+        "body"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "tooth",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have got one tooth.",
+      "translation_form": "Tengo un diente.",
+      "highlight_words": [
+        "tooth"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "feet",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have got two feet.",
+      "translation_form": "Tengo dos pies.",
+      "highlight_words": [
+        "feet"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "teeth_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She has got white teeth.",
+      "translation_form": "Ella tiene dientes blancos.",
+      "highlight_words": [
+        "teeth"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "have_got_for_body_parts",
+      "title_form": "Have got para partes del cuerpo",
+      "title_target": "Have got for body parts",
+      "description_md_form": "En inglés, para decir que **tienes** algo, usamos **have got**. Es muy común para hablar de las **partes del cuerpo**. La estructura es: **I have got + parte del cuerpo**. Por ejemplo: *I have got a head* (Tengo una cabeza). Para **he** y **she**, usamos **has got**: *She has got a face* (Ella tiene una cara). En preguntas, ponemos **have** o **has** al principio: *Have you got a hand?* (¿Tienes una mano?). Para negar, usamos **have not got** o **has not got**: *I have not got a foot* (No tengo un pie). Recuerda: **have got** y **has got** son solo para posesión y características.",
+      "description_md_target": "In English, to say that you **have** something, we use **have got**. It is very common for talking about **body parts**. The structure is: **I have got + body part**. For example: *I have got a head*. For **he** and **she**, we use **has got**: *She has got a face*. In questions, we put **have** or **has** at the beginning: *Have you got a hand?* To make negatives, we use **have not got** or **has not got**: *I have not got a foot*. Remember: **have got** and **has got** are only for possession and characteristics.",
+      "grammar_structure": "Subject + have/has got + body part",
+      "conjugation_table": {
+        "name": "have_got_present",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She",
+            "form": "has got",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "have got",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "have got",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "have_got_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I have got a head and a face.",
+          "translation_form": "Tengo una cabeza y una cara.",
+          "highlight_words": [
+            "have",
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "she_pronoun",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She has got a hand and a foot.",
+          "translation_form": "Ella tiene una mano y un pie.",
+          "highlight_words": [
+            "has",
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, **have got** y **has got** son muy comunes para hablar del cuerpo. No olvides el **a** antes de la parte del cuerpo: *I have got a head*, no *I have got head*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No confundas *have* y *have got*. Ambos son correctos, pero **have got** es más natural para describir partes del cuerpo."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el artículo 'a' antes de la parte del cuerpo: *I have got head* en lugar de *I have got a head*.",
+        "Usar 'have' en lugar de 'has' con 'he' o 'she': *She have got a face* en lugar de *She has got a face*.",
+        "Confundir el orden en preguntas: *You have got a hand?* en lugar de *Have you got a hand?*."
+      ]
+    },
+    {
+      "slug": "plural_body_parts",
+      "title_form": "El plural de las partes del cuerpo",
+      "title_target": "Plural of body parts",
+      "description_md_form": "En inglés, el plural de la mayoría de las partes del cuerpo se forma añadiendo **-s** o **-es** al final. Por ejemplo: `eye` → `eyes`, `hand` → `hands`. Pero hay excepciones importantes: `foot` → `feet` y `tooth` → `teeth`. \n\nPero hay **excepciones importantes** que debes memorizar: `foot` se convierte en `feet` y `tooth` se convierte en `teeth`. No decimos *foots* ni *tooths*. \n\nCuando hablamos de las partes del cuerpo en plural, no usamos el artículo **a** o **an**. Decimos `I have got blue eyes`, no *I have got a blue eyes*. \n\nRecuerda: el plural se usa para hablar de dos o más cosas. Si tienes un solo ojo, dices `an eye`; si tienes dos, dices `eyes`.",
+      "description_md_target": "In English, the plural of most body parts is formed by adding **-s** or **-es** at the end. For example: `eye` → `eyes`, `hand` → `hands`. But there are important exceptions: `foot` → `feet` and `tooth` → `teeth`. \n\nBut there are **important exceptions** you must memorize: `foot` becomes `feet` and `tooth` becomes `teeth`. We don't say *foots* or *tooths*. \n\nWhen talking about body parts in the plural, we don't use the article **a** or **an**. We say `I have got blue eyes`, not *I have got a blue eyes*. \n\nRemember: the plural is used to talk about two or more things. If you have one eye, you say `an eye`; if you have two, you say `eyes`.",
+      "grammar_structure": "Body part + -s/-es (regular) | foot → feet, tooth → teeth (irregular)",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "feet",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My feet are big.",
+          "translation_form": "Mis pies son grandes.",
+          "highlight_words": [
+            "feet",
+            "big"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "teeth_2",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Her teeth are white.",
+          "translation_form": "Sus dientes son blancos.",
+          "highlight_words": [
+            "teeth",
+            "white"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**¡Cuidado!** No digas *foots* o *tooths*. Las formas correctas son `feet` y `teeth`. Son irregulares y debes memorizarlas."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Cuando uses el plural, no uses el artículo `a` o `an`. Di `I have got two hands`, no *I have got a two hands*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *foots* en lugar de `feet`.",
+        "Decir *tooths* en lugar de `teeth`.",
+        "Usar el artículo `a` o `an` con el plural, como en *a eyes*.",
+        "Olvidar que `hand` y `eye` son regulares: `hands` y `eyes`."
+      ]
+    },
+    {
+      "slug": "a_vs_an_with_body_parts",
+      "title_form": "A vs. An con partes del cuerpo",
+      "title_target": "A vs. An with Body Parts",
+      "description_md_form": "En inglés, usamos **a** o **an** antes de un sustantivo singular. La regla es simple: usamos **a** cuando la palabra empieza con un sonido de **consonante**, y **an** cuando empieza con un sonido de **vocal** (a, e, i, o, u).\n\nCon partes del cuerpo, esto es muy importante. Por ejemplo, decimos **a hand** (una mano) porque \"hand\" empieza con el sonido de la letra **h**. Pero decimos **an eye** (un ojo) porque \"eye\" empieza con el sonido de la letra **e**.\n\n**Recuerda**: la regla se basa en el **sonido**, no en la letra escrita. Por eso decimos **a foot** (un pie) y **an eye** (un ojo).",
+      "description_md_target": "In English, we use **a** or **an** before a singular noun. The rule is simple: we use **a** when the word starts with a **consonant** sound, and **an** when it starts with a **vowel** sound (a, e, i, o, u).\n\nWith body parts, this is very important. For example, we say **a hand** because \"hand\" starts with the sound of the letter **h**. But we say **an eye** because \"eye\" starts with the sound of the letter **e**.\n\n**Remember**: the rule is based on the **sound**, not the written letter. That's why we say **a foot** and **an eye**.",
+      "grammar_structure": "a/an + singular body part",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "eye",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I have got an eye.",
+          "translation_form": "Tengo un ojo.",
+          "highlight_words": [
+            "an",
+            "eye"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "hand",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My hand is small.",
+          "translation_form": "Mi mano es pequeña.",
+          "highlight_words": [
+            "a",
+            "hand"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Piensa en el sonido, no en la letra.** La palabra \"hour\" empieza con 'h', pero suena como 'our', así que decimos *an hour*. Con partes del cuerpo, \"eye\" suena como 'ai', así que decimos *an eye*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas \"a eye\".** Aunque \"eye\" empieza con la letra 'e', el sonido es de vocal, así que necesitas *an*. Decimos *an eye*, no *a eye*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'a eye' en lugar de 'an eye'. El sonido de 'eye' es de vocal, así que necesita 'an'.",
+        "Decir 'an hand' en lugar de 'a hand'. El sonido de 'hand' es de consonante, así que necesita 'a'.",
+        "Confundir la regla: usar 'a' o 'an' según la letra escrita, no según el sonido."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'head'?",
+      "options": [
+        "Cabeza",
+        "Mano",
+        "Pie",
+        "Ojo"
+      ],
+      "correct_answer": "Cabeza",
+      "explanation_md": "'Head' es la parte superior del cuerpo, la cabeza.",
+      "related_lexeme_ids": [
+        "head"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'foot'?",
+      "options": [
+        "Pie",
+        "Mano",
+        "Cabeza",
+        "Espalda"
+      ],
+      "correct_answer": "Pie",
+      "explanation_md": "'Foot' es el pie, la parte del cuerpo con la que caminamos.",
+      "related_lexeme_ids": [
+        "foot"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa: 'I have got two ____.' (Tengo dos pies.)",
+      "options": [
+        "foot",
+        "feet",
+        "foots",
+        "feets"
+      ],
+      "correct_answer": "feet",
+      "explanation_md": "El plural de 'foot' es 'feet'. Es un plural irregular.",
+      "related_lexeme_ids": [
+        "feet",
+        "foot"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es el plural de 'tooth'?",
+      "options": [
+        "tooths",
+        "teeth",
+        "tooth",
+        "teeths"
+      ],
+      "correct_answer": "teeth",
+      "explanation_md": "El plural de 'tooth' es 'teeth'. Es un plural irregular.",
+      "related_lexeme_ids": [
+        "tooth",
+        "teeth_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I have got ____ eye.' (Tengo un ojo.)",
+      "options": null,
+      "correct_answer": "an",
+      "explanation_md": "Usamos 'an' antes de palabras que empiezan con vocal, como 'eye'.",
+      "related_lexeme_ids": [
+        "eye"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'My ____ is big.' (Mi cabeza es grande.)",
+      "options": null,
+      "correct_answer": "head",
+      "explanation_md": "'Head' significa cabeza.",
+      "related_lexeme_ids": [
+        "head"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Tengo una mano.'",
+      "options": null,
+      "correct_answer": "I have got a hand.",
+      "explanation_md": "Usamos 'have got' para expresar posesión. 'Hand' es mano.",
+      "related_lexeme_ids": [
+        "hand",
+        "have_got_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Mi cara es hermosa.'",
+      "options": null,
+      "correct_answer": "My face is beautiful.",
+      "explanation_md": "'Face' es cara y 'beautiful' es hermosa.",
+      "related_lexeme_ids": [
+        "face"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada parte del cuerpo con su traducción:",
+      "options": [
+        "hand",
+        "Mano",
+        "back",
+        "Espalda",
+        "body",
+        "Cuerpo"
+      ],
+      "correct_answer": [
+        "hand=Mano",
+        "back=Espalda",
+        "body=Cuerpo"
+      ],
+      "explanation_md": "Estas son partes del cuerpo en inglés y español.",
+      "related_lexeme_ids": [
+        "hand",
+        "back",
+        "body"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "eye",
+        "Ojo",
+        "foot",
+        "Pie",
+        "tooth",
+        "Diente"
+      ],
+      "correct_answer": [
+        "eye=Ojo",
+        "foot=Pie",
+        "tooth=Diente"
+      ],
+      "explanation_md": "Estas son partes del cuerpo en inglés y español.",
+      "related_lexeme_ids": [
+        "eye",
+        "foot",
+        "tooth"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "¿Qué significa 'I have got two feet.'?",
+      "options": null,
+      "correct_answer": "Tengo dos pies.",
+      "explanation_md": "'Feet' es el plural de 'foot' (pie).",
+      "related_lexeme_ids": [
+        "feet"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "¿Qué significa 'My back is big.'?",
+      "options": null,
+      "correct_answer": "Mi espalda es grande.",
+      "explanation_md": "'Back' significa espalda.",
+      "related_lexeme_ids": [
+        "back"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "head",
+      "back": "cabeza",
+      "hint": "parte superior del cuerpo",
+      "lexeme_id": "head",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "face",
+      "back": "cara / rostro",
+      "hint": "parte delantera de la cabeza",
+      "lexeme_id": "face",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "eye",
+      "back": "ojo",
+      "hint": "órgano de la vista",
+      "lexeme_id": "eye",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "hand",
+      "back": "mano",
+      "hint": "parte del brazo",
+      "lexeme_id": "hand",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "foot",
+      "back": "pie",
+      "hint": "parte de la pierna",
+      "lexeme_id": "foot",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "back",
+      "back": "espalda",
+      "hint": "parte posterior del cuerpo",
+      "lexeme_id": "back",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "body",
+      "back": "cuerpo",
+      "hint": "todo el cuerpo",
+      "lexeme_id": "body",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "tooth",
+      "back": "diente",
+      "hint": "singular de dientes",
+      "lexeme_id": "tooth",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "feet",
+      "back": "pies",
+      "hint": "plural de foot",
+      "lexeme_id": "feet",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "teeth",
+      "back": "dientes",
+      "hint": "plural de tooth",
+      "lexeme_id": "teeth_2",
+      "chunk_id": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "head",
+      "reading": "",
+      "translation": "cabeza",
+      "pos": "noun",
+      "example": "My head is big.",
+      "example_translation": "Mi cabeza es grande.",
+      "lexeme_id": "head",
+      "chunk_id": null
+    },
+    {
+      "target_word": "face",
+      "reading": "",
+      "translation": "cara / rostro",
+      "pos": "noun",
+      "example": "Her face is beautiful.",
+      "example_translation": "Su cara es hermosa.",
+      "lexeme_id": "face",
+      "chunk_id": null
+    },
+    {
+      "target_word": "eye",
+      "reading": "",
+      "translation": "ojo",
+      "pos": "noun",
+      "example": "I have got an eye.",
+      "example_translation": "Tengo un ojo.",
+      "lexeme_id": "eye",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hand",
+      "reading": "",
+      "translation": "mano",
+      "pos": "noun",
+      "example": "My hand is small.",
+      "example_translation": "Mi mano es pequeña.",
+      "lexeme_id": "hand",
+      "chunk_id": null
+    },
+    {
+      "target_word": "foot",
+      "reading": "",
+      "translation": "pie",
+      "pos": "noun",
+      "example": "I have got one foot.",
+      "example_translation": "Tengo un pie.",
+      "lexeme_id": "foot",
+      "chunk_id": null
+    },
+    {
+      "target_word": "back",
+      "reading": "",
+      "translation": "espalda",
+      "pos": "noun",
+      "example": "My back is long.",
+      "example_translation": "Mi espalda es larga.",
+      "lexeme_id": "back",
+      "chunk_id": null
+    },
+    {
+      "target_word": "body",
+      "reading": "",
+      "translation": "cuerpo",
+      "pos": "noun",
+      "example": "My body is big.",
+      "example_translation": "Mi cuerpo es grande.",
+      "lexeme_id": "body",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tooth",
+      "reading": "",
+      "translation": "diente",
+      "pos": "noun",
+      "example": "I have got one tooth.",
+      "example_translation": "Tengo un diente.",
+      "lexeme_id": "tooth",
+      "chunk_id": null
+    },
+    {
+      "target_word": "feet",
+      "reading": "",
+      "translation": "pies",
+      "pos": "noun",
+      "example": "I have got two feet.",
+      "example_translation": "Tengo dos pies.",
+      "lexeme_id": "feet",
+      "chunk_id": null
+    },
+    {
+      "target_word": "teeth",
+      "reading": "",
+      "translation": "dientes",
+      "pos": "noun",
+      "example": "She has got white teeth.",
+      "example_translation": "Ella tiene dientes blancos.",
+      "lexeme_id": "teeth_2",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Partes del cuerpo",
+      "title_target": "Quiz: Body parts",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Qué significa 'head' en español?",
+          "prompt_target": "What does 'head' mean in Spanish?",
+          "options": null,
+          "correct_answer": "cabeza",
+          "explanation_form": "'Head' es la parte superior del cuerpo donde están los ojos, la boca y las orejas.",
+          "explanation_target": "'Head' is the top part of the body where the eyes, mouth and ears are.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "head"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I have got two ____.' (parte del cuerpo para ver)",
+          "prompt_target": "Complete the sentence: 'I have got two ____.' (body part for seeing)",
+          "options": null,
+          "correct_answer": "eyes",
+          "explanation_form": "Usamos 'eyes' en plural porque tenemos dos ojos. 'Eye' es singular.",
+          "explanation_target": "We use 'eyes' in plural because we have two eyes. 'Eye' is singular.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eye",
+            "have_got_for_body_parts",
+            "plural_body_parts"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "have",
+            "got",
+            "a",
+            "hand"
+          ],
+          "correct_answer": "I have got a hand",
+          "explanation_form": "La estructura correcta es: sujeto + have got + artículo + parte del cuerpo.",
+          "explanation_target": "The correct structure is: subject + have got + article + body part.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hand",
+            "have_got_for_body_parts",
+            "a_vs_an_with_body_parts"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el plural de 'foot'?",
+          "prompt_target": "What is the plural of 'foot'?",
+          "options": [
+            "foots",
+            "feet",
+            "footes",
+            "feets"
+          ],
+          "correct_answer": "feet",
+          "explanation_form": "'Foot' es irregular: su plural es 'feet', no 'foots'.",
+          "explanation_target": "'Foot' is irregular: its plural is 'feet', not 'foots'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "foot",
+            "feet",
+            "plural_body_parts"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada parte del cuerpo con su traducción:",
+          "prompt_target": "Match each body part with its translation:",
+          "options": [
+            "face",
+            "cara",
+            "back",
+            "espalda",
+            "body",
+            "cuerpo"
+          ],
+          "correct_answer": [
+            "face=cara",
+            "back=espalda",
+            "body=cuerpo"
+          ],
+          "explanation_form": "Estas son las partes del cuerpo que aprendimos en la lección.",
+          "explanation_target": "These are the body parts we learned in the lesson.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "face",
+            "back",
+            "body"
+          ],
+          "points": 15,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "translation_form_to_target",
+          "prompt_form": "¿Cómo se dice 'dientes' en inglés?",
+          "prompt_target": "How do you say 'dientes' in English?",
+          "options": null,
+          "correct_answer": "teeth",
+          "explanation_form": "'Teeth' es el plural de 'tooth'. Es una palabra irregular.",
+          "explanation_target": "'Teeth' is the plural of 'tooth'. It is an irregular word.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "teeth_2",
+            "plural_body_parts"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'She has got ____ face.' (artículo correcto)",
+          "prompt_target": "Complete: 'She has got ____ face.' (correct article)",
+          "options": null,
+          "correct_answer": "a",
+          "explanation_form": "Usamos 'a' antes de 'face' porque empieza con consonante. 'An' se usa antes de vocal.",
+          "explanation_target": "We use 'a' before 'face' because it starts with a consonant. 'An' is used before a vowel.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "face",
+            "a_vs_an_with_body_parts"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué parte del cuerpo usás para caminar?",
+          "prompt_target": "What body part do you use to walk?",
+          "options": [
+            "hand",
+            "head",
+            "feet",
+            "back"
+          ],
+          "correct_answer": "feet",
+          "explanation_form": "Usamos los 'feet' (pies) para caminar. 'Foot' es singular y 'feet' es plural.",
+          "explanation_target": "We use 'feet' to walk. 'Foot' is singular and 'feet' is plural.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "feet",
+            "foot"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Qué significa 'hand' en español?",
+          "prompt_target": "What does 'hand' mean in Spanish?",
+          "options": null,
+          "correct_answer": "mano",
+          "explanation_form": "'Hand' es la parte del cuerpo al final del brazo, con dedos.",
+          "explanation_target": "'Hand' is the body part at the end of the arm, with fingers.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hand"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "They",
+            "have",
+            "got",
+            "two",
+            "feet"
+          ],
+          "correct_answer": "They have got two feet",
+          "explanation_form": "La estructura es: sujeto + have got + número + parte del cuerpo en plural.",
+          "explanation_target": "The structure is: subject + have got + number + body part in plural.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "feet",
+            "have_got_for_body_parts",
+            "plural_body_parts"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el plural de 'tooth'?",
+          "prompt_target": "What is the plural of 'tooth'?",
+          "options": [
+            "tooths",
+            "teeth",
+            "toothes",
+            "teeths"
+          ],
+          "correct_answer": "teeth",
+          "explanation_form": "'Tooth' es irregular: su plural es 'teeth'.",
+          "explanation_target": "'Tooth' is irregular: its plural is 'teeth'.",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "teeth_2",
+            "plural_body_parts"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I have got ____ eye.' (artículo correcto)",
+          "prompt_target": "Complete: 'I have got ____ eye.' (correct article)",
+          "options": null,
+          "correct_answer": "an",
+          "explanation_form": "Usamos 'an' antes de 'eye' porque empieza con sonido de vocal.",
+          "explanation_target": "We use 'an' before 'eye' because it starts with a vowel sound.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eye",
+            "a_vs_an_with_body_parts"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El truco de los plurales irregulares\n\nEn ingles, la mayoria de los plurales se forman anadiendo una **-s** al final: *hand* → *hands*, *eye* → *eyes*. Pero hay dos palabras muy comunes que NO siguen esta regla: *foot* → **feet** y *tooth* → **teeth**. ¡Ojo! No digas *foots* ni *tooths*; eso suena muy raro para un nativo. Un truco para recordarlo: en *feet* y *teeth* la vocal cambia de *oo* a *ee*, como si la palabra se estirara. Piensa en *foot* (un pie) y *feet* (dos pies, mas largos).\n\n## Have got: tu nuevo superpoder para describir\n\nPara hablar de las partes del cuerpo, la estructura mas natural es **have got**. Se usa para expresar posesion o caracteristicas fisicas. Fijate en el orden: *I have got two hands* (Yo tengo dos manos). En negativo, usamos **have not got** o la forma corta **haven't got**: *I haven't got blue eyes*. Y para preguntar, invertimos el orden: *Have you got a big head?* (¿Tienes una cabeza grande?). Es como el verbo *tener* en espanol. Recuerda que en ingles, *have got* es una forma común, pero *have* también es correcto.\n\n## ¿A o An? El sonido manda\n\nUsamos **a** antes de palabras que empiezan con sonido de consonante y **an** antes de palabras que empiezan con sonido de vocal. Con las partes del cuerpo: *a head*, *a hand*, *a foot* (sonido de consonante) pero **an eye** y **an ear** (sonido de vocal). ¡Cuidado! La regla es por el SONIDO, no por la letra. Por ejemplo, *an hour* lleva *an* porque la *h* no se pronuncia. Con las partes del cuerpo, lo mas importante es recordar: *an eye* y *an ear*.\n\n## Errores comunes que debes evitar\n\n1. **No confundas *headache* (dolor de cabeza) con *head* (cabeza).** Para hablar de partes del cuerpo, usa *have got*: *I have got a big head*.\n2. **No confundas *body* con *back*.** *Body* es todo el cuerpo; *back* es solo la espalda. *My back hurts* (Me duele la espalda) es diferente de *My body is tired* (Mi cuerpo esta cansado).\n3. **Recuerda que *face* incluye los ojos, la nariz y la boca.** No digas *my face and my eyes*; di *my face* o *my eyes* por separado.\n\n## Mini-glosario visual para repasar\n\n- **Head** (cabeza) → la parte superior del cuerpo.\n- **Face** (cara) → la parte frontal de la cabeza.\n- **Eye** (ojo) → *an eye* (un ojo), *two eyes* (dos ojos).\n- **Hand** (mano) → *a hand* (una mano), *two hands* (dos manos).\n- **Foot** (pie) → *a foot* (un pie), *two feet* (dos pies).\n- **Back** (espalda) → la parte trasera del cuerpo.\n- **Body** (cuerpo) → todo el conjunto.\n- **Tooth** (diente) → *a tooth* (un diente), *two teeth* (dos dientes).\n\nRepasa estos ejemplos en voz alta: *I have got two eyes and one nose. My feet are big. Have you got a small face?* ¡Practica describirte a ti mismo y a tus amigos!",
+  "metadata": {
+    "generated_at": "2026-08-11T18:10:19Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

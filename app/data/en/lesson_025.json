@@ -1,0 +1,1525 @@
+{
+  "id": "lesson_025",
+  "position": 26,
+  "unit_id": 5,
+  "course_id": "en.A1",
+  "title_form": "Emotions and feelings",
+  "title_target": "Emociones y sentimientos",
+  "theme_focus": "Emotions and feelings",
+  "learning_objectives": [
+    "Can describe how they feel and ask others about their emotions."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_024"
+  ],
+  "grammar_focus": [
+    "feel_plus_adjective_extended (I feel happy, She feels tired, They feel excited)",
+    "look_plus_adjective (You look tired, He looks happy)",
+    "intensifiers_very_really (very happy, really tired)",
+    "wh_questions_about_feelings (How do you feel?, How are you? — extended answer)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "happy_adj",
+        "sad_adj",
+        "tired_adj",
+        "hungry_adj",
+        "thirsty_adj",
+        "fine_adj",
+        "bored_adj",
+        "excited_adj",
+        "great_adj",
+        "wonderful_adj",
+        "look_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "back",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "better_adj",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "body",
+        "book",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "early_adj_2",
+        "eat_verb",
+        "evening",
+        "exam",
+        "excuse_me_interj",
+        "expensive_adj",
+        "eye",
+        "face",
+        "family",
+        "father",
+        "feel_verb",
+        "feet",
+        "film",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "foot",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hand",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "head",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "hurt_verb",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "listen_to_music_phrase",
+        "live_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "run_verb",
+        "running",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "sick_adj",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "sleep_verb",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "teeth_2",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "three_num",
+        "ticket",
+        "time",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tooth",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "well_adv",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Ana, una estudiante de 22 años de México, llega a su clase de inglés en una academia de Madrid. Hoy es su primer día y no conoce a nadie. La profesora, Laura, la recibe con una sonrisa y le pregunta: 'How are you today?'. Ana está nerviosa y no sabe qué decir, pero recuerda las palabras que aprendió. Responde: 'I am fine, thank you. But I am a little tired'. Laura le presenta a un compañero, Tom, que también está aprendiendo. Tom le pregunta: 'Are you excited about the class?'. Ana sonríe y dice: 'Yes, I am very excited'. Al final de la clase, Ana se siente más segura y contenta de haber podido expresar sus emociones en inglés.",
+  "introduction_md": "¿Alguna vez has tenido un día en el que todo te sale mal y solo quieres decir 'I am tired'? Hoy vamos a darle voz a tus emociones. Imagina que un amigo te pregunta 'How do you feel?' y tú puedes responder con una palabra exacta: happy, sad, hungry, excited. En esta lección vas a aprender a describir cómo te sientes y a preguntarles a los demás por sus emociones. Ya sabes usar el verbo 'to be' y ahora lo vas a combinar con adjetivos nuevos para hablar de ti mismo. También aprenderás a usar 'look' para decir cómo se ve alguien y los intensificadores 'very' y 'really' para dar más fuerza a tus palabras. Al final, podrás tener una conversación corta sobre emociones con un compañero. Es una habilidad clave para cualquier interacción diaria, desde un café con un amigo hasta una entrevista de trabajo. ¡Vamos a empezar!",
+  "intro_target": "Have you ever had a day when everything goes wrong and you just want to say 'I am tired'? Today we are going to give voice to your emotions. Imagine a friend asks you 'How do you feel?' and you can answer with one exact word: happy, sad, hungry, excited. In this lesson you will learn to describe how you feel and to ask others about their emotions. You already know the verb 'to be' and now you will combine it with new adjectives to talk about yourself. You will also learn to use 'look' to say how someone seems and the intensifiers 'very' and 'really' to give more strength to your words. At the end, you will be able to have a short conversation about emotions with a partner. It is a key skill for any daily interaction, from a coffee with a friend to a job interview. Let us start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I feel very happy today.",
+      "translation_form": "Me siento muy feliz hoy.",
+      "highlight_words": [
+        "feel",
+        "very",
+        "happy",
+        "today"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You look really tired. Are you okay?",
+      "translation_form": "Te ves realmente cansado. ¿Estás bien?",
+      "highlight_words": [
+        "look",
+        "really",
+        "tired"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "hungry_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She feels hungry. Let's have lunch.",
+      "translation_form": "Ella tiene hambre. Almorcemos.",
+      "highlight_words": [
+        "feels",
+        "hungry",
+        "have",
+        "lunch"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "thirsty_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I'm thirsty. Can I have some water?",
+      "translation_form": "Tengo sed. ¿Puedo tomar un poco de agua?",
+      "highlight_words": [
+        "thirsty",
+        "water"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "excited_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are so excited about the trip!",
+      "translation_form": "¡Estamos tan emocionados por el viaje!",
+      "highlight_words": [
+        "excited",
+        "trip"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "bored_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He looks bored in class.",
+      "translation_form": "Él se ve aburrido en clase.",
+      "highlight_words": [
+        "looks",
+        "bored",
+        "class"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "sad_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Why are you sad? Tell me.",
+      "translation_form": "¿Por qué estás triste? Cuéntame.",
+      "highlight_words": [
+        "sad"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "great_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "How do you feel? I feel great!",
+      "translation_form": "¿Cómo te sientes? ¡Me siento genial!",
+      "highlight_words": [
+        "feel",
+        "great"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": "fine_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "How are you? I'm fine, thanks.",
+      "translation_form": "¿Cómo estás? Estoy bien, gracias.",
+      "highlight_words": [
+        "fine",
+        "thanks"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": "wonderful_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The weather is wonderful today!",
+      "translation_form": "¡El clima está maravilloso hoy!",
+      "highlight_words": [
+        "wonderful",
+        "weather",
+        "today"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "feel_plus_adjective_extended",
+      "title_form": "Cómo decir cómo te sientes: feel + adjetivo",
+      "title_target": "How to say how you feel: feel + adjective",
+      "description_md_form": "Para hablar de **emociones y sentimientos**, usamos el verbo **feel** (sentirse) seguido de un **adjetivo**. Es muy simple: **feel** + adjetivo.\n\n- **I feel happy.** = Me siento feliz.\n- **She feels tired.** = Ella se siente cansada.\n\nEl verbo **feel** cambia con la persona: **I feel**, **you feel**, **he/she feels**. Para preguntar cómo se siente alguien, usamos **How do you feel?** (¿Cómo te sientes?).\n\nEste patrón es muy común en conversaciones diarias. Cuando alguien te pregunta **How do you feel?**, puedes responder con **I feel** + un adjetivo de emoción como **happy**, **sad**, **tired**, **hungry**, **thirsty**, **bored**, **excited**, **fine**, **great** o **wonderful**.",
+      "description_md_target": "To talk about **emotions and feelings**, we use the verb **feel** followed by an **adjective**. It's very simple: **feel** + adjective.\n\n- **I feel happy.**\n- **She feels tired.**\n\nThe verb **feel** changes with the person: **I feel**, **you feel**, **he/she feels**. To ask how someone feels, we use **How do you feel?**\n\nThis pattern is very common in daily conversations. When someone asks you **How do you feel?**, you can answer with **I feel** + an emotion adjective like **happy**, **sad**, **tired**, **hungry**, **thirsty**, **bored**, **excited**, **fine**, **great**, or **wonderful**.",
+      "grammar_structure": "Subject + feel(s) + adjective",
+      "conjugation_table": {
+        "name": "present_simple_feel",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "feel",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "feel",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She",
+            "form": "feels",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "feel",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "feel",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "feel_plus_adjective_extended",
+          "text_target": "I feel very happy today.",
+          "translation_form": "Me siento muy feliz hoy.",
+          "highlight_words": [
+            "feel",
+            "happy"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "feel_plus_adjective_extended",
+          "text_target": "She feels hungry. Let's have lunch.",
+          "translation_form": "Ella tiene hambre. Almorcemos.",
+          "highlight_words": [
+            "feels",
+            "hungry"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, **feel** + adjetivo es la forma natural de hablar de emociones. No necesitas una palabra extra como \"muy\" para que sea correcto, pero puedes añadir **very** o **really** para dar más énfasis: **I feel really tired.**"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas **I feel happy** con el verbo **to be** (I am feel happy). Usa solo **feel** + adjetivo, sin **am/is/are**."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I am feel happy' en lugar de 'I feel happy'. El verbo feel ya incluye la idea de 'estar', no necesitas 'am'.",
+        "Olvidar la -s en la tercera persona: 'She feel tired' en lugar de 'She feels tired'.",
+        "Usar un adverbio en lugar de un adjetivo: 'I feel happily' en lugar de 'I feel happy'.",
+        "Confundir 'feel' con 'look' cuando hablamos de emociones internas: 'I look happy' significa que aparento estar feliz, no que me siento feliz."
+      ]
+    },
+    {
+      "slug": "look_plus_adjective",
+      "title_form": "Look + adjetivo: cómo describir lo que ves",
+      "title_target": "Look + adjective: describing what you see",
+      "description_md_form": "Usamos **look + adjetivo** para hablar de cómo se ve alguien o algo. Es como decir \"verse\" en español. Por ejemplo: *You look tired* (Te ves cansado).\n\n**Look** es un verbo, así que cambia con la persona: *I look*, *you look*, *he looks*. Después de **look**, usamos un **adjetivo** (no un adverbio). Decimos *She looks happy*, no *She looks happily*.\n\nEste patrón es muy útil para preguntar por emociones: *You look sad. Are you okay?* (Te ves triste. ¿Estás bien?).\n\n**Recuerda**: **look** habla de lo que vemos por fuera. Para hablar de cómo nos sentimos por dentro, usamos **feel** (sentirse).",
+      "description_md_target": "We use **look + adjective** to talk about how someone or something appears. It's like saying \"verse\" in Spanish. For example: *You look tired* (Te ves cansado).\n\n**Look** is a verb, so it changes with the person: *I look*, *you look*, *he looks*. After **look**, we use an **adjective** (not an adverb). We say *She looks happy*, not *She looks happily*.\n\nThis pattern is very useful for asking about emotions: *You look sad. Are you okay?* (Te ves triste. ¿Estás bien?).\n\n**Remember**: **look** talks about what we see on the outside. To talk about how we feel inside, we use **feel**.",
+      "grammar_structure": "Subject + look(s) + adjective",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "look_plus_adjective",
+          "text_target": "You look really tired. Are you okay?",
+          "translation_form": "Te ves realmente cansado. ¿Estás bien?",
+          "highlight_words": [
+            "look",
+            "tired"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "look_plus_adjective",
+          "text_target": "She looks happy today.",
+          "translation_form": "Ella se ve feliz hoy.",
+          "highlight_words": [
+            "looks",
+            "happy"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas**: *She looks happily*. **Di**: *She looks happy*. Después de **look** usamos un adjetivo, no un adverbio."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Look** es para lo que ves por fuera. **Feel** es para lo que sientes por dentro. *You look tired* (te ves cansado) vs. *I feel tired* (me siento cansado)."
+        }
+      ],
+      "common_errors_es": [
+        "Usar adverbio en vez de adjetivo: *She looks happily* → *She looks happy*.",
+        "Olvidar la -s en tercera persona: *He look tired* → *He looks tired*.",
+        "Confundir look (verse) con feel (sentirse): *I look tired* cuando quieres decir *I feel tired*.",
+        "Traducir literalmente 'mirar' y usar look sin adjetivo: *You look* → *You look tired*."
+      ]
+    },
+    {
+      "slug": "intensifiers_very_really",
+      "title_form": "Muy y realmente: intensificadores",
+      "title_target": "Very and really: intensifiers",
+      "description_md_form": "En inglés, usamos **very** y **really** para dar más fuerza a un adjetivo. Son como \"muy\" en español. Se colocan **antes** del adjetivo, nunca después.\n\n- **very** = muy\n- **really** = muy / de verdad (más conversacional)\n\nEjemplos: `I am very happy.` (Estoy muy feliz), `She is really tired.` (Ella está realmente cansada).\n\nAmbos funcionan igual con los adjetivos de emociones: `sad`, `hungry`, `thirsty`, `bored`, `excited`, `great`, `wonderful`. También con `look`: `You look really tired.` (Te ves realmente cansado).\n\n**Importante:** no digas `I am very happy today` con \"muy\" al final. El intensificador siempre va antes del adjetivo.",
+      "description_md_target": "In English, we use **very** and **really** to give more strength to an adjective. They are like \"muy\" in Spanish. They go **before** the adjective, never after.\n\n- **very** = very\n- **really** = very / truly (more conversational)\n\nExamples: `I am very happy.` (I am very happy), `She is really tired.` (She is really tired).\n\nBoth work the same with emotion adjectives: `sad`, `hungry`, `thirsty`, `bored`, `excited`, `great`, `wonderful`. Also with `look`: `You look really tired.`\n\n**Important:** don't say \"I am very happy today\" with \"muy\" at the end. The intensifier always goes before the adjective.",
+      "grammar_structure": "Subject + to be + (very/really) + adjective",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "intensifiers_very_really",
+          "text_target": "I am very happy today.",
+          "translation_form": "Estoy muy feliz hoy.",
+          "highlight_words": [
+            "very",
+            "happy"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "intensifiers_very_really",
+          "text_target": "You look really tired. Are you okay?",
+          "translation_form": "Te ves realmente cansado. ¿Estás bien?",
+          "highlight_words": [
+            "really",
+            "tired"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En conversación, los nativos usan **really** más que **very**. Es más natural decir `I'm really hungry` que `I'm very hungry`."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas `I am very happy today` con \"muy\" al final. El intensificador siempre va **antes** del adjetivo: `I am very happy today.`"
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I am happy very' en lugar de 'I am very happy'. El intensificador va antes del adjetivo.",
+        "Usar 'very' con 'look' de forma incorrecta: 'You look very tired' es correcto, pero 'You very look tired' no existe.",
+        "Confundir 'really' con 'real' (real = real, realmente = really)."
+      ]
+    },
+    {
+      "slug": "wh_questions_about_feelings",
+      "title_form": "Preguntas con How para sentimientos",
+      "title_target": "How questions about feelings",
+      "description_md_form": "Para preguntar **cómo se siente** alguien, usamos **How + to be + sujeto**.\n\nLa fórmula es: **How + am/is/are + sujeto?**\n\n- **How are you?** = ¿Cómo estás?\n- **How is she?** = ¿Cómo está ella?\n- **How are they?** = ¿Cómo están ellos?\n\nLa respuesta usa **I am / He is / They are** + un adjetivo de emoción:\n\n- **I am happy.** = Estoy feliz.\n- **She is tired.** = Ella está cansada.\n\n**Importante:** En inglés, **How** es la palabra para preguntar por emociones. No usamos *What* ni *Where* para esto.",
+      "description_md_target": "To ask **how someone feels**, we use **How + to be + subject**.\n\nThe formula is: **How + am/is/are + subject?**\n\n- **How are you?** = How are you?\n- **How is she?** = How is she?\n- **How are they?** = How are they?\n\nThe answer uses **I am / He is / They are** + an emotion adjective:\n\n- **I am happy.** = I am happy.\n- **She is tired.** = She is tired.\n\n**Important:** In English, **How** is the word to ask about emotions. We don't use *What* or *Where* for this.",
+      "grammar_structure": "How + am/is/are + subject?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_questions_about_feelings",
+          "text_target": "How are you? I am fine, thank you.",
+          "translation_form": "¿Cómo estás? Estoy bien, gracias.",
+          "highlight_words": [
+            "how",
+            "are",
+            "you",
+            "fine"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh_questions_about_feelings",
+          "text_target": "How is your brother? He is very tired today.",
+          "translation_form": "¿Cómo está tu hermano? Él está muy cansado hoy.",
+          "highlight_words": [
+            "how",
+            "is",
+            "brother",
+            "tired"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Para preguntar por emociones, siempre usamos **How**. Es como decir *¿Cómo estás?* en español. No uses *What* ni *Where*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *How you are?* La forma correcta es **How are you?** El verbo **to be** va antes del sujeto en preguntas."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *How you are?* en lugar de **How are you?** — el verbo va antes del sujeto.",
+        "Usar *What* en lugar de **How** para preguntar por emociones: *What are you?* es incorrecto.",
+        "Olvidar el verbo **to be** en la pregunta: *How you?* no es correcto."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'happy'?",
+      "options": [
+        "triste",
+        "feliz",
+        "cansado",
+        "aburrido"
+      ],
+      "correct_answer": "feliz",
+      "explanation_md": "'Happy' significa feliz, un sentimiento positivo.",
+      "related_lexeme_ids": [
+        "happy_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'thirsty'?",
+      "options": [
+        "con hambre",
+        "con sueño",
+        "con sed",
+        "enfermo"
+      ],
+      "correct_answer": "con sed",
+      "explanation_md": "'Thirsty' significa tener sed, necesitar agua.",
+      "related_lexeme_ids": [
+        "thirsty_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en un restaurante y el camarero te pregunta cómo estás. ¿Qué respondes si te sientes muy bien?",
+      "options": [
+        "I'm bored.",
+        "I'm fine, thank you.",
+        "I'm tired.",
+        "I'm sad."
+      ],
+      "correct_answer": "I'm fine, thank you.",
+      "explanation_md": "'Fine' significa bien. Es una respuesta común y educada cuando alguien pregunta cómo estás.",
+      "related_lexeme_ids": [
+        "fine_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Tu amigo llega a clase con los ojos cerrados y bostezando. ¿Qué le dices?",
+      "options": [
+        "You look excited!",
+        "You look hungry!",
+        "You look tired!",
+        "You look great!"
+      ],
+      "correct_answer": "You look tired!",
+      "explanation_md": "Usamos 'look + adjetivo' para describir cómo se ve alguien. 'Tired' significa cansado.",
+      "related_lexeme_ids": [
+        "look_verb",
+        "tired_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'I feel very ______ today. It's my birthday!' (me siento muy feliz hoy)",
+      "options": null,
+      "correct_answer": "happy",
+      "explanation_md": "'Happy' significa feliz. Usamos 'feel + adjetivo' para hablar de cómo nos sentimos.",
+      "related_lexeme_ids": [
+        "happy_adj",
+        "feel_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'We are so ______ about the trip to the beach!' (estamos muy emocionados)",
+      "options": null,
+      "correct_answer": "excited",
+      "explanation_md": "'Excited' significa emocionado. Usamos 'be + adjetivo' para describir un estado.",
+      "related_lexeme_ids": [
+        "excited_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ella tiene hambre. Vamos a almorzar.'",
+      "options": null,
+      "correct_answer": "She is hungry. Let's have lunch.",
+      "explanation_md": "Para decir 'tener hambre' en inglés usamos 'be hungry'. 'Let's' es una forma de sugerir hacer algo juntos.",
+      "related_lexeme_ids": [
+        "hungry_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Me siento muy feliz hoy.'",
+      "options": null,
+      "correct_answer": "I feel very happy today.",
+      "explanation_md": "Usamos 'feel + adjetivo' para hablar de emociones. 'Very' intensifica el adjetivo.",
+      "related_lexeme_ids": [
+        "happy_adj",
+        "feel_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada sentimiento con su traducción:",
+      "options": [
+        "sad",
+        "triste",
+        "bored",
+        "aburrido",
+        "great",
+        "genial",
+        "wonderful",
+        "maravilloso"
+      ],
+      "correct_answer": [
+        "sad=triste",
+        "bored=aburrido",
+        "great=genial",
+        "wonderful=maravilloso"
+      ],
+      "explanation_md": "Estos son adjetivos para describir sentimientos y estados de ánimo.",
+      "related_lexeme_ids": [
+        "sad_adj",
+        "bored_adj",
+        "great_adj",
+        "wonderful_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada pregunta con su respuesta lógica:",
+      "options": [
+        "How are you?",
+        "I'm fine, thanks.",
+        "Are you thirsty?",
+        "Yes, I want some water.",
+        "How does she feel?",
+        "She feels sad.",
+        "Are you hungry?",
+        "Yes, let's eat."
+      ],
+      "correct_answer": [
+        "How are you?=I'm fine, thanks.",
+        "Are you thirsty?=Yes, I want some water.",
+        "How does she feel?=She feels sad.",
+        "Are you hungry?=Yes, let's eat."
+      ],
+      "explanation_md": "Estas son preguntas y respuestas comunes sobre sentimientos y estados.",
+      "related_lexeme_ids": [
+        "fine_adj",
+        "thirsty_adj",
+        "sad_adj",
+        "hungry_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'You look really tired. Are you okay?'",
+      "options": null,
+      "correct_answer": "Te ves realmente cansado. ¿Estás bien?",
+      "explanation_md": "'Look + adjetivo' se traduce como 'verse + adjetivo'. 'Really' intensifica el adjetivo.",
+      "related_lexeme_ids": [
+        "look_verb",
+        "tired_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I'm thirsty. Can I have some water?'",
+      "options": null,
+      "correct_answer": "Tengo sed. ¿Puedo tomar un poco de agua?",
+      "explanation_md": "'I'm thirsty' se traduce como 'tengo sed'. 'Can I have' es una forma educada de pedir algo.",
+      "related_lexeme_ids": [
+        "thirsty_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "happy",
+      "back": "feliz / contento",
+      "hint": "una emoción positiva",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "sad",
+      "back": "triste",
+      "hint": "una emoción negativa",
+      "lexeme_id": "sad_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "tired",
+      "back": "cansado",
+      "hint": "cuando necesitas descansar",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "hungry",
+      "back": "hambriento",
+      "hint": "cuando necesitas comer",
+      "lexeme_id": "hungry_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "thirsty",
+      "back": "sediento",
+      "hint": "cuando necesitas beber",
+      "lexeme_id": "thirsty_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "fine",
+      "back": "bien",
+      "hint": "respuesta a '¿cómo estás?'",
+      "lexeme_id": "fine_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "bored",
+      "back": "aburrido",
+      "hint": "cuando no hay nada que hacer",
+      "lexeme_id": "bored_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "excited",
+      "back": "emocionado",
+      "hint": "cuando algo bueno va a pasar",
+      "lexeme_id": "excited_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "great",
+      "back": "genial / estupendo",
+      "hint": "muy bueno",
+      "lexeme_id": "great_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "wonderful",
+      "back": "maravilloso",
+      "hint": "extremadamente bueno",
+      "lexeme_id": "wonderful_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "look",
+      "back": "mirar",
+      "hint": "usar los ojos",
+      "lexeme_id": "look_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "perception"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "feel",
+      "back": "sentirse",
+      "hint": "para hablar de emociones",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_025",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "happy",
+      "reading": "",
+      "translation": "feliz / contento",
+      "pos": "adjective",
+      "example": "I feel very happy today.",
+      "example_translation": "Me siento muy feliz hoy.",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sad",
+      "reading": "",
+      "translation": "triste",
+      "pos": "adjective",
+      "example": "Why are you sad? Tell me.",
+      "example_translation": "¿Por qué estás triste? Cuéntame.",
+      "lexeme_id": "sad_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tired",
+      "reading": "",
+      "translation": "cansado",
+      "pos": "adjective",
+      "example": "You look really tired. Are you okay?",
+      "example_translation": "Te ves realmente cansado. ¿Estás bien?",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hungry",
+      "reading": "",
+      "translation": "hambriento",
+      "pos": "adjective",
+      "example": "She feels hungry. Let's have lunch.",
+      "example_translation": "Ella tiene hambre. Almorcemos.",
+      "lexeme_id": "hungry_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "thirsty",
+      "reading": "",
+      "translation": "sediento",
+      "pos": "adjective",
+      "example": "I'm thirsty. Can I have some water?",
+      "example_translation": "Tengo sed. ¿Puedo tomar un poco de agua?",
+      "lexeme_id": "thirsty_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "fine",
+      "reading": "",
+      "translation": "bien",
+      "pos": "adjective",
+      "example": "How are you? I'm fine, thanks.",
+      "example_translation": "¿Cómo estás? Estoy bien, gracias.",
+      "lexeme_id": "fine_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bored",
+      "reading": "",
+      "translation": "aburrido",
+      "pos": "adjective",
+      "example": "He looks bored in class.",
+      "example_translation": "Él se ve aburrido en clase.",
+      "lexeme_id": "bored_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "excited",
+      "reading": "",
+      "translation": "emocionado",
+      "pos": "adjective",
+      "example": "We are so excited about the trip!",
+      "example_translation": "¡Estamos tan emocionados por el viaje!",
+      "lexeme_id": "excited_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "great",
+      "reading": "",
+      "translation": "genial / estupendo",
+      "pos": "adjective",
+      "example": "How do you feel? I feel great!",
+      "example_translation": "¿Cómo te sientes? ¡Me siento genial!",
+      "lexeme_id": "great_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "wonderful",
+      "reading": "",
+      "translation": "maravilloso",
+      "pos": "adjective",
+      "example": "The weather is wonderful today!",
+      "example_translation": "¡El clima está maravilloso hoy!",
+      "lexeme_id": "wonderful_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "look",
+      "reading": "",
+      "translation": "mirar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "look_verb",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Emotions and feelings",
+      "title_target": "Quiz: Emotions and feelings",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I ____ happy today.' (Yo estoy feliz hoy.)",
+          "prompt_target": "Complete the sentence: 'I ____ happy today.'",
+          "options": null,
+          "correct_answer": "feel",
+          "explanation_form": "Usamos 'feel' + adjetivo para expresar cómo nos sentimos. 'I feel happy' significa 'Me siento feliz'.",
+          "explanation_target": "We use 'feel' + adjective to express how we feel. 'I feel happy' means 'Me siento feliz'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "feel_verb",
+            "feel_plus_adjective_extended",
+            "happy_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "How",
+            "do",
+            "you",
+            "feel",
+            "today"
+          ],
+          "correct_answer": "How do you feel today",
+          "explanation_form": "La estructura de la pregunta es: How + do + sujeto + verbo + complemento. 'How do you feel today?' significa '¿Cómo te sientes hoy?'.",
+          "explanation_target": "The question structure is: How + do + subject + verb + complement. 'How do you feel today?' means '¿Cómo te sientes hoy?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "feel_verb",
+            "wh_questions_about_feelings",
+            "feel_plus_adjective_extended"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el opuesto de 'happy'?",
+          "prompt_target": "What is the opposite of 'happy'?",
+          "options": [
+            "sad",
+            "excited",
+            "hungry",
+            "tired"
+          ],
+          "correct_answer": "sad",
+          "explanation_form": "'Happy' significa 'feliz' y su opuesto es 'sad' que significa 'triste'.",
+          "explanation_target": "'Happy' means 'feliz' and its opposite is 'sad' which means 'triste'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "happy_adj",
+            "sad_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'She ____ very tired after work.' (Ella se ve muy cansada después del trabajo.)",
+          "prompt_target": "Complete: 'She ____ very tired after work.'",
+          "options": null,
+          "correct_answer": "looks",
+          "explanation_form": "Usamos 'look' + adjetivo para describir la apariencia de alguien. 'She looks tired' significa 'Ella se ve cansada'.",
+          "explanation_target": "We use 'look' + adjective to describe someone's appearance. 'She looks tired' means 'Ella se ve cansada'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "look_verb",
+            "look_plus_adjective",
+            "tired_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada emoción con su traducción:",
+          "prompt_target": "Match each emotion with its translation:",
+          "options": [
+            "hungry",
+            "hambriento",
+            "thirsty",
+            "sediento",
+            "bored",
+            "aburrido",
+            "excited",
+            "emocionado"
+          ],
+          "correct_answer": [
+            "hungry=hambriento",
+            "thirsty=sediento",
+            "bored=aburrido",
+            "excited=emocionado"
+          ],
+          "explanation_form": "Estas son emociones básicas: hungry (hambriento), thirsty (sediento), bored (aburrido) y excited (emocionado).",
+          "explanation_target": "These are basic emotions: hungry (hambriento), thirsty (sediento), bored (aburrido) and excited (emocionado).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hungry_adj",
+            "thirsty_adj",
+            "bored_adj",
+            "excited_adj"
+          ],
+          "points": 20,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I feel great'?",
+          "prompt_target": "What does 'I feel great' mean?",
+          "options": [
+            "Me siento genial",
+            "Me siento triste",
+            "Me siento cansado",
+            "Me siento aburrido"
+          ],
+          "correct_answer": "Me siento genial",
+          "explanation_form": "'Great' significa 'genial' o 'estupendo'. 'I feel great' expresa que te sientes muy bien.",
+          "explanation_target": "'Great' means 'genial' or 'estupendo'. 'I feel great' expresses that you feel very good.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "great_adj",
+            "feel_plus_adjective_extended"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'The food ____ wonderful!' (¡La comida se ve maravillosa!)",
+          "prompt_target": "Complete: 'The food ____ wonderful!'",
+          "options": null,
+          "correct_answer": "looks",
+          "explanation_form": "Usamos 'look' + adjetivo para describir apariencia. 'The food looks wonderful' significa 'La comida se ve maravillosa'.",
+          "explanation_target": "We use 'look' + adjective to describe appearance. 'The food looks wonderful' means 'La comida se ve maravillosa'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "look_verb",
+            "look_plus_adjective",
+            "wonderful_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de preguntar '¿Cómo te sientes?'",
+          "prompt_target": "What is the correct way to ask '¿Cómo te sientes?'",
+          "options": [
+            "How do you feel?",
+            "What do you feel?",
+            "Why do you feel?",
+            "When do you feel?"
+          ],
+          "correct_answer": "How do you feel?",
+          "explanation_form": "Para preguntar cómo se siente alguien usamos 'How do you feel?' La palabra 'How' significa 'cómo'.",
+          "explanation_target": "To ask how someone feels we use 'How do you feel?' The word 'How' means 'cómo'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "feel_verb",
+            "wh_questions_about_feelings"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traducí al español: 'I am very hungry.'",
+          "prompt_target": "Translate to Spanish: 'I am very hungry.'",
+          "options": null,
+          "correct_answer": "Tengo mucha hambre.",
+          "explanation_form": "'Very' intensifica el adjetivo. 'Very hungry' significa 'muy hambriento' o 'mucha hambre'.",
+          "explanation_target": "'Very' intensifies the adjective. 'Very hungry' means 'muy hambriento' or 'mucha hambre'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hungry_adj",
+            "intensifiers_very_really"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál de estas frases es correcta?",
+          "prompt_target": "Which of these sentences is correct?",
+          "options": [
+            "I feel very happy.",
+            "I feel happy very.",
+            "I very feel happy.",
+            "I feel happy very."
+          ],
+          "correct_answer": "I feel very happy.",
+          "explanation_form": "El intensificador 'very' va antes del adjetivo: feel + very + adjetivo. 'I feel very happy' es la forma correcta.",
+          "explanation_target": "The intensifier 'very' goes before the adjective: feel + very + adjective. 'I feel very happy' is the correct form.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "feel_plus_adjective_extended",
+            "intensifiers_very_really",
+            "happy_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Estoy aburrido.'",
+          "prompt_target": "Translate to English: 'Estoy aburrido.'",
+          "options": null,
+          "correct_answer": "I am bored.",
+          "explanation_form": "'Bored' significa 'aburrido'. La estructura es: sujeto + am/is/are + adjetivo.",
+          "explanation_target": "'Bored' means 'aburrido'. The structure is: subject + am/is/are + adjective.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "bored_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I look tired'?",
+          "prompt_target": "What does 'I look tired' mean?",
+          "options": [
+            "Me veo cansado",
+            "Me siento cansado",
+            "Estoy muy cansado",
+            "Soy cansado"
+          ],
+          "correct_answer": "Me veo cansado",
+          "explanation_form": "'Look' + adjetivo describe apariencia, no cómo te sientes por dentro. 'I look tired' = 'Me veo cansado'.",
+          "explanation_target": "'Look' + adjective describes appearance, not how you feel inside. 'I look tired' = 'Me veo cansado'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "look_verb",
+            "look_plus_adjective",
+            "tired_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Feel + adjetivo: tus emociones en inglés\n\nEn inglés, para hablar de cómo te sientes, usamos el verbo **feel** (sentir) seguido de un adjetivo. Es muy parecido al español: \"I feel happy\" (me siento feliz), \"I feel tired\" (me siento cansado). No necesitas ninguna palabra extra entre el verbo y el adjetivo. Es una estructura directa y simple que los nativos usan todo el tiempo.\n\n**Ojo con este error común:** en español a veces decimos \"me siento bien\" o \"me siento mal\". En inglés, para \"bien\" usamos **fine** o **good**, y para \"mal\" usamos **bad** o **sick**. Por ejemplo: \"I feel fine\" (me siento bien) o \"I feel sick\" (me siento mal). No digas \"I feel goodly\" — eso no existe en inglés.\n\n## Look + adjetivo: cómo te ves\n\nEl verbo **look** (mirar) también se usa con adjetivos, pero con un significado diferente: describe cómo te VES, no cómo te sientes. Por ejemplo: \"You look tired\" (te ves cansado) o \"She looks happy\" (ella se ve feliz). Es una forma muy natural de comentar sobre la apariencia de alguien.\n\n**Tip para hispanohablantes:** en español decimos \"te ves bien\" o \"te ves cansado\". En inglés es exactamente igual: \"You look great\" (te ves genial) o \"You look tired\" (te ves cansado). La diferencia clave es que **feel** es interno (cómo te sientes por dentro) y **look** es externo (cómo te ves por fuera).\n\n## Very y really: intensifica tus emociones\n\nPara dar más fuerza a tus emociones, usa **very** (muy) o **really** (realmente) antes del adjetivo. Por ejemplo: \"I am very tired\" (estoy muy cansado) o \"I am really excited\" (estoy realmente emocionado). Ambos funcionan igual, pero **really** es un poco más informal y conversacional.\n\n**Mnemónico fácil:** piensa en **very** como el \"muy\" formal y **really** como el \"muy\" de tus amigos. En una conversación casual con un amigo, es más natural decir \"I am really hungry\" que \"I am very hungry\". Ambos son correctos, pero **really** suena más natural en situaciones informales.\n\n## Preguntas sobre emociones: How do you feel?\n\nPara preguntar cómo se siente alguien, usa **How** + verbo **feel** + sujeto. Las preguntas más comunes son: \"How do you feel?\" (cómo te sientes) y \"How are you?\" (cómo estás). La respuesta típica es \"I feel...\" seguido del adjetivo.\n\n**Conversación real:** cuando alguien te pregunta \"How are you?\", no siempre tienes que responder con una emoción. Puedes decir \"I am fine, thank you\" (estoy bien, gracias) o \"I am great!\" (estoy genial). Pero si quieres ser más específico, puedes decir \"I feel tired today\" (me siento cansado hoy) o \"I feel happy because it is summer\" (me siento feliz porque es verano).\n\n## Errores comunes que debes evitar\n\n**Error 1:** No digas \"I am feel happy\". El verbo **feel** ya incluye la idea de \"estar\", así que no necesitas el verbo **be** (am, is, are). Di simplemente \"I feel happy\".\n\n**Error 2:** No confundas **feel** y **look**. \"I feel tired\" significa que estás cansado por dentro. \"I look tired\" significa que te ves cansado por fuera, aunque quizás no lo estés. Son conceptos diferentes.\n\n**Error 3:** No olvides el adjetivo después de **feel** o **look**. En inglés, no puedes decir \"I feel\" sin completar la idea. Siempre necesitas un adjetivo: \"I feel bored\" (me siento aburrido), \"You look wonderful\" (te ves maravilloso).",
+  "metadata": {
+    "generated_at": "2026-08-11T18:13:37Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

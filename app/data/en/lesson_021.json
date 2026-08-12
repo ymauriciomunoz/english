@@ -1,0 +1,1104 @@
+{
+  "id": "lesson_021",
+  "position": 22,
+  "unit_id": 5,
+  "course_id": "en.A1",
+  "title_form": "Sports and exercise",
+  "title_target": "Deportes y ejercicio",
+  "theme_focus": "Sports and exercise",
+  "learning_objectives": [
+    "Can talk about sports they play, exercise routines, and sports vocabulary."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_020"
+  ],
+  "grammar_focus": [
+    "go_play_do_with_sports (go swimming, play football, do yoga)",
+    "present_simple_with_sports_routine (I play tennis on Saturdays, She goes swimming every week)",
+    "wh_questions_about_sports (Do you play any sports?, How often do you exercise?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "swimming",
+        "running",
+        "cycling",
+        "sports",
+        "run_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "book",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "coat",
+        "coffee",
+        "come_verb",
+        "cook_verb",
+        "cost_verb",
+        "country",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "early_adj_2",
+        "eat_verb",
+        "evening",
+        "exam",
+        "excuse_me_interj",
+        "expensive_adj",
+        "family",
+        "father",
+        "film",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hotel",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "listen_to_music_phrase",
+        "live_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "small_adj",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "spring",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "three_num",
+        "ticket",
+        "time",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "week",
+        "weekend",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Tom, un estudiante inglés de 22 años, llega a un parque en Madrid para jugar al fútbol con unos amigos. No conoce a nadie y se siente un poco nervioso. Un chico llamado Carlos le sonríe y le pregunta: 'Do you play football?' Tom asiente y responde: 'Yes, I play football and I go running every morning'. Carlos le presenta al grupo y empiezan a jugar. Al final del partido, Tom ya tiene tres amigos nuevos y se siente mucho más tranquilo.",
+  "introduction_md": "¿Qué deporte practicas tú? ¿Nadas, corres o montas en bicicleta? En esta lección vas a aprender a hablar de tus deportes y rutinas de ejercicio en inglés. Ya sabes decir 'I play football' y 'I go to school'. Ahora vas a dar un paso más: vas a aprender cuándo usar 'go', 'play' o 'do' con cada deporte, y cómo hablar de tu rutina semanal. Imagina que un amigo inglés te pregunta: 'What sports do you play?' ¿Sabrías responder? Al final de esta lección, podrás contarle a alguien qué deportes practicas, con qué frecuencia y cuándo. También aprenderás a hacer preguntas sobre los deportes de los demás. Este vocabulario te servirá en el gimnasio, en el parque o en una conversación casual. ¡Vamos a empezar!",
+  "intro_target": "What sport do you play? Do you swim, run, or ride a bike? In this lesson, you will learn to talk about your sports and exercise routines in English. You already know how to say 'I play football' and 'I go to school'. Now you will take a step further: you will learn when to use 'go', 'play', or 'do' with each sport, and how to talk about your weekly routine. Imagine an English friend asks you: 'What sports do you play?' Would you know how to answer? By the end of this lesson, you will be able to tell someone what sports you play, how often, and when. You will also learn to ask questions about other people's sports. This vocabulary will help you at the gym, in the park, or in a casual conversation. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "swimming",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I go swimming on Saturdays.",
+      "translation_form": "Voy a nadar los sábados.",
+      "highlight_words": [
+        "swimming"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "running",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She goes running every morning.",
+      "translation_form": "Ella sale a correr cada mañana.",
+      "highlight_words": [
+        "running"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "cycling",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Do you like cycling in the park?",
+      "translation_form": "¿Te gusta andar en bicicleta en el parque?",
+      "highlight_words": [
+        "cycling"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "sports",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We play sports at school.",
+      "translation_form": "Jugamos deportes en la escuela.",
+      "highlight_words": [
+        "sports"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "run_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I run in the park with my friend.",
+      "translation_form": "Corro en el parque con mi amigo.",
+      "highlight_words": [
+        "run"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "go_play_do_with_sports",
+      "title_form": "Go, play y do con deportes",
+      "title_target": "Go, play and do with sports",
+      "description_md_form": "En inglés, usamos **tres verbos diferentes** para hablar de deportes: **go**, **play** y **do**. La elección depende del deporte.\n\n**GO** se usa con deportes que terminan en **-ing** (actividades que implican movimiento): `go swimming`, `go running`, `go cycling`. Significa \"ir a hacer\" esa actividad.\n\n**PLAY** se usa con **deportes de equipo** o con **pelota**: `play football`, `play tennis`. Significa \"jugar\".\n\n**DO** se usa con **deportes individuales** o **ejercicios** que no son de equipo: `do yoga`, `do exercise`. Significa \"hacer\".\n\n**Regla rápida**: si termina en **-ing** → **go**. Si es un juego con pelota → **play**. Si es ejercicio individual → **do**.",
+      "description_md_target": "In English, we use **three different verbs** to talk about sports: **go**, **play** and **do**. The choice depends on the sport.\n\n**GO** is used with sports that end in **-ing** (activities that involve movement): `go swimming`, `go running`, `go cycling`. It means \"to go do\" that activity.\n\n**PLAY** is used with **team sports** or **ball sports**: `play football`, `play tennis`. It means \"to play\".\n\n**DO** is used with **individual sports** or **exercises** that are not team sports: `do yoga`, `do exercise`. It means \"to do\".\n\n**Quick rule**: if it ends in **-ing** → **go**. If it's a ball game → **play**. If it's individual exercise → **do**.",
+      "grammar_structure": "go + [sport with -ing] | play + [team/ball sport] | do + [individual sport/exercise]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "swimming",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I go swimming on Saturdays.",
+          "translation_form": "Voy a nadar los sábados.",
+          "highlight_words": [
+            "go",
+            "swimming"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "sports",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "We play sports at school.",
+          "translation_form": "Jugamos deportes en la escuela.",
+          "highlight_words": [
+            "play",
+            "sports"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Pista visual**: si el deporte termina en **-ing** (swimming, running, cycling), siempre usa **go**. Es la regla más fácil de recordar."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: no digas *\"I play swimming\"*. Con deportes en **-ing**, siempre usa **go**: *\"I go swimming\"*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir \"I play swimming\" en lugar de \"I go swimming\". Los deportes con -ing siempre usan go.",
+        "Decir \"I go football\" en lugar de \"I play football\". Los deportes con pelota usan play.",
+        "Confundir \"I do running\" con \"I go running\". Con actividades en -ing, la forma correcta es go.",
+        "Usar \"I play cycling\" en lugar de \"I go cycling\". Recuerda: -ing → go."
+      ]
+    },
+    {
+      "slug": "present_simple_with_sports_routine",
+      "title_form": "Presente simple para rutinas de deporte",
+      "title_target": "Present Simple for Sports Routines",
+      "description_md_form": "Usamos el **presente simple** para hablar de rutinas y hábitos, como los deportes que practicamos regularmente. La estructura es: **sujeto + verbo (+ -s para he/she/it) + complemento**. Por ejemplo: *I go swimming on Saturdays* (Voy a nadar los sábados) y *She goes running every morning* (Ella sale a correr cada mañana). Para preguntar sobre rutinas, usamos **Do/Does** al inicio: *Do you like cycling in the park?* (¿Te gusta andar en bicicleta en el parque?). Recuerda que con **he, she, it** el verbo cambia: *go* se convierte en *goes* y *run* en *runs*. Este tiempo expresa acciones que ocurren con frecuencia, no acciones que están pasando ahora mismo.",
+      "description_md_target": "We use the **present simple** to talk about routines and habits, like sports we do regularly. The structure is: **subject + verb (+ -s for he/she/it) + complement**. For example: *I go swimming on Saturdays* and *She goes running every morning*. To ask about routines, we use **Do/Does** at the beginning: *Do you like cycling in the park?* Remember that with **he, she, it** the verb changes: *go* becomes *goes* and *run* becomes *runs*. This tense expresses actions that happen frequently, not actions happening right now.",
+      "grammar_structure": "Subject + verb (+ -s for he/she/it) + complement",
+      "conjugation_table": {
+        "name": "present_simple",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "go / run",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "go / run",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She/It",
+            "form": "goes / runs",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "go / run",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "go / run",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "run_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I run in the park with my friend.",
+          "translation_form": "Corro en el parque con mi amigo.",
+          "highlight_words": [
+            "run"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "swimming",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "We go swimming on Saturdays.",
+          "translation_form": "Vamos a nadar los sábados.",
+          "highlight_words": [
+            "go",
+            "swimming"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Con *he*, *she* o *it*, agrega **-s** o **-es** al verbo. Por ejemplo: *She goes running* (no *She go running*)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *I am go swimming* (incorrecto). El presente simple no usa *am/is/are* con el verbo principal. La forma correcta es *I go swimming*."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar la -s en la tercera persona: *She go running* en lugar de *She goes running*.",
+        "Usar el presente continuo para rutinas: *I am running every morning* en lugar de *I run every morning*.",
+        "Confundir el orden en preguntas: *You do like cycling?* en lugar de *Do you like cycling?*"
+      ]
+    },
+    {
+      "slug": "wh_questions_about_sports",
+      "title_form": "Preguntas con Wh- sobre deportes",
+      "title_target": "Wh- Questions About Sports",
+      "description_md_form": "Para preguntar sobre deportes, usamos las palabras **what**, **where**, **when** y **how often** al inicio de la pregunta. La estructura es: **Wh- + do/does + sujeto + verbo?**\n\n- **What** pregunta por el deporte: *What sports do you play?*\n- **Where** pregunta por el lugar: *Where do you run?*\n- **When** pregunta por el momento: *When do you go swimming?*\n- **How often** pregunta por la frecuencia: *How often do you go cycling?*\n\nCon **he**, **she** o **it**, usamos **does** y el verbo vuelve a su forma base: *Where does she go running?*",
+      "description_md_target": "To ask about sports, we use the question words **what**, **where**, **when** and **how often** at the start of the question. The structure is: **Wh- + do/does + subject + verb?**\n\n- **What** asks about the sport: *What sports do you play?*\n- **Where** asks about the place: *Where do you run?*\n- **When** asks about the time: *When do you go swimming?*\n- **How often** asks about frequency: *How often do you go cycling?*\n\nWith **he**, **she** or **it**, we use **does** and the verb returns to its base form: *Where does she go running?*",
+      "grammar_structure": "Wh- + do/does + subject + base verb + ...?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "swimming",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "When do you go swimming?",
+          "translation_form": "¿Cuándo vas a nadar?",
+          "highlight_words": [
+            "when",
+            "do",
+            "go",
+            "swimming"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "run_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Where does she run?",
+          "translation_form": "¿Dónde corre ella?",
+          "highlight_words": [
+            "where",
+            "does",
+            "she",
+            "run"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**¡Cuidado!** Con **he/she/it**, usamos **does** y el verbo va en forma base: *Where does she run?* (NO *Where does she runs?*)."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Para preguntar por frecuencia, usa **how often**: *How often do you go cycling?*"
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'do' con he/she/it: *Where do she run?* → Correcto: *Where does she run?*",
+        "Añadir -s al verbo con does: *Where does she runs?* → Correcto: *Where does she run?*",
+        "Olvidar el auxiliar: *What sports you play?* → Correcto: *What sports do you play?*"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'swimming'?",
+      "options": [
+        "Nadar",
+        "Correr",
+        "Ciclismo",
+        "Fútbol"
+      ],
+      "correct_answer": "Nadar",
+      "explanation_md": "Swimming es el deporte de nadar, la natación.",
+      "related_lexeme_ids": [
+        "swimming"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'cycling'?",
+      "options": [
+        "Ciclismo",
+        "Natación",
+        "Tenis",
+        "Baloncesto"
+      ],
+      "correct_answer": "Ciclismo",
+      "explanation_md": "Cycling es el deporte de andar en bicicleta.",
+      "related_lexeme_ids": [
+        "cycling"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué verbo usamos con 'swimming'?",
+      "options": [
+        "Go",
+        "Play",
+        "Do",
+        "Make"
+      ],
+      "correct_answer": "Go",
+      "explanation_md": "Con deportes que terminan en -ing, como swimming, usamos 'go'.",
+      "related_lexeme_ids": [
+        "swimming"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué verbo usamos con 'football'?",
+      "options": [
+        "Go",
+        "Play",
+        "Do",
+        "Make"
+      ],
+      "correct_answer": "Play",
+      "explanation_md": "Con deportes de equipo como football, usamos 'play'.",
+      "related_lexeme_ids": [
+        "sports"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa: I go ______ on Saturdays.",
+      "options": null,
+      "correct_answer": "swimming",
+      "explanation_md": "Usamos 'go swimming' para hablar de la rutina de nadar.",
+      "related_lexeme_ids": [
+        "swimming"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa: She ______ running every morning.",
+      "options": null,
+      "correct_answer": "goes",
+      "explanation_md": "En presente simple, con 'she' añadimos -es al verbo: she goes.",
+      "related_lexeme_ids": [
+        "running"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: ¿Te gusta el ciclismo en el parque?",
+      "options": null,
+      "correct_answer": "Do you like cycling in the park?",
+      "explanation_md": "Para preguntar sobre gustos usamos 'Do you like...?' seguido del deporte.",
+      "related_lexeme_ids": [
+        "cycling"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: Jugamos deportes en la escuela.",
+      "options": null,
+      "correct_answer": "We play sports at school.",
+      "explanation_md": "Con 'sports' usamos el verbo 'play' y la preposición 'at' para el lugar.",
+      "related_lexeme_ids": [
+        "sports"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada deporte con su traducción:",
+      "options": [
+        "swimming",
+        "running",
+        "cycling",
+        "Nadar",
+        "Correr",
+        "Ciclismo"
+      ],
+      "correct_answer": [
+        "swimming=Nadar",
+        "running=Correr",
+        "cycling=Ciclismo"
+      ],
+      "explanation_md": "Estos son los nombres de los deportes en inglés y español.",
+      "related_lexeme_ids": [
+        "swimming",
+        "running",
+        "cycling"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: I run in the park with my friend.",
+      "options": null,
+      "correct_answer": "Corro en el parque con mi amigo.",
+      "explanation_md": "La estructura es: sujeto + verbo + lugar + compañía.",
+      "related_lexeme_ids": [
+        "run_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: When do you go running?",
+      "options": null,
+      "correct_answer": "¿Cuándo sales a correr?",
+      "explanation_md": "Para preguntar cuándo usamos 'when' al inicio de la pregunta.",
+      "related_lexeme_ids": [
+        "running"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "swimming",
+      "back": "natación",
+      "hint": "actividad en el agua",
+      "lexeme_id": "swimming",
+      "chunk_id": null,
+      "tags": [
+        "lesson_021",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "running",
+      "back": "correr (actividad)",
+      "hint": "deporte al aire libre",
+      "lexeme_id": "running",
+      "chunk_id": null,
+      "tags": [
+        "lesson_021",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "cycling",
+      "back": "ciclismo",
+      "hint": "andar en bicicleta",
+      "lexeme_id": "cycling",
+      "chunk_id": null,
+      "tags": [
+        "lesson_021",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "sports",
+      "back": "deportes",
+      "hint": "plural de sport",
+      "lexeme_id": "sports",
+      "chunk_id": null,
+      "tags": [
+        "lesson_021",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "run",
+      "back": "correr",
+      "hint": "verbo de acción",
+      "lexeme_id": "run_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_021",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "swimming",
+      "reading": "",
+      "translation": "natación",
+      "pos": "noun",
+      "example": "I go swimming on Saturdays.",
+      "example_translation": "Voy a nadar los sábados.",
+      "lexeme_id": "swimming",
+      "chunk_id": null
+    },
+    {
+      "target_word": "running",
+      "reading": "",
+      "translation": "correr (actividad)",
+      "pos": "noun",
+      "example": "She goes running every morning.",
+      "example_translation": "Ella sale a correr cada mañana.",
+      "lexeme_id": "running",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cycling",
+      "reading": "",
+      "translation": "ciclismo",
+      "pos": "noun",
+      "example": "Do you like cycling in the park?",
+      "example_translation": "¿Te gusta andar en bicicleta en el parque?",
+      "lexeme_id": "cycling",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sports",
+      "reading": "",
+      "translation": "deportes",
+      "pos": "noun",
+      "example": "We play sports at school.",
+      "example_translation": "Jugamos deportes en la escuela.",
+      "lexeme_id": "sports",
+      "chunk_id": null
+    },
+    {
+      "target_word": "run",
+      "reading": "",
+      "translation": "correr",
+      "pos": "verb",
+      "example": "I run in the park with my friend.",
+      "example_translation": "Corro en el parque con mi amigo.",
+      "lexeme_id": "run_verb",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Sports and exercise",
+      "title_target": "Quiz: Sports and exercise",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué verbo usamos con 'swimming'?",
+          "prompt_target": "Which verb do we use with 'swimming'?",
+          "options": [
+            "go",
+            "play",
+            "do",
+            "make"
+          ],
+          "correct_answer": "go",
+          "explanation_form": "Con deportes que terminan en -ing (swimming, running, cycling) usamos 'go'.",
+          "explanation_target": "With sports ending in -ing (swimming, running, cycling) we use 'go'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "go_play_do_with_sports",
+            "swimming"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I ____ every morning at 7.' (correr)",
+          "prompt_target": "Fill in: 'I ____ every morning at 7.' (run)",
+          "options": null,
+          "correct_answer": "run",
+          "explanation_form": "El verbo 'run' significa correr. En presente simple con 'I' no cambia.",
+          "explanation_target": "The verb 'run' means correr. In present simple with 'I' it doesn't change.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "run_verb",
+            "present_simple_with_sports_routine"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta: 'you / do / when / run / ?'",
+          "prompt_target": "Order the words to make a question: 'you / do / when / run / ?'",
+          "options": [
+            "you",
+            "do",
+            "when",
+            "run",
+            "?"
+          ],
+          "correct_answer": "When do you run?",
+          "explanation_form": "Para preguntar '¿cuándo corres?' usamos: When + do + sujeto + verbo.",
+          "explanation_target": "To ask 'when do you run?' we use: When + do + subject + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wh_questions_about_sports",
+            "run_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "matching",
+          "prompt_form": "Empareja cada deporte con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "swimming",
+            "natación",
+            "running",
+            "correr",
+            "cycling",
+            "ciclismo",
+            "sports",
+            "deportes"
+          ],
+          "correct_answer": [
+            "swimming=natación",
+            "running=correr",
+            "cycling=ciclismo",
+            "sports=deportes"
+          ],
+          "explanation_form": "Estos son los deportes que vimos en la lección.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "swimming",
+            "running",
+            "cycling",
+            "sports"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'She ____ swimming on Saturdays.' (ir)",
+          "prompt_target": "Fill in: 'She ____ swimming on Saturdays.' (go)",
+          "options": null,
+          "correct_answer": "goes",
+          "explanation_form": "Con 'she' en presente simple, 'go' cambia a 'goes'.",
+          "explanation_target": "With 'she' in present simple, 'go' changes to 'goes'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "go_play_do_with_sports",
+            "swimming",
+            "present_simple_with_sports_routine"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para '¿Dónde corres?'",
+          "prompt_target": "Which is the correct question for 'Where do you run?'",
+          "options": [
+            "Where do you run?",
+            "When do you run?",
+            "What do you run?",
+            "Why do you run?"
+          ],
+          "correct_answer": "Where do you run?",
+          "explanation_form": "'Where' pregunta por el lugar (dónde).",
+          "explanation_target": "'Where' asks about place.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "wh_questions_about_sports",
+            "run_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Me gusta el ciclismo.'",
+          "prompt_target": "Translate to English: 'I like cycling.'",
+          "options": null,
+          "correct_answer": "I like cycling.",
+          "explanation_form": "'Me gusta' = 'I like', 'el ciclismo' = 'cycling'.",
+          "explanation_target": "'Me gusta' = 'I like', 'el ciclismo' = 'cycling'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cycling"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué verbo usamos con 'tennis'?",
+          "prompt_target": "Which verb do we use with 'tennis'?",
+          "options": [
+            "play",
+            "go",
+            "do",
+            "make"
+          ],
+          "correct_answer": "play",
+          "explanation_form": "Con deportes de equipo o con pelota (tennis, football) usamos 'play'.",
+          "explanation_target": "With team or ball sports (tennis, football) we use 'play'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "go_play_do_with_sports",
+            "sports"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: '____ do you go running? - In the park.'",
+          "prompt_target": "Fill in: '____ do you go running? - In the park.'",
+          "options": null,
+          "correct_answer": "Where",
+          "explanation_form": "La respuesta 'in the park' indica lugar, así que la pregunta usa 'Where'.",
+          "explanation_target": "The answer 'in the park' indicates place, so the question uses 'Where'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wh_questions_about_sports",
+            "running"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Qué significa 'I run every day'?",
+          "prompt_target": "What does 'I run every day' mean?",
+          "options": null,
+          "correct_answer": "Corro todos los días.",
+          "explanation_form": "'Every day' significa 'todos los días'.",
+          "explanation_target": "'Every day' means 'todos los días'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "run_verb",
+            "present_simple_with_sports_routine"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Go, play o do: elige el verbo correcto\n\nEn ingles, no todos los deportes usan el mismo verbo. La regla es sencilla: **go** para actividades que terminan en -ing (swimming, running, cycling), **play** para deportes de equipo o con pelota (football, tennis), y **do** para actividades individuales o de gimnasio. Por ejemplo: I go swimming on Saturdays, I play football with my friends, y I do exercise at home.\n\nUn error comun es decir *I play swimming*. Recuerda: si la palabra termina en -ing, usa **go**. Si es un deporte con pelota, usa **play**. Si es ejercicio en general, usa **do**. Con la practica, esta eleccion se vuelve automatica.\n\n## El presente simple para hablar de rutinas\n\nCuando hablamos de deportes que hacemos regularmente, usamos el presente simple. Para I, you, we y they, el verbo no cambia: I run every morning. Para he, she e it, agregamos -s: She runs every morning. Tambien usamos adverbios de frecuencia como always, usually, sometimes o never para dar mas informacion: I usually go cycling on weekends.\n\nPresta atencion a la tercera persona: He plays tennis, She goes swimming, My brother runs in the park. Es un cambio pequeno pero muy importante. Si olvidas la -s, la oracion suena incompleta para un hablante nativo.\n\n## Preguntas con Wh- sobre deportes\n\nPara preguntar sobre deportes, usamos palabras como what, when, where y who. La estructura es: Wh- + do/does + sujeto + verbo. Por ejemplo: What sports do you play? When does she go running? Where do they play football? Con he, she e it, usamos **does** y el verbo vuelve a su forma base: Does he play tennis? (no *Does he plays*).\n\nUn tip util: cuando usas **does**, el verbo principal no lleva -s. Es como si **does** ya tuviera la -s por ti. Practica con preguntas sobre tu rutina: What sports do you do? When do you go swimming? Who plays football in your family?\n\n## Errores comunes y como evitarlos\n\nEl error mas frecuente es confundir **sport** y **sports**. **Sport** es singular (Football is a sport) y **sports** es plural (I like sports). Otro error es olvidar el articulo con **go**: decimos go swimming, no *go to swimming*. Con **play**, no usamos articulo tampoco: play football, no *play the football*.\n\nTambien es comun confundir **run** (verbo) con **running** (actividad). I run every day (verbo) vs. Running is good for you (actividad). Recuerda que **run** es el verbo base y **running** es la forma -ing que usamos con **go** o como sustantivo.\n\n## Vocabulario clave de esta leccion\n\nAquí tienes un mini-glosario para repasar: **swimming** (natacion), **running** (correr/carrera), **cycling** (ciclismo), **sports** (deportes) y **run** (correr, verbo). Nota que swimming, running y cycling son actividades que usan **go**. El verbo **run** se conjuga: I run, you run, he runs.\n\nPara recordar mejor, asocia cada palabra con una imagen: swimming con la piscina, running con el parque, cycling con la bicicleta. Cuando veas estas palabras en los ejercicios, piensa primero en el verbo correcto (go, play o do) y luego en la estructura de la oracion. Con estos tips, estaras listo para hablar de deportes con confianza.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:22:52Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

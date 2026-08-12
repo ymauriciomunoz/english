@@ -1,0 +1,1388 @@
+{
+  "id": "lesson_029",
+  "position": 30,
+  "unit_id": 6,
+  "course_id": "en.A1",
+  "title_form": "Requests, permission, and offers",
+  "title_target": "Peticiones, permiso y ofrecimientos",
+  "theme_focus": "Requests, permission, and offers",
+  "learning_objectives": [
+    "Can make polite requests, ask for permission, and offer help using modals."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_012",
+    "lesson_027"
+  ],
+  "grammar_focus": [
+    "can_for_permission (Can I open the window?, Can I use your phone?)",
+    "could_for_polite_permission (Could I borrow your pen?, Could I sit here?)",
+    "can_for_offers (Can I help you?, Can I carry that for you?)",
+    "would_for_offers (Would you like some water?, Would you like to sit down?)",
+    "imperative_review (Open your books, Don't run, Please be quiet)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "open_verb",
+        "close_verb",
+        "help_verb",
+        "use_verb",
+        "wait_verb",
+        "sit_verb",
+        "stand_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "back",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "better_adj",
+        "between_prep",
+        "bicycle",
+        "big_adj",
+        "bike",
+        "bill",
+        "black_adj",
+        "boat",
+        "body",
+        "book",
+        "bored_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "bus",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "can_modal",
+        "car",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "class",
+        "classroom",
+        "clock",
+        "coat",
+        "coffee",
+        "cold_adj",
+        "come_verb",
+        "cook_verb",
+        "cool_adj",
+        "cost_verb",
+        "country",
+        "cycling",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "drive_verb",
+        "early_adj_2",
+        "eat_verb",
+        "enjoy_verb",
+        "evening",
+        "exam",
+        "excited_adj",
+        "excuse_me_interj",
+        "expensive_adj",
+        "eye",
+        "face",
+        "family",
+        "father",
+        "favourite_2",
+        "favourite_adj",
+        "feel_verb",
+        "feet",
+        "film",
+        "fine_adj",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "foot",
+        "football",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "game",
+        "get_up_verb",
+        "go_verb",
+        "going_to_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "great_adj",
+        "grey_adj",
+        "guitar",
+        "half",
+        "hand",
+        "happy_adj",
+        "hat",
+        "hate_verb",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "head",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "homework",
+        "hospital",
+        "hot_adj",
+        "hotel",
+        "hour",
+        "hungry_adj",
+        "hurt_verb",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "language",
+        "last_adj",
+        "late_adj",
+        "later_adv",
+        "learn_verb",
+        "leave_verb",
+        "left",
+        "lesson",
+        "like_verb",
+        "listen_to_music_phrase",
+        "live_verb",
+        "look_verb",
+        "love_verb",
+        "lunch",
+        "map",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "movie",
+        "museum",
+        "music",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "need_verb",
+        "never_adv",
+        "next_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pen",
+        "pink_2",
+        "play_verb",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "rain",
+        "read_verb",
+        "restaurant",
+        "return_verb",
+        "right",
+        "road",
+        "run_verb",
+        "running",
+        "sad_adj",
+        "salad",
+        "school",
+        "science",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "sick_adj",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "sleep_verb",
+        "small_adj",
+        "snow",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "speak_verb",
+        "sport",
+        "sports",
+        "spring",
+        "start_verb",
+        "station",
+        "stay_verb",
+        "stop",
+        "street",
+        "student",
+        "study_verb",
+        "summer",
+        "sun",
+        "supermarket",
+        "sweater",
+        "swim_verb",
+        "swimming",
+        "t_shirt",
+        "tall_adj",
+        "taxi",
+        "tea",
+        "teacher",
+        "teeth_2",
+        "tennis",
+        "test",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "thirsty_adj",
+        "three_num",
+        "ticket",
+        "time",
+        "tired_adj",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "tooth",
+        "tourist",
+        "train",
+        "travel_verb",
+        "trip",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vacation",
+        "vegetable",
+        "village",
+        "visit_verb",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "want_verb",
+        "warm_adj",
+        "watch_tv_phrase",
+        "water",
+        "we_pronoun",
+        "weather",
+        "week",
+        "weekend",
+        "well_adv",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "wonderful_adj",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "write_verb",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante colombiana de 22 años, llega a su clase de inglés en una academia de Madrid y encuentra la sala muy calurosa. El profesor, David, está escribiendo en la pizarra y no se da cuenta. Sofía, un poco nerviosa, levanta la mano y dice: 'Can I open the window, please?' David sonríe y asiente. Al final de la clase, Sofía se siente más segura y ha aprendido a pedir permiso y ofrecer ayuda en inglés.",
+  "introduction_md": "¿Alguna vez has necesitado pedir algo en inglés y no sabías cómo? Imagina que estás en un café en Londres y quieres abrir la ventana porque hace calor. ¿Qué dices? En esta lección vas a aprender las frases exactas para hacer peticiones, pedir permiso y ofrecer ayuda. Ya sabes usar 'can' para hablar de habilidades, como en 'I can swim'. Ahora vas a descubrir que 'can' también sirve para pedir cosas de forma educada: 'Can I open the window?' Además, aprenderás a usar 'could' para ser aún más cortés y 'would' para ofrecer ayuda. Con estas herramientas, podrás desenvolverte en cualquier situación: en un restaurante, en una tienda o en casa de un amigo. Al final de la lección, te sentirás seguro para interactuar en inglés sin miedo a equivocarte. ¡Vamos a practicar!",
+  "intro_target": "Have you ever needed to ask for something in English and didn't know how? Imagine you are in a café in London and you want to open the window because it is hot. What do you say? In this lesson, you will learn the exact phrases to make requests, ask for permission, and offer help. You already know how to use 'can' to talk about abilities, like 'I can swim'. Now you will discover that 'can' is also used to ask for things politely: 'Can I open the window?' You will also learn to use 'could' to be even more polite and 'would' to offer help. With these tools, you will be able to handle any situation: in a restaurant, in a shop, or at a friend's house. By the end of the lesson, you will feel confident to interact in English without fear of making mistakes. Let's practice!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "open_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Can I open the window?",
+      "translation_form": "¿Puedo abrir la ventana?",
+      "highlight_words": [
+        "open"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "use_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Can I use your phone?",
+      "translation_form": "¿Puedo usar tu teléfono?",
+      "highlight_words": [
+        "use"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "sit_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Could I sit here?",
+      "translation_form": "¿Podría sentarme aquí?",
+      "highlight_words": [
+        "sit"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "help_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Can I help you?",
+      "translation_form": "¿Puedo ayudarte?",
+      "highlight_words": [
+        "help"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Could you wait for me?",
+      "translation_form": "¿Podrías esperarme?",
+      "highlight_words": [
+        "wait"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "close_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Please close the door.",
+      "translation_form": "Por favor, cierra la puerta.",
+      "highlight_words": [
+        "close"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "stand_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Please stand up.",
+      "translation_form": "Por favor, ponte de pie.",
+      "highlight_words": [
+        "stand"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "can_for_permission",
+      "title_form": "Can para pedir permiso",
+      "title_target": "Can for permission",
+      "description_md_form": "Usamos **can** para pedir permiso de forma sencilla y natural. La estructura es: **Can I + verbo...?** (¿Puedo...?). Es la forma más común y directa para preguntar si podemos hacer algo.\n\nEjemplos:\n- `Can I open the window?` = ¿Puedo abrir la ventana?\n- `Can I use your phone?` = ¿Puedo usar tu teléfono?\n\n**Can** no cambia con la persona: decimos *Can I*, *Can you*, *Can he*, siempre igual. Después de **can**, el verbo va en su forma base, sin *to* ni terminaciones.\n\nEs perfecto para situaciones cotidianas: en clase, en casa o con amigos. Si quieres ser más formal, puedes usar **could**, pero **can** es suficiente para la mayoría de las situaciones.",
+      "description_md_target": "We use **can** to ask for permission in a simple and natural way. The structure is: **Can I + verb...?** It is the most common and direct way to ask if we can do something.\n\nExamples:\n- `Can I open the window?`\n- `Can I use your phone?`\n\n**Can** does not change with the person: we say *Can I*, *Can you*, *Can he*, always the same. After **can**, the verb goes in its base form, without *to* or endings.\n\nIt is perfect for everyday situations: in class, at home, or with friends. If you want to be more formal, you can use **could**, but **can** is enough for most situations.",
+      "grammar_structure": "Can + I + verb (base form) + ...?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "open_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Can I open the window?",
+          "translation_form": "¿Puedo abrir la ventana?",
+          "highlight_words": [
+            "can",
+            "open"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "use_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Can I use your phone?",
+          "translation_form": "¿Puedo usar tu teléfono?",
+          "highlight_words": [
+            "can",
+            "use"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Can** no cambia con la persona. Decimos *Can I*, *Can you*, *Can he*, siempre igual. No digas *Cans* ni *Can he to open*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "Después de **can**, el verbo va en forma base, sin *to*. No digas *Can I to open the window?*, sino *Can I open the window?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *Can I to open the window?* en lugar de *Can I open the window?* (no se usa *to* después de can).",
+        "Decir *I can to help* en lugar de *I can help* (el verbo va en forma base).",
+        "Confundir el orden: *I can open?* en lugar de *Can I open?* (en preguntas, can va antes del sujeto)."
+      ]
+    },
+    {
+      "slug": "could_for_polite_permission",
+      "title_form": "Could para pedir permiso con cortesía",
+      "title_target": "Could for polite permission",
+      "description_md_form": "Usamos **could** para pedir permiso de forma muy cortés y educada. Es más formal que **can**. Lo usamos con personas que no conocemos bien o en situaciones formales.\n\nLa estructura es simple: **Could + I + verbo** para preguntar por nosotros, y **Could + you + verbo** para pedirle algo a otra persona.\n\nEjemplos:\n- `Could I sit here?` = ¿Podría sentarme aquí?\n- `Could you wait for me?` = ¿Podrías esperarme?\n\n**Could** no cambia con la persona. Siempre es **could** para I, you, he, she, etc. Después de **could**, el verbo va en forma base, sin **to**.",
+      "description_md_target": "We use **could** to ask for permission in a very polite and formal way. It is more formal than **can**. We use it with people we do not know well or in formal situations.\n\nThe structure is simple: **Could + I + verb** to ask about ourselves, and **Could + you + verb** to ask someone else for something.\n\nExamples:\n- `Could I sit here?` = Could I sit here?\n- `Could you wait for me?` = Could you wait for me?\n\n**Could** does not change with the person. It is always **could** for I, you, he, she, etc. After **could**, the verb goes in base form, without **to**.",
+      "grammar_structure": "Could + I/you + verb (base form) + ...?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "could_for_polite_permission",
+          "text_target": "Could I sit here?",
+          "translation_form": "¿Podría sentarme aquí?",
+          "highlight_words": [
+            "could",
+            "sit"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "could_for_polite_permission",
+          "text_target": "Could you wait for me?",
+          "translation_form": "¿Podrías esperarme?",
+          "highlight_words": [
+            "could",
+            "wait"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Could** es más cortés que **can**. Usa **could** con personas que no conoces bien, como un doctor o un profesor. Con amigos, **can** es más natural."
+        },
+        {
+          "type": "common_error",
+          "text_md": "Después de **could**, el verbo va en forma base, sin **to**. No digas *Could I to sit here?* — di **Could I sit here?**"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *Could I to sit here?* en lugar de **Could I sit here?** — después de **could** el verbo va sin **to**.",
+        "Usar **could** con amigos cercanos cuando **can** es más natural y menos formal.",
+        "Olvidar que **could** no cambia con la persona: *He could* y *I could* son iguales."
+      ]
+    },
+    {
+      "slug": "can_for_offers",
+      "title_form": "Can para ofrecer ayuda",
+      "title_target": "Can for offers",
+      "description_md_form": "Usamos **can** para **ofrecer ayuda** a otra persona. Es una forma amable y natural de preguntar si podemos hacer algo por alguien.\n\nLa estructura es simple: **Can I + verbo...?**\n\n- **Can I help you?** = ¿Puedo ayudarte?\n- **Can I open the window?** = ¿Puedo abrir la ventana?\n\nEn inglés, cuando ofrecemos ayuda, la pregunta con **Can I...?** es la más común. No necesitas una palabra especial para \"ofrecer\"; la entonación y el contexto hacen el trabajo.\n\nRecuerda: después de **can**, el verbo va en su forma base, sin cambios. No decimos \"Can I helping?\" sino **Can I help?**.",
+      "description_md_target": "We use **can** to **offer help** to another person. It is a kind and natural way to ask if we can do something for someone.\n\nThe structure is simple: **Can I + verb...?**\n\n- **Can I help you?** = Can I help you?\n- **Can I open the window?** = Can I open the window?\n\nIn English, when we offer help, the question with **Can I...?** is the most common. You do not need a special word for \"offer\"; intonation and context do the work.\n\nRemember: after **can**, the verb goes in its base form, without changes. We do not say \"Can I helping?\" but **Can I help?**.",
+      "grammar_structure": "Can I + base verb + ...?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "help_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Can I help you?",
+          "translation_form": "¿Puedo ayudarte?",
+          "highlight_words": [
+            "can",
+            "help"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "open_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Can I open the window?",
+          "translation_form": "¿Puedo abrir la ventana?",
+          "highlight_words": [
+            "can",
+            "open"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, **Can I help you?** es la frase perfecta para ofrecer ayuda en una tienda o restaurante. Es cortés y muy común."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas \"Can I to help you?\" — después de **can**, el verbo va sin **to**. Siempre: **Can I help you?**"
+        }
+      ],
+      "common_errors_es": [
+        "Decir \"Can I to help you?\" en lugar de \"Can I help you?\" — después de can, el verbo va sin to.",
+        "Usar \"Can I helping you?\" — el verbo después de can siempre va en forma base, sin -ing.",
+        "Confundir ofrecer ayuda con pedir permiso: \"Can I help you?\" es ofrecer, no pedir permiso para ayudar."
+      ]
+    },
+    {
+      "slug": "would_for_offers",
+      "title_form": "Ofrecimientos con Would",
+      "title_target": "Offers with Would",
+      "description_md_form": "Usamos **would** para hacer ofrecimientos de forma **muy educada y cortés**. Es una forma más formal que *can*. La estructura es: **Would you like + to + verbo?** o **Would you like + sustantivo?**. Por ejemplo: *Would you like to sit here?* (¿Te gustaría sentarte aquí?). También podemos usar **I would like** para pedir algo de forma educada: *I would like to open the window* (Me gustaría abrir la ventana). En conversación, **would** se contrae a **'d**: *I'd like a coffee* (Me gustaría un café). Esta forma es perfecta para restaurantes, tiendas o con personas que no conocemos bien.",
+      "description_md_target": "We use **would** to make offers in a **very polite and courteous** way. It is more formal than *can*. The structure is: **Would you like + verb?** or **Would you like + noun?**. For example: *Would you like to sit here?* We can also use **I would like** to ask for something politely: *I would like to open the window*. In conversation, **would** contracts to **'d**: *I'd like a coffee*. This form is perfect for restaurants, shops, or with people we do not know well.",
+      "grammar_structure": "Would you like + to + verb / noun?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "would_for_offers",
+          "text_target": "Would you like to sit here?",
+          "translation_form": "¿Te gustaría sentarte aquí?",
+          "highlight_words": [
+            "would",
+            "like",
+            "sit"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "would_for_offers",
+          "text_target": "I would like to open the window.",
+          "translation_form": "Me gustaría abrir la ventana.",
+          "highlight_words": [
+            "would",
+            "like",
+            "open"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip**: En inglés, *would you like* es una oferta amable. No es una pregunta de sí o no, es una invitación. Responde *Yes, please* o *No, thank you*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: No digas *Do you like to sit here?* Eso pregunta si te gusta sentarte (hábito). Para ofrecer, usa *Would you like to sit here?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'Do you like...' en lugar de 'Would you like...' para ofrecer algo. 'Do you like' pregunta por gustos generales, no hace una oferta.",
+        "Olvidar el 'to' antes del verbo: 'Would you like sit here?' es incorrecto; debe ser 'Would you like to sit here?'.",
+        "Usar 'I would like' sin el verbo en infinitivo: 'I would like open the window' es incorrecto; debe ser 'I would like to open the window'."
+      ]
+    },
+    {
+      "slug": "imperative_review",
+      "title_form": "El imperativo: dar órdenes y hacer peticiones directas",
+      "title_target": "The Imperative: Giving Orders and Making Direct Requests",
+      "description_md_form": "El **imperativo** se usa para dar **órdenes**, **instrucciones** o hacer **peticiones directas**. Es la forma más simple del verbo: usamos el verbo en su forma base, sin sujeto.\n\n**Estructura:** `Verbo base` + complemento.\n\n**Ejemplos:**\n- `Open the window.` (Abre la ventana.)\n- `Close the door.` (Cierra la puerta.)\n- `Wait for me.` (Espérame.)\n\nPara hacerlo más **educado**, añadimos `please` al principio o al final:\n- `Please sit here.` (Por favor, siéntate aquí.)\n- `Stand up, please.` (Ponte de pie, por favor.)\n\nPara la forma **negativa**, usamos `don't` antes del verbo:\n- `Don't wait.` (No esperes.)\n- `Don't close the door.` (No cierres la puerta.)\n\nEl imperativo es muy común en conversaciones diarias para pedir acciones simples.",
+      "description_md_target": "The **imperative** is used to give **orders**, **instructions**, or make **direct requests**. It is the simplest verb form: we use the base form of the verb, without a subject.\n\n**Structure:** `Base verb` + complement.\n\n**Examples:**\n- `Open the window.`\n- `Close the door.`\n- `Wait for me.`\n\nTo make it more **polite**, add `please` at the beginning or end:\n- `Please sit here.`\n- `Stand up, please.`\n\nFor the **negative** form, use `don't` before the verb:\n- `Don't wait.`\n- `Don't close the door.`\n\nThe imperative is very common in daily conversations to ask for simple actions.",
+      "grammar_structure": "Verb (base form) + complement / Don't + verb (base form) + complement",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "open_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Open the window, please.",
+          "translation_form": "Abre la ventana, por favor.",
+          "highlight_words": [
+            "open"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "wait_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Please wait for me.",
+          "translation_form": "Por favor, espérame.",
+          "highlight_words": [
+            "wait"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, el imperativo no cambia con la persona. `Open the door.` sirve para \"tú\", \"usted\", \"vosotros\" y \"ustedes\". El contexto y el tono de voz indican a quién nos dirigimos."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No uses el sujeto con el imperativo. Decimos `Open the window.` y NO `You open the window.` El sujeto está implícito."
+        }
+      ],
+      "common_errors_es": [
+        "Usar el sujeto con el imperativo: Decimos 'Open the door.' y no 'You open the door.'",
+        "Olvidar 'don't' en la forma negativa: Decimos 'Don't wait.' y no 'No wait.'",
+        "Confundir el imperativo con el presente simple: 'Close the door.' (orden) vs. 'You close the door.' (afirmación)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'open'?",
+      "options": [
+        "abrir",
+        "cerrar",
+        "esperar",
+        "sentarse"
+      ],
+      "correct_answer": "abrir",
+      "explanation_md": "'Open' significa 'abrir'. Lo usamos para pedir permiso: 'Can I open the window?'",
+      "related_lexeme_ids": [
+        "open_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'wait'?",
+      "options": [
+        "ayudar",
+        "esperar",
+        "usar",
+        "pararse"
+      ],
+      "correct_answer": "esperar",
+      "explanation_md": "'Wait' significa 'esperar'. Ejemplo: 'Could you wait for me?'",
+      "related_lexeme_ids": [
+        "wait_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'sit'?",
+      "options": [
+        "pararse",
+        "sentarse",
+        "cerrar",
+        "abrir"
+      ],
+      "correct_answer": "sentarse",
+      "explanation_md": "'Sit' significa 'sentarse'. Ejemplo: 'Could I sit here?'",
+      "related_lexeme_ids": [
+        "sit_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'help'?",
+      "options": [
+        "usar",
+        "esperar",
+        "ayudar",
+        "sentarse"
+      ],
+      "correct_answer": "ayudar",
+      "explanation_md": "'Help' significa 'ayudar'. Ejemplo: 'Can I help you?'",
+      "related_lexeme_ids": [
+        "help_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en un restaurante y quieres pedir permiso para abrir la ventana. ¿Qué dices?",
+      "options": [
+        "Can I open the window?",
+        "Can I close the window?",
+        "Could I sit here?",
+        "Can I help you?"
+      ],
+      "correct_answer": "Can I open the window?",
+      "explanation_md": "Usamos 'Can I...?' para pedir permiso. 'Can I open the window?' significa '¿Puedo abrir la ventana?'",
+      "related_lexeme_ids": [
+        "open_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en un café y quieres sentarte en una silla libre. ¿Qué dices?",
+      "options": [
+        "Could I sit here?",
+        "Can I help you?",
+        "Could you wait for me?",
+        "Can I use your phone?"
+      ],
+      "correct_answer": "Could I sit here?",
+      "explanation_md": "Usamos 'Could I...?' para pedir permiso con cortesía. 'Could I sit here?' significa '¿Podría sentarme aquí?'",
+      "related_lexeme_ids": [
+        "sit_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "Un amigo tiene muchas bolsas y quieres ofrecer tu ayuda. ¿Qué dices?",
+      "options": [
+        "Can I help you?",
+        "Could I sit here?",
+        "Can I open the window?",
+        "Could you wait for me?"
+      ],
+      "correct_answer": "Can I help you?",
+      "explanation_md": "Usamos 'Can I help you?' para ofrecer ayuda. Significa '¿Puedo ayudarte?'",
+      "related_lexeme_ids": [
+        "help_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase para pedir permiso de usar el teléfono de un amigo: 'Can I ____ your phone?'",
+      "options": null,
+      "correct_answer": "use",
+      "explanation_md": "Usamos 'use' para pedir permiso de usar algo. 'Can I use your phone?' significa '¿Puedo usar tu teléfono?'",
+      "related_lexeme_ids": [
+        "use_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase para pedir a alguien que espere: 'Could you ____ for me?'",
+      "options": null,
+      "correct_answer": "wait",
+      "explanation_md": "Usamos 'wait' para pedir que alguien espere. 'Could you wait for me?' significa '¿Podrías esperarme?'",
+      "related_lexeme_ids": [
+        "wait_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Puedo cerrar la puerta?'",
+      "options": null,
+      "correct_answer": "Can I close the door?",
+      "explanation_md": "Usamos 'Can I...?' para pedir permiso. 'Close' significa 'cerrar'.",
+      "related_lexeme_ids": [
+        "close_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Could you stand here?'",
+      "options": null,
+      "correct_answer": "¿Podrías pararte aquí?",
+      "explanation_md": "'Could you...?' es una forma cortés de pedir algo. 'Stand' significa 'pararse'.",
+      "related_lexeme_ids": [
+        "stand_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "matching",
+      "prompt_md": "Empareja cada verbo con su significado:",
+      "options": [
+        "open",
+        "abrir",
+        "close",
+        "cerrar",
+        "help",
+        "ayudar",
+        "use",
+        "usar"
+      ],
+      "correct_answer": [
+        "open=abrir",
+        "close=cerrar",
+        "help=ayudar",
+        "use=usar"
+      ],
+      "explanation_md": "Estos son verbos útiles para pedir permiso y ofrecer ayuda.",
+      "related_lexeme_ids": [
+        "open_verb",
+        "close_verb",
+        "help_verb",
+        "use_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "open",
+      "back": "abrir",
+      "hint": "verbo para abrir algo",
+      "lexeme_id": "open_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "A1",
+        "transactions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "close",
+      "back": "cerrar",
+      "hint": "verbo para cerrar algo",
+      "lexeme_id": "close_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "A1",
+        "transactions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "help",
+      "back": "ayudar / servir",
+      "hint": "verbo para ofrecer ayuda",
+      "lexeme_id": "help_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "A1",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "use",
+      "back": "usar",
+      "hint": "verbo para usar algo",
+      "lexeme_id": "use_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "wait",
+      "back": "esperar",
+      "hint": "verbo para esperar",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "sit",
+      "back": "sentarse",
+      "hint": "verbo para sentarse",
+      "lexeme_id": "sit_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "stand",
+      "back": "ponerse de pie",
+      "hint": "verbo para ponerse de pie",
+      "lexeme_id": "stand_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "open",
+      "reading": "",
+      "translation": "abrir",
+      "pos": "verb",
+      "example": "Can I open the window?",
+      "example_translation": "¿Puedo abrir la ventana?",
+      "lexeme_id": "open_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "close",
+      "reading": "",
+      "translation": "cerrar",
+      "pos": "verb",
+      "example": "Please close the door.",
+      "example_translation": "Por favor, cierra la puerta.",
+      "lexeme_id": "close_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "help",
+      "reading": "",
+      "translation": "ayuda / ayudar / servir",
+      "pos": "verb",
+      "example": "Can I help you?",
+      "example_translation": "¿Puedo ayudarte?",
+      "lexeme_id": "help_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "use",
+      "reading": "",
+      "translation": "usar",
+      "pos": "verb",
+      "example": "Can I use your phone?",
+      "example_translation": "¿Puedo usar tu teléfono?",
+      "lexeme_id": "use_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "wait",
+      "reading": "",
+      "translation": "esperar",
+      "pos": "verb",
+      "example": "Could you wait for me?",
+      "example_translation": "¿Podrías esperarme?",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sit",
+      "reading": "",
+      "translation": "sentarse",
+      "pos": "verb",
+      "example": "Could I sit here?",
+      "example_translation": "¿Podría sentarme aquí?",
+      "lexeme_id": "sit_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "stand",
+      "reading": "",
+      "translation": "ponerse de pie",
+      "pos": "verb",
+      "example": "Please stand up.",
+      "example_translation": "Por favor, ponte de pie.",
+      "lexeme_id": "stand_verb",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Requests, permission, and offers",
+      "title_target": "Quiz: Requests, permission, and offers",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'Can I open the window?'?",
+          "prompt_target": "What does 'Can I open the window?' mean?",
+          "options": [
+            "¿Puedo abrir la ventana?",
+            "¿Puedes cerrar la ventana?",
+            "¿Quieres abrir la ventana?",
+            "¿Debo abrir la ventana?"
+          ],
+          "correct_answer": "¿Puedo abrir la ventana?",
+          "explanation_form": "'Can I...?' se usa para pedir permiso. 'Open' significa 'abrir' y 'window' es 'ventana'.",
+          "explanation_target": "'Can I...?' is used to ask for permission. 'Open' means 'abrir' and 'window' is 'ventana'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "open_verb",
+            "can_for_permission"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase para pedir permiso de forma educada: '____ I sit here?'",
+          "prompt_target": "Complete the sentence to ask for permission politely: '____ I sit here?'",
+          "options": null,
+          "correct_answer": "Could",
+          "explanation_form": "'Could' es más educado que 'can' para pedir permiso. 'Could I sit here?' significa '¿Podría sentarme aquí?'.",
+          "explanation_target": "'Could' is more polite than 'can' for asking permission. 'Could I sit here?' means '¿Podría sentarme aquí?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "could_for_polite_permission",
+            "sit_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta: 'I / Can / help / you / ?'",
+          "prompt_target": "Order the words to form a question: 'I / Can / help / you / ?'",
+          "options": [
+            "Can",
+            "I",
+            "help",
+            "you",
+            "?"
+          ],
+          "correct_answer": "Can I help you?",
+          "explanation_form": "Para ofrecer ayuda, usamos 'Can I...?' seguido del verbo. 'Can I help you?' significa '¿Puedo ayudarte?'.",
+          "explanation_target": "To offer help, we use 'Can I...?' followed by the verb. 'Can I help you?' means '¿Puedo ayudarte?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "can_for_offers",
+            "help_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de ofrecer algo educadamente?",
+          "prompt_target": "Which is the correct way to offer something politely?",
+          "options": [
+            "Would you like a coffee?",
+            "You like a coffee?",
+            "Do you like a coffee?",
+            "Would you a coffee?"
+          ],
+          "correct_answer": "Would you like a coffee?",
+          "explanation_form": "'Would you like...?' es la forma educada de ofrecer algo. 'Would you like a coffee?' significa '¿Te gustaría un café?'.",
+          "explanation_target": "'Would you like...?' is the polite way to offer something. 'Would you like a coffee?' means '¿Te gustaría un café?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "would_for_offers"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Espera aquí, por favor.'",
+          "prompt_target": "Translate to English: 'Espera aquí, por favor.'",
+          "options": null,
+          "correct_answer": "Wait here, please.",
+          "explanation_form": "El imperativo 'wait' significa 'espera'. 'Here' es 'aquí' y 'please' es 'por favor'.",
+          "explanation_target": "The imperative 'wait' means 'espera'. 'Here' is 'aquí' and 'please' is 'por favor'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wait_verb",
+            "imperative_review"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo con su significado:",
+          "prompt_target": "Match each verb with its meaning:",
+          "options": [
+            "open",
+            "abrir",
+            "close",
+            "cerrar",
+            "stand",
+            "ponerse de pie",
+            "sit",
+            "sentarse"
+          ],
+          "correct_answer": [
+            "open=abrir",
+            "close=cerrar",
+            "stand=ponerse de pie",
+            "sit=sentarse"
+          ],
+          "explanation_form": "Estos son verbos de acción comunes. 'Open' es 'abrir', 'close' es 'cerrar', 'stand' es 'ponerse de pie' y 'sit' es 'sentarse'.",
+          "explanation_target": "These are common action verbs. 'Open' is 'abrir', 'close' is 'cerrar', 'stand' is 'ponerse de pie' and 'sit' is 'sentarse'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "open_verb",
+            "close_verb",
+            "stand_verb",
+            "sit_verb"
+          ],
+          "points": 15,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el verbo correcto: '____ the door, please.' (cerrar)",
+          "prompt_target": "Complete with the correct verb: '____ the door, please.' (close)",
+          "options": null,
+          "correct_answer": "Close",
+          "explanation_form": "'Close' significa 'cerrar'. 'Close the door, please.' significa 'Cierra la puerta, por favor.'",
+          "explanation_target": "'Close' means 'cerrar'. 'Close the door, please.' means 'Cierra la puerta, por favor.'",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "close_verb",
+            "imperative_review"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'Can I use your phone?'?",
+          "prompt_target": "What does 'Can I use your phone?' mean?",
+          "options": [
+            "¿Puedo usar tu teléfono?",
+            "¿Puedes usar mi teléfono?",
+            "¿Quieres usar mi teléfono?",
+            "¿Debo usar tu teléfono?"
+          ],
+          "correct_answer": "¿Puedo usar tu teléfono?",
+          "explanation_form": "'Can I use...?' se usa para pedir permiso de usar algo. 'Use' significa 'usar' y 'your phone' es 'tu teléfono'.",
+          "explanation_target": "'Can I use...?' is used to ask permission to use something. 'Use' means 'usar' and 'your phone' is 'tu teléfono'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "use_verb",
+            "can_for_permission"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Qué significa 'Could you help me, please?'?",
+          "prompt_target": "What does 'Could you help me, please?' mean?",
+          "options": null,
+          "correct_answer": "¿Podrías ayudarme, por favor?",
+          "explanation_form": "'Could you...?' es una forma educada de pedir algo. 'Help me' significa 'ayudarme' y 'please' es 'por favor'.",
+          "explanation_target": "'Could you...?' is a polite way to ask for something. 'Help me' means 'ayudarme' and 'please' is 'por favor'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "could_for_polite_permission",
+            "help_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase: 'please / Stand / up / , / .'",
+          "prompt_target": "Order the words to form a sentence: 'please / Stand / up / , / .'",
+          "options": [
+            "Stand",
+            "up",
+            ",",
+            "please",
+            "."
+          ],
+          "correct_answer": "Stand up, please.",
+          "explanation_form": "El imperativo 'stand up' significa 'ponerse de pie'. 'Please' al final es una forma educada de pedir.",
+          "explanation_target": "The imperative 'stand up' means 'ponerse de pie'. 'Please' at the end is a polite way to ask.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "stand_verb",
+            "imperative_review"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la respuesta correcta a 'Would you like some water?'?",
+          "prompt_target": "Which is the correct response to 'Would you like some water?'?",
+          "options": [
+            "Yes, please.",
+            "Yes, I would.",
+            "Yes, I like.",
+            "Yes, I do."
+          ],
+          "correct_answer": "Yes, please.",
+          "explanation_form": "Para aceptar una oferta, decimos 'Yes, please.' Es la forma más natural y educada de aceptar.",
+          "explanation_target": "To accept an offer, we say 'Yes, please.' It is the most natural and polite way to accept.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "would_for_offers"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el verbo correcto: '____ down, please.' (sentarse)",
+          "prompt_target": "Complete with the correct verb: '____ down, please.' (sit)",
+          "options": null,
+          "correct_answer": "Sit",
+          "explanation_form": "'Sit down' significa 'sentarse'. 'Sit down, please.' significa 'Siéntate, por favor.'",
+          "explanation_target": "'Sit down' means 'sentarse'. 'Sit down, please.' means 'Siéntate, por favor.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sit_verb",
+            "imperative_review"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Can y Could: Dos formas de pedir permiso\n\nEn inglés, para pedir permiso usamos **can** y **could**. **Can** es la forma más directa y casual: *Can I open the window?* (¿Puedo abrir la ventana?). **Could** es más formal y educado: *Could I sit here?* (¿Podría sentarme aquí?). Para un hispanohablante, la diferencia es similar a usar \"puedo\" frente a \"podría\". Cuando hables con amigos o familia, usa **can**. En situaciones formales, con desconocidos o en tiendas, **could** suena más cortés y es una opción más segura.\n\n## Ofrecer ayuda con Can y Would\n\nPara ofrecer ayuda, usamos **can** y **would**. **Can I help you?** es una oferta directa y común, perfecta en una tienda o restaurante. **Would you like...?** es la forma clásica para ofrecer algo: *Would you like a coffee?* (¿Te gustaría un café?). Recuerda que **would** siempre va seguido de **like** en estas ofertas. No digas *Do you like a coffee?* para ofrecer, porque eso pregunta si te gusta el café en general, no si quieres uno ahora.\n\n## El imperativo: órdenes y peticiones directas\n\nEl imperativo es la forma más directa de pedir algo: **Open the door**, **Close the window**, **Wait here**. Se forma con el verbo en su forma base, sin sujeto. Para hacerlo más educado, añade **please**: *Please, sit down*. En esta lección, combinarás el imperativo con los modales. Por ejemplo, puedes usar el imperativo para dar una instrucción y **can** o **could** para pedir permiso después: *Open the door, please. Can I come in?* (Abre la puerta, por favor. ¿Puedo entrar?).\n\n## Errores comunes de hispanohablantes\n\nUn error típico es traducir directamente del español y decir *I can to help* o *Can I to sit here?*. En inglés, después de **can**, **could** y **would**, el verbo va en forma base, sin **to**: *I can help*, *Could I sit here?*. Otro error es olvidar la coma antes de **please** cuando va al final: *Close the window, please*. También recuerda que **can** y **could** no cambian con la persona: *He can help*, *She could wait*. No digas *He cans help*.\n\n## Verbos de acción: Open, Close, Help, Use, Wait, Sit, Stand\n\nEstos siete verbos son muy útiles en situaciones cotidianas. **Open** y **close** se usan para puertas, ventanas, libros: *Can I open the window?*. **Help** es para ofrecer o pedir asistencia: *Can you help me?*. **Use** es para pedir algo prestado: *Can I use your pen?*. **Wait** es para pedir paciencia: *Please, wait here*. **Sit** y **stand** son para posiciones: *Can I sit here?* o *Please, stand up*. Practica estos verbos con los modales para sonar natural: *Could I use your phone?* o *Would you like to sit down?*.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:20:22Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

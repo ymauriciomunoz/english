@@ -1,0 +1,1408 @@
+{
+  "id": "lesson_018",
+  "position": 19,
+  "unit_id": 4,
+  "course_id": "en.A1",
+  "title_form": "Talk about school and studies",
+  "title_target": "Hablar de la escuela y los estudios",
+  "theme_focus": "Talk about school and studies",
+  "learning_objectives": [
+    "Can talk about their school subjects, school routine, and what they study."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_017"
+  ],
+  "grammar_focus": [
+    "like_plus_ing (I like reading, She likes studying)",
+    "like_plus_noun (I like English, He likes math)",
+    "object_pronouns_with_like (I like it, She likes them)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "student",
+        "class",
+        "classroom",
+        "pen",
+        "lesson",
+        "language",
+        "science",
+        "homework",
+        "exam",
+        "test",
+        "write_verb",
+        "read_verb",
+        "speak_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "after_prep",
+        "afternoon",
+        "age",
+        "always_adv",
+        "and_conj",
+        "autumn",
+        "baby",
+        "bank",
+        "be_verb_2",
+        "beach",
+        "beer",
+        "before_prep",
+        "behind_prep",
+        "between_prep",
+        "big_adj",
+        "bill",
+        "black_adj",
+        "breakfast",
+        "brother",
+        "brown_adj",
+        "buy_verb",
+        "bye_interj",
+        "cake",
+        "cheese",
+        "chicken",
+        "children",
+        "city",
+        "clock",
+        "coat",
+        "coffee",
+        "come_verb",
+        "cost_verb",
+        "country",
+        "dad",
+        "date",
+        "daughter",
+        "day",
+        "dinner",
+        "do_homework_phrase",
+        "doctor",
+        "dress",
+        "drink_coffee_phrase",
+        "drink_verb",
+        "eat_verb",
+        "evening",
+        "excuse_me_interj",
+        "expensive_adj",
+        "family",
+        "father",
+        "finish_verb",
+        "fish",
+        "five_num",
+        "food",
+        "four_num",
+        "friend",
+        "from_prep",
+        "fruit",
+        "get_up_verb",
+        "go_verb",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "half",
+        "hat",
+        "have_breakfast_phrase",
+        "have_dinner_phrase",
+        "have_got_verb",
+        "have_lunch_phrase",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "hospital",
+        "hotel",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_front_of_prep",
+        "in_prep",
+        "jacket",
+        "jeans",
+        "juice",
+        "last_adj",
+        "later_adv",
+        "learn_verb",
+        "left",
+        "live_verb",
+        "lunch",
+        "market",
+        "meat",
+        "meet_verb",
+        "menu",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "my_det",
+        "name",
+        "near_adv",
+        "near_prep",
+        "never_adv",
+        "next_to_prep",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "nurse",
+        "oclock_adv",
+        "office",
+        "often_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "order_verb",
+        "our_det",
+        "parents",
+        "park",
+        "pay_verb",
+        "pink_2",
+        "please_interj",
+        "price",
+        "purple_adj",
+        "restaurant",
+        "right",
+        "road",
+        "salad",
+        "school",
+        "scientist",
+        "sell_verb",
+        "she_pronoun",
+        "shirt",
+        "shop",
+        "short_adj",
+        "shower",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "skirt",
+        "small_adj",
+        "sometimes_adv",
+        "son",
+        "sorry_interj",
+        "soup",
+        "spring",
+        "start_verb",
+        "station",
+        "street",
+        "study_verb",
+        "summer",
+        "supermarket",
+        "sweater",
+        "t_shirt",
+        "tall_adj",
+        "tea",
+        "teacher",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "there_are_verb",
+        "there_is_verb",
+        "they_pronoun",
+        "three_num",
+        "time",
+        "to_prep",
+        "today",
+        "tomorrow",
+        "trousers",
+        "turn_verb",
+        "two_num",
+        "under_prep",
+        "university",
+        "usually_adv",
+        "vegetable",
+        "village",
+        "waiter",
+        "wake_up_verb_2",
+        "walk_verb",
+        "water",
+        "we_pronoun",
+        "week",
+        "weekend",
+        "white_adj",
+        "wife",
+        "wine",
+        "winter",
+        "work",
+        "work_verb",
+        "worker",
+        "world",
+        "writer",
+        "year",
+        "yes_interj",
+        "yesterday",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante colombiana de 19 años, llega a su primera clase de inglés en una academia de Madrid. Está nerviosa porque no conoce a nadie y le preocupa no entender a la profesora. Se sienta junto a Liam, un chico irlandés de 22 años que estudia español. La profesora les pide que hablen de sus asignaturas favoritas. Sofía respira hondo y dice: \"I like science and I love my English class\". Liam sonríe y le cuenta que a él le gusta la historia. Al final de la clase, Sofía ya sabe decir qué lee y qué escribe en sus clases, y se siente mucho más segura.",
+  "introduction_md": "¿Qué es lo primero que haces cuando llegas a tu clase de inglés? ¿Saludas a tu profesor, sacas tu bolígrafo y abres tu cuaderno? En esta lección vas a aprender a hablar de tu día en la escuela: las asignaturas que estudias, tus clases favoritas y las tareas que haces en casa. Ya sabes decir la hora y hablar de tu rutina diaria, así que ahora vamos a dar el siguiente paso: describir tu vida escolar con naturalidad. Vas a descubrir cómo decir \"me gusta\" con el verbo *like* y a usar pronombres como *me*, *him* o *her* para hablar de lo que te gusta o no te gusta. Al final, podrás contarle a un compañero qué estudias, qué lees y qué escribes en clase. ¡Vamos a ello!",
+  "intro_target": "What is the first thing you do when you get to your English class? Do you say hello to your teacher, take out your pen and open your notebook? In this lesson you are going to learn to talk about your day at school: the subjects you study, your favourite classes and the homework you do at home. You already know how to tell the time and talk about your daily routine, so now we are going to take the next step: describing your school life naturally. You are going to discover how to say \"I like\" with the verb *like* and how to use pronouns like *me*, *him* or *her* to talk about what you like or do not like. At the end, you will be able to tell a classmate what you study, what you read and what you write in class. Let us go!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "like_plus_ing",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like reading in the classroom.",
+      "translation_form": "Me gusta leer en el aula.",
+      "highlight_words": [
+        "reading",
+        "classroom"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "like_plus_noun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She likes science and English.",
+      "translation_form": "A ella le gustan la ciencia y el inglés.",
+      "highlight_words": [
+        "science",
+        "english"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "object_pronouns_with_like",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like it, but I don't like the exam.",
+      "translation_form": "Me gusta, pero no me gusta el examen.",
+      "highlight_words": [
+        "like",
+        "exam"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The student writes with a pen.",
+      "translation_form": "El estudiante escribe con un bolígrafo.",
+      "highlight_words": [
+        "student",
+        "writes",
+        "pen"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "homework",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I do my homework after class.",
+      "translation_form": "Hago mi tarea después de la clase.",
+      "highlight_words": [
+        "homework",
+        "class"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "speak_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We speak English in the lesson.",
+      "translation_form": "Hablamos inglés en la lección.",
+      "highlight_words": [
+        "speak",
+        "english",
+        "lesson"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "test",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The test is today, and I like it.",
+      "translation_form": "El examen es hoy, y me gusta.",
+      "highlight_words": [
+        "test",
+        "today",
+        "like"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "language",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like learning a new language.",
+      "translation_form": "Me gusta aprender un nuevo idioma.",
+      "highlight_words": [
+        "learning",
+        "language"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "like_plus_ing",
+      "title_form": "Me gusta + verbo -ing",
+      "title_target": "Like + -ing",
+      "description_md_form": "Para hablar de **actividades que disfrutas**, usa **like** + verbo con **-ing**. Es como decir *me gusta hacer algo* en español.\n\n**Estructura:** *I/You/We/They* + **like** + verbo(-ing). *He/She* + **likes** + verbo(-ing).\n\n**Ejemplos:**\n- *I **like reading** in the classroom.* = Me gusta leer en el aula.\n- *She **likes writing** with a pen.* = A ella le gusta escribir con bolígrafo.\n\n**Importante:** Cuando *like* va seguido de un verbo, este siempre termina en **-ing**. No digas *I like read*. El **-ing** es la forma de conectar la actividad con el gusto.",
+      "description_md_target": "To talk about activities you enjoy, use **like** + verb with **-ing**. It's like saying *me gusta hacer algo* in Spanish.\n\n**Structure:** *I/You/We/They* + **like** + verb(-ing). *He/She* + **likes** + verb(-ing).\n\n**Examples:**\n- *I **like reading** in the classroom.* = I enjoy reading in the classroom.\n- *She **likes writing** with a pen.* = She enjoys writing with a pen.\n\n**Important:** The verb after *like* always ends in **-ing**. Don't say *I like read*. The **-ing** connects the activity with the liking.",
+      "grammar_structure": "Subject + like/likes + verb(-ing)",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "like_plus_ing",
+          "text_target": "I like reading in the classroom.",
+          "translation_form": "Me gusta leer en el aula.",
+          "highlight_words": [
+            "like",
+            "reading"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "like_plus_ing",
+          "text_target": "She likes writing with a pen.",
+          "translation_form": "A ella le gusta escribir con un bolígrafo.",
+          "highlight_words": [
+            "likes",
+            "writing"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** *like* + verbo(-ing) es para actividades. Para cosas, usa *like* + sustantivo (ej. *I like science*)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *I like read*. Siempre usa la forma con **-ing**: *I like reading*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I like read* en lugar de *I like reading*.",
+        "Olvidar la -s en *likes* con *he* o *she*: *She like reading* en vez de *She likes reading*.",
+        "Usar *to* después de *like*: *I like to reading* en vez de *I like reading*."
+      ]
+    },
+    {
+      "slug": "like_plus_noun",
+      "title_form": "Me gusta + sustantivo",
+      "title_target": "Like + Noun",
+      "description_md_form": "Para decir que te gusta algo, usa **like** + un **sustantivo**. En español decimos \"me gusta la ciencia\", pero en inglés el orden es: **sujeto + like + cosa**. Por ejemplo: *I like science* (Me gusta la ciencia).\n\n**Importante:** en inglés, **like** no cambia con \"me gusta\" o \"me gustan\". Siempre es **like** para \"yo\", \"tú\", \"nosotros\" y \"ellos\". Para \"él\" y \"ella\", usamos **likes**. Por ejemplo: *She likes English* (A ella le gusta el inglés).\n\n**No uses el artículo** antes del sustantivo cuando hablas en general. Decimos *I like science*, no *I like the science*. Usa el artículo solo para algo específico: *I like the lesson* (Me gusta la lección).",
+      "description_md_target": "To say you like something, use **like** + a **noun**. In English, the order is: **subject + like + thing**. For example: *I like science*.\n\n**Important:** in English, **like** stays the same for \"I\", \"you\", \"we\" and \"they\". For \"he\" and \"she\", we use **likes**. For example: *She likes English*.\n\n**Do not use the article** before the noun when talking in general. Say *I like science*, not *I like the science*. Use the article only for something specific: *I like the lesson*.",
+      "grammar_structure": "Subject + like/likes + noun",
+      "conjugation_table": {
+        "name": "present_simple_like",
+        "rows": [
+          {
+            "pronoun": "I",
+            "form": "like",
+            "notes": null
+          },
+          {
+            "pronoun": "You",
+            "form": "like",
+            "notes": null
+          },
+          {
+            "pronoun": "He/She",
+            "form": "likes",
+            "notes": null
+          },
+          {
+            "pronoun": "We",
+            "form": "like",
+            "notes": null
+          },
+          {
+            "pronoun": "They",
+            "form": "like",
+            "notes": null
+          }
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "like_plus_noun",
+          "text_target": "I like science and English.",
+          "translation_form": "Me gustan la ciencia y el inglés.",
+          "highlight_words": [
+            "like",
+            "science",
+            "english"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "like_plus_noun",
+          "text_target": "She likes the lesson.",
+          "translation_form": "A ella le gusta la lección.",
+          "highlight_words": [
+            "likes",
+            "lesson"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas \"I like the science\"** para hablar en general. En inglés, cuando hablas de algo en general, no usas artículo: *I like science*. Usa el artículo solo para algo específico: *I like the lesson*."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda la -s para él/ella.** Con *he* y *she*, el verbo cambia: *He likes*, *She likes*. Con *I*, *you*, *we* y *they*, no cambia: *I like*, *you like*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir \"I like the science\" en lugar de \"I like science\" cuando hablas en general.",
+        "Olvidar la -s en \"likes\" con he/she: \"She like English\" en lugar de \"She likes English\".",
+        "Traducir literalmente \"me gusta\" como \"me like\" en lugar de \"I like\"."
+      ]
+    },
+    {
+      "slug": "object_pronouns_with_like",
+      "title_form": "Pronombres objeto con like",
+      "title_target": "Object pronouns with like",
+      "description_md_form": "Cuando hablamos de lo que nos gusta, usamos **like** + un **pronombre objeto**. Estos pronombres son: **me** (me), **you** (te), **him** (le, a él), **her** (le, a ella), **it** (le, a eso), **us** (nos), **them** (les).\n\nPor ejemplo: *I like **it**.* (Me gusta.) *She likes **them**.* (A ella le gustan.)\n\nEn español decimos \"me gusta\", pero en inglés el orden es diferente: primero la persona (**I**, **she**), luego **like**, y después el pronombre objeto. Es un patrón muy común para responder sobre gustos.\n\n**Recuerda**: el pronombre objeto va **después** del verbo **like**, nunca antes.",
+      "description_md_target": "When we talk about what we like, we use **like** + an **object pronoun**. These pronouns are: **me**, **you**, **him**, **her**, **it**, **us**, **them**.\n\nFor example: *I like **it**.* *She likes **them**.*\n\nIn English, the order is: person (**I**, **she**) + **like** + object pronoun. This is a very common pattern for talking about preferences.\n\n**Remember**: the object pronoun goes **after** the verb **like**, never before.",
+      "grammar_structure": "Subject + like/likes + object pronoun",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "object_pronouns_with_like",
+          "text_target": "I like it, but I don't like the exam.",
+          "translation_form": "Me gusta, pero no me gusta el examen.",
+          "highlight_words": [
+            "like",
+            "it"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "object_pronouns_with_like",
+          "text_target": "She likes them, but I don't like them.",
+          "translation_form": "A ella le gustan, pero a mí no me gustan.",
+          "highlight_words": [
+            "likes",
+            "them"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas** *I like it the exam*. Usa **it** para reemplazar una cosa, pero si ya nombras la cosa, no la repitas con **it**."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip**: *I like it* es una respuesta corta perfecta. Si alguien pregunta *Do you like science?*, puedes responder *Yes, I like it*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I like it the exam* en lugar de *I like the exam* o *I like it*.",
+        "Confundir el orden: *It I like* en lugar de *I like it*.",
+        "Usar *me* en lugar de *I*: *Me like it* en lugar de *I like it*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'student'?",
+      "options": [
+        "estudiante",
+        "profesor",
+        "escuela",
+        "libro"
+      ],
+      "correct_answer": "estudiante",
+      "explanation_md": "Un 'student' es una persona que estudia, como tú ahora mismo.",
+      "related_lexeme_ids": [
+        "student"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'homework'?",
+      "options": [
+        "tarea",
+        "examen",
+        "clase",
+        "descanso"
+      ],
+      "correct_answer": "tarea",
+      "explanation_md": "'Homework' es el trabajo que haces en casa después de la escuela.",
+      "related_lexeme_ids": [
+        "homework"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'lesson'?",
+      "options": [
+        "lección",
+        "libro",
+        "bolígrafo",
+        "pizarra"
+      ],
+      "correct_answer": "lección",
+      "explanation_md": "Una 'lesson' es una parte de la clase, por ejemplo, la lección de inglés.",
+      "related_lexeme_ids": [
+        "lesson"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'exam'?",
+      "options": [
+        "examen",
+        "tarea",
+        "clase",
+        "nota"
+      ],
+      "correct_answer": "examen",
+      "explanation_md": "Un 'exam' es una prueba importante que haces al final de un tema.",
+      "related_lexeme_ids": [
+        "exam"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "En la frase 'I like reading', ¿qué forma del verbo usamos después de 'like'?",
+      "options": [
+        "read",
+        "reads",
+        "reading",
+        "to read"
+      ],
+      "correct_answer": "reading",
+      "explanation_md": "Después de 'like' usamos el verbo con -ing: I like reading.",
+      "related_lexeme_ids": [
+        "read_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta para decir 'Me gusta la ciencia'?",
+      "options": [
+        "I like science",
+        "I likes science",
+        "I like sciences",
+        "I liking science"
+      ],
+      "correct_answer": "I like science",
+      "explanation_md": "Usamos 'like' + sustantivo para decir que nos gusta algo: I like science.",
+      "related_lexeme_ids": [
+        "like_plus_noun",
+        "science"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué pronombre objeto usamos en 'I like ___' para referirnos a 'it'?",
+      "options": [
+        "it",
+        "he",
+        "she",
+        "they"
+      ],
+      "correct_answer": "it",
+      "explanation_md": "Para referirnos a una cosa usamos 'it' como pronombre objeto: I like it.",
+      "related_lexeme_ids": [
+        "object_pronouns_with_like"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'I like ___ in the classroom.' (leer)",
+      "options": null,
+      "correct_answer": "reading",
+      "explanation_md": "Después de 'like' usamos el verbo con -ing: I like reading.",
+      "related_lexeme_ids": [
+        "read_verb",
+        "classroom"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'She likes ___ and English.' (ciencia)",
+      "options": null,
+      "correct_answer": "science",
+      "explanation_md": "Usamos 'like' + sustantivo: She likes science and English.",
+      "related_lexeme_ids": [
+        "like_plus_noun",
+        "science"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Me gusta escribir con un bolígrafo.'",
+      "options": null,
+      "correct_answer": "I like writing with a pen.",
+      "explanation_md": "Usamos 'like' + verbo con -ing y 'with a pen' para decir 'con un bolígrafo'.",
+      "related_lexeme_ids": [
+        "write_verb",
+        "pen"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I do my homework after class.'",
+      "options": null,
+      "correct_answer": "Hago mi tarea después de la clase.",
+      "explanation_md": "'Do my homework' es 'hacer la tarea' y 'after class' es 'después de la clase'.",
+      "related_lexeme_ids": [
+        "homework",
+        "class"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "pen",
+        "bolígrafo",
+        "test",
+        "prueba",
+        "language",
+        "idioma",
+        "speak",
+        "hablar"
+      ],
+      "correct_answer": [
+        "pen=bolígrafo",
+        "test=prueba",
+        "language=idioma",
+        "speak=hablar"
+      ],
+      "explanation_md": "Estas son palabras básicas de la escuela que ya conoces.",
+      "related_lexeme_ids": [
+        "pen",
+        "test",
+        "language",
+        "speak_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "student",
+      "back": "estudiante",
+      "hint": "persona que estudia",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "class",
+      "back": "clase",
+      "hint": "grupo de estudiantes o sesión de estudio",
+      "lexeme_id": "class",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "classroom",
+      "back": "aula",
+      "hint": "lugar donde se da la clase",
+      "lexeme_id": "classroom",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "pen",
+      "back": "bolígrafo",
+      "hint": "instrumento para escribir",
+      "lexeme_id": "pen",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "lesson",
+      "back": "lección",
+      "hint": "unidad de estudio",
+      "lexeme_id": "lesson",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "language",
+      "back": "idioma",
+      "hint": "sistema de comunicación",
+      "lexeme_id": "language",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "science",
+      "back": "ciencia",
+      "hint": "materia escolar",
+      "lexeme_id": "science",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "homework",
+      "back": "tarea",
+      "hint": "trabajo para casa",
+      "lexeme_id": "homework",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "exam",
+      "back": "examen",
+      "hint": "prueba importante",
+      "lexeme_id": "exam",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "test",
+      "back": "prueba",
+      "hint": "evaluación",
+      "lexeme_id": "test",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "write",
+      "back": "escribir",
+      "hint": "acción con un bolígrafo",
+      "lexeme_id": "write_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "read",
+      "back": "leer",
+      "hint": "acción con un libro",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "speak",
+      "back": "hablar",
+      "hint": "acción de comunicarse",
+      "lexeme_id": "speak_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "teacher",
+      "back": "profesor",
+      "hint": "persona que enseña",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "school",
+      "back": "escuela",
+      "hint": "lugar de estudio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "student",
+      "reading": "",
+      "translation": "estudiante",
+      "pos": "noun",
+      "example": "The student writes with a pen.",
+      "example_translation": "El estudiante escribe con un bolígrafo.",
+      "lexeme_id": "student",
+      "chunk_id": null
+    },
+    {
+      "target_word": "class",
+      "reading": "",
+      "translation": "clase",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "class",
+      "chunk_id": null
+    },
+    {
+      "target_word": "classroom",
+      "reading": "",
+      "translation": "aula",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "classroom",
+      "chunk_id": null
+    },
+    {
+      "target_word": "pen",
+      "reading": "",
+      "translation": "bolígrafo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "pen",
+      "chunk_id": null
+    },
+    {
+      "target_word": "lesson",
+      "reading": "",
+      "translation": "lección",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "lesson",
+      "chunk_id": null
+    },
+    {
+      "target_word": "language",
+      "reading": "",
+      "translation": "idioma",
+      "pos": "noun",
+      "example": "I like learning a new language.",
+      "example_translation": "Me gusta aprender un nuevo idioma.",
+      "lexeme_id": "language",
+      "chunk_id": null
+    },
+    {
+      "target_word": "science",
+      "reading": "",
+      "translation": "ciencia",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "science",
+      "chunk_id": null
+    },
+    {
+      "target_word": "homework",
+      "reading": "",
+      "translation": "tarea",
+      "pos": "noun",
+      "example": "I do my homework after class.",
+      "example_translation": "Hago mi tarea después de la clase.",
+      "lexeme_id": "homework",
+      "chunk_id": null
+    },
+    {
+      "target_word": "exam",
+      "reading": "",
+      "translation": "test / examen / prueba",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "exam",
+      "chunk_id": null
+    },
+    {
+      "target_word": "test",
+      "reading": "",
+      "translation": "examen / prueba",
+      "pos": "noun",
+      "example": "The test is today, and I like it.",
+      "example_translation": "El examen es hoy, y me gusta.",
+      "lexeme_id": "test",
+      "chunk_id": null
+    },
+    {
+      "target_word": "write",
+      "reading": "",
+      "translation": "escribir",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "write_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "read",
+      "reading": "",
+      "translation": "leer",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "read_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "speak",
+      "reading": "",
+      "translation": "hablar",
+      "pos": "verb",
+      "example": "We speak English in the lesson.",
+      "example_translation": "Hablamos inglés en la lección.",
+      "lexeme_id": "speak_verb",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Talk about school and studies",
+      "title_target": "Quiz: Talk about school and studies",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "I",
+            "like",
+            "English",
+            "class"
+          ],
+          "correct_answer": "I like English class",
+          "explanation_form": "La estructura correcta es: sujeto + verbo + objeto. 'I like English class' significa 'Me gusta la clase de inglés'.",
+          "explanation_target": "The correct structure is: subject + verb + object. 'I like English class' means 'Me gusta la clase de inglés'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "like_plus_noun",
+            "class"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'The students ____ in the classroom.' (escribir/estudiar)",
+          "prompt_target": "Complete the sentence: 'The students ____ in the classroom.' (write/study)",
+          "options": null,
+          "correct_answer": "study",
+          "explanation_form": "El verbo 'study' significa 'estudiar'. Los estudiantes estudian en el aula.",
+          "explanation_target": "The verb 'study' means 'estudiar'. Students study in the classroom.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "study_verb",
+            "student",
+            "classroom"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'homework'?",
+          "prompt_target": "What does 'homework' mean?",
+          "options": [
+            "Tarea",
+            "Examen",
+            "Lección",
+            "Lápiz"
+          ],
+          "correct_answer": "Tarea",
+          "explanation_form": "'Homework' significa 'tarea' o 'deberes'. Es el trabajo que se hace en casa.",
+          "explanation_target": "'Homework' means 'tarea' or 'deberes'. It is the work done at home.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "homework"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce al español: 'I have a test today.'",
+          "prompt_target": "Translate to Spanish: 'I have a test today.'",
+          "options": null,
+          "correct_answer": "Tengo un examen hoy.",
+          "explanation_form": "'Test' significa 'examen'. La frase completa es 'Tengo un examen hoy'.",
+          "explanation_target": "'Test' means 'examen'. The full sentence is 'Tengo un examen hoy'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "test",
+            "today"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": null,
+          "options": [
+            "pen",
+            "bolígrafo",
+            "lesson",
+            "lección",
+            "language",
+            "idioma"
+          ],
+          "correct_answer": [
+            "pen=bolígrafo",
+            "lesson=lección",
+            "language=idioma"
+          ],
+          "explanation_form": "Estas son palabras básicas de la escuela: 'pen' es bolígrafo, 'lesson' es lección y 'language' es idioma.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "pen",
+            "lesson",
+            "language"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa: 'She ____ English and Spanish.' (hablar)",
+          "prompt_target": "Complete: 'She ____ English and Spanish.' (speak)",
+          "options": null,
+          "correct_answer": "speaks",
+          "explanation_form": "Con 'she' (ella), el verbo 'speak' se conjuga como 'speaks'. Significa 'habla'.",
+          "explanation_target": "With 'she', the verb 'speak' conjugates as 'speaks'. It means 'habla'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "speak_verb",
+            "language"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta?",
+          "prompt_target": "Which is the correct form?",
+          "options": [
+            "I like read",
+            "I like reading",
+            "I like to reading",
+            "I liking read"
+          ],
+          "correct_answer": "I like reading",
+          "explanation_form": "Después de 'like' usamos el verbo con -ing: 'I like reading' significa 'Me gusta leer'.",
+          "explanation_target": "After 'like' we use the verb with -ing: 'I like reading' means 'Me gusta leer'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "like_plus_ing",
+            "read_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Me gusta la clase de ciencias.'",
+          "prompt_target": "Translate to English: 'Me gusta la clase de ciencias.'",
+          "options": null,
+          "correct_answer": "I like science class.",
+          "explanation_form": "Usamos 'like' + sustantivo: 'I like science class' significa 'Me gusta la clase de ciencias'.",
+          "explanation_target": "We use 'like' + noun: 'I like science class' means 'Me gusta la clase de ciencias'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "like_plus_noun",
+            "science",
+            "class"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa: 'The teacher ____ the lesson.' (escribir)",
+          "prompt_target": "Complete: 'The teacher ____ the lesson.' (write)",
+          "options": null,
+          "correct_answer": "writes",
+          "explanation_form": "Con 'the teacher' (el profesor), el verbo 'write' se conjuga como 'writes'. Significa 'escribe'.",
+          "explanation_target": "With 'the teacher', the verb 'write' conjugates as 'writes'. It means 'escribe'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "write_verb",
+            "teacher",
+            "lesson"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'exam'?",
+          "prompt_target": "What does 'exam' mean?",
+          "options": [
+            "Examen",
+            "Tarea",
+            "Lección",
+            "Libro"
+          ],
+          "correct_answer": "Examen",
+          "explanation_form": "'Exam' significa 'examen'. Es una prueba importante en la escuela.",
+          "explanation_target": "'Exam' means 'examen'. It is an important test at school.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "exam"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "I",
+            "like",
+            "my",
+            "English",
+            "teacher"
+          ],
+          "correct_answer": "I like my English teacher",
+          "explanation_form": "La estructura es: sujeto + like + posesivo + adjetivo + sustantivo. 'I like my English teacher' significa 'Me gusta mi profesor de inglés'.",
+          "explanation_target": "The structure is: subject + like + possessive + adjective + noun. 'I like my English teacher' means 'Me gusta mi profesor de inglés'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "like_plus_noun",
+            "teacher",
+            "language"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa: 'We ____ our homework every day.' (hacer)",
+          "prompt_target": "Complete: 'We ____ our homework every day.' (do)",
+          "options": null,
+          "correct_answer": "do",
+          "explanation_form": "La expresión es 'do homework' (hacer la tarea). Con 'we' usamos 'do'.",
+          "explanation_target": "The expression is 'do homework'. With 'we' we use 'do'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "homework",
+            "do_homework_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El verbo LIKE: gustar sin vueltas\n\nEn inglés, **like** es un verbo normal y no necesita la estructura complicada del español \"me gusta\". No digas *\"me like\"* ni *\"I am like\"*: lo correcto es **I like** (a mí me gusta), **you like** (a ti te gusta), **he/she likes** (a él/ella le gusta). Fíjate que con *he* y *she* agregamos una **-s** al verbo: *She likes science* (A ella le gusta la ciencia).\n\nPara preguntar, usamos **Do** al principio: *Do you like homework?* (¿Te gusta la tarea?). Y para responder corto: *Yes, I do* o *No, I don't*. Es así de simple: sujeto + like + lo que te gusta.\n\n## LIKE + verbo con -ING: actividades\n\nCuando quieres decir que te gusta HACER algo, el segundo verbo va con **-ing**: *I like reading* (Me gusta leer), *I like writing* (Me gusta escribir), *I like speaking English* (Me gusta hablar inglés). Esto es muy natural en inglés y se usa todo el tiempo.\n\nOjo: no digas *\"I like read\"* ni *\"I like to read\"* en este nivel. En este nivel, es más común usar la forma con -ing: *I like reading*. Piensa en el **-ing** como el equivalente a nuestro \"-ar/-er/-ir\" después de gustar.\n\n## LIKE + sustantivo: cosas y personas\n\nTambién puedes usar **like** con un sustantivo directamente: *I like my class* (Me gusta mi clase), *I like my teacher* (Me gusta mi profesor/a), *I like this pen* (Me gusta este bolígrafo). No hay artículo especial ni nada raro: like + lo que sea.\n\nUn error común de los hispanohablantes es poner *\"the\"* antes del sustantivo cuando no hace falta: *I like the science* es incorrecto si hablas en general. Di *I like science* (Me gusta la ciencia) sin artículo. El artículo *the* solo se usa para algo específico: *I like the science class* (Me gusta la clase de ciencias, esa clase en concreto).\n\n## Pronombres objeto: ME, HIM, HER\n\nCuando la cosa que te gusta es una persona, usamos los pronombres objeto: **me** (me), **him** (a él), **her** (a ella), **us** (nos), **them** (les). Por ejemplo: *I like him* (Me gusta él), *She likes me* (A ella le gusto yo), *We like them* (Nos gustan ellos).\n\nEstos pronombres van DESPUÉS del verbo, nunca antes. No digas *\"I him like\"* — el orden es siempre: sujeto + like + pronombre objeto. Es un orden fijo que con la práctica se vuelve automático.\n\n## Vocabulario de la escuela: trucos y conexiones\n\nMuchas palabras de esta lección son muy parecidas al español: **class** (clase), **exam** (examen), **test** (test/prueba), **language** (lenguaje/idioma), **science** (ciencia). ¡Aprovéchalas! Son cognados que ya conoces.\n\nOtras son falsos amigos: **lesson** no es \"lección\" en el sentido de \"lección aprendida\", sino una clase o sesión de estudio: *I have a lesson at 9* (Tengo clase a las 9). **Homework** es la tarea (siempre en singular: *The homework is easy*, no *\"are easy\"*). Y **classroom** es el aula, el salón donde estudias: *My classroom is big* (Mi aula es grande).\n\nPara hablar de tu rutina escolar, combina lo que ya sabes: *I study in the morning* (Estudio por la mañana), *I read in class* (Leo en clase), *I write with a pen* (Escribo con un bolígrafo). Así conviertes palabras sueltas en frases útiles para tu vida diaria.",
+  "metadata": {
+    "generated_at": "2026-08-11T18:17:44Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

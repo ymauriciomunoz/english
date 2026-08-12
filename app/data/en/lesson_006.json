@@ -1,0 +1,963 @@
+{
+  "id": "lesson_006",
+  "position": 7,
+  "unit_id": 2,
+  "course_id": "en.A1",
+  "title_form": "Days of the week",
+  "title_target": "Días de la semana",
+  "theme_focus": "Days of the week",
+  "learning_objectives": [
+    "Can name the days of the week, say what day it is, and use them in context (with telling time and routine)."
+  ],
+  "estimated_minutes": 25,
+  "prerequisites": [
+    "lesson_005"
+  ],
+  "grammar_focus": [
+    "days_of_week_usage (on Monday, What day is it today?, on Saturday morning)",
+    "prepositions_on_with_days (on Monday, on the weekend, on weekdays)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "week",
+        "weekend",
+        "day"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "a_det",
+        "afternoon",
+        "age",
+        "and_conj",
+        "baby",
+        "be_verb_2",
+        "big_adj",
+        "black_adj",
+        "brother",
+        "brown_adj",
+        "bye_interj",
+        "children",
+        "clock",
+        "dad",
+        "daughter",
+        "evening",
+        "excuse_me_interj",
+        "family",
+        "father",
+        "five_num",
+        "four_num",
+        "friend",
+        "from_prep",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "good_morning_interj",
+        "grandfather",
+        "grandmother",
+        "grey_adj",
+        "half",
+        "have_got_verb",
+        "he_pronoun",
+        "hello_interj",
+        "her_det",
+        "hi_interj",
+        "his_det",
+        "hour",
+        "husband",
+        "i_pronoun",
+        "in_prep",
+        "live_verb",
+        "meet_verb",
+        "midnight",
+        "mom",
+        "morning",
+        "mother",
+        "my_det",
+        "name",
+        "night",
+        "no_interj",
+        "noon",
+        "now",
+        "oclock_adv",
+        "ok_interj",
+        "old_adj",
+        "one_num",
+        "our_det",
+        "parents",
+        "pink_2",
+        "please_interj",
+        "purple_adj",
+        "she_pronoun",
+        "short_adj",
+        "single_adj_2",
+        "sister",
+        "six_num",
+        "small_adj",
+        "son",
+        "sorry_interj",
+        "tall_adj",
+        "thank_you_interj",
+        "thanks_interj",
+        "their_det",
+        "they_pronoun",
+        "three_num",
+        "time",
+        "two_num",
+        "we_pronoun",
+        "white_adj",
+        "wife",
+        "work_verb",
+        "yes_interj",
+        "you_pronoun",
+        "young_adj",
+        "youre_welcome_interj"
+      ]
+    }
+  },
+  "scenario": "Sofía, una estudiante de 22 años de México, trabaja medio tiempo en una cafetería en Londres. Es lunes por la mañana y su jefa, Emma, le entrega el horario de la semana, pero está todo en inglés. Sofía se siente confundida porque no sabe si trabaja el sábado o el domingo. Emma le explica con paciencia: 'You work on Monday and Friday, and you are free on the weekend'. Sofía asiente, aliviada, y repite los días en voz baja mientras escribe su nuevo horario en su cuaderno.",
+  "introduction_md": "¿Sabes qué día es hoy? Si alguien te pregunta en inglés, ¿podrías responder sin mirar tu teléfono? En esta lección vas a dominar los días de la semana, junto con palabras clave como *today*, *tomorrow* y *yesterday*. Ya sabes decir la hora y hablar de tu rutina diaria; ahora vas a aprender a ubicar esos momentos en el tiempo. Imagina que un compañero de trabajo te dice: *'Let's meet on Friday'*. ¿Entenderías cuándo es la reunión? Al final de esta lección, podrás nombrar cada día, decir qué día es hoy, y usar la preposición *on* correctamente para hablar de planes. También aprenderás a distinguir entre *week* y *weekend*, algo esencial para hacer planes con amigos o colegas. Con ejemplos prácticos y ejercicios interactivos, vas a sentirte seguro al hablar de tu semana en inglés. ¡Vamos a empezar!",
+  "intro_target": "Do you know what day it is today? If someone asks you in English, could you answer without looking at your phone? In this lesson, you will master the days of the week, along with key words like *today*, *tomorrow*, and *yesterday*. You already know how to tell time and talk about your daily routine; now you will learn to place those moments in time. Imagine a coworker says: *'Let's meet on Friday'*. Would you understand when the meeting is? By the end of this lesson, you will be able to name each day, say what day it is, and use the preposition *on* correctly to talk about plans. You will also learn to distinguish between *week* and *weekend*, which is essential for making plans with friends or colleagues. With practical examples and interactive exercises, you will feel confident talking about your week in English. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "today",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What day is it today?",
+      "translation_form": "¿Qué día es hoy?",
+      "highlight_words": [
+        "day",
+        "today"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "tomorrow",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Tomorrow is Saturday, and I work in the morning.",
+      "translation_form": "Mañana es sábado, y trabajo por la mañana.",
+      "highlight_words": [
+        "tomorrow",
+        "morning",
+        "work"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "yesterday",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Yesterday was a good day with my family.",
+      "translation_form": "Ayer fue un buen día con mi familia.",
+      "highlight_words": [
+        "yesterday",
+        "day",
+        "family"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have three classes this week.",
+      "translation_form": "Tengo tres clases esta semana.",
+      "highlight_words": [
+        "week",
+        "three"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "On the weekend, we visit my grandmother.",
+      "translation_form": "El fin de semana, visitamos a mi abuela.",
+      "highlight_words": [
+        "weekend",
+        "grandmother"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What day is it today?",
+      "translation_form": "¿Qué día es hoy?",
+      "highlight_words": [
+        "day",
+        "today"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "days_of_week_usage",
+      "title_form": "Uso de los días de la semana",
+      "title_target": "Using the days of the week",
+      "description_md_form": "En inglés, los días de la semana se usan con **verbos en presente** para hablar de rutinas y planes. Para preguntar qué día es, decimos **\"What day is it today?\"**. Para responder, usamos **\"It is\"** o **\"Today is\"** seguido del día.\n\n**Ejemplos:**\n- **Today is Monday.** (Hoy es lunes.)\n- **Tomorrow is Saturday.** (Mañana es sábado.)\n- **Yesterday was Sunday.** (Ayer fue domingo.)\n\n**Importante:** Los días de la semana **siempre** se escriben con **mayúscula inicial** en inglés, aunque no estén al inicio de la oración. Además, usamos **\"on\"** antes del día: **\"on Monday\"**, **\"on Friday\"**. No decimos \"in Monday\".\n\nPara hablar de acciones que haces cada semana, usa el presente simple: **\"I work on Monday\"** (Trabajo el lunes).",
+      "description_md_target": "In English, the days of the week are used with **present tense verbs** to talk about routines and plans. To ask what day it is, we say **\"What day is it today?\"**. To answer, we use **\"It is\"** or **\"Today is\"** followed by the day.\n\n**Examples:**\n- **Today is Monday.**\n- **Tomorrow is Saturday.**\n- **Yesterday was Sunday.**\n\n**Important:** The days of the week **always** start with a **capital letter** in English, even if they are not at the beginning of the sentence. Also, we use **\"on\"** before the day: **\"on Monday\"**, **\"on Friday\"**. We do not say \"in Monday\".\n\nTo talk about actions you do every week, use the present simple: **\"I work on Monday\"**.",
+      "grammar_structure": "What day is it today? → Today is + [day] / Tomorrow is + [day] / Yesterday was + [day]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "today",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "What day is it today?",
+          "translation_form": "¿Qué día es hoy?",
+          "highlight_words": [
+            "today"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "tomorrow",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Tomorrow is Saturday, and I work in the morning.",
+          "translation_form": "Mañana es sábado, y trabajo por la mañana.",
+          "highlight_words": [
+            "tomorrow"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** Los días de la semana siempre llevan **mayúscula** en inglés: *Monday*, *Tuesday*, *Wednesday*, etc. Esto es diferente del español, donde se escriben en minúscula."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *\"in Monday\"*. La preposición correcta es **\"on\"**: *\"on Monday\"*, *\"on the weekend\"*."
+        }
+      ],
+      "common_errors_es": [
+        "Escribir los días de la semana en minúscula (ej. 'monday' en vez de 'Monday').",
+        "Usar la preposición 'in' en lugar de 'on' antes de los días (ej. 'in Monday' en vez de 'on Monday').",
+        "Confundir 'yesterday' (ayer) con 'tomorrow' (mañana) al hablar del pasado y el futuro."
+      ]
+    },
+    {
+      "slug": "prepositions_on_with_days",
+      "title_form": "La preposición ON con los días",
+      "title_target": "The preposition ON with days",
+      "description_md_form": "En inglés, para hablar de **un día específico** de la semana, usamos la preposición **ON** antes del día. Por ejemplo: **ON Monday**, **ON Saturday**. Es como decir *el lunes*, *el sábado* en español, pero con la palabra *on* delante.\n\n**Importante:** No usamos *on* con **today**, **tomorrow** o **yesterday**. Estas palabras ya llevan la idea de tiempo dentro de sí mismas. Decimos simplemente *today*, *tomorrow*, *yesterday*.\n\n**Ejemplos:**\n- `I work on Monday.` (Trabajo el lunes.)\n- `We visit my grandmother on the weekend.` (Visitamos a mi abuela el fin de semana.)\n\n**Recuerda:** *on* + día de la semana. Es una regla fija y muy útil para hablar de tu rutina.",
+      "description_md_target": "In English, to talk about a **specific day** of the week, we use the preposition **ON** before the day. For example: **ON Monday**, **ON Saturday**. It is like saying *el lunes*, *el sábado* in Spanish, but with the word *on* in front.\n\n**Important:** We do not use *on* with **today**, **tomorrow** or **yesterday**. These words already carry the idea of time within themselves. We simply say *today*, *tomorrow*, *yesterday*.\n\n**Examples:**\n- `I work on Monday.` (I work on Monday.)\n- `We visit my grandmother on the weekend.` (We visit my grandmother on the weekend.)\n\n**Remember:** *on* + day of the week. It is a fixed rule and very useful for talking about your routine.",
+      "grammar_structure": "ON + day of the week",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "prepositions_on_with_days",
+          "text_target": "I work on Monday.",
+          "translation_form": "Trabajo el lunes.",
+          "highlight_words": [
+            "on",
+            "monday"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "prepositions_on_with_days",
+          "text_target": "We visit my grandmother on the weekend.",
+          "translation_form": "Visitamos a mi abuela el fin de semana.",
+          "highlight_words": [
+            "on",
+            "weekend"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *on today* o *on tomorrow*. Con **today**, **tomorrow** y **yesterday** NO usamos *on*. Solo decimos *today*, *tomorrow*, *yesterday*."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Piensa en *on* como una flecha que apunta a un día en el calendario. *On Monday* = apuntando al lunes. Es una imagen mental muy útil."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'on today' en lugar de solo 'today'. Con today, tomorrow y yesterday no se usa ninguna preposición.",
+        "Olvidar la preposición 'on' antes del día: 'I work Monday' en lugar de 'I work on Monday'.",
+        "Usar 'in' en lugar de 'on' con los días de la semana: 'in Monday' es incorrecto, siempre es 'on Monday'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'today'?",
+      "options": [
+        "hoy",
+        "mañana",
+        "ayer",
+        "semana"
+      ],
+      "correct_answer": "hoy",
+      "explanation_md": "'Today' se refiere al día actual, el día en que estamos ahora.",
+      "related_lexeme_ids": [
+        "today"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'weekend'?",
+      "options": [
+        "día de trabajo",
+        "fin de semana",
+        "mañana",
+        "tarde"
+      ],
+      "correct_answer": "fin de semana",
+      "explanation_md": "'Weekend' se refiere a los días de descanso, normalmente sábado y domingo.",
+      "related_lexeme_ids": [
+        "weekend"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué día es hoy?",
+      "options": [
+        "Today is Monday.",
+        "Tomorrow is Monday.",
+        "Yesterday was Monday.",
+        "The weekend is Monday."
+      ],
+      "correct_answer": "Today is Monday.",
+      "explanation_md": "Para preguntar por el día actual usamos 'What day is it today?' y respondemos con 'Today is...'.",
+      "related_lexeme_ids": [
+        "today"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué día es mañana si hoy es viernes?",
+      "options": [
+        "Tomorrow is Thursday.",
+        "Tomorrow is Saturday.",
+        "Tomorrow is Sunday.",
+        "Tomorrow is Friday."
+      ],
+      "correct_answer": "Tomorrow is Saturday.",
+      "explanation_md": "Mañana es el día después de hoy. Si hoy es viernes, mañana es sábado.",
+      "related_lexeme_ids": [
+        "tomorrow"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: '____ is Sunday, and I visit my family.' (Ayer)",
+      "options": null,
+      "correct_answer": "Yesterday",
+      "explanation_md": "'Yesterday' se usa para hablar del día anterior al actual.",
+      "related_lexeme_ids": [
+        "yesterday"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I have two classes this ____.' (semana)",
+      "options": null,
+      "correct_answer": "week",
+      "explanation_md": "'Week' se refiere al período de siete días.",
+      "related_lexeme_ids": [
+        "week"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'El fin de semana, trabajo.'",
+      "options": null,
+      "correct_answer": "On the weekend, I work.",
+      "explanation_md": "Usamos 'on' antes de 'the weekend' para indicar cuándo ocurre la acción.",
+      "related_lexeme_ids": [
+        "weekend"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ayer fue un buen día.'",
+      "options": null,
+      "correct_answer": "Yesterday was a good day.",
+      "explanation_md": "'Yesterday' se usa al inicio de la oración para hablar del día anterior.",
+      "related_lexeme_ids": [
+        "yesterday",
+        "day"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "today",
+        "hoy",
+        "tomorrow",
+        "mañana",
+        "yesterday",
+        "ayer"
+      ],
+      "correct_answer": [
+        "today=hoy",
+        "tomorrow=mañana",
+        "yesterday=ayer"
+      ],
+      "explanation_md": "Estas palabras indican el tiempo relativo al día actual.",
+      "related_lexeme_ids": [
+        "today",
+        "tomorrow",
+        "yesterday"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "week",
+        "semana",
+        "weekend",
+        "fin de semana",
+        "day",
+        "día"
+      ],
+      "correct_answer": [
+        "week=semana",
+        "weekend=fin de semana",
+        "day=día"
+      ],
+      "explanation_md": "Estas palabras describen períodos de tiempo.",
+      "related_lexeme_ids": [
+        "week",
+        "weekend",
+        "day"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Tomorrow is a new day.'",
+      "options": null,
+      "correct_answer": "Mañana es un nuevo día.",
+      "explanation_md": "'Tomorrow' se traduce como 'mañana' y 'day' como 'día'.",
+      "related_lexeme_ids": [
+        "tomorrow",
+        "day"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'On the weekend, we visit my grandmother.'",
+      "options": null,
+      "correct_answer": "El fin de semana, visitamos a mi abuela.",
+      "explanation_md": "'On the weekend' se traduce como 'el fin de semana' y 'visit' como 'visitar'.",
+      "related_lexeme_ids": [
+        "weekend"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "today",
+      "back": "hoy",
+      "hint": "el día en que estamos ahora",
+      "lexeme_id": "today",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "tomorrow",
+      "back": "mañana",
+      "hint": "el día después de hoy",
+      "lexeme_id": "tomorrow",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "yesterday",
+      "back": "ayer",
+      "hint": "el día antes de hoy",
+      "lexeme_id": "yesterday",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "week",
+      "back": "semana",
+      "hint": "siete días",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "weekend",
+      "back": "fin de semana",
+      "hint": "sábado y domingo",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "day",
+      "back": "día",
+      "hint": "24 horas",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "today",
+      "reading": "",
+      "translation": "hoy",
+      "pos": "noun",
+      "example": "What day is it today?",
+      "example_translation": "¿Qué día es hoy?",
+      "lexeme_id": "today",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tomorrow",
+      "reading": "",
+      "translation": "mañana",
+      "pos": "noun",
+      "example": "Tomorrow is Saturday, and I work in the morning.",
+      "example_translation": "Mañana es sábado, y trabajo por la mañana.",
+      "lexeme_id": "tomorrow",
+      "chunk_id": null
+    },
+    {
+      "target_word": "yesterday",
+      "reading": "",
+      "translation": "ayer",
+      "pos": "noun",
+      "example": "Yesterday was a good day with my family.",
+      "example_translation": "Ayer fue un buen día con mi familia.",
+      "lexeme_id": "yesterday",
+      "chunk_id": null
+    },
+    {
+      "target_word": "week",
+      "reading": "",
+      "translation": "semana",
+      "pos": "noun",
+      "example": "I have three classes this week.",
+      "example_translation": "Tengo tres clases esta semana.",
+      "lexeme_id": "week",
+      "chunk_id": null
+    },
+    {
+      "target_word": "weekend",
+      "reading": "",
+      "translation": "fin de semana",
+      "pos": "noun",
+      "example": "On the weekend, we visit my grandmother.",
+      "example_translation": "El fin de semana, visitamos a mi abuela.",
+      "lexeme_id": "weekend",
+      "chunk_id": null
+    },
+    {
+      "target_word": "day",
+      "reading": "",
+      "translation": "día",
+      "pos": "noun",
+      "example": "What day is it today?",
+      "example_translation": "¿Qué día es hoy?",
+      "lexeme_id": "day",
+      "chunk_id": null
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Days of the week",
+      "title_target": "Quiz: Days of the week",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "What",
+            "day",
+            "is",
+            "today",
+            "?"
+          ],
+          "correct_answer": "What day is it today?",
+          "explanation_form": "La pregunta correcta es 'What day is it today?' (¿Qué día es hoy?). En inglés, las preguntas con 'what' siguen el orden: What + sustantivo + verbo + sujeto + complemento.",
+          "explanation_target": "The correct question is 'What day is it today?' In English, questions with 'what' follow the order: What + noun + verb + subject + complement.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "today",
+            "day"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: '____ is Monday. Tomorrow is Tuesday.'",
+          "prompt_target": "Complete the sentence: '____ is Monday. Tomorrow is Tuesday.'",
+          "options": null,
+          "correct_answer": "Today",
+          "explanation_form": "La respuesta es 'Today' (Hoy). La oración dice: 'Hoy es lunes. Mañana es martes.'",
+          "explanation_target": "The answer is 'Today'. The sentence says: 'Today is Monday. Tomorrow is Tuesday.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "today",
+            "tomorrow"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué día fue ayer si hoy es miércoles?",
+          "prompt_target": "What day was yesterday if today is Wednesday?",
+          "options": [
+            "Monday",
+            "Tuesday",
+            "Thursday",
+            "Friday"
+          ],
+          "correct_answer": "Tuesday",
+          "explanation_form": "Si hoy es miércoles (Wednesday), ayer (yesterday) fue martes (Tuesday).",
+          "explanation_target": "If today is Wednesday, yesterday was Tuesday.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "yesterday",
+            "today"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I work ____ the weekend.' (Trabajo el fin de semana.)",
+          "prompt_target": "Complete: 'I work ____ the weekend.'",
+          "options": null,
+          "correct_answer": "on",
+          "explanation_form": "Usamos 'on' con los días de la semana y con 'the weekend' para decir 'el fin de semana'.",
+          "explanation_target": "We use 'on' with days of the week and with 'the weekend' to say 'on the weekend'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "weekend",
+            "prepositions_on_with_days"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "today",
+            "hoy",
+            "tomorrow",
+            "mañana",
+            "yesterday",
+            "ayer"
+          ],
+          "correct_answer": [
+            "today=hoy",
+            "tomorrow=mañana",
+            "yesterday=ayer"
+          ],
+          "explanation_form": "today = hoy, tomorrow = mañana, yesterday = ayer. Son palabras de tiempo muy usadas en conversaciones diarias.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "today",
+            "tomorrow",
+            "yesterday"
+          ],
+          "points": 15,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de decir 'la semana' en inglés?",
+          "prompt_target": "What is the correct way to say 'la semana' in English?",
+          "options": [
+            "the day",
+            "the week",
+            "the weekend",
+            "the month"
+          ],
+          "correct_answer": "the week",
+          "explanation_form": "'La semana' se dice 'the week'. 'The day' es 'el día', 'the weekend' es 'el fin de semana' y 'the month' es 'el mes'.",
+          "explanation_target": "'La semana' is 'the week'. 'The day' is 'el día', 'the weekend' is 'el fin de semana' and 'the month' is 'el mes'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "week"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice '¿Qué día es hoy?' en inglés?",
+          "prompt_target": "How do you say '¿Qué día es hoy?' in English?",
+          "options": null,
+          "correct_answer": "What day is it today?",
+          "explanation_form": "La traducción correcta es 'What day is it today?'. Es la pregunta estándar para preguntar el día.",
+          "explanation_target": "The correct translation is 'What day is it today?'. It is the standard question to ask the day.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "today",
+            "day"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: '____ is Sunday. Yesterday was Saturday.'",
+          "prompt_target": "Complete: '____ is Sunday. Yesterday was Saturday.'",
+          "options": null,
+          "correct_answer": "Today",
+          "explanation_form": "La respuesta es 'Today' (Hoy). La oración dice: 'Hoy es domingo. Ayer fue sábado.'",
+          "explanation_target": "The answer is 'Today'. The sentence says: 'Today is Sunday. Yesterday was Saturday.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "today",
+            "yesterday"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué día es mañana si hoy es viernes?",
+          "prompt_target": "What day is tomorrow if today is Friday?",
+          "options": [
+            "Wednesday",
+            "Thursday",
+            "Saturday",
+            "Sunday"
+          ],
+          "correct_answer": "Saturday",
+          "explanation_form": "Si hoy es viernes (Friday), mañana (tomorrow) es sábado (Saturday).",
+          "explanation_target": "If today is Friday, tomorrow is Saturday.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "tomorrow",
+            "today"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "The",
+            "weekend",
+            "is",
+            "Saturday",
+            "and",
+            "Sunday"
+          ],
+          "correct_answer": "The weekend is Saturday and Sunday",
+          "explanation_form": "La oración correcta es 'The weekend is Saturday and Sunday' (El fin de semana es sábado y domingo).",
+          "explanation_target": "The correct sentence is 'The weekend is Saturday and Sunday'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "weekend",
+            "week"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I have a meeting ____ Monday.' (Tengo una reunión el lunes.)",
+          "prompt_target": "Complete: 'I have a meeting ____ Monday.'",
+          "options": null,
+          "correct_answer": "on",
+          "explanation_form": "Usamos 'on' antes de los días de la semana: 'on Monday' (el lunes).",
+          "explanation_target": "We use 'on' before days of the week: 'on Monday'.",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "prepositions_on_with_days",
+            "days_of_week_usage"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al español: 'Today is a good day.'",
+          "prompt_target": "Translate to Spanish: 'Today is a good day.'",
+          "options": null,
+          "correct_answer": "Hoy es un buen día.",
+          "explanation_form": "La traducción es 'Hoy es un buen día'. 'Today' = hoy, 'is' = es, 'a good day' = un buen día.",
+          "explanation_target": "The translation is 'Hoy es un buen día'. 'Today' = hoy, 'is' = es, 'a good day' = un buen día.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "today",
+            "day"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Los días de la semana en inglés\n\nEn inglés, los días de la semana se escriben SIEMPRE con mayúscula inicial, incluso en medio de una oración. Por ejemplo: \"I work on Monday\" (Trabajo el lunes). Nota que usamos la preposición **on** antes del día: **on Monday**, **on Friday**. Esta es una diferencia clave con el español, donde decimos \"el lunes\" sin preposición.\n\n## Today, tomorrow y yesterday\n\nEstas tres palabras son tus mejores amigas para hablar del tiempo. **Today** es \"hoy\", **tomorrow** es \"mañana\" y **yesterday** es \"ayer\". Son muy útiles porque no necesitan preposición: \"Today is Monday\" (Hoy es lunes), \"Tomorrow is Tuesday\" (Mañana es martes). Para preguntar qué día es, usa: \"What day is it today?\" (¿Qué día es hoy?).\n\n## La semana y el fin de semana\n\n**Week** significa \"semana\" y **weekend** significa \"fin de semana\". El fin de semana en los países de habla inglesa es sábado y domingo. Para decir \"el fin de semana\" usamos **on the weekend** o **at the weekend** (ambas son correctas, aunque \"on\" es más común en Estados Unidos). Por ejemplo: \"I see my friends on the weekend\" (Veo a mis amigos el fin de semana).\n\n## Errores comunes que debes evitar\n\n1. **No digas \"the Monday\"**: en inglés no usamos artículo antes de los días cuando hablamos de algo habitual. Decimos \"on Monday\", no \"on the Monday\".\n2. **No confundas \"day\" con \"date\"**: **day** es el día de la semana (Monday, Tuesday), mientras que la fecha (date) es el número del mes. Para preguntar la fecha dirías \"What is the date?\", pero para el día, \"What day is it?\"\n3. **Recuerda la preposición on**: siempre que hables de un día específico, usa **on**. \"I have class on Wednesday\" (Tengo clase el miércoles).\n\n## Trucos para memorizar\n\nUna forma fácil de recordar los días es agruparlos: **Monday** (lunes) empieza con \"Mon\", como la Luna (Moon en inglés). **Sunday** (domingo) empieza con \"Sun\", como el Sol. Los demás días terminan en \"day\" (día). Practica diciendo la secuencia completa: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. Cuando domines esto, podrás responder con confianza: \"Today is...\" y \"Tomorrow is...\".",
+  "metadata": {
+    "generated_at": "2026-08-11T17:54:41Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "courseMVP_mvp",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}
