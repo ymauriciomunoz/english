@@ -112,3 +112,18 @@ test("uses a feature-based component architecture without changing the product s
   assert.doesNotMatch(packageJson, /react-loading-skeleton/);
   await assert.rejects(access(new URL("../app/_sites-preview/SkeletonPreview.tsx", import.meta.url)));
 });
+
+test("keeps the suggested lesson order visual without blocking free access", async () => {
+  const [route, controller, styles] = await Promise.all([
+    readFile(new URL("../app/features/academy/components/LearningRoute.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/academy/hooks/use-academy-state.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/globals.css", import.meta.url), "utf8"),
+  ]);
+
+  assert.match(route, /!sequentiallyUnlocked \? "locked"/);
+  assert.match(route, /onClick=\{\(\) => onSelectLevel\(level\)\}/);
+  assert.match(route, /\? "Empezar" : "Abrir"/);
+  assert.doesNotMatch(route, /disabled=\{!sequentiallyUnlocked\}/);
+  assert.doesNotMatch(controller, /if \(!isLessonUnlocked/);
+  assert.match(styles, /\.lrail-item\.locked\{cursor:pointer/);
+});

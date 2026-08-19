@@ -3,7 +3,7 @@
 import { useMemo, useState, type FormEvent } from "react";
 import { a1Roadmap } from "../../../a1-expanded-course";
 import { allLessons, courseByLevel, levels, validLessonIds } from "../course-data";
-import { getLevelLessons, isLessonUnlocked } from "../course-utils";
+import { getLevelLessons } from "../course-utils";
 import type { AppView, Feedback, LegacyLevel, Lesson, Level } from "../types";
 import { usePersistentState } from "./use-persistent-state";
 
@@ -47,7 +47,6 @@ export function useAcademyState() {
   }, [activeActivity, activeLesson, lessonStep]);
 
   const openLesson = (lesson: Lesson) => {
-    if (!isLessonUnlocked(lesson, completed)) return;
     setActiveLesson(lesson);
     setLessonStep(0);
     setSelectedAnswer("");

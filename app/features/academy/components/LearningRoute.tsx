@@ -47,12 +47,12 @@ export function LearningRoute({ completed, selectedLevel, onSelectLevel, onOpenL
 
       <div className="level-rail" role="tablist" aria-label="Niveles de inglés">
         {levels.map((level) => {
-          const unlocked = isLevelUnlocked(level, completed);
+          const sequentiallyUnlocked = isLevelUnlocked(level, completed);
           const count = getLevelCompleted(level, completed);
           const total = getLevelLessons(level).length;
           const percentage = Math.round((count / total) * 100);
-          return <button key={level} className={`lrail-item ${selectedLevel === level ? "active" : ""} ${!unlocked ? "locked" : ""}`} onClick={() => unlocked && onSelectLevel(level)} style={{ "--lc": levelData[level].color, "--ls": levelVisuals[level].secondary } as CSSProperties} role="tab" aria-selected={selectedLevel === level} aria-label={`${level}, ${levelData[level].label}${!unlocked ? ", bloqueado" : ""}`}>
-            <span className="lrail-badge">{unlocked ? levelVisuals[level].icon : "◆"}</span><div className="lrail-meta"><strong>{level}</strong><small>{levelData[level].label}</small></div><div className="lrail-count">{unlocked ? `${count}/${total}` : "—"}</div><div className="lrail-bar"><i style={{ width: `${percentage}%` }} /></div>
+          return <button key={level} className={`lrail-item ${selectedLevel === level ? "active" : ""} ${!sequentiallyUnlocked ? "locked" : ""}`} onClick={() => onSelectLevel(level)} style={{ "--lc": levelData[level].color, "--ls": levelVisuals[level].secondary } as CSSProperties} role="tab" aria-selected={selectedLevel === level} aria-label={`${level}, ${levelData[level].label}${!sequentiallyUnlocked ? ", disponible fuera del orden sugerido" : ""}`}>
+            <span className="lrail-badge">{sequentiallyUnlocked ? levelVisuals[level].icon : "◆"}</span><div className="lrail-meta"><strong>{level}</strong><small>{levelData[level].label}</small></div><div className="lrail-count">{sequentiallyUnlocked ? `${count}/${total}` : "—"}</div><div className="lrail-bar"><i style={{ width: `${percentage}%` }} /></div>
           </button>;
         })}
       </div>
@@ -66,16 +66,16 @@ export function LearningRoute({ completed, selectedLevel, onSelectLevel, onOpenL
       <div className="lesson-deck">
         {visibleLessons.map((lesson, index) => {
           const done = completed.includes(lesson.id);
-          const unlocked = isLessonUnlocked(lesson, completed);
-          const current = unlocked && !done && (index === 0 || completed.includes(visibleLessons[index - 1].id));
+          const sequentiallyUnlocked = isLessonUnlocked(lesson, completed);
+          const current = sequentiallyUnlocked && !done && (index === 0 || completed.includes(visibleLessons[index - 1].id));
           const showUnitHeading = lesson.level === "A1" && (index === 0 || visibleLessons[index - 1].unit !== lesson.unit);
           return <Fragment key={lesson.id}>
             {showUnitHeading && <div className="a1-unit-divider"><span>{lesson.unit === "pre-A1" ? "PREPARACIÓN" : `UNIDAD ${lesson.unit}`}</span><div /><small>{visibleLessons.filter((item) => item.unit === lesson.unit).length} lecciones</small></div>}
-            <article className={`lesson-tile ${done ? "done" : ""} ${current ? "current" : ""} ${!unlocked ? "locked" : ""}`} style={{ "--lc": levelData[selectedLevel].color, "--ls": levelVisuals[selectedLevel].secondary } as CSSProperties}>
+            <article className={`lesson-tile ${done ? "done" : ""} ${current ? "current" : ""} ${!sequentiallyUnlocked ? "locked" : ""}`} style={{ "--lc": levelData[selectedLevel].color, "--ls": levelVisuals[selectedLevel].secondary } as CSSProperties}>
               <div className="lt-accent" />
-              <div className="lt-header"><div className={`lt-num ${done ? "done" : current ? "cur" : ""}`}>{done ? "✓" : !unlocked ? "◆" : lesson.number}</div><span className="lt-label">{lesson.level === "A1" ? `UNIDAD ${lesson.unit} · ` : ""}LECCIÓN {String(lesson.number).padStart(2, "0")}</span>{done && <span className="xp-tag">+20 XP</span>}{current && <span className="current-badge">EN CURSO</span>}</div>
-              <div className="lt-icon-row"><div className="lt-icon">{unlocked ? lesson.icon : "·"}</div><div className="lt-text"><h3>{lesson.title}</h3><p>{lesson.summary}</p>{lesson.level === "A1" && <small className="lt-duration">◷ {lesson.duration} min · Lección completa</small>}</div></div>
-              <div className="lt-foot"><button onClick={() => onOpenLesson(lesson)} disabled={!unlocked} className={`lt-btn ${current ? "primary" : done ? "review" : "default"}`} aria-label={`${done ? "Repasar" : "Empezar"} ${lesson.title}`}>{done ? "Repasar" : current ? "Empezar" : unlocked ? "Ver" : "Bloqueado"}{unlocked && <span className="lt-arrow">→</span>}</button></div>
+              <div className="lt-header"><div className={`lt-num ${done ? "done" : current ? "cur" : ""}`}>{done ? "✓" : !sequentiallyUnlocked ? "◆" : lesson.number}</div><span className="lt-label">{lesson.level === "A1" ? `UNIDAD ${lesson.unit} · ` : ""}LECCIÓN {String(lesson.number).padStart(2, "0")}</span>{done && <span className="xp-tag">+20 XP</span>}{current && <span className="current-badge">EN CURSO</span>}</div>
+              <div className="lt-icon-row"><div className="lt-icon">{sequentiallyUnlocked ? lesson.icon : "·"}</div><div className="lt-text"><h3>{lesson.title}</h3><p>{lesson.summary}</p>{lesson.level === "A1" && <small className="lt-duration">◷ {lesson.duration} min · Lección completa</small>}</div></div>
+              <div className="lt-foot"><button onClick={() => onOpenLesson(lesson)} className={`lt-btn ${current ? "primary" : done ? "review" : "default"}`} aria-label={`${done ? "Repasar" : "Abrir"} ${lesson.title}`}>{done ? "Repasar" : current ? "Empezar" : "Abrir"}<span className="lt-arrow">→</span></button></div>
             </article>
           </Fragment>;
         })}
