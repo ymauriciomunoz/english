@@ -1,6 +1,7 @@
 "use client";
 
 import { Fragment, type CSSProperties } from "react";
+import { academyVisibility } from "../academy-visibility";
 import { a1Lessons, allLessons, levelData, levels, levelSummaries, levelVisuals } from "../course-data";
 import { getLevelCompleted, getLevelLessons, isLessonUnlocked, isLevelUnlocked } from "../course-utils";
 import type { Lesson, Level } from "../types";
@@ -23,7 +24,7 @@ export function LearningRoute({ completed, selectedLevel, onSelectLevel, onOpenL
   const nextLesson = allLessons.find((lesson) => !completed.includes(lesson.id)) ?? null;
 
   return <>
-    <section className="hero-grid">
+    <section className={`hero-grid ${academyVisibility.dailyGoal ? "" : "hero-grid-single"}`}>
       <div className={`mission-card ${courseCompleted ? "course-complete" : ""}`} style={{ background: courseCompleted ? "linear-gradient(125deg,#008f7e,#32c6ad)" : nextLesson ? `linear-gradient(125deg,${levelData[nextLesson.level].color},${levelVisuals[nextLesson.level].secondary})` : undefined }}>
         {courseCompleted ? <div className="mission-copy"><span className="eyebrow">RUTA COMPLETADA</span><h2>¡Dominaste las {allLessons.length} lecciones!</h2><p>Terminaste los niveles A1, A2, B1, B2 y C1. Mantén lo aprendido fresco con una sesión de práctica.</p>
           <div className="mission-meta"><span>✓ 5 niveles</span><span>⚡ {allLessons.length * 20} XP</span><span>◆ {allLessons.length} lecciones</span></div>
@@ -34,11 +35,11 @@ export function LearningRoute({ completed, selectedLevel, onSelectLevel, onOpenL
         </div>}
         <div className="mission-art" aria-hidden="true"><div className="orbit orbit-one" /><div className="orbit orbit-two" /><div className="planet">🌍</div><div className="rocket">🚀</div><span className="star s1">✦</span><span className="star s2">✦</span><span className="star s3">✦</span></div>
       </div>
-      <aside className="daily-card" id="practica">
+      {academyVisibility.dailyGoal && <aside className="daily-card" id="practica">
         <div className="daily-head"><span><i>⚡</i><strong>Meta diaria</strong></span><b>60%</b></div><div className="daily-progress"><span /></div><div className="xp-row"><span>60 XP</span><span>100 XP</span></div>
         <div className="week-row">{["L", "M", "X", "J", "V", "S", "D"].map((day, index) => <div key={day}><span className={index < 3 ? "done" : index === 3 ? "today" : ""}>{index < 3 ? "✓" : day}</span><small>{day}</small></div>)}</div>
         <p>¡Vas genial! Completa una lección para alcanzar tu meta.</p>
-      </aside>
+      </aside>}
     </section>
 
     <section className="ruta-section" id="ruta">
@@ -81,6 +82,6 @@ export function LearningRoute({ completed, selectedLevel, onSelectLevel, onOpenL
       </div>
     </section>
 
-    <section className="achievements" id="logros"><div><span className="eyebrow dark">TUS LOGROS</span><h2>Pequeños pasos, grandes victorias</h2></div><div className="achievement-grid"><article><span>🔥</span><div><strong>En llamas</strong><p>5 días de práctica</p></div></article><article><span>⚡</span><div><strong>Con energía</strong><p>140 XP esta semana</p></div></article><article className={a1Completed >= a1Lessons.length ? "" : "muted"}><span>🏆</span><div><strong>Maestro A1</strong><p>{a1Completed}/{a1Lessons.length} lecciones</p></div></article></div></section>
+    {academyVisibility.achievements && <section className="achievements" id="logros"><div><span className="eyebrow dark">TUS LOGROS</span><h2>Pequeños pasos, grandes victorias</h2></div><div className="achievement-grid"><article><span>🔥</span><div><strong>En llamas</strong><p>5 días de práctica</p></div></article><article><span>⚡</span><div><strong>Con energía</strong><p>140 XP esta semana</p></div></article><article className={a1Completed >= a1Lessons.length ? "" : "muted"}><span>🏆</span><div><strong>Maestro A1</strong><p>{a1Completed}/{a1Lessons.length} lecciones</p></div></article></div></section>}
   </>;
 }

@@ -1,6 +1,7 @@
 "use client";
 
 import type { AppView } from "../types";
+import { academyVisibility } from "../academy-visibility";
 
 type AppSidebarProps = {
   activeView: AppView;
@@ -22,9 +23,11 @@ export function AppSidebar({ activeView, menuOpen, studentName, studentInitials,
       <button className={activeView === "home" ? "active" : ""} onClick={onHome}><span>⌂</span> Inicio</button>
       <button className={activeView === "route" ? "active" : ""} onClick={() => onRoute("ruta")}><span>♢</span> Mi ruta</button>
       <button className={activeView === "practice" ? "active" : ""} onClick={onPractice}><span>◎</span> Práctica</button>
-      <button onClick={() => onRoute("logros")}><span>☆</span> Logros</button>
+      {academyVisibility.achievements && <button onClick={() => onRoute("logros")}><span>☆</span> Logros</button>}
     </nav>
-    <div className="sidebar-card"><span className="mini-label">RACHA ACTUAL</span><strong><span className="flame">🔥</span> 5 días</strong><p>¡Una lección más y rompes tu récord!</p></div>
-    <div className="profile"><div className="avatar">{studentInitials}</div><div><strong>{studentName}</strong><span>Nivel A1 · Liga Sol</span></div><button onClick={onEditName} aria-label="Editar nombre">•••</button></div>
+    {academyVisibility.sidebarStatus && <>
+      <div className="sidebar-card"><span className="mini-label">RACHA ACTUAL</span><strong><span className="flame">🔥</span> 5 días</strong><p>¡Una lección más y rompes tu récord!</p></div>
+      <div className="profile"><div className="avatar">{studentInitials}</div><div><strong>{studentName}</strong><span>Nivel A1 · Liga Sol</span></div><button onClick={onEditName} aria-label="Editar nombre">•••</button></div>
+    </>}
   </aside>;
 }
