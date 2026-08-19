@@ -67,21 +67,48 @@ export function uniqueOptions(options: string[] | null | undefined, answer: Less
   return [...new Set(values)];
 }
 
-export function orderingOptions(options: string[] | null | undefined, answer: LessonAnswer) {
-  const values = [...(options ?? []).map(String)];
-  if (Array.isArray(answer)) return values;
-  const available = new Map<string, number>();
-  for (const option of values) {
-    const key = normalizeAnswer(option).replaceAll(" ", "");
-    available.set(key, (available.get(key) ?? 0) + 1);
+export function orderingOptions(options: string[] | null | undefined, answer: LessonAnswer, itemId = "") {
+  const sourceTokens = (options ?? []).flatMap((option) => String(option).trim().split(/\s+/).filter(Boolean));
+  const values: string[] = [];
+  if (Array.isArray(answer)) values.push(...sourceTokens);
+  else {
+    const remaining = new Map<string, number>();
+    for (const key of normalizeAnswer(answer).split(" ").filter(Boolean)) {
+      remaining.set(key, (remaining.get(key) ?? 0) + 1);
+    }
+    for (const option of sourceTokens) {
+      const parts = normalizeAnswer(option).split(" ").filter(Boolean);
+      if (!parts.length) {
+        values.push(option);
+        continue;
+      }
+      const requested = new Map<string, number>();
+      const fitsAnswer = parts.every((part) => {
+        const count = (requested.get(part) ?? 0) + 1;
+        requested.set(part, count);
+        return count <= (remaining.get(part) ?? 0);
+      });
+      if (!fitsAnswer) continue;
+      values.push(option);
+      for (const [part, count] of requested) remaining.set(part, (remaining.get(part) ?? 0) - count);
+    }
+    for (const answerToken of answer.trim().split(/\s+/)) {
+      const normalizedParts = normalizeAnswer(answerToken).split(" ").filter(Boolean);
+      for (const part of normalizedParts) {
+        const count = remaining.get(part) ?? 0;
+        if (count <= 0) continue;
+        values.push(normalizedParts.length === 1 ? answerToken : part);
+        remaining.set(part, count - 1);
+      }
+    }
   }
-  for (const token of answer.trim().split(/\s+/)) {
-    const key = normalizeAnswer(token).replaceAll(" ", "");
-    const count = available.get(key) ?? 0;
-    if (count > 0) available.set(key, count - 1);
-    else values.push(token);
-  }
-  return values;
+  const mixed = deterministicShuffle(values, `${itemId}|${answerLabel(answer)}|${values.join("|")}`);
+  if (Array.isArray(answer) || normalizeAnswer(mixed.join(" ")) !== normalizeAnswer(answer)) return mixed;
+
+  const firstWord = mixed.findIndex((value) => Boolean(normalizeAnswer(value)));
+  const secondWord = mixed.findIndex((value, index) => index > firstWord && Boolean(normalizeAnswer(value)) && normalizeAnswer(value) !== normalizeAnswer(mixed[firstWord]));
+  if (firstWord >= 0 && secondWord > firstWord) [mixed[firstWord], mixed[secondWord]] = [mixed[secondWord], mixed[firstWord]];
+  return mixed;
 }
 
 function optionSeed(value: string) {
@@ -91,6 +118,17 @@ function optionSeed(value: string) {
     hash = Math.imul(hash, 16777619);
   }
   return hash >>> 0;
+}
+
+function deterministicShuffle(values: string[], seedValue: string) {
+  const shuffled = [...values];
+  let state = optionSeed(seedValue) || 0x9e3779b9;
+  for (let index = shuffled.length - 1; index > 0; index -= 1) {
+    state = (Math.imul(state, 1664525) + 1013904223) >>> 0;
+    const target = state % (index + 1);
+    [shuffled[index], shuffled[target]] = [shuffled[target], shuffled[index]];
+  }
+  return shuffled;
 }
 
 export function distributeCorrectOption(options: string[], item: A1Activity | A1QuizQuestion) {

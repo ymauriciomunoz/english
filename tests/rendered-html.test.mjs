@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import { access, readFile } from "node:fs/promises";
 import test from "node:test";
+import { normalizeAnswer, orderingOptions } from "../app/features/a1/lesson-utils.ts";
 
 const legacyCoursePaths = ["a2", "b1", "b2", "c1"];
 
@@ -50,6 +51,17 @@ test("ships the complete roadmap-driven A1 course and keeps A2-C1 intact", async
     assert.ok(Array.isArray(lesson.quiz));
     assert.ok(lesson.quiz.every((quiz) => Array.isArray(quiz.questions)));
     for (const activity of [...lesson.exercises, ...lesson.quiz.flatMap((quiz) => quiz.questions)]) {
+      if (activity.kind === "ordering" && !Array.isArray(activity.correct_answer)) {
+        const mixed = orderingOptions(activity.options, activity.correct_answer, activity.id);
+        const repeated = orderingOptions(activity.options, activity.correct_answer, activity.id);
+        const answerTokens = activity.correct_answer.trim().split(/\s+/).flatMap((token) => normalizeAnswer(token).split(" ")).filter(Boolean).sort();
+        const mixedTokens = mixed.flatMap((token) => normalizeAnswer(token).split(" ")).filter(Boolean).sort();
+        assert.deepEqual(mixed, repeated, `${lesson.id}/${activity.id} debe mantener la mezcla durante la respuesta`);
+        assert.deepEqual(mixedTokens, answerTokens, `${lesson.id}/${activity.id} debe conservar todas las palabras`);
+        if (new Set(answerTokens).size > 1) {
+          assert.notEqual(normalizeAnswer(mixed.join(" ")), normalizeAnswer(activity.correct_answer), `${lesson.id}/${activity.id} debe iniciar desordenado`);
+        }
+      }
       if (Array.isArray(activity.options) && !Array.isArray(activity.correct_answer) && activity.kind !== "ordering" && activity.kind !== "matching") {
         assert.ok(activity.options.includes(activity.correct_answer), `${lesson.id}/${activity.id} debe incluir su respuesta`);
       }

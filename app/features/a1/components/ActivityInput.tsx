@@ -36,7 +36,7 @@ export function ActivityInput({ item, answer, feedback, onAnswer, onFeedback }: 
   }
 
   if (item.kind === "ordering") {
-    const options = orderingOptions(item.options, item.correct_answer);
+    const options = orderingOptions(item.options, item.correct_answer, item.id);
     if (options.length) return <div className="a1-order-builder">
       <div className="a1-order-result">{order.length ? order.map((value) => value.replace(/-\d+$/, "")).join(" ") : "Selecciona las palabras en el orden correcto"}</div>
       <div className="a1-order-options">{options.map((option, index) => {
