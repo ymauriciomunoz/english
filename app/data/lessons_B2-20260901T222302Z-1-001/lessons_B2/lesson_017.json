@@ -1,0 +1,1788 @@
+{
+  "id": "lesson_017",
+  "position": 17,
+  "unit_id": 5,
+  "course_id": "en.B2",
+  "title_form": "Writing a persuasive essay with supporting details",
+  "title_target": "Writing a persuasive essay with supporting details",
+  "theme_focus": "academic",
+  "learning_objectives": [
+    "Can write a persuasive essay using participle clauses to add background information and make the writing more concise.",
+    "Can use 'having finished' and 'built in 1900' type participle clauses to provide supporting details in formal writing."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_015",
+    "lesson_016"
+  ],
+  "grammar_focus": [
+    "participle clauses: having finished, built in 1900"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "evident_adj"
+      ],
+      "chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "regulation",
+        "pose_a_threat_phrase",
+        "contribute_to_phrase",
+        "raise_awareness_phrase"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "regulation",
+        "role": "topic",
+        "rationale": "Central topic of the essay; the learner discusses the role of regulations."
+      },
+      {
+        "term": "pose a threat",
+        "role": "topic",
+        "rationale": "Used to argue why regulations are needed to address public health threats."
+      },
+      {
+        "term": "population",
+        "role": "topic",
+        "rationale": "Relevant to discussing the impact of regulations on the population."
+      },
+      {
+        "term": "contribute to",
+        "role": "functional",
+        "rationale": "Used to explain how regulations contribute to public health."
+      },
+      {
+        "term": "raise awareness",
+        "role": "functional",
+        "rationale": "Used to argue for the importance of public health campaigns."
+      },
+      {
+        "term": "furthermore",
+        "role": "functional",
+        "rationale": "Formal additive connector for extending a persuasive argument."
+      },
+      {
+        "term": "evident",
+        "role": "functional",
+        "rationale": "Formal evaluative adjective used to state that supporting evidence is clear."
+      },
+      {
+        "term": "having finished",
+        "role": "grammar_support",
+        "rationale": "Participle clause structure for background information, the central grammar focus."
+      },
+      {
+        "term": "built in 1900",
+        "role": "grammar_support",
+        "rationale": "Participle clause structure for background information, the central grammar focus."
+      }
+    ]
+  },
+  "scenario": "María is writing a persuasive essay for her university course. The topic is public health regulations. She uses participle clauses to add background information, and connectors like *furthermore* to build her argument. Her goal is to convince the reader that regulations are necessary to protect the population.",
+  "introduction_md": "## Writing a persuasive essay with supporting details\n\nEn esta lección vas a escribir un ensayo persuasivo sobre un tema de salud pública. Aprenderás a usar **oraciones de participio** (participle clauses) como *having finished* o *built in 1900* para añadir información de fondo de forma concisa y formal.\n\n**¿Por qué es importante?**\n\n- Los ensayos persuasivos necesitan argumentos claros y evidencia.\n- Las oraciones de participio hacen tu escritura más elegante y profesional.\n- Conectores como *furthermore* te ayudan a extender tus argumentos.\n\n**En esta lección vas a:**\n\n1. Ver cómo usar *having finished* y *built in 1900* para dar contexto.\n2. Practicar con vocabulario clave: *regulation*, *pose a threat*, *contribute to*, *raise awareness*.\n3. Escribir un ensayo corto con argumentos y detalles de apoyo.\n\nAl final, podrás escribir un ensayo persuasivo claro y bien estructurado, listo para contextos académicos o profesionales.",
+  "intro_target": "## Writing a persuasive essay with supporting details\n\nIn this lesson, you will write a persuasive essay about a public health topic. You will learn to use **participle clauses** like *having finished* or *built in 1900* to add background information in a concise and formal way.\n\n**Why is this important?**\n\n- Persuasive essays need clear arguments and evidence.\n- Participle clauses make your writing more elegant and professional.\n- Connectors like *furthermore* help you extend your arguments.\n\n**In this lesson, you will:**\n\n1. See how to use *having finished* and *built in 1900* to give context.\n2. Practice with key vocabulary: *regulation*, *pose a threat*, *contribute to*, *raise awareness*.\n3. Write a short essay with arguments and supporting details.\n\nBy the end, you will be able to write a clear, well-structured persuasive essay, ready for academic or professional contexts.",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "evident_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Having finished the research, it is evident that the new regulation will help the population.",
+      "translation_form": "Habiendo terminado la investigación, es evidente que la nueva regulación ayudará a la población.",
+      "highlight_words": [
+        "evident",
+        "regulation",
+        "population"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_furthermore_addition",
+      "grammar_slug": null,
+      "text_target": "Furthermore, it is evident that these campaigns raise awareness about the threat.",
+      "translation_form": "Además, es evidente que estas campañas crean conciencia sobre la amenaza.",
+      "highlight_words": [
+        "furthermore",
+        "evident",
+        "raise",
+        "awareness",
+        "threat"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "regulation",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Built in 1900, the old factory now poses a threat to the environment.",
+      "translation_form": "Construida en 1900, la vieja fábrica ahora representa una amenaza para el medio ambiente.",
+      "highlight_words": [
+        "built",
+        "1900",
+        "poses",
+        "threat"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "pose_a_threat_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Having finished the report, the scientist concluded that the pollution poses a threat to public health.",
+      "translation_form": "Habiendo terminado el informe, el científico concluyó que la contaminación representa una amenaza para la salud pública.",
+      "highlight_words": [
+        "finished",
+        "poses",
+        "threat"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "contribute_to_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "These new regulations contribute to a safer environment for everyone.",
+      "translation_form": "Estas nuevas regulaciones contribuyen a un medio ambiente más seguro para todos.",
+      "highlight_words": [
+        "regulations",
+        "contribute"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "raise_awareness_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Having finished the campaign, they raised awareness about the importance of recycling.",
+      "translation_form": "Habiendo terminado la campaña, crearon conciencia sobre la importancia del reciclaje.",
+      "highlight_words": [
+        "finished",
+        "raised",
+        "awareness"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "participle clauses: having finished, built in 1900",
+      "title_form": "Cláusulas de participio: having finished, built in 1900",
+      "title_target": "Participle Clauses: having finished, built in 1900",
+      "description_md_form": "Las **cláusulas de participio** (participle clauses) son una forma de **condensar información** en la escritura formal. En lugar de usar dos oraciones completas, unimos la idea secundaria con un participio. Esto hace que el texto sea más **conciso** y **sofisticado**, ideal para un ensayo persuasivo.\n\nHay dos formas principales:\n\n1. **Participio presente perfecto** (`having + past participle`): expresa una acción que ocurre **antes** de la acción principal.\n   - `Having finished the research, it is evident that the new regulation will help the population.`\n   - (Después de terminar la investigación, es evidente que...)\n\n2. **Participio pasado** (`past participle`): se usa para dar información **pasiva** o descriptiva sobre el sujeto.\n   - `Built in 1900, the old factory now poses a threat to the environment.`\n   - (Construida en 1900, la vieja fábrica...)\n\n**Regla clave:** el sujeto de la cláusula de participio debe ser el **mismo** que el de la oración principal. Esta estructura es común en textos académicos y formales.",
+      "description_md_target": "**Participle clauses** are a way to **condense information** in formal writing. Instead of using two full sentences, we join the secondary idea with a participle. This makes the text more **concise** and **sophisticated**, ideal for a persuasive essay.\n\nThere are two main forms:\n\n1. **Perfect participle** (`having + past participle`): expresses an action that happens **before** the main action.\n   - `Having finished the research, it is evident that the new regulation will help the population.`\n\n2. **Past participle**: used to give **passive** or descriptive information about the subject.\n   - `Built in 1900, the old factory now poses a threat to the environment.`\n\n**Key rule:** the subject of the participle clause must be the **same** as the subject of the main clause. This structure is common in academic and formal texts.",
+      "grammar_structure": "Having + past participle, + main clause | Past participle + noun, + main clause",
+      "conjugation_table": {
+        "name": "participle_clause_forms",
+        "headers": [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Having + past participle",
+            "Acción anterior a la principal",
+            "Having finished the report, the scientist concluded..."
+          ],
+          [
+            "Past participle",
+            "Información pasiva/descriptiva",
+            "Built in 1900, the factory poses a threat..."
+          ],
+          [
+            "Having + past participle",
+            "Antes de una acción pasiva",
+            "Having been built in 1900, the factory is old."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "participle clauses: having finished, built in 1900",
+          "text_target": "Having finished the research, it is evident that the new regulation will help the population.",
+          "translation_form": "Habiendo terminado la investigación, es evidente que la nueva regulación ayudará a la población.",
+          "highlight_words": [
+            "having",
+            "finished"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "participle clauses: having finished, built in 1900",
+          "text_target": "Built in 1900, the old factory now poses a threat to the environment.",
+          "translation_form": "Construida en 1900, la vieja fábrica ahora representa una amenaza para el medio ambiente.",
+          "highlight_words": [
+            "built"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Usa `having finished` para mostrar que una acción terminó antes de la otra. Es perfecto para introducir evidencia en un ensayo."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No uses un sujeto diferente en la cláusula de participio. ✗ `Having finished the report, the conclusion was clear.` → El sujeto de `having finished` no es `the conclusion`. ✓ `Having finished the report, the scientist concluded...`"
+        }
+      ],
+      "common_errors_es": [
+        "Usar un sujeto distinto en la cláusula de participio y en la oración principal. El sujeto debe ser el mismo.",
+        "Confundir `having finished` (acción anterior) con `finished` (acción pasiva). `Having finished` indica que la acción ocurrió antes; `finished` describe un estado.",
+        "Olvidar la coma después de la cláusula de participio cuando está al inicio de la oración."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'evident'?",
+      "options": [
+        "evidente, claro",
+        "posible",
+        "importante",
+        "difícil"
+      ],
+      "correct_answer": "evidente, claro",
+      "explanation_md": "'Evident' describe algo que es claro y fácil de ver o entender.",
+      "related_lexeme_ids": [
+        "evident_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'furthermore'?",
+      "options": [
+        "además",
+        "sin embargo",
+        "porque",
+        "finalmente"
+      ],
+      "correct_answer": "además",
+      "explanation_md": "'Furthermore' se usa para añadir un punto más a un argumento.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "regulation",
+        "regulación",
+        "threat",
+        "amenaza",
+        "population",
+        "población",
+        "awareness",
+        "conciencia"
+      ],
+      "correct_answer": [
+        "regulation=regulación",
+        "threat=amenaza",
+        "population=población",
+        "awareness=conciencia"
+      ],
+      "explanation_md": "Estas palabras son clave para hablar de temas de salud pública y medio ambiente.",
+      "related_lexeme_ids": [
+        "regulation",
+        "pose_a_threat_phrase",
+        "raise_awareness_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'Having finished the research, it is ____ that the new regulation will help the population.'",
+      "options": [
+        "evident",
+        "possible",
+        "important",
+        "difficult"
+      ],
+      "correct_answer": "evident",
+      "explanation_md": "Usamos 'evident' para decir que algo es claro según la evidencia.",
+      "related_lexeme_ids": [
+        "evident_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración con la palabra correcta: '____, it is evident that these campaigns raise awareness about the threat.'",
+      "options": null,
+      "correct_answer": "Furthermore",
+      "explanation_md": "'Furthermore' se usa para añadir un argumento adicional.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Habiendo terminado el informe, el científico concluyó que la contaminación representa una amenaza para la salud pública.'",
+      "options": null,
+      "correct_answer": "Having finished the report, the scientist concluded that the pollution poses a threat to public health.",
+      "explanation_md": "La cláusula de participio 'having finished' da información de fondo sobre la acción principal.",
+      "related_lexeme_ids": [
+        "pose_a_threat_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'Built in 1900, the old factory now poses a threat to the environment.'",
+      "options": null,
+      "correct_answer": "Construida en 1900, la vieja fábrica ahora representa una amenaza para el medio ambiente.",
+      "explanation_md": "La cláusula de participio 'built in 1900' describe el edificio.",
+      "related_lexeme_ids": [
+        "pose_a_threat_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué el autor cree que las regulaciones son necesarias?",
+      "options": null,
+      "correct_answer": "Porque la contaminación del aire representa una amenaza seria para la salud pública y el problema está empeorando.",
+      "explanation_md": "El texto dice que la contaminación es una amenaza seria y que el problema empeora, por eso las regulaciones son necesarias.",
+      "related_lexeme_ids": [
+        "regulation",
+        "pose_a_threat_phrase",
+        "raise_awareness_phrase",
+        "contribute_to_phrase"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Having finished a long study, scientists have concluded that air pollution poses a serious threat to public health. The evidence is clear: many people in the population are getting sick because of the dirty air. Furthermore, it is evident that the problem is getting worse every year. Because of this, new regulations are necessary. These regulations will help reduce the pollution from old factories. Built in 1900, many of these factories still use very old machines. The regulations will also contribute to a safer environment for everyone. Finally, public campaigns can raise awareness about the threat. When people understand the problem, they can make better choices. In conclusion, the combination of new regulations and public awareness is the best way to protect the population.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué problema tiene la fábrica vieja?",
+      "options": null,
+      "correct_answer": "La fábrica usa máquinas viejas que producen mucha contaminación y no sigue las nuevas regulaciones ambientales.",
+      "explanation_md": "El texto menciona que las máquinas viejas producen contaminación y que la fábrica no sigue las regulaciones.",
+      "related_lexeme_ids": [
+        "regulation",
+        "pose_a_threat_phrase",
+        "raise_awareness_phrase"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "medium",
+      "passage_md": "The old factory in our town was built in 1900. For many years, it was the most important place for jobs in the area. However, the factory now uses very old machines that produce a lot of pollution. This pollution poses a threat to the health of the population. Furthermore, the factory does not follow the new environmental regulations. The local government is now discussing what to do. Some people want to close the factory, but others are worried about losing their jobs. Having finished a recent study, experts say that the factory needs new machines. These new machines would reduce the pollution and help the environment. The government is also planning a campaign to raise awareness about the problem. They hope that the population will support the changes.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué propone el autor para mejorar la situación?",
+      "options": null,
+      "correct_answer": "El autor propone nuevas regulaciones que prohíban las bolsas de plástico, una campaña para crear conciencia sobre el reciclaje e invertir en mejores instalaciones de reciclaje.",
+      "explanation_md": "El texto menciona tres acciones: regulaciones, campañas de conciencia e inversión en instalaciones.",
+      "related_lexeme_ids": [
+        "regulation",
+        "pose_a_threat_phrase",
+        "raise_awareness_phrase",
+        "contribute_to_phrase"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "hard",
+      "passage_md": "It is evident that our city has a serious problem with plastic waste. Every year, tons of plastic end up in the ocean. This waste poses a threat to the wildlife and to the health of the population. Furthermore, the problem is growing because people do not recycle enough. Having finished a detailed analysis, experts have proposed a clear solution. First, the city needs new regulations that ban single-use plastic bags. Second, the government should start a campaign to raise awareness about recycling. These campaigns can contribute to a change in people's habits. Finally, the city should invest in better recycling facilities. With these three actions, we can reduce the plastic in our environment and protect our health. The time to act is now.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué dice la persona sobre la evidencia?",
+      "options": [
+        "La evidencia no es clara.",
+        "La evidencia es clara.",
+        "No hay evidencia.",
+        "La evidencia es débil."
+      ],
+      "correct_answer": "La evidencia es clara.",
+      "explanation_md": "La persona dice 'the evidence is clear', que significa que la evidencia es clara.",
+      "related_lexeme_ids": [
+        "evident_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": "Having finished the research, I can say that the evidence is clear. The new regulation will help the population. Furthermore, it is evident that the campaigns raise awareness about the threat. We need to act now.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué problema tiene la fábrica?",
+      "options": [
+        "La fábrica produce muchos empleos.",
+        "La fábrica contamina el medio ambiente.",
+        "La fábrica es muy moderna.",
+        "La fábrica no tiene problemas."
+      ],
+      "correct_answer": "La fábrica contamina el medio ambiente.",
+      "explanation_md": "El audio dice que la fábrica 'poses a threat to the environment', que significa que contamina.",
+      "related_lexeme_ids": [
+        "pose_a_threat_phrase",
+        "regulation"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The old factory was built in 1900. It now poses a threat to the environment. The pollution is very bad for the population. Furthermore, the factory does not follow the new regulations. The government is worried.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué va a hacer la ciudad?",
+      "options": [
+        "La ciudad va a cerrar todas las fábricas.",
+        "La ciudad va a crear nuevas regulaciones y una campaña.",
+        "La ciudad no va a hacer nada.",
+        "La ciudad va a construir más fábricas."
+      ],
+      "correct_answer": "La ciudad va a crear nuevas regulaciones y una campaña.",
+      "explanation_md": "El audio menciona nuevas regulaciones y una campaña para crear conciencia.",
+      "related_lexeme_ids": [
+        "regulation",
+        "raise_awareness_phrase",
+        "contribute_to_phrase"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Having finished the study, the city has a plan. First, new regulations will reduce pollution. Second, a campaign will raise awareness about recycling. These actions will contribute to a healthier population. Furthermore, the city will build new recycling facilities.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre un problema en tu ciudad. Usá 'having finished' o 'built in' y las palabras 'regulation', 'threat' o 'awareness'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de las cláusulas de participio y el vocabulario de la lección.",
+      "related_lexeme_ids": [
+        "regulation",
+        "pose_a_threat_phrase",
+        "raise_awareness_phrase"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Having finished a study, the city found that the old factory poses a threat to the population.",
+        "Built in 1990, the factory needs new regulations to reduce pollution.",
+        "Furthermore, a campaign can raise awareness about the problem."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones argumentando por qué las regulaciones son importantes para la salud pública. Usá 'furthermore' y 'evident'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'furthermore' para añadir argumentos y 'evident' para expresar claridad.",
+      "related_lexeme_ids": [
+        "evident_adj",
+        "regulation",
+        "pose_a_threat_phrase",
+        "contribute_to_phrase"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_furthermore_addition"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "It is evident that pollution poses a threat to public health.",
+        "Furthermore, new regulations can reduce this threat.",
+        "These regulations will contribute to a safer environment for the population."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "evident",
+      "back": "evidente",
+      "hint": "adjetivo formal para decir que algo es claro",
+      "lexeme_id": "evident_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "B2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "Furthermore, it is evident that he is right.",
+      "back": "Además, es evidente que él tiene razón.",
+      "hint": "conector formal para añadir un argumento",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_furthermore_addition",
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "B2",
+        "discourse"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "regulation",
+      "back": "regulación, normativa",
+      "hint": "tema central del ensayo",
+      "lexeme_id": "regulation",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "B2",
+        "society"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "pose a threat",
+      "back": "representar una amenaza",
+      "hint": "frase para hablar de riesgos",
+      "lexeme_id": "pose_a_threat_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "B2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "contribute to",
+      "back": "contribuir a",
+      "hint": "verbo con preposición",
+      "lexeme_id": "contribute_to_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "B2",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "raise awareness",
+      "back": "concienciar, crear conciencia",
+      "hint": "frase para campañas",
+      "lexeme_id": "raise_awareness_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "B2",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "having finished",
+      "back": "habiendo terminado",
+      "hint": "cláusula de participio para acciones previas",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "having finished",
+      "tags": [
+        "lesson_017",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "built in 1900",
+      "back": "construido en 1900",
+      "hint": "cláusula de participio pasiva",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "built in 1900",
+      "tags": [
+        "lesson_017",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "evident",
+      "reading": "",
+      "translation": "evidente",
+      "pos": "adjective",
+      "example": "Having finished the research, it is evident that the new regulation will help the population.",
+      "example_translation": "Habiendo terminado la investigación, es evidente que la nueva regulación ayudará a la población.",
+      "lexeme_id": "evident_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Furthermore, it is evident that he is right.",
+      "reading": "",
+      "translation": "Adicion formal en discurso argumentativo: 'Furthermore,' (= 'ademas,').",
+      "pos": "chunk",
+      "example": "Furthermore, it is evident that these campaigns raise awareness about the threat.",
+      "example_translation": "Además, es evidente que estas campañas crean conciencia sobre la amenaza.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_furthermore_addition"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "regulation",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "regulación",
+      "lexeme_id": "regulation",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "participle clauses: having finished, built in 1900",
+        "ex_003",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "pose a threat",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "representar una amenaza",
+      "lexeme_id": "pose_a_threat_phrase",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "ex_003",
+        "ex_006",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_014",
+        "ex_015",
+        "fc_004",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "population",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "población",
+      "lexeme_id": "population",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "participle clauses: having finished, built in 1900",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "contribute to",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "contribuir a",
+      "lexeme_id": "contribute_to_phrase",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_005",
+        "ex_008",
+        "ex_010",
+        "ex_013",
+        "ex_015",
+        "fc_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "raise awareness",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "aumentar la concienciación",
+      "lexeme_id": "raise_awareness_phrase",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_006",
+        "ex_003",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "fc_006",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "furthermore",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "además",
+      "lexeme_id": "furthermore_adv",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "fc_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "evident",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "evidente",
+      "lexeme_id": "evident_adj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "participle clauses: having finished, built in 1900",
+        "ex_001",
+        "ex_004",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_015",
+        "fc_001",
+        "fc_002",
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "having finished",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "exm_006",
+        "participle clauses: having finished, built in 1900",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "fc_007",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "built in 1900",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "participle clauses: having finished, built in 1900",
+        "ex_008",
+        "ex_009",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "Furthermore, it is evident that he is right.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Adicion formal en discurso argumentativo: 'Furthermore,' (= 'ademas,').",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_furthermore_addition",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_005",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "campaign",
+      "role": "support",
+      "status": "emergent",
+      "translation": "campaña",
+      "lexeme_id": "campaign",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_006",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "environment",
+      "role": "support",
+      "status": "emergent",
+      "translation": "entorno",
+      "lexeme_id": "environment",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_005",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "pollution",
+      "role": "support",
+      "status": "emergent",
+      "translation": "contaminacion",
+      "lexeme_id": "pollution",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "public",
+      "role": "support",
+      "status": "emergent",
+      "translation": "público",
+      "lexeme_id": "public_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "ex_009",
+        "ex_012",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "health",
+      "role": "support",
+      "status": "emergent",
+      "translation": "salud",
+      "lexeme_id": "health",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "factory",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fábrica",
+      "lexeme_id": "factory",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "ex_009",
+        "ex_012",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "safer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caja fuerte",
+      "lexeme_id": "safer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "ex_015",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "recycling",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reciclaje",
+      "lexeme_id": "recycling",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_010",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "recycle",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reusar / reciclar / reutilizar",
+      "lexeme_id": "recycle_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_010",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "scientist",
+      "role": "support",
+      "status": "emergent",
+      "translation": "científico / científica",
+      "lexeme_id": "scientist",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "research",
+      "role": "support",
+      "status": "emergent",
+      "translation": "investigación",
+      "lexeme_id": "research",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "right",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_002"
+      ]
+    },
+    {
+      "term": "importance",
+      "role": "support",
+      "status": "emergent",
+      "translation": "importancia",
+      "lexeme_id": "importance",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "reduce",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reducir",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "evidence",
+      "role": "support",
+      "status": "emergent",
+      "translation": "evidencia",
+      "lexeme_id": "evidence",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "support",
+      "role": "support",
+      "status": "emergent",
+      "translation": "apoyar / apoyo",
+      "lexeme_id": "support",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "serious",
+      "role": "support",
+      "status": "emergent",
+      "translation": "serio",
+      "lexeme_id": "serious_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "ex_013",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "worried",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preocupado",
+      "lexeme_id": "worried_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "clear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "claro",
+      "lexeme_id": "clear_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "believe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "creer",
+      "lexeme_id": "believe_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "air",
+      "role": "support",
+      "status": "emergent",
+      "translation": "aire",
+      "lexeme_id": "air",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "opinion",
+      "role": "support",
+      "status": "emergent",
+      "translation": "opinión",
+      "lexeme_id": "opinion",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "business",
+      "role": "support",
+      "status": "emergent",
+      "translation": "negocio / empresa",
+      "lexeme_id": "business",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "solution",
+      "role": "support",
+      "status": "emergent",
+      "translation": "solución",
+      "lexeme_id": "solution",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 9,
+    "lexical_target_count": 7,
+    "covered_lexical_target_count": 7,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 0,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "campaign",
+      "environment",
+      "pollution",
+      "now",
+      "public",
+      "old",
+      "health",
+      "factory",
+      "safer",
+      "recycling",
+      "recycle",
+      "scientist",
+      "research",
+      "right",
+      "importance",
+      "reduce",
+      "city",
+      "evidence",
+      "support",
+      "need",
+      "serious",
+      "study",
+      "worried",
+      "clear",
+      "believe",
+      "year",
+      "air",
+      "word",
+      "opinion",
+      "business",
+      "solution",
+      "say"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Writing a persuasive essay with supporting details",
+      "title_target": "Quiz: Writing a persuasive essay with supporting details",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Cuál es la idea principal del párrafo?",
+          "prompt_target": "Read the text and answer: What is the main idea of the paragraph?",
+          "options": [
+            "The city council wants to build more roads.",
+            "The city is debating a new regulation to reduce traffic and pollution.",
+            "Business owners want to close the city center.",
+            "The journalist wrote an article about a new restaurant."
+          ],
+          "correct_answer": "The city is debating a new regulation to reduce traffic and pollution.",
+          "explanation_form": "El texto describe el debate sobre una nueva regulación para reducir el tráfico y la contaminación. Las otras opciones no reflejan la idea principal.",
+          "explanation_target": "The text describes the debate about a new regulation to reduce traffic and pollution. The other options do not reflect the main idea.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "regulation",
+            "evident_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "The city council is considering a new regulation to reduce traffic in the center. Many citizens support the idea because pollution is a serious problem. However, some business owners are worried. They believe the new rule will hurt their sales. A local journalist wrote an article about the debate. She interviewed residents and shop owners. Most people agree that the air quality is poor, but they disagree about the solution. The council will hold a public meeting next week. Everyone is invited to share their opinion. The final decision will depend on the evidence presented at that meeting.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "reading_comprehension",
+          "prompt_form": "Según el texto, ¿por qué algunos dueños de negocios están preocupados?",
+          "prompt_target": "According to the text, why are some business owners worried?",
+          "options": [
+            "They think the new rule will increase their sales.",
+            "They believe the new rule will hurt their sales.",
+            "They want more traffic in the center.",
+            "They are worried about the journalist's article."
+          ],
+          "correct_answer": "They believe the new rule will hurt their sales.",
+          "explanation_form": "El texto dice explícitamente: 'They believe the new rule will hurt their sales.'",
+          "explanation_target": "The text explicitly says: 'They believe the new rule will hurt their sales.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "regulation"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": "The city council is considering a new regulation to reduce traffic in the center. Many citizens support the idea because pollution is a serious problem. However, some business owners are worried. They believe the new rule will hurt their sales. A local journalist wrote an article about the debate. She interviewed residents and shop owners. Most people agree that the air quality is poor, but they disagree about the solution. The council will hold a public meeting next week. Everyone is invited to share their opinion. The final decision will depend on the evidence presented at that meeting.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué hizo la estudiante después de terminar su ensayo?",
+          "prompt_target": "Listen and answer: What did the student do after finishing her essay?",
+          "options": [
+            "She deleted the essay.",
+            "She asked her professor for feedback.",
+            "She started a new essay about pollution.",
+            "She went to sleep without revising."
+          ],
+          "correct_answer": "She asked her professor for feedback.",
+          "explanation_form": "El transcript dice: 'Having finished the first draft, I asked my professor for feedback.'",
+          "explanation_target": "The transcript says: 'Having finished the first draft, I asked my professor for feedback.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "participle_clauses_having_finished"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I finished my essay about climate change last night. Having finished the first draft, I asked my professor for feedback. She suggested adding more evidence to support my argument. I revised the essay and included a clear conclusion. Now I feel more confident about my work.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Cuál es la opinión del hablante sobre la nueva regulación?",
+          "prompt_target": "Listen and answer: What is the speaker's opinion about the new regulation?",
+          "options": [
+            "He thinks the regulation is unnecessary.",
+            "He supports the regulation because it will reduce pollution.",
+            "He believes the regulation will increase traffic.",
+            "He is indifferent to the regulation."
+          ],
+          "correct_answer": "He supports the regulation because it will reduce pollution.",
+          "explanation_form": "El hablante dice: 'It will reduce pollution and make the city safer. Furthermore, it will encourage people to use public transport.'",
+          "explanation_target": "The speaker says: 'It will reduce pollution and make the city safer. Furthermore, it will encourage people to use public transport.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_b2_furthermore_addition",
+            "evident_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The new regulation seems reasonable to me. It will reduce pollution and make the city safer. Furthermore, it will encourage people to use public transport. I believe the benefits are evident. We should support this change.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "Having",
+            "finished",
+            "the",
+            "report",
+            "she",
+            "sent",
+            "it"
+          ],
+          "correct_answer": "Having finished the report, she sent it.",
+          "explanation_form": "La estructura de participio 'Having finished' introduce la acción completada antes de la acción principal. La cláusula inicial se separa con una coma.",
+          "explanation_target": "The participle structure 'Having finished' introduces the completed action before the main action. The opening clause is followed by a comma.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "participle_clauses_having_finished"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración con la palabra correcta: 'The benefits of the new policy are ____ to everyone.'",
+          "prompt_target": "Complete the sentence with the correct word: 'The benefits of the new policy are ____ to everyone.'",
+          "options": null,
+          "correct_answer": "evident",
+          "explanation_form": "'Evident' significa 'evidente' u 'obvio'. La oración dice que los beneficios son evidentes para todos.",
+          "explanation_target": "'Evident' means 'evidente' or 'obvio'. The sentence says the benefits are evident to everyone.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "evident_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'furthermore'?",
+          "prompt_target": "What is the meaning of 'furthermore'?",
+          "options": [
+            "Sin embargo",
+            "Además",
+            "Por lo tanto",
+            "Finalmente"
+          ],
+          "correct_answer": "Además",
+          "explanation_form": "'Furthermore' se usa para añadir información adicional a un argumento, similar a 'además'.",
+          "explanation_target": "'Furthermore' is used to add additional information to an argument, similar to 'además'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_b2_furthermore_addition"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Habiendo terminado el proyecto, ella lo presentó al equipo.'",
+          "prompt_target": "Translate to English: 'Habiendo terminado el proyecto, ella lo presentó al equipo.'",
+          "options": null,
+          "correct_answer": "Having finished the project, she presented it to the team.",
+          "explanation_form": "Usamos la cláusula de participio 'Having finished' para indicar que la acción de terminar ocurrió antes de presentar.",
+          "explanation_target": "We use the participle clause 'Having finished' to indicate that the action of finishing occurred before presenting.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "participle_clauses_having_finished"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra completa mejor la oración? 'The new law will ____ a threat to small businesses.'",
+          "prompt_target": "Which word best completes the sentence? 'The new law will ____ a threat to small businesses.'",
+          "options": [
+            "pose",
+            "raise",
+            "contribute",
+            "regulate"
+          ],
+          "correct_answer": "pose",
+          "explanation_form": "La expresión 'pose a threat' significa 'representar una amenaza'. Es la colocación correcta en este contexto.",
+          "explanation_target": "The expression 'pose a threat' means 'representar una amenaza'. It is the correct collocation in this context.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "pose_a_threat_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada expresión con su significado:",
+          "prompt_target": "Match each expression with its meaning:",
+          "options": [
+            "raise awareness",
+            "contribuir a",
+            "pose a threat",
+            "representar una amenaza",
+            "contribute to",
+            "concienciar"
+          ],
+          "correct_answer": [
+            "raise awareness=concienciar",
+            "pose a threat=representar una amenaza",
+            "contribute to=contribuir a"
+          ],
+          "explanation_form": "Estas son colocaciones comunes en ensayos persuasivos. 'Raise awareness' significa 'concienciar', 'pose a threat' significa 'representar una amenaza' y 'contribute to' significa 'contribuir a'.",
+          "explanation_target": "These are common collocations in persuasive essays. 'Raise awareness' means 'concienciar', 'pose a threat' means 'representar una amenaza' and 'contribute to' means 'contribuir a'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "raise_awareness_phrase",
+            "pose_a_threat_phrase",
+            "contribute_to_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Claves para tu ensayo persuasivo\n\n**1. Las cláusulas de participio: tu aliado para la concisión.**\n\nEn español solemos usar \"después de terminar\" o \"que fue construido en\". En inglés, el participio hace el trabajo: *Having finished the report, I sent it* o *The bridge, built in 1900, is still strong*. Es una forma de añadir información de fondo sin alargar la frase. Úsala para dar detalles de apoyo sin repetir el sujeto.\n\n**2. Conecta tus ideas con *furthermore*.**\n\n*Furthermore* es un conector formal que significa \"además\". Es perfecto para añadir un argumento más a tu ensayo. Recuerda que va seguido de coma: *Furthermore, the evidence is evident*. No lo uses en conversaciones informales; ahí es mejor *also*.\n\n**3. Ojo con el orden de las palabras.**\n\nCon las cláusulas de participio, el sujeto de la frase principal debe ser el mismo que el de la acción del participio. *Having finished the project, the deadline was met* es incorrecto (¿quién terminó el proyecto?). Lo correcto: *Having finished the project, we met the deadline*.\n\n**4. Evidencia clara con *evident*.**\n\nUsa *evident* para señalar que algo es claro u obvio: *The benefits are evident*. Es una palabra formal, ideal para tu ensayo. Combínala con *furthermore* para dar fluidez: *Furthermore, the positive effects are evident in the data*.",
+  "metadata": {
+    "generated_at": "2026-08-31T01:34:37Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

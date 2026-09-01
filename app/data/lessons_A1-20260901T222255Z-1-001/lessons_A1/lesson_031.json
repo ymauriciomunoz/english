@@ -1,0 +1,1571 @@
+{
+  "id": "lesson_031",
+  "position": 31,
+  "unit_id": 5,
+  "course_id": "en.A1",
+  "title_form": "En la ciudad: there is/are",
+  "title_target": "Describing a Town with There Is/Are",
+  "theme_focus": "Describir qué hay en una ciudad usando there is/are.",
+  "learning_objectives": [
+    "Can describe what there is in a town using 'there is/there are'.",
+    "Can ask if there is a place near here."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_028"
+  ],
+  "grammar_focus": [
+    "there is/there are: affirmative descriptions and questions (Is there ...?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "cafe_3",
+        "city_2",
+        "country_2",
+        "island",
+        "village",
+        "farm",
+        "garden",
+        "museum",
+        "cinema",
+        "centre",
+        "clean_adj",
+        "big_adj"
+      ],
+      "chunk_ids": [
+        "chunk_is_there"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "park",
+        "bank",
+        "hospital",
+        "school",
+        "supermarket",
+        "restaurant",
+        "hotel",
+        "station",
+        "there_is_verb",
+        "there_are_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana y Tom son amigos. Tom visita la ciudad de Ana por primera vez. Ana le muestra su ciudad: le habla del museo, del cine y del parque. Tom pregunta si hay un restaurante cerca y Ana le responde. Después hablan del pueblo de Tom, que es pequeño y tiene una granja.",
+  "introduction_md": "## En la ciudad: there is / there are\n\nEn esta lección vas a aprender a describir tu ciudad y tu país en inglés. Vas a usar **there is** (hay, para una cosa) y **there are** (hay, para varias cosas).\n\n- **There is a museum.** (Hay un museo.)\n- **There are two parks.** (Hay dos parques.)\n\nTambién vas a aprender a preguntar si un lugar existe cerca:\n\n- **Is there a cinema?** (¿Hay un cine?)\n\nCon estas frases podrás hablar de tu ciudad, tu pueblo o tu isla. ¡Vamos a practicar!",
+  "intro_target": "## In the City: There Is / There Are\n\nIn this lesson, you will learn to describe your city and your country in English. You will use **there is** (for one thing) and **there are** (for several things).\n\n- **There is a museum.**\n- **There are two parks.**\n\nYou will also learn to ask if a place exists near here:\n\n- **Is there a cinema?**\n\nWith these phrases, you can talk about your city, your village, or your island. Let's practice!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_is_there",
+      "grammar_slug": null,
+      "text_target": "Is there a cafe near here?",
+      "translation_form": "¿Hay un café cerca de aquí?",
+      "highlight_words": [
+        "cafe"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "city_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The city has a big museum and a cinema.",
+      "translation_form": "La ciudad tiene un museo grande y un cine.",
+      "highlight_words": [
+        "city",
+        "big",
+        "museum",
+        "cinema"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "village",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My village is big, but it has a clean park.",
+      "translation_form": "Mi pueblo es grande, pero tiene un parque limpio.",
+      "highlight_words": [
+        "village",
+        "clean",
+        "park"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "island",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There is a farm and a garden on the island.",
+      "translation_form": "Hay una granja y un jardín en la isla.",
+      "highlight_words": [
+        "island",
+        "farm",
+        "garden"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "country_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The country has a big city and a clean village.",
+      "translation_form": "El país tiene una ciudad grande y un pueblo limpio.",
+      "highlight_words": [
+        "country",
+        "big",
+        "city",
+        "village"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "centre",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Is there a bank in the centre?",
+      "translation_form": "¿Hay un banco en el centro?",
+      "highlight_words": [
+        "centre",
+        "bank"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "there is/there are: affirmative descriptions and questions (Is there ...?)",
+      "title_form": "There is / There are: describir lugares y preguntar",
+      "title_target": "There is / There are: Describing Places and Asking Questions",
+      "description_md_form": "Usamos **there is** para **una** cosa y **there are** para **varias**. Es la forma de decir que algo **existe** en un lugar.\n\n- **There is** + una cosa: `There is a museum.`\n- **There are** + varias cosas: `There are two parks.`\n\nPara preguntar si algo existe, usamos **Is there...?** con una cosa y **Are there...?** con varias:\n\n- `Is there a cafe near here?` (¿Hay un café cerca de aquí?)\n- `Are there any cinemas?` (¿Hay cines?)\n\nEn las respuestas cortas: `Yes, there is.` / `No, there isn't.`",
+      "description_md_target": "We use **there is** for **one** thing and **there are** for **several**. It is how we say that something **exists** in a place.\n\n- **There is** + one thing: `There is a museum.`\n- **There are** + several things: `There are two parks.`\n\nTo ask if something exists, we use **Is there...?** with one thing and **Are there...?** with several:\n\n- `Is there a cafe near here?`\n- `Are there any cinemas?`\n\nFor short answers: `Yes, there is.` / `No, there isn't.`",
+      "grammar_structure": "There is + singular noun / There are + plural noun / Is there + singular noun + ...?",
+      "conjugation_table": {
+        "name": "there_is_are",
+        "headers": [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "There is",
+            "Una cosa",
+            "There is a garden."
+          ],
+          [
+            "There are",
+            "Varias cosas",
+            "There are two cinemas."
+          ],
+          [
+            "Is there...?",
+            "Pregunta con una cosa",
+            "Is there a bank?"
+          ],
+          [
+            "Are there...?",
+            "Pregunta con varias cosas",
+            "Are there any hotels?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_is_there",
+          "grammar_slug": null,
+          "text_target": "Is there a cafe near here?",
+          "translation_form": "¿Hay un café cerca de aquí?",
+          "highlight_words": [
+            "is",
+            "there",
+            "cafe",
+            "near",
+            "here"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "there is/there are: affirmative descriptions and questions (Is there ...?)",
+          "text_target": "There is a big museum and a cinema in the city.",
+          "translation_form": "Hay un museo grande y un cine en la ciudad.",
+          "highlight_words": [
+            "there",
+            "is",
+            "big",
+            "museum",
+            "cinema",
+            "city"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**There is** se usa con una cosa. **There are** se usa con varias. No digas `There is two parks` — es un error común."
+        },
+        {
+          "type": "common_error",
+          "text_md": "En español decimos 'hay' para todo. En inglés, **there is** (singular) y **there are** (plural) son diferentes. Presta atención al número."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'there is' con plural: ✗ There is two parks. → ✓ There are two parks.",
+        "Olvidar 'there' en la pregunta: ✗ Is a cafe near here? → ✓ Is there a cafe near here?",
+        "Confundir 'there' con 'their' (su de ellos). 'There' indica lugar o existencia."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'museum'?",
+      "options": [
+        "museo",
+        "cine",
+        "parque",
+        "banco"
+      ],
+      "correct_answer": "museo",
+      "explanation_md": "'Museum' es un lugar donde se ven cosas antiguas o de arte.",
+      "related_lexeme_ids": [
+        "museum"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'village'?",
+      "options": [
+        "ciudad",
+        "pueblo",
+        "país",
+        "isla"
+      ],
+      "correct_answer": "pueblo",
+      "explanation_md": "'Village' es un lugar pequeño, más pequeño que una ciudad.",
+      "related_lexeme_ids": [
+        "village"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la pregunta: '___ there a cinema near here?'",
+      "options": [
+        "Is",
+        "Are",
+        "Am",
+        "Do"
+      ],
+      "correct_answer": "Is",
+      "explanation_md": "Usamos 'Is there' para preguntar por una sola cosa.",
+      "related_lexeme_ids": [
+        "cinema"
+      ],
+      "related_chunk_ids": [
+        "chunk_is_there"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la respuesta correcta? 'The city has a ___ museum.'",
+      "options": [
+        "big",
+        "clean",
+        "old",
+        "fine"
+      ],
+      "correct_answer": "big",
+      "explanation_md": "'Big' significa grande. El museo de la ciudad es grande.",
+      "related_lexeme_ids": [
+        "big_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con 'is' o 'are': 'There ___ two parks in my city.'",
+      "options": null,
+      "correct_answer": "are",
+      "explanation_md": "Usamos 'there are' para hablar de dos o más cosas.",
+      "related_lexeme_ids": [
+        "city_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con 'is' o 'are': 'There ___ a garden on the island.'",
+      "options": null,
+      "correct_answer": "is",
+      "explanation_md": "Usamos 'there is' para hablar de una sola cosa.",
+      "related_lexeme_ids": [
+        "garden",
+        "island"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: '¿Hay un café cerca de aquí?'",
+      "options": null,
+      "correct_answer": "Is there a cafe near here?",
+      "explanation_md": "Para preguntar si algo existe, usamos 'Is there...?'",
+      "related_lexeme_ids": [
+        "cafe_3"
+      ],
+      "related_chunk_ids": [
+        "chunk_is_there"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'El país tiene una ciudad grande.'",
+      "options": null,
+      "correct_answer": "The country has a big city.",
+      "explanation_md": "Usamos 'has' para decir que algo tiene otra cosa.",
+      "related_lexeme_ids": [
+        "country_2",
+        "big_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "farm",
+        "granja",
+        "cinema",
+        "cine",
+        "clean",
+        "limpio",
+        "centre",
+        "centro"
+      ],
+      "correct_answer": [
+        "farm=granja",
+        "cinema=cine",
+        "clean=limpio",
+        "centre=centro"
+      ],
+      "explanation_md": "Estas palabras describen lugares y cualidades de la ciudad.",
+      "related_lexeme_ids": [
+        "farm",
+        "cinema",
+        "clean_adj",
+        "centre"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué hay en la isla?",
+      "options": null,
+      "correct_answer": "There is a farm, a garden, a small village, a clean park, a big museum and a cinema.",
+      "explanation_md": "El texto describe todos los lugares que hay en la isla.",
+      "related_lexeme_ids": [
+        "island",
+        "farm",
+        "garden",
+        "village",
+        "clean_adj",
+        "big_adj",
+        "museum",
+        "cinema"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "My name is Tom. I live on a small island. There is a farm and a garden on the island. There is a small village too. The village has a clean park and a big museum. There is a cinema near the museum. I like my island.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Hay un café cerca del museo?",
+      "options": [
+        "Sí, hay un café cerca del museo.",
+        "No, no hay café.",
+        "El café está en el parque."
+      ],
+      "correct_answer": "Sí, hay un café cerca del museo.",
+      "explanation_md": "El audio dice 'There is a cafe near the museum'.",
+      "related_lexeme_ids": [
+        "museum",
+        "cafe_3",
+        "clean_adj",
+        "big_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "There is a big museum in the city. There is a cafe near the museum. There is a park next to the cafe. The park is clean and big.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu ciudad o tu pueblo. Usá 'there is' o 'there are'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'there is' y 'there are' para describir lugares.",
+      "related_lexeme_ids": [
+        "city_2",
+        "village",
+        "park",
+        "cinema",
+        "cafe_3",
+        "clean_adj",
+        "big_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "There is a big park in my city.",
+        "There are two cinemas near my house.",
+        "There is a clean cafe in my village."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "cafe",
+      "back": "café",
+      "hint": "un lugar para tomar cafe",
+      "lexeme_id": "cafe_3",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "place"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "city",
+      "back": "ciudad",
+      "hint": "una ciudad grande",
+      "lexeme_id": "city_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "place"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "country",
+      "back": "pais",
+      "hint": "un pais como Espana",
+      "lexeme_id": "country_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "place"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "island",
+      "back": "isla",
+      "hint": "tierra rodeada de agua",
+      "lexeme_id": "island",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "village",
+      "back": "pueblo",
+      "hint": "un lugar pequeno",
+      "lexeme_id": "village",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "farm",
+      "back": "finca",
+      "hint": "un lugar con animales",
+      "lexeme_id": "farm",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "garden",
+      "back": "jardin",
+      "hint": "un lugar con plantas",
+      "lexeme_id": "garden",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "museum",
+      "back": "museo",
+      "hint": "un lugar para ver arte",
+      "lexeme_id": "museum",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "cinema",
+      "back": "cine",
+      "hint": "un lugar para ver peliculas",
+      "lexeme_id": "cinema",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "centre",
+      "back": "centro",
+      "hint": "el centro de la ciudad",
+      "lexeme_id": "centre",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "clean",
+      "back": "limpio",
+      "hint": "no sucio",
+      "lexeme_id": "clean_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "big",
+      "back": "grande",
+      "hint": "no pequeno",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "Is there a ... near here?",
+      "back": "¿Hay un/una ... cerca de aqui?",
+      "hint": "para preguntar por un lugar",
+      "lexeme_id": null,
+      "chunk_id": "chunk_is_there",
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A1",
+        "questions"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "cafe",
+      "reading": "",
+      "translation": "café",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "cafe_3",
+      "chunk_id": null
+    },
+    {
+      "target_word": "city",
+      "reading": "",
+      "translation": "urbe / ciudad / capital",
+      "pos": "noun",
+      "example": "The city has a big museum and a cinema.",
+      "example_translation": "La ciudad tiene un museo grande y un cine.",
+      "lexeme_id": "city_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "country",
+      "reading": "",
+      "translation": "país",
+      "pos": "noun",
+      "example": "The country has a big city and a small village.",
+      "example_translation": "El país tiene una ciudad grande y un pueblo pequeño.",
+      "lexeme_id": "country_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "island",
+      "reading": "",
+      "translation": "isla",
+      "pos": "noun",
+      "example": "There is a farm and a garden on the island.",
+      "example_translation": "Hay una granja y un jardín en la isla.",
+      "lexeme_id": "island",
+      "chunk_id": null
+    },
+    {
+      "target_word": "village",
+      "reading": "",
+      "translation": "pueblo",
+      "pos": "noun",
+      "example": "My village is small, but it has a clean park.",
+      "example_translation": "Mi pueblo es pequeño, pero tiene un parque limpio.",
+      "lexeme_id": "village",
+      "chunk_id": null
+    },
+    {
+      "target_word": "farm",
+      "reading": "",
+      "translation": "finca / fundo / masía",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "farm",
+      "chunk_id": null
+    },
+    {
+      "target_word": "garden",
+      "reading": "",
+      "translation": "jardín",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "garden",
+      "chunk_id": null
+    },
+    {
+      "target_word": "museum",
+      "reading": "",
+      "translation": "museo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "museum",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cinema",
+      "reading": "",
+      "translation": "cine / film / cinema",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "cinema",
+      "chunk_id": null
+    },
+    {
+      "target_word": "centre",
+      "reading": "",
+      "translation": "centro",
+      "pos": "noun",
+      "example": "Is there a bank in the centre?",
+      "example_translation": "¿Hay un banco en el centro?",
+      "lexeme_id": "centre",
+      "chunk_id": null
+    },
+    {
+      "target_word": "clean",
+      "reading": "",
+      "translation": "limpio",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "clean_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "big",
+      "reading": "",
+      "translation": "grande",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "big_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Is there a ... near here?",
+      "reading": "",
+      "translation": "¿Hay un/una ... cerca de aquí?",
+      "pos": "chunk",
+      "example": "Is there a cafe near here?",
+      "example_translation": "¿Hay un café cerca de aquí?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_is_there"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "cafe",
+      "role": "support",
+      "status": "practiced",
+      "translation": "café",
+      "lexeme_id": "cafe_3",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "practiced",
+      "translation": "urbe / ciudad / capital",
+      "lexeme_id": "city_2",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_005",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "country",
+      "role": "support",
+      "status": "practiced",
+      "translation": "país",
+      "lexeme_id": "country_2",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "island",
+      "role": "support",
+      "status": "practiced",
+      "translation": "isla",
+      "lexeme_id": "island",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_006",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "village",
+      "role": "support",
+      "status": "practiced",
+      "translation": "pueblo",
+      "lexeme_id": "village",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_002",
+        "ex_010",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "farm",
+      "role": "support",
+      "status": "practiced",
+      "translation": "finca / fundo / masía",
+      "lexeme_id": "farm",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "garden",
+      "role": "support",
+      "status": "practiced",
+      "translation": "jardín",
+      "lexeme_id": "garden",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_010",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "museum",
+      "role": "support",
+      "status": "practiced",
+      "translation": "museo",
+      "lexeme_id": "museum",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_010",
+        "ex_011",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "cinema",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cine / film / cinema",
+      "lexeme_id": "cinema",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "centre",
+      "role": "support",
+      "status": "practiced",
+      "translation": "centro",
+      "lexeme_id": "centre",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "clean",
+      "role": "support",
+      "status": "practiced",
+      "translation": "limpio",
+      "lexeme_id": "clean_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "practiced",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "Is there a ... near here?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Hay un/una ... cerca de aquí?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_is_there",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "ex_007",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_005",
+        "ex_011",
+        "ex_012",
+        "fc_002",
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "clean",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_011",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_005",
+        "ex_010",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "near",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "cafe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "country",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "fc_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "there is",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hay (singular)",
+      "lexeme_id": "there_is_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "park",
+      "role": "support",
+      "status": "emergent",
+      "translation": "parque",
+      "lexeme_id": "park",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "bank",
+      "role": "support",
+      "status": "emergent",
+      "translation": "banco",
+      "lexeme_id": "bank",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "there are",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hay (plural)",
+      "lexeme_id": "there_are_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "exist",
+      "role": "support",
+      "status": "emergent",
+      "translation": "existir",
+      "lexeme_id": "exist_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "thing",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cosa",
+      "lexeme_id": "thing",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 13,
+    "review_support_count": 0,
+    "emergent_count": 14,
+    "emergent_terms": [
+      "city",
+      "clean",
+      "small",
+      "near",
+      "cafe",
+      "country",
+      "there is",
+      "park",
+      "bank",
+      "there are",
+      "exist",
+      "ask",
+      "talk",
+      "thing"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: En la ciudad: there is/are",
+      "title_target": "Quiz: Describing a Town with There Is/Are",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta para hablar de UNA cosa que existe?",
+          "prompt_target": "Which form is for ONE thing?",
+          "options": [
+            "There is",
+            "There are",
+            "Is there",
+            "Are there"
+          ],
+          "correct_answer": "There is",
+          "explanation_form": "Usamos 'there is' para una sola cosa (singular).",
+          "explanation_target": "We use 'there is' for one thing (singular).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "there_is_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ a bank in this city?'",
+          "prompt_target": "Complete the question: '____ a bank in this city?'",
+          "options": null,
+          "correct_answer": "Is there",
+          "explanation_form": "Para preguntar si existe algo, usamos 'Is there...?'.",
+          "explanation_target": "To ask if something exists, we use 'Is there...?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_is_there",
+            "bank"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración: 'Hay dos museos en el centro.'",
+          "prompt_target": "Order the words to form a sentence: 'There are two museums in the centre.'",
+          "options": [
+            "There",
+            "are",
+            "two",
+            "museums",
+            "in",
+            "the",
+            "centre"
+          ],
+          "correct_answer": "There are two museums in the centre",
+          "explanation_form": "La estructura es: There are + cantidad + sustantivo plural + lugar.",
+          "explanation_target": "The structure is: There are + quantity + plural noun + place.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "there_are_verb",
+            "museum",
+            "centre"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué hay en el pueblo?",
+          "prompt_target": "Listen and answer: What is there in the village?",
+          "options": [
+            "A farm and a garden",
+            "A cinema and a museum",
+            "A bank and a hospital",
+            "A park and a school"
+          ],
+          "correct_answer": "A farm and a garden",
+          "explanation_form": "El audio dice que hay una granja y un jardín en el pueblo.",
+          "explanation_target": "The audio says there is a farm and a garden in the village.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "village",
+            "farm",
+            "garden"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "This is my village. It is small. There is a farm and a garden. There is no cinema. I like my village.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué hay en la ciudad?",
+          "prompt_target": "Read the text and answer: What is there in the city?",
+          "options": [
+            "A big museum and a clean park",
+            "A small farm and a garden",
+          "An island and a village",
+            "A cinema and a restaurant"
+          ],
+          "correct_answer": "A big museum and a clean park",
+          "explanation_form": "El texto dice que hay un museo grande y un parque limpio en la ciudad.",
+          "explanation_target": "The text says there is a big museum and a clean park in the city.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "city_2",
+            "big_adj",
+            "clean_adj",
+            "museum",
+            "park"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "This is my city. It is big and clean. There is a big museum and a clean park. There are many shops and a cinema. I love my city.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta para hablar de VARIAS cosas que existen?",
+          "prompt_target": "Which form is for MANY?",
+          "options": [
+            "There are",
+            "There is",
+            "Is there",
+            "Are there"
+          ],
+          "correct_answer": "There are",
+          "explanation_form": "Usamos 'there are' para varias cosas (plural).",
+          "explanation_target": "We use 'there are' for several things (plural).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "there_are_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: '____ a cafe in the village?'",
+          "prompt_target": "Complete: '____ a cafe in the village?'",
+          "options": null,
+          "correct_answer": "Is there",
+          "explanation_form": "Para preguntar si existe algo singular, usamos 'Is there...?'.",
+          "explanation_target": "To ask if something singular exists, we use 'Is there...?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_is_there",
+            "cafe_3",
+            "village"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué hay en la isla?",
+          "prompt_target": "Listen and answer: What is there on the island?",
+          "options": [
+          "A big village",
+            "A big city",
+            "A clean park",
+            "A museum"
+          ],
+          "correct_answer": "A big village",
+          "explanation_form": "El audio dice que hay un pueblo grande en la isla.",
+          "explanation_target": "The audio says there is a big village on the island.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "island",
+            "village"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "This is an island. It is big. There is a big village on the island. There is no big city. It is quiet.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": null,
+          "options": [
+            "farm",
+            "granja",
+            "garden",
+            "jardín",
+            "museum",
+            "museo",
+            "cinema",
+            "cine"
+          ],
+          "correct_answer": [
+            "farm=granja",
+            "garden=jardín",
+            "museum=museo",
+            "cinema=cine"
+          ],
+          "explanation_form": "Estas son palabras de lugares que aprendimos en la lección.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "farm",
+            "garden",
+            "museum",
+            "cinema"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice 'país' en inglés?",
+          "prompt_target": "How do you say 'país' in English?",
+          "options": [
+            "Country",
+            "City",
+            "Village",
+            "Island"
+          ],
+          "correct_answer": "Country",
+          "explanation_form": "'Country' significa 'país'.",
+          "explanation_target": "'Country' means 'país'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "country_2"
+          ],
+          "points": 5,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## There is / There are: la clave de la ciudad\n\nUsa **there is** para UNA cosa (singular) y **there are** para VARIAS (plural). Piensa en español: \"hay\" sirve para ambos, pero en inglés debes elegir. Ejemplo: *There is a museum* (hay un museo) vs. *There are two cinemas* (hay dos cines).\n\n## Pregunta con Is there...?\n\nPara preguntar si algo existe cerca, usa **Is there...?** al inicio: *Is there a bank near here?* (¿Hay un banco cerca de aquí?). La respuesta corta es *Yes, there is* o *No, there isn't*. Recuerda: en preguntas, el verbo va PRIMERO, igual que en español con \"¿Hay...?\".",
+  "metadata": {
+    "generated_at": "2026-08-31T21:38:22Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

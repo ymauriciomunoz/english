@@ -1,0 +1,1643 @@
+{
+  "id": "lesson_050",
+  "position": 50,
+  "unit_id": 9,
+  "course_id": "en.A1",
+  "title_form": "Conectores y adverbios básicos",
+  "title_target": "Using Basic Connectors and Adverbs",
+  "theme_focus": "Conectores básicos para unir ideas y adverbios frecuentes para añadir, intensificar o matizar mensajes: and, but, or, because, so, also, too, very, really, just, maybe. El generador debe practicar estas palabras con el vocabulario complementario de gustos, opiniones y emociones para producir ejemplos y ejercicios comunicativos variados.",
+  "learning_objectives": [
+    "Can use basic connectors and common adverbs to join, add, intensify, or modify simple ideas.",
+    "Can express reason using 'because'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_012",
+    "lesson_034"
+  ],
+  "grammar_focus": [
+    "conjunctions: and/but/or/because/so",
+    "common adverbs: also/too/very/really/just/maybe"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "and_conj",
+        "but_conj",
+        "or_conj",
+        "because_conj",
+        "so_conj",
+        "if_conj",
+        "while_conj",
+        "also_adv",
+        "too_adv",
+        "very_adv",
+        "really_adv",
+        "just_adv",
+        "maybe_adv"
+      ],
+      "chunk_ids": [
+        "chunk_i_think",
+        "chunk_i_like_it_because"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "like_verb",
+        "love_verb",
+        "hate_verb",
+        "good_adj",
+        "bad_adj",
+        "happy_adj",
+        "sad_adj",
+        "when_wh"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana y su amigo Leo están en un café. Hablan de sus gustos y de sus planes para el fin de semana. Ana quiere invitar a Leo al cine, pero Leo está muy cansado. Al final, deciden ir a tomar un helado porque hace calor.",
+  "introduction_md": "En esta lección vas a aprender a **unir ideas** y a **matizar tus mensajes** con palabras muy útiles: *and*, *but*, *or*, *because*, *so*, *also*, *too*, *very*, *really*, *just* y *maybe*.\n\nCon estas palabras podrás:\n- Explicar **por qué** te gusta algo (*because*).\n- Contrastar ideas (*but*).\n- Añadir información (*also*, *too*).\n- Intensificar tus opiniones (*very*, *really*).\n- Expresar duda (*maybe*).\n\nSon palabras pequeñas, pero **muy poderosas**: te ayudarán a hablar de tus gustos, opiniones y emociones de forma más natural y fluida. ¡Vamos a practicarlas juntos!",
+  "intro_target": "In this lesson, you will learn to **join ideas** and **modify your messages** with very useful words: *and*, *but*, *or*, *because*, *so*, *also*, *too*, *very*, *really*, *just*, and *maybe*.\n\nWith these words, you can:\n- Explain **why** you like something (*because*).\n- Contrast ideas (*but*).\n- Add information (*also*, *too*).\n- Intensify your opinions (*very*, *really*).\n- Express doubt (*maybe*).\n\nThey are small words, but **very powerful**: they help you talk about your likes, opinions, and emotions in a more natural and fluent way. Let's practice them together!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "and_conj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like coffee and tea.",
+      "translation_form": "Me gustan el café y el té.",
+      "highlight_words": [
+        "and"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "but_conj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like coffee, but I don't like tea.",
+      "translation_form": "Me gusta el café, pero no me gusta el té.",
+      "highlight_words": [
+        "but"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "so_conj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I'm tired, so I sleep.",
+      "translation_form": "Estoy cansado, así que duermo.",
+      "highlight_words": [
+        "so"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "very_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I'm very happy, and you?",
+      "translation_form": "Estoy muy feliz, ¿y tú?",
+      "highlight_words": [
+        "very",
+        "and"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "conjunctions: and/but/or/because/so",
+      "title_form": "Conectores básicos: and, but, or, because, so",
+      "title_target": "Basic Connectors: and, but, or, because, so",
+      "description_md_form": "Los conectores unen ideas para que tu inglés suene natural. Aquí tienes los cinco más útiles:\n\n- **and** (y): une ideas similares. *I like coffee **and** tea.*\n- **but** (pero): muestra contraste. *I like coffee, **but** I don't like tea.*\n- **or** (o): ofrece opciones. *Coffee **or** tea?*\n- **because** (porque): da una razón. *I drink coffee **because** I'm tired.*\n- **so** (así que): muestra resultado. *I'm tired, **so** I sleep.*\n\nUsa estos conectores para hablar de tus gustos, emociones y rutinas. Son la base para conversaciones reales.",
+      "description_md_target": "Connectors join ideas to make your English sound natural. Here are the five most useful ones:\n\n- **and**: joins similar ideas. *I like coffee **and** tea.*\n- **but**: shows contrast. *I like coffee, **but** I don't like tea.*\n- **or**: offers options. *Coffee **or** tea?*\n- **because**: gives a reason. *I drink coffee **because** I'm tired.*\n- **so**: shows a result. *I'm tired, **so** I sleep.*\n\nUse these connectors to talk about your likes, emotions, and routines. They are the base for real conversations.",
+      "grammar_structure": "Idea 1 + [and/but/or] + Idea 2 | [because/so] + Idea 2",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "because_conj",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I like it because it is good.",
+          "translation_form": "Me gusta porque es bueno.",
+          "highlight_words": [
+            "because"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "so_conj",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I am sad, so I sleep.",
+          "translation_form": "Estoy triste, así que duermo.",
+          "highlight_words": [
+            "so"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**and** y **but** van entre dos ideas. **because** y **so** conectan una razón con un resultado."
+        },
+        {
+          "type": "common_error",
+          "text_md": "En español decimos *'porque'* al final, pero en inglés **because** va al principio de la razón: *I sleep **because** I am tired.*"
+        }
+      ],
+      "common_errors_es": [
+        "No digas 'I like coffee and I like tea' si quieres decir 'Me gusta el café y el té'. Usa 'I like coffee and tea'.",
+        "No confundas 'so' (así que) con 'very' (muy). 'I am so tired' significa 'Estoy muy cansado', pero 'I am tired, so I sleep' significa 'Estoy cansado, así que duermo'.",
+        "No uses 'because' al final de la oración como en español. En inglés, la razón va después de 'because': 'I am happy because I like it'."
+      ]
+    },
+    {
+      "slug": "common adverbs: also/too/very/really/just/maybe",
+      "title_form": "Adverbios comunes: also, too, very, really, just, maybe",
+      "title_target": "Common Adverbs: also, too, very, really, just, maybe",
+      "description_md_form": "Los adverbios **añaden información** o **matizan** lo que dices. Son palabras cortas que van antes o después del verbo.\n\n- **also** y **too** significan *también*. **also** va antes del verbo: *I also like tea.* **too** va al final: *I like tea too.*\n- **very** y **really** significan *muy* o *de verdad*. Van antes de un adjetivo: *I am very happy.* / *It is really good.*\n- **just** significa *solo* o *justo*: *I just want coffee.*\n- **maybe** significa *quizás*. Va al inicio de la frase: *Maybe I sleep.*\n\nUsa estos adverbios para hacer tu inglés más natural y expresivo.",
+      "description_md_target": "Adverbs **add information** or **modify** what you say. They are short words that go before or after the verb.\n\n- **also** and **too** mean *también*. **also** goes before the verb: *I also like tea.* **too** goes at the end: *I like tea too.*\n- **very** and **really** mean *muy* or *de verdad*. They go before an adjective: *I am very happy.* / *It is really good.*\n- **just** means *solo* or *justo*: *I just want coffee.*\n- **maybe** means *quizás*. It goes at the start of the sentence: *Maybe I sleep.*\n\nUse these adverbs to make your English more natural and expressive.",
+      "grammar_structure": "also/too + verbo | very/really + adjetivo | just + verbo | maybe + frase",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "also_adv",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I also like coffee.",
+          "translation_form": "También me gusta el café.",
+          "highlight_words": [
+            "also"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "very_adv",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I am very happy.",
+          "translation_form": "Estoy muy feliz.",
+          "highlight_words": [
+            "very"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**also** va antes del verbo, pero **too** va al final. No digas *I too like tea* — di *I also like tea* o *I like tea too*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**maybe** va al inicio de la frase, no al final. Di *Maybe I sleep*, no *I sleep maybe*."
+        }
+      ],
+      "common_errors_es": [
+        "Confundir **also** y **too**: **also** va antes del verbo (*I also like tea*), **too** va al final (*I like tea too*).",
+        "Usar **very** con verbos: **very** solo va con adjetivos (*I am very happy*), no con verbos (*I very like it* es incorrecto).",
+        "Poner **maybe** al final de la frase: **maybe** va al inicio (*Maybe I sleep*), no al final (*I sleep maybe* es incorrecto)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'because'?",
+      "options": [
+        "porque",
+        "pero",
+        "y",
+        "o"
+      ],
+      "correct_answer": "porque",
+      "explanation_md": "'Because' introduce una razón o causa.",
+      "related_lexeme_ids": [
+        "because_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada conector con su significado:",
+      "options": [
+        "and",
+        "y",
+        "but",
+        "pero",
+        "or",
+        "o",
+        "so",
+        "así que"
+      ],
+      "correct_answer": [
+        "and=y",
+        "but=pero",
+        "or=o",
+        "so=así que"
+      ],
+      "explanation_md": "Estos conectores unen ideas: and suma, but contrasta, or ofrece opciones, so indica resultado.",
+      "related_lexeme_ids": [
+        "and_conj",
+        "but_conj",
+        "or_conj",
+        "so_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'I like tea, ___ I don't like coffee.'",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "correct_answer": "but",
+      "explanation_md": "'But' se usa para contrastar dos ideas: me gusta el té, pero no el café.",
+      "related_lexeme_ids": [
+        "but_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con 'because' o 'so': 'I'm happy ___ I see my friend.'",
+      "options": null,
+      "correct_answer": "because",
+      "explanation_md": "'Because' da la razón: estoy feliz porque veo a mi amigo.",
+      "related_lexeme_ids": [
+        "because_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Estoy muy cansado, así que duermo.'",
+      "options": null,
+      "correct_answer": "I'm very tired, so I sleep.",
+      "explanation_md": "Usamos 'very' para intensificar y 'so' para el resultado.",
+      "related_lexeme_ids": [
+        "very_adv",
+        "so_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'I like it because it's good.'",
+      "options": null,
+      "correct_answer": "Me gusta porque es bueno.",
+      "explanation_md": "El chunk 'I like it because' expresa gusto con una razón.",
+      "related_lexeme_ids": [
+        "because_conj"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_like_it_because"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál oración es correcta?",
+      "options": [
+        "I like coffee and tea.",
+        "I like coffee but tea.",
+        "I like coffee or tea.",
+        "I like coffee so tea."
+      ],
+      "correct_answer": "I like coffee and tea.",
+      "explanation_md": "'And' une dos elementos positivos: café y té.",
+      "related_lexeme_ids": [
+        "and_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con 'also' o 'too': 'I like tea. I ___ like coffee.'",
+      "options": null,
+      "correct_answer": "also",
+      "explanation_md": "'Also' va antes del verbo: I also like coffee.",
+      "related_lexeme_ids": [
+        "also_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá y respondé: ¿qué le gusta a Ana?",
+      "options": [
+        "Le gusta el té y el café.",
+        "Le gusta la leche.",
+        "No le gusta el té.",
+        "Le gusta el café y la leche."
+      ],
+      "correct_answer": "Le gusta el té y el café.",
+      "explanation_md": "Ana dice que le gusta el té y también el café.",
+      "related_lexeme_ids": [
+        "also_adv",
+        "very_adv"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_think"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Ana likes tea. She also likes coffee. She doesn't like milk. She thinks tea is very good.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿por qué está feliz Tom?",
+      "options": [
+        "Porque tiene una bicicleta nueva.",
+        "Porque está triste.",
+        "Porque no tiene amigos.",
+            "Está lloviendo."
+      ],
+      "correct_answer": "Porque tiene una bicicleta nueva.",
+      "explanation_md": "Tom está feliz porque tiene una bicicleta nueva que le gusta.",
+      "related_lexeme_ids": [
+        "because_conj",
+        "very_adv"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_like_it_because"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Tom is happy. He has a new bike. He likes it because it is fast. He rides it to the park. He is very happy today.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre lo que te gusta y lo que no te gusta. Usá 'and', 'but' o 'because'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de los conectores para unir ideas.",
+      "related_lexeme_ids": [
+        "and_conj",
+        "but_conj",
+        "because_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I like tea and coffee.",
+        "I like pizza, but I don't like soup.",
+        "I'm happy because I see my friend."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "multiple_choice",
+      "prompt_md": "Elegí la mejor respuesta: 'Maybe' significa...",
+      "options": [
+        "quizás",
+        "siempre",
+        "nunca",
+        "también"
+      ],
+      "correct_answer": "quizás",
+      "explanation_md": "'Maybe' expresa posibilidad o duda.",
+      "related_lexeme_ids": [
+        "maybe_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "and",
+      "back": "y",
+      "hint": "conector para sumar ideas",
+      "lexeme_id": "and_conj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "but",
+      "back": "pero",
+      "hint": "conector para contrastar",
+      "lexeme_id": "but_conj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "or",
+      "back": "o",
+      "hint": "conector para opciones",
+      "lexeme_id": "or_conj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "because",
+      "back": "porque",
+      "hint": "conector para dar razones",
+      "lexeme_id": "because_conj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "so",
+      "back": "así que / entonces",
+      "hint": "conector para resultados",
+      "lexeme_id": "so_conj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "if",
+      "back": "si (condicional)",
+      "hint": "conector para condiciones",
+      "lexeme_id": "if_conj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "while",
+      "back": "mientras",
+      "hint": "conector para tiempo",
+      "lexeme_id": "while_conj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "also",
+      "back": "también",
+      "hint": "adverbio para añadir",
+      "lexeme_id": "also_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "too",
+      "back": "también; demasiado",
+      "hint": "adverbio con dos usos",
+      "lexeme_id": "too_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "very",
+      "back": "muy",
+      "hint": "adverbio para intensificar",
+      "lexeme_id": "very_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "really",
+      "back": "realmente / de verdad",
+      "hint": "adverbio para enfatizar",
+      "lexeme_id": "really_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "just",
+      "back": "solo / justo",
+      "hint": "adverbio para limitar",
+      "lexeme_id": "just_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "maybe",
+      "back": "quizás / tal vez",
+      "hint": "adverbio para posibilidad",
+      "lexeme_id": "maybe_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "I think ... / I don't think ...",
+      "back": "Creo que ... / No creo que ...",
+      "hint": "expresar opinión",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_think",
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "I like it because ...",
+      "back": "Me gusta porque ...",
+      "hint": "opinión + razón",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_like_it_because",
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A1",
+        "connectors"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "and",
+      "reading": "",
+      "translation": "y",
+      "pos": "conjunction",
+      "example": "I like coffee and tea.",
+      "example_translation": "Me gustan el café y el té.",
+      "lexeme_id": "and_conj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "but",
+      "reading": "",
+      "translation": "pero",
+      "pos": "conjunction",
+      "example": "I like coffee, but I don't like tea.",
+      "example_translation": "Me gusta el café, pero no me gusta el té.",
+      "lexeme_id": "but_conj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "or",
+      "reading": "",
+      "translation": "o",
+      "pos": "conjunction",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "or_conj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "because",
+      "reading": "",
+      "translation": "porque",
+      "pos": "conjunction",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "because_conj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "so",
+      "reading": "",
+      "translation": "así que / entonces",
+      "pos": "conjunction",
+      "example": "I'm tired, so I sleep.",
+      "example_translation": "Estoy cansado, así que duermo.",
+      "lexeme_id": "so_conj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "if",
+      "reading": "",
+      "translation": "si (condicional)",
+      "pos": "conjunction",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "if_conj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "while",
+      "reading": "",
+      "translation": "mientras",
+      "pos": "conjunction",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "while_conj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "also",
+      "reading": "",
+      "translation": "también",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "also_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "too",
+      "reading": "",
+      "translation": "también; demasiado",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "too_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "very",
+      "reading": "",
+      "translation": "muy",
+      "pos": "adverb",
+      "example": "I'm very happy, and you?",
+      "example_translation": "Estoy muy feliz, ¿y tú?",
+      "lexeme_id": "very_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "really",
+      "reading": "",
+      "translation": "realmente / de verdad",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "really_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "just",
+      "reading": "",
+      "translation": "solo / justo",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "just_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "maybe",
+      "reading": "",
+      "translation": "quizás / tal vez",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "maybe_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I think ... / I don't think ...",
+      "reading": "",
+      "translation": "Creo que ... / No creo que ...",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_think"
+    },
+    {
+      "target_word": "I like it because ...",
+      "reading": "",
+      "translation": "Expresar una opinión y dar una razón.",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_like_it_because"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "and",
+      "role": "support",
+      "status": "practiced",
+      "translation": "y",
+      "lexeme_id": "and_conj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_002",
+        "ex_007",
+        "ex_011",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "but",
+      "role": "support",
+      "status": "practiced",
+      "translation": "pero",
+      "lexeme_id": "but_conj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_003",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "or",
+      "role": "support",
+      "status": "practiced",
+      "translation": "o",
+      "lexeme_id": "or_conj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "because",
+      "role": "support",
+      "status": "practiced",
+      "translation": "porque",
+      "lexeme_id": "because_conj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_004",
+        "ex_006",
+        "ex_010",
+        "ex_011",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "so",
+      "role": "support",
+      "status": "practiced",
+      "translation": "así que / entonces",
+      "lexeme_id": "so_conj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_005",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "if",
+      "role": "support",
+      "status": "introduced",
+      "translation": "si (condicional)",
+      "lexeme_id": "if_conj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_006"
+      ]
+    },
+    {
+      "term": "while",
+      "role": "support",
+      "status": "introduced",
+      "translation": "mientras",
+      "lexeme_id": "while_conj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "also",
+      "role": "support",
+      "status": "practiced",
+      "translation": "también",
+      "lexeme_id": "also_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "too",
+      "role": "support",
+      "status": "introduced",
+      "translation": "también; demasiado",
+      "lexeme_id": "too_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "very",
+      "role": "support",
+      "status": "practiced",
+      "translation": "muy",
+      "lexeme_id": "very_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_005",
+        "ex_009",
+        "ex_010",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "really",
+      "role": "support",
+      "status": "introduced",
+      "translation": "realmente / de verdad",
+      "lexeme_id": "really_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "just",
+      "role": "support",
+      "status": "introduced",
+      "translation": "solo / justo",
+      "lexeme_id": "just_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "maybe",
+      "role": "support",
+      "status": "practiced",
+      "translation": "quizás / tal vez",
+      "lexeme_id": "maybe_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_012",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "I think ... / I don't think ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Creo que ... / No creo que ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_think",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "fc_014"
+      ]
+    },
+    {
+      "term": "I like it because ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Expresar una opinión y dar una razón.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_like_it_because",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_010",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "ex_009",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "tea",
+      "role": "support",
+      "status": "emergent",
+      "translation": "té",
+      "lexeme_id": "tea",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "ex_009",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "think",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pensar / creer",
+      "lexeme_id": "think_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "fc_014",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "happy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "feliz / contento",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "sleep",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dormir",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "information",
+      "role": "support",
+      "status": "emergent",
+      "translation": "información",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "add",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sumar",
+      "lexeme_id": "add",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "reason",
+      "role": "support",
+      "status": "emergent",
+      "translation": "razon",
+      "lexeme_id": "reason",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_015"
+      ]
+    },
+    {
+      "term": "indicate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "indicar / señalar",
+      "lexeme_id": "indicate_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_011",
+        "quiz_001:q_013"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 15,
+    "review_support_count": 0,
+    "emergent_count": 11,
+    "emergent_terms": [
+      "coffee",
+      "tea",
+      "think",
+      "happy",
+      "tire",
+      "sleep",
+      "tired",
+      "information",
+      "add",
+      "reason",
+      "indicate"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Conectores y adverbios básicos",
+      "title_target": "Quiz: Using Basic Connectors and Adverbs",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'because'?",
+          "prompt_target": "What does 'because' mean?",
+          "options": [
+            "porque",
+            "pero",
+            "y",
+            "o"
+          ],
+          "correct_answer": "porque",
+          "explanation_form": "'Because' se usa para dar una razón o causa.",
+          "explanation_target": "'Because' is used to give a reason or cause.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "because_conj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'so'?",
+          "prompt_target": "What does 'so' mean?",
+          "options": [
+            "así que",
+            "pero",
+            "porque",
+            "también"
+          ],
+          "correct_answer": "así que",
+          "explanation_form": "'So' se usa para mostrar una consecuencia o resultado.",
+          "explanation_target": "'So' is used to show a consequence or result.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "so_conj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'maybe'?",
+          "prompt_target": "What does 'maybe' mean?",
+          "options": [
+            "quizás",
+            "siempre",
+            "nunca",
+            "también"
+          ],
+          "correct_answer": "quizás",
+          "explanation_form": "'Maybe' se usa para expresar posibilidad o incertidumbre.",
+          "explanation_target": "'Maybe' is used to express possibility or uncertainty.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "maybe_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'also'?",
+          "prompt_target": "What does 'also' mean?",
+          "options": [
+            "también",
+            "pero",
+            "porque",
+            "quizás"
+          ],
+          "correct_answer": "también",
+          "explanation_form": "'Also' se usa para añadir información.",
+          "explanation_target": "'Also' is used to add information.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "also_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'very'?",
+          "prompt_target": "What does 'very' mean?",
+          "options": [
+            "muy",
+            "poco",
+            "nada",
+            "también"
+          ],
+          "correct_answer": "muy",
+          "explanation_form": "'Very' se usa para intensificar un adjetivo o adverbio.",
+          "explanation_target": "'Very' is used to intensify an adjective or adverb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "very_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'but'?",
+          "prompt_target": "What does 'but' mean?",
+          "options": [
+            "pero",
+            "y",
+            "o",
+            "porque"
+          ],
+          "correct_answer": "pero",
+          "explanation_form": "'But' se usa para mostrar contraste u oposición.",
+          "explanation_target": "'But' is used to show contrast or opposition.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "but_conj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'or'?",
+          "prompt_target": "What does 'or' mean?",
+          "options": [
+            "o",
+            "y",
+            "pero",
+            "porque"
+          ],
+          "correct_answer": "o",
+          "explanation_form": "'Or' se usa para presentar una alternativa.",
+          "explanation_target": "'Or' is used to present an alternative.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "or_conj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'and'?",
+          "prompt_target": "What does 'and' mean?",
+          "options": [
+            "y",
+            "o",
+            "pero",
+            "porque"
+          ],
+          "correct_answer": "y",
+          "explanation_form": "'And' se usa para unir elementos o ideas.",
+          "explanation_target": "'And' is used to join elements or ideas.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "and_conj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'too'?",
+          "prompt_target": "What does 'too' mean?",
+          "options": [
+            "también",
+            "muy",
+            "poco",
+            "nada"
+          ],
+          "correct_answer": "también",
+          "explanation_form": "'Too' se usa para añadir información, similar a 'also'.",
+          "explanation_target": "'Too' is used to add information, similar to 'also'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "too_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'really'?",
+          "prompt_target": "What does 'really' mean?",
+          "options": [
+            "realmente",
+            "quizás",
+            "también",
+            "pero"
+          ],
+          "correct_answer": "realmente",
+          "explanation_form": "'Really' se usa para intensificar o enfatizar.",
+          "explanation_target": "'Really' is used to intensify or emphasize.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "really_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'just'?",
+          "prompt_target": "What does 'just' mean?",
+          "options": [
+            "solo",
+            "muy",
+            "también",
+            "pero"
+          ],
+          "correct_answer": "solo",
+          "explanation_form": "'Just' se usa para indicar algo simple o exacto.",
+          "explanation_target": "'Just' is used to indicate something simple or exact.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "just_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'if'?",
+          "prompt_target": "What does 'if' mean?",
+          "options": [
+            "si",
+            "pero",
+            "y",
+            "o"
+          ],
+          "correct_answer": "si",
+          "explanation_form": "'If' se usa para expresar una condición.",
+          "explanation_target": "'If' is used to express a condition.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "if_conj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_013",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'while'?",
+          "prompt_target": "What does 'while' mean?",
+          "options": [
+            "mientras",
+            "pero",
+            "y",
+            "o"
+          ],
+          "correct_answer": "mientras",
+          "explanation_form": "'While' se usa para indicar simultaneidad.",
+          "explanation_target": "'While' is used to indicate simultaneity.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "while_conj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_014",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I think'?",
+          "prompt_target": "What does 'I think' mean?",
+          "options": [
+            "yo pienso",
+            "yo quiero",
+            "yo tengo",
+            "yo hago"
+          ],
+          "correct_answer": "yo pienso",
+          "explanation_form": "'I think' se usa para expresar una opinión.",
+          "explanation_target": "'I think' is used to express an opinion.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_i_think"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_015",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I like it because'?",
+          "prompt_target": "What does 'I like it because' mean?",
+          "options": [
+            "me gusta porque",
+            "no me gusta",
+            "yo quiero",
+            "yo tengo"
+          ],
+          "correct_answer": "me gusta porque",
+          "explanation_form": "'I like it because' se usa para expresar gusto con una razón.",
+          "explanation_target": "'I like it because' is used to express liking with a reason.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_i_like_it_because"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Conectores: une ideas como un nativo\n\n**And** suma, **but** contrasta, **or** da opciones, **because** da la razón y **so** da el resultado. Piensa en ellos como pegamento: unen dos ideas cortas en una sola frase natural. Ejemplo: *I like tea, but I love coffee.* (Me gusta el té, pero amo el café).\n\n## Adverbios: dale sabor a tus frases\n\n**Very** y **really** intensifican (muy), **too** significa 'también' al final, **also** 'también' en medio, **just** 'solo' y **maybe** 'quizás'. Tip para hispanohablantes: en inglés, **too** va al final de la frase, no antes del verbo. No digas *I too like it*; di *I like it too*.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:44:20Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

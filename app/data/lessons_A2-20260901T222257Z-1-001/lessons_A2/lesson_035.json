@@ -1,0 +1,1437 @@
+{
+  "id": "lesson_035",
+  "position": 35,
+  "unit_id": 5,
+  "course_id": "en.A2",
+  "title_form": "Trying on clothes",
+  "title_target": "Probándose ropa",
+  "theme_focus": "clothing",
+  "learning_objectives": [
+    "Can ask to try on clothes in a store.",
+    "Can describe how clothes fit using 'too big', 'too small' and 'just right'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_033"
+  ],
+  "grammar_focus": [
+    "can: requests for information (review)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "try_on_verb",
+        "fit_verb",
+        "too_big_phrase",
+        "too_small_phrase",
+        "just_right_phrase"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "store",
+        "pocket",
+        "button",
+        "shoes"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana está en una tienda de ropa. Quiere comprar una chaqueta nueva, pero no está segura de su talla. Le pide a la vendedora probarse una chaqueta, y luego otra, hasta encontrar la que le queda justo a su medida.",
+  "introduction_md": "¡Hola! Hoy vas a aprender a **probarte ropa** en una tienda. ¿Te ha pasado que quieres comprar una camisa, pero no sabes si te queda bien? En esta lección vas a practicar cómo pedir probarte algo y cómo decir si la ropa te queda **demasiado grande**, **demasiado pequeña** o **justo a tu medida**.\n\n- Aprenderás frases útiles para la tienda.\n- Practicarás con diálogos reales.\n- Harás ejercicios para recordar todo.\n\n¡Vamos a empezar!",
+  "intro_target": "Hello! Today you are going to learn how to **try on clothes** in a store. Has it happened to you that you want to buy a shirt, but you don't know if it fits you well? In this lesson you are going to practice how to ask to try something on and how to say if the clothes are **too big**, **too small**, or **just right**.\n\n- You will learn useful phrases for the store.\n- You will practice with real dialogues.\n- You will do exercises to remember everything.\n\nLet's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "try_on_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Can I try on this shirt in the store?",
+      "translation_form": "¿Puedo probarme esta camisa en la tienda?",
+      "highlight_words": [
+        "try on"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "fit_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "These shoes fit me very well.",
+      "translation_form": "Estos zapatos me quedan muy bien.",
+      "highlight_words": [
+        "fit"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "too_big_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This jacket is too big for me.",
+      "translation_form": "Esta chaqueta me queda demasiado grande.",
+      "highlight_words": [
+        "too big"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "too_small_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "These trousers are too small for me.",
+      "translation_form": "Estos pantalones me quedan demasiado pequeños.",
+      "highlight_words": [
+        "too small"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "just_right_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This sweater is just right for me.",
+      "translation_form": "Este suéter me queda justo bien.",
+      "highlight_words": [
+        "just right"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "try_on_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Can I try on these shoes?",
+      "translation_form": "¿Puedo probarme estos zapatos?",
+      "highlight_words": [
+        "try on"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "fit_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This shirt fits me well, but the buttons are old.",
+      "translation_form": "Esta camisa me queda bien, pero los botones son viejos.",
+      "highlight_words": [
+        "fit"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "too_big_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This coat is too big, but the pocket is useful.",
+      "translation_form": "Este abrigo es demasiado grande, pero el bolsillo es útil.",
+      "highlight_words": [
+        "too big"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "can: requests for information (review)",
+      "title_form": "Can: pedir información (repaso)",
+      "title_target": "Can: requests for information (review)",
+      "description_md_form": "Usamos **can** para pedir información o hacer peticiones de forma educada en una tienda. Es un verbo modal: **no cambia** con la persona (I can, you can, he can) y va seguido del **verbo en infinitivo** sin \"to\".\n\n**Estructura:**\n\n- **Can I + verbo...?** → para preguntar (pedir permiso o información).\n- **Can you + verbo...?** → para preguntar a otra persona.\n\n**Ejemplos:**\n\n- `Can I try on this shirt?` = ¿Puedo probarme esta camisa?\n- `Can you help me?` = ¿Puedes ayudarme?\n\n**Respuestas cortas:**\n\n- **Yes, I can.** / **No, I can't.**\n\n**Nota:** En preguntas, el orden es **Can + sujeto + verbo**. No digas \"I can try on?\" como pregunta.",
+      "description_md_target": "We use **can** to ask for information or make polite requests in a store. It is a modal verb: it **does not change** with the person (I can, you can, he can) and is followed by the **infinitive verb** without \"to\".\n\n**Structure:**\n\n- **Can I + verb...?** → to ask (for permission or information).\n- **Can you + verb...?** → to ask another person.\n\n**Examples:**\n\n- `Can I try on this shirt?` = Can I try on this shirt?\n- `Can you help me?` = Can you help me?\n\n**Short answers:**\n\n- **Yes, I can.** / **No, I can't.**\n\n**Note:** In questions, the order is **Can + subject + verb**. Do not say \"I can try on?\" as a question.",
+      "grammar_structure": "Can + subject + verb (infinitive) + ...?",
+      "conjugation_table": {
+        "name": "can_modal",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "I can try on",
+            "I can't try on",
+            "Can I try on?"
+          ],
+          [
+            "you",
+            "you can try on",
+            "you can't try on",
+            "Can you try on?"
+          ],
+          [
+            "he/she/it",
+            "he can try on",
+            "he can't try on",
+            "Can he try on?"
+          ],
+          [
+            "we",
+            "we can try on",
+            "we can't try on",
+            "Can we try on?"
+          ],
+          [
+            "they",
+            "they can try on",
+            "they can't try on",
+            "Can they try on?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "try_on_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Can I try on this shirt in the store?",
+          "translation_form": "¿Puedo probarme esta camisa en la tienda?",
+          "highlight_words": [
+            "can",
+            "try",
+            "on"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "fit_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Can you tell me if these shoes fit me?",
+          "translation_form": "¿Puedes decirme si estos zapatos me quedan bien?",
+          "highlight_words": [
+            "can",
+            "fit"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En una tienda, usa **Can I...?** para pedir permiso. Es educado y natural. Por ejemplo: **Can I try on this jacket?**"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas **\"I can try on?\"** como pregunta. En inglés, la pregunta invierte el orden: **Can I try on?**"
+        },
+        {
+          "type": "warning",
+          "text_md": "**Atención:** **Can** no cambia con la persona. No digas **\"he cans\"** ni **\"she cans\"**. Siempre es **can**."
+        }
+      ],
+      "common_errors_es": [
+        "Decir \"I can try on?\" en lugar de \"Can I try on?\" — en preguntas, el verbo modal va primero.",
+        "Agregar \"to\" después de can: \"Can I to try on?\" — can va seguido del infinitivo sin \"to\".",
+        "Cambiar can por persona: \"he cans\" — can es invariable.",
+        "Usar \"do\" con can: \"Do you can help me?\" — can ya es auxiliar, no necesita do."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'try on'?",
+      "options": [
+        "probarse (ropa)",
+        "comprar",
+        "mirar",
+        "devolver"
+      ],
+      "correct_answer": "probarse (ropa)",
+      "explanation_md": "'Try on' significa probarse ropa para ver si te queda.",
+      "related_lexeme_ids": [
+        "try_on_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'fit'?",
+      "options": [
+        "quedar bien (de tamaño)",
+        "comprar",
+        "usar",
+        "lavar"
+      ],
+      "correct_answer": "quedar bien (de tamaño)",
+      "explanation_md": "'Fit' se usa para decir que la ropa te queda bien de tamaño.",
+      "related_lexeme_ids": [
+        "fit_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la frase: 'This shirt is ____ for me. I need a smaller one.'",
+      "options": [
+        "too big",
+        "just right",
+        "too small",
+        "new"
+      ],
+      "correct_answer": "too big",
+      "explanation_md": "Si necesitas una más pequeña, la camisa es 'too big' (demasiado grande).",
+      "related_lexeme_ids": [
+        "too_big_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué frase usás para decir que la ropa te queda perfecta?",
+      "options": [
+        "It's too small.",
+        "It's just right.",
+        "It's too big.",
+        "It's old."
+      ],
+      "correct_answer": "It's just right.",
+      "explanation_md": "'Just right' significa que te queda perfecto, ni grande ni pequeño.",
+      "related_lexeme_ids": [
+        "just_right_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la frase: 'Can I ____ on this jacket?'",
+      "options": null,
+      "correct_answer": "try",
+      "explanation_md": "La expresión es 'try on' (probarse). Aquí solo falta el verbo 'try'.",
+      "related_lexeme_ids": [
+        "try_on_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la frase: 'These shoes ____ me very well.'",
+      "options": null,
+      "correct_answer": "fit",
+      "explanation_md": "El verbo 'fit' se usa para decir que algo te queda bien de tamaño.",
+      "related_lexeme_ids": [
+        "fit_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "matching",
+      "prompt_md": "Empareja cada frase con su significado:",
+      "options": [
+        "too big",
+        "demasiado grande",
+        "too small",
+        "demasiado pequeño",
+        "just right",
+        "justo bien"
+      ],
+      "correct_answer": [
+        "too big=demasiado grande",
+        "too small=demasiado pequeño",
+        "just right=justo bien"
+      ],
+      "explanation_md": "Estas frases describen cómo te queda la ropa.",
+      "related_lexeme_ids": [
+        "too_big_phrase",
+        "too_small_phrase",
+        "just_right_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: '¿Puedo probarme estos pantalones?'",
+      "options": null,
+      "correct_answer": "Can I try on these trousers?",
+      "explanation_md": "Usamos 'Can I...' para pedir permiso y 'try on' para probarse ropa.",
+      "related_lexeme_ids": [
+        "try_on_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "¿Cómo se dice en español 'This sweater is just right for me'?",
+      "options": null,
+      "correct_answer": "Este suéter me queda justo bien.",
+      "explanation_md": "'Just right' se traduce como 'justo bien' o 'perfecto'.",
+      "related_lexeme_ids": [
+        "just_right_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿qué ropa se prueba Ana?",
+      "options": null,
+      "correct_answer": "Ana se prueba una chaqueta azul.",
+      "explanation_md": "El texto dice que Ana ve una chaqueta azul y se la prueba.",
+      "related_lexeme_ids": [
+        "try_on_verb",
+        "too_small_phrase",
+        "fit_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana is in a store. She wants to buy a new jacket. She sees a nice blue jacket. She asks the salesperson, 'Can I try on this jacket?' The salesperson says yes. Ana tries on the jacket. It is too small for her. She tries on a bigger one. It fits her very well. She is happy.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿cómo le queda la camisa a Tom?",
+      "options": [
+        "Le queda demasiado grande.",
+        "Le queda demasiado pequeña.",
+        "Le queda justo bien.",
+        "No le gusta."
+      ],
+      "correct_answer": "Le queda demasiado grande.",
+      "explanation_md": "El audio dice 'The shirt is too big for him'.",
+      "related_lexeme_ids": [
+        "too_big_phrase",
+        "try_on_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom is in a store. He tries on a shirt. He looks in the mirror. The shirt is too big for him. He asks for a smaller size. The smaller shirt fits him well.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Imaginá que estás en una tienda de ropa. Escribí 2-3 oraciones: qué querés probarte y cómo te queda.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'try on', 'fit' y las frases de tamaño.",
+      "related_lexeme_ids": [
+        "try_on_verb",
+        "fit_verb",
+        "too_big_phrase",
+        "too_small_phrase",
+        "just_right_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Can I try on this shirt? It is just right for me.",
+        "I want to try on these shoes. They fit me very well.",
+        "This jacket is too big for me. Can I try on a smaller one?"
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "try on",
+      "back": "probarse (ropa)",
+      "hint": "se usa en tiendas de ropa",
+      "lexeme_id": "try_on_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A2",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "fit",
+      "back": "quedar (bien) de talla",
+      "hint": "cuando la ropa te queda bien",
+      "lexeme_id": "fit_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A2",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "too big",
+      "back": "demasiado grande",
+      "hint": "cuando la ropa no te queda",
+      "lexeme_id": "too_big_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A2",
+        "clothing"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "too small",
+      "back": "demasiado pequeño",
+      "hint": "cuando la ropa no te queda",
+      "lexeme_id": "too_small_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A2",
+        "clothing"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "just right",
+      "back": "justo bien (de talla)",
+      "hint": "cuando la ropa te queda perfecta",
+      "lexeme_id": "just_right_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A2",
+        "clothing"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "store",
+      "back": "tienda",
+      "hint": "lugar donde compras cosas",
+      "lexeme_id": "store",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A2",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "pocket",
+      "back": "bolsillo",
+      "hint": "parte de la ropa donde guardas cosas",
+      "lexeme_id": "pocket",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A2",
+        "clothing"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "button",
+      "back": "botón",
+      "hint": "parte de la ropa para abrochar",
+      "lexeme_id": "button",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A2",
+        "clothing"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "shoes",
+      "back": "zapatos",
+      "hint": "los llevas en los pies",
+      "lexeme_id": "shoes",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A2",
+        "clothing"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "try on",
+      "reading": "",
+      "translation": "probarse (ropa)",
+      "pos": "verb",
+      "example": "Can I try on this shirt in the store?",
+      "example_translation": "¿Puedo probarme esta camisa en la tienda?",
+      "lexeme_id": "try_on_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "fit",
+      "reading": "",
+      "translation": "quedar (bien) de talla",
+      "pos": "verb",
+      "example": "These shoes fit me very well.",
+      "example_translation": "Estos zapatos me quedan muy bien.",
+      "lexeme_id": "fit_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "too big",
+      "reading": "",
+      "translation": "demasiado grande",
+      "pos": "phrase",
+      "example": "This jacket is too big for me.",
+      "example_translation": "Esta chaqueta me queda demasiado grande.",
+      "lexeme_id": "too_big_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "too small",
+      "reading": "",
+      "translation": "demasiado pequeño",
+      "pos": "phrase",
+      "example": "These trousers are too small for me.",
+      "example_translation": "Estos pantalones me quedan demasiado pequeños.",
+      "lexeme_id": "too_small_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "just right",
+      "reading": "",
+      "translation": "justo bien (de talla)",
+      "pos": "phrase",
+      "example": "This sweater is just right for me.",
+      "example_translation": "Este suéter me queda justo bien.",
+      "lexeme_id": "just_right_phrase",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "try on",
+      "role": "support",
+      "status": "practiced",
+      "translation": "probarse (ropa)",
+      "lexeme_id": "try_on_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_006",
+        "ex_001",
+        "ex_005",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "fit",
+      "role": "support",
+      "status": "practiced",
+      "translation": "quedar (bien) de talla",
+      "lexeme_id": "fit_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_002",
+        "ex_006",
+        "ex_010",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "too big",
+      "role": "support",
+      "status": "practiced",
+      "translation": "demasiado grande",
+      "lexeme_id": "too_big_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "exm_008",
+        "ex_003",
+        "ex_007",
+        "ex_011",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "too small",
+      "role": "support",
+      "status": "practiced",
+      "translation": "demasiado pequeño",
+      "lexeme_id": "too_small_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "just right",
+      "role": "support",
+      "status": "practiced",
+      "translation": "justo bien (de talla)",
+      "lexeme_id": "just_right_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_004",
+        "ex_007",
+        "ex_009",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "store",
+      "role": "support",
+      "status": "review",
+      "translation": "tienda",
+      "lexeme_id": "store",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_006"
+      ]
+    },
+    {
+      "term": "pocket",
+      "role": "support",
+      "status": "review",
+      "translation": "bolsillo",
+      "lexeme_id": "pocket",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "button",
+      "role": "support",
+      "status": "review",
+      "translation": "botón",
+      "lexeme_id": "button",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "shoes",
+      "role": "support",
+      "status": "review",
+      "translation": "zapatos",
+      "lexeme_id": "shoes",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "too",
+      "role": "support",
+      "status": "emergent",
+      "translation": "también; demasiado",
+      "lexeme_id": "too_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_004",
+        "exm_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_003",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "try",
+      "role": "support",
+      "status": "emergent",
+      "translation": "intentar / probar",
+      "lexeme_id": "try_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_006",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_008",
+        "ex_011",
+        "ex_012",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "shoe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "herrar",
+      "lexeme_id": "shoe_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_006",
+        "ex_012",
+        "fc_009",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "right",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012",
+        "fc_005",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "shirt",
+      "role": "support",
+      "status": "emergent",
+      "translation": "camisa",
+      "lexeme_id": "shirt",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_007",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "well",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_010",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "jacket",
+      "role": "support",
+      "status": "emergent",
+      "translation": "chaqueta",
+      "lexeme_id": "jacket",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "coat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "abrigo",
+      "lexeme_id": "coat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "trousers",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pantalones",
+      "lexeme_id": "trousers",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "useful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "útil",
+      "lexeme_id": "useful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "trouser",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pantalón",
+      "lexeme_id": "trouser",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "sweater",
+      "role": "support",
+      "status": "emergent",
+      "translation": "suéter",
+      "lexeme_id": "sweater",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "size",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tamaño",
+      "lexeme_id": "size",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "smaller",
+      "role": "support",
+      "status": "emergent",
+      "translation": "poco / menor / menudo",
+      "lexeme_id": "smaller",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "clothe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vestir",
+      "lexeme_id": "clothe_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "blue",
+      "role": "support",
+      "status": "emergent",
+      "translation": "azul",
+      "lexeme_id": "blue_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "wear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llevar (ropa puesta)",
+      "lexeme_id": "wear_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "bigger",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más grande",
+      "lexeme_id": "bigger",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "cloth",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tela",
+      "lexeme_id": "cloth",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 5,
+    "review_support_count": 4,
+    "emergent_count": 24,
+    "emergent_terms": [
+      "too",
+      "try",
+      "big",
+      "shoe",
+      "right",
+      "small",
+      "shirt",
+      "well",
+      "jacket",
+      "old",
+      "coat",
+      "trousers",
+      "useful",
+      "trouser",
+      "sweater",
+      "ask",
+      "size",
+      "smaller",
+      "want",
+      "clothe",
+      "blue",
+      "wear",
+      "bigger",
+      "cloth"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Probándose ropa",
+      "title_target": "Quiz: Trying on clothes",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "The blue shirt fits.",
+            "The small shirt fits.",
+            "The blue shirt is too small."
+          ],
+          "correct_answer": "The small shirt fits.",
+          "explanation_form": "La camisa pequeña le queda bien (fits). La azul era demasiado grande (too big).",
+          "explanation_target": "The small shirt fits. The blue one was too big.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "try_on_verb",
+            "fit_verb",
+            "too_big_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I try on the blue shirt. It is too big. I try on the small shirt. It fits. I take it.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "these",
+            "jeans",
+            "are",
+            "too",
+            "small"
+          ],
+          "correct_answer": "These jeans are too small.",
+          "explanation_form": "La frase correcta es 'These jeans are too small.' (Estos jeans son demasiado pequeños).",
+          "explanation_target": "The correct sentence is 'These jeans are too small.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "too_small_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'It fits'?",
+          "prompt_target": "What does 'It fits' mean?",
+          "options": [
+            "Es demasiado grande.",
+            "Queda bien.",
+            "Es demasiado pequeño."
+          ],
+          "correct_answer": "Queda bien.",
+          "explanation_form": "'It fits' significa que la ropa queda bien, tiene la talla correcta.",
+          "explanation_target": "'It fits' means the clothes are the right size.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "fit_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "The person asks for the price.",
+            "The person asks to try on a jacket.",
+            "The person asks for a different size."
+          ],
+          "correct_answer": "The person asks to try on a jacket.",
+          "explanation_form": "La persona pregunta 'Can I try on this jacket?' (¿Puedo probarme esta chaqueta?).",
+          "explanation_target": "The person asks 'Can I try on this jacket?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "try_on_verb",
+            "can: requests for information"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Can I try on this jacket? Yes, you can. The changing room is over there.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'This shirt is ____. I need a bigger one.'",
+          "prompt_target": "Complete the sentence: 'This shirt is ____. I need a bigger one.'",
+          "options": null,
+          "correct_answer": "too small",
+          "explanation_form": "Si necesita una más grande, la camisa es demasiado pequeña (too small).",
+          "explanation_target": "If you need a bigger one, the shirt is too small.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "too_small_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice 'probarse' en inglés?",
+          "prompt_target": "How do you say 'probarse' in English?",
+          "options": [
+            "to fit",
+            "to try on",
+            "to wear"
+          ],
+          "correct_answer": "to try on",
+          "explanation_form": "'Try on' significa probarse ropa. 'Fit' es quedar bien y 'wear' es usar/llevar puesto.",
+          "explanation_target": "'Try on' means to test clothes. 'Fit' means to be the right size and 'wear' means to have on your body.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "try_on_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y elige la respuesta correcta:",
+          "prompt_target": "Read the text and choose the correct answer:",
+          "options": [
+            "The red dress fits just right.",
+            "The smaller dress is too big.",
+            "The smaller dress fits just right."
+          ],
+          "correct_answer": "The smaller dress fits just right.",
+          "explanation_form": "El vestido más pequeño le queda justo bien (fits just right). El rojo era demasiado grande.",
+          "explanation_target": "The smaller dress fits just right. The red one was too big.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "fit_verb",
+            "just_right_phrase",
+            "too_big_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Maria is in a store. She tries on a red dress. It is too big. She tries on a smaller dress. It fits just right. She buys it and wears it to a party.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce al español: 'These shoes are too big.'",
+          "prompt_target": "Translate to Spanish: 'These shoes are too big.'",
+          "options": null,
+          "correct_answer": "Estos zapatos son demasiado grandes.",
+          "explanation_form": "'These shoes' = estos zapatos, 'are too big' = son demasiado grandes.",
+          "explanation_target": "'These shoes' = estos zapatos, 'are too big' = son demasiado grandes.",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "too_big_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Consejos para probarte ropa\n\n- **\"Try on\" es un phrasal verb inseparable**: siempre decís \"try on the shirt\" o \"try the shirt on\", pero nunca \"try the shirt\". Pensalo como una sola palabra: *probarse*.\n- **\"Fit\" describe el resultado, no la acción**: \"The shirt fits\" = *la camisa queda bien*. No lo confundas con \"try on\", que es la acción de probársela.\n\n## Errores comunes\n\n- **No digas \"It is too big for me\" con el verbo \"be\" solo**: es correcto, pero más natural es \"It is too big\" o \"It does not fit\". Evitá \"It is too big for me\" en conversación casual.\n- **\"Just right\" no lleva artículo**: decís \"It is just right\", no \"It is a just right\". Es una frase fija, como *perfecto*.\n- **Preguntá con \"Can I...?\"**: \"Can I try on this shirt?\" es la forma más educada y simple para A2. No necesitás \"Could\" todavía.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:55:59Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

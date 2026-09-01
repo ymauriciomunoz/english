@@ -1,0 +1,4197 @@
+{
+  "schema_version": 2,
+  "course_id": "en.A2",
+  "units": [
+    {
+      "id": 1,
+      "title_form": "Daily life and routines",
+      "title_target": "Vida diaria y rutinas",
+      "lesson_ids": [
+        "lesson_001",
+        "lesson_002",
+        "lesson_003",
+        "lesson_004",
+        "lesson_005",
+        "lesson_006",
+        "lesson_007",
+        "lesson_008"
+      ]
+    },
+    {
+      "id": 2,
+      "title_form": "Past experiences and storytelling",
+      "title_target": "Experiencias pasadas y narración",
+      "lesson_ids": [
+        "lesson_009",
+        "lesson_010",
+        "lesson_011",
+        "lesson_012",
+        "lesson_013",
+        "lesson_014",
+        "lesson_015",
+        "lesson_016"
+      ]
+    },
+    {
+      "id": 3,
+      "title_form": "Plans, free time and social arrangements",
+      "title_target": "Planes, tiempo libre y acuerdos sociales",
+      "lesson_ids": [
+        "lesson_017",
+        "lesson_018",
+        "lesson_019",
+        "lesson_020",
+        "lesson_021",
+        "lesson_022",
+        "lesson_023",
+        "lesson_024"
+      ]
+    },
+    {
+      "id": 4,
+      "title_form": "Travel, transport and accommodation",
+      "title_target": "Viajes, transporte y alojamiento",
+      "lesson_ids": [
+        "lesson_025",
+        "lesson_026",
+        "lesson_027",
+        "lesson_028",
+        "lesson_029",
+        "lesson_030",
+        "lesson_031",
+        "lesson_032"
+      ]
+    },
+    {
+      "id": 5,
+      "title_form": "Shopping, services and transactions",
+      "title_target": "Compras, servicios y transacciones",
+      "lesson_ids": [
+        "lesson_033",
+        "lesson_034",
+        "lesson_035",
+        "lesson_036",
+        "lesson_037",
+        "lesson_038",
+        "lesson_039",
+        "lesson_040"
+      ]
+    },
+    {
+      "id": 6,
+      "title_form": "Health, advice and daily wellbeing",
+      "title_target": "Salud, consejos y bienestar diario",
+      "lesson_ids": [
+        "lesson_041",
+        "lesson_042",
+        "lesson_043",
+        "lesson_044",
+        "lesson_045",
+        "lesson_046",
+        "lesson_047",
+        "lesson_048"
+      ]
+    },
+    {
+      "id": 7,
+      "title_form": "Work, study and everyday life",
+      "title_target": "Trabajo, estudio y vida cotidiana",
+      "lesson_ids": [
+        "lesson_049",
+        "lesson_050",
+        "lesson_051",
+        "lesson_052",
+        "lesson_053",
+        "lesson_054",
+        "lesson_055",
+        "lesson_056"
+      ]
+    },
+    {
+      "id": 8,
+      "title_form": "Environment, technology and everyday media",
+      "title_target": "Entorno, tecnología y medios cotidianos",
+      "lesson_ids": [
+        "lesson_057",
+        "lesson_058",
+        "lesson_059",
+        "lesson_060",
+        "lesson_061",
+        "lesson_062",
+        "lesson_063",
+        "lesson_064"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson_001",
+      "position": 1,
+      "unit_id": 1,
+      "title_form": "My morning routine",
+      "title_target": "Mi rutina de la mañana",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can describe a daily morning routine using present simple."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "wake_up_verb",
+            "get_dressed_phrase",
+            "brush",
+            "fix_verb",
+            "prepare_verb",
+            "pack_verb",
+            "reach_verb",
+            "first_adv",
+            "afterwards_adv",
+            "mirror"
+          ],
+          "chunk_ids": [
+            "chunk_a2_phrasal_get_up",
+            "chunk_a2_colloc_breakfast"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "get_up_verb",
+            "have_breakfast_phrase",
+            "house",
+            "kitchen",
+            "bedroom",
+            "table",
+            "chair",
+            "clean_verb",
+            "wash_verb",
+            "shower",
+            "breakfast"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative for routines (I/he/she)"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_747db31dbf061077"
+      ]
+    },
+    {
+      "id": "lesson_002",
+      "position": 2,
+      "unit_id": 1,
+      "title_form": "Getting ready to go out",
+      "title_target": "Preparándose para salir",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can describe getting ready to go out using present simple."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "put_on_verb",
+            "wear_verb",
+            "belt",
+            "go_out_verb",
+            "pocket",
+            "button",
+            "shoes"
+          ],
+          "chunk_ids": [
+            "chunk_a2_phrasal_put_on_go_out"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "get_dressed_phrase",
+            "wake_up_verb",
+            "first_adv",
+            "afterwards_adv"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "coat",
+            "hat",
+            "check",
+            "jacket",
+            "key",
+            "phone",
+            "bag"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: 3rd person -s"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_001"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_25dd10c0c42b224c"
+      ]
+    },
+    {
+      "id": "lesson_003",
+      "position": 3,
+      "unit_id": 1,
+      "title_form": "My daily schedule",
+      "title_target": "Mi horario diario",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can ask and answer questions about daily schedules using present simple."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "schedule",
+            "agenda",
+            "appointment",
+            "period",
+            "third_ord",
+            "past_prep"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "first_adv",
+            "afterwards_adv"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "start_verb",
+            "finish_verb",
+            "leave_verb",
+            "work_verb",
+            "break_verb",
+            "meeting",
+            "noon",
+            "midnight",
+            "class",
+            "lunch",
+            "time",
+            "morning",
+            "afternoon",
+            "evening",
+            "week",
+            "clock",
+            "hour",
+            "today",
+            "day"
+          ],
+          "chunk_ids": [
+            "chunk_at_what_time",
+            "chunk_i_start_finish_work",
+            "chunk_its_half_past"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: questions with do/does"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_001"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_dacf64adbb96f842"
+      ]
+    },
+    {
+      "id": "lesson_004",
+      "position": 4,
+      "unit_id": 1,
+      "title_form": "Household chores",
+      "title_target": "Tareas del hogar",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "routine_social_exchange"
+      ],
+      "learning_objectives": [
+        "Can talk about household chores using present simple."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "do_the_dishes_phrase",
+            "put_away_verb",
+            "turn_off_verb",
+            "turn_on_verb",
+            "take_out_verb",
+            "put_down_verb",
+            "soap",
+            "tidy_adj",
+            "blanket"
+          ],
+          "chunk_ids": [
+            "chunk_a2_phrasal_turn_off"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "brush",
+            "fix_verb",
+            "prepare_verb",
+            "pack_verb",
+            "reach_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "water",
+            "room",
+            "floor",
+            "desk",
+            "garden",
+            "toilet",
+            "tv",
+            "clean_adj"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: 3rd person -s"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_001"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_005",
+      "position": 5,
+      "unit_id": 1,
+      "title_form": "Talking about obligations",
+      "title_target": "Hablando de obligaciones",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "routine_social_exchange"
+      ],
+      "learning_objectives": [
+        "Can talk about daily obligations using have to."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "habit",
+            "obligation",
+            "rule_verb",
+            "possible_adj",
+            "safe_adj",
+            "important_adj"
+          ],
+          "chunk_ids": [
+            "chunk_a2_have_to_work"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "schedule",
+            "do_the_dishes_phrase",
+            "put_away_verb",
+            "turn_off_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "pay_verb",
+            "study_verb",
+            "do_homework_phrase",
+            "cook_verb",
+            "early_adj_2",
+            "late_adj",
+            "tired_adj",
+            "need_verb",
+            "clean_verb",
+            "homework",
+            "work_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "have to: affirmative for obligations"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_004"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_006",
+      "position": 6,
+      "unit_id": 1,
+      "title_form": "Describing what's happening now",
+      "title_target": "Describiendo lo que está pasando ahora",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can describe current actions using present continuous."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "attach_verb",
+            "continue_verb",
+            "raise_verb"
+          ],
+          "chunk_ids": [
+            "chunk_a2_im_cooking_now"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "do_the_dishes_phrase",
+            "put_away_verb",
+            "turn_off_verb",
+            "turn_on_verb",
+            "wear_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "write_verb",
+            "read_verb",
+            "watch_verb",
+            "clean_verb",
+            "cook_verb",
+            "book",
+            "phone",
+            "lunch",
+            "window",
+            "now",
+            "room",
+            "sit_verb",
+            "stand_verb",
+            "listen_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present continuous: affirmative for current actions"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_004"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_007",
+      "position": 7,
+      "unit_id": 1,
+      "title_form": "Making plans for tomorrow",
+      "title_target": "Haciendo planes para mañana",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can talk about future plans using going to."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "project",
+            "option",
+            "arrangement",
+            "intention",
+            "organize_verb",
+            "expect_verb",
+            "decide_verb",
+            "make_a_plan_phrase"
+          ],
+          "chunk_ids": [
+            "chunk_a2_im_going_to",
+            "chunk_a2_what_are_you_doing_this_weekend"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "schedule"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "going_to_verb",
+            "visit_verb",
+            "buy_verb",
+            "meet_verb",
+            "travel_verb",
+            "friend",
+            "family",
+            "phone",
+            "message",
+            "weekend"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "going to: affirmative for future plans"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_005"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_008",
+      "position": 8,
+      "unit_id": 1,
+      "title_form": "Talking about regular past activities",
+      "title_target": "Hablando de actividades pasadas habituales",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can describe a regular past activity using the past simple."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "serve_verb",
+            "enter_verb",
+            "cook_dinner_phrase",
+            "realize_verb",
+            "knock_verb",
+            "burn_verb",
+            "sit_down_verb",
+            "stand_up_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "go_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: affirmative regular verbs"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_007"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_009",
+      "position": 9,
+      "unit_id": 2,
+      "title_form": "Talking about yesterday",
+      "title_target": "Hablando de ayer",
+      "theme_focus": "time",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can describe a past activity using past simple with was/were."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "busy",
+            "celebration",
+            "memory",
+            "during_prep",
+            "eventually_adv",
+            "as_soon_as_conj",
+            "nervous_adj",
+            "surprised_adj"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "wake_up_verb",
+            "get_dressed_phrase",
+            "brush",
+            "prepare_verb",
+            "pack_verb",
+            "reach_verb",
+            "first_adv",
+            "afterwards_adv",
+            "appointment",
+            "sit_down_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "walk_verb",
+            "play_verb",
+            "yesterday",
+            "breakfast",
+            "home",
+            "work_verb",
+            "friend",
+            "visit_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: was/were"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_001",
+        "lesson_002",
+        "lesson_003",
+        "lesson_004",
+        "lesson_005",
+        "lesson_006",
+        "lesson_007",
+        "lesson_008"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_44f7fe3284aca79e"
+      ]
+    },
+    {
+      "id": "lesson_010",
+      "position": 10,
+      "unit_id": 2,
+      "title_form": "Describing a past place",
+      "title_target": "Describiendo un lugar en el pasado",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can describe a place in the past using there was / there were."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "apartment",
+            "furniture",
+            "building",
+            "balcony",
+            "attic",
+            "basement"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "home",
+            "park",
+            "museum",
+            "restaurant",
+            "good_adj",
+            "large_adj",
+            "small_adj",
+            "old_adj",
+            "look_verb",
+            "clean_adj"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "there was / there were"
+      ],
+      "grammar_ids": [
+        "description_and_past_place"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_009"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_011",
+      "position": 11,
+      "unit_id": 2,
+      "title_form": "Talking about last weekend",
+      "title_target": "Hablando del fin de semana pasado",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can describe past actions using past simple with regular verbs."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "event",
+            "activity",
+            "invite_verb",
+            "celebrate_verb",
+            "ride_a_bike_phrase"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "do_the_dishes_phrase",
+            "put_away_verb",
+            "turn_off_verb",
+            "turn_on_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "play_verb",
+            "enjoy_verb",
+            "stay_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: regular verbs -ed"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_009"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_012",
+      "position": 12,
+      "unit_id": 2,
+      "title_form": "Telling a short story",
+      "title_target": "Contando una historia corta",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can tell a short story using past simple with irregular verbs."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "childhood",
+            "suddenly_adv",
+            "finally_adv",
+            "hide_verb"
+          ],
+          "chunk_ids": [
+            "chunk_a2_suddenly_i_saw_it"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "cook_dinner_phrase",
+            "serve_verb",
+            "enter_verb",
+            "take_out_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "have_verb",
+            "see_verb",
+            "story",
+            "then_adv",
+            "next_adv",
+            "after_conj",
+            "run_verb",
+            "find_verb",
+            "lose_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: irregular verbs (go, have, see)"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_011"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_013",
+      "position": 13,
+      "unit_id": 2,
+      "title_form": "Saying what didn't happen",
+      "title_target": "Diciendo lo que no pasó",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can describe past actions that did not happen using past simple negative."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "accept_verb",
+            "mention_verb",
+            "anything_pronoun",
+            "nothing_pronoun",
+            "none_pronoun",
+            "something_pronoun"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: negative didn't"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_012"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_014",
+      "position": 14,
+      "unit_id": 2,
+      "title_form": "Asking about the past",
+      "title_target": "Preguntando sobre el pasado",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can ask and answer questions about past events using past simple questions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "tradition",
+            "anybody_pronoun",
+            "somebody_pronoun"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "invite_verb",
+            "celebrate_verb",
+            "serve_verb",
+            "enter_verb",
+            "event"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "ask_verb",
+            "answer_verb",
+            "where_wh",
+            "when_wh",
+            "trip",
+            "holiday",
+            "movie"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: questions with did"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_013"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_015",
+      "position": 15,
+      "unit_id": 2,
+      "title_form": "Telling a longer story",
+      "title_target": "Contando una historia más larga",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can describe a sequence of past events using past simple and time markers."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "already_adv",
+            "afterwards",
+            "disappear_verb",
+            "warn_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "cook_dinner_phrase",
+            "during_prep",
+            "eventually_adv",
+            "as_soon_as_conj"
+          ],
+          "chunk_ids": [
+            "chunk_a2_suddenly_i_saw_it"
+          ]
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "later_adv",
+            "first_ord",
+            "walk_verb",
+            "next_adv",
+            "after_conj",
+            "run_verb",
+            "find_verb",
+            "lose_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: regular verbs -ed",
+        "past simple: irregular verbs (go, have, see)"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_014"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_016",
+      "position": 16,
+      "unit_id": 2,
+      "title_form": "Writing about a past experience",
+      "title_target": "Escribiendo sobre una experiencia pasada",
+      "theme_focus": "daily_routine",
+      "can_do_ids": [
+        "reception_everyday_texts"
+      ],
+      "learning_objectives": [
+        "Can write a short message about a past experience using past simple."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "experience",
+            "appear_verb",
+            "lucky_adj",
+            "unhappy_adj",
+            "scared_adj"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "appointment",
+            "afterwards_adv",
+            "event",
+            "memory",
+            "celebration",
+            "busy"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "try_verb",
+            "learn_verb",
+            "trip",
+            "remember_verb",
+            "forget_verb",
+            "happy_adj",
+            "sad_adj",
+            "story"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: negative didn't",
+        "past simple: questions with did"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_015"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_017",
+      "position": 17,
+      "unit_id": 3,
+      "title_form": "Making plans for the weekend",
+      "title_target": "Haciendo planes para el fin de semana",
+      "theme_focus": "plans",
+      "can_do_ids": [
+        "arrangements_and_plans"
+      ],
+      "learning_objectives": [
+        "Can ask and answer questions about weekend plans using present continuous for future arrangements."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "go_shopping_phrase"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "activity",
+            "project",
+            "option",
+            "arrangement",
+            "intention",
+            "organize_verb",
+            "expect_verb",
+            "decide_verb"
+          ],
+          "chunk_ids": [
+            "chunk_a2_what_are_you_doing_this_weekend"
+          ]
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "weekend",
+            "friend",
+            "time",
+            "movie",
+            "trip",
+            "cinema",
+            "meet_verb",
+            "visit_verb",
+            "stay_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present continuous: future arrangements"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_007",
+        "lesson_008"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_8cc1caf23251f173"
+      ]
+    },
+    {
+      "id": "lesson_018",
+      "position": 18,
+      "unit_id": 3,
+      "title_form": "Inviting a friend to an event",
+      "title_target": "Invitando a un amigo a un evento",
+      "theme_focus": "social",
+      "can_do_ids": [
+        "routine_social_exchange"
+      ],
+      "learning_objectives": [
+        "Can make and respond to invitations for social events."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "invitation",
+            "guest",
+            "wish_verb",
+            "thank_verb",
+            "goodbye_interj",
+            "no_problem_interj",
+            "come_on_verb",
+            "would_modal"
+          ],
+          "chunk_ids": [
+            "chunk_a2_do_you_want_to_come",
+            "chunk_a2_would_you_like"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "event"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "tea",
+            "place"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "would like: offers and invitations"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_017"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_584e7ba785729e36"
+      ]
+    },
+    {
+      "id": "lesson_019",
+      "position": 19,
+      "unit_id": 3,
+      "title_form": "Suggesting activities for free time",
+      "title_target": "Sugiriendo actividades para el tiempo libre",
+      "theme_focus": "hobbies",
+      "can_do_ids": [
+        "routine_social_exchange"
+      ],
+      "learning_objectives": [
+        "Can make suggestions for free time activities using 'How about + -ing?'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "reading",
+            "painting",
+            "sport_verb",
+            "play_sports_phrase",
+            "baseball",
+            "photograph",
+            "concert",
+            "take_a_photo_phrase",
+            "about_prep"
+          ],
+          "chunk_ids": [
+            "chunk_a2_how_about"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "music",
+            "game"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "How about + -ing: suggestions"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_018"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_67c832c3bfad6f00"
+      ]
+    },
+    {
+      "id": "lesson_020",
+      "position": 20,
+      "unit_id": 3,
+      "title_form": "Talking about future plans with 'going to'",
+      "title_target": "Hablando de planes futuros con 'going to'",
+      "theme_focus": "plans",
+      "can_do_ids": [
+        "arrangements_and_plans"
+      ],
+      "learning_objectives": [
+        "Can describe future plans and intentions using 'going to'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "solve_a_problem_phrase",
+            "get_married_phrase",
+            "make_friends_phrase",
+            "email",
+            "send_an_email_phrase",
+            "text_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "play_sports_phrase",
+            "take_a_photo_phrase",
+            "activity",
+            "organize_verb",
+            "make_a_plan_phrase"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "travel_verb",
+            "visit_verb",
+            "start_verb",
+            "buy_verb",
+            "study_verb"
+          ],
+          "chunk_ids": [
+            "chunk_im_going_to"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "going to: affirmative for plans"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_017"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_021",
+      "position": 21,
+      "unit_id": 3,
+      "title_form": "Discussing options and deciding what to do",
+      "title_target": "Discutiendo opciones y decidiendo qué hacer",
+      "theme_focus": "communication",
+      "can_do_ids": [
+        "arrangements_and_plans"
+      ],
+      "learning_objectives": [
+        "Can discuss options and decide what to do next using simple questions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "advice",
+            "advise_verb",
+            "chat",
+            "comment",
+            "find_out_verb",
+            "talk_to_verb",
+            "write_down_verb",
+            "opinion",
+            "prefer_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "decide_verb",
+            "expect_verb",
+            "option",
+            "arrangement",
+            "intention",
+            "organize_verb",
+            "project",
+            "event",
+            "email"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "person",
+            "phone",
+            "message",
+            "idea"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "going to: questions"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_020"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_022",
+      "position": 22,
+      "unit_id": 3,
+      "title_form": "Handling communication problems",
+      "title_target": "Manejando problemas de comunicación",
+      "theme_focus": "communication",
+      "can_do_ids": [
+        "arrangements_and_plans"
+      ],
+      "learning_objectives": [
+        "Can explain a simple communication problem and ask for repetition."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "apology",
+            "complain",
+            "complaint",
+            "hear_verb",
+            "listen_to_verb",
+            "loud_adj",
+            "noise",
+            "pronounce_verb",
+            "shout_verb",
+            "warning"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "expect_verb",
+            "decide_verb",
+            "option",
+            "arrangement",
+            "intention",
+            "organize_verb",
+            "project",
+            "event",
+            "email"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "will: predictions and decisions"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_021"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_023",
+      "position": 23,
+      "unit_id": 3,
+      "title_form": "Exchanging contact information",
+      "title_target": "Intercambiando información de contacto",
+      "theme_focus": "communication",
+      "can_do_ids": [
+        "routine_cooperation"
+      ],
+      "learning_objectives": [
+        "Can ask for and provide contact information in a simple exchange."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "receive_verb",
+            "text_message",
+            "social_media",
+            "website",
+            "internet",
+            "mail",
+            "sure_adv",
+            "actually_adv"
+          ],
+          "chunk_ids": [
+            "chunk_a2_can_i_have_your_email",
+            "chunk_a2_ill_send_you_a_message"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "email"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "send_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "can: requests for information"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_018"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_024",
+      "position": 24,
+      "unit_id": 3,
+      "title_form": "Discussing plans and making decisions together",
+      "title_target": "Discutiendo planes y tomando decisiones juntos",
+      "theme_focus": "communication",
+      "can_do_ids": [
+        "routine_cooperation"
+      ],
+      "learning_objectives": [
+        "Can exchange information and discuss what to do next in a simple cooperative task."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "argument",
+            "community",
+            "conference",
+            "culture",
+            "disagree_verb",
+            "go_on_verb",
+            "meaning",
+            "suggest_verb",
+            "decision",
+            "choice"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "email",
+            "activity"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "will: decisions"
+      ],
+      "grammar_ids": [
+        "plans_and_future"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_022",
+        "lesson_023"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_a51cdbb178c8ad63",
+        "a2_cando_bd929f445dc67b8c"
+      ]
+    },
+    {
+      "id": "lesson_025",
+      "position": 25,
+      "unit_id": 4,
+      "title_form": "Booking a room at a hotel",
+      "title_target": "Reservando una habitación en un hotel",
+      "theme_focus": "travel",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can ask for and provide simple information about room availability and prices at a hotel."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "book_verb",
+            "reservation",
+            "reserve_verb",
+            "reception",
+            "receptionist",
+            "double_room_phrase",
+            "single_room_phrase",
+            "available_adj",
+            "towel"
+          ],
+          "chunk_ids": [
+            "chunk_a2_do_you_have_a_room_available"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "hotel",
+            "key",
+            "ticket",
+            "bag"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "would like: polite requests"
+      ],
+      "grammar_ids": [
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_024",
+        "lesson_016"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_026",
+      "position": 26,
+      "unit_id": 4,
+      "title_form": "Checking in and out of a hotel",
+      "title_target": "Registrándose y saliendo del hotel",
+      "theme_focus": "travel",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can check in and check out of a hotel using simple phrases and questions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "check_in_verb",
+            "check_out_verb",
+            "key_card_phrase",
+            "air_conditioning",
+            "lift",
+            "luggage"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "reception",
+            "receptionist",
+            "reservation"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "bathroom",
+            "shower",
+            "bill"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "could: polite requests"
+      ],
+      "grammar_ids": [
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_025"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_027",
+      "position": 27,
+      "unit_id": 4,
+      "title_form": "Asking about hotel facilities",
+      "title_target": "Preguntando por las instalaciones del hotel",
+      "theme_focus": "travel",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can ask and answer simple questions about hotel facilities and services."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "hostel",
+            "wifi",
+            "password",
+            "service",
+            "pool"
+          ],
+          "chunk_ids": [
+            "chunk_a2_whats_the_wifi_password"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "furniture",
+            "towel",
+            "air_conditioning",
+            "lift",
+            "check_in_verb",
+            "reception",
+            "receptionist",
+            "key_card_phrase",
+            "check_out_verb",
+            "available_adj"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "floor",
+            "need_verb",
+            "use_verb",
+            "room",
+            "bathroom",
+            "gym",
+            "restaurant",
+            "key",
+            "ask_verb",
+            "fast_adj"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: questions with do/does (review)"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_025"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_028",
+      "position": 28,
+      "unit_id": 4,
+      "title_form": "Getting to the airport",
+      "title_target": "Llegando al aeropuerto",
+      "theme_focus": "transport",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can ask for and understand simple directions to the airport and other places."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "airport",
+            "transport",
+            "vehicle",
+            "direction",
+            "exit",
+            "corner",
+            "straight_adv",
+            "plane"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "go_on_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "turn_verb",
+            "left",
+            "right",
+            "train",
+            "bus"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "imperatives: directions"
+      ],
+      "grammar_ids": [
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_025"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_ede3c659a69f011a"
+      ]
+    },
+    {
+      "id": "lesson_029",
+      "position": 29,
+      "unit_id": 4,
+      "title_form": "At the airport: check-in and security",
+      "title_target": "En el aeropuerto: facturación y seguridad",
+      "theme_focus": "travel",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can handle check-in and security procedures at the airport using simple phrases."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "boarding_pass",
+            "passport",
+            "suitcase",
+            "customs",
+            "immigration",
+            "passenger",
+            "flight",
+            "arrival",
+            "departure"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "airport",
+            "check_in_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "imperatives: directions"
+      ],
+      "grammar_ids": [
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_028"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_b5a6bdc329051155"
+      ]
+    },
+    {
+      "id": "lesson_030",
+      "position": 30,
+      "unit_id": 4,
+      "title_form": "Flight delays and cancellations",
+      "title_target": "Demoras y cancelaciones de vuelos",
+      "theme_focus": "travel",
+      "can_do_ids": [
+        "reception_everyday_texts"
+      ],
+      "learning_objectives": [
+        "Can understand and communicate simple information about flight delays and cancellations."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "delay",
+            "delayed_adj",
+            "cancellation",
+            "cancelled_adj",
+            "on_time_phrase",
+            "take_off_verb",
+            "catch_verb",
+            "arrive_verb"
+          ],
+          "chunk_ids": [
+            "chunk_a2_my_flight_is_delayed"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "flight",
+            "airport",
+            "passenger",
+            "passport"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: questions with did (review)"
+      ],
+      "grammar_ids": [
+        "past_simple"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_029"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_031",
+      "position": 31,
+      "unit_id": 4,
+      "title_form": "Finding your way around the airport",
+      "title_target": "Encontrando el camino en el aeropuerto",
+      "theme_focus": "transport",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can ask for and understand simple information about gates, platforms and routes."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "platform",
+            "route",
+            "tour",
+            "guide",
+            "get_lost_phrase",
+            "get_on_verb",
+            "get_off_verb",
+            "get_in_verb",
+            "gate"
+          ],
+          "chunk_ids": [
+            "chunk_a2_where_is_the_gate"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "airport",
+            "flight",
+            "plane"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "imperatives: directions"
+      ],
+      "grammar_ids": [
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_028"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_032",
+      "position": 32,
+      "unit_id": 4,
+      "title_form": "Describing places and landscapes",
+      "title_target": "Describiendo lugares y paisajes",
+      "theme_focus": "places",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can describe simple geographical features and places using basic adjectives and phrases."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "coast",
+            "lake",
+            "desert",
+            "ocean",
+            "forest",
+            "east_adj",
+            "deep_adj",
+            "dry_adj"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "mountain",
+            "river",
+            "city",
+            "street",
+            "map"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "there was / there were"
+      ],
+      "grammar_ids": [
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_028"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_033",
+      "position": 33,
+      "unit_id": 5,
+      "title_form": "Looking for a product in a store",
+      "title_target": "Buscando un producto en una tienda",
+      "theme_focus": "shopping",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can ask for a product in a store using 'I'm looking for...'.",
+        "Can identify the location of a product in a store."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "look_for_verb",
+            "store",
+            "department_store",
+            "salesperson",
+            "pick_up_verb",
+            "product",
+            "pair",
+            "quarter"
+          ],
+          "chunk_ids": [
+            "chunk_a2_phrasal_look_for"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "price"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present continuous: affirmative for current actions (review)"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_032"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_2bc09293efd4ae8e"
+      ]
+    },
+    {
+      "id": "lesson_034",
+      "position": 34,
+      "unit_id": 5,
+      "title_form": "Asking about prices",
+      "title_target": "Preguntando por los precios",
+      "theme_focus": "shopping",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can ask the price of an item using 'How much does it cost?'.",
+        "Can state the price of an item using 'It costs...'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "affordable_adj",
+            "spend_verb",
+            "cash",
+            "item"
+          ],
+          "chunk_ids": [
+            "chunk_a2_how_much_does_cost"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "store",
+            "product"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "cost_verb",
+            "expensive_adj",
+            "price"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: questions with do/does (review)"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_033"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_035",
+      "position": 35,
+      "unit_id": 5,
+      "title_form": "Trying on clothes",
+      "title_target": "Probándose ropa",
+      "theme_focus": "clothing",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can ask to try on clothes in a store.",
+        "Can describe how clothes fit using 'too big', 'too small' and 'just right'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "try_on_verb",
+            "fit_verb",
+            "too_big_phrase",
+            "too_small_phrase",
+            "just_right_phrase"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "store",
+            "pocket",
+            "button",
+            "shoes"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "shirt",
+            "shop"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "can: requests for information (review)"
+      ],
+      "grammar_ids": [
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_033"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_036",
+      "position": 36,
+      "unit_id": 5,
+      "title_form": "Comparing products",
+      "title_target": "Comparing products and everyday things",
+      "theme_focus": "shopping",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can use short comparative adjectives to describe products."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "comfortable_adj",
+            "low_adj",
+            "wide_adj",
+            "soft_adj",
+            "plastic_adj",
+            "heavy_adj",
+            "than_conj"
+          ],
+          "chunk_ids": [
+            "chunk_a2_she_is_taller_than"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "store",
+            "product"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "tall_adj",
+            "sister"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "comparative: -er than"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_034"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_037",
+      "position": 37,
+      "unit_id": 5,
+      "title_form": "Choosing the best option",
+      "title_target": "Eligiendo la mejor opción",
+      "theme_focus": "shopping",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can identify the best option among several products using superlative adjectives with 'the -est'.",
+        "Can express that something is the best using 'the best of all'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "sale",
+            "biggest_adj",
+            "smallest_adj",
+            "fastest_adj",
+            "oldest_adj",
+            "shortest_adj",
+            "slowest_adj",
+            "size",
+            "model"
+          ],
+          "chunk_ids": [
+            "chunk_a2_the_best_of_all"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "affordable_adj",
+            "store",
+            "department_store",
+            "product"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "best_adj",
+            "price",
+            "colour",
+            "choose_verb",
+            "expensive_adj"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "superlative: the -est"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_036"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_038",
+      "position": 38,
+      "unit_id": 5,
+      "title_form": "Paying at the checkout",
+      "title_target": "Pagando en la caja",
+      "theme_focus": "transactions",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can ask about payment methods at the checkout.",
+        "Can state a preference for paying with cash or card."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "checkout",
+            "till",
+            "credit_card",
+            "debit_card",
+            "credit",
+            "queue",
+            "tip"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "cash",
+            "spend_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "card"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "would like: polite requests (review)"
+      ],
+      "grammar_ids": [
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_034"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_039",
+      "position": 39,
+      "unit_id": 5,
+      "title_form": "Asking for a discount",
+      "title_target": "Pidiendo un descuento",
+      "theme_focus": "transactions",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can ask if there is a discount on an item.",
+        "Can ask for a refund politely."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "discount",
+            "refund",
+            "exchange_verb",
+            "give_back_verb",
+            "receipt",
+            "request"
+          ],
+          "chunk_ids": [
+            "chunk_a2_is_there_a_discount",
+            "chunk_a2_can_i_have_a_refund"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "sale",
+            "cash",
+            "credit_card",
+            "debit_card",
+            "credit",
+            "queue",
+            "salesperson",
+            "till",
+            "checkout",
+            "spend_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "shop",
+            "buy_verb",
+            "price",
+            "return_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "there is / there are: questions (review)"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_038"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_040",
+      "position": 40,
+      "unit_id": 5,
+      "title_form": "Handling a problem with a purchase",
+      "title_target": "Manejando un problema con una compra",
+      "theme_focus": "transactions",
+      "can_do_ids": [
+        "routine_cooperation",
+        "short_writing_and_mediation"
+      ],
+      "learning_objectives": [
+        "Can explain a problem with a purchase in simple terms.",
+        "Can write a short message to request a refund or exchange."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "cheap",
+            "offer"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "refund",
+            "checkout",
+            "till",
+            "cash",
+            "affordable_adj",
+            "item",
+            "size",
+            "exchange_verb",
+            "give_back_verb",
+            "receipt",
+            "complaint"
+          ],
+          "chunk_ids": [
+            "chunk_a2_can_i_have_a_refund"
+          ]
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "customer",
+            "return_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "past simple: regular verbs -ed (review)"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_039"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_0c63d874dd37845c",
+        "a2_cando_c309dc7f495ec5ec",
+        "a2_cando_e18db65d25e45d64"
+      ]
+    },
+    {
+      "id": "lesson_041",
+      "position": 41,
+      "unit_id": 6,
+      "title_form": "Talking about body parts",
+      "title_target": "Hablando de las partes del cuerpo",
+      "theme_focus": "body",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can name and point to basic body parts."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "ear",
+            "nose",
+            "mouth",
+            "arm",
+            "leg",
+            "stomach",
+            "finger",
+            "neck",
+            "shoulder",
+            "knee",
+            "throat",
+            "skin"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "head",
+            "hand",
+            "doctor",
+            "hospital"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_040"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_9d082270d66bd882"
+      ]
+    },
+    {
+      "id": "lesson_042",
+      "position": 42,
+      "unit_id": 6,
+      "title_form": "Describing how you feel",
+      "title_target": "Describiendo cómo te sientes",
+      "theme_focus": "health",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can describe common physical symptoms and feelings using basic vocabulary."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "headache",
+            "fever",
+            "flu",
+            "cough",
+            "sore_throat",
+            "pain",
+            "feel_sick_phrase",
+            "feel_tired_phrase",
+            "ill_adj",
+            "temperature"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "ear",
+            "nose",
+            "mouth",
+            "arm",
+            "leg",
+            "stomach",
+            "finger",
+            "neck",
+            "shoulder",
+            "knee",
+            "throat",
+            "skin"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative with feel/have"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_041",
+        "lesson_040"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_043",
+      "position": 43,
+      "unit_id": 6,
+      "title_form": "Giving advice with should",
+      "title_target": "Dando consejos con should",
+      "theme_focus": "health",
+      "can_do_ids": [
+        "routine_social_exchange"
+      ],
+      "learning_objectives": [
+        "Can give simple advice about health problems using 'should'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "rest_verb",
+            "recover_verb",
+            "healthy_adj",
+            "health",
+            "illness",
+            "medical_adj",
+            "emergency",
+            "ambulance",
+            "should_modal"
+          ],
+          "chunk_ids": [
+            "chunk_a2_should_see_doctor"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "headache",
+            "fever",
+            "flu",
+            "cough",
+            "sore_throat",
+            "pain",
+            "feel_sick_phrase",
+            "feel_tired_phrase",
+            "ill_adj",
+            "temperature"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "should: advice"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_041"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_044",
+      "position": 44,
+      "unit_id": 6,
+      "title_form": "Asking for medicine at the pharmacy",
+      "title_target": "Pidiendo medicina en la farmacia",
+      "theme_focus": "health",
+      "can_do_ids": [
+        "transactions_and_services"
+      ],
+      "learning_objectives": [
+        "Can ask for medicine and describe symptoms at a pharmacy."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "pharmacy",
+            "pill",
+            "patient",
+            "allergic_adj",
+            "side_effect",
+            "blood_pressure",
+            "x_ray_noun",
+            "doctor_2",
+            "how_often",
+            "medicine"
+          ],
+          "chunk_ids": [
+            "chunk_a2_i_need_some_medicine",
+            "chunk_a2_side_effects",
+            "chunk_a2_im_allergic_to",
+            "chunk_a2_how_often_should_i_take"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "headache",
+            "fever",
+            "flu",
+            "cough",
+            "sore_throat",
+            "pain",
+            "feel_sick_phrase",
+            "feel_tired_phrase",
+            "ill_adj",
+            "temperature"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "take_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "need to: necessity"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation",
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_041",
+        "lesson_043"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_045",
+      "position": 45,
+      "unit_id": 6,
+      "title_form": "Expressing obligation with have to",
+      "title_target": "Expresando obligación con have to",
+      "theme_focus": "health",
+      "can_do_ids": [
+        "routine_social_exchange"
+      ],
+      "learning_objectives": [
+        "Can express obligation related to health routines using 'have to'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "exercise_verb",
+            "do_exercise_phrase",
+            "take_a_shower_phrase",
+            "weight",
+            "asleep_adj",
+            "serious_adj",
+            "condition",
+            "necessary_adj"
+          ],
+          "chunk_ids": [
+            "chunk_a2_have_to_take_medicine"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "rest_verb",
+            "recover_verb",
+            "healthy_adj",
+            "health",
+            "illness",
+            "medical_adj",
+            "emergency",
+            "ambulance",
+            "pain",
+            "medicine",
+            "pill",
+            "doctor_2",
+            "patient",
+            "temperature"
+          ],
+          "chunk_ids": [
+            "chunk_a2_have_to_work",
+            "chunk_a2_i_need_some_medicine"
+          ]
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "have to: obligation"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_043"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_72b6086ae816463f"
+      ]
+    },
+    {
+      "id": "lesson_046",
+      "position": 46,
+      "unit_id": 6,
+      "title_form": "Health rules with mustn't",
+      "title_target": "Reglas de salud con mustn't",
+      "theme_focus": "health",
+      "can_do_ids": [
+        "routine_social_exchange"
+      ],
+      "learning_objectives": [
+        "Can express simple health rules and prohibitions using 'mustn't'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "heart",
+            "smoke",
+            "risk",
+            "blood"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "exercise_verb",
+            "do_exercise_phrase",
+            "take_a_shower_phrase",
+            "weight",
+            "asleep_adj",
+            "pain",
+            "healthy_adj",
+            "medical_adj",
+            "medicine"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "drink_verb",
+            "eat_verb",
+            "sugar",
+            "salt",
+            "sleep_verb",
+            "dangerous_adj",
+            "hurt_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "mustn't: prohibition"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_045"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_047",
+      "position": 47,
+      "unit_id": 6,
+      "title_form": "Making polite requests with could and may",
+      "title_target": "Haciendo peticiones corteses con could y may",
+      "theme_focus": "health",
+      "can_do_ids": [
+        "routine_social_exchange"
+      ],
+      "learning_objectives": [
+        "Can make polite requests for help or permission in health situations."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "backache",
+            "toothache",
+            "earache",
+            "could_modal",
+            "me_pronoun",
+            "may_modal"
+          ],
+          "chunk_ids": [
+            "chunk_a2_could_you_help_me",
+            "chunk_a2_may_i_open"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "pharmacy",
+            "pill",
+            "patient",
+            "allergic_adj",
+            "side_effect",
+            "blood_pressure",
+            "x_ray_noun",
+            "doctor_2",
+            "pain"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "help_verb_2",
+            "open_verb",
+            "window"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "could: polite requests",
+        "may: permission"
+      ],
+      "grammar_ids": [
+        "polite_requests"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_044"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_048",
+      "position": 48,
+      "unit_id": 6,
+      "title_form": "Describing a health problem in detail",
+      "title_target": "Describiendo un problema de salud en detalle",
+      "theme_focus": "health",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can describe a health problem and give a few relevant details."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "allergy",
+            "symptom",
+            "weakness",
+            "accident",
+            "weak_adj"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "headache",
+            "fever",
+            "rest_verb",
+            "heart",
+            "pain",
+            "serious_adj",
+            "condition",
+            "allergic_adj",
+            "side_effect",
+            "blood_pressure",
+            "x_ray_noun",
+            "sore_throat",
+            "skin",
+            "blood",
+            "cough"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "bad_adj",
+            "tired_adj",
+            "very_adv",
+            "really_adv",
+            "hurt_verb",
+            "body",
+            "face",
+            "eye"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "should: advice (review)",
+        "have to: obligation (review)"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_041",
+        "lesson_043",
+        "lesson_044",
+        "lesson_045",
+        "lesson_046",
+        "lesson_047"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_049",
+      "position": 49,
+      "unit_id": 7,
+      "title_form": "Talking about your job",
+      "title_target": "Hablando de tu trabajo",
+      "theme_focus": "work",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can describe their job and workplace using simple sentences.",
+        "Can name common job titles and work-related objects."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "job",
+            "company",
+            "manager",
+            "employee",
+            "engineer",
+            "driver",
+            "lawyer",
+            "secretary",
+            "boss_verb",
+            "team"
+          ],
+          "chunk_ids": [
+            "chunk_a2_i_have_a_meeting"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "office",
+            "computer"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative with be and have"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_048"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_b9cc610a39f7911b"
+      ]
+    },
+    {
+      "id": "lesson_050",
+      "position": 50,
+      "unit_id": 7,
+      "title_form": "Describing your work schedule",
+      "title_target": "Describiendo tu horario de trabajo",
+      "theme_focus": "work",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can describe their work schedule using time expressions.",
+        "Can state their working hours and days off."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "part_time",
+            "day_off",
+            "salary",
+            "business",
+            "off",
+            "shift",
+            "skill",
+            "permit"
+          ],
+          "chunk_ids": [
+            "chunk_a2_i_work_part_time",
+            "chunk_a2_im_off_today"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "job",
+            "company",
+            "boss_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative with work"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_049"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_051",
+      "position": 51,
+      "unit_id": 7,
+      "title_form": "Talking about your studies",
+      "title_target": "Hablando de tus estudios",
+      "theme_focus": "school",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can describe their current studies and educational background.",
+        "Can name school subjects and academic levels."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "college",
+            "high_school",
+            "secondary_school",
+            "degree",
+            "math",
+            "grade",
+            "score",
+            "research",
+            "history",
+            "art",
+            "look_up_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "school",
+            "class",
+            "book",
+            "exam",
+            "teacher",
+            "student",
+            "study_verb",
+            "learn_verb",
+            "read_verb",
+            "write_verb",
+            "homework",
+            "finish_verb",
+            "lesson",
+            "pen"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative with study"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_049"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_052",
+      "position": 52,
+      "unit_id": 7,
+      "title_form": "Describing your skills and qualifications",
+      "title_target": "Describiendo tus habilidades y cualificaciones",
+      "theme_focus": "work",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can describe their skills and qualifications using simple sentences.",
+        "Can state their work experience and abilities."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "skills",
+            "qualifications",
+            "helpful_adj",
+            "creative_adj",
+            "practice",
+            "expert",
+            "success"
+          ],
+          "chunk_ids": [
+            "chunk_a2_i_have_experience_in"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "organize_verb",
+            "write_down_verb",
+            "job",
+            "company",
+            "boss_verb",
+            "skill",
+            "experience",
+            "manager",
+            "team",
+            "business",
+            "project",
+            "day_off"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "speak_verb",
+            "use_verb",
+            "write_verb",
+            "study_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative with have"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_050",
+        "lesson_051"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a2_cando_f9b76ce5a46ccd97"
+      ]
+    },
+    {
+      "id": "lesson_053",
+      "position": 53,
+      "unit_id": 7,
+      "title_form": "Discussing job requirements",
+      "title_target": "Discutiendo los requisitos del trabajo",
+      "theme_focus": "work",
+      "can_do_ids": [
+        "routine_cooperation"
+      ],
+      "learning_objectives": [
+        "Can discuss job requirements and obligations using 'have to'.",
+        "Can ask and answer questions about what is necessary for a job."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "interview",
+            "colleague",
+            "employer",
+            "contract",
+            "required_adj",
+            "responsibility"
+          ],
+          "chunk_ids": [
+            "chunk_a2_im_looking_for_a_job"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "job",
+            "company",
+            "part_time",
+            "salary",
+            "skill",
+            "experience",
+            "qualifications",
+            "employee",
+            "boss_verb",
+            "look_up_verb",
+            "necessary_adj"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "have_verb",
+            "need_verb",
+            "work_verb"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "have to: obligation (review)"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_052"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_054",
+      "position": 54,
+      "unit_id": 7,
+      "title_form": "Comparing jobs and studies",
+      "title_target": "Comparando trabajos y estudios",
+      "theme_focus": "work",
+      "can_do_ids": [
+        "information_exchange"
+      ],
+      "learning_objectives": [
+        "Can use comparatives to describe different jobs and study options.",
+        "Can express preferences between two options."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "compare_verb",
+            "similar_adj",
+            "difference",
+            "position",
+            "program",
+            "professor",
+            "difficult",
+            "worse_adj"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "job",
+            "degree",
+            "skill",
+            "qualifications",
+            "experience",
+            "company",
+            "boss_verb",
+            "salary",
+            "important_adj",
+            "necessary_adj",
+            "comfortable_adj"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "course",
+            "subject",
+            "interesting_adj",
+            "useful_adj",
+            "teacher",
+            "student",
+            "class",
+            "office",
+            "hard_adj",
+            "best_adj"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "comparative: more + adjective"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_053"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_055",
+      "position": 55,
+      "unit_id": 7,
+      "title_form": "Choosing the best option",
+      "title_target": "Eligiendo la mejor opción",
+      "theme_focus": "work",
+      "can_do_ids": [
+        "routine_cooperation"
+      ],
+      "learning_objectives": [
+        "Can express the best option among several using superlatives.",
+        "Can give a simple reason for a choice."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "excellent_adj",
+            "top_adj",
+            "worst_adj"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "job",
+            "degree",
+            "salary",
+            "skill",
+            "qualifications",
+            "company",
+            "boss_verb",
+            "decision",
+            "safe_adj",
+            "possible_adj"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "reason",
+            "best_adj"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "superlative: the most + adjective"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_054"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_056",
+      "position": 56,
+      "unit_id": 7,
+      "title_form": "Writing a short message about work",
+      "title_target": "Escribiendo un mensaje corto sobre el trabajo",
+      "theme_focus": "work",
+      "can_do_ids": [
+        "short_writing_and_mediation"
+      ],
+      "learning_objectives": [
+        "Can write a short message describing their job or studies.",
+        "Can use connectors like 'and', 'but', 'because' to link ideas."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "file",
+            "email_verb",
+            "reply",
+            "response"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "job",
+            "company",
+            "skills",
+            "degree",
+            "experience",
+            "boss_verb",
+            "send_an_email_phrase",
+            "text_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "write_verb",
+            "send_verb",
+            "tell_verb",
+            "explain_verb",
+            "message"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative with be and have"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_055"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_057",
+      "position": 57,
+      "unit_id": 8,
+      "title_form": "Talking about the environment",
+      "title_target": "Hablando del medio ambiente",
+      "theme_focus": "environment",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can describe the environment and name common environmental problems."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "environment",
+            "rubbish",
+            "pollution",
+            "climate_change",
+            "recycling",
+            "recycle_verb",
+            "protect_verb",
+            "waste"
+          ],
+          "chunk_ids": [
+            "chunk_a2_its_important_to_recycle"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "important_adj",
+            "plastic_adj"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "tree",
+            "animal",
+            "air",
+            "paper"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative with be and have"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "environment_and_technology"
+      ],
+      "prerequisites": [
+        "lesson_056"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_058",
+      "position": 58,
+      "unit_id": 8,
+      "title_form": "Describing what we can do to help",
+      "title_target": "Describiendo qué podemos hacer para ayudar",
+      "theme_focus": "environment",
+      "can_do_ids": [
+        "routine_cooperation"
+      ],
+      "learning_objectives": [
+        "Can discuss simple actions to help the environment."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "reuse_verb",
+            "throw_away_verb",
+            "save_verb",
+            "energy",
+            "solar_adj",
+            "reduce_verb"
+          ],
+          "chunk_ids": [
+            "chunk_a2_we_need_to_save_energy",
+            "chunk_a2_what_can_we_do_to_help"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "environment",
+            "recycling",
+            "pollution",
+            "plastic_adj"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "water",
+            "tree"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "can: ability and possibility"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "environment_and_technology"
+      ],
+      "prerequisites": [
+        "lesson_057"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_059",
+      "position": 59,
+      "unit_id": 8,
+      "title_form": "Expressing obligation to protect nature",
+      "title_target": "Expresando obligación de proteger la naturaleza",
+      "theme_focus": "nature",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can express obligation to protect nature using 'must'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "endangered_adj",
+            "species",
+            "switch_off_verb",
+            "must"
+          ],
+          "chunk_ids": [
+            "chunk_a2_we_must_protect_the_environment"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "protect_verb",
+            "environment",
+            "save_verb",
+            "forest",
+            "ocean"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "tree",
+            "river",
+            "mountain",
+            "animal"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "must: obligation"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "environment_and_technology"
+      ],
+      "prerequisites": [
+        "lesson_057",
+        "lesson_058"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_060",
+      "position": 60,
+      "unit_id": 8,
+      "title_form": "Giving advice about recycling",
+      "title_target": "Dando consejos sobre el reciclaje",
+      "theme_focus": "environment",
+      "can_do_ids": [
+        "reception_everyday_texts"
+      ],
+      "learning_objectives": [
+        "Can give simple advice about recycling using 'should'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "cardboard",
+            "bin"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "recycling",
+            "reuse_verb",
+            "throw_away_verb",
+            "rubbish",
+            "plastic_adj",
+            "switch_off_verb"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "glass",
+            "metal",
+            "paper",
+            "bottle"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "should: advice (review)"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "environment_and_technology"
+      ],
+      "prerequisites": [
+        "lesson_057",
+        "lesson_058"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_061",
+      "position": 61,
+      "unit_id": 8,
+      "title_form": "Talking about everyday technology",
+      "title_target": "Hablando de la tecnología cotidiana",
+      "theme_focus": "technology",
+      "can_do_ids": [
+        "routine_cooperation"
+      ],
+      "learning_objectives": [
+        "Can name common everyday technology and describe its use."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "smartphone",
+            "app",
+            "battery",
+            "link"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "internet",
+            "password"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative with have"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "environment_and_technology"
+      ],
+      "prerequisites": [],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_062",
+      "position": 62,
+      "unit_id": 8,
+      "title_form": "Asking for help with technology",
+      "title_target": "Pidiendo ayuda con la tecnología",
+      "theme_focus": "technology",
+      "can_do_ids": [
+        "routine_cooperation"
+      ],
+      "learning_objectives": [
+        "Can ask for help with everyday technology using 'how' questions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "download_verb",
+            "upload_verb",
+            "username",
+            "log_in_verb"
+          ],
+          "chunk_ids": [
+            "chunk_a2_how_do_i_download"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "app",
+            "smartphone",
+            "wifi",
+            "internet",
+            "password"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: questions with do/does"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "environment_and_technology"
+      ],
+      "prerequisites": [
+        "lesson_061"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_063",
+      "position": 63,
+      "unit_id": 8,
+      "title_form": "Comparing technology and nature",
+      "title_target": "Comparando tecnología y naturaleza",
+      "theme_focus": "technology",
+      "can_do_ids": [
+        "describe_experience"
+      ],
+      "learning_objectives": [
+        "Can use quantifiers to describe technology and nature."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "nature",
+            "plant",
+            "grass",
+            "online_adj",
+            "web",
+            "screen_verb",
+            "network",
+            "site",
+            "code",
+            "laptop"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "smartphone",
+            "app",
+            "environment",
+            "species",
+            "energy",
+            "forest",
+            "ocean"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "camera",
+            "fire",
+            "metal",
+            "computer",
+            "use_verb",
+            "tree",
+            "river",
+            "mountain",
+            "animal"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "quantifiers: much/many/a lot of"
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "environment_and_technology"
+      ],
+      "prerequisites": [
+        "lesson_057",
+        "lesson_061"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_064",
+      "position": 64,
+      "unit_id": 8,
+      "title_form": "Writing a short message about the environment",
+      "title_target": "Escribiendo un mensaje corto sobre el medio ambiente",
+      "theme_focus": "environment",
+      "can_do_ids": [
+        "reception_everyday_texts"
+      ],
+      "learning_objectives": [
+        "Can write a short message about the environment using simple sentences."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "climate",
+            "earth",
+            "action",
+            "solution"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "environment",
+            "rubbish",
+            "recycling",
+            "pollution",
+            "climate_change",
+            "save_verb",
+            "energy",
+            "plastic_adj",
+            "cardboard",
+            "solar_adj"
+          ],
+          "chunk_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": [
+            "metal",
+            "paper"
+          ],
+          "chunk_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative with be and have"
+      ],
+      "grammar_ids": [
+        "advice_and_obligation"
+      ],
+      "functional_domain_ids": [
+        "environment_and_technology"
+      ],
+      "prerequisites": [
+        "lesson_057",
+        "lesson_058",
+        "lesson_059",
+        "lesson_060"
+      ],
+      "estimated_minutes": 30
+    }
+  ],
+  "metadata": {
+    "mode": "staged",
+    "staged_blueprint_sha256": "86590d6b7a9773382bd8f14906f39f14b4a35549848763346d37190c1a3a286d",
+    "staged_artifact_dir": ".staging\\en.A2-luna-v15\\staged",
+    "generated_at": "2026-08-24T23:34:48.468925+00:00",
+    "generated_by": "manual-reasoning/gpt-5.6-luna-high-assisted-context-bridge",
+    "input_hashes": {
+      "lexemes": "b4e0d1c27b44718da81c20edea8d8350a4f4f2afaf00846a45d302c3ab5929f7",
+      "chunks": "91a41b7f93108fc0ac9fb0c7e05162db1d5a7d08ce287ea3fd70a5da1fcd7d7b",
+      "contract": "da38f4aa09edaa50ac30248336d5f59255f25b2e0323c51089a9ca946dbad4d9",
+      "profile": "4546eaed726821044f66db6096c5e6afe6a568f00db62228ad7085b2c332f070",
+      "spec": "19996cc95560769d184b6d97319d828ba9724222eb2fcbd3206bfa89a24cfbb1"
+    },
+    "notes": "Manual A2 candidate reviewed against CEFR_A2_v2.md and the en.A2 contract. Derived from Luna v10 with conservative repair of forward complementary references and chunk lemma introduction. A2 cart items are NEW; A1 items are complementary only when previously introduced or explicit bridge_vocabulary when the prerequisite course did not guarantee instruction. High-severity coherence pass reconstructed from v14 using verified cart IDs.",
+    "selective_new_expansion": {
+      "source_candidate": ".staging\\en.A2-luna-v21\\roadmap.candidate.json",
+      "added_count": 44,
+      "purpose": "Raise A2 NEW inventory to contractual minimum using unused cart lexemes."
+    },
+    "lesson_054_context_revision": {
+      "removed_new": [
+        "present_adj",
+        "remove_verb",
+        "count_verb",
+        "review"
+      ],
+      "added_new": [
+        "position",
+        "program",
+        "professor",
+        "client"
+      ],
+      "added_bridge": [
+        "course",
+        "subject",
+        "interesting_adj",
+        "useful_adj"
+      ]
+    },
+    "approved_at": "2026-08-29T03:45:49Z",
+    "approval_mode": "human_explicit_v40_override",
+    "approval_source": "C:\\IA\\IACodeProjects\\idiomas\\roadmap-generator\\.staging\\en.A2-luna-v40\\roadmap.candidate.json",
+    "approval_note": "Approved explicitly by Fabian as the curated A2 v40 snapshot. The current profile semantic-quality floor was introduced after v40 and is documented as an override; lessons and units were not changed.",
+    "fingerprints": {
+      "roadmap": "714c826d1d42276e1fcfd49f1d13b7e17b3f3010f44a0fa22a50723fce072e20",
+      "contract": "d4109ce40d84959f873a95bef66199b9f98e074e4e7d2eecbce7e2455b62626e",
+      "profile": "7f2914ff009234c4b3efac0043acdb3ef55a01c1657408b58a75a848684c0774",
+      "spec": "19996cc95560769d184b6d97319d828ba9724222eb2fcbd3206bfa89a24cfbb1",
+      "lexemes": "ec6262216b38ee740a690a8df31961a4a5814c35639d1963ed1f54d0b39236e8",
+      "chunks": "dc63c8a7af7a40337373b501c6a4dcf2f3cb569f811e05948c24893e9a5abd1d"
+    }
+  }
+}

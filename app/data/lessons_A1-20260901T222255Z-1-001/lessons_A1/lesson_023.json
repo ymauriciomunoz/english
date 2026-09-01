@@ -1,0 +1,1542 @@
+{
+  "id": "lesson_023",
+  "position": 23,
+  "unit_id": 4,
+  "course_id": "en.A1",
+  "title_form": "Precios y dinero",
+  "title_target": "Asking About Prices",
+  "theme_focus": "Preguntar y decir precios, manejo de dinero.",
+  "learning_objectives": [
+    "Can ask how much something costs.",
+    "Can state the price of an item."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_004",
+    "lesson_022"
+  ],
+  "grammar_focus": [
+    "wh-questions: how much with be"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "how_much_wh",
+        "cost_verb",
+        "pay_verb",
+        "buy_verb",
+        "sell_verb",
+        "price",
+        "expensive_adj",
+        "dollar",
+        "cash",
+        "change_noun",
+        "receipt"
+      ],
+      "chunk_ids": [
+        "chunk_how_much_is_it",
+        "chunk_do_you_have"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "one_num",
+        "two_num",
+        "three_num",
+        "four_num",
+        "five_num",
+        "six_num",
+        "seven_num",
+        "eight_num",
+        "nine_num",
+        "ten_num"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana va a un mercado local. Quiere comprar una camisa y pregunta el precio. El vendedor le dice que cuesta diez dólares. Ana paga en efectivo, recibe su cambio y el recibo, y se va contenta.",
+  "introduction_md": "En esta lección vas a aprender a preguntar cuánto cuestan las cosas y a decir su precio. Esto es muy útil cuando vas de compras, a un mercado o a una tienda.\n\nVas a practicar:\n\n- **Preguntar el precio**: *How much is it?*\n- **Decir cuánto cuesta**: *It is five dollars.*\n- **Palabras útiles**: *price*, *cash*, *change*, *receipt*.\n\nCon estas frases podrás comprar y vender con confianza. ¡Vamos a empezar!",
+  "intro_target": "In this lesson, you will learn to ask how much things cost and to say their price. This is very useful when you go shopping, to a market, or to a store.\n\nYou will practice:\n\n- **Asking the price**: *How much is it?*\n- **Saying how much it costs**: *It is five dollars.*\n- **Useful words**: *price*, *cash*, *change*, *receipt*.\n\nWith these phrases, you can buy and sell with confidence. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "how_much_wh",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "How much is the coffee?",
+      "translation_form": "¿Cuánto cuesta el café?",
+      "highlight_words": [
+        "how much"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The bread costs two dollars.",
+      "translation_form": "El pan cuesta dos dólares.",
+      "highlight_words": [
+        "cost",
+        "dollar"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "pay_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I pay with cash.",
+      "translation_form": "Pago con efectivo.",
+      "highlight_words": [
+        "pay",
+        "cash"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "buy_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We buy a ticket at the station.",
+      "translation_form": "Compramos un boleto en la estación.",
+      "highlight_words": [
+        "buy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "price",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The price is ten dollars.",
+      "translation_form": "El precio es diez dólares.",
+      "highlight_words": [
+        "price",
+        "dollar"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The taxi is expensive.",
+      "translation_form": "El taxi es caro.",
+      "highlight_words": [
+        "expensive"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "wh-questions: how much with be",
+      "title_form": "Preguntas con How much y el verbo to be",
+      "title_target": "Questions with How much and the verb to be",
+      "description_md_form": "Para preguntar por un **precio**, usamos **How much** + el verbo **to be** + el sujeto. Es la forma más común y natural para preguntar cuánto cuesta algo.\n\n- **How much is** the coffee? = ¿Cuánto cuesta el café?\n- **How much are** the tickets? = ¿Cuánto cuestan los boletos?\n\nUsamos **is** con un solo objeto (singular) y **are** con varios objetos (plural). La respuesta típica es con el verbo **to be** también: *It is five dollars.*",
+      "description_md_target": "To ask about a **price**, we use **How much** + the verb **to be** + the subject. It is the most common and natural way to ask how much something costs.\n\n- **How much is** the coffee?\n- **How much are** the tickets?\n\nWe use **is** with one object (singular) and **are** with several objects (plural). The typical answer also uses the verb **to be**: *It is five dollars.*",
+      "grammar_structure": "How much + to be (is/are) + subject?",
+      "conjugation_table": {
+        "name": "how_much_with_be",
+        "headers": [
+          "Sujeto",
+          "Pregunta",
+          "Respuesta"
+        ],
+        "rows": [
+          [
+            "the coffee (singular)",
+            "How much is the coffee?",
+            "It is two dollars."
+          ],
+          [
+            "the tickets (plural)",
+            "How much are the tickets?",
+            "They are ten dollars."
+          ],
+          [
+            "it (singular)",
+            "How much is it?",
+            "It is five dollars."
+          ],
+          [
+            "they (plural)",
+            "How much are they?",
+            "They are eight dollars."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_how_much_is_it",
+          "grammar_slug": null,
+          "text_target": "How much is it?",
+          "translation_form": "¿Cuánto cuesta?",
+          "highlight_words": [
+            "how",
+            "much",
+            "is",
+            "it"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "price",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "The price is ten dollars.",
+          "translation_form": "El precio es diez dólares.",
+          "highlight_words": [
+            "price",
+            "is",
+            "ten",
+            "dollars"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**How much** es solo para precios o cantidades incontables (agua, tiempo). Para objetos contables, también funciona: *How much is the bread?*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "No digas *How much **costs** it?* — con **to be** no usamos **cost**. Decimos: *How much **is** it?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *How much costs the coffee?* en lugar de *How much is the coffee?*",
+        "Usar *How much are it?* en lugar de *How much is it?* (it siempre va con is).",
+        "Olvidar el verbo to be: *How much the coffee?* en lugar de *How much is the coffee?*"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'expensive'?",
+      "options": [
+        "barato",
+        "caro",
+        "grande",
+        "pequeño"
+      ],
+      "correct_answer": "caro",
+      "explanation_md": "'Expensive' significa 'caro'. Es un adjetivo que describe algo que cuesta mucho dinero.",
+      "related_lexeme_ids": [
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'receipt'?",
+      "options": [
+        "recibo",
+        "precio",
+        "dinero",
+        "cambio"
+      ],
+      "correct_answer": "recibo",
+      "explanation_md": "'Receipt' significa 'recibo'. Es el papel que te dan cuando pagas algo.",
+      "related_lexeme_ids": [
+        "receipt"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "cost",
+        "pay",
+        "buy",
+        "costo",
+        "pagar",
+        "comprar"
+      ],
+      "correct_answer": [
+        "cost=costo",
+        "pay=pagar",
+        "buy=comprar"
+      ],
+      "explanation_md": "Estos son verbos comunes para hablar de dinero: cost (costar), pay (pagar) y buy (comprar).",
+      "related_lexeme_ids": [
+        "cost_verb",
+        "pay_verb",
+        "buy_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué pregunta usamos para saber el precio de algo?",
+      "options": [
+        "How much is it?",
+        "What is your name?",
+        "Where is the station?",
+          "When is your birthday?"
+      ],
+      "correct_answer": "How much is it?",
+      "explanation_md": "Usamos 'How much is it?' para preguntar el precio de algo. Es la pregunta correcta para saber cuánto cuesta.",
+      "related_lexeme_ids": [
+        "how_much_wh"
+      ],
+      "related_chunk_ids": [
+        "chunk_how_much_is_it"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'The bread ____ two dollars.' (costar)",
+      "options": null,
+      "correct_answer": "costs",
+      "explanation_md": "Con 'the bread' (singular), usamos 'costs' (costar en tercera persona).",
+      "related_lexeme_ids": [
+        "cost_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "En la tienda, el vendedor te pregunta: 'Do you have cash?' ¿Qué te está preguntando?",
+      "options": [
+        "¿Tienes efectivo?",
+        "¿Tienes hambre?",
+        "¿Tienes prisa?",
+        "¿Tienes frío?"
+      ],
+      "correct_answer": "¿Tienes efectivo?",
+      "explanation_md": "'Do you have cash?' significa '¿Tienes efectivo?'. El vendedor quiere saber si pagarás con dinero en efectivo.",
+      "related_lexeme_ids": [
+        "cash"
+      ],
+      "related_chunk_ids": [
+        "chunk_do_you_have"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'El precio es diez dólares.'",
+      "options": null,
+      "correct_answer": "The price is ten dollars.",
+      "explanation_md": "Usamos 'The price is...' para decir el precio. 'Ten' es el número 10.",
+      "related_lexeme_ids": [
+        "price",
+        "dollar"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I pay with cash.'",
+      "options": null,
+      "correct_answer": "Pago con efectivo.",
+      "explanation_md": "'I pay' es 'pago' y 'with cash' es 'con efectivo'.",
+      "related_lexeme_ids": [
+        "pay_verb",
+        "cash"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuánto cuesta el café?",
+      "options": [
+        "Two dollars",
+        "Three dollars",
+        "Four dollars",
+        "Five dollars"
+      ],
+      "correct_answer": "Three dollars",
+      "explanation_md": "El texto dice que el camarero responde 'The coffee costs three dollars'. El café cuesta tres dólares.",
+      "related_lexeme_ids": [
+        "buy_verb",
+        "cost_verb",
+        "pay_verb",
+        "cash",
+        "receipt"
+      ],
+      "related_chunk_ids": [
+        "chunk_how_much_is_it"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is at a coffee shop. She wants to buy a coffee. She asks the waiter, 'How much is the coffee?' The waiter says, 'The coffee costs three dollars.' Ana pays with cash. The waiter gives her the coffee and a receipt.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cuánto cuesta el pan?",
+      "options": [
+        "One dollar",
+        "Two dollars",
+        "Three dollars",
+        "Four dollars"
+      ],
+      "correct_answer": "Two dollars",
+      "explanation_md": "El hombre dice 'It costs two dollars'. El pan cuesta dos dólares.",
+      "related_lexeme_ids": [
+        "cost_verb",
+        "pay_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_how_much_is_it"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I go to the bakery. I see the bread. I ask, 'How much is the bread?' The man says, 'It costs two dollars.' I pay and take the bread.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué compra el hombre?",
+      "options": [
+        "A coffee",
+        "A ticket",
+        "A cake",
+        "A book"
+      ],
+      "correct_answer": "A ticket",
+      "explanation_md": "El hombre pregunta por un ticket en la estación. Compra un boleto.",
+      "related_lexeme_ids": [
+        "buy_verb",
+        "pay_verb",
+        "cash"
+      ],
+      "related_chunk_ids": [
+        "chunk_how_much_is_it"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "A man is at the station. He wants a ticket. He asks, 'How much is a ticket?' The woman says, 'It is five dollars.' He pays with cash and gets his ticket.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Imagina que estás en un mercado. Escribe 2-3 oraciones preguntando el precio de algo y decidiendo si lo compras o no.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'How much is...?' y verbos como 'buy' o 'cost' en contexto.",
+      "related_lexeme_ids": [
+        "how_much_wh",
+        "buy_verb",
+        "cost_verb",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_how_much_is_it"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "How much is the apple? It costs two dollars. I buy it.",
+        "How much is the coffee? It is expensive. I don't buy it."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "How much is it?",
+      "back": "¿Cuánto cuesta?",
+      "hint": "pregunta para saber el precio",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_much_is_it",
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "Do you have ...?",
+      "back": "¿Tiene ...?",
+      "hint": "pregunta para saber si hay algo",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_have",
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "how much",
+      "back": "cuánto (precio / incontable)",
+      "hint": "para preguntar por el precio",
+      "lexeme_id": "how_much_wh",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "questions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "cost",
+      "back": "costar",
+      "hint": "verbo para hablar del precio",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "transactions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "pay",
+      "back": "pagar",
+      "hint": "dar dinero por algo",
+      "lexeme_id": "pay_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "transactions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "buy",
+      "back": "comprar",
+      "hint": "adquirir algo con dinero",
+      "lexeme_id": "buy_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "sell",
+      "back": "vender",
+      "hint": "dar algo a cambio de dinero",
+      "lexeme_id": "sell_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "transactions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "price",
+      "back": "precio",
+      "hint": "el valor de algo",
+      "lexeme_id": "price",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "expensive",
+      "back": "caro / costoso",
+      "hint": "que cuesta mucho dinero",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "dollar",
+      "back": "dólar",
+      "hint": "moneda de Estados Unidos",
+      "lexeme_id": "dollar",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "cash",
+      "back": "efectivo",
+      "hint": "dinero en billetes y monedas",
+      "lexeme_id": "cash",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "change",
+      "back": "cambio / vuelto",
+      "hint": "dinero que te devuelven",
+      "lexeme_id": "change_noun",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "transactions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "receipt",
+      "back": "recibo",
+      "hint": "papel que te dan al comprar",
+      "lexeme_id": "receipt",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_023",
+        "A1",
+        "general"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "how much",
+      "reading": "",
+      "translation": "cuánto (precio / incontable)",
+      "pos": "other",
+      "example": "How much is the coffee?",
+      "example_translation": "¿Cuánto cuesta el café?",
+      "lexeme_id": "how_much_wh",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cost",
+      "reading": "",
+      "translation": "costar",
+      "pos": "verb",
+      "example": "The bread costs two dollars.",
+      "example_translation": "El pan cuesta dos dólares.",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "pay",
+      "reading": "",
+      "translation": "pagar",
+      "pos": "verb",
+      "example": "I pay with cash.",
+      "example_translation": "Pago con efectivo.",
+      "lexeme_id": "pay_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "buy",
+      "reading": "",
+      "translation": "comprar",
+      "pos": "verb",
+      "example": "We buy a ticket at the station.",
+      "example_translation": "Compramos un boleto en la estación.",
+      "lexeme_id": "buy_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sell",
+      "reading": "",
+      "translation": "vender",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "sell_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "price",
+      "reading": "",
+      "translation": "precio",
+      "pos": "noun",
+      "example": "The price is ten dollars.",
+      "example_translation": "El precio es diez dólares.",
+      "lexeme_id": "price",
+      "chunk_id": null
+    },
+    {
+      "target_word": "expensive",
+      "reading": "",
+      "translation": "caro / costoso",
+      "pos": "adjective",
+      "example": "The taxi is expensive.",
+      "example_translation": "El taxi es caro.",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "dollar",
+      "reading": "",
+      "translation": "dólar",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "dollar",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cash",
+      "reading": "",
+      "translation": "efectivo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "cash",
+      "chunk_id": null
+    },
+    {
+      "target_word": "change",
+      "reading": "",
+      "translation": "cambio / vuelto",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "change_noun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "receipt",
+      "reading": "",
+      "translation": "recibo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "receipt",
+      "chunk_id": null
+    },
+    {
+      "target_word": "How much is it?",
+      "reading": "",
+      "translation": "¿Cuánto cuesta?",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_much_is_it"
+    },
+    {
+      "target_word": "Do you have ...?",
+      "reading": "",
+      "translation": "¿Tiene ...",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_have"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "how much",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cuánto (precio / incontable)",
+      "lexeme_id": "how_much_wh",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_004",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "cost",
+      "role": "support",
+      "status": "practiced",
+      "translation": "costar",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_003",
+        "ex_005",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "pay",
+      "role": "support",
+      "status": "practiced",
+      "translation": "pagar",
+      "lexeme_id": "pay_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "buy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "comprar",
+      "lexeme_id": "buy_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "sell",
+      "role": "support",
+      "status": "introduced",
+      "translation": "vender",
+      "lexeme_id": "sell_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "price",
+      "role": "support",
+      "status": "practiced",
+      "translation": "precio",
+      "lexeme_id": "price",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_007",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "expensive",
+      "role": "support",
+      "status": "practiced",
+      "translation": "caro / costoso",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_001",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "dollar",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dólar",
+      "lexeme_id": "dollar",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "cash",
+      "role": "support",
+      "status": "practiced",
+      "translation": "efectivo",
+      "lexeme_id": "cash",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "change",
+      "role": "support",
+      "status": "introduced",
+      "translation": "cambio / vuelto",
+      "lexeme_id": "change_noun",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "receipt",
+      "role": "support",
+      "status": "practiced",
+      "translation": "recibo",
+      "lexeme_id": "receipt",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_009",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "How much is it?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Cuánto cuesta?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_much_is_it",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "Do you have ...?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Tiene ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_have",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "ticket",
+      "role": "support",
+      "status": "emergent",
+      "translation": "boleto / billete / ticket",
+      "lexeme_id": "ticket",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "quiz_001:q_009",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "station",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estación",
+      "lexeme_id": "station",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "bread",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pan",
+      "lexeme_id": "bread",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "taxi",
+      "role": "support",
+      "status": "emergent",
+      "translation": "taxi",
+      "lexeme_id": "taxi",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "give",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dar",
+      "lexeme_id": "give_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "waiter",
+      "role": "support",
+      "status": "emergent",
+      "translation": "camarero / mesero",
+      "lexeme_id": "waiter",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "transcript",
+      "role": "support",
+      "status": "emergent",
+      "translation": "copia / transcripción",
+      "lexeme_id": "transcript",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 13,
+    "review_support_count": 0,
+    "emergent_count": 11,
+    "emergent_terms": [
+      "coffee",
+      "ticket",
+      "station",
+      "bread",
+      "taxi",
+      "ask",
+      "want",
+      "give",
+      "word",
+      "waiter",
+      "transcript"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Precios y dinero",
+      "title_target": "Quiz: Asking About Prices",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'How much is it?'?",
+          "prompt_target": "What does 'How much is it?' mean?",
+          "options": [
+            "¿Cuánto cuesta?",
+            "¿Dónde está?",
+            "¿Qué es?",
+            "¿Quién es?"
+          ],
+          "correct_answer": "¿Cuánto cuesta?",
+          "explanation_form": "'How much is it?' es la forma de preguntar el precio de algo.",
+          "explanation_target": "'How much is it?' is the way to ask the price of something.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_how_much_is_it",
+            "how_much_wh"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ is the coffee?'",
+          "prompt_target": "Complete the question: '____ is the coffee?'",
+          "options": null,
+          "correct_answer": "How much",
+          "explanation_form": "Usamos 'How much' para preguntar por el precio de algo.",
+          "explanation_target": "We use 'How much' to ask for the price of something.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "how_much_wh",
+            "chunk_how_much_is_it"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Cuánto cuesta el café?",
+          "prompt_target": "Listen and answer: How much is the coffee?",
+          "options": [
+            "Two dollars",
+            "One dollar",
+            "Three dollars",
+            "Ten dollars"
+          ],
+          "correct_answer": "Two dollars",
+          "explanation_form": "El transcript dice 'It is two dollars'.",
+          "explanation_target": "The transcript says 'It is two dollars'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cost_verb",
+            "dollar",
+            "chunk_how_much_is_it"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Excuse me. How much is the coffee? It is two dollars. I want one coffee, please. Here you are.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Cuánto cuesta el sándwich?",
+          "prompt_target": "Read the text and answer: How much is the sandwich?",
+          "options": [
+            "Five dollars",
+            "Four dollars",
+            "Six dollars",
+            "One dollar"
+          ],
+          "correct_answer": "Five dollars",
+          "explanation_form": "El texto dice 'It is five dollars'.",
+          "explanation_target": "The text says 'It is five dollars'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cost_verb",
+            "pay_verb",
+            "cash",
+            "change_noun",
+            "price"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I am at a restaurant. I ask the waiter, 'How much is the sandwich?' He says, 'It is five dollars.' I pay with cash. The waiter gives me my change.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'The price is ____. I don't have money.'",
+          "prompt_target": "Complete the sentence: 'The price is ____. I have no cash.'",
+          "options": null,
+          "correct_answer": "expensive",
+          "explanation_form": "'Expensive' significa caro. Si el precio es caro, no tienes dinero.",
+          "explanation_target": "'Expensive' means costly. If the price is high, you have no cash.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "expensive_adj",
+            "price"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta:",
+          "prompt_target": "Order the words to form a question:",
+          "options": [
+            "much",
+            "How",
+            "is",
+            "it",
+            "?"
+          ],
+          "correct_answer": "How much is it?",
+          "explanation_form": "La pregunta correcta es 'How much is it?'",
+          "explanation_target": "The correct question is 'How much is it?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_how_much_is_it",
+            "how_much_wh"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'Do you have change?'?",
+          "prompt_target": "What does 'Do you have change?' mean?",
+          "options": [
+            "¿Tienes cambio?",
+            "¿Tienes dinero?",
+            "¿Tienes un recibo?",
+            "¿Tienes un precio?"
+          ],
+          "correct_answer": "¿Tienes cambio?",
+          "explanation_form": "'Change' significa cambio (monedas). 'Do you have change?' pregunta si tienes cambio.",
+          "explanation_target": "'Change' means coins. 'Do you have change?' asks if you have coins.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_do_you_have",
+            "change_noun"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "price",
+            "precio",
+            "receipt",
+            "recibo",
+            "cash",
+            "efectivo"
+          ],
+          "correct_answer": [
+            "price=precio",
+            "receipt=recibo",
+            "cash=efectivo"
+          ],
+          "explanation_form": "Estas son las traducciones correctas de cada palabra.",
+          "explanation_target": "These are the correct translations for each word.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "price",
+            "receipt",
+            "cash"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I ____ the ticket with cash.'",
+          "prompt_target": "Complete: 'I ____ the ticket with cash.'",
+          "options": null,
+          "correct_answer": "pay",
+          "explanation_form": "'Pay' significa pagar. Pagamos el ticket con efectivo.",
+          "explanation_target": "'Pay' means to give money. We pay the ticket with cash.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "pay_verb",
+            "cash"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'sell'?",
+          "prompt_target": "What does 'sell' mean?",
+          "options": [
+            "vender",
+            "comprar",
+            "pagar",
+            "costar"
+          ],
+          "correct_answer": "vender",
+          "explanation_form": "'Sell' significa vender. 'Buy' significa comprar.",
+          "explanation_target": "'Sell' means to sell. 'Buy' means to purchase.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sell_verb",
+            "buy_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Cuánto cuesta el ticket?",
+          "prompt_target": "Listen and answer: How much is the ticket?",
+          "options": [
+            "Ten dollars",
+            "Two dollars",
+            "Five dollars",
+            "One dollar"
+          ],
+          "correct_answer": "Ten dollars",
+          "explanation_form": "El transcript dice 'It is ten dollars'.",
+          "explanation_target": "The transcript says 'It is ten dollars'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "buy_verb",
+            "dollar",
+            "pay_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I want to buy a ticket. How much is it? It is ten dollars. I pay with cash. Here is my money.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'The ____ is five dollars.'",
+          "prompt_target": "Complete: 'The ____ is five dollars.'",
+          "options": null,
+          "correct_answer": "price",
+          "explanation_form": "'Price' significa precio. El precio es cinco dólares.",
+          "explanation_target": "'Price' means the cost. The price is five dollars.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "price",
+            "dollar"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cómo preguntar el precio\n\nPara preguntar el precio de algo, usa **How much is it?** (¿Cuánto cuesta?). Es una pregunta fija, no la cambies. Para responder, di: **It is [número] dollars** (Son [número] dólares). Recuerda: en inglés no se dice \"the price is\" para preguntar, se usa **How much**.\n\n## Errores comunes\n\n- No digas \"How much cost?\" → di **How much is it?**\n- No digas \"It is expensive\" para todo. Usa **expensive** (caro) solo cuando algo cuesta mucho.\n- **Cash** (efectivo) y **change** (cambio/vuelto) son palabras útiles al pagar. Pregunta: **Do you have change?** (¿Tienes cambio?).",
+  "metadata": {
+    "generated_at": "2026-08-31T21:36:04Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

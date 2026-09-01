@@ -1,0 +1,1399 @@
+{
+  "id": "lesson_022",
+  "position": 22,
+  "unit_id": 4,
+  "course_id": "en.A1",
+  "title_form": "En el restaurante",
+  "title_target": "Ordering Food in a Restaurant",
+  "theme_focus": "Pedir comida y bebida en un restaurante o café.",
+  "learning_objectives": [
+    "Can order food and drinks in a restaurant.",
+    "Can ask for the bill."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_021"
+  ],
+  "grammar_focus": [
+    "imperative: polite requests (Can I have ...?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "restaurant",
+        "menu",
+        "bill",
+        "order_verb",
+        "table",
+        "check",
+        "help_verb_2",
+        "will_modal"
+      ],
+      "chunk_ids": [
+        "chunk_ill_have",
+        "chunk_the_bill_please",
+        "chunk_can_i_help_you"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "food",
+        "drink",
+        "water",
+        "coffee",
+        "tea",
+        "juice",
+        "chicken",
+        "fish",
+        "salad",
+        "waiter"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana entra a un restaurante con su amigo. El mesero los saluda y les pregunta qué quieren. Ana pide pollo y agua, su amigo pide pescado y café. Al final, piden la cuenta y pagan.",
+  "introduction_md": "## En el restaurante\n\nHoy vas a aprender a pedir comida y bebida en un restaurante o café. Es una habilidad muy útil para viajar o para salir a comer.\n\nEn esta lección vas a:\n\n- Pedir tu comida y tu bebida.\n- Preguntar por el menú.\n- Pedir la cuenta.\n- Usar frases corteses como **Can I have...?**\n\nVamos a practicar con un diálogo real en un restaurante. ¡Vamos a empezar!",
+  "intro_target": "## At the restaurant\n\nToday you are going to learn how to order food and drinks at a restaurant or café. It is a very useful skill for traveling or for going out to eat.\n\nIn this lesson you are going to:\n\n- Order your food and your drink.\n- Ask for the menu.\n- Ask for the bill.\n- Use polite phrases like **Can I have...?**\n\nWe are going to practice with a real dialogue at a restaurant. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_ill_have",
+      "grammar_slug": null,
+      "text_target": "I'll have the chicken and a salad.",
+      "translation_form": "Voy a tomar el pollo y una ensalada.",
+      "highlight_words": [
+        "i'll",
+        "have",
+        "chicken",
+        "salad"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_can_i_help_you",
+      "grammar_slug": null,
+      "text_target": "Can I help you? Here is the menu.",
+      "translation_form": "¿Puedo ayudarle? Aquí está el menú.",
+      "highlight_words": [
+        "can",
+        "i",
+        "help",
+        "you",
+        "menu"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Can I order the fish, please?",
+      "translation_form": "¿Puedo pedir el pescado, por favor?",
+      "highlight_words": [
+        "order",
+        "fish"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": "chunk_the_bill_please",
+      "grammar_slug": null,
+      "text_target": "Can I have the bill, please?",
+      "translation_form": "¿Puedo tener la cuenta, por favor?",
+      "highlight_words": [
+        "bill",
+        "please",
+        "pay"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "will_modal",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I will have a coffee and water.",
+      "translation_form": "Voy a tomar un café y agua.",
+      "highlight_words": [
+        "will",
+        "have",
+        "coffee",
+        "water"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "table",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Can I have a table for two?",
+      "translation_form": "¿Puedo tener una mesa para dos?",
+      "highlight_words": [
+        "table",
+        "two"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "imperative: polite requests (Can I have ...?)",
+      "title_form": "Peticiones corteses: Can I have ...?",
+      "title_target": "Polite Requests: Can I have ...?",
+      "description_md_form": "Para pedir algo de forma **cortés** en un restaurante o café, usamos **Can I have ...?** (¿Puedo tener...?). Es la forma más común y educada de ordenar.\n\n**Estructura:**\n\n**Can I have** + comida o bebida + **, please?**\n\nEjemplos:\n- **Can I have** a coffee, please?\n- **Can I have** the menu, please?\n\nTambién puedes usar **Can I ...?** con otros verbos:\n- **Can I order** the fish?\n- **Can I pay** the bill?\n\nEsta estructura es más cortés que el imperativo directo (*Give me...*). En inglés, **siempre** preguntamos antes de pedir.",
+      "description_md_target": "To ask for something **politely** in a restaurant or café, we use **Can I have ...?**. It is the most common and polite way to order.\n\n**Structure:**\n\n**Can I have** + food or drink + **, please?**\n\nExamples:\n- **Can I have** a coffee, please?\n- **Can I have** the menu, please?\n\nYou can also use **Can I ...?** with other verbs:\n- **Can I order** the fish?\n- **Can I pay** the bill?\n\nThis structure is more polite than the direct imperative (*Give me...*). In English, we **always** ask before ordering.",
+      "grammar_structure": "Can I have + [food/drink] + , please?",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "imperative: polite requests (Can I have ...?)",
+          "text_target": "Can I have the menu, please?",
+          "translation_form": "¿Puedo tener el menú, por favor?",
+          "highlight_words": [
+            "can",
+            "have",
+            "menu",
+            "please"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "imperative: polite requests (Can I have ...?)",
+          "text_target": "Can I order the chicken and a salad?",
+          "translation_form": "¿Puedo pedir el pollo y una ensalada?",
+          "highlight_words": [
+            "can",
+            "order",
+            "chicken",
+            "salad"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Can I have...?** es la forma más segura para pedir en un restaurante. Úsala siempre que no estés seguro de qué decir."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No digas *Give me...* (Dame...). Es demasiado directo y puede sonar grosero. Siempre usa **Can I have...?** o **Can I...?**."
+        },
+        {
+          "type": "tip",
+          "text_md": "Añade **, please** al final para ser aún más cortés: *Can I have a coffee, please?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'Give me a coffee' en lugar de 'Can I have a coffee?' — el imperativo directo suena grosero en inglés.",
+        "Olvidar la coma antes de 'please': se escribe 'Can I have a coffee, please?'",
+        "Usar 'Can I have...?' solo para comida: también sirve para pedir la cuenta ('Can I have the bill?') o el menú ('Can I have the menu?')."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'menu'?",
+      "options": [
+        "La cuenta",
+        "El menú",
+        "La mesa",
+        "El restaurante"
+      ],
+      "correct_answer": "El menú",
+      "explanation_md": "'Menu' es la carta o lista de comidas del restaurante.",
+      "related_lexeme_ids": [
+        "menu"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'bill'?",
+      "options": [
+        "La mesa",
+        "El menú",
+        "La cuenta",
+        "El agua"
+      ],
+      "correct_answer": "La cuenta",
+      "explanation_md": "'Bill' es la cuenta que pagas al final de la comida.",
+      "related_lexeme_ids": [
+        "bill"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en un restaurante y quieres pedir pollo. ¿Qué dices?",
+      "options": [
+        "I'll have the chicken, please.",
+        "The bill, please.",
+        "Can I help you?",
+        "Here is the menu."
+      ],
+      "correct_answer": "I'll have the chicken, please.",
+      "explanation_md": "Usamos 'I'll have...' para pedir comida en un restaurante.",
+      "related_lexeme_ids": [
+        "chicken",
+        "order_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_ill_have"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "El camarero te pregunta si necesitas ayuda. ¿Qué te dice?",
+      "options": [
+        "Can I have the menu?",
+        "Can I help you?",
+        "The bill, please.",
+        "I'll have a coffee."
+      ],
+      "correct_answer": "Can I help you?",
+      "explanation_md": "'Can I help you?' es la forma cortés de ofrecer ayuda.",
+      "related_lexeme_ids": [
+        "help_verb_2"
+      ],
+      "related_chunk_ids": [
+        "chunk_can_i_help_you"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase para pedir la cuenta: 'The ____, please.'",
+      "options": null,
+      "correct_answer": "bill",
+      "explanation_md": "Pedimos la cuenta con 'The bill, please.'",
+      "related_lexeme_ids": [
+        "bill"
+      ],
+      "related_chunk_ids": [
+        "chunk_the_bill_please"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase para pedir comida: 'I'll ____ the fish.'",
+      "options": null,
+      "correct_answer": "have",
+      "explanation_md": "Usamos 'I'll have...' para pedir algo de comer o beber.",
+      "related_lexeme_ids": [
+        "fish",
+        "order_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_ill_have"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Puedo pedir el pescado, por favor?'",
+      "options": null,
+      "correct_answer": "Can I order the fish, please?",
+      "explanation_md": "Usamos 'Can I order...?' para pedir comida de forma cortés.",
+      "related_lexeme_ids": [
+        "order_verb",
+        "fish"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "¿Qué significa 'I will have a coffee and water.'?",
+      "options": null,
+      "correct_answer": "Voy a tomar un café y agua.",
+      "explanation_md": "'I will have' expresa una decisión de pedir algo.",
+      "related_lexeme_ids": [
+        "will_modal",
+        "coffee",
+        "water"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "restaurant",
+        "restaurante",
+        "table",
+        "mesa",
+        "menu",
+        "menú",
+        "bill",
+        "cuenta"
+      ],
+      "correct_answer": [
+        "restaurant=restaurante",
+        "table=mesa",
+        "menu=menú",
+        "bill=cuenta"
+      ],
+      "explanation_md": "Estas son palabras básicas que usamos en un restaurante.",
+      "related_lexeme_ids": [
+        "restaurant",
+        "table",
+        "menu",
+        "bill"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué pide Ana?",
+      "options": null,
+      "correct_answer": "Ana pide el pollo y una ensalada.",
+      "explanation_md": "Ana dice 'I'll have the chicken and a salad, please.'",
+      "related_lexeme_ids": [
+        "restaurant",
+        "menu",
+        "chicken",
+        "salad",
+        "order_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_can_i_help_you",
+        "chunk_ill_have"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is at the restaurant. The waiter says, 'Can I help you?' Ana looks at the menu. She says, 'I'll have the chicken and a salad, please.' The waiter writes her order. Ana is happy.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué pide Tom?",
+      "options": [
+        "Pide el pollo y una ensalada.",
+        "Pide el pescado y una ensalada.",
+        "Pide el menú y el pescado."
+      ],
+      "correct_answer": "Pide el pescado y una ensalada.",
+      "explanation_md": "Tom dice 'I'll have the fish and a salad, please.'",
+      "related_lexeme_ids": [
+        "fish",
+        "salad",
+        "menu",
+        "bill"
+      ],
+      "related_chunk_ids": [
+        "chunk_ill_have",
+        "chunk_the_bill_please"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom is at the restaurant. He looks at the menu. He says, 'I'll have the fish and a salad, please.' The waiter says, 'Can I help you?' Tom says, 'The bill, please.'",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Estás en un restaurante. Escribí 2-3 oraciones: saluda al camarero, pide algo de comer y pide la cuenta.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'Can I...?', 'I'll have...' y 'The bill, please.'",
+      "related_lexeme_ids": [
+        "restaurant",
+        "chicken",
+        "bill",
+        "order_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_can_i_help_you",
+        "chunk_ill_have",
+        "chunk_the_bill_please"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Can I help you? I'll have the chicken, please.",
+        "The bill, please. Thank you."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "restaurant",
+      "back": "restaurante",
+      "hint": "un lugar para comer",
+      "lexeme_id": "restaurant",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "menu",
+      "back": "menú / carta",
+      "hint": "la lista de comida",
+      "lexeme_id": "menu",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "bill",
+      "back": "cuenta (restaurante)",
+      "hint": "lo que pagas al final",
+      "lexeme_id": "bill",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "order",
+      "back": "ordenar / pedir",
+      "hint": "pedir comida",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "table",
+      "back": "mesa",
+      "hint": "donde te sientas",
+      "lexeme_id": "table",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "check",
+      "back": "cuenta (restaurante, EE.UU.)",
+      "hint": "sinónimo de bill",
+      "lexeme_id": "check",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "help",
+      "back": "ayudar",
+      "hint": "ofrecer ayuda",
+      "lexeme_id": "help_verb_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "will",
+      "back": "auxiliar de futuro ('ll)",
+      "hint": "para hablar del futuro",
+      "lexeme_id": "will_modal",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "I'll have ...",
+      "back": "Voy a tomar ...",
+      "hint": "para pedir comida",
+      "lexeme_id": null,
+      "chunk_id": "chunk_ill_have",
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "The bill, please.",
+      "back": "La cuenta, por favor.",
+      "hint": "para pedir la cuenta",
+      "lexeme_id": null,
+      "chunk_id": "chunk_the_bill_please",
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "Can I help you?",
+      "back": "¿Puedo ayudarle?",
+      "hint": "lo dice el camarero",
+      "lexeme_id": null,
+      "chunk_id": "chunk_can_i_help_you",
+      "target_term": null,
+      "tags": [
+        "lesson_022",
+        "A1",
+        "social"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "restaurant",
+      "reading": "",
+      "translation": "restaurante",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "restaurant",
+      "chunk_id": null
+    },
+    {
+      "target_word": "menu",
+      "reading": "",
+      "translation": "menú / carta",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "menu",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bill",
+      "reading": "",
+      "translation": "cuenta (restaurante)",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "bill",
+      "chunk_id": null
+    },
+    {
+      "target_word": "order",
+      "reading": "",
+      "translation": "ordenar / pedir",
+      "pos": "verb",
+      "example": "Can I order the fish, please?",
+      "example_translation": "¿Puedo pedir el pescado, por favor?",
+      "lexeme_id": "order_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "table",
+      "reading": "",
+      "translation": "mesa",
+      "pos": "noun",
+      "example": "Can I have a table for two?",
+      "example_translation": "¿Puedo tener una mesa para dos?",
+      "lexeme_id": "table",
+      "chunk_id": null
+    },
+    {
+      "target_word": "check",
+      "reading": "",
+      "translation": "cuenta (restaurante, EE.UU.)",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "check",
+      "chunk_id": null
+    },
+    {
+      "target_word": "help",
+      "reading": "",
+      "translation": "ayudar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "help_verb_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "will",
+      "reading": "",
+      "translation": "auxiliar de futuro ('ll)",
+      "pos": "auxiliary",
+      "example": "I will have a coffee and water.",
+      "example_translation": "Voy a tomar un café y agua.",
+      "lexeme_id": "will_modal",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I'll have ...",
+      "reading": "",
+      "translation": "Voy a tomar ...",
+      "pos": "chunk",
+      "example": "I'll have the chicken and a salad.",
+      "example_translation": "Voy a tomar el pollo y una ensalada.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_ill_have"
+    },
+    {
+      "target_word": "The bill, please.",
+      "reading": "",
+      "translation": "La cuenta, por favor.",
+      "pos": "chunk",
+      "example": "The bill, please. Can I pay?",
+      "example_translation": "La cuenta, por favor. ¿Puedo pagar?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_the_bill_please"
+    },
+    {
+      "target_word": "Can I help you?",
+      "reading": "",
+      "translation": "¿Puedo ayudarle?",
+      "pos": "chunk",
+      "example": "Can I help you? Here is the menu.",
+      "example_translation": "¿Puedo ayudarle? Aquí está el menú.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_can_i_help_you"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "restaurant",
+      "role": "support",
+      "status": "practiced",
+      "translation": "restaurante",
+      "lexeme_id": "restaurant",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "menu",
+      "role": "support",
+      "status": "practiced",
+      "translation": "menú / carta",
+      "lexeme_id": "menu",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "bill",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cuenta (restaurante)",
+      "lexeme_id": "bill",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_005",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "order",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ordenar / pedir",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_006",
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "table",
+      "role": "support",
+      "status": "practiced",
+      "translation": "mesa",
+      "lexeme_id": "table",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "introduced",
+      "translation": "cuenta (restaurante, EE.UU.)",
+      "lexeme_id": "check",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_006"
+      ]
+    },
+    {
+      "term": "help",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ayudar",
+      "lexeme_id": "help_verb_2",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "will",
+      "role": "support",
+      "status": "practiced",
+      "translation": "auxiliar de futuro ('ll)",
+      "lexeme_id": "will_modal",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "I'll have ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Voy a tomar ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_ill_have",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "ex_006",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "The bill, please.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "La cuenta, por favor.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_the_bill_please",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_005",
+        "ex_011",
+        "ex_012",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "Can I help you?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Puedo ayudarle?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_can_i_help_you",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_004",
+        "ex_010",
+        "ex_012",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "chicken",
+      "role": "support",
+      "status": "review",
+      "translation": "pollo",
+      "lexeme_id": "chicken",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_003",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "fish",
+      "role": "support",
+      "status": "review",
+      "translation": "pescado",
+      "lexeme_id": "fish",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_006",
+        "ex_007",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "salad",
+      "role": "support",
+      "status": "review",
+      "translation": "ensalada",
+      "lexeme_id": "salad",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_006",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "water",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agua",
+      "lexeme_id": "water",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "pay",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pagar",
+      "lexeme_id": "pay_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "waiter",
+      "role": "support",
+      "status": "emergent",
+      "translation": "camarero / mesero",
+      "lexeme_id": "waiter",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "look",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar",
+      "lexeme_id": "look_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "happy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "feliz / contento",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 11,
+    "review_support_count": 3,
+    "emergent_count": 12,
+    "emergent_terms": [
+      "check",
+      "water",
+      "pay",
+      "coffee",
+      "waiter",
+      "ask",
+      "say",
+      "look",
+      "word",
+      "want",
+      "happy",
+      "person"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: En el restaurante",
+      "title_target": "Quiz: Ordering Food in a Restaurant",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta educada:",
+        "prompt_target": "Order these words:",
+          "options": [
+            "Can",
+            "I",
+            "have",
+            "the",
+            "menu",
+            "please"
+          ],
+          "correct_answer": "Can I have the menu, please?",
+          "explanation_form": "Para pedir algo de forma educada, usamos 'Can I have...?' seguido de lo que queremos y 'please' al final.",
+          "explanation_target": "To ask for something politely, we use 'Can I have...?' followed by what we want and 'please' at the end.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_can_i_help_you",
+            "menu",
+            "imperative: polite requests (Can I have ...?)"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué quiere pedir la persona?",
+          "prompt_target": "Listen and answer: What does the person want to order?",
+          "options": [
+            "Chicken and a salad",
+            "Fish and soup",
+            "Coffee and a cake",
+            "Tea and bread"
+          ],
+          "correct_answer": "Chicken and a salad",
+          "explanation_form": "La persona dice 'I want the chicken and a salad', así que eso es lo que quiere pedir.",
+          "explanation_target": "The person says 'I want the chicken and a salad', so that is what they want to order.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chicken",
+            "salad",
+            "menu",
+            "waiter",
+            "bill"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I am at the restaurant. I look at the menu. I want the chicken and a salad. I ask the waiter for the bill after dinner.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué dice el camarero?",
+          "prompt_target": "Listen and answer: What does the waiter say?",
+          "options": [
+            "Can I help you?",
+            "Can I have the bill?",
+            "I'll have the fish.",
+            "The table is ready."
+          ],
+          "correct_answer": "Can I help you?",
+          "explanation_form": "El camarero pregunta 'Can I help you?' para ofrecer su ayuda al cliente.",
+          "explanation_target": "The waiter asks 'Can I help you?' to offer his help to the customer.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_can_i_help_you",
+            "help_verb_2",
+            "table",
+            "chunk_ill_have",
+            "fish"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "The waiter comes to the table. He says, 'Can I help you?' The customer answers, 'Yes, I'll have the fish, please.'",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase para pedir la cuenta: '____, please.'",
+          "prompt_target": "Complete the sentence to ask for the bill: '____, please.'",
+          "options": null,
+          "correct_answer": "The bill",
+          "explanation_form": "Para pedir la cuenta decimos 'The bill, please.' La palabra 'bill' significa 'cuenta'.",
+          "explanation_target": "To ask for the bill we say 'The bill, please.' The word 'bill' means 'cuenta'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_the_bill_please",
+            "bill"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+        "prompt_form": "¿Qué significa 'I will have the chicken'?",
+        "prompt_target": "What does 'I will have the chicken' mean?",
+          "options": [
+            "Voy a pedir el pollo",
+            "Ya comí el pollo",
+            "No me gusta el pollo",
+            "El pollo está frío"
+          ],
+          "correct_answer": "Voy a pedir el pollo",
+          "explanation_form": "'I'll have...' es una forma común de decir qué vas a pedir en un restaurante.",
+          "explanation_target": "'I'll have...' is a common way to say what you are going to order at a restaurant.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_ill_have",
+            "chicken",
+            "will_modal"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué pide la persona al final?",
+          "prompt_target": "Read the text and answer: What does the person ask for at the end?",
+          "options": [
+            "The menu",
+            "The check",
+            "The chicken",
+            "The fish"
+          ],
+          "correct_answer": "The check",
+          "explanation_form": "Al final del texto, la persona dice 'I ask the waiter for the check', así que pide la cuenta.",
+          "explanation_target": "At the end of the text, the person says 'I ask the waiter for the check', so they ask for the bill.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "check",
+            "waiter",
+            "menu",
+            "chicken",
+            "fish",
+            "order_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "We are at the restaurant. The waiter gives us the menu. My friend orders the fish and I order the chicken. We eat and we are happy. At the end, I ask the waiter for the check.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "menu",
+            "menú",
+            "bill",
+            "cuenta",
+            "table",
+            "mesa",
+            "waiter",
+            "camarero"
+          ],
+          "correct_answer": [
+            "menu=menú",
+            "bill=cuenta",
+            "table=mesa",
+            "waiter=camarero"
+          ],
+          "explanation_form": "Estas son palabras clave para desenvolverse en un restaurante.",
+          "explanation_target": "These are key words to get by in a restaurant.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "menu",
+            "bill",
+            "table",
+            "waiter"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Can I have...? vs. I'll have...\n\nUsa **Can I have...?** para pedir con cortesia: *Can I have the menu, please?* Es la forma mas segura y educada. **I'll have...** es mas directo y se usa cuando ya estas listo para ordenar: *I'll have the chicken.* Ambos son correctos; elige segun tu confianza.\n\n## Errores comunes\n\n- No digas *Can I have a bill?* → Lo natural es **the bill**: *Can I have the bill, please?*\n- Recuerda la palabra **check**: en Estados Unidos, *check* significa la cuenta. *Can I have the check, please?* es perfectamente valido.\n- Cuando el mesero pregunta *Can I help you?*, responde con tu pedido directo: *Yes, I'll have the salad.*",
+  "metadata": {
+    "generated_at": "2026-08-31T21:36:33Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

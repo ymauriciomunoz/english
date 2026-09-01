@@ -1,0 +1,1949 @@
+{
+  "id": "lesson_010",
+  "position": 10,
+  "unit_id": 3,
+  "course_id": "en.B2",
+  "title_form": "Negotiating a budget for a new project",
+  "title_target": "Negotiating a budget for a new project",
+  "theme_focus": "finance",
+  "learning_objectives": [
+    "Can negotiate a budget for a new project, discussing allocations and priorities.",
+    "Can use 'must have' to make deductions about past budget decisions.",
+    "Can use 'might have' to suggest possible past allocations or oversights."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_009"
+  ],
+  "grammar_focus": [
+    "modal perfects: must have, might have for past deduction and possibility"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "budget",
+        "economy",
+        "finance",
+        "investment"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "pull_off_verb",
+        "give_in_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "budget",
+        "role": "topic",
+        "rationale": "The central object of the negotiation."
+      },
+      {
+        "term": "cost",
+        "role": "topic",
+        "rationale": "A key factor in budget decisions."
+      },
+      {
+        "term": "funds",
+        "role": "topic",
+        "rationale": "The money available for the project."
+      },
+      {
+        "term": "priority",
+        "role": "topic",
+        "rationale": "What should be funded first."
+      },
+      {
+        "term": "investment",
+        "role": "topic",
+        "rationale": "A financial commitment to consider when allocating project funds."
+      },
+      {
+        "term": "negotiate",
+        "role": "functional",
+        "rationale": "The main communicative function."
+      },
+      {
+        "term": "allocate",
+        "role": "functional",
+        "rationale": "To assign funds to a specific purpose."
+      },
+      {
+        "term": "must have been",
+        "role": "grammar_support",
+        "rationale": "Modal perfect for past deduction."
+      },
+      {
+        "term": "might have been",
+        "role": "grammar_support",
+        "rationale": "Modal perfect for past possibility."
+      },
+      {
+        "term": "should have been",
+        "role": "grammar_support",
+        "rationale": "Modal perfect for criticism of a past decision."
+      },
+      {
+        "term": "must have allocated",
+        "role": "grammar_support",
+        "rationale": "Modal perfect for past deduction about an action."
+      }
+    ]
+  },
+  "scenario": "En una reunión de trabajo, Laura y su equipo discuten el presupuesto para un proyecto nuevo. Tienen fondos limitados y deben decidir qué prioridades financiar. Laura usa 'must have' y 'might have' para analizar decisiones pasadas y negociar una asignación justa con su colega Marcos.",
+  "introduction_md": "## Negociando un presupuesto para un proyecto nuevo\n\nEn esta lección vas a aprender a negociar un **budget** (presupuesto) para un proyecto nuevo. Hablar de dinero y de **finance** (finanzas) es una habilidad clave en el trabajo y en la vida diaria.\n\nVas a practicar cómo:\n\n- Discutir **allocations** (asignaciones) y **priorities** (prioridades) de forma clara.\n- Usar **must have** para hacer deducciones sobre decisiones pasadas (ej. *\"The team must have spent all the funds\"*).\n- Usar **might have** para sugerir posibilidades (ej. *\"They might have forgotten the marketing costs\"*).\n\nTambién vas a revisar vocabulario útil como **investment** (inversión), **economy** (economía) y verbos como **pull off** (lograr) y **give in** (ceder).\n\nEl escenario de esta lección es una reunión de trabajo: tú y tu equipo tienen un **budget** limitado y deben decidir cómo gastarlo. Vas a escuchar, leer y hablar sobre este tema en situaciones realistas.\n\n¡Vamos a empezar!",
+  "intro_target": "## Negotiating a budget for a new project\n\nIn this lesson, you will learn to negotiate a budget for a new project. Talking about money and finance is a key skill at work and in daily life.\n\nYou will practice how to:\n\n- Discuss allocations and priorities clearly.\n- Use **must have** to make deductions about past decisions (e.g. *\"The team must have spent all the funds\"*).\n- Use **might have** to suggest possibilities (e.g. *\"They might have forgotten the marketing costs\"*).\n\nYou will also review useful vocabulary like **investment**, **economy**, and verbs like **pull off** and **give in**.\n\nThe scenario for this lesson is a work meeting: you and your team have a limited budget and must decide how to spend it. You will listen, read, and speak about this topic in realistic situations.\n\nLet's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "budget",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We need to agree on the budget for the new project before we start any work.",
+      "translation_form": "Necesitamos ponernos de acuerdo sobre el presupuesto para el nuevo proyecto antes de comenzar cualquier trabajo.",
+      "highlight_words": [
+        "budget"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "investment",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "A bigger investment in the marketing campaign might have been the reason for the success.",
+      "translation_form": "Una inversión más grande en la campaña de marketing podría haber sido la razón del éxito.",
+      "highlight_words": [
+        "investment"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "finance",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The finance team must have made a mistake with the numbers, because the total doesn't add up.",
+      "translation_form": "El equipo de finanzas debe haber cometido un error con los números, porque el total no cuadra.",
+      "highlight_words": [
+        "finance"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "economy",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Given the current economy, we might have to reduce the budget for the new project.",
+      "translation_form": "Dada la economía actual, podríamos tener que reducir el presupuesto para el nuevo proyecto.",
+      "highlight_words": [
+        "economy",
+        "budget"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They must have allocated the funds to the wrong department, because the project is still waiting for money.",
+      "translation_form": "Deben haber asignado los fondos al departamento equivocado, porque el proyecto todavía está esperando el dinero.",
+      "highlight_words": [
+        "allocated",
+        "funds"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We should have given in on the cost issue earlier, but now we might have to pull off a miracle to finish on time.",
+      "translation_form": "Deberíamos haber cedido en el tema del costo antes, pero ahora podríamos tener que lograr un milagro para terminar a tiempo.",
+      "highlight_words": [
+        "given",
+        "cost",
+        "pull"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The manager might have been right about the priority, but we still need to negotiate the final numbers.",
+      "translation_form": "El gerente podría haber tenido razón sobre la prioridad, pero todavía necesitamos negociar los números finales.",
+      "highlight_words": [
+        "priority",
+        "negotiate"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We must have been too optimistic about the cost, because the budget is already over the limit.",
+      "translation_form": "Debemos haber sido demasiado optimistas sobre el costo, porque el presupuesto ya supera el límite.",
+      "highlight_words": [
+        "cost",
+        "budget"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "modal perfects: must have, might have for past deduction and possibility",
+      "title_form": "Modal perfects: must have y might have para deducciones en el pasado",
+      "title_target": "Modal Perfects: Must Have and Might Have for Past Deduction",
+      "description_md_form": "Cuando hablamos del pasado y queremos **deducir** o **suponer** algo, usamos los **modal perfects**. La estructura es: **modal + have + participio pasado**.\n\n- **Must have + participio** expresa una **deducción casi segura**. Creemos que algo pasó porque hay evidencia clara.\n  - *The finance team **must have made** a mistake with the numbers.* (El equipo de finanzas debe haber cometido un error con los números.)\n\n- **Might have + participio** expresa una **posibilidad**. No estamos seguros; es solo una suposición entre varias.\n  - *A bigger investment **might have been** the reason for the success.* (Una inversión más grande podría haber sido la razón del éxito.)\n\n**¿Cuándo usar cada uno?**\n\n| Modal | Significado | Certeza |\n|-------|-------------|---------|\n| **must have** | Deducción lógica | Alta |\n| **might have** | Posibilidad | Baja |\n\n**Importante:** No usamos *must* para hablar del pasado directamente. Siempre necesitamos *have* + participio. Tampoco usamos *mustn't have* para deducir; usamos *can't have* o *couldn't have* para negar una deducción.",
+      "description_md_target": "When we talk about the past and want to **deduce** or **suppose** something, we use the **modal perfects**. The structure is: **modal + have + past participle**.\n\n- **Must have + participle** expresses a **near-certain deduction**. We believe something happened because there is clear evidence.\n  - *The finance team **must have made** a mistake with the numbers.*\n\n- **Might have + participle** expresses a **possibility**. We are not sure; it is just one guess among several.\n  - *A bigger investment **might have been** the reason for the success.*\n\n**When to use each?**\n\n| Modal | Meaning | Certainty |\n|-------|---------|-----------|\n| **must have** | Logical deduction | High |\n| **might have** | Possibility | Low |\n\n**Important:** We do not use *must* alone to talk about the past. We always need *have* + participle. Also, we do not use *mustn't have* for deduction; we use *can't have* or *couldn't have* to negate a deduction.",
+      "grammar_structure": "Subject + modal (must/might) + have + past participle + complement",
+      "conjugation_table": {
+        "name": "modal_perfects",
+        "headers": [
+          "Modal",
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "must",
+            "must have + participio",
+            "Deducción casi segura",
+            "They must have allocated the funds."
+          ],
+          [
+            "might",
+            "might have + participio",
+            "Posibilidad pasada",
+            "They might have reduced the budget."
+          ],
+          [
+            "can't",
+            "can't have + participio",
+            "Deducción negativa",
+            "They can't have spent all the money."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "modal perfects: must have, might have for past deduction and possibility",
+          "text_target": "The finance team must have made a mistake with the numbers, because the total doesn't add up.",
+          "translation_form": "El equipo de finanzas debe haber cometido un error con los números, porque el total no cuadra.",
+          "highlight_words": [
+            "must",
+            "have",
+            "made"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "modal perfects: must have, might have for past deduction and possibility",
+          "text_target": "A bigger investment in the marketing campaign might have been the reason for the success.",
+          "translation_form": "Una inversión más grande en la campaña de marketing podría haber sido la razón del éxito.",
+          "highlight_words": [
+            "might",
+            "have",
+            "been"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Pista:** Si tienes evidencia clara (números, hechos), usa **must have**. Si solo estás especulando sin certeza, usa **might have**."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado:** No digas *must to have* ni *might to have*. El modal nunca lleva *to* antes de *have*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** Para negar una deducción, no uses *mustn't have*. Usa **can't have** o **couldn't have**. Ejemplo: *They can't have spent all the budget.*"
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'must' solo para el pasado: *They must made a mistake* → incorrecto. Correcto: *They must have made a mistake*.",
+        "Usar 'mustn't have' para deducciones negativas: *They mustn't have spent it* → incorrecto. Correcto: *They can't have spent it*.",
+        "Olvidar el participio pasado: *They must have make* → incorrecto. Correcto: *They must have made*.",
+        "Confundir 'might have' con 'might has': el verbo auxiliar 'have' no cambia con el sujeto."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'budget'?",
+      "options": [
+        "presupuesto",
+        "economía",
+        "inversión",
+        "finanzas"
+      ],
+      "correct_answer": "presupuesto",
+      "explanation_md": "'Budget' se refiere al dinero planificado para un proyecto o período.",
+      "related_lexeme_ids": [
+        "budget"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'investment'?",
+      "options": [
+        "inversión",
+        "presupuesto",
+        "gasto",
+        "ahorro"
+      ],
+      "correct_answer": "inversión",
+      "explanation_md": "'Investment' es el dinero que se pone en algo esperando un beneficio futuro.",
+      "related_lexeme_ids": [
+        "investment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "budget",
+        "presupuesto",
+        "economy",
+        "economía",
+        "finance",
+        "finanzas",
+        "investment",
+        "inversión"
+      ],
+      "correct_answer": [
+        "budget=presupuesto",
+        "economy=economía",
+        "finance=finanzas",
+        "investment=inversión"
+      ],
+      "explanation_md": "Estas cuatro palabras son el vocabulario clave de la lección sobre negociación de presupuesto.",
+      "related_lexeme_ids": [
+        "budget",
+        "economy",
+        "finance",
+        "investment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'The finance team ______ a mistake with the numbers.'",
+      "options": [
+        "must have made",
+        "must made",
+        "must has made",
+        "must make"
+      ],
+      "correct_answer": "must have made",
+      "explanation_md": "Para deducir algo del pasado usamos 'must have' + participio pasado.",
+      "related_lexeme_ids": [
+        "finance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la forma correcta: 'They ______ have allocated the funds to the wrong department.'",
+      "options": null,
+      "correct_answer": "must",
+      "explanation_md": "Usamos 'must have' + participio para una deducción lógica sobre el pasado.",
+      "related_lexeme_ids": [
+        "finance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Deben haber asignado los fondos al departamento equivocado.'",
+      "options": null,
+      "correct_answer": "They must have allocated the funds to the wrong department.",
+      "explanation_md": "La deducción en pasado se forma con 'must have' + participio pasado.",
+      "related_lexeme_ids": [
+        "finance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'A bigger investment might have been the reason for the success.'",
+      "options": null,
+      "correct_answer": "Una inversión más grande podría haber sido la razón del éxito.",
+      "explanation_md": "'Might have been' expresa una posibilidad en el pasado.",
+      "related_lexeme_ids": [
+        "investment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la mejor deducción? El proyecto no tiene dinero, pero el equipo de finanzas dijo que lo envió.",
+      "options": [
+        "The funds must have been lost in the mail.",
+        "The funds might have been spent on marketing.",
+        "The funds must have been allocated to the wrong department.",
+        "The funds might have been invested in the economy."
+      ],
+      "correct_answer": "The funds must have been allocated to the wrong department.",
+      "explanation_md": "La deducción más lógica es que los fondos se asignaron al departamento equivocado.",
+      "related_lexeme_ids": [
+        "finance",
+        "budget"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué el equipo de marketing no recibió los fondos?",
+      "options": [
+        "Porque el equipo de finanzas gastó el dinero.",
+        "Porque los fondos fueron asignados al departamento de investigación por error.",
+        "Porque el proyecto fue cancelado.",
+        "Porque el equipo de marketing no pidió los fondos."
+      ],
+      "correct_answer": "Porque los fondos fueron asignados al departamento de investigación por error.",
+      "explanation_md": "El texto dice que los fondos fueron asignados al departamento de investigación por error.",
+      "related_lexeme_ids": [
+        "budget",
+        "finance",
+        "investment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "The finance team reviewed the budget for the new project last week. They noticed that the funds were not enough to cover all the departments. The marketing team expected a big investment for their campaign, but the money never arrived. The finance team checked the records and found that the funds had been allocated to the research department by mistake. The project manager was surprised because the research team had already received their share. Now the finance team must fix the error and send the money to the correct department. The project cannot start until the budget is balanced.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué deducción hace el gerente sobre el presupuesto?",
+      "options": [
+        "Que el presupuesto era perfecto.",
+        "Que subestimaron el costo de la campaña.",
+        "Que el equipo de finanzas no trabajó.",
+        "Que la economía estaba mejorando."
+      ],
+      "correct_answer": "Que subestimaron el costo de la campaña.",
+      "explanation_md": "El gerente pensó: 'We must have underestimated the cost of the campaign.'",
+      "related_lexeme_ids": [
+        "budget",
+        "economy",
+        "finance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "The project manager looked at the budget for the new product launch. The numbers did not add up. The marketing campaign was more expensive than expected, and the total cost was higher than the funds available. The manager thought, 'We must have underestimated the cost of the campaign.' He decided to talk to the finance team about reducing the budget. They discussed the priorities and agreed to cut some expenses. The manager hoped that the investment would still bring good results, but he knew they needed to be more careful with the economy of the project.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué decisión tomaron al final?",
+      "options": [
+        "Redujeron el presupuesto de marketing.",
+        "Asignaron más dinero a marketing y menos a investigación.",
+        "Cancelaron el proyecto.",
+        "No llegaron a un acuerdo."
+      ],
+      "correct_answer": "Asignaron más dinero a marketing y menos a investigación.",
+      "explanation_md": "El texto dice que acordaron asignar más dinero a marketing y menos a investigación.",
+      "related_lexeme_ids": [
+        "budget",
+        "investment",
+        "finance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "The team met to negotiate the budget for the new project. The finance department wanted to reduce the investment in marketing, but the marketing team argued that they needed the funds to reach more customers. After a long discussion, they agreed to allocate more money to marketing and less to research. The project manager said, 'We must have been too conservative with our original plan.' Everyone agreed that the new balance was better. They also decided to review the budget every month to make sure the funds were used correctly. The project finally had a clear financial plan.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué deducción hace la gerente sobre el presupuesto?",
+      "options": [
+        "Que el presupuesto era correcto.",
+        "Que cometieron un error con los cálculos.",
+        "Que el proyecto fue cancelado.",
+        "Que no tenían fondos."
+      ],
+      "correct_answer": "Que cometieron un error con los cálculos.",
+      "explanation_md": "La gerente dijo: 'We must have made a mistake with the calculations.'",
+      "related_lexeme_ids": [
+        "budget",
+        "finance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The project manager reviewed the budget yesterday. She noticed that the numbers were wrong. She said, 'We must have made a mistake with the calculations.' The finance team checked the records and found the error. They had allocated the funds to the wrong department. Now they need to fix the problem before the project starts.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Por qué el equipo no recibió los fondos?",
+      "options": [
+        "Porque el proyecto fue cancelado.",
+        "Porque los fondos fueron enviados al departamento de investigación por error.",
+        "Porque no había presupuesto.",
+        "Porque el equipo no pidió el dinero."
+      ],
+      "correct_answer": "Porque los fondos fueron enviados al departamento de investigación por error.",
+      "explanation_md": "El audio dice que los fondos fueron enviados al departamento de investigación por error.",
+      "related_lexeme_ids": [
+        "budget",
+        "finance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The marketing team was waiting for the funds for their campaign. The money never arrived. The finance team investigated and found the problem. The funds had been sent to the research department by mistake. The project manager said, 'This might have been a simple error, but we need to fix it now.'",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué piensa el gerente sobre la inversión?",
+      "options": [
+        "Que la inversión fue demasiado grande.",
+        "Que fueron demasiado cuidadosos con el presupuesto.",
+        "Que la inversión no era necesaria.",
+        "Que el proyecto estaba cancelado."
+      ],
+      "correct_answer": "Que fueron demasiado cuidadosos con el presupuesto.",
+      "explanation_md": "El gerente dijo: 'We might have been too careful with our budget.'",
+      "related_lexeme_ids": [
+        "budget",
+        "investment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The project manager talked about the investment in the new product. He said, 'We might have been too careful with our budget. The marketing campaign needs more funds to succeed.' The finance team agreed to review the numbers again. They wanted to make sure the investment was worth it.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "free_production",
+      "prompt_md": "Imaginá que sos el gerente de un proyecto. Escribí 2-3 oraciones explicando qué deducción hacés sobre un error en el presupuesto. Usá 'must have' o 'might have'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'must have' y 'might have' para deducciones en pasado.",
+      "related_lexeme_ids": [
+        "budget",
+        "finance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "The finance team must have made a mistake with the budget.",
+        "The funds might have been allocated to the wrong department.",
+        "We must have underestimated the cost of the project."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_016",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones negociando un presupuesto con un colega. Proponé cómo asignar los fondos y mencioná la economía actual.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de vocabulario de la lección (budget, funds, investment, economy) en un contexto de negociación.",
+      "related_lexeme_ids": [
+        "budget",
+        "economy",
+        "investment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "We need to allocate more funds to marketing because the economy is growing.",
+        "The budget for research might have been too high, so we should reduce it.",
+        "I think the investment in the new product is a priority."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "budget",
+      "back": "presupuesto",
+      "hint": "el dinero que tienes para un proyecto",
+      "lexeme_id": "budget",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "B2",
+        "finance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "economy",
+      "back": "economía",
+      "hint": "el sistema de producción y consumo de un país",
+      "lexeme_id": "economy",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "B2",
+        "finance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "finance",
+      "back": "finanzas",
+      "hint": "la gestión del dinero",
+      "lexeme_id": "finance",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "B2",
+        "finance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "investment",
+      "back": "inversión",
+      "hint": "poner dinero en algo para obtener beneficios",
+      "lexeme_id": "investment",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "B2",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "must have been",
+      "back": "debe haber sido (deducción sobre el pasado)",
+      "hint": "para deducir algo con certeza",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "must have been",
+      "tags": [
+        "lesson_010",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "might have been",
+      "back": "podría haber sido (posibilidad en el pasado)",
+      "hint": "para expresar una posibilidad",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "might have been",
+      "tags": [
+        "lesson_010",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "should have been",
+      "back": "debería haber sido (crítica sobre el pasado)",
+      "hint": "para criticar una decisión pasada",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "should have been",
+      "tags": [
+        "lesson_010",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "pull off",
+      "back": "lograr, sacar adelante",
+      "hint": "conseguir algo difícil",
+      "lexeme_id": "pull_off_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "B2",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "give in",
+      "back": "ceder, rendirse",
+      "hint": "aceptar después de resistir",
+      "lexeme_id": "give_in_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "B2",
+        "general"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "budget",
+      "reading": "",
+      "translation": "presupuesto",
+      "pos": "noun",
+      "example": "We need to agree on the budget for the new project before we start any work.",
+      "example_translation": "Necesitamos ponernos de acuerdo sobre el presupuesto para el nuevo proyecto antes de comenzar cualquier trabajo.",
+      "lexeme_id": "budget",
+      "chunk_id": null
+    },
+    {
+      "target_word": "economy",
+      "reading": "",
+      "translation": "economía",
+      "pos": "noun",
+      "example": "Given the current economy, we might have to reduce the budget for the new project.",
+      "example_translation": "Dada la economía actual, podríamos tener que reducir el presupuesto para el nuevo proyecto.",
+      "lexeme_id": "economy",
+      "chunk_id": null
+    },
+    {
+      "target_word": "finance",
+      "reading": "",
+      "translation": "finanzas",
+      "pos": "noun",
+      "example": "The finance team must have made a mistake with the numbers, because the total doesn't add up.",
+      "example_translation": "El equipo de finanzas debe haber cometido un error con los números, porque el total no cuadra.",
+      "lexeme_id": "finance",
+      "chunk_id": null
+    },
+    {
+      "target_word": "investment",
+      "reading": "",
+      "translation": "inversión",
+      "pos": "noun",
+      "example": "A bigger investment in the marketing campaign might have been the reason for the success.",
+      "example_translation": "Una inversión más grande en la campaña de marketing podría haber sido la razón del éxito.",
+      "lexeme_id": "investment",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "budget",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "presupuesto",
+      "lexeme_id": "budget",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "exm_008",
+        "ex_001",
+        "ex_003",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "cost",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "costar",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_006",
+        "exm_008",
+        "ex_010",
+        "ex_015",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "funds",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_005",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "priority",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "prioridad",
+      "lexeme_id": "priority",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_007",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "investment",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "inversión",
+      "lexeme_id": "investment",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "modal perfects: must have, might have for past deduction and possibility",
+        "ex_002",
+        "ex_003",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_014",
+        "ex_016",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "negotiate",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "negociar",
+      "lexeme_id": "negotiate",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_007",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "allocate",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "asignar",
+      "lexeme_id": "allocate_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "ex_011",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "must have been",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_008",
+        "ex_011",
+        "fc_005",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "might have been",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "modal perfects: must have, might have for past deduction and possibility",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "should have been",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "must have allocated",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "economy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "economía",
+      "lexeme_id": "economy",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_010",
+        "ex_016",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "finance",
+      "role": "support",
+      "status": "practiced",
+      "translation": "finanzas",
+      "lexeme_id": "finance",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_006",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "pull off",
+      "role": "support",
+      "status": "review",
+      "translation": "lograr (algo difícil)",
+      "lexeme_id": "pull_off_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "give in",
+      "role": "support",
+      "status": "review",
+      "translation": "ceder / rendirse",
+      "lexeme_id": "give_in_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "exm_005",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_007",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "still",
+      "role": "support",
+      "status": "emergent",
+      "translation": "todavía / aún",
+      "lexeme_id": "still_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "exm_007",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "pull",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jalar / tirar de",
+      "lexeme_id": "pull_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "emergent",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "campaign",
+      "role": "support",
+      "status": "emergent",
+      "translation": "campaña",
+      "lexeme_id": "campaign",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_010",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "mistake",
+      "role": "support",
+      "status": "emergent",
+      "translation": "error",
+      "lexeme_id": "mistake",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "department",
+      "role": "support",
+      "status": "emergent",
+      "translation": "departamento",
+      "lexeme_id": "department",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "reduce",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reducir",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "ex_011",
+        "ex_016",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "agree",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_011",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "too",
+      "role": "support",
+      "status": "emergent",
+      "translation": "también; demasiado",
+      "lexeme_id": "too_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_011",
+        "ex_014",
+        "ex_016",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "wrong",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equivocado / incorrecto",
+      "lexeme_id": "wrong_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "already",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ya",
+      "lexeme_id": "already_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "wait",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "add",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sumar",
+      "lexeme_id": "add",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "right",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "give",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dar",
+      "lexeme_id": "give_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "on time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "a tiempo / puntual",
+      "lexeme_id": "on_time_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "issue",
+      "role": "support",
+      "status": "emergent",
+      "translation": "asunto / problema",
+      "lexeme_id": "issue",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "bigger",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más grande",
+      "lexeme_id": "bigger",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "reason",
+      "role": "support",
+      "status": "emergent",
+      "translation": "razon",
+      "lexeme_id": "reason",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "final",
+      "role": "support",
+      "status": "emergent",
+      "translation": "final",
+      "lexeme_id": "final_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "earlier",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más temprano",
+      "lexeme_id": "earlier",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "miracle",
+      "role": "support",
+      "status": "emergent",
+      "translation": "milagro",
+      "lexeme_id": "miracle",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "limit",
+      "role": "support",
+      "status": "emergent",
+      "translation": "límite",
+      "lexeme_id": "limit",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "success",
+      "role": "support",
+      "status": "emergent",
+      "translation": "éxito",
+      "lexeme_id": "success",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 11,
+    "lexical_target_count": 7,
+    "covered_lexical_target_count": 7,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 2,
+    "review_support_count": 2,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "project",
+      "need",
+      "still",
+      "pull",
+      "off",
+      "team",
+      "manager",
+      "campaign",
+      "mistake",
+      "department",
+      "reduce",
+      "agree",
+      "too",
+      "now",
+      "wrong",
+      "already",
+      "wait",
+      "add",
+      "right",
+      "time",
+      "give",
+      "work",
+      "finish",
+      "on time",
+      "issue",
+      "bigger",
+      "reason",
+      "final",
+      "earlier",
+      "miracle",
+      "limit",
+      "success"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Negotiating a budget for a new project",
+      "title_target": "Quiz: Negotiating a budget for a new project",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Por qué el director financiero rechazó la propuesta inicial?",
+          "prompt_target": "Read the text and answer: Why did the finance director reject the initial proposal?",
+          "options": [
+            "Because the marketing costs were extremely high",
+            "Because the team asked for too little money",
+            "Because the product was not ready",
+            "Because the meeting was too long"
+          ],
+          "correct_answer": "Because the marketing costs were extremely high",
+          "explanation_form": "El texto dice que el director rechazó la propuesta porque los costos de marketing eran extremadamente altos.",
+          "explanation_target": "The text says the director rejected the proposal because the marketing costs were extremely high.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "budget",
+            "finance",
+            "investment"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "The finance director reviewed the new project budget carefully. The team asked for a large investment to develop the product, but the director noticed that the marketing costs were extremely high. He explained that the company could not spend so much money on advertising without seeing a clear return. Instead, he suggested a smaller budget with a focus on digital campaigns, which are cheaper and reach a wider audience. The team agreed to reduce the marketing expenses and reallocate the funds to product development. They also decided to review the budget monthly to avoid unexpected costs. After the meeting, the project manager felt confident that the new plan was more realistic and sustainable for the company's economy.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "reading_comprehension",
+          "prompt_form": "Según el texto, ¿qué decisión tomó el equipo después de la reunión?",
+          "prompt_target": "According to the text, what decision did the team make after the meeting?",
+          "options": [
+            "To reduce marketing expenses and reallocate funds to product development",
+            "To cancel the project completely",
+            "To increase the advertising budget",
+            "To hire more staff immediately"
+          ],
+          "correct_answer": "To reduce marketing expenses and reallocate funds to product development",
+          "explanation_form": "El texto indica que el equipo acordó reducir los gastos de marketing y reasignar los fondos al desarrollo del producto.",
+          "explanation_target": "The text indicates the team agreed to reduce marketing expenses and reallocate funds to product development.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "budget",
+            "finance",
+            "investment"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "The finance director reviewed the new project budget carefully. The team asked for a large investment to develop the product, but the director noticed that the marketing costs were extremely high. He explained that the company could not spend so much money on advertising without seeing a clear return. Instead, he suggested a smaller budget with a focus on digital campaigns, which are cheaper and reach a wider audience. The team agreed to reduce the marketing expenses and reallocate the funds to product development. They also decided to review the budget monthly to avoid unexpected costs. After the meeting, the project manager felt confident that the new plan was more realistic and sustainable for the company's economy.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué cree el gerente sobre el presupuesto?",
+          "prompt_target": "Listen and answer: What does the manager think about the budget?",
+          "options": [
+            "The numbers must have been calculated too quickly",
+            "The budget is perfect and needs no changes",
+            "The team spent too little money",
+            "The meeting was cancelled"
+          ],
+          "correct_answer": "The numbers must have been calculated too quickly",
+          "explanation_form": "El gerente dice que los números deben haber sido calculados demasiado rápido, usando 'must have' para deducción en pasado.",
+          "explanation_target": "The manager says the numbers must have been calculated too quickly, using 'must have' for past deduction.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "budget",
+            "finance",
+            "must_have_past_deduction"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The manager looked at the budget and sighed. He said the numbers must have been calculated too quickly. The team might have forgotten some important costs. He decided to review the finance report again before the meeting. He wanted to avoid any surprises.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué podría haber causado el problema con el presupuesto?",
+          "prompt_target": "Listen and answer: What might have caused the problem with the budget?",
+          "options": [
+            "The team might have made a mistake with the investment figures",
+            "The company had no money at all",
+            "The project was cancelled",
+            "The accountant was on vacation"
+          ],
+          "correct_answer": "The team might have made a mistake with the investment figures",
+          "explanation_form": "El contador dice que el equipo podría haber cometido un error con las cifras de inversión, usando 'might have' para posibilidad en pasado.",
+          "explanation_target": "The accountant says the team might have made a mistake with the investment figures, using 'might have' for past possibility.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "budget",
+            "investment",
+            "might_have_past_deduction"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The accountant checked the numbers again. He said the team might have made a mistake with the investment figures. The marketing costs were higher than expected. He suggested comparing the budget with last year's report to find the error.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "must",
+            "have",
+            "the",
+            "budget",
+            "they",
+            "reviewed",
+            "carefully"
+          ],
+          "correct_answer": "They must have reviewed the budget carefully",
+          "explanation_form": "La frase correcta usa 'must have' + participio pasado para expresar una deducción sobre el pasado.",
+          "explanation_target": "The correct sentence uses 'must have' + past participle to express a deduction about the past.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "budget",
+            "must_have_past_deduction"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase con la forma correcta: 'The project ____ have cost more than we expected.' (deducción fuerte)",
+          "prompt_target": "Complete the sentence with the correct form: 'The project ____ have cost more than we expected.' (strong deduction)",
+          "options": null,
+          "correct_answer": "must",
+          "explanation_form": "Usamos 'must have' + participio pasado para expresar una deducción fuerte sobre el pasado.",
+          "explanation_target": "We use 'must have' + past participle to express a strong deduction about the past.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "budget",
+            "must_have_past_deduction"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'budget'?",
+          "prompt_target": "What is the meaning of 'budget'?",
+          "options": [
+            "Presupuesto",
+            "Inversión",
+            "Economía",
+            "Ganancia"
+          ],
+          "correct_answer": "Presupuesto",
+          "explanation_form": "'Budget' significa 'presupuesto' en español.",
+          "explanation_target": "'Budget' means 'presupuesto' in Spanish.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "budget"
+          ],
+          "points": 5,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'investment'?",
+          "prompt_target": "What is the meaning of 'investment'?",
+          "options": [
+            "Inversión",
+            "Presupuesto",
+            "Gasto",
+            "Ahorro"
+          ],
+          "correct_answer": "Inversión",
+          "explanation_form": "'Investment' significa 'inversión' en español.",
+          "explanation_target": "'Investment' means 'inversión' in Spanish.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "investment"
+          ],
+          "points": 5,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "budget",
+            "presupuesto",
+            "finance",
+            "finanzas",
+            "investment",
+            "inversión",
+            "economy",
+            "economía"
+          ],
+          "correct_answer": [
+            "budget=presupuesto",
+            "finance=finanzas",
+            "investment=inversión",
+            "economy=economía"
+          ],
+          "explanation_form": "Estas son las palabras clave de la lección sobre negociación de presupuestos.",
+          "explanation_target": "These are the key words from the lesson on budget negotiation.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "budget",
+            "finance",
+            "investment",
+            "economy"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Deben haber revisado el presupuesto antes de la reunión.'",
+          "prompt_target": "Translate to English: 'Deben haber revisado el presupuesto antes de la reunión.'",
+          "options": null,
+          "correct_answer": "They must have reviewed the budget before the meeting.",
+          "explanation_form": "Usamos 'must have' + participio pasado para expresar una deducción fuerte sobre el pasado.",
+          "explanation_target": "We use 'must have' + past participle to express a strong deduction about the past.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "budget",
+            "must_have_past_deduction"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Podrían haber invertido más en el proyecto.'",
+          "prompt_target": "Translate to English: 'Podrían haber invertido más en el proyecto.'",
+          "options": null,
+          "correct_answer": "They might have invested more in the project.",
+          "explanation_form": "Usamos 'might have' + participio pasado para expresar una posibilidad en el pasado.",
+          "explanation_target": "We use 'might have' + past participle to express a possibility in the past.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "investment",
+            "might_have_past_deduction"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'The company ____ have saved money with a better budget plan.' (posibilidad)",
+          "prompt_target": "Complete the sentence: 'The company ____ have saved money with a better budget plan.' (possibility)",
+          "options": null,
+          "correct_answer": "might",
+          "explanation_form": "Usamos 'might have' + participio pasado para expresar una posibilidad en el pasado.",
+          "explanation_target": "We use 'might have' + past participle to express a possibility in the past.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "budget",
+            "might_have_past_deduction"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Deducciones con 'must have' y 'might have'\n\nEn esta lección usamos **must have + participio** para deducir algo casi seguro del pasado: *\"They must have cut the budget\"* (Seguro que recortaron el presupuesto). Con **might have + participio** expresamos una posibilidad, no certeza: *\"She might have forgotten the invoice\"* (Pudo haber olvidado la factura).\n\n**Ojo, hispanohablante:** no digas *\"must to have\"* ni *\"might to have\"*. El verbo que sigue a *must have* / *might have* va SIEMPRE en participio pasado (3ª columna).\n\n## Errores comunes y trucos\n\n- ✗ *\"They must have cutted the budget\"* → ✓ *\"They must have cut the budget\"* (cut, cut, cut).\n- ✗ *\"She might has left\"* → ✓ *\"She might have left\"* (nunca *has* después de *might*).\n- En negociaciones, *might have* suaviza una crítica: *\"We might have overspent on marketing\"* suena mejor que *\"We overspent\"*.\n- Truco: si estás 90% seguro, usa **must have**; si estás al 50%, usa **might have**.",
+  "metadata": {
+    "generated_at": "2026-08-31T01:29:35Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

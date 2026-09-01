@@ -1,0 +1,1613 @@
+{
+  "id": "lesson_006",
+  "position": 6,
+  "unit_id": 1,
+  "course_id": "en.A2",
+  "title_form": "Describing what's happening now",
+  "title_target": "Describiendo lo que está pasando ahora",
+  "theme_focus": "daily_routine",
+  "learning_objectives": [
+    "Can describe current actions using present continuous."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_004"
+  ],
+  "grammar_focus": [
+    "present continuous: affirmative for current actions"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "attach_verb",
+        "continue_verb",
+        "raise_verb"
+      ],
+      "chunk_ids": [
+        "chunk_a2_im_cooking_now"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "do_the_dishes_phrase",
+        "put_away_verb",
+        "turn_off_verb",
+        "turn_on_verb",
+        "wear_verb",
+        "cook_verb",
+        "study_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana está en su casa un sábado por la mañana. Su amiga Laura la llama por teléfono y le pregunta qué está haciendo. Ana le cuenta que está cocinando y que su hermano está poniendo la mesa. Mientras hablan, Ana continúa con sus tareas y le explica a Laura lo que ve desde su ventana.",
+  "introduction_md": "En esta lección vas a aprender a describir lo que está pasando **ahora mismo**. ¿Qué estás haciendo en este momento? ¿Qué está haciendo tu amigo? Con el **presente continuo** podrás hablar de acciones en curso, como *I am cooking* o *She is reading*.\n\n**¿Qué vas a lograr?**\n\n- Describir acciones que ocurren ahora.\n- Usar el verbo *to be* + verbo con *-ing*.\n- Hablar de tu rutina diaria en tiempo real.\n\n¡Vamos a practicar con situaciones cotidianas!",
+  "intro_target": "In this lesson, you will learn to describe what is happening **right now**. What are you doing at this moment? What is your friend doing? With the **present continuous**, you can talk about actions in progress, like *I am cooking* or *She is reading*.\n\n**What will you achieve?**\n\n- Describe actions happening now.\n- Use the verb *to be* + verb with *-ing*.\n- Talk about your daily routine in real time.\n\nLet's practice with everyday situations!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "continue_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I'm cooking now, but I will continue after this call.",
+      "translation_form": "Estoy cocinando ahora, pero continuaré después de esta llamada.",
+      "highlight_words": [
+        "continue",
+        "cooking"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "raise_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is raising her hand to ask a question in class.",
+      "translation_form": "Ella está levantando la mano para hacer una pregunta en clase.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "attach_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am attaching the photo to this email for you.",
+      "translation_form": "Estoy adjuntando la foto a este correo para ti.",
+      "highlight_words": [
+        "attach"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_cooking_now",
+      "grammar_slug": null,
+      "text_target": "I'm cooking now, so I can't talk on the phone.",
+      "translation_form": "Estoy cocinando ahora, así que no puedo hablar por teléfono.",
+      "highlight_words": [
+        "cooking"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "continue_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are continuing our walk even though it's raining.",
+      "translation_form": "Estamos continuando nuestro paseo aunque está lloviendo.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "raise_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The teacher is raising the window because the room is hot.",
+      "translation_form": "El profesor está levantando la ventana porque la habitación está caliente.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "attach_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He is attaching the file to the message right now.",
+      "translation_form": "Él está adjuntando el archivo al mensaje ahora mismo.",
+      "highlight_words": [
+        "attach"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_cooking_now",
+      "grammar_slug": null,
+      "text_target": "I'm cooking now, but I'm also wearing my new apron.",
+      "translation_form": "Estoy cocinando ahora, pero también estoy usando mi delantal nuevo.",
+      "highlight_words": [
+        "cooking",
+        "wearing"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present continuous: affirmative for current actions",
+      "title_form": "Presente continuo: afirmativo para acciones actuales",
+      "title_target": "Present Continuous: Affirmative for Current Actions",
+      "description_md_form": "El **presente continuo** describe acciones que están ocurriendo **ahora mismo**. Se forma con el verbo **to be** (am/is/are) + el verbo principal con **-ing**.\n\n**Estructura:**\n\n- **I am** + verbo-ing → *I am cooking.*\n- **He/She/It is** + verbo-ing → *She is raising her hand.*\n- **You/We/They are** + verbo-ing → *We are continuing our walk.*\n\n**Uso clave:** lo usamos para lo que pasa en este momento, no para hábitos. Si dices *\"I cook\"*, hablas de una rutina; si dices *\"I am cooking\"*, hablas de **ahora**.\n\n**Palabras nuevas con -ing:**\n\n- attach → attaching\n- continue → continuing\n- raise → raising\n\n**Ejemplo:** *I'm cooking now, but I will continue after this call.*",
+      "description_md_target": "The **present continuous** describes actions happening **right now**. It is formed with the verb **to be** (am/is/are) + the main verb with **-ing**.\n\n**Structure:**\n\n- **I am** + verb-ing → *I am cooking.*\n- **He/She/It is** + verb-ing → *She is raising her hand.*\n- **You/We/They are** + verb-ing → *We are continuing our walk.*\n\n**Key use:** we use it for what is happening at this moment, not for habits. If you say *\"I cook\"*, you talk about a routine; if you say *\"I am cooking\"*, you talk about **now**.\n\n**New words with -ing:**\n\n- attach → attaching\n- continue → continuing\n- raise → raising\n\n**Example:** *I'm cooking now, but I will continue after this call.*",
+      "grammar_structure": "Subject + to be (am/is/are) + verb-ing + complement",
+      "conjugation_table": {
+        "name": "present_continuous_affirmative",
+        "headers": [
+          "Pronombre",
+          "To be",
+          "Verbo + -ing",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "am",
+            "cooking",
+            "I am cooking now."
+          ],
+          [
+            "You",
+            "are",
+            "continuing",
+            "You are continuing your walk."
+          ],
+          [
+            "He/She/It",
+            "is",
+            "raising",
+            "She is raising her hand."
+          ],
+          [
+            "We",
+            "are",
+            "attaching",
+            "We are attaching the photo."
+          ],
+          [
+            "They",
+            "are",
+            "turning off",
+            "They are turning off the light."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "continue_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I'm cooking now, but I will continue after this call.",
+          "translation_form": "Estoy cocinando ahora, pero continuaré después de esta llamada.",
+          "highlight_words": [
+            "continue"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "raise_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She is raising her hand to ask a question in class.",
+          "translation_form": "Ella está levantando la mano para hacer una pregunta en clase.",
+          "highlight_words": [
+            "raising"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Contracciones:** en conversación usamos *I'm*, *he's*, *she's*, *we're*, *they're*. Son más naturales que la forma completa."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No olvides el verbo to be.** En español decimos *\"cocinando ahora\"* sin verbo auxiliar, pero en inglés SIEMPRE necesitas *am/is/are*: *I am cooking*, no *I cooking*."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado con la -ing:** algunos verbos cambian al añadir -ing. Si el verbo termina en *-e*, la pierdes: *raise* → *raising* (no *raiseing*)."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el verbo to be: *I cooking now* en lugar de *I am cooking now*.",
+        "Usar el presente simple para acciones actuales: *I cook now* en lugar de *I am cooking now*.",
+        "Escribir *raiseing* en lugar de *raising* (se pierde la -e).",
+        "Confundir *continue* con *continuing*: el verbo principal siempre lleva -ing en este tiempo."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'attach'?",
+      "options": [
+        "adjuntar",
+        "continuar",
+        "levantar",
+        "cocinar"
+      ],
+      "correct_answer": "adjuntar",
+      "explanation_md": "'Attach' significa adjuntar o pegar algo, como un archivo a un correo.",
+      "related_lexeme_ids": [
+        "attach_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'continue'?",
+      "options": [
+        "continuar",
+        "adjuntar",
+        "levantar",
+        "apagar"
+      ],
+      "correct_answer": "continuar",
+      "explanation_md": "'Continue' significa seguir haciendo algo sin parar.",
+      "related_lexeme_ids": [
+        "continue_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'raise'?",
+      "options": [
+        "levantar",
+        "continuar",
+        "adjuntar",
+        "usar"
+      ],
+      "correct_answer": "levantar",
+      "explanation_md": "'Raise' significa levantar algo, como la mano para preguntar.",
+      "related_lexeme_ids": [
+        "raise_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'I'm cooking now'?",
+      "options": [
+        "Estoy cocinando ahora",
+        "Estoy comiendo ahora",
+        "Estoy comprando ahora",
+        "Estoy limpiando ahora"
+      ],
+      "correct_answer": "Estoy cocinando ahora",
+      "explanation_md": "'I'm cooking now' es la forma de decir que estás cocinando en este momento.",
+      "related_lexeme_ids": [
+        "cook_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_im_cooking_now"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'She is ______ her hand to ask a question.'",
+      "options": [
+        "raising",
+        "attaching",
+        "continuing",
+        "wearing"
+      ],
+      "correct_answer": "raising",
+      "explanation_md": "Usamos 'raising' porque ella está levantando la mano en este momento.",
+      "related_lexeme_ids": [
+        "raise_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta del presente continuo?",
+      "options": [
+        "I am attaching the photo.",
+        "I attach the photo.",
+        "I attached the photo.",
+        "I will attach the photo."
+      ],
+      "correct_answer": "I am attaching the photo.",
+      "explanation_md": "El presente continuo se forma con 'am/is/are' + verbo con '-ing'. Aquí hablamos de una acción actual.",
+      "related_lexeme_ids": [
+        "attach_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la forma correcta del verbo: 'We are ______ our walk even though it's raining.'",
+      "options": null,
+      "correct_answer": "continuing",
+      "explanation_md": "La forma correcta es 'continuing' porque usamos 'are' + verbo con '-ing' para acciones en progreso.",
+      "related_lexeme_ids": [
+        "continue_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la forma correcta del verbo: 'I'm ______ the photo to this email for you.'",
+      "options": null,
+      "correct_answer": "attaching",
+      "explanation_md": "Usamos 'attaching' porque la acción está ocurriendo ahora mismo.",
+      "related_lexeme_ids": [
+        "attach_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Estoy cocinando ahora, pero continuaré después de esta llamada.'",
+      "options": null,
+      "correct_answer": "I'm cooking now, but I will continue after this call.",
+      "explanation_md": "Usamos 'I'm cooking now' para la acción actual y 'will continue' para el futuro.",
+      "related_lexeme_ids": [
+        "continue_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_im_cooking_now"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'She is raising her hand to ask a question in class.'",
+      "options": null,
+      "correct_answer": "Ella está levantando la mano para hacer una pregunta en clase.",
+      "explanation_md": "El presente continuo 'is raising' se traduce como 'está levantando'.",
+      "related_lexeme_ids": [
+        "raise_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué está haciendo Ana ahora?",
+      "options": [
+        "She is watching TV.",
+        "She is cooking dinner.",
+        "She is watering the plants.",
+        "She is sleeping."
+      ],
+      "correct_answer": "She is cooking dinner.",
+      "explanation_md": "El texto dice 'She is cooking dinner for her family', así que Ana está cocinando.",
+      "related_lexeme_ids": [
+        "cook_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana is in the kitchen. She is cooking dinner for her family. Her brother is in the living room. He is watching TV. Ana's mom is in the garden. She is watering the plants. Ana is happy because they are all together tonight.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué está haciendo Pedro?",
+      "options": [
+        "He is cooking.",
+        "He is studying.",
+        "He is sleeping.",
+        "He is playing."
+      ],
+      "correct_answer": "He is studying.",
+      "explanation_md": "El audio dice 'He is studying for his exam', así que Pedro está estudiando.",
+      "related_lexeme_ids": [
+        "study_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Pedro is in his room. He is studying for his exam. His phone is on the desk. He is not using it now. He wants to pass the test tomorrow.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones en inglés sobre lo que estás haciendo ahora mismo. Usá el presente continuo.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto del presente continuo (am/is/are + verbo-ing) para describir acciones actuales.",
+      "related_lexeme_ids": [
+        "continue_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_im_cooking_now"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I'm studying English now.",
+        "I'm sitting at my desk and I'm writing.",
+        "I'm listening to music."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "attach",
+      "back": "unir / pegar / adjuntar",
+      "hint": "verbo para unir cosas",
+      "lexeme_id": "attach_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "continue",
+      "back": "continuar",
+      "hint": "seguir haciendo algo",
+      "lexeme_id": "continue_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "raise",
+      "back": "levantar / criar",
+      "hint": "levantar la mano o criar niños",
+      "lexeme_id": "raise_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "I'm cooking now.",
+      "back": "Estoy cocinando ahora.",
+      "hint": "acción en progreso",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_cooking_now",
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "do the dishes",
+      "back": "lavar los platos",
+      "hint": "tarea de la casa",
+      "lexeme_id": "do_the_dishes_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "put away",
+      "back": "guardar / poner en su lugar",
+      "hint": "guardar algo en su sitio",
+      "lexeme_id": "put_away_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "turn off",
+      "back": "apagar",
+      "hint": "apagar la luz o la TV",
+      "lexeme_id": "turn_off_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "turn on",
+      "back": "encender",
+      "hint": "encender la luz o la TV",
+      "lexeme_id": "turn_on_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "wear",
+      "back": "usar / llevar puesto",
+      "hint": "ropa que llevas puesta",
+      "lexeme_id": "wear_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "attach",
+      "reading": "",
+      "translation": "unir / pegar / adjuntar",
+      "pos": "verb",
+      "example": "I am attaching the photo to this email for you.",
+      "example_translation": "Estoy adjuntando la foto a este correo para ti.",
+      "lexeme_id": "attach_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "continue",
+      "reading": "",
+      "translation": "continuar",
+      "pos": "verb",
+      "example": "I'm cooking now, but I will continue after this call.",
+      "example_translation": "Estoy cocinando ahora, pero continuaré después de esta llamada.",
+      "lexeme_id": "continue_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "raise",
+      "reading": "",
+      "translation": "levantar / criar",
+      "pos": "verb",
+      "example": "She is raising her hand to ask a question in class.",
+      "example_translation": "Ella está levantando la mano para hacer una pregunta en clase.",
+      "lexeme_id": "raise_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I'm cooking now.",
+      "reading": "",
+      "translation": "Estoy cocinando ahora.",
+      "pos": "chunk",
+      "example": "I'm cooking now, so I can't talk on the phone.",
+      "example_translation": "Estoy cocinando ahora, así que no puedo hablar por teléfono.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_cooking_now"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "attach",
+      "role": "support",
+      "status": "practiced",
+      "translation": "unir / pegar / adjuntar",
+      "lexeme_id": "attach_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "exm_007",
+        "ex_001",
+        "ex_006",
+        "ex_008",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "continue",
+      "role": "support",
+      "status": "practiced",
+      "translation": "continuar",
+      "lexeme_id": "continue_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_005",
+        "ex_002",
+        "ex_007",
+        "ex_009",
+        "ex_013",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "raise",
+      "role": "support",
+      "status": "practiced",
+      "translation": "levantar / criar",
+      "lexeme_id": "raise_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_006",
+        "ex_003",
+        "ex_005",
+        "ex_010",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "I'm cooking now.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Estoy cocinando ahora.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_cooking_now",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "exm_008",
+        "ex_004",
+        "ex_009",
+        "ex_013",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "cook",
+      "role": "support",
+      "status": "review",
+      "translation": "cocinar",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_004",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "do the dishes",
+      "role": "support",
+      "status": "review",
+      "translation": "lavar los platos",
+      "lexeme_id": "do_the_dishes_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "put away",
+      "role": "support",
+      "status": "review",
+      "translation": "guardar",
+      "lexeme_id": "put_away_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_006"
+      ]
+    },
+    {
+      "term": "turn off",
+      "role": "support",
+      "status": "review",
+      "translation": "apagar",
+      "lexeme_id": "turn_off_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "turn on",
+      "role": "support",
+      "status": "review",
+      "translation": "encender / prender",
+      "lexeme_id": "turn_on_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "wear",
+      "role": "support",
+      "status": "review",
+      "translation": "llevar (ropa puesta)",
+      "lexeme_id": "wear_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "exm_007",
+        "exm_008",
+        "ex_012",
+        "ex_013",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "cooking",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocinar (actividad)",
+      "lexeme_id": "cooking",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "exm_008",
+        "ex_011",
+        "fc_004",
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "turn",
+      "role": "support",
+      "status": "emergent",
+      "translation": "girar / doblar",
+      "lexeme_id": "turn_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "room",
+      "role": "support",
+      "status": "emergent",
+      "translation": "habitación / cuarto",
+      "lexeme_id": "room",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "right",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_007",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "hand",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mano",
+      "lexeme_id": "hand",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "phone",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "even",
+      "role": "support",
+      "status": "emergent",
+      "translation": "incluso",
+      "lexeme_id": "even_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "put",
+      "role": "support",
+      "status": "emergent",
+      "translation": "poner",
+      "lexeme_id": "put_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_006"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "walk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caminar",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "class",
+      "role": "support",
+      "status": "emergent",
+      "translation": "clase",
+      "lexeme_id": "class",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "email",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "hot",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caliente",
+      "lexeme_id": "hot_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "message",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mensaje",
+      "lexeme_id": "message",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "window",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ventana",
+      "lexeme_id": "window",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "file",
+      "role": "support",
+      "status": "emergent",
+      "translation": "archivo / archivar",
+      "lexeme_id": "file",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "photo",
+      "role": "support",
+      "status": "emergent",
+      "translation": "foto",
+      "lexeme_id": "photo",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "emergent",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "action",
+      "role": "support",
+      "status": "emergent",
+      "translation": "acción",
+      "lexeme_id": "action",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "present",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actual",
+      "lexeme_id": "present_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "affirmative",
+      "role": "support",
+      "status": "emergent",
+      "translation": "afirmativo",
+      "lexeme_id": "affirmative_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "current",
+      "role": "support",
+      "status": "emergent",
+      "translation": "corriente",
+      "lexeme_id": "current",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "mom",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mamá",
+      "lexeme_id": "mom",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "kitchen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocina",
+      "lexeme_id": "kitchen",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "garden",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jardín",
+      "lexeme_id": "garden",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "look",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar",
+      "lexeme_id": "look_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_007",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_009"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 4,
+    "review_support_count": 6,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "now",
+      "cooking",
+      "turn",
+      "room",
+      "right",
+      "teacher",
+      "ask",
+      "hand",
+      "phone",
+      "even",
+      "put",
+      "talk",
+      "call",
+      "walk",
+      "class",
+      "email",
+      "hot",
+      "message",
+      "window",
+      "file",
+      "photo",
+      "off",
+      "action",
+      "present",
+      "affirmative",
+      "current",
+      "mom",
+      "kitchen",
+      "garden",
+      "look",
+      "family",
+      "study"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describing what's happening now",
+      "title_target": "Quiz: Describing what's happening now",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración con la forma correcta del verbo: 'She ____ the paper to the wall.'",
+          "prompt_target": "Complete the sentence with the correct form of the verb: 'She ____ the paper to the wall.'",
+          "options": null,
+          "correct_answer": "is attaching",
+          "explanation_form": "Para describir una acción que está pasando ahora, usamos 'is' + verbo con '-ing'. 'Attach' se convierte en 'attaching'.",
+          "explanation_target": "To describe an action happening now, we use 'is' + verb with '-ing'. 'Attach' becomes 'attaching'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "attach_verb",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué oración describe una acción que está pasando AHORA?",
+          "prompt_target": "Which sentence describes an action happening NOW?",
+          "options": [
+            "I am cooking dinner.",
+            "I cook dinner every day.",
+            "I cooked dinner yesterday.",
+            "I will cook dinner."
+          ],
+          "correct_answer": "I am cooking dinner.",
+          "explanation_form": "'I am cooking' usa el presente continuo (am + -ing), que describe una acción en progreso ahora mismo.",
+          "explanation_target": "'I am cooking' uses the present continuous (am + -ing), which describes an action in progress right now.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_im_cooking_now",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la forma correcta: 'They ____ to study after lunch.'",
+          "prompt_target": "Complete with the correct form: 'They ____ to study after lunch.'",
+          "options": null,
+          "correct_answer": "are continuing",
+          "explanation_form": "Con 'they' usamos 'are' + verbo con '-ing'. 'Continue' se convierte en 'continuing'.",
+          "explanation_target": "With 'they' we use 'are' + verb with '-ing'. 'Continue' becomes 'continuing'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "continue_verb",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del presente continuo para 'raise'?",
+          "prompt_target": "What is the correct present continuous form of 'raise'?",
+          "options": [
+            "raising",
+            "raiseing",
+            "raises",
+            "raised"
+          ],
+          "correct_answer": "raising",
+          "explanation_form": "Para 'raise', quitamos la 'e' final y agregamos '-ing': 'raising'.",
+          "explanation_target": "For 'raise', we drop the final 'e' and add '-ing': 'raising'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "raise_verb",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "am",
+            "cooking",
+            "now",
+            "."
+          ],
+          "correct_answer": "I am cooking now.",
+          "explanation_form": "La estructura del presente continuo es: sujeto + am/is/are + verbo-ing. 'I am cooking now.' es correcto.",
+          "explanation_target": "The present continuous structure is: subject + am/is/are + verb-ing. 'I am cooking now.' is correct.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_im_cooking_now",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta: ¿Qué está haciendo la persona?",
+          "prompt_target": "Listen and choose the correct answer: What is the person doing?",
+          "options": [
+            "Cooking dinner",
+            "Watching TV",
+            "Sleeping",
+            "Reading a book"
+          ],
+          "correct_answer": "Cooking dinner",
+          "explanation_form": "La persona dice 'I am cooking dinner for my family', así que está cocinando la cena.",
+          "explanation_target": "The person says 'I am cooking dinner for my family', so they are cooking dinner.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_im_cooking_now",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "Hello. I am in the kitchen. I am cooking dinner for my family. My mom is helping me. We are making a salad and some chicken.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta: ¿Qué está haciendo la persona?",
+          "prompt_target": "Listen and choose the correct answer: What is the person doing?",
+          "options": [
+            "Raising their hands",
+            "Running",
+            "Eating",
+            "Sleeping"
+          ],
+          "correct_answer": "Raising their hands",
+          "explanation_form": "El audio dice 'They are raising their hands', así que están levantando las manos.",
+          "explanation_target": "The audio says 'They are raising their hands', so they are raising their hands.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "raise_verb",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Look at the children. They are in the garden. They are raising their hands. The teacher is asking a question.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué está haciendo Sarah?",
+          "prompt_target": "Read the text and answer: What is Sarah doing?",
+          "options": [
+            "Studying for her exam",
+            "Cooking lunch",
+            "Raising plants",
+            "Sleeping"
+          ],
+          "correct_answer": "Studying for her exam",
+          "explanation_form": "El texto dice 'Sarah is in her room. She is studying for her exam.'",
+          "explanation_target": "The text says 'Sarah is in her room. She is studying for her exam.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "study_verb",
+            "continue_verb",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Sarah is in her room. She is studying for her exam. Her brother is in the kitchen. He is cooking lunch. Their mom is in the garden. She is raising some plants. Everyone is busy right now.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del presente continuo para 'study'?",
+          "prompt_target": "What is the correct present continuous form of 'study'?",
+          "options": [
+            "studying",
+            "studyying",
+            "studies",
+            "studied"
+          ],
+          "correct_answer": "studying",
+          "explanation_form": "Para verbos que terminan en 'y' después de consonante, solo agregamos '-ing': 'studying'.",
+          "explanation_target": "For verbs ending in 'y' after a consonant, we just add '-ing': 'studying'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "study_verb",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la forma correcta: 'Look! The teacher ____ the paper to the board.'",
+          "prompt_target": "Complete with the correct form: 'Look! The teacher ____ the paper to the board.'",
+          "options": null,
+          "correct_answer": "is attaching",
+          "explanation_form": "Con 'the teacher' (singular) usamos 'is' + verbo-ing. 'Attach' se convierte en 'attaching'.",
+          "explanation_target": "With 'the teacher' (singular) we use 'is' + verb-ing. 'Attach' becomes 'attaching'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "attach_verb",
+            "present continuous: affirmative for current actions"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El presente progresivo: acciones en marcha\n\nUsamos el presente progresivo (am/is/are + verbo -ing) para hablar de lo que pasa AHORA. Piensa en una foto: si puedes ver la acción, usa esta forma. Ejemplo: *I am cooking now* (estoy cocinando ahora).\n\n**Ojo con los verbos que terminan en -e:** pierden la -e antes de -ing: *raise* → *raising*, *continue* → *continuing*. No digas *raiseing* ni *continueing*.\n\n## Acciones y estados\n\nLos verbos de acción (*cook*, *raise*, *attach*, *put away*) funcionan bien en esta forma. Los verbos de estado (*want*, *need*, *know*) casi nunca se usan en -ing. No digas *I am wanting a coffee*; di *I want a coffee*.\n\n**Consejo:** cuando veas una acción (cocinar, levantar algo o apagar una luz), di la frase en inglés: *She is cooking*, *He is raising his hand*, *I am turning off the light*. Así conectas la gramática con tu día.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:49:18Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

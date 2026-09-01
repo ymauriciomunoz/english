@@ -1,0 +1,1590 @@
+{
+  "id": "lesson_011",
+  "position": 11,
+  "unit_id": 4,
+  "course_id": "en.B1",
+  "title_form": "Comparar productos y precios",
+  "title_target": "Comparing products and prices",
+  "theme_focus": "finance and consumption",
+  "learning_objectives": [
+    "Can compare familiar products and explain which option offers better value."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_010"
+  ],
+  "grammar_focus": [
+    "Comparatives, superlatives, too/enough and quantity expressions."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "afford"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "affordable_adj",
+        "expensive_adj"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "product",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the finance and consumption situation."
+      },
+      {
+        "term": "price",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the finance and consumption situation."
+      },
+      {
+        "term": "more affordable",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "the most useful",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "more than",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "enough",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos necesita comprar una nueva computadora portátil para su trabajo y está comparando dos modelos en una tienda de tecnología. Él revisa las características, analiza si una opción es más costosa que la otra y calcula si tiene el presupuesto suficiente. Finalmente, conversa con el vendedor para decidir cuál producto puede comprar sin salirse de sus posibilidades.",
+  "introduction_md": "¿Alguna vez has querido comprar algo pero no sabías si el precio era justo? En esta lección aprenderás a comparar productos y tomar mejores decisiones financieras en inglés. Analizaremos distintas opciones para descubrir cuál es la alternativa más conveniente según tu presupuesto.\n\nEn esta lección practicarás cómo:\n- Comparar dos o más productos usando estructuras comparativas y superlativas.\n- Explicar si un producto es lo suficientemente bueno o si cuesta más de lo esperado.\n- Usar el verbo *afford* para decir si puedes permitirte comprar un artículo.\n\nAl finalizar, tendrás las herramientas léxicas y gramaticales necesarias para evaluar precios, analizar características y decidir con confianza qué producto comprar. ¡Empecemos a comparar!",
+  "intro_target": "Have you ever wanted to buy something but did not know if the price was fair? In this lesson, you will learn how to compare products and make better financial decisions in English. We will analyze options to discover which alternative is the best fit for your budget.\n\nIn this lesson, you will practice how to:\n- Compare two or more products using comparative and superlative structures.\n- Explain if a product is good enough or if it costs more than expected.\n- Use the verb *afford* to say whether you can buy a particular item.\n\nBy the end, you will have the lexical and grammatical tools needed to evaluate prices, analyze features, and confidently decide which product to buy. Let us start comparing!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "afford",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I cannot afford this modern laptop because the price is more than my salary.",
+      "translation_form": "No puedo permitirme esta computadora portátil moderna porque el precio es mayor que mi salario.",
+      "highlight_words": [
+        "afford",
+        "price",
+        "more",
+        "than"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This store has a product that is more affordable and less expensive than that one.",
+      "translation_form": "Esta tienda tiene un producto que es más asequible y menos costoso que aquel.",
+      "highlight_words": [
+        "product",
+        "more",
+        "affordable",
+        "expensive",
+        "than"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This small smartphone is the most useful item in the shop, but I do not have enough money.",
+      "translation_form": "Este teléfono inteligente pequeño es el artículo más útil de la tienda, pero no tengo suficiente dinero.",
+      "highlight_words": [
+        "the",
+        "most",
+        "useful",
+        "enough"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Do you think we can afford this car, or is it too expensive for our family?",
+      "translation_form": "¿Crees que podemos permitirnos este coche, o es demasiado caro para nuestra familia?",
+      "highlight_words": [
+        "afford",
+        "expensive"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The first product is more affordable than the second one, so many customers choose to buy it.",
+      "translation_form": "El primer producto es más asequible que el segundo, por lo que muchos clientes eligen comprarlo.",
+      "highlight_words": [
+        "product",
+        "more",
+        "affordable",
+        "than"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Comparatives, superlatives, too/enough and quantity expressions.",
+      "title_form": "Comparativos, superlativos, too/enough y expresiones de cantidad",
+      "title_target": "Comparatives, superlatives, too/enough and quantity expressions",
+      "description_md_form": "Para comparar **productos y precios** en inglés, utilizamos estructuras comparativas, superlativas y moduladores de cantidad:\n\n1. **Comparativos de grado**: Para adjetivos largos, usa **more + adjetivo + than** (ej. *more affordable than*).\n2. **Superlativos**: Para indicar la opción suprema, usa **the most + adjetivo** (ej. *the most useful*).\n3. **Too (demasiado)**: Se coloca **antes** del adjetivo para indicar un exceso que impida la compra (ej. *too expensive*).\n4. **Enough (suficiente)**: Se coloca **después** del adjetivo, pero **antes** de un sustantivo (ej. *enough money*).\n5. **Verbo afford**: Expresa la capacidad económica de pagar un precio. Generalmente se combina con *can* o *cannot* (ej. *I cannot afford this laptop*).\n\nEstas herramientas te permiten describir cuál opción ofrece mejor valor según tu presupuesto.",
+      "description_md_target": "To compare **products and prices** in English, we use comparative structures, superlatives, and quantity modifiers:\n\n1. **Comparatives**: For long adjectives, use **more + adjective + than** (e.g., *more affordable than*).\n2. **Superlatives**: To highlight the top option, use **the most + adjective** (e.g., *the most useful*).\n3. **Too (excess)**: Place **too before** the adjective to express an excessive cost (e.g., *too expensive*).\n4. **Enough (sufficiency)**: Place **enough after** an adjective, but **before** a noun (e.g., *enough money*).\n5. **Verb afford**: Expresses the financial ability to pay a price. It is usually paired with *can* or *cannot* (e.g., *I cannot afford this laptop*).\n\nThese key patterns help you explain options and decide which item offers the best value.",
+      "grammar_structure": "more + adj + than | the most + adj | too + adj | adj + enough / enough + noun",
+      "conjugation_table": {
+        "name": "comparative_and_quantity_patterns",
+        "headers": [
+          "Estructura",
+          "Regla de uso",
+          "Ejemplo práctico"
+        ],
+        "rows": [
+          [
+            "more + adj + than",
+            "Comparar dos productos",
+            "more affordable than"
+          ],
+          [
+            "the most + adj",
+            "Resaltar el producto supremo",
+            "the most useful product"
+          ],
+          [
+            "too + adj",
+            "Exceso negativo de precio/propiedad",
+            "too expensive"
+          ],
+          [
+            "enough + noun",
+            "Cantidad suficiente de dinero u otros",
+            "enough money"
+          ],
+          [
+            "can/cannot afford",
+            "Capacidad financiera de compra",
+            "I cannot afford this car"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Comparatives, superlatives, too/enough and quantity expressions.",
+          "text_target": "This store has a product that is more affordable than that one, but I do not have enough money.",
+          "translation_form": "Esta tienda tiene un producto que es más asequible que aquel, pero no tengo suficiente dinero.",
+          "highlight_words": [
+            "more",
+            "affordable",
+            "than",
+            "enough"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Comparatives, superlatives, too/enough and quantity expressions.",
+          "text_target": "This smartphone is the most useful item in the shop, but it is too expensive to afford.",
+          "translation_form": "Este teléfono inteligente es el artículo más útil de la tienda, pero es demasiado caro para permitírselo.",
+          "highlight_words": [
+            "the",
+            "most",
+            "useful",
+            "too",
+            "expensive",
+            "afford"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "text_md": "Presta atención a la posición de **enough**: va *después* de adjetivos (*affordable enough*), pero *antes* de sustantivos (*enough money*)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No dupliques la marca de comparativo. Di *more affordable*, nunca *more cheaper* ni *more affordable than that one* sin el segundo elemento."
+        }
+      ],
+      "common_errors_es": [
+        "Colocar 'enough' antes de un adjetivo (decir 'enough affordable' en lugar de 'affordable enough').",
+        "Confundir la estructura de 'afford' añadiendo preposiciones innecesarias (decir 'afford for this product').",
+        "Olvidar la palabra 'than' al hacer comparaciones explícitas de precio entre dos productos."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa el verbo 'afford' en español?",
+      "options": [
+        "Permitirse / pagar el costo de algo",
+        "Vender un producto rápidamente",
+        "Comparar precios en la tienda",
+        "Aumentar el valor de un artículo"
+      ],
+      "correct_answer": "Permitirse / pagar el costo de algo",
+      "explanation_md": "'Afford' significa tener el dinero o los recursos suficientes para comprar o pagar algo.",
+      "related_lexeme_ids": [
+        "afford"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la expresión correcta para completar la comparación: 'This old car is ____ than that new product.'",
+      "options": [
+        "more affordable",
+        "most affordable",
+        "afford",
+        "enough affordable"
+      ],
+      "correct_answer": "more affordable",
+      "explanation_md": "Usamos 'more affordable than' para indicar que un producto es más asequible que otro.",
+      "related_lexeme_ids": [
+        "affordable_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja los términos en inglés sobre compras y precios con su traducción al español:",
+      "options": [
+        "afford",
+        "permitirse",
+        "product",
+        "producto",
+        "price",
+        "precio",
+        "expensive",
+        "caro"
+      ],
+      "correct_answer": [
+        "afford=permitirse",
+        "product=producto",
+        "price=precio",
+        "expensive=caro"
+      ],
+      "explanation_md": "Estos términos son fundamentales para comparar opciones y evaluar presupuestos al comprar.",
+      "related_lexeme_ids": [
+        "afford",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el verbo en inglés para expresar que no puedes pagar el artículo: 'I cannot ____ this modern laptop.'",
+      "options": null,
+      "correct_answer": "afford",
+      "explanation_md": "'I cannot afford' expresa que el precio supera lo que puedes o deseas pagar.",
+      "related_lexeme_ids": [
+        "afford"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase comparativa con la palabra que falta: 'The new smartphone is ____ expensive than the old model.'",
+      "options": null,
+      "correct_answer": "more",
+      "explanation_md": "Usamos 'more' antes de adjetivos largos como 'expensive' para formar el comparativo de superioridad.",
+      "related_lexeme_ids": [
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente oración sobre presupuestos: 'No tengo suficiente dinero para comprar este producto.'",
+      "options": null,
+      "correct_answer": "I do not have enough money to buy this product.",
+      "explanation_md": "'Enough money' coloca el cuantificador 'enough' antes del sustantivo 'money'.",
+      "related_lexeme_ids": [
+        "afford"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la siguiente afirmación: 'This small store has the most useful items.'",
+      "options": null,
+      "correct_answer": "Esta tienda pequeña tiene los artículos más útiles.",
+      "explanation_md": "'The most useful' es la forma superlativa para expresar 'los más útiles' frente a un grupo de objetos.",
+      "related_lexeme_ids": [
+        "affordable_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha la conversación corta en la tienda y responde: ¿Por qué prefiere la persona la segunda laptop?",
+      "options": [
+        "Porque es más asequible y tiene un buen precio.",
+        "Porque es el producto más caro de la tienda.",
+        "Porque no tiene dinero para la segunda opción.",
+        "Porque la primera laptop no funciona bien."
+      ],
+      "correct_answer": "Porque es más asequible y tiene un buen precio.",
+      "explanation_md": "En la grabación se explica que la primera laptop es cara y no se la puede permitir, mientras que la segunda es 'more affordable' (más asequible).",
+      "related_lexeme_ids": [
+        "afford",
+        "affordable_adj",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I want to buy a new laptop for work. The first product is very expensive and I cannot afford it. The second laptop is more affordable and has a good price.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el siguiente texto sobre la decisión de compra de María y responde la pregunta: ¿Por qué eligió el segundo producto?",
+      "options": [
+        "Porque era más asequible y no podía permitirse el primero.",
+        "Porque el primer teléfono era menos costoso que el segundo.",
+        "Porque el segundo producto era demasiado caro para ella.",
+        "Porque el primer teléfono era el artículo más útil."
+      ],
+      "correct_answer": "Porque era más asequible y no podía permitirse el primero.",
+      "explanation_md": "El texto aclara que el primer teléfono tenía un precio demasiado alto ('she could not afford it') y el segundo era más asequible ('more affordable').",
+      "related_lexeme_ids": [
+        "afford",
+        "affordable_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Many customers visit this shop to compare products before buying. Yesterday, Maria looked for a new smartphone. She saw two options. The first smartphone was modern, but the price was too high and she could not afford it. The second option was more affordable and had enough space for her daily work. She decided to buy the second product because it was the most useful item for her.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente oración comparativa: 'Esta computadora portátil es más cara que aquella, pero no puedo permitírmela.'",
+      "options": null,
+      "correct_answer": "This laptop is more expensive than that one, but I cannot afford it.",
+      "explanation_md": "Se usa 'more expensive than' para la comparación e 'I cannot afford it' para indicar imposibilidad de pago.",
+      "related_lexeme_ids": [
+        "afford",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la palabra adecuada para indicar suficiencia en el precio: 'Is this price low ____ for us to buy the product?'",
+      "options": [
+        "enough",
+        "more",
+        "too",
+        "most"
+      ],
+      "correct_answer": "enough",
+      "explanation_md": "El término 'enough' se coloca después del adjetivo ('low enough') para preguntar si es suficientemente bajo.",
+      "related_lexeme_ids": [
+        "afford"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribe 2 oraciones en inglés comparando dos productos. Procura incluir expresiones como 'more affordable', 'expensive' o 'afford'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la correcta aplicación de estructuras comparativas (more affordable / more expensive) y el uso correcto del verbo 'afford'.",
+      "related_lexeme_ids": [
+        "afford",
+        "affordable_adj",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "This smartphone is more affordable than that laptop. I can afford it easily.",
+        "The new car is too expensive for me, so I cannot afford it."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Por qué eligió la narradora el segundo teléfono? / Read the short story and answer: Why did the narrator choose the second phone?",
+      "options": [
+        "Porque era más asequible y tenía espacio suficiente para sus fotos.",
+        "Porque era el producto más caro de la tienda.",
+        "Porque el primer teléfono era menos costoso.",
+        "Porque no podía permitirse ninguna de las dos opciones."
+      ],
+      "correct_answer": "Porque era más asequible y tenía espacio suficiente para sus fotos.",
+      "explanation_md": "La narradora eligió el segundo teléfono porque era más asequible y tenía espacio suficiente; comparó precio, capacidad y utilidad. / The narrator chose the second phone because it was more affordable and had enough storage; she compared price, capacity and usefulness.",
+      "related_lexeme_ids": [
+        "afford",
+        "affordable_adj",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Last weekend, I went to a shop to replace my old phone. I compared two models. The first was more powerful, but it was too expensive for my budget. The second was less expensive and had enough storage for my photos. I was worried that the cheaper model would be slow, but the assistant showed me its reviews. In the end, I chose the second phone because it was more affordable and useful for my needs.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Por qué compró la narradora la mochila verde? / Listen to the short story and answer: Why did the narrator buy the green backpack?",
+      "options": [
+        "Porque era más barata y lo bastante grande para su portátil.",
+        "Porque era la mochila más cara.",
+        "Porque la mochila azul tenía demasiado espacio.",
+        "Porque no podía permitirse la mochila verde."
+      ],
+      "correct_answer": "Porque era más barata y lo bastante grande para su portátil.",
+      "explanation_md": "La mochila verde era más barata, tenía espacio suficiente y la narradora podía pagarla. / The green backpack was cheaper, had enough space, and the narrator could afford it.",
+      "related_lexeme_ids": [
+        "afford",
+        "affordable_adj",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Today, I compared three backpacks for a trip. The black one was the most expensive, and the blue one was too small. The green backpack was cheaper than the others and large enough for my laptop. I could afford it, so I bought it. I felt relieved because it was the most useful option.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "afford",
+      "back": "costear / permitirse",
+      "hint": "tener suficiente dinero para comprar algo",
+      "lexeme_id": "afford",
+      "chunk_id": null,
+      "tags": [
+        "lesson_011",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "can afford",
+      "back": "poder pagar / tener los medios para",
+      "hint": "expresa capacidad económica",
+      "lexeme_id": "afford",
+      "chunk_id": null,
+      "tags": [
+        "lesson_011",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "cannot afford",
+      "back": "no poder permitirse",
+      "hint": "cuándo algo supera tu presupuesto",
+      "lexeme_id": "afford",
+      "chunk_id": null,
+      "tags": [
+        "lesson_011",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "affordable",
+      "back": "asequible / económico",
+      "hint": "precio razonable o accesible",
+      "lexeme_id": "affordable_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_011",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "expensive",
+      "back": "caro / costoso",
+      "hint": "opuesto a barato",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_011",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "afford",
+      "reading": "",
+      "translation": "dar / ceder / permitir",
+      "pos": "noun",
+      "example": "I cannot afford this modern laptop because the price is more than my salary.",
+      "example_translation": "No puedo permitirme esta computadora portátil moderna porque el precio es mayor que mi salario.",
+      "lexeme_id": "afford",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "product",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "producto",
+      "lexeme_id": "product",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_005",
+        "Comparatives, superlatives, too/enough and quantity expressions.",
+        "ex_008",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "price",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "precio",
+      "lexeme_id": "price",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "Comparatives, superlatives, too/enough and quantity expressions.",
+        "ex_008",
+        "ex_009",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "more affordable",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_002",
+        "exm_005",
+        "Comparatives, superlatives, too/enough and quantity expressions.",
+        "ex_008",
+        "ex_009",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "the most useful",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "Comparatives, superlatives, too/enough and quantity expressions.",
+        "ex_009",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "more than",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001"
+      ]
+    },
+    {
+      "term": "enough",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Comparatives, superlatives, too/enough and quantity expressions.",
+        "ex_009",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "afford",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dar / ceder / permitir",
+      "lexeme_id": "afford",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_003",
+        "ex_004",
+        "ex_006",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_001",
+        "fc_002",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "affordable",
+      "role": "support",
+      "status": "review",
+      "translation": "asequible / económico",
+      "lexeme_id": "affordable_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_002",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "expensive",
+      "role": "support",
+      "status": "review",
+      "translation": "caro / costoso",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_003",
+        "ex_005",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "cannot",
+      "role": "support",
+      "status": "emergent",
+      "translation": "no poder",
+      "lexeme_id": "cannot",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "ex_012",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "too",
+      "role": "support",
+      "status": "emergent",
+      "translation": "también; demasiado",
+      "lexeme_id": "too_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "buy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comprar",
+      "lexeme_id": "buy_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "ex_009",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "laptop",
+      "role": "support",
+      "status": "emergent",
+      "translation": "laptop / portátil",
+      "lexeme_id": "laptop",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "car",
+      "role": "support",
+      "status": "emergent",
+      "translation": "coche / carro",
+      "lexeme_id": "car",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_014",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "shop",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tienda",
+      "lexeme_id": "shop",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "smartphone",
+      "role": "support",
+      "status": "emergent",
+      "translation": "teléfono inteligente / smartphone",
+      "lexeme_id": "smartphone",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "think",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pensar / creer",
+      "lexeme_id": "think_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "customer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cliente",
+      "lexeme_id": "customer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "item",
+      "role": "support",
+      "status": "emergent",
+      "translation": "artículo",
+      "lexeme_id": "item",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "modern",
+      "role": "support",
+      "status": "emergent",
+      "translation": "moderno",
+      "lexeme_id": "modern_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "store",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tienda",
+      "lexeme_id": "store",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "salary",
+      "role": "support",
+      "status": "emergent",
+      "translation": "salario",
+      "lexeme_id": "salary",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "cheaper",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más barato",
+      "lexeme_id": "cheaper",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "compare",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cotejar / comparar / equiparar",
+      "lexeme_id": "compare_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_004",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "listen to",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuchar",
+      "lexeme_id": "listen_to_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "pay",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pagar",
+      "lexeme_id": "pay_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "read",
+      "role": "support",
+      "status": "emergent",
+      "translation": "leer",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "phone",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "blue",
+      "role": "support",
+      "status": "emergent",
+      "translation": "azul",
+      "lexeme_id": "blue_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "green",
+      "role": "support",
+      "status": "emergent",
+      "translation": "verde",
+      "lexeme_id": "green_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "space",
+      "role": "support",
+      "status": "emergent",
+      "translation": "espacio",
+      "lexeme_id": "space",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 2,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "cannot",
+      "too",
+      "buy",
+      "laptop",
+      "car",
+      "small",
+      "shop",
+      "smartphone",
+      "think",
+      "customer",
+      "item",
+      "modern",
+      "family",
+      "store",
+      "salary",
+      "cheaper",
+      "compare",
+      "listen to",
+      "want",
+      "word",
+      "good",
+      "now",
+      "work",
+      "today",
+      "need",
+      "pay",
+      "read",
+      "phone",
+      "yesterday",
+      "blue",
+      "green",
+      "space"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Comparar productos y precios",
+      "title_target": "Quiz: Comparing products and prices",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de expresar que no puedes pagar algo porque es costoso?",
+          "prompt_target": "Which is the correct way to express that you cannot pay for something because it is costly?",
+          "options": [
+            "I can't afford it.",
+            "I can't buy afford.",
+            "I'm not afford it.",
+            "I haven't afford it."
+          ],
+          "correct_answer": "I can't afford it.",
+          "explanation_form": "Usamos el verbo 'afford' junto con el auxiliar modal negativo ('can't') para indicar que no tenemos los medios económicos para pagar algo.",
+          "explanation_target": "We use the verb 'afford' together with the negative modal auxiliary ('can't') to indicate that we do not have the financial means to pay for something.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "afford"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la oración con la palabra que indica un exceso negativo: 'This phone is _____ expensive for me to buy.'",
+          "prompt_target": "Complete the sentence with the word that indicates negative excess: 'This phone is _____ expensive for me to buy.'",
+          "options": null,
+          "correct_answer": "too",
+          "explanation_form": "Usamos 'too' antes de un adjetivo para expresar que algo es excesivo o va más allá de un límite conveniente.",
+          "explanation_target": "We use 'too' before an adjective to express that something is excessive or beyond a desirable limit.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Comparatives, superlatives, too/enough and quantity expressions.",
+            "expensive_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Por qué el comprador finalmente pudo comprar la computadora?",
+          "prompt_target": "Read the text and answer: Why was the buyer finally able to buy the computer?",
+          "options": [
+            "Because it was affordable.",
+            "Because it was too expensive.",
+            "Because it was the smallest model.",
+            "Because it had no memory."
+          ],
+          "correct_answer": "Because it was affordable.",
+          "explanation_form": "El texto menciona que el comprador encontró una computadora asequible ('affordable') en línea, por lo que pudo pagarla.",
+          "explanation_target": "The text mentions that the buyer found an affordable computer online, so he could afford to buy it.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "afford",
+            "affordable_adj",
+            "Comparatives, superlatives, too/enough and quantity expressions."
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "I wanted to buy a new laptop last week, but it was too expensive. The small model is cheaper, but it does not have enough memory. Yesterday, I found an affordable computer online. Now I can afford to buy it without any problem.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha la grabación y responde: ¿Qué auto decidieron que pueden comprar?",
+          "prompt_target": "Listen to the recording and answer: Which car did they decide they can buy?",
+          "options": [
+            "The green car.",
+            "The blue car.",
+            "The most expensive car.",
+            "None of the cars."
+          ],
+          "correct_answer": "The green car.",
+          "explanation_form": "En el audio se explica que el auto verde es más barato ('cheaper') y tienen suficiente dinero para comprarlo.",
+          "explanation_target": "In the audio, it is explained that the green car is cheaper and they have enough money to buy it.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Comparatives, superlatives, too/enough and quantity expressions.",
+            "expensive_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "We compared three different cars today. The blue car is the most expensive, but the green one is cheaper and very good. I think we have enough money for the green car.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha la grabación y responde: ¿Por qué la persona no puede comprar la camisa?",
+          "prompt_target": "Listen to the recording and answer: Why can't the person afford the shirt?",
+          "options": [
+            "Because it is more expensive than the jacket and she lacks cash.",
+            "Because the jacket is too cheap.",
+            "Because she does not like the shirt.",
+            "Because the store is closed."
+          ],
+          "correct_answer": "Because it is more expensive than the jacket and she lacks cash.",
+          "explanation_form": "La persona explica que la camisa es más costosa que la chaqueta y no tiene suficiente efectivo.",
+          "explanation_target": "The person explains that the shirt is more expensive than the jacket and she does not have enough cash.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "afford",
+            "expensive_adj",
+            "Comparatives, superlatives, too/enough and quantity expressions."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "I cannot afford this shirt right now. It is more expensive than the jacket, and I do not have enough cash in my bag.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "This",
+            "hotel",
+            "is",
+            "not",
+            "affordable",
+            "enough",
+            "for",
+            "us."
+          ],
+          "correct_answer": "This hotel is not affordable enough for us.",
+          "explanation_form": "El modificador 'enough' se coloca después del adjetivo ('affordable enough').",
+          "explanation_target": "The modifier 'enough' goes after the adjective ('affordable enough').",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "affordable_adj",
+            "Comparatives, superlatives, too/enough and quantity expressions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra o expresión en inglés con su traducción en español:",
+          "prompt_target": "Match each English word or expression with its Spanish translation:",
+          "options": [
+            "afford",
+            "permitirse pagar",
+            "affordable",
+            "asequible",
+            "expensive",
+            "costoso",
+            "cheaper",
+            "más barato"
+          ],
+          "correct_answer": [
+            "afford=permitirse pagar",
+            "affordable=asequible",
+            "expensive=costoso",
+            "cheaper=más barato"
+          ],
+          "explanation_form": "'Afford' significa permitirse pagar, 'affordable' es asequible, 'expensive' es costoso y 'cheaper' es más barato.",
+          "explanation_target": "'Afford' means permitirse pagar, 'affordable' is asequible, 'expensive' is costoso, and 'cheaper' is más barato.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "afford",
+            "affordable_adj",
+            "expensive_adj",
+            "Comparatives, superlatives, too/enough and quantity expressions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'No podemos permitirnos este viaje.'",
+          "prompt_target": "Translate to English: 'No podemos permitirnos este viaje.'",
+          "options": null,
+          "correct_answer": "We cannot afford this trip.",
+          "explanation_form": "Usamos 'cannot afford' para expresar la imposibilidad de pagar o costear algo.",
+          "explanation_target": "We use 'cannot afford' to express the inability to pay for or finance something.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "afford"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Por qué eligió la narradora la segunda cafetera?",
+          "prompt_target": "Read the story and answer: Why did the narrator choose the second coffee machine?",
+          "options": [
+            "Porque tenía capacidad suficiente y ofrecía el mejor equilibrio entre precio y calidad.",
+            "Porque era el producto más caro de los tres.",
+            "Porque no tenía capacidad suficiente para su familia.",
+            "Porque no podía permitirse ninguno de los productos."
+          ],
+          "correct_answer": "Porque tenía capacidad suficiente y ofrecía el mejor equilibrio entre precio y calidad.",
+          "explanation_form": "La segunda cafetera era más barata que la tercera, tenía capacidad suficiente y ofrecía el mejor equilibrio para su presupuesto.",
+          "explanation_target": "The second coffee machine was cheaper than the third, had enough capacity, and offered the best balance for the narrator's budget.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "afford",
+            "affordable_adj",
+            "expensive_adj",
+            "Comparatives, superlatives, too/enough and quantity expressions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I needed a new coffee machine, but my budget was limited. I compared three products online. The first was the cheapest, but it did not have enough capacity. The second was more expensive than the first but cheaper than the third. It had enough capacity and a two-year guarantee. I chose the second because it offered the best balance between price and quality.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Por qué eligió la narradora el escritorio metálico?",
+          "prompt_target": "Listen to the story and answer: Why did the narrator choose the metal desk?",
+          "options": [
+            "Porque era más barato y lo bastante grande para su ordenador.",
+            "Porque era más bonito y demasiado caro.",
+            "Porque la mesa de madera no tenía suficiente espacio.",
+            "Porque la narradora no podía permitirse el escritorio metálico."
+          ],
+          "correct_answer": "Porque era más barato y lo bastante grande para su ordenador.",
+          "explanation_form": "El escritorio metálico era más barato, tenía espacio suficiente y la narradora podía permitírselo.",
+          "explanation_target": "The metal desk was cheaper, had enough space, and the narrator could afford it.",
+          "references_exercise_id": "ex_014",
+          "references_lesson_topics": [
+            "afford",
+            "affordable_adj",
+            "expensive_adj",
+            "Comparatives, superlatives, too/enough and quantity expressions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I wanted to buy a new desk for my home office. The wooden desk was more beautiful, but it was too expensive. The metal desk was cheaper and large enough for my computer. I compared the prices again, and I realized that I could afford the metal desk. I bought it and felt happy with my choice.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Tip clave: el uso de \"afford\"\nEl verbo **afford** suele combinarse con *can* o *can't* (*I can't afford this phone*). No expresa solo la acción de comprar, sino la capacidad financiera de asumir un gasto sin descuidar tu presupuesto.\n\n## Cuidado con la posición de \"enough\"\nEn inglés, la posición de **enough** cambia según lo que modifique:\n* Con **adjetivos**, va *después*: *cheap enough* (suficientemente barato).\n* Con **sustantivos**, va *antes*: *enough money* (suficiente dinero).\n* Recuerda que **too** indica un exceso negativo e va antes del adjetivo: *too expensive* (demasiado caro).",
+  "metadata": {
+    "generated_at": "2026-08-29T18:26:01Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

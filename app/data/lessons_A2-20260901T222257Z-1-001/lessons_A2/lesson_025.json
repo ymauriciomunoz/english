@@ -1,0 +1,1832 @@
+{
+  "id": "lesson_025",
+  "position": 25,
+  "unit_id": 4,
+  "course_id": "en.A2",
+  "title_form": "Booking a room at a hotel",
+  "title_target": "Reservando una habitación en un hotel",
+  "theme_focus": "travel",
+  "learning_objectives": [
+    "Can ask for and provide simple information about room availability and prices at a hotel."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_024",
+    "lesson_016"
+  ],
+  "grammar_focus": [
+    "would like: polite requests"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "book_verb",
+        "reservation",
+        "reserve_verb",
+        "reception",
+        "receptionist",
+        "double_room_phrase",
+        "single_room_phrase",
+        "available_adj",
+        "towel"
+      ],
+      "chunk_ids": [
+        "chunk_a2_do_you_have_a_room_available"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "choice",
+        "decision",
+        "suggest_verb",
+        "meaning"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana viaja a Londres por trabajo. Al llegar al hotel, habla con el recepcionista para preguntar si hay una habitación disponible. Después de reservar una habitación doble, pide una toalla extra y confirma los detalles de su estancia.",
+  "introduction_md": "## Reservando una habitación en un hotel\n\nEn esta lección vas a aprender a **reservar una habitación en un hotel** en inglés. Es una habilidad muy útil para tus viajes.\n\nVas a practicar:\n\n- **Preguntar** si hay una habitación disponible.\n- **Reservar** una habitación individual o doble.\n- **Hablar con el recepcionista** de forma educada.\n\nUsaremos la expresión **\"I would like...\"** para hacer peticiones de manera cortés. ¡Vamos a empezar!",
+  "intro_target": "## Booking a room at a hotel\n\nIn this lesson, you will learn how to **book a room at a hotel** in English. It is a very useful skill for your trips.\n\nYou will practice:\n\n- **Asking** if a room is available.\n- **Booking** a single or double room.\n- **Talking to the receptionist** in a polite way.\n\nWe will use the expression **\"I would like...\"** to make polite requests. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "book_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I want to book a single room for two nights, please.",
+      "translation_form": "Quiero reservar una habitación individual para dos noches, por favor.",
+      "highlight_words": [
+        "book"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_do_you_have_a_room_available",
+      "grammar_slug": null,
+      "text_target": "Do you have a room available for tonight?",
+      "translation_form": "¿Tiene una habitación disponible para esta noche?",
+      "highlight_words": [
+        "available",
+        "room"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "receptionist",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The receptionist asked for my name and my decision.",
+      "translation_form": "El recepcionista me pidió mi nombre y mi decisión.",
+      "highlight_words": [
+        "receptionist",
+        "decision"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "reservation",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I made a reservation at the hotel, but I have a question about the room.",
+      "translation_form": "Hice una reserva en el hotel, pero tengo una pregunta sobre la habitación.",
+      "highlight_words": [
+        "reservation",
+        "room"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "double_room_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I would like a double room with a big window, please.",
+      "translation_form": "Me gustaría una habitación doble con una ventana grande, por favor.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "reception",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Please, leave your key at the reception when you go out.",
+      "translation_form": "Por favor, deje su llave en la recepción cuando salga.",
+      "highlight_words": [
+        "reception"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "towel",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I need an extra towel and a clean glass in my room, please.",
+      "translation_form": "Necesito una toalla extra y un vaso limpio en mi habitación, por favor.",
+      "highlight_words": [
+        "towel",
+        "room"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "available_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The receptionist said a single room is available for the weekend.",
+      "translation_form": "El recepcionista dijo que hay una habitación individual disponible para el fin de semana.",
+      "highlight_words": [
+        "available",
+        "receptionist"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "would like: polite requests",
+      "title_form": "Would like: peticiones educadas",
+      "title_target": "Would like: polite requests",
+      "description_md_form": "**Would like** significa *me gustaría* o *quisiera*. Es una forma muy educada de pedir algo, perfecta para un hotel o un restaurante.\n\nLa estructura es: **Subject + would like + noun**.\n\n- `I would like a single room.` = Me gustaría una habitación individual.\n- `We would like two towels.` = Nos gustaría dos toallas.\n\n**Contracción**: en conversación, usamos **'d** en vez de *would*.\n\n- `I'd like a double room.` = Me gustaría una habitación doble.\n\n**Pregunta**: para ofrecer algo, usamos **Would you like...?**\n\n- `Would you like a towel?` = ¿Le gustaría una toalla?\n\n**Diferencia con *want***: *want* es más directo. *Would like* es más cortés y apropiado para hablar con el recepcionista.",
+      "description_md_target": "**Would like** means *me gustaría* or *quisiera*. It is a very polite way to ask for something, perfect for a hotel or restaurant.\n\nThe structure is: **Subject + would like + noun**.\n\n- `I would like a single room.` = I would like a single room.\n- `We would like two towels.` = We would like two towels.\n\n**Contraction**: in conversation, we use **'d** instead of *would*.\n\n- `I'd like a double room.` = I'd like a double room.\n\n**Question**: to offer something, we use **Would you like...?**\n\n- `Would you like a towel?` = Would you like a towel?\n\n**Difference with *want***: *want* is more direct. *Would like* is more polite and appropriate for talking to the receptionist.",
+      "grammar_structure": "Subject + would like + noun",
+      "conjugation_table": {
+        "name": "would_like",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Contracción",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "I would like",
+            "I'd like",
+            "Would I like?"
+          ],
+          [
+            "You",
+            "You would like",
+            "You'd like",
+            "Would you like?"
+          ],
+          [
+            "He/She/It",
+            "He would like",
+            "He'd like",
+            "Would he like?"
+          ],
+          [
+            "We",
+            "We would like",
+            "We'd like",
+            "Would we like?"
+          ],
+          [
+            "They",
+            "They would like",
+            "They'd like",
+            "Would they like?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "would like: polite requests",
+          "text_target": "I would like a single room for two nights, please.",
+          "translation_form": "Me gustaría una habitación individual para dos noches, por favor.",
+          "highlight_words": [
+            "would",
+            "like"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "would like: polite requests",
+          "text_target": "Would you like a towel for your room?",
+          "translation_form": "¿Le gustaría una toalla para su habitación?",
+          "highlight_words": [
+            "would",
+            "like"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Usa la contracción 'd en conversación.** Es más natural decir `I'd like` que `I would like`. En la recepción del hotel, escucharás la contracción casi siempre."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas *I would like to have*.** Con un sustantivo, solo usa *would like* + sustantivo. `I would like a double room` es correcto; `I would like to have a double room` es innecesariamente largo."
+        },
+        {
+          "type": "warning",
+          "text_md": "**No confundas *would like* con *like*.** *Like* significa *gustar* (disfrutar). *Would like* significa *querer* (pedir). `I like the room` = me gusta la habitación; `I would like the room` = quiero la habitación."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I want* en lugar de *I would like* cuando hablas con el recepcionista. *Want* es demasiado directo; *would like* es más educado.",
+        "Olvidar la contracción *'d* en conversación. *I would like* es correcto pero suena formal; *I'd like* es más natural.",
+        "Confundir *would like* (querer) con *like* (gustar). Son significados diferentes.",
+        "Usar *would like to have* + sustantivo. Solo necesitas *would like* + sustantivo."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'reservation'?",
+      "options": [
+        "reserva",
+        "habitación",
+        "recepción",
+        "toalla"
+      ],
+      "correct_answer": "reserva",
+      "explanation_md": "'Reservation' significa reserva, como cuando reservas una habitación en un hotel.",
+      "related_lexeme_ids": [
+        "reservation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'available'?",
+      "options": [
+        "disponible",
+        "ocupado",
+        "caro",
+        "limpio"
+      ],
+      "correct_answer": "disponible",
+      "explanation_md": "'Available' significa disponible, es decir, que se puede usar o tener.",
+      "related_lexeme_ids": [
+        "available_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "book",
+        "reservar",
+        "receptionist",
+        "recepción",
+        "towel",
+        "toalla",
+        "double room",
+        "habitación doble"
+      ],
+      "correct_answer": [
+        "book=reservar",
+        "receptionist=recepción",
+        "towel=toalla",
+        "double room=habitación doble"
+      ],
+      "explanation_md": "Estas son palabras clave para hacer una reserva en un hotel.",
+      "related_lexeme_ids": [
+        "book_verb",
+        "receptionist",
+        "towel",
+        "double_room_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la frase: 'I would like to ____ a single room, please.'",
+      "options": [
+        "book",
+        "buy",
+        "eat",
+        "play"
+      ],
+      "correct_answer": "book",
+      "explanation_md": "Usamos 'book' para reservar una habitación. 'I would like to book' es una forma educada de pedir.",
+      "related_lexeme_ids": [
+        "book_verb",
+        "single_room_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'Do you have a room ____ for tonight?'",
+      "options": null,
+      "correct_answer": "available",
+      "explanation_md": "Usamos 'available' para preguntar si hay una habitación libre.",
+      "related_lexeme_ids": [
+        "available_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_do_you_have_a_room_available"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Quiero reservar una habitación doble para dos noches.'",
+      "options": null,
+      "correct_answer": "I would like to book a double room for two nights.",
+      "explanation_md": "Usamos 'would like' para pedir de forma educada. 'Double room' es habitación doble.",
+      "related_lexeme_ids": [
+        "book_verb",
+        "double_room_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'The receptionist asked for my name.'",
+      "options": null,
+      "correct_answer": "El recepcionista me pidió mi nombre.",
+      "explanation_md": "'Receptionist' es la persona que trabaja en la recepción del hotel.",
+      "related_lexeme_ids": [
+        "receptionist"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué pregunta es correcta para saber si hay una habitación libre?",
+      "options": [
+        "Do you have a room available?",
+        "Do you have a towel?",
+        "Do you have a reservation?",
+        "Do you have a reception?"
+      ],
+      "correct_answer": "Do you have a room available?",
+      "explanation_md": "Para preguntar si hay una habitación libre, usamos 'Do you have a room available?'.",
+      "related_lexeme_ids": [
+        "available_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_do_you_have_a_room_available"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué tipo de habitación quiere Ana?",
+      "options": [
+        "Una habitación doble",
+        "Una habitación individual",
+        "Una habitación con toalla",
+        "Una habitación con vista"
+      ],
+      "correct_answer": "Una habitación individual",
+      "explanation_md": "Ana pregunta por una 'single room', que es una habitación individual.",
+      "related_lexeme_ids": [
+        "reception",
+        "single_room_phrase",
+        "towel"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_do_you_have_a_room_available"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is at the reception of a hotel. She wants to book a room for two nights. She asks the receptionist, 'Do you have a single room available?' The receptionist says yes. Ana is happy. She also asks for a towel.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué quiere el hombre?",
+      "options": [
+        "Una habitación individual",
+        "Una habitación doble",
+        "Una toalla",
+        "Una reserva"
+      ],
+      "correct_answer": "Una habitación doble",
+      "explanation_md": "El hombre dice 'I would like to book a double room', así que quiere una habitación doble.",
+      "related_lexeme_ids": [
+        "book_verb",
+        "double_room_phrase",
+        "towel"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_do_you_have_a_room_available"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Good evening. I would like to book a double room for tonight. Do you have one available? Yes, we do. Great, I would like a towel too, please.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Imagina que estás en la recepción de un hotel. Escribe 2-3 oraciones pidiendo una habitación de forma educada. Usa 'would like'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'would like' para hacer peticiones educadas y el vocabulario de la lección (book, room, available, towel).",
+      "related_lexeme_ids": [
+        "book_verb",
+        "single_room_phrase",
+        "available_adj",
+        "towel"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_do_you_have_a_room_available"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I would like to book a single room for one night, please.",
+        "Do you have a room available for tonight?",
+        "I would like a towel, please."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'I would like to ____ a reservation for two nights.'",
+      "options": null,
+      "correct_answer": "make",
+      "explanation_md": "Usamos 'make a reservation' para decir que hacemos una reserva.",
+      "related_lexeme_ids": [
+        "reservation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "book",
+      "back": "reservar",
+      "hint": "verbo para reservar algo",
+      "lexeme_id": "book_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "reservation",
+      "back": "reserva / reservación",
+      "hint": "sustantivo de reservar",
+      "lexeme_id": "reservation",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "reserve",
+      "back": "reservar",
+      "hint": "sinónimo de book",
+      "lexeme_id": "reserve_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "reception",
+      "back": "recepción",
+      "hint": "lugar en un hotel",
+      "lexeme_id": "reception",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "receptionist",
+      "back": "recepcionista",
+      "hint": "persona en la recepción",
+      "lexeme_id": "receptionist",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "double room",
+      "back": "habitación doble",
+      "hint": "habitación para dos personas",
+      "lexeme_id": "double_room_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "single room",
+      "back": "habitación individual",
+      "hint": "habitación para una persona",
+      "lexeme_id": "single_room_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "available",
+      "back": "disponible",
+      "hint": "adjetivo para algo que está libre",
+      "lexeme_id": "available_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "towel",
+      "back": "toalla",
+      "hint": "objeto para secarse",
+      "lexeme_id": "towel",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "home"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "Do you have a room available?",
+      "back": "¿Tiene una habitación disponible?",
+      "hint": "frase para preguntar en un hotel",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_do_you_have_a_room_available",
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "choice",
+      "back": "elección / opción",
+      "hint": "sustantivo de elegir",
+      "lexeme_id": "choice",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "decision",
+      "back": "decisión",
+      "hint": "sustantivo de decidir",
+      "lexeme_id": "decision",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "suggest",
+      "back": "sugerir",
+      "hint": "verbo para dar una idea",
+      "lexeme_id": "suggest_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "meaning",
+      "back": "significado",
+      "hint": "sustantivo de significar",
+      "lexeme_id": "meaning",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_025",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "book",
+      "reading": "",
+      "translation": "reservar",
+      "pos": "verb",
+      "example": "I want to book a single room for two nights, please.",
+      "example_translation": "Quiero reservar una habitación individual para dos noches, por favor.",
+      "lexeme_id": "book_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "reservation",
+      "reading": "",
+      "translation": "reserva / reservación",
+      "pos": "noun",
+      "example": "I made a reservation at the hotel, but I have a question about the room.",
+      "example_translation": "Hice una reserva en el hotel, pero tengo una pregunta sobre la habitación.",
+      "lexeme_id": "reservation",
+      "chunk_id": null
+    },
+    {
+      "target_word": "reserve",
+      "reading": "",
+      "translation": "reservar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "reserve_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "reception",
+      "reading": "",
+      "translation": "recepción",
+      "pos": "noun",
+      "example": "Please, leave your key at the reception when you go out.",
+      "example_translation": "Por favor, deje su llave en la recepción cuando salga.",
+      "lexeme_id": "reception",
+      "chunk_id": null
+    },
+    {
+      "target_word": "receptionist",
+      "reading": "",
+      "translation": "recepcionista",
+      "pos": "noun",
+      "example": "The receptionist asked for my name and my decision.",
+      "example_translation": "El recepcionista me pidió mi nombre y mi decisión.",
+      "lexeme_id": "receptionist",
+      "chunk_id": null
+    },
+    {
+      "target_word": "double room",
+      "reading": "",
+      "translation": "habitación doble",
+      "pos": "phrase",
+      "example": "I would like a double room with a big window, please.",
+      "example_translation": "Me gustaría una habitación doble con una ventana grande, por favor.",
+      "lexeme_id": "double_room_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "single room",
+      "reading": "",
+      "translation": "habitación individual",
+      "pos": "phrase",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "single_room_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "available",
+      "reading": "",
+      "translation": "disponible",
+      "pos": "adjective",
+      "example": "The receptionist said a single room is available for the weekend.",
+      "example_translation": "El recepcionista dijo que hay una habitación individual disponible para el fin de semana.",
+      "lexeme_id": "available_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "towel",
+      "reading": "",
+      "translation": "toalla",
+      "pos": "noun",
+      "example": "I need an extra towel and a clean glass in my room, please.",
+      "example_translation": "Necesito una toalla extra y un vaso limpio en mi habitación, por favor.",
+      "lexeme_id": "towel",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Do you have a room available?",
+      "reading": "",
+      "translation": "¿Tiene una habitación disponible?",
+      "pos": "chunk",
+      "example": "Do you have a room available for tonight?",
+      "example_translation": "¿Tiene una habitación disponible para esta noche?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_do_you_have_a_room_available"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "book",
+      "role": "support",
+      "status": "practiced",
+      "translation": "reservar",
+      "lexeme_id": "book_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "ex_004",
+        "ex_006",
+        "ex_010",
+        "ex_011",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "reservation",
+      "role": "support",
+      "status": "practiced",
+      "translation": "reserva / reservación",
+      "lexeme_id": "reservation",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_001",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "reserve",
+      "role": "support",
+      "status": "introduced",
+      "translation": "reservar",
+      "lexeme_id": "reserve_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "reception",
+      "role": "support",
+      "status": "practiced",
+      "translation": "recepción",
+      "lexeme_id": "reception",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "receptionist",
+      "role": "support",
+      "status": "practiced",
+      "translation": "recepcionista",
+      "lexeme_id": "receptionist",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_007",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "double room",
+      "role": "support",
+      "status": "practiced",
+      "translation": "habitación doble",
+      "lexeme_id": "double_room_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_006",
+        "ex_010",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "single room",
+      "role": "support",
+      "status": "practiced",
+      "translation": "habitación individual",
+      "lexeme_id": "single_room_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_009",
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "available",
+      "role": "support",
+      "status": "practiced",
+      "translation": "disponible",
+      "lexeme_id": "available_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_002",
+        "ex_005",
+        "ex_008",
+        "ex_011",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "towel",
+      "role": "support",
+      "status": "practiced",
+      "translation": "toalla",
+      "lexeme_id": "towel",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_003",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "Do you have a room available?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Tiene una habitación disponible?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_do_you_have_a_room_available",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_005",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "choice",
+      "role": "support",
+      "status": "review",
+      "translation": "elección",
+      "lexeme_id": "choice",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "decision",
+      "role": "support",
+      "status": "review",
+      "translation": "decisión",
+      "lexeme_id": "decision",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "suggest",
+      "role": "support",
+      "status": "review",
+      "translation": "sugerir",
+      "lexeme_id": "suggest_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_013"
+      ]
+    },
+    {
+      "term": "meaning",
+      "role": "support",
+      "status": "review",
+      "translation": "significado",
+      "lexeme_id": "meaning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_014"
+      ]
+    },
+    {
+      "term": "room",
+      "role": "support",
+      "status": "emergent",
+      "translation": "habitación / cuarto",
+      "lexeme_id": "room",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_004",
+        "exm_005",
+        "exm_007",
+        "exm_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_006",
+        "fc_007",
+        "fc_010",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "single",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_008",
+        "ex_009",
+        "ex_011",
+        "fc_007",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "double",
+      "role": "support",
+      "status": "emergent",
+      "translation": "doble",
+      "lexeme_id": "double_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "fc_006",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "night",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noche",
+      "lexeme_id": "night",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "quiz_001:q_004",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "hotel",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hotel",
+      "lexeme_id": "hotel",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "tonight",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esta noche",
+      "lexeme_id": "tonight_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "key",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llave / clave",
+      "lexeme_id": "key",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "extra",
+      "role": "support",
+      "status": "emergent",
+      "translation": "extra",
+      "lexeme_id": "extra_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "go out",
+      "role": "support",
+      "status": "emergent",
+      "translation": "salir",
+      "lexeme_id": "go_out_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "leave",
+      "role": "support",
+      "status": "emergent",
+      "translation": "irse / salir / dejar",
+      "lexeme_id": "leave_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "name",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nombre",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "clean",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "window",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ventana",
+      "lexeme_id": "window",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "glass",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vaso / cristal",
+      "lexeme_id": "glass",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "reserve",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "great",
+      "role": "support",
+      "status": "emergent",
+      "translation": "genial / estupendo",
+      "lexeme_id": "great_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "fill",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llenar",
+      "lexeme_id": "fill",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "fill in",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rellenar",
+      "lexeme_id": "fill_in_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "way",
+      "role": "support",
+      "status": "emergent",
+      "translation": "manera / camino",
+      "lexeme_id": "way",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "guest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "invitado / huésped",
+      "lexeme_id": "guest",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "polite",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "blank",
+      "role": "support",
+      "status": "emergent",
+      "translation": "espacio en blanco",
+      "lexeme_id": "blank",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "customer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cliente",
+      "lexeme_id": "customer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 10,
+    "review_support_count": 4,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "room",
+      "single",
+      "book",
+      "double",
+      "ask",
+      "night",
+      "want",
+      "hotel",
+      "tonight",
+      "key",
+      "need",
+      "extra",
+      "go out",
+      "leave",
+      "name",
+      "big",
+      "clean",
+      "window",
+      "glass",
+      "weekend",
+      "reserve",
+      "good",
+      "take",
+      "great",
+      "word",
+      "fill",
+      "fill in",
+      "way",
+      "guest",
+      "polite",
+      "blank",
+      "customer"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Reservando una habitación en un hotel",
+      "title_target": "Quiz: Booking a room at a hotel",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I would like to ____ a room for two nights.'",
+          "prompt_target": "Fill in the blank: 'I would like to ____ a room for two nights.'",
+          "options": null,
+          "correct_answer": "book",
+          "explanation_form": "El verbo 'book' significa 'reservar'. En esta frase, 'I would like to book a room' es una forma educada de pedir una reserva.",
+          "explanation_target": "The verb 'book' means 'reservar'. In this sentence, 'I would like to book a room' is a polite way to ask for a reservation.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "book_verb",
+            "would like"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'receptionist'?",
+          "prompt_target": "What does 'receptionist' mean?",
+          "options": [
+            "La persona que recibe a los huéspedes en un hotel",
+            "La persona que limpia las habitaciones",
+            "La persona que cocina en el restaurante",
+            "La persona que maneja el taxi"
+          ],
+          "correct_answer": "La persona que recibe a los huéspedes en un hotel",
+          "explanation_form": "El 'receptionist' es la persona que trabaja en la recepción del hotel y recibe a los huéspedes.",
+          "explanation_target": "The 'receptionist' is the person who works at the hotel reception and welcomes guests.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "receptionist"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "Do",
+            "you",
+            "have",
+            "a",
+            "room",
+            "available",
+            "?"
+          ],
+          "correct_answer": "Do you have a room available?",
+          "explanation_form": "La estructura correcta para preguntar si hay una habitación disponible es: 'Do you have a room available?'",
+          "explanation_target": "The correct structure to ask if there is a room available is: 'Do you have a room available?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_do_you_have_a_room_available",
+            "available_adj"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué tipo de habitación quiere el cliente?",
+          "prompt_target": "Listen and answer: What type of room does the customer want?",
+          "options": [
+            "Una habitación individual",
+            "Una habitación doble",
+            "Una habitación con vista al mar",
+            "Una suite"
+          ],
+          "correct_answer": "Una habitación individual",
+          "explanation_form": "El cliente dice 'I would like to book a single room', que significa 'Quiero reservar una habitación individual'.",
+          "explanation_target": "The customer says 'I would like to book a single room', which means 'I want to book a single room'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "single_room_phrase",
+            "book_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Good morning. I would like to book a single room for tonight. Is it available? Yes, it is. Great, I will take it.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "reservation",
+            "reserva",
+            "towel",
+            "toalla",
+            "reception",
+            "recepción"
+          ],
+          "correct_answer": [
+            "reservation=reserva",
+            "towel=toalla",
+            "reception=recepción"
+          ],
+          "explanation_form": "Estas son palabras clave del hotel: 'reservation' es 'reserva', 'towel' es 'toalla' y 'reception' es 'recepción'.",
+          "explanation_target": "These are key hotel words: 'reservation' is 'reserva', 'towel' is 'toalla' and 'reception' is 'recepción'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reservation",
+            "towel",
+            "reception"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué pide el cliente?",
+          "prompt_target": "Listen and answer: What does the customer ask for?",
+          "options": [
+            "Una habitación doble por dos noches",
+            "Una habitación individual por una noche",
+            "Una toalla extra",
+            "Un desayuno"
+          ],
+          "correct_answer": "Una habitación doble por dos noches",
+          "explanation_form": "El cliente pide 'a double room for two nights', que significa 'una habitación doble por dos noches'.",
+          "explanation_target": "The customer asks for 'a double room for two nights', which means 'a double room for two nights'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "double_room_phrase"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Hello. I would like a double room for two nights. Do you have one available? Yes, we do. Perfect, I will take it.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué necesita el huésped?",
+          "prompt_target": "Read the text and answer: What does the guest need?",
+          "options": [
+            "Una habitación doble y una toalla",
+            "Una habitación individual y una toalla extra",
+            "Una habitación individual y un desayuno",
+            "Una habitación doble y un mapa"
+          ],
+          "correct_answer": "Una habitación individual y una toalla extra",
+          "explanation_form": "El huésped pide 'a single room for one night' y 'an extra towel', es decir, una habitación individual y una toalla extra.",
+          "explanation_target": "The guest asks for 'a single room for one night' and 'an extra towel', that is, a single room and an extra towel.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "single_room_phrase",
+            "towel",
+            "receptionist"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": "A guest arrives at the hotel. He talks to the receptionist. He says: 'I would like a single room for one night, please. And I need an extra towel.' The receptionist says: 'Yes, we have a room available. Here is your key.'",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma más educada de pedir una habitación?",
+          "prompt_target": "What is the most polite way to ask for a room?",
+          "options": [
+            "I would like a room, please.",
+            "Give me a room.",
+            "I want a room now.",
+            "A room for me."
+          ],
+          "correct_answer": "I would like a room, please.",
+          "explanation_form": "'I would like' es una forma educada de pedir algo. Es más cortés que 'I want' o 'Give me'.",
+          "explanation_target": "'I would like' is a polite way to ask for something. It is more polite than 'I want' or 'Give me'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "would like",
+            "reserve_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la respuesta del recepcionista: 'Yes, we have a room ____.'",
+          "prompt_target": "Fill in the blank: 'Yes, we have a room ____.'",
+          "options": null,
+          "correct_answer": "available",
+          "explanation_form": "'Available' significa 'disponible'. 'We have a room available' significa 'Tenemos una habitación disponible'.",
+          "explanation_target": "'Available' means 'disponible'. 'We have a room available' means 'We have a room available'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "available_adj",
+            "chunk_a2_do_you_have_a_room_available"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Quiero hacer una reserva.'",
+          "prompt_target": "Translate to English: 'I want to make a reservation.'",
+          "options": null,
+          "correct_answer": "I would like to make a reservation.",
+          "explanation_form": "Para pedir una reserva de forma educada, usamos 'I would like to make a reservation'.",
+          "explanation_target": "To ask for a reservation politely, we use 'I would like to make a reservation'.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "reservation",
+            "reserve_verb",
+            "would like"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El verbo \"book\" y sus amigos\n\nEn esta lección conocés tres formas de decir lo mismo: **book**, **reserve** y **reservation**. Las tres son correctas, pero \"book\" es la más común en conversación diaria. Pensá en \"book\" como el verbo general: *I want to book a room*. \"Reserve\" es un poco más formal, y \"reservation\" es el sustantivo: *I have a reservation*.\n\n## Errores comunes para hispanohablantes\n\n- **No digas \"make a book\"**: en español decimos \"hacer una reserva\", pero en inglés el verbo ya incluye la acción. Decí *I want to book a room*, no *I want to make a book*.\n- **\"Available\" va después del sustantivo**: decimos *a room available* o *rooms available*, no *an available room* (aunque esta forma también existe, la primera es más natural en hoteles).\n- **Usá \"would like\" para ser educado**: *I would like a single room* suena mucho más cortés que *I want a single room*. Es la forma perfecta para hablar con el recepcionista.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:53:38Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

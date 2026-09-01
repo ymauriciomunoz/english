@@ -1,0 +1,1713 @@
+{
+  "id": "lesson_015",
+  "position": 15,
+  "unit_id": 2,
+  "course_id": "en.A2",
+  "title_form": "Telling a longer story",
+  "title_target": "Contando una historia más larga",
+  "theme_focus": "daily_routine",
+  "learning_objectives": [
+    "Can describe a sequence of past events using past simple and time markers."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_014"
+  ],
+  "grammar_focus": [
+    "past simple: regular verbs -ed",
+    "past simple: irregular verbs (go, have, see)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "already_adv",
+        "afterwards",
+        "disappear_verb",
+        "warn_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "cook_dinner_phrase",
+        "during_prep",
+        "eventually_adv",
+        "as_soon_as_conj"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Carlos le cuenta a su amiga Ana lo que le pasó el fin de semana. Primero fue al mercado, luego cocinó la cena, y después salió a caminar. Durante el paseo, vio algo extraño que desapareció rápidamente. Al final, un vecino le advirtió sobre un perro perdido en la zona.",
+  "introduction_md": "En esta lección vas a aprender a contar una historia más larga en inglés. Vas a usar el **past simple** para describir una secuencia de eventos que ya pasaron, y conectores como **afterwards** y **already** para darle orden y ritmo a tu relato.\n\n**¿Qué vas a lograr?**\n\n- Describir una secuencia de eventos pasados con verbos regulares e irregulares.\n- Usar marcadores de tiempo para conectar tus ideas.\n- Contar una anécdota corta de tu día o de un viaje.\n\nImagina que le cuentas a un amigo qué hiciste ayer. Primero fuiste al mercado, luego cocinaste, y después descansaste. Con esta lección, podrás contar esa historia de forma clara y natural. ¡Vamos a empezar!",
+  "intro_target": "In this lesson, you will learn to tell a longer story in English. You will use the **past simple** to describe a sequence of events that already happened, and connectors like **afterwards** and **already** to give order and rhythm to your story.\n\n**What will you achieve?**\n\n- Describe a sequence of past events with regular and irregular verbs.\n- Use time markers to connect your ideas.\n- Tell a short anecdote about your day or a trip.\n\nImagine telling a friend what you did yesterday. First you went to the market, then you cooked, and afterwards you rested. With this lesson, you will be able to tell that story clearly and naturally. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "disappear_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The cat disappeared after the rain, but it came back later.",
+      "translation_form": "El gato desapareció después de la lluvia, pero volvió más tarde.",
+      "highlight_words": [
+        "disappeared"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "already_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I already finished my homework, so I can watch a movie.",
+      "translation_form": "Ya terminé mi tarea, así que puedo ver una película.",
+      "highlight_words": [
+        "already"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "warn_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The teacher warned us about the test, but we did not study.",
+      "translation_form": "El profesor nos advirtió sobre el examen, pero no estudiamos.",
+      "highlight_words": [
+        "warned"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "afterwards",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We cooked dinner, and afterwards we watched a film.",
+      "translation_form": "Cocinamos la cena juntos, y después vimos una película.",
+      "highlight_words": [
+        "afterwards"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "disappear_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My keys disappeared this morning, but I found them in the kitchen.",
+      "translation_form": "Mis llaves desaparecieron esta mañana, pero las encontré en la cocina.",
+      "highlight_words": [
+        "disappeared"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "warn_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He warned me about the cold water, so I did not swim.",
+      "translation_form": "Él me advirtió sobre el agua fría, así que no nadé.",
+      "highlight_words": [
+        "warned"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "past simple: regular verbs -ed",
+      "title_form": "Pasado simple: verbos regulares -ed",
+      "title_target": "Past simple: regular verbs -ed",
+      "description_md_form": "El **pasado simple** se usa para hablar de acciones que **ya terminaron**. Con verbos regulares, solo agregamos **-ed** al final del verbo.\n\n| Base | Pasado |\n|------|--------|\n| cook | cooked |\n| warn | warned |\n| disappear | disappeared |\n\n**Ejemplos:**\n- `I cooked dinner.` = Yo cociné la cena.\n- `The teacher warned us.` = El profesor nos advirtió.\n\n**Negativo:** usamos `did not` (o `didn't`) + el verbo en base, SIN -ed.\n- `I did not cook.` = Yo no cociné.\n\n**Pregunta:** usamos `Did` + sujeto + verbo en base.\n- `Did you cook?` = ¿Cocinaste?\n\n**Consejo:** con el pasado simple, el tiempo ya terminó. No lo uses para acciones que siguen pasando ahora.",
+      "description_md_target": "The **past simple** is used to talk about actions that **already finished**. With regular verbs, we just add **-ed** to the end of the verb.\n\n| Base | Past |\n|------|--------|\n| cook | cooked |\n| warn | warned |\n| disappear | disappeared |\n\n**Examples:**\n- `I cooked dinner.`\n- `The teacher warned us.`\n\n**Negative:** we use `did not` (or `didn't`) + the base verb, WITHOUT -ed.\n- `I did not cook.`\n\n**Question:** we use `Did` + subject + base verb.\n- `Did you cook?`",
+      "grammar_structure": "Subject + verb + -ed (affirmative) / Subject + did not + base verb (negative) / Did + subject + base verb? (question)",
+      "conjugation_table": {
+        "name": "past_simple_regular",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "cooked",
+            "did not cook",
+            "Did I cook?"
+          ],
+          [
+            "you",
+            "cooked",
+            "did not cook",
+            "Did you cook?"
+          ],
+          [
+            "he/she/it",
+            "cooked",
+            "did not cook",
+            "Did he cook?"
+          ],
+          [
+            "we",
+            "cooked",
+            "did not cook",
+            "Did we cook?"
+          ],
+          [
+            "they",
+            "cooked",
+            "did not cook",
+            "Did they cook?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "warn_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "The teacher warned us about the test.",
+          "translation_form": "El profesor nos advirtió sobre el examen.",
+          "highlight_words": [
+            "warned"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "disappear_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My keys disappeared this morning.",
+          "translation_form": "Mis llaves desaparecieron esta mañana.",
+          "highlight_words": [
+            "disappeared"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas** `I did not cooked.` Con `did not`, el verbo vuelve a su forma base: `I did not cook.`"
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** `cook` → `cooked`, `warn` → `warned`, `disappear` → `disappeared`. Solo agregas **-ed**."
+        }
+      ],
+      "common_errors_es": [
+        "Usar el verbo en pasado después de 'did not': `I did not cooked` (incorrecto) → `I did not cook` (correcto).",
+        "Olvidar la -ed en el afirmativo: `I cook dinner yesterday` (incorrecto) → `I cooked dinner yesterday` (correcto).",
+        "Confundir el pasado simple con el presente: `I cook dinner yesterday` (incorrecto) → `I cooked dinner yesterday` (correcto)."
+      ]
+    },
+    {
+      "slug": "past simple: irregular verbs (go, have, see)",
+      "title_form": "Pasado simple: verbos irregulares (go, have, see)",
+      "title_target": "Past simple: irregular verbs (go, have, see)",
+      "description_md_form": "Algunos verbos en inglés no terminan en **-ed** en pasado. Son **verbos irregulares** y debes memorizar su forma. Los más comunes son:\n\n- **go** → **went** (ir)\n- **have** → **had** (tener)\n- **see** → **saw** (ver)\n\nLa forma es la misma para todas las personas: `I went`, `you went`, `he went`, `we went`, `they went`. No cambia como en español.\n\nUsamos estos verbos para contar historias del pasado: `I went to the park`, `We had dinner`, `She saw a movie`.\n\n**Consejo**: cuando cuentes una historia, usa estos verbos con marcadores de tiempo como `yesterday`, `last week`, `afterwards` para situar la acción en el pasado.",
+      "description_md_target": "Some verbs in English do not end in **-ed** in the past. They are **irregular verbs** and you must memorize their form. The most common are:\n\n- **go** → **went**\n- **have** → **had**\n- **see** → **saw**\n\nThe form is the same for all persons: `I went`, `you went`, `he went`, `we went`, `they went`. It does not change like in Spanish.\n\nWe use these verbs to tell stories about the past: `I went to the park`, `We had dinner`, `She saw a movie`.\n\n**Tip**: when you tell a story, use these verbs with time markers like `yesterday`, `last week`, `afterwards` to place the action in the past.",
+      "grammar_structure": "Subject + irregular past form (went / had / saw) + complement",
+      "conjugation_table": {
+        "name": "past_simple_irregular",
+        "headers": [
+          "Pronombre",
+          "go",
+          "have",
+          "see"
+        ],
+        "rows": [
+          [
+            "I",
+            "went",
+            "had",
+            "saw"
+          ],
+          [
+            "you",
+            "went",
+            "had",
+            "saw"
+          ],
+          [
+            "he/she/it",
+            "went",
+            "had",
+            "saw"
+          ],
+          [
+            "we",
+            "went",
+            "had",
+            "saw"
+          ],
+          [
+            "they",
+            "went",
+            "had",
+            "saw"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: irregular verbs (go, have, see)",
+          "text_target": "I went to the market, and afterwards I had a coffee.",
+          "translation_form": "Fui al mercado, y después tomé un café.",
+          "highlight_words": [
+            "went",
+            "had"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: irregular verbs (go, have, see)",
+          "text_target": "We saw a movie, and then we went home.",
+          "translation_form": "Vimos una película, y luego fuimos a casa.",
+          "highlight_words": [
+            "saw",
+            "went"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas** `I goed` o `I haved`. La forma irregular es fija: `went`, `had`, `saw`. Memorízala como una palabra nueva."
+        },
+        {
+          "type": "tip",
+          "text_md": "**`have` no siempre significa 'tener'.** En inglés, `have` se usa para comer o beber: `I had a coffee` = Tomé un café. ¡Muy útil en un café!"
+        }
+      ],
+      "common_errors_es": [
+        "Escribir `goed` en lugar de `went`. La forma irregular no sigue la regla de -ed.",
+        "Usar `have` con el significado de 'tener' cuando en realidad significa 'tomar/comer' en contextos de comida o bebida.",
+        "Olvidar que la forma es la misma para todas las personas: `he went`, no `he wented`."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'already'?",
+      "options": [
+        "ya",
+        "después",
+        "nunca",
+        "también"
+      ],
+      "correct_answer": "ya",
+      "explanation_md": "'Already' significa 'ya' y se usa para hablar de algo que pasó antes de lo esperado.",
+      "related_lexeme_ids": [
+        "already_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'afterwards'?",
+      "options": [
+        "después",
+        "antes",
+        "durante",
+        "mientras"
+      ],
+      "correct_answer": "después",
+      "explanation_md": "'Afterwards' significa 'después' o 'más tarde'.",
+      "related_lexeme_ids": [
+        "afterwards"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'disappear'?",
+      "options": [
+        "desaparecer",
+        "aparecer",
+        "encontrar",
+        "perder"
+      ],
+      "correct_answer": "desaparecer",
+      "explanation_md": "'Disappear' significa 'desaparecer'.",
+      "related_lexeme_ids": [
+        "disappear_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'warn'?",
+      "options": [
+        "advertir",
+        "preguntar",
+        "responder",
+        "olvidar"
+      ],
+      "correct_answer": "advertir",
+      "explanation_md": "'Warn' significa 'advertir' o 'avisar'.",
+      "related_lexeme_ids": [
+        "warn_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'I ___ my homework, so I can watch a movie.'",
+      "options": [
+        "already finished",
+        "already finish",
+        "finish already",
+        "finished already"
+      ],
+      "correct_answer": "already finished",
+      "explanation_md": "Con 'already' usamos el pasado simple: 'already finished'.",
+      "related_lexeme_ids": [
+        "already_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta del pasado de 'go'?",
+      "options": [
+        "goed",
+        "went",
+        "go",
+        "goes"
+      ],
+      "correct_answer": "went",
+      "explanation_md": "'Go' es irregular: su pasado es 'went'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con el pasado del verbo entre paréntesis: 'The cat ___ (disappear) after the rain.'",
+      "options": null,
+      "correct_answer": "disappeared",
+      "explanation_md": "Para verbos regulares, agregamos '-ed' al final: 'disappear' → 'disappeared'.",
+      "related_lexeme_ids": [
+        "disappear_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con el pasado del verbo entre paréntesis: 'The teacher ___ (warn) us about the test.'",
+      "options": null,
+      "correct_answer": "warned",
+      "explanation_md": "Para verbos regulares, agregamos '-ed': 'warn' → 'warned'.",
+      "related_lexeme_ids": [
+        "warn_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Emparejá cada palabra con su significado:",
+      "options": [
+        "already",
+        "después",
+        "afterwards",
+        "ya",
+        "disappear",
+        "advertir",
+        "warn",
+        "desaparecer"
+      ],
+      "correct_answer": [
+        "already=ya",
+        "afterwards=después",
+        "disappear=desaparecer",
+        "warn=advertir"
+      ],
+      "explanation_md": "Estas son las cuatro palabras nuevas de la lección.",
+      "related_lexeme_ids": [
+        "already_adv",
+        "afterwards",
+        "disappear_verb",
+        "warn_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Ya terminé mi tarea.'",
+      "options": null,
+      "correct_answer": "I already finished my homework.",
+      "explanation_md": "Usamos 'already' con el pasado simple para decir que algo ya pasó.",
+      "related_lexeme_ids": [
+        "already_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'The teacher warned us about the test.'",
+      "options": null,
+      "correct_answer": "El profesor nos advirtió sobre el examen.",
+      "explanation_md": "'Warned' es el pasado de 'warn' (advertir).",
+      "related_lexeme_ids": [
+        "warn_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué pasó con las llaves?",
+      "options": [
+        "Las llaves estaban en la cocina.",
+        "Las llaves estaban en la mesa.",
+        "Las llaves estaban en el baño.",
+        "Las llaves estaban en el dormitorio."
+      ],
+      "correct_answer": "Las llaves estaban en la mesa.",
+      "explanation_md": "El texto dice: 'I saw them on the table.'",
+      "related_lexeme_ids": [
+        "disappear_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Yesterday morning, I looked for my keys. They disappeared! I looked in the kitchen, in the bedroom, and in the bathroom. I was very nervous. Then, I saw them on the table. They were there all the time. I was happy and I laughed.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hizo Ana después de cocinar?",
+      "options": [
+        "Vio una película.",
+        "Fue a trabajar.",
+        "Llamó a su amigo.",
+        "Leyó un libro."
+      ],
+      "correct_answer": "Vio una película.",
+      "explanation_md": "El audio dice: 'Afterwards, they watched a film.'",
+      "related_lexeme_ids": [
+        "afterwards"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Ana cooked dinner with her friend. Afterwards, they watched a film. The film was very interesting. Ana was tired, so she went to bed early.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "free_production",
+      "prompt_md": "Contá una historia corta (2-3 oraciones) sobre algo que pasó ayer. Usá 'already', 'afterwards', 'disappear' o 'warn'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto del pasado simple y de las palabras nuevas de la lección.",
+      "related_lexeme_ids": [
+        "already_adv",
+        "afterwards",
+        "disappear_verb",
+        "warn_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I already finished my work, so I went to the park. Afterwards, I saw a movie.",
+        "My phone disappeared yesterday, but I found it in the car. I was very happy.",
+        "My mom warned me about the rain, so I took an umbrella. Afterwards, the sun came out."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "already",
+      "back": "ya",
+      "hint": "indica que algo ocurrió antes de lo esperado",
+      "lexeme_id": "already_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A2",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "afterwards",
+      "back": "luego / después",
+      "hint": "para secuenciar eventos",
+      "lexeme_id": "afterwards",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A2",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "disappear",
+      "back": "desaparecer",
+      "hint": "algo que ya no está",
+      "lexeme_id": "disappear_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "warn",
+      "back": "advertir",
+      "hint": "avisar de un peligro",
+      "lexeme_id": "warn_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "during",
+      "back": "durante",
+      "hint": "indica un periodo de tiempo",
+      "lexeme_id": "during_prep",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A2",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "eventually",
+      "back": "finalmente / con el tiempo",
+      "hint": "indica que algo ocurre después de un tiempo",
+      "lexeme_id": "eventually_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A2",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "as soon as",
+      "back": "tan pronto como",
+      "hint": "indica que algo ocurre inmediatamente después",
+      "lexeme_id": "as_soon_as_conj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A2",
+        "connectors"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "already",
+      "reading": "",
+      "translation": "ya",
+      "pos": "adverb",
+      "example": "I already finished my homework, so I can watch a movie.",
+      "example_translation": "Ya terminé mi tarea, así que puedo ver una película.",
+      "lexeme_id": "already_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "afterwards",
+      "reading": "",
+      "translation": "luego / después / posteriormente",
+      "pos": "adverb",
+      "example": "We cooked dinner, and afterwards we watched a film.",
+      "example_translation": "Cocinamos la cena juntos, y después vimos una película.",
+      "lexeme_id": "afterwards",
+      "chunk_id": null
+    },
+    {
+      "target_word": "disappear",
+      "reading": "",
+      "translation": "desaparecer",
+      "pos": "verb",
+      "example": "The cat disappeared after the rain, but it came back later.",
+      "example_translation": "El gato desapareció después de la lluvia, pero volvió más tarde.",
+      "lexeme_id": "disappear_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "warn",
+      "reading": "",
+      "translation": "advertir",
+      "pos": "verb",
+      "example": "The teacher warned us about the test, but we did not study.",
+      "example_translation": "El profesor nos advirtió sobre el examen, pero no estudiamos.",
+      "lexeme_id": "warn_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "already",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ya",
+      "lexeme_id": "already_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_001",
+        "ex_005",
+        "ex_009",
+        "ex_010",
+        "ex_014",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "afterwards",
+      "role": "support",
+      "status": "practiced",
+      "translation": "luego / después / posteriormente",
+      "lexeme_id": "afterwards",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_009",
+        "ex_013",
+        "ex_014",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "disappear",
+      "role": "support",
+      "status": "practiced",
+      "translation": "desaparecer",
+      "lexeme_id": "disappear_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_005",
+        "ex_003",
+        "ex_007",
+        "ex_009",
+        "ex_012",
+        "ex_014",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "warn",
+      "role": "support",
+      "status": "practiced",
+      "translation": "advertir",
+      "lexeme_id": "warn_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "exm_006",
+        "ex_004",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_014",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "during",
+      "role": "support",
+      "status": "review",
+      "translation": "durante",
+      "lexeme_id": "during_prep",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_006"
+      ]
+    },
+    {
+      "term": "eventually",
+      "role": "support",
+      "status": "review",
+      "translation": "al final / finalmente",
+      "lexeme_id": "eventually_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "as soon as",
+      "role": "support",
+      "status": "review",
+      "translation": "tan pronto como",
+      "lexeme_id": "as_soon_as_conj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "afterwards",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_013",
+        "ex_014",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_006",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "watch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar / ver",
+      "lexeme_id": "watch_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "ex_013",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "movie",
+      "role": "support",
+      "status": "emergent",
+      "translation": "película",
+      "lexeme_id": "movie",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_014",
+        "quiz_001:q_005",
+        "quiz_001:q_011",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "dinner",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cena",
+      "lexeme_id": "dinner",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_013",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "cook",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocinar",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_013",
+        "quiz_001:q_015"
+      ]
+    },
+    {
+      "term": "film",
+      "role": "support",
+      "status": "emergent",
+      "translation": "película",
+      "lexeme_id": "film",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "rain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lluvia",
+      "lexeme_id": "rain",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "kitchen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocina",
+      "lexeme_id": "kitchen",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "found",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fundar",
+      "lexeme_id": "found_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "water",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agua",
+      "lexeme_id": "water",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "back",
+      "role": "support",
+      "status": "emergent",
+      "translation": "espalda",
+      "lexeme_id": "back",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "later",
+      "role": "support",
+      "status": "emergent",
+      "translation": "luego / más tarde",
+      "lexeme_id": "later_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "test",
+      "role": "support",
+      "status": "emergent",
+      "translation": "examen / prueba",
+      "lexeme_id": "test",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "cold",
+      "role": "support",
+      "status": "emergent",
+      "translation": "frío",
+      "lexeme_id": "cold_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "cat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gato",
+      "lexeme_id": "cat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "swim",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nadar",
+      "lexeme_id": "swim_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "soon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pronto",
+      "lexeme_id": "soon_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "homework",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tarea",
+      "lexeme_id": "homework",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_011",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "add",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sumar",
+      "lexeme_id": "add",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_013",
+        "quiz_001:q_014",
+        "quiz_001:q_015"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "look",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar",
+      "lexeme_id": "look_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "table",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mesa",
+      "lexeme_id": "table",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "walk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caminar",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_009",
+        "quiz_001:q_013"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 4,
+    "review_support_count": 3,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "afterwards",
+      "watch",
+      "movie",
+      "morning",
+      "dinner",
+      "cook",
+      "film",
+      "finish",
+      "rain",
+      "kitchen",
+      "found",
+      "water",
+      "back",
+      "later",
+      "test",
+      "cold",
+      "teacher",
+      "study",
+      "cat",
+      "swim",
+      "soon",
+      "homework",
+      "see",
+      "yesterday",
+      "word",
+      "add",
+      "say",
+      "time",
+      "look",
+      "home",
+      "table",
+      "walk"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Telling a longer story",
+      "title_target": "Quiz: Telling a longer story",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra usamos para decir 'después' en inglés?",
+          "prompt_target": "Which word do we use to say 'después' in English?",
+          "options": [
+            "afterwards",
+            "already",
+            "during",
+            "eventually"
+          ],
+          "correct_answer": "afterwards",
+          "explanation_form": "'Afterwards' significa 'después' y se usa para continuar una historia.",
+          "explanation_target": "'Afterwards' means 'después' and is used to continue a story.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "afterwards"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'already' en español?",
+          "prompt_target": "What does 'already' mean in Spanish?",
+          "options": [
+            "ya",
+            "después",
+            "durante",
+            "finalmente"
+          ],
+          "correct_answer": "ya",
+          "explanation_form": "'Already' significa 'ya' y se usa para hablar de algo que pasó antes de lo esperado.",
+          "explanation_target": "'Already' means 'ya' and is used to talk about something that happened before expected.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "already_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'The magician made the rabbit ____.' (El mago hizo desaparecer al conejo.)",
+          "prompt_target": "Complete the sentence: 'The magician made the rabbit ____.'",
+          "options": null,
+          "correct_answer": "disappear",
+          "explanation_form": "'Disappear' significa 'desaparecer'. El mago hizo desaparecer al conejo.",
+          "explanation_target": "'Disappear' means 'desaparecer'. The magician made the rabbit disappear.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "disappear_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué verbo usamos para decir 'advertir' en inglés?",
+          "prompt_target": "Which verb do we use to say 'advertir' in English?",
+          "options": [
+            "warn",
+            "watch",
+            "walk",
+            "wait"
+          ],
+          "correct_answer": "warn",
+          "explanation_form": "'Warn' significa 'advertir'. Por ejemplo: 'I warned you about the dog.'",
+          "explanation_target": "'Warn' means 'advertir'. For example: 'I warned you about the dog.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "warn_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta: 'I / the / already / movie / saw'",
+          "prompt_target": "Order the words to form a correct sentence: 'I / the / already / movie / saw'",
+          "options": [
+            "I",
+            "already",
+            "saw",
+            "the",
+            "movie"
+          ],
+          "correct_answer": "I already saw the movie",
+          "explanation_form": "Con 'already' en pasado simple, el orden es: sujeto + already + verbo en pasado + objeto.",
+          "explanation_target": "With 'already' in past simple, the order is: subject + already + past verb + object.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "already_adv",
+            "past simple: irregular verbs (go, have, see)"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta: 'went / we / afterwards / home'",
+          "prompt_target": "Order the words to form a correct sentence: 'went / we / afterwards / home'",
+          "options": [
+            "afterwards",
+            "we",
+            "went",
+            "home"
+          ],
+          "correct_answer": "afterwards we went home",
+          "explanation_form": "'Afterwards' al inicio de la oración introduce la continuación de la historia.",
+          "explanation_target": "'Afterwards' at the beginning of the sentence introduces the continuation of the story.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "afterwards",
+            "past simple: irregular verbs (go, have, see)"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué pasó con las llaves?",
+          "prompt_target": "Listen and answer: What happened to the keys?",
+          "options": [
+            "They were on the table.",
+            "They disappeared.",
+            "They were in my bag.",
+            "They were on the floor."
+          ],
+          "correct_answer": "They disappeared.",
+          "explanation_form": "En el audio, las llaves desaparecieron ('they disappeared').",
+          "explanation_target": "In the audio, the keys disappeared ('they disappeared').",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "disappear_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I looked for my keys in the morning. They were on the table. But then they disappeared. I was very surprised.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué hizo la persona?",
+          "prompt_target": "Listen and answer: What did the person do?",
+          "options": [
+            "He warned us about the rain.",
+            "He went home.",
+            "He disappeared.",
+            "He saw the rain."
+          ],
+          "correct_answer": "He warned us about the rain.",
+          "explanation_form": "La persona nos advirtió sobre la lluvia ('He warned us about the rain').",
+          "explanation_target": "The person warned us about the rain ('He warned us about the rain').",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "warn_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The person warned us about the rain. He said it was dangerous. We listened to him and stayed home.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué pasó después de la cena?",
+      "prompt_target": "Read the text and answer: What did they do after dinner?",
+          "options": [
+            "We went home.",
+            "We went for a walk in the park.",
+            "We saw a movie.",
+            "We went to a cafe."
+          ],
+          "correct_answer": "We went for a walk in the park.",
+          "explanation_form": "Después de la cena ('afterwards'), fuimos a caminar al parque.",
+          "explanation_target": "After dinner ('afterwards'), we went for a walk in the park.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "afterwards",
+            "past simple: irregular verbs (go, have, see)"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Last night, we had dinner at a restaurant. The food was amazing. Afterwards, we went for a walk in the park. We saw a beautiful sunset. It was a wonderful evening.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el pasado del verbo 'go': 'Last weekend, we ____ to the beach.'",
+          "prompt_target": "Complete with the past of 'go': 'Last weekend, we ____ to the beach.'",
+          "options": null,
+          "correct_answer": "went",
+          "explanation_form": "El pasado de 'go' es 'went'. 'Last weekend, we went to the beach.'",
+          "explanation_target": "The past of 'go' is 'went'. 'Last weekend, we went to the beach.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: irregular verbs (go, have, see)"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el pasado del verbo 'see': 'I ____ a great movie yesterday.'",
+          "prompt_target": "Complete with the past of 'see': 'I ____ a great movie yesterday.'",
+          "options": null,
+          "correct_answer": "saw",
+          "explanation_form": "El pasado de 'see' es 'saw'. 'I saw a great movie yesterday.'",
+          "explanation_target": "The past of 'see' is 'saw'. 'I saw a great movie yesterday.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: irregular verbs (go, have, see)"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el pasado del verbo 'have': 'We ____ a wonderful time at the party.'",
+          "prompt_target": "Complete with the past of 'have': 'We ____ a wonderful time at the party.'",
+          "options": null,
+          "correct_answer": "had",
+          "explanation_form": "El pasado de 'have' es 'had'. 'We had a wonderful time at the party.'",
+          "explanation_target": "The past of 'have' is 'had'. 'We had a wonderful time at the party.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: irregular verbs (go, have, see)"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_013",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el pasado del verbo 'walk': 'She ____ to the store yesterday.'",
+          "prompt_target": "Complete with the past of 'walk': 'She ____ to the store yesterday.'",
+          "options": null,
+          "correct_answer": "walked",
+          "explanation_form": "Para verbos regulares, agregamos '-ed' al final. 'Walk' → 'walked'.",
+          "explanation_target": "For regular verbs, we add '-ed' at the end. 'Walk' → 'walked'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: regular verbs -ed"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_014",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el pasado del verbo 'watch': 'They ____ a movie last night.'",
+          "prompt_target": "Complete with the past of 'watch': 'They ____ a movie last night.'",
+          "options": null,
+          "correct_answer": "watched",
+          "explanation_form": "Para verbos regulares, agregamos '-ed'. 'Watch' → 'watched'.",
+          "explanation_target": "For regular verbs, we add '-ed'. 'Watch' → 'watched'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: regular verbs -ed"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_015",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el pasado de 'cook'?",
+          "prompt_target": "What is the past of 'cook'?",
+          "options": [
+            "cooked",
+            "cook",
+            "cooking",
+            "cooks"
+          ],
+          "correct_answer": "cooked",
+          "explanation_form": "Para verbos regulares, agregamos '-ed'. 'Cook' → 'cooked'.",
+          "explanation_target": "For regular verbs, we add '-ed'. 'Cook' → 'cooked'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: regular verbs -ed"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El pasado simple: tu mejor amigo para contar historias\n\nPara narrar una secuencia de eventos, usa el **past simple** con marcadores de tiempo. Los verbos regulares terminan en **-ed** (``warned``, ``disappeared``), pero ``go``, ``have`` y ``see`` son irregulares: **went**, **had**, **saw**. Un truco: ``already`` y ``afterwards`` te ayudan a ordenar la historia sin repetir 'then' todo el tiempo.\n\n## Errores comunes de hispanohablantes\n\n- No digas *'I see it yesterday'* → **'I saw it yesterday'**.\n- ``Afterwards`` ya incluye la idea de 'después', no necesitas 'after that'.\n- ``Already`` va entre el auxiliar y el verbo: *'I have already eaten'*, no *'I already have eaten'*.\n\n**Mnemo**: 'go-went-gone' suena como 'guau' en español, ¡como un perro que se va!",
+  "metadata": {
+    "generated_at": "2026-08-31T19:05:42Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

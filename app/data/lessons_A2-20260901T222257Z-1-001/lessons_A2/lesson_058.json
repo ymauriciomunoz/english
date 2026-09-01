@@ -1,0 +1,1497 @@
+{
+  "id": "lesson_058",
+  "position": 58,
+  "unit_id": 8,
+  "course_id": "en.A2",
+  "title_form": "Describing what we can do to help",
+  "title_target": "Describiendo qué podemos hacer para ayudar",
+  "theme_focus": "environment",
+  "learning_objectives": [
+    "Can discuss simple actions to help the environment."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_057"
+  ],
+  "grammar_focus": [
+    "can: ability and possibility"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "reuse_verb",
+        "throw_away_verb",
+        "save_verb",
+        "energy",
+        "solar_adj",
+        "reduce_verb"
+      ],
+      "chunk_ids": [
+        "chunk_a2_we_need_to_save_energy",
+        "chunk_a2_what_can_we_do_to_help"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "environment",
+        "recycling",
+        "pollution",
+        "plastic_adj"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tomás y su amiga Lucía están en un parque. Ven basura en el suelo y hablan sobre lo que pueden hacer para ayudar al medio ambiente. Lucía le cuenta a Tomás sobre las cosas que hace en su casa para reducir la contaminación y ahorrar energía.",
+  "introduction_md": "En esta lección, vamos a hablar sobre cómo podemos ayudar al medio ambiente. Aprenderás a describir acciones simples que todos podemos hacer, como **reutilizar**, **reducir** y **ahorrar energía**. También veremos cómo usar el verbo **can** para hablar de habilidades y posibilidades. Al final, podrás conversar sobre lo que tú y otras personas pueden hacer para cuidar el planeta. ¡Vamos a empezar!",
+  "intro_target": "In this lesson, we are going to talk about how we can help the environment. You will learn to describe simple actions that we can all do, like **reusing**, **reducing**, and **saving energy**. We will also see how to use the verb **can** to talk about abilities and possibilities. At the end, you will be able to talk about what you and other people can do to take care of the planet. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "reuse_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We can reuse old bottles and boxes for the garden.",
+      "translation_form": "Podemos reutilizar botellas y cajas viejas para el jardín.",
+      "highlight_words": [
+        "reuse"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "throw_away_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Don't throw away that plastic bag; we can use it again.",
+      "translation_form": "No tires esa bolsa de plástico; podemos usarla de nuevo.",
+      "highlight_words": [
+        "throw",
+        "away",
+        "plastic"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "solar_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Solar panels on the roof can help the environment a lot.",
+      "translation_form": "Los paneles solares en el techo pueden ayudar mucho al medio ambiente.",
+      "highlight_words": [
+        "solar",
+        "environment"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "energy",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Using less energy is good for the planet and for our money.",
+      "translation_form": "Usar menos energía es bueno para el planeta y para nuestro dinero.",
+      "highlight_words": [
+        "energy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "can: ability and possibility",
+      "title_form": "Can: habilidad y posibilidad",
+      "title_target": "Can: ability and possibility",
+      "description_md_form": "**Can** es un verbo modal que usamos para hablar de **habilidad** (saber hacer algo) y **posibilidad** (poder hacer algo). Es muy fácil porque **no cambia** con la persona: *I can*, *you can*, *he can*, *we can*, *they can*.\n\n**Estructura:**\n- **Afirmativo:** Sujeto + **can** + verbo base → *We can reuse bottles.*\n- **Negativo:** Sujeto + **can't** + verbo base → *We can't throw away plastic.*\n- **Pregunta:** **Can** + sujeto + verbo base? → *Can we save energy?*\n\n**Can** siempre va seguido del verbo en su forma base, sin *to* y sin *-s*. Por ejemplo: *She can reduce pollution* (no *she cans*).\n\nUsamos **can** para hablar de acciones simples que ayudan al medio ambiente: *We can reuse old boxes*, *We can save energy*.",
+      "description_md_target": "**Can** is a modal verb we use to talk about **ability** (knowing how to do something) and **possibility** (being able to do something). It is very easy because it **does not change** with the person: *I can*, *you can*, *he can*, *we can*, *they can*.\n\n**Structure:**\n- **Affirmative:** Subject + **can** + base verb → *We can reuse bottles.*\n- **Negative:** Subject + **can't** + base verb → *We can't throw away plastic.*\n- **Question:** **Can** + subject + base verb? → *Can we save energy?*\n\n**Can** is always followed by the base form of the verb, without *to* and without *-s*. For example: *She can reduce pollution* (not *she cans*).\n\nWe use **can** to talk about simple actions that help the environment: *We can reuse old boxes*, *We can save energy*.",
+      "grammar_structure": "Subject + can + base verb",
+      "conjugation_table": {
+        "name": "can_modal",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "I can",
+            "I can't",
+            "Can I?"
+          ],
+          [
+            "you",
+            "you can",
+            "you can't",
+            "Can you?"
+          ],
+          [
+            "he/she/it",
+            "he can",
+            "he can't",
+            "Can he?"
+          ],
+          [
+            "we",
+            "we can",
+            "we can't",
+            "Can we?"
+          ],
+          [
+            "they",
+            "they can",
+            "they can't",
+            "Can they?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_a2_what_can_we_do_to_help",
+          "grammar_slug": null,
+          "text_target": "What can we do to help? We can reuse old bottles and boxes.",
+          "translation_form": "¿Qué podemos hacer para ayudar? Podemos reutilizar botellas y cajas viejas.",
+          "highlight_words": [
+            "can",
+            "reuse"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "save_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "We can save energy with solar panels on the roof.",
+          "translation_form": "Podemos ahorrar energía con paneles solares en el techo.",
+          "highlight_words": [
+            "can",
+            "save"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Can** no cambia con la persona. No digas *he cans* ni *she cans* — siempre es *he can*, *she can*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "Después de **can**, el verbo va en forma base, sin *to*. Decimos *We can reuse*, NO *We can to reuse*."
+        },
+        {
+          "type": "warning",
+          "text_md": "Para preguntas, invierte el orden: *Can we save energy?* NO *We can save energy?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I can to help* en lugar de *I can help* (agregar *to* después de can).",
+        "Decir *He cans reduce* en lugar de *He can reduce* (agregar *-s* a can).",
+        "Formar la pregunta como *We can save energy?* en lugar de *Can we save energy?*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'reuse'?",
+      "options": [
+        "reutilizar",
+        "tirar",
+        "comprar",
+        "romper"
+      ],
+      "correct_answer": "reutilizar",
+      "explanation_md": "Reuse significa usar algo de nuevo en lugar de tirarlo.",
+      "related_lexeme_ids": [
+        "reuse_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'solar'?",
+      "options": [
+        "solar",
+        "lunar",
+        "eléctrico",
+        "nuclear"
+      ],
+      "correct_answer": "solar",
+      "explanation_md": "Solar se refiere a la energía del sol.",
+      "related_lexeme_ids": [
+        "solar_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "save",
+        "reducir",
+        "reduce",
+        "ahorrar",
+        "throw away",
+        "tirar"
+      ],
+      "correct_answer": [
+        "save=ahorrar",
+        "reduce=reducir",
+        "throw away=tirar"
+      ],
+      "explanation_md": "Estas palabras son clave para hablar de acciones ecológicas.",
+      "related_lexeme_ids": [
+        "save_verb",
+        "reduce_verb",
+        "throw_away_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la frase: 'We can ____ energy by turning off the lights.'",
+      "options": [
+        "throw away",
+        "save",
+        "reduce",
+        "reuse"
+      ],
+      "correct_answer": "save",
+      "explanation_md": "Save energy significa ahorrar energía.",
+      "related_lexeme_ids": [
+        "save_verb",
+        "energy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'We can ____ plastic bottles for the garden.'",
+      "options": null,
+      "correct_answer": "reuse",
+      "explanation_md": "Reuse significa reutilizar, usar algo de nuevo.",
+      "related_lexeme_ids": [
+        "reuse_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'Don't ____ away that old box; we can use it.'",
+      "options": null,
+      "correct_answer": "throw",
+      "explanation_md": "Throw away significa tirar o desechar.",
+      "related_lexeme_ids": [
+        "throw_away_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Podemos reducir la contaminación.'",
+      "options": null,
+      "correct_answer": "We can reduce pollution.",
+      "explanation_md": "Reduce significa reducir y pollution es contaminación.",
+      "related_lexeme_ids": [
+        "reduce_verb",
+        "pollution"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Solar panels can help the environment.'",
+      "options": null,
+      "correct_answer": "Los paneles solares pueden ayudar al medio ambiente.",
+      "explanation_md": "Solar panels son paneles solares y environment es medio ambiente.",
+      "related_lexeme_ids": [
+        "solar_adj",
+        "environment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué podemos hacer para ayudar al medio ambiente?",
+      "options": [
+        "Throw away all plastic.",
+        "Reuse old bottles.",
+        "Use more energy.",
+        "Buy more things."
+      ],
+      "correct_answer": "Reuse old bottles.",
+      "explanation_md": "Reutilizar botellas es una acción que ayuda al medio ambiente.",
+      "related_lexeme_ids": [
+        "reuse_verb",
+        "plastic_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_what_can_we_do_to_help"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué podemos hacer para ahorrar energía?",
+      "options": [
+        "Turn off the lights and use solar panels.",
+        "Throw away old boxes.",
+        "Use more plastic.",
+        "Buy a new car."
+      ],
+      "correct_answer": "Turn off the lights and use solar panels.",
+      "explanation_md": "El audio menciona apagar las luces y usar paneles solares para ahorrar energía.",
+      "related_lexeme_ids": [
+        "save_verb",
+        "energy",
+        "solar_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_we_need_to_save_energy"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "We need to save energy at home. We can turn off the lights. We can use solar panels on the roof. This helps the environment and saves money.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué hace la familia con las botellas de plástico?",
+      "options": [
+        "They throw them away.",
+        "They reuse them for the garden.",
+        "They burn them.",
+        "They sell them."
+      ],
+      "correct_answer": "They reuse them for the garden.",
+      "explanation_md": "El texto dice que la familia reutiliza las botellas de plástico para el jardín.",
+      "related_lexeme_ids": [
+        "reuse_verb",
+        "plastic_adj",
+        "recycling"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "The Green family wants to help the environment. They reuse plastic bottles for the garden. They also reduce energy use at home. They turn off the lights and use solar panels. They don't throw away old boxes; they use them again. Recycling is important for them. They believe small actions can make a big difference.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre qué podemos hacer para ayudar al medio ambiente. Usa 'can' y palabras como reuse, reduce, save o solar.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'can' para expresar posibilidad y las palabras de la lección.",
+      "related_lexeme_ids": [
+        "reuse_verb",
+        "reduce_verb",
+        "save_verb",
+        "solar_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_what_can_we_do_to_help"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "We can reuse old bottles for the garden.",
+        "We can reduce energy use at home.",
+        "We can save energy with solar panels."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "reuse",
+      "back": "reutilizar",
+      "hint": "usar algo otra vez",
+      "lexeme_id": "reuse_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "throw away",
+      "back": "tirar / desechar",
+      "hint": "poner en la basura",
+      "lexeme_id": "throw_away_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "save",
+      "back": "ahorrar / salvar",
+      "hint": "no gastar o proteger",
+      "lexeme_id": "save_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "energy",
+      "back": "energía",
+      "hint": "electricidad o fuerza",
+      "lexeme_id": "energy",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "solar",
+      "back": "solar",
+      "hint": "del sol",
+      "lexeme_id": "solar_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "reduce",
+      "back": "reducir",
+      "hint": "hacer más pequeño",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "We need to save energy.",
+      "back": "Necesitamos ahorrar energía.",
+      "hint": "frase para hablar de energía",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_we_need_to_save_energy",
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "What can we do to help?",
+      "back": "¿Qué podemos hacer para ayudar?",
+      "hint": "pregunta para ofrecer ayuda",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_what_can_we_do_to_help",
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "environment",
+      "back": "medio ambiente",
+      "hint": "la naturaleza y el planeta",
+      "lexeme_id": "environment",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "recycling",
+      "back": "reciclaje",
+      "hint": "proceso de reutilizar materiales",
+      "lexeme_id": "recycling",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "pollution",
+      "back": "contaminación",
+      "hint": "suciedad en el aire o el agua",
+      "lexeme_id": "pollution",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "plastic",
+      "back": "plástico",
+      "hint": "material común en bolsas y botellas",
+      "lexeme_id": "plastic_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_058",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "reuse",
+      "reading": "",
+      "translation": "reutilizar",
+      "pos": "verb",
+      "example": "We can reuse old bottles and boxes for the garden.",
+      "example_translation": "Podemos reutilizar botellas y cajas viejas para el jardín.",
+      "lexeme_id": "reuse_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "throw away",
+      "reading": "",
+      "translation": "tirar / desechar",
+      "pos": "verb",
+      "example": "Don't throw away that plastic bag; we can use it again.",
+      "example_translation": "No tires esa bolsa de plástico; podemos usarla de nuevo.",
+      "lexeme_id": "throw_away_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "save",
+      "reading": "",
+      "translation": "ahorrar / salvar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "save_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "energy",
+      "reading": "",
+      "translation": "energía",
+      "pos": "noun",
+      "example": "Using less energy is good for the planet and for our money.",
+      "example_translation": "Usar menos energía es bueno para el planeta y para nuestro dinero.",
+      "lexeme_id": "energy",
+      "chunk_id": null
+    },
+    {
+      "target_word": "solar",
+      "reading": "",
+      "translation": "solar",
+      "pos": "adjective",
+      "example": "Solar panels on the roof can help the environment a lot.",
+      "example_translation": "Los paneles solares en el techo pueden ayudar mucho al medio ambiente.",
+      "lexeme_id": "solar_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "reduce",
+      "reading": "",
+      "translation": "reducir",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "We need to save energy.",
+      "reading": "",
+      "translation": "Necesitamos ahorrar energía.",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_we_need_to_save_energy"
+    },
+    {
+      "target_word": "What can we do to help?",
+      "reading": "",
+      "translation": "¿Qué podemos hacer para ayudar?",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_what_can_we_do_to_help"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "reuse",
+      "role": "support",
+      "status": "practiced",
+      "translation": "reutilizar",
+      "lexeme_id": "reuse_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_005",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "throw away",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tirar / desechar",
+      "lexeme_id": "throw_away_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_003",
+        "ex_006",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "save",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ahorrar / salvar",
+      "lexeme_id": "save_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_004",
+        "ex_010",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "energy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "energía",
+      "lexeme_id": "energy",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_004",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "solar",
+      "role": "support",
+      "status": "practiced",
+      "translation": "solar",
+      "lexeme_id": "solar_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "reduce",
+      "role": "support",
+      "status": "practiced",
+      "translation": "reducir",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_007",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "We need to save energy.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Necesitamos ahorrar energía.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_we_need_to_save_energy",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_010",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "What can we do to help?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Qué podemos hacer para ayudar?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_what_can_we_do_to_help",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "pollution",
+      "role": "support",
+      "status": "review",
+      "translation": "contaminacion",
+      "lexeme_id": "pollution",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "environment",
+      "role": "support",
+      "status": "review",
+      "translation": "entorno",
+      "lexeme_id": "environment",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "plastic",
+      "role": "support",
+      "status": "review",
+      "translation": "plástico",
+      "lexeme_id": "plastic_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "recycling",
+      "role": "support",
+      "status": "review",
+      "translation": "reciclaje",
+      "lexeme_id": "recycling",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "energy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_004",
+        "fc_007",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "bottle",
+      "role": "support",
+      "status": "emergent",
+      "translation": "botella",
+      "lexeme_id": "bottle",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_001",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "again",
+      "role": "support",
+      "status": "emergent",
+      "translation": "otra vez / de nuevo",
+      "lexeme_id": "again_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "fc_007",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "garden",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jardín",
+      "lexeme_id": "garden",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "recycle",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reusar / reciclar / reutilizar",
+      "lexeme_id": "recycle_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "fc_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "box",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caja",
+      "lexeme_id": "box",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "planet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planeta",
+      "lexeme_id": "planet",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "roof",
+      "role": "support",
+      "status": "emergent",
+      "translation": "techo",
+      "lexeme_id": "roof",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "bag",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bolsa",
+      "lexeme_id": "bag",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "turn off",
+      "role": "support",
+      "status": "emergent",
+      "translation": "apagar",
+      "lexeme_id": "turn_off_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "turn",
+      "role": "support",
+      "status": "emergent",
+      "translation": "girar / doblar",
+      "lexeme_id": "turn_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "emergent",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "possibility",
+      "role": "support",
+      "status": "emergent",
+      "translation": "posibilidad",
+      "lexeme_id": "possibility",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "ability",
+      "role": "support",
+      "status": "emergent",
+      "translation": "habilidad",
+      "lexeme_id": "ability",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 8,
+    "review_support_count": 4,
+    "emergent_count": 19,
+    "emergent_terms": [
+      "energy",
+      "bottle",
+      "old",
+      "good",
+      "again",
+      "need",
+      "garden",
+      "recycle",
+      "box",
+      "planet",
+      "roof",
+      "bag",
+      "home",
+      "turn off",
+      "turn",
+      "off",
+      "person",
+      "possibility",
+      "ability"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describing what we can do to help",
+      "title_target": "Quiz: Describing what we can do to help",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta. ¿Qué dice la persona?",
+          "prompt_target": "Listen and choose the correct answer. What does the person say?",
+          "options": [
+            "We can save energy at home.",
+            "We can throw away energy.",
+            "We can buy new energy."
+          ],
+          "correct_answer": "We can save energy at home.",
+          "explanation_form": "La persona dice que podemos ahorrar energía en casa y usar energía solar.",
+          "explanation_target": "The person says we can save energy at home and use solar energy.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "save_verb",
+            "energy",
+            "solar_adj",
+            "environment"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "We can save energy at home. We can turn off the lights. We can also use solar energy. It is good for the environment.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una pregunta correcta.",
+          "prompt_target": "Order the words to form a correct question.",
+          "options": [
+            "What",
+            "can",
+            "we",
+            "do",
+            "to",
+            "help",
+            "?"
+          ],
+          "correct_answer": "What can we do to help?",
+          "explanation_form": "La pregunta correcta es 'What can we do to help?' (¿Qué podemos hacer para ayudar?).",
+          "explanation_target": "The correct question is 'What can we do to help?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_what_can_we_do_to_help",
+            "can: ability and possibility"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'We need to ____ energy.' (Necesitamos ahorrar energía.)",
+          "prompt_target": "Complete the sentence: 'We need to ____ energy.'",
+          "options": null,
+          "correct_answer": "save",
+          "explanation_form": "La frase correcta es 'We need to save energy.' (Necesitamos ahorrar energía).",
+          "explanation_target": "The correct sentence is 'We need to save energy.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_we_need_to_save_energy",
+            "save_verb",
+            "energy"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'throw away'?",
+          "prompt_target": "What does 'throw away' mean?",
+          "options": [
+            "Tirar",
+            "Reutilizar",
+            "Ahorrar"
+          ],
+          "correct_answer": "Tirar",
+          "explanation_form": "'Throw away' significa 'tirar' o 'desechar'.",
+          "explanation_target": "'Throw away' means to discard or get rid of something.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "throw_away_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo con su significado.",
+          "prompt_target": "Match each verb with its meaning.",
+          "options": [
+            "reduce",
+            "reducir",
+            "reuse",
+            "reutilizar",
+            "save",
+            "ahorrar"
+          ],
+          "correct_answer": [
+            "reduce=reducir",
+            "reuse=reutilizar",
+            "save=ahorrar"
+          ],
+          "explanation_form": "Reduce = reducir, reuse = reutilizar, save = ahorrar.",
+          "explanation_target": "Reduce = reducir, reuse = reutilizar, save = ahorrar.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reduce_verb",
+            "reuse_verb",
+            "save_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y elige la respuesta correcta. ¿Qué podemos hacer para ayudar?",
+          "prompt_target": "Read the text and choose the correct answer. What can we do to help?",
+          "options": [
+            "We can reduce plastic and reuse old things.",
+            "We can throw away everything.",
+            "We can use more plastic."
+          ],
+          "correct_answer": "We can reduce plastic and reuse old things.",
+          "explanation_form": "El texto dice que podemos reducir el plástico y reutilizar cosas viejas para ayudar al medio ambiente.",
+          "explanation_target": "The text says we can reduce plastic and reuse old things to help the environment.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reduce_verb",
+            "reuse_verb",
+            "plastic_adj",
+            "environment",
+            "recycling"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "We can help the environment in many ways. We can reduce plastic and reuse old things. We can also save energy at home. Solar energy is a good option for our homes. We should not throw away things that we can use again.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Podemos reutilizar las botellas.'",
+          "prompt_target": "Translate into English: 'We can reuse the bottles.'",
+          "options": null,
+          "correct_answer": "We can reuse the bottles.",
+          "explanation_form": "La traducción correcta es 'We can reuse the bottles.'",
+          "explanation_target": "The correct translation is 'We can reuse the bottles.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reuse_verb",
+            "can: ability and possibility"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta. ¿Qué NO debemos hacer?",
+          "prompt_target": "Listen and choose the correct answer. What should we NOT do?",
+          "options": [
+            "Throw away plastic bottles.",
+            "Reuse plastic bottles.",
+            "Reduce plastic."
+          ],
+          "correct_answer": "Throw away plastic bottles.",
+          "explanation_form": "La persona dice que NO debemos tirar botellas de plástico; podemos reutilizarlas.",
+          "explanation_target": "The person says we should NOT throw away plastic bottles; we can reuse them.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "throw_away_verb",
+            "reuse_verb",
+            "plastic_adj",
+            "reduce_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "We should not throw away plastic bottles. We can reuse them. We can also reduce the plastic we use. This helps our planet.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es una forma de ayudar al medio ambiente?",
+          "prompt_target": "Which is a way to help the environment?",
+          "options": [
+            "Use solar energy.",
+            "Throw away everything.",
+            "Use more plastic."
+          ],
+          "correct_answer": "Use solar energy.",
+          "explanation_form": "Usar energía solar es una forma de ayudar al medio ambiente.",
+          "explanation_target": "Using solar energy is a way to help the environment.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "solar_adj",
+            "energy",
+            "environment"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'We can ____ plastic to help the environment.' (Podemos reducir el plástico para ayudar al medio ambiente.)",
+          "prompt_target": "Complete the sentence: 'We can ____ plastic to help the environment.'",
+          "options": null,
+          "correct_answer": "reduce",
+          "explanation_form": "La frase correcta es 'We can reduce plastic to help the environment.'",
+          "explanation_target": "The correct sentence is 'We can reduce plastic to help the environment.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reduce_verb",
+            "plastic_adj",
+            "environment"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Can para hablar de acciones\n\nUsa **can** para decir lo que sabemos hacer o lo que es posible: *I can save energy* (puedo ahorrar energia). En preguntas, pon **can** al inicio: *What can we do to help?* (¿Que podemos hacer para ayudar?). Recuerda: despues de **can** el verbo va SIN **to**.\n\n## Errores comunes\n\n- ✗ *I can to reduce.* → ✓ *I can reduce.* (nunca uses **to** despues de **can**).\n- ✗ *He cans save.* → ✓ *He can save.* (**can** no cambia con he/she/it).\n- ✗ *We no can throw away.* → ✓ *We cannot throw away.* (la negacion es **cannot** o **can't**).\n\n**Tip:** *throw away* significa 'tirar a la basura'. *Reuse* es 'reutilizar'. Piensa en la regla de las 3R: *reduce, reuse, recycle* (reducir, reutilizar, reciclar).",
+  "metadata": {
+    "generated_at": "2026-08-31T19:00:27Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

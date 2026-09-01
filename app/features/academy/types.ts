@@ -1,7 +1,8 @@
 import type { Activity, A1LessonContent } from "../../a1-course";
 
 export type Level = "A1" | "A2" | "B1" | "B2" | "C1";
-export type LegacyLevel = Exclude<Level, "A1">;
+export type CourseContentLevel = Exclude<Level, "C1">;
+export type LegacyLevel = Extract<Level, "C1">;
 export type AppView = "home" | "route" | "practice";
 export type Feedback = "idle" | "correct" | "wrong";
 export type VoiceAccent = "US" | "UK";
@@ -15,6 +16,7 @@ export type Lesson = {
   summary: string;
   icon: string;
   unit?: number | string;
+  unitTitle?: string;
   duration?: number;
   sourceId?: string;
 };

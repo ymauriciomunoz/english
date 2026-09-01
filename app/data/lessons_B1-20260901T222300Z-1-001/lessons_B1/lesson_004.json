@@ -1,0 +1,1504 @@
+{
+  "id": "lesson_004",
+  "position": 4,
+  "unit_id": 2,
+  "course_id": "en.B1",
+  "title_form": "Conectar una narracion",
+  "title_target": "Connecting a narrative clearly",
+  "theme_focus": "stories and narrative",
+  "learning_objectives": [
+    "Can write a connected account of an experience using simple time and cause connectors."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_003"
+  ],
+  "grammar_focus": [
+    "Time, contrast and result connectors in a connected account."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "then_adv"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "timeline",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the stories and narrative situation."
+      },
+      {
+        "term": "event",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the stories and narrative situation."
+      },
+      {
+        "term": "meanwhile",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "afterwards",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "however",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "as a result",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos está organizando sus notas para escribir una historia sobre su último viaje de trabajo. Al principio tuvo varios imprevistos, pero logró resolverlos organizando los hechos en una línea de tiempo ordenada. Ahora repasa cada evento usando conectores para explicar claramente lo que ocurrió a sus compañeros.",
+  "introduction_md": "¿Alguna vez has intentado contar una historia en inglés y sentiste que tus ideas sonaban desconectadas? En esta lección aprenderás a conectar tus historias de forma clara y fluida utilizando conectores de tiempo, causa, contraste y resultado. Conectar una narración de manera efectiva te permite guiar a tu oyente a través de una línea de tiempo clara y dar sentido a cada evento.\n\nEn esta lección vas a practicar:\n- Organizar eventos en una secuencia temporal lógica usando palabras como **afterwards** y **meanwhile**.\n- Explicar resultados y consecuencias con conectores como **as a result**.\n- Introducir contrastes en tu relato utilizando **however**.\n\nAl finalizar, podrás redactar y contar experiencias personales completas sin sonar repetitivo. ¡Prepárate para llevar tus habilidades narrativas al siguiente nivel!",
+  "intro_target": "Have you ever tried to tell a story in English and felt that your ideas sounded disconnected? In this lesson, you will learn how to connect your stories clearly and smoothly by using connectors of time, cause, contrast, and result. Connecting a narrative effectively allows you to guide your listener through a clear timeline and give meaning to every event.\n\nIn this lesson, you will practice:\n- Organizing events in a logical sequence using words like **afterwards** and **meanwhile**.\n- Explaining results and consequences with connectors like **as a result**.\n- Introducing contrasts in your story using **however**.\n\nBy the end of this lesson, you will be able to write and talk about complete personal experiences naturally. Get ready to take your storytelling skills to the next level!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "First, we checked the timeline for the main project, and then we started the team meeting.",
+      "translation_form": "Primero, revisamos la cronología del proyecto principal y luego comenzamos la reunión de equipo.",
+      "highlight_words": [
+        "timeline",
+        "then"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The main event was an important success; however, we noticed a small problem with the schedule afterwards.",
+      "translation_form": "El evento principal fue un éxito importante; sin embargo, notamos un pequeño problema con el horario después.",
+      "highlight_words": [
+        "event",
+        "however",
+        "afterwards"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I prepared the notes in the morning; meanwhile, my colleague finished the main project, and then we left.",
+      "translation_form": "Preparé las notas por la mañana; mientras tanto, mi colega terminó el proyecto principal y luego nos fuimos.",
+      "highlight_words": [
+        "meanwhile",
+        "then"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We missed the bus this morning, and as a result, we arrived late for the first event.",
+      "translation_form": "Perdimos el autobús esta mañana y, como resultado, llegamos tarde al primer evento.",
+      "highlight_words": [
+        "as a result",
+        "event"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She organized the timeline carefully, and then she explained every event to the team.",
+      "translation_form": "Ella organizó la cronología cuidadosamente y luego le explicó cada evento al equipo.",
+      "highlight_words": [
+        "timeline",
+        "then",
+        "event"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Time, contrast and result connectors in a connected account.",
+      "title_form": "Conectores de tiempo, contraste y resultado en narraciones",
+      "title_target": "Time, contrast, and result connectors in narratives",
+      "description_md_form": "Para contar una historia u organizar un relato en inglés con claridad, es fundamental conectar las ideas usando conectores adecuados:\n\n- **Tiempo y secuencia**: `then` (luego), `meanwhile` (mientras tanto), `afterwards` (después). Ayudan a establecer el orden cronológico de un **event** o dentro de una **timeline**.\n- **Contraste**: `however` (sin embargo). Introduce un giro o una información opuesta a la anterior.\n- **Resultado**: `as a result` (como resultado). Muestra la consecuencia directa de una acción previa.\n\nUsar estos conectores permite estructurar párrafos cohesivos. Recuerda colocar una coma después de la mayoría de estos conectores cuando inician una oración independiente (por ejemplo: *However,* / *As a result,*).",
+      "description_md_target": "To tell a story or organize a narrative in English clearly, it is essential to connect ideas using appropriate connectors:\n\n- **Time and sequence**: `then`, `meanwhile`, `afterwards`. They help establish the chronological order of an **event** or within a **timeline**.\n- **Contrast**: `however`. Introduces a shift or contrasting information.\n- **Result**: `as a result`. Shows the direct consequence of a previous action.\n\nUsing these connectors allows you to structure cohesive paragraphs. Remember to place a comma after most connectors when they start an independent sentence (for example: *However,* / *As a result,*).",
+      "grammar_structure": "First / Then / Meanwhile / Afterwards / However / As a result, + Sentence",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Time, contrast and result connectors in a connected account.",
+          "text_target": "I prepared the notes in the morning; meanwhile, my colleague finished the main project, and then we left.",
+          "translation_form": "Preparé las notas por la mañana; mientras tanto, mi colega terminó el proyecto principal y luego nos fuimos.",
+          "highlight_words": [
+            "meanwhile",
+            "then"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Time, contrast and result connectors in a connected account.",
+          "text_target": "We missed the bus this morning, and as a result, we arrived late for the first event.",
+          "translation_form": "Perdimos el autobús esta mañana y, como resultado, llegamos tarde al primer evento.",
+          "highlight_words": [
+            "as a result"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "Coloca siempre una coma después de conectores como **However** o **As a result** cuando inician una nueva oración."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No uses **meanwhile** para contrastar ideas; **meanwhile** sirve únicamente para señalar que dos acciones ocurren simultáneamente."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar la coma después de conectores de transición como 'however' o 'as a result' al inicio de una oración.",
+        "Confundir 'meanwhile' (mientras tanto) con conectores de contraste como 'however' (sin embargo).",
+        "Usar 'afterwards' seguido directamente de un sustantivo en lugar de usarlo como adverbio."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa el conector **meanwhile** en una narración en inglés?",
+      "options": [
+        "Mientras tanto",
+        "Después",
+        "Sin embargo",
+        "Como resultado"
+      ],
+      "correct_answer": "Mientras tanto",
+      "explanation_md": "'Meanwhile' se utiliza para conectar dos acciones que ocurren al mismo tiempo en una historia.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona el conector de contraste adecuado para completar la oración sobre la reunión de trabajo:",
+      "options": [
+        "however",
+        "meanwhile",
+        "afterwards",
+        "then"
+      ],
+      "correct_answer": "however",
+      "explanation_md": "Usamos 'however' (sin embargo) para introducir un contraste u oposición frente a la idea anterior.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada conector o término narrativo con su significado en español:",
+      "options": [
+        "afterwards",
+        "después / más tarde",
+        "meanwhile",
+        "mientras tanto",
+        "as a result",
+        "como resultado",
+        "timeline",
+        "cronología"
+      ],
+      "correct_answer": [
+        "afterwards=después / más tarde",
+        "meanwhile=mientras tanto",
+        "as a result=como resultado",
+        "timeline=cronología"
+      ],
+      "explanation_md": "Estos conectores ayudan a estructurar el orden temporal, la simultaneidad y las consecuencias en un relato.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la expresión de resultado con la palabra que falta:",
+      "options": null,
+      "correct_answer": "as",
+      "explanation_md": "La locución conectora de resultado es 'as a result' (como resultado).",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente oración sobre la organización de un proyecto:",
+      "options": null,
+      "correct_answer": "She organized the project timeline, and then she explained the event.",
+      "explanation_md": "Usamos 'timeline' para la cronología y 'and then' para indicar el siguiente paso secuencial.",
+      "related_lexeme_ids": [
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la siguiente oración narrada:",
+      "options": null,
+      "correct_answer": "Preparé las notas; mientras tanto, mi colega terminó el informe principal.",
+      "explanation_md": "'Meanwhile' expresa una acción simultánea a la expresada en la primera parte de la oración.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige el conector adecuado para indicar una acción posterior en la siguiente secuencia:",
+      "options": [
+        "Afterwards",
+        "However",
+        "Meanwhile",
+        "As"
+      ],
+      "correct_answer": "Afterwards",
+      "explanation_md": "'Afterwards' significa 'después' o 'más tarde', marcando lo que ocurre a continuación en el tiempo.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el término de planificación narrativa adecuado:",
+      "options": null,
+      "correct_answer": "timeline",
+      "explanation_md": "'Timeline' es la cronología o línea de tiempo en la que se organizan los eventos.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto sobre la presentación de la empresa y responde: ¿Qué ocurrió mientras el gerente explicaba la cronología?",
+      "options": [
+        "El equipo preparó café y snacks en el salón principal.",
+        "Los invitados caminaron e hicieron preguntas.",
+        "La empresa recibió tres pedidos de nuevos clientes.",
+        "El gerente terminó la reunión temprano."
+      ],
+      "correct_answer": "El equipo preparó café y snacks en el salón principal.",
+      "explanation_md": "El conector 'Meanwhile' (mientras tanto) indica que la preparación del café ocurría simultáneamente a la explicación del gerente.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "In the morning, our company organized a big event. First, the manager explained the project timeline to all the guests. Meanwhile, the team prepared coffee and snacks in the main hall. The meeting was long; however, everyone listened very carefully to the explanation. Afterwards, the guests walked around and asked important questions. As a result of this great event, we received three new client orders.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato sobre el viaje y responde: ¿Por qué llegaron tarde al aeropuerto?",
+      "options": [
+        "Porque el tráfico en la carretera estuvo terrible.",
+        "Porque no revisaron la cronología del viaje.",
+        "Porque perdieron la reserva del hotel.",
+        "Porque la reunión duró demasiado tiempo."
+      ],
+      "correct_answer": "Porque el tráfico en la carretera estuvo terrible.",
+      "explanation_md": "La causa indicada tras 'However' fue el tráfico terrible, lo que produjo como consecuencia ('As a result') la llegada tarde.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "We checked our timeline carefully before the trip. However, traffic was terrible on the road. As a result, we arrived late at the airport. Afterwards, we had to book another flight.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige el conector que indica que dos acciones ocurren simultáneamente:",
+      "options": [
+        "meanwhile",
+        "afterwards",
+        "however",
+        "as a result"
+      ],
+      "correct_answer": "meanwhile",
+      "explanation_md": "'Meanwhile' une dos sucesos que tienen lugar en el mismo periodo temporal.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribe 2 o 3 oraciones en inglés contando un evento simple de tu día. Usa conectores como 'first', 'then', 'however', 'meanwhile' o 'afterwards'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la coherencia narrativa utilizando conectores temporales, de contraste o de resultado de forma natural.",
+      "related_lexeme_ids": [
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "First, I went to work and checked my emails. Meanwhile, my colleague prepared coffee. Afterwards, we had a meeting.",
+        "I planned a simple event for the weekend. However, it started to rain. As a result, we stayed at home."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Qué hizo la hermana mientras la narradora preparaba el evento? / Read the short story and answer: What did the narrator's sister do while the narrator was preparing the event?",
+      "options": [
+        "Preparó la sala.",
+        "Reparó el proyector.",
+        "Recibió a los invitados antes de tiempo.",
+        "Movió las sillas al interior."
+      ],
+      "correct_answer": "Preparó la sala.",
+      "explanation_md": "La hermana preparó la sala mientras la narradora organizaba el evento; `Meanwhile` presenta estas acciones simultáneas. / The sister prepared the room while the narrator organized the event; `Meanwhile` presents these simultaneous actions.",
+      "related_lexeme_ids": [
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Last Saturday, I organized a small community event. First, I chose the date. Then, I checked the timeline and sent the invitations. Meanwhile, my sister prepared the room and arranged the chairs. However, the projector stopped working before the talk. As a result, I moved the chairs outside and used a portable speaker. Afterwards, the guests arrived and asked questions. The event went well because everyone helped.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Qué hizo la narradora porque la impresora se quedó sin papel? / Listen to the short story and answer: What did the narrator do because the printer ran out of paper?",
+      "options": [
+        "Escribió los puntos principales en su cuaderno.",
+        "Canceló la presentación de la clase.",
+        "Pidió a su compañera que imprimiera todo.",
+        "Salió a comprar una impresora nueva."
+      ],
+      "correct_answer": "Escribió los puntos principales en su cuaderno.",
+      "explanation_md": "Cuando la impresora se quedó sin papel, la narradora escribió los puntos principales en su cuaderno; `As a result` marca la consecuencia. / When the printer ran out of paper, the narrator wrote the main points in her notebook; `As a result` marks the consequence.",
+      "related_lexeme_ids": [
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Yesterday, I prepared a short presentation for my class. First, I printed my notes. However, the printer ran out of paper. As a result, I wrote the key points in my notebook. Meanwhile, my partner checked the slides. Afterwards, we practiced together and finished on time.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "then",
+      "back": "luego / después",
+      "hint": "indica secuencia temporal",
+      "lexeme_id": "then_adv",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "B1",
+        "connectors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "occurred",
+      "back": "ocurrió / sucedió",
+      "hint": "forma en pasado de occur para contar un hecho",
+      "lexeme_id": "occur_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "B1",
+        "narrative"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "finish",
+      "back": "terminar / finalizar",
+      "hint": "completar una acción o una parte de una historia",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "B1",
+        "narrative"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "discovered",
+      "back": "descubrió / descubrí",
+      "hint": "forma en pasado de discover al encontrar algo nuevo",
+      "lexeme_id": "discover_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "B1",
+        "narrative"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "confused",
+      "back": "confundió / desorientó",
+      "hint": "forma en pasado de confuse cuando algo no está claro",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_004",
+        "B1",
+        "narrative"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [],
+  "lesson_vocabulary": [
+    {
+      "term": "timeline",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_005",
+        "Time, contrast and result connectors in a connected account.",
+        "ex_009",
+        "ex_010",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "event",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "evento",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "exm_005",
+        "Time, contrast and result connectors in a connected account.",
+        "ex_009",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "meanwhile",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "mientras tanto",
+      "lexeme_id": "meanwhile_adv",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Time, contrast and result connectors in a connected account.",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "afterwards",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "despues / posteriormente",
+      "lexeme_id": "afterwards_adv",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "Time, contrast and result connectors in a connected account.",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "however",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "Time, contrast and result connectors in a connected account.",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "as a result",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "Time, contrast and result connectors in a connected account.",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "then",
+      "role": "support",
+      "status": "review",
+      "translation": "entonces / luego",
+      "lexeme_id": "then_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_005",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "occur",
+      "role": "support",
+      "status": "review",
+      "translation": "pasar / acaecer / ocurrir",
+      "lexeme_id": "occur_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_002"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "review",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "discover",
+      "role": "support",
+      "status": "review",
+      "translation": "descubrir",
+      "lexeme_id": "discover_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "confuse",
+      "role": "support",
+      "status": "review",
+      "translation": "confundir",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_003",
+        "ex_009",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_004",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_005",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "prepare",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preparar",
+      "lexeme_id": "prepare_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "colleague",
+      "role": "support",
+      "status": "emergent",
+      "translation": "colega",
+      "lexeme_id": "colleague",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "carefully",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cuidadosamente / precavidamente",
+      "lexeme_id": "carefully_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "organize",
+      "role": "support",
+      "status": "emergent",
+      "translation": "organizar",
+      "lexeme_id": "organize_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "late",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tarde",
+      "lexeme_id": "late_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "note",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nota / notar",
+      "lexeme_id": "note",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "important",
+      "role": "support",
+      "status": "emergent",
+      "translation": "importante",
+      "lexeme_id": "important_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "left",
+      "role": "support",
+      "status": "emergent",
+      "translation": "izquierda",
+      "lexeme_id": "left",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "bus",
+      "role": "support",
+      "status": "emergent",
+      "translation": "autobús",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "schedule",
+      "role": "support",
+      "status": "emergent",
+      "translation": "horario",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "success",
+      "role": "support",
+      "status": "emergent",
+      "translation": "éxito",
+      "lexeme_id": "success",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "miss",
+      "role": "support",
+      "status": "emergent",
+      "translation": "perder o no alcanzar",
+      "lexeme_id": "miss_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "contrast",
+      "role": "support",
+      "status": "emergent",
+      "translation": "contraste",
+      "lexeme_id": "contrast",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "connect",
+      "role": "support",
+      "status": "emergent",
+      "translation": "atar / unir / ligar",
+      "lexeme_id": "connect_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "sequence",
+      "role": "support",
+      "status": "emergent",
+      "translation": "secuencia",
+      "lexeme_id": "sequence",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "wait",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "walk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caminar",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 5,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "main",
+      "morning",
+      "team",
+      "project",
+      "prepare",
+      "check",
+      "colleague",
+      "meet",
+      "meeting",
+      "carefully",
+      "organize",
+      "late",
+      "small",
+      "note",
+      "important",
+      "explain",
+      "left",
+      "bus",
+      "schedule",
+      "success",
+      "miss",
+      "contrast",
+      "connect",
+      "home",
+      "work",
+      "sequence",
+      "want",
+      "ask",
+      "call",
+      "wait",
+      "walk",
+      "coffee"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Conectar una narración",
+      "title_target": "Quiz: Connecting a Narrative",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Por qué fue la persona al café después de llegar al trabajo?",
+          "prompt_target": "Why did the person go to the café after arriving at work?",
+          "options": [
+            "Porque su oficina estaba cerrada.",
+            "Porque quería desayunar temprano.",
+            "Porque perdió el tren.",
+            "Porque estaba lloviendo mucho."
+          ],
+          "correct_answer": "Porque su oficina estaba cerrada.",
+          "explanation_form": "El texto menciona 'However, my office was closed. Afterwards, I went to a café...', indicando que fue al café porque la oficina estaba cerrada.",
+          "explanation_target": "The text states that the office was closed, so the person went to a café afterwards.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "First, I woke up early and made breakfast. After that, I walked to the train station. Although it was raining, I arrived at work on time. However, my office was closed. Afterwards, I went to a café and waited for my colleague.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Por qué decidieron quedarse en casa y ver películas?",
+          "prompt_target": "Why did they decide to stay home and watch movies?",
+          "options": [
+            "Debido al mal tiempo y la lluvia.",
+            "Porque no querían ir a la playa.",
+            "Porque la película era muy interesante.",
+            "Porque se canceló el transporte."
+          ],
+          "correct_answer": "Debido al mal tiempo y la lluvia.",
+          "explanation_form": "El audio usa 'Because of the bad weather' para dar la razón por la cual se quedaron en casa.",
+          "explanation_target": "The transcript uses 'Because of the bad weather' to express the reason for staying home.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "We planned to go to the beach yesterday. However, it started to rain heavily. Because of the bad weather, we stayed home and watched movies instead.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué hizo ella inmediatamente después de terminar su tarea?",
+          "prompt_target": "What did she do right after finishing her homework?",
+          "options": [
+            "Llamó a su madre.",
+            "Preparó la cena.",
+            "Salió con sus amigos.",
+            "Se fue a descansar."
+          ],
+          "correct_answer": "Llamó a su madre.",
+          "explanation_form": "El conector 'Then' indica la acción subsiguiente: 'Then, she called her mother'.",
+          "explanation_target": "The connector 'Then' indicates the next action in sequence.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account.",
+            "then_adv"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "First, she finished her homework. Then, she called her mother. Eventually, they decided to prepare dinner together and enjoy a quiet evening at home.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Escribe el conector de contraste adecuado: 'I wanted to buy the jacket. ____, it was too expensive.'",
+          "prompt_target": "Fill in the correct contrast connector: 'I wanted to buy the jacket. ____, it was too expensive.'",
+          "options": null,
+          "correct_answer": "However",
+          "explanation_form": "'However' introduce un contraste entre querer comprar la chaqueta y su alto precio.",
+          "explanation_target": "'However' introduces a contrast between wanting to buy the jacket and its high price.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una secuencia cronológica coherente:",
+          "prompt_target": "Put the words in order to make a logical sequence:",
+          "options": [
+            "First,",
+            "I",
+            "cooked,",
+            "then",
+            "I",
+            "ate."
+          ],
+          "correct_answer": "First, I cooked, then I ate.",
+          "explanation_form": "'First' marca el inicio de la secuencia temporal y 'then' la acción que le sigue.",
+          "explanation_target": "'First' marks the start of the temporal sequence and 'then' marks the following action.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account.",
+            "then_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "Elige el conector que expresa una consecuencia o resultado:",
+          "prompt_target": "Choose the connector that expresses a result or consequence:",
+          "options": [
+            "because",
+            "so",
+            "although",
+            "first"
+          ],
+          "correct_answer": "so",
+          "explanation_form": "'So' se utiliza para conectar una causa con su consecuencia o resultado directo.",
+          "explanation_target": "'So' connects a cause with its consequence or direct result.",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce la oración: 'Al principio estaba cansado, pero finalmente llegué.'",
+          "prompt_target": "Translate: 'Al principio estaba cansado, pero finalmente llegué.'",
+          "options": null,
+          "correct_answer": "At first I was tired, but finally I arrived.",
+          "explanation_form": "'At first' señala el estado inicial y 'finally' el desenlace de la historia.",
+          "explanation_target": "'At first' indicates the initial state and 'finally' indicates the outcome.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada conector en inglés con su función dentro de un relato:",
+          "prompt_target": "Match each connector with its function in a narrative:",
+          "options": [
+            "However",
+            "Contraste",
+            "Afterwards",
+            "Tiempo posterior",
+            "As a result",
+            "Resultado",
+            "Meanwhile",
+            "Simultaneidad"
+          ],
+          "correct_answer": [
+            "However=Contraste",
+            "Afterwards=Tiempo posterior",
+            "As a result=Resultado",
+            "Meanwhile=Simultaneidad"
+          ],
+          "explanation_form": "Cada conector cumple un rol narrativo distinto: oposición (However), secuencia temporal (Afterwards), resultado (As a result) y simultaneidad (Meanwhile).",
+          "explanation_target": "Each connector serves a distinct narrative function: contrast, temporal sequence, result, or simultaneous actions.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Qué hizo la narradora después de descubrir que el mercado se había mudado?",
+          "prompt_target": "Read the story and answer: What did the narrator do after discovering that the market had moved?",
+          "options": [
+            "Llamó a su amiga y comprobó la nueva dirección.",
+            "Regresó a casa sin hablar con nadie.",
+            "Esperó en la entrada original toda la tarde.",
+            "Canceló el mercado para la semana siguiente."
+          ],
+          "correct_answer": "Llamó a su amiga y comprobó la nueva dirección.",
+          "explanation_form": "Después de descubrir el cambio, la narradora llamó a su amiga y comprobó la dirección nueva; `Afterwards` marca la acción posterior. / After discovering the change, the narrator called her friend and checked the new address; `Afterwards` marks the later action.",
+          "explanation_target": "After discovering the change, the narrator called her friend and checked the new address; `Afterwards` marks the later action.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account.",
+            "then_adv"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Last Sunday, I visited a new art market. First, I followed my map to the main square. Meanwhile, my friend waited near the entrance. However, the market had moved to another street. As a result, I called her and checked the new address. Afterwards, we met near the library and explored the stalls together.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Por qué reinició el ordenador la narradora?",
+          "prompt_target": "Listen to the story and answer: Why did the narrator restart the computer?",
+          "options": [
+            "Porque el ordenador se quedó bloqueado.",
+            "Porque había terminado el informe antes del almuerzo.",
+            "Porque su compañera había perdido la copia impresa.",
+            "Porque la reunión había comenzado demasiado tarde."
+          ],
+          "correct_answer": "Porque el ordenador se quedó bloqueado.",
+          "explanation_form": "El ordenador se bloqueó, y como resultado la narradora lo reinició para continuar el informe. / The computer froze, so the narrator restarted it to continue the report.",
+          "explanation_target": "The computer froze, so the narrator restarted it to continue the report.",
+          "references_exercise_id": "ex_014",
+          "references_lesson_topics": [
+            "Time, contrast and result connectors in a connected account.",
+            "then_adv"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I wanted to finish a report before lunch. First, I opened the file; however, the computer froze. As a result, I restarted it. Meanwhile, my colleague found a printed copy. Afterwards, I completed the last page by hand and sent the report.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cómo estructurar tu historia en inglés\n\nPara contar una experiencia de forma clara y fluida, es muy útil organizar las ideas usando conectores de tiempo, causa, contraste y resultado. En lugar de unir todas las frases con *and*, puedes usar una variedad de conectores que le darán ritmo a tu relato.\n\n- **Secuencia temporal:** Usa expresiones como *first*, *then* o *after that* para marcar el orden cronológico de los hechos.\n- **Causa y resultado:** Muestra los motivos con *because* y las consecuencias con *so*.\n- **Contraste:** Introduce giros inesperados o dificultades con *however* o *but*.\n\n## Un error común al narrar\n\nMuchos estudiantes hispanohablantes tienden a abusar de la combinación *and then* para conectar cada oración. Aunque es gramaticalmente correcta, repetir esta estructura hace que la narración suene monótona. Variar los conectores te ayudará a expresarte con mayor naturalidad y precisión.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:20:25Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

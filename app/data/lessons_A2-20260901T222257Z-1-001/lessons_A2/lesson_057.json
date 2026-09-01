@@ -1,0 +1,1576 @@
+{
+  "id": "lesson_057",
+  "position": 57,
+  "unit_id": 8,
+  "course_id": "en.A2",
+  "title_form": "Talking about the environment",
+  "title_target": "Hablando del medio ambiente",
+  "theme_focus": "environment",
+  "learning_objectives": [
+    "Can describe the environment and name common environmental problems."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_056"
+  ],
+  "grammar_focus": [
+    "present simple: affirmative with be and have"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "environment",
+        "rubbish",
+        "pollution",
+        "climate_change",
+        "recycling",
+        "recycle_verb",
+        "protect_verb",
+        "waste"
+      ],
+      "chunk_ids": [
+        "chunk_a2_its_important_to_recycle"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "important_adj",
+        "plastic_adj",
+        "response"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana y su amigo Tomás están en un parque de la ciudad. Mientras caminan, ven basura en el suelo y hablan sobre la contaminación y el cambio climático. Tomás le cuenta que su familia recicla en casa y que quiere proteger el medio ambiente. Ana decide que ella también quiere ayudar.",
+  "introduction_md": "## Hablando del medio ambiente\n\nEn esta lección, vas a aprender a hablar sobre el medio ambiente y los problemas que lo afectan. Es un tema muy importante en el mundo de hoy.\n\nVas a practicar:\n\n- **Palabras clave**: environment, pollution, rubbish, waste, recycling, climate_change.\n- **Verbos útiles**: recycle, protect.\n- **Una frase esencial**: It's important to recycle.\n\nTambién vas a repasar el **present simple** con *be* y *have* para describir situaciones reales.\n\nAl final, podrás hablar de tu entorno, mencionar problemas como la contaminación y decir qué podemos hacer para proteger el planeta. ¡Vamos a empezar!",
+  "intro_target": "## Talking about the environment\n\nIn this lesson, you are going to learn to talk about the environment and the problems that affect it. It is a very important topic in the world today.\n\nYou are going to practice:\n\n- **Key words**: environment, pollution, rubbish, waste, recycling, climate_change.\n- **Useful verbs**: recycle, protect.\n- **An essential phrase**: It's important to recycle.\n\nYou are also going to review the **present simple** with *be* and *have* to describe real situations.\n\nAt the end, you will be able to talk about your surroundings, mention problems like pollution and say what we can do to protect the planet. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "environment",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The environment is important for all of us.",
+      "translation_form": "El medio ambiente es importante para todos nosotros.",
+      "highlight_words": [
+        "environment",
+        "important"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "rubbish",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Please put your rubbish in the bin.",
+      "translation_form": "Por favor, pon tu basura en el contenedor.",
+      "highlight_words": [
+        "rubbish"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "pollution",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The pollution in the city is very bad today.",
+      "translation_form": "La contaminación en la ciudad es muy mala hoy.",
+      "highlight_words": [
+        "pollution"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "climate_change",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Climate change is a big problem for the world.",
+      "translation_form": "El cambio climático es un gran problema para el mundo.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "recycling",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Recycling is a good habit for the environment.",
+      "translation_form": "El reciclaje es un buen hábito para el medio ambiente.",
+      "highlight_words": [
+        "recycling",
+        "environment"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "recycle_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We recycle plastic bottles at home.",
+      "translation_form": "Nosotros reciclamos botellas de plástico en casa.",
+      "highlight_words": [
+        "recycle",
+        "plastic"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "protect_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We protect the forest for our children.",
+      "translation_form": "Nosotros protegemos el bosque para nuestros hijos.",
+      "highlight_words": [
+        "protect"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "waste",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Don't waste water in the shower.",
+      "translation_form": "No desperdicies agua en la ducha.",
+      "highlight_words": [
+        "waste"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_its_important_to_recycle",
+      "grammar_slug": null,
+      "text_target": "It's important to recycle, so I have a bin in my kitchen.",
+      "translation_form": "Es importante reciclar, así que tengo un contenedor en mi cocina.",
+      "highlight_words": [
+        "important",
+        "recycle"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: affirmative with be and have",
+      "title_form": "Presente simple: afirmativo con be y have",
+      "title_target": "Present simple: affirmative with be and have",
+      "description_md_form": "El **presente simple** se usa para hablar de hechos, hábitos y estados permanentes. En esta lección lo usamos para describir el medio ambiente y expresar ideas generales.\n\nCon **be** (ser/estar), la forma cambia según el sujeto:\n\n- **I am** (I'm) → *I am worried about pollution.*\n- **He/She/It is** (He's) → *It is a big problem.*\n- **You/We/They are** (You're) → *They are important.*\n\nCon **have** (tener), usamos **have** para I/you/we/they y **has** para he/she/it:\n\n- *We have a lot of rubbish.*\n- *The city has a pollution problem.*\n\n**Recuerda**: en afirmativo, el verbo va directamente después del sujeto. No necesitas auxiliares como *do* o *does* en oraciones afirmativas.",
+      "description_md_target": "The **present simple** is used to talk about facts, habits, and permanent states. In this lesson, we use it to describe the environment and express general ideas.\n\nWith **be**, the form changes according to the subject:\n\n- **I am** (I'm) → *I am worried about pollution.*\n- **He/She/It is** (He's) → *It is a big problem.*\n- **You/We/They are** (You're) → *They are important.*\n\nWith **have**, we use **have** for I/you/we/they and **has** for he/she/it:\n\n- *We have a lot of rubbish.*\n- *The city has a pollution problem.*\n\n**Remember**: in affirmative sentences, the verb goes directly after the subject. You don't need auxiliaries like *do* or *does* in affirmative sentences.",
+      "grammar_structure": "Subject + be (am/is/are) + complement | Subject + have/has + noun",
+      "conjugation_table": {
+        "name": "present_simple_be_have",
+        "headers": [
+          "Pronombre",
+          "be",
+          "have"
+        ],
+        "rows": [
+          [
+            "I",
+            "am",
+            "have"
+          ],
+          [
+            "you",
+            "are",
+            "have"
+          ],
+          [
+            "he/she/it",
+            "is",
+            "has"
+          ],
+          [
+            "we",
+            "are",
+            "have"
+          ],
+          [
+            "they",
+            "are",
+            "have"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: affirmative with be and have",
+          "text_target": "The environment is important for all of us.",
+          "translation_form": "El medio ambiente es importante para todos nosotros.",
+          "highlight_words": [
+            "is"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: affirmative with be and have",
+          "text_target": "We have a lot of rubbish in the city.",
+          "translation_form": "Tenemos mucha basura en la ciudad.",
+          "highlight_words": [
+            "have"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Contracciones**: en inglés hablado, casi siempre usamos contracciones: *I'm*, *He's*, *We're*, *It's*. Son naturales y correctas en conversación."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas 'I have 25 years'** para decir tu edad. En inglés usamos *be*: *I am 25*. Con *have* hablamos de posesión, no de edad."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado con 'it'**: *It* se usa para cosas, animales y el clima. *It is a big problem* — no uses *he* o *she* para objetos."
+        }
+      ],
+      "common_errors_es": [
+        "Confundir *is* y *are*: *The pollution are bad* → **The pollution is bad** (pollution es singular).",
+        "Olvidar la -s en *has*: *The city have a problem* → **The city has a problem**.",
+        "Usar *do* en afirmativo: *I do have a car* → **I have a car** (do solo se usa en preguntas y negaciones).",
+        "Traducir literalmente 'tener' para edad: *I have 20 years* → **I am 20**."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'rubbish'?",
+      "options": [
+        "basura",
+        "reciclaje",
+        "contaminación",
+        "clima"
+      ],
+      "correct_answer": "basura",
+      "explanation_md": "Rubbish significa basura o desperdicios.",
+      "related_lexeme_ids": [
+        "rubbish"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'protect'?",
+      "options": [
+        "proteger",
+        "reciclar",
+        "contaminar",
+        "desperdiciar"
+      ],
+      "correct_answer": "proteger",
+      "explanation_md": "Protect significa proteger o cuidar algo.",
+      "related_lexeme_ids": [
+        "protect_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "environment",
+        "medio ambiente",
+        "pollution",
+        "contaminación",
+        "waste",
+        "desperdicio",
+        "recycling",
+        "reciclaje"
+      ],
+      "correct_answer": [
+        "environment=medio ambiente",
+        "pollution=contaminación",
+        "waste=desperdicio",
+        "recycling=reciclaje"
+      ],
+      "explanation_md": "Estas palabras describen temas importantes del medio ambiente.",
+      "related_lexeme_ids": [
+        "environment",
+        "pollution",
+        "waste",
+        "recycling"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración: 'Climate change is a big problem for the ____.'",
+      "options": [
+        "world",
+        "house",
+        "car",
+        "school"
+      ],
+      "correct_answer": "world",
+      "explanation_md": "El cambio climático es un problema para el mundo entero.",
+      "related_lexeme_ids": [
+        "climate_change"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'Please put your ____ in the bin.'",
+      "options": null,
+      "correct_answer": "rubbish",
+      "explanation_md": "Rubbish es la basura que ponemos en el contenedor.",
+      "related_lexeme_ids": [
+        "rubbish"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'El medio ambiente es importante para todos nosotros.'",
+      "options": null,
+      "correct_answer": "The environment is important for all of us.",
+      "explanation_md": "Usamos 'the environment' para referirnos al medio ambiente.",
+      "related_lexeme_ids": [
+        "environment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Recycling is a good habit for the environment.'",
+      "options": null,
+      "correct_answer": "El reciclaje es un buen hábito para el medio ambiente.",
+      "explanation_md": "Recycling es el sustantivo que significa reciclaje.",
+      "related_lexeme_ids": [
+        "recycling",
+        "environment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta del verbo 'recycle' en presente simple para 'I'?",
+      "options": [
+        "I recycle",
+        "I recycles",
+        "I recycling",
+        "I recycled"
+      ],
+      "correct_answer": "I recycle",
+      "explanation_md": "Con 'I' usamos la forma base del verbo: 'I recycle'.",
+      "related_lexeme_ids": [
+        "recycle_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'It's important to ____ the environment.'",
+      "options": null,
+      "correct_answer": "protect",
+      "explanation_md": "Usamos 'protect' para decir proteger el medio ambiente.",
+      "related_lexeme_ids": [
+        "protect_verb",
+        "environment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué es importante para el medio ambiente?",
+      "options": [
+        "Recycling and protecting the world",
+        "Playing football",
+        "Watching television",
+        "Cooking dinner"
+      ],
+      "correct_answer": "Recycling and protecting the world",
+      "explanation_md": "El texto dice que reciclar y proteger el mundo es importante.",
+      "related_lexeme_ids": [
+        "environment",
+        "pollution",
+        "climate_change",
+        "recycling",
+        "protect_verb",
+        "rubbish"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_its_important_to_recycle"
+      ],
+      "difficulty": "medium",
+      "passage_md": "The environment is important for all of us. Pollution in the city is very bad today. Climate change is a big problem for the world. Recycling is a good habit. It's important to recycle and protect our world. Please put your rubbish in the bin.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hace la persona con el plástico?",
+      "options": [
+        "She puts it in the rubbish",
+        "She puts it in the recycling bin",
+        "She throws it in the street",
+        "She gives it to a friend"
+      ],
+      "correct_answer": "She puts it in the recycling bin",
+      "explanation_md": "La persona pone la botella de plástico en el contenedor de reciclaje.",
+      "related_lexeme_ids": [
+        "recycle_verb",
+        "recycling",
+        "rubbish",
+        "protect_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_its_important_to_recycle"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I have a plastic bottle. I don't put it in the rubbish. I put it in the recycling bin. It's important to recycle plastic. I protect the environment.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre qué haces para proteger el medio ambiente. Usa 'recycle', 'rubbish' o 'waste'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de los verbos y sustantivos del medio ambiente.",
+      "related_lexeme_ids": [
+        "recycle_verb",
+        "rubbish",
+        "waste",
+        "protect_verb",
+        "environment"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_its_important_to_recycle"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I recycle plastic and paper. I put my rubbish in the bin. It's important to protect the environment.",
+        "I don't waste water. I recycle bottles. The environment is important for all of us."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "environment",
+      "back": "entorno",
+      "hint": "el mundo que nos rodea",
+      "lexeme_id": "environment",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "rubbish",
+      "back": "basura",
+      "hint": "lo que tiramos",
+      "lexeme_id": "rubbish",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "pollution",
+      "back": "contaminación",
+      "hint": "aire sucio, agua sucia",
+      "lexeme_id": "pollution",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "climate change",
+      "back": "cambio climático",
+      "hint": "el clima del planeta cambia",
+      "lexeme_id": "climate_change",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "recycling",
+      "back": "reciclaje",
+      "hint": "usar las cosas otra vez",
+      "lexeme_id": "recycling",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "recycle",
+      "back": "reciclar",
+      "hint": "acción de reciclar",
+      "lexeme_id": "recycle_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "protect",
+      "back": "proteger",
+      "hint": "cuidar algo",
+      "lexeme_id": "protect_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "waste",
+      "back": "desperdiciar / basura",
+      "hint": "no usar bien las cosas",
+      "lexeme_id": "waste",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "It's important to recycle.",
+      "back": "Es importante reciclar.",
+      "hint": "frase completa",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_its_important_to_recycle",
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "important",
+      "back": "importante",
+      "hint": "algo que es necesario",
+      "lexeme_id": "important_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "plastic",
+      "back": "plástico",
+      "hint": "material de las botellas",
+      "lexeme_id": "plastic_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "response",
+      "back": "respuesta",
+      "hint": "lo que contestas",
+      "lexeme_id": "response",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_057",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "environment",
+      "reading": "",
+      "translation": "entorno",
+      "pos": "noun",
+      "example": "The environment is important for all of us.",
+      "example_translation": "El medio ambiente es importante para todos nosotros.",
+      "lexeme_id": "environment",
+      "chunk_id": null
+    },
+    {
+      "target_word": "rubbish",
+      "reading": "",
+      "translation": "basura",
+      "pos": "noun",
+      "example": "Please put your rubbish in the bin.",
+      "example_translation": "Por favor, pon tu basura en el contenedor.",
+      "lexeme_id": "rubbish",
+      "chunk_id": null
+    },
+    {
+      "target_word": "pollution",
+      "reading": "",
+      "translation": "contaminacion",
+      "pos": "noun",
+      "example": "The pollution in the city is very bad today.",
+      "example_translation": "La contaminación en la ciudad es muy mala hoy.",
+      "lexeme_id": "pollution",
+      "chunk_id": null
+    },
+    {
+      "target_word": "climate change",
+      "reading": "",
+      "translation": "cambio climático",
+      "pos": "noun",
+      "example": "Climate change is a big problem for the world.",
+      "example_translation": "El cambio climático es un gran problema para el mundo.",
+      "lexeme_id": "climate_change",
+      "chunk_id": null
+    },
+    {
+      "target_word": "recycling",
+      "reading": "",
+      "translation": "reciclaje",
+      "pos": "noun",
+      "example": "Recycling is a good habit for the environment.",
+      "example_translation": "El reciclaje es un buen hábito para el medio ambiente.",
+      "lexeme_id": "recycling",
+      "chunk_id": null
+    },
+    {
+      "target_word": "recycle",
+      "reading": "",
+      "translation": "reusar / reciclar / reutilizar",
+      "pos": "verb",
+      "example": "We recycle plastic bottles at home.",
+      "example_translation": "Nosotros reciclamos botellas de plástico en casa.",
+      "lexeme_id": "recycle_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "protect",
+      "reading": "",
+      "translation": "proteger",
+      "pos": "verb",
+      "example": "We protect the forest for our children.",
+      "example_translation": "Nosotros protegemos el bosque para nuestros hijos.",
+      "lexeme_id": "protect_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "waste",
+      "reading": "",
+      "translation": "desperdiciar / basura",
+      "pos": "noun",
+      "example": "Don't waste water in the shower.",
+      "example_translation": "No desperdicies agua en la ducha.",
+      "lexeme_id": "waste",
+      "chunk_id": null
+    },
+    {
+      "target_word": "It's important to recycle.",
+      "reading": "",
+      "translation": "Es importante reciclar.",
+      "pos": "chunk",
+      "example": "It's important to recycle, so I have a bin in my kitchen.",
+      "example_translation": "Es importante reciclar, así que tengo un contenedor en mi cocina.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_its_important_to_recycle"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "environment",
+      "role": "support",
+      "status": "practiced",
+      "translation": "entorno",
+      "lexeme_id": "environment",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "ex_006",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "rubbish",
+      "role": "support",
+      "status": "practiced",
+      "translation": "basura",
+      "lexeme_id": "rubbish",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_001",
+        "ex_005",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "pollution",
+      "role": "support",
+      "status": "practiced",
+      "translation": "contaminacion",
+      "lexeme_id": "pollution",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_010",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "climate change",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cambio climático",
+      "lexeme_id": "climate_change",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_004",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "recycling",
+      "role": "support",
+      "status": "practiced",
+      "translation": "reciclaje",
+      "lexeme_id": "recycling",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "recycle",
+      "role": "support",
+      "status": "practiced",
+      "translation": "reusar / reciclar / reutilizar",
+      "lexeme_id": "recycle_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "protect",
+      "role": "support",
+      "status": "practiced",
+      "translation": "proteger",
+      "lexeme_id": "protect_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_002",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "waste",
+      "role": "support",
+      "status": "practiced",
+      "translation": "desperdiciar / basura",
+      "lexeme_id": "waste",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_003",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "It's important to recycle.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Es importante reciclar.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_its_important_to_recycle",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "important",
+      "role": "support",
+      "status": "review",
+      "translation": "importante",
+      "lexeme_id": "important_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "plastic",
+      "role": "support",
+      "status": "review",
+      "translation": "plástico",
+      "lexeme_id": "plastic_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "response",
+      "role": "support",
+      "status": "review",
+      "translation": "respuesta",
+      "lexeme_id": "response",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "rubbish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "bin",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bote / cubo / balde",
+      "lexeme_id": "bin",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "climate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "clima / humor",
+      "lexeme_id": "climate",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "put",
+      "role": "support",
+      "status": "emergent",
+      "translation": "poner",
+      "lexeme_id": "put_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "quiz_001:q_003",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "bottle",
+      "role": "support",
+      "status": "emergent",
+      "translation": "botella",
+      "lexeme_id": "bottle",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "water",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agua",
+      "lexeme_id": "water",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "world",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mundo",
+      "lexeme_id": "world",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "bad",
+      "role": "support",
+      "status": "emergent",
+      "translation": "malo",
+      "lexeme_id": "bad_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "habit",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hábito",
+      "lexeme_id": "habit",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "children",
+      "role": "support",
+      "status": "emergent",
+      "translation": "niños / hijos",
+      "lexeme_id": "children",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "kitchen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocina",
+      "lexeme_id": "kitchen",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_009"
+      ]
+    },
+    {
+      "term": "shower",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ducha",
+      "lexeme_id": "shower",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "forest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bosque",
+      "lexeme_id": "forest",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "paper",
+      "role": "support",
+      "status": "emergent",
+      "translation": "papel",
+      "lexeme_id": "paper",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_003",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "there is",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hay (singular)",
+      "lexeme_id": "there_is_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "program",
+      "role": "support",
+      "status": "emergent",
+      "translation": "programa / programar",
+      "lexeme_id": "program",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_007"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 9,
+    "review_support_count": 3,
+    "emergent_count": 22,
+    "emergent_terms": [
+      "rubbish",
+      "bin",
+      "climate",
+      "put",
+      "city",
+      "bottle",
+      "good",
+      "home",
+      "water",
+      "today",
+      "world",
+      "bad",
+      "big",
+      "habit",
+      "children",
+      "kitchen",
+      "shower",
+      "forest",
+      "paper",
+      "there is",
+      "now",
+      "program"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Talking about the environment",
+      "title_target": "Quiz: Talking about the environment",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": null,
+          "options": [
+            "rubbish",
+            "basura",
+            "pollution",
+            "contaminación",
+            "waste",
+            "desperdicio",
+            "recycling",
+            "reciclaje"
+          ],
+          "correct_answer": [
+            "rubbish=basura",
+            "pollution=contaminación",
+            "waste=desperdicio",
+            "recycling=reciclaje"
+          ],
+          "explanation_form": "Estas cuatro palabras son el vocabulario central de la lección sobre el medio ambiente.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "rubbish",
+            "pollution",
+            "waste",
+            "recycling"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": null,
+          "options": [
+            "It's",
+            "important",
+            "to",
+            "recycle",
+            "plastic"
+          ],
+          "correct_answer": "It's important to recycle plastic",
+          "explanation_form": "La estructura es: It's + important + to + verbo. 'Plastic' es el objeto.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_its_important_to_recycle",
+            "important_adj",
+            "plastic_adj",
+            "recycle_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué dice la persona sobre el reciclaje?",
+          "prompt_target": null,
+          "options": [
+            "Ella recicla en casa y su ciudad tiene un programa de reciclaje.",
+            "Ella no recicla nada.",
+            "Ella tira todo a la basura.",
+            "Ella trabaja en una fábrica."
+          ],
+          "correct_answer": "Ella recicla en casa y su ciudad tiene un programa de reciclaje.",
+          "explanation_form": "La persona dice 'I recycle plastic and paper at home' y 'My city has a recycling program'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "recycle_verb",
+            "recycling",
+            "plastic_adj",
+            "protect_verb",
+            "environment",
+            "waste"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I recycle plastic and paper at home. My city has a recycling program. It's important to protect the environment. We produce less waste now.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'We must ____ the environment.' (proteger)",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "protect",
+          "explanation_form": "El verbo 'protect' significa 'proteger'. La oración completa es 'We must protect the environment.'",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "protect_verb",
+            "environment"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué problema menciona la persona?",
+          "prompt_target": null,
+          "options": [
+            "El agua está sucia.",
+            "Hay mucha contaminación en el aire.",
+            "No hay transporte público.",
+            "Las calles están rotas."
+          ],
+          "correct_answer": "Hay mucha contaminación en el aire.",
+          "explanation_form": "La persona dice 'The air in my city is dirty' y 'There is a lot of pollution'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "pollution",
+            "environment"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The air in my city is dirty. There is a lot of pollution. Cars and factories are the problem. We need to change this.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'climate change'?",
+          "prompt_target": null,
+          "options": [
+            "Cambio climático",
+            "Contaminación del aire",
+            "Reciclaje",
+            "Calentamiento global"
+          ],
+          "correct_answer": "Cambio climático",
+          "explanation_form": "'Climate change' se traduce como 'cambio climático'.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "climate_change"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué hace la comunidad?",
+          "prompt_target": null,
+          "options": [
+            "La comunidad recicla y limpia el parque.",
+            "La comunidad no hace nada.",
+            "La comunidad solo limpia las calles.",
+            "La comunidad compra más plástico."
+          ],
+          "correct_answer": "La comunidad recicla y limpia el parque.",
+          "explanation_form": "El texto dice que la comunidad tiene un programa de reciclaje y que limpia el parque cada sábado.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "recycling",
+            "recycle_verb",
+            "plastic_adj",
+            "protect_verb",
+            "environment",
+            "rubbish",
+            "community"
+          ],
+          "points": 20,
+          "difficulty": "hard",
+          "passage_md": "Our community has a new recycling program. Every week, we put plastic, paper and glass in special bins. The program is important because it helps protect the environment. We also clean the park every Saturday. Now, there is less rubbish on the streets.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'waste'?",
+          "prompt_target": null,
+          "options": [
+            "Desperdicio",
+            "Basura",
+            "Reciclaje",
+            "Contaminación"
+          ],
+          "correct_answer": "Desperdicio",
+          "explanation_form": "'Waste' significa 'desperdicio' o 'residuo'. Se refiere a lo que no se usa y se tira.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "waste"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El medio ambiente en tu vida diaria\n\nEn esta lección, \"environment\" no es solo la naturaleza: es todo lo que te rodea. Piensa en tu barrio, tu ciudad y tu casa. Cuando hablas de \"rubbish\" (basura) o \"pollution\" (contaminación), estás describiendo problemas reales que ves cada día. Un truco para recordar: \"recycling\" (reciclaje) y \"recycle\" (reciclar) son casi iguales en español, ¡solo cambia la terminación!\n\n## Errores comunes que debes evitar\n\n- **No digas \"the environment is dirty\"** para hablar de contaminación. Usa \"pollution\" como sustantivo: \"There is a lot of pollution.\"\n- **\"Rubbish\" es incontable**: no digas \"a rubbish\". Di \"some rubbish\" o \"a lot of rubbish\".\n- **\"Waste\"** se refiere a desperdicio en general (comida, recursos). \"Don't waste water\" significa \"no desperdicies agua\", no \"no hagas basura\".\n- **Recuerda el chunk**: \"It's important to recycle\" es la frase clave. Úsala para dar tu opinión sobre el medio ambiente.",
+  "metadata": {
+    "generated_at": "2026-08-31T19:00:02Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

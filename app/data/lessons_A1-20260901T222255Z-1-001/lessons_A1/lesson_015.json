@@ -1,0 +1,1642 @@
+{
+  "id": "lesson_015",
+  "position": 15,
+  "unit_id": 3,
+  "course_id": "en.A1",
+  "title_form": "Hablar de los días de la semana",
+  "title_target": "Talking About the Days of the Week",
+  "theme_focus": "Los días de la semana y hablar de qué día es hoy.",
+  "learning_objectives": [
+    "Can name the days of the week.",
+    "Can ask and answer what day it is."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_014"
+  ],
+  "grammar_focus": [
+    "prepositions of time: on/at/in"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "week",
+        "weekend",
+        "last_adj",
+        "next_adv",
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "chunk_ids": [
+        "chunk_what_day_is_it",
+        "chunk_on_monday_weekend"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "morning",
+        "afternoon",
+        "evening"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tomás empieza su semana laboral. El lunes saluda a su compañera Ana y le pregunta qué día es. Durante la semana, hablan de sus planes para el fin de semana y de qué días trabajan. Al final, Tomás confirma que el sábado y el domingo son su descanso.",
+  "introduction_md": "En esta lección vas a aprender los días de la semana en inglés. Es un tema muy útil para hablar de tu rutina, planes y citas.\n\nVas a aprender:\n- Los nombres de los 7 días (Monday, Tuesday...).\n- Cómo preguntar y responder **qué día es hoy**.\n- Las preposiciones de tiempo **on** y **at**.\n\nCon esto podrás decir frases como *\"Today is Monday\"* o *\"I work on Friday\"*. ¡Vamos a practicar con diálogos cortos y naturales!",
+  "intro_target": "In this lesson you will learn the days of the week in English. It is a very useful topic to talk about your routine, plans, and appointments.\n\nYou will learn:\n- The names of the 7 days (Monday, Tuesday...).\n- How to ask and answer **what day it is**.\n- The prepositions of time **on** and **at**.\n\nWith this, you can say phrases like *\"Today is Monday\"* or *\"I work on Friday\"*. Let's practice with short, natural dialogues!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_day_is_it",
+      "grammar_slug": null,
+      "text_target": "What day is it today?",
+      "translation_form": "¿Qué día es hoy?",
+      "highlight_words": [
+        "today"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "monday",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It is Monday today.",
+      "translation_form": "Hoy es lunes.",
+      "highlight_words": [
+        "monday",
+        "today"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I enjoy the weekend with my family.",
+      "translation_form": "Disfruto el fin de semana con mi familia.",
+      "highlight_words": [
+        "weekend",
+        "family"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "saturday",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We meet on Saturday morning.",
+      "translation_form": "Nos vemos el sábado por la mañana.",
+      "highlight_words": [
+        "saturday",
+        "morning"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "next_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Next week, I start work on Monday.",
+      "translation_form": "La próxima semana empiezo a trabajar el lunes.",
+      "highlight_words": [
+        "next",
+        "week",
+        "monday"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "last_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Last Friday, I was tired after work.",
+      "translation_form": "El viernes pasado estaba cansado después del trabajo.",
+      "highlight_words": [
+        "last",
+        "friday",
+        "tired",
+        "work"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "prepositions of time: on/at/in",
+      "title_form": "Preposiciones de tiempo: on, at, in",
+      "title_target": "Prepositions of time: on, at, in",
+      "description_md_form": "En inglés, usamos **preposiciones** para hablar del tiempo. La regla es simple:\n\n- **ON** para **días** y **fechas**: `on Monday`, `on Saturday`.\n- **AT** para **horas** y **momentos** exactos: `at 8 o'clock`, `at noon`.\n- **IN** para **meses**, **años** y **partes del día**: `in the morning`, `in July`.\n\nPara el **fin de semana**, los británicos dicen `at the weekend`, pero los estadounidenses dicen `on the weekend`. En este curso usamos **`on the weekend`**.\n\n**Recuerda**: con `today`, `tomorrow` y `yesterday` **no** usamos preposición. Decimos `today`, no `on today`.",
+      "description_md_target": "In English, we use **prepositions** to talk about time. The rule is simple:\n\n- **ON** for **days** and **dates**: `on Monday`, `on Saturday`.\n- **AT** for **times** and **exact moments**: `at 8 o'clock`, `at noon`.\n- **IN** for **months**, **years** and **parts of the day**: `in the morning`, `in July`.\n\nFor the **weekend**, British people say `at the weekend`, but Americans say `on the weekend`. In this course we use **`on the weekend`**.\n\n**Remember**: with `today`, `tomorrow` and `yesterday` we **don't** use a preposition. We say `today`, not `on today`.",
+      "grammar_structure": "on + day | at + time | in + part of day",
+      "conjugation_table": {
+        "name": "prepositions_of_time",
+        "headers": [
+          "Preposición",
+          "Uso",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "on",
+            "días de la semana",
+            "on Monday"
+          ],
+          [
+            "at",
+            "horas exactas",
+            "at 8 o'clock"
+          ],
+          [
+            "in",
+            "partes del día",
+            "in the morning"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_on_monday_weekend",
+          "grammar_slug": null,
+          "text_target": "We meet on Saturday morning.",
+          "translation_form": "Nos vemos el sábado por la mañana.",
+          "highlight_words": [
+            "on",
+            "saturday",
+            "morning"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "prepositions of time: on/at/in",
+          "text_target": "I start work on Monday.",
+          "translation_form": "Empiezo a trabajar el lunes.",
+          "highlight_words": [
+            "on",
+            "monday"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Piensa en ON como 'encima' de un día.** Si puedes poner el día en un calendario, usa `on`: `on Friday`, `on Sunday`."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado con `today`, `tomorrow` y `yesterday`.** No usan preposición. Decimos `today`, no `on today`."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas `in Monday`.** Para días de la semana, la preposición correcta es **`on`**: `on Monday`, `on the weekend`."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'in Monday' en lugar de 'on Monday'. Para días, siempre usamos 'on'.",
+        "Decir 'on the morning' en lugar de 'in the morning'. Para partes del día, usamos 'in'.",
+        "Usar preposición con 'today', 'tomorrow' o 'yesterday'. Estas palabras no llevan preposición."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'week'?",
+      "options": [
+        "semana",
+        "fin de semana",
+        "día",
+        "mes"
+      ],
+      "correct_answer": "semana",
+      "explanation_md": "'Week' significa 'semana' en español.",
+      "related_lexeme_ids": [
+        "week"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "matching",
+      "prompt_md": "Empareja cada día de la semana con su traducción:",
+      "options": [
+        "tuesday",
+        "martes",
+        "wednesday",
+        "miércoles",
+        "thursday",
+        "jueves",
+        "friday",
+        "viernes"
+      ],
+      "correct_answer": [
+        "tuesday=martes",
+        "wednesday=miércoles",
+        "thursday=jueves",
+        "friday=viernes"
+      ],
+      "explanation_md": "Estos son los días de la semana en inglés.",
+      "related_lexeme_ids": [
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué día es hoy?",
+      "options": [
+        "What day is it today?",
+        "What day is it tomorrow?",
+        "What day is it yesterday?",
+        "What day is it next week?"
+      ],
+      "correct_answer": "What day is it today?",
+      "explanation_md": "La pregunta correcta para saber el día de hoy es 'What day is it today?'.",
+      "related_lexeme_ids": [
+        "today"
+      ],
+      "related_chunk_ids": [
+        "chunk_what_day_is_it"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'We meet ____ Saturday morning.' (Nos vemos el sábado por la mañana.)",
+      "options": null,
+      "correct_answer": "on",
+      "explanation_md": "Usamos 'on' antes de los días de la semana.",
+      "related_lexeme_ids": [
+        "saturday"
+      ],
+      "related_chunk_ids": [
+        "chunk_on_monday_weekend"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Hoy es miércoles.'",
+      "options": null,
+      "correct_answer": "It is Wednesday today.",
+      "explanation_md": "Usamos 'It is' + día + 'today' para decir qué día es hoy.",
+      "related_lexeme_ids": [
+        "wednesday",
+        "today"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Next week, I start work on Monday.'",
+      "options": null,
+      "correct_answer": "La próxima semana empiezo a trabajar el lunes.",
+      "explanation_md": "'Next week' significa 'la próxima semana' y 'on Monday' significa 'el lunes'.",
+      "related_lexeme_ids": [
+        "next_adv",
+        "monday",
+        "week"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué día es hoy?",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "correct_answer": "Friday",
+      "explanation_md": "El texto dice 'Today is Friday'.",
+      "related_lexeme_ids": [
+        "friday",
+        "today",
+        "tomorrow",
+        "weekend"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Today is Friday. I am at school. I have a class in the morning. My friend and I meet in the afternoon. We enjoy the weekend. Tomorrow is Saturday. I am happy.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué día es mañana?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Saturday",
+        "Friday"
+      ],
+      "correct_answer": "Monday",
+      "explanation_md": "El audio dice 'Tomorrow is Monday'.",
+      "related_lexeme_ids": [
+        "tomorrow",
+        "monday",
+        "today",
+        "sunday"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Today is Sunday. I am at home. I am tired. Tomorrow is Monday. I start work on Monday morning.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu semana. Usa los días de la semana y las palabras 'week' o 'weekend'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de los días de la semana y las preposiciones de tiempo.",
+      "related_lexeme_ids": [
+        "monday",
+        "tuesday",
+        "saturday",
+        "weekend",
+        "week"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I work on Monday and Tuesday.",
+        "I enjoy the weekend with my family.",
+        "I meet my friend on Saturday."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'weekend'?",
+      "options": [
+        "semana",
+        "fin de semana",
+        "día",
+        "mes"
+      ],
+      "correct_answer": "fin de semana",
+      "explanation_md": "'Weekend' significa 'fin de semana' en español.",
+      "related_lexeme_ids": [
+        "weekend"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'saturday'?",
+      "options": [
+        "domingo",
+        "sábado",
+        "viernes",
+        "lunes"
+      ],
+      "correct_answer": "sábado",
+      "explanation_md": "'Saturday' significa 'sábado' en español.",
+      "related_lexeme_ids": [
+        "saturday"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'monday'?",
+      "options": [
+        "martes",
+        "miércoles",
+        "lunes",
+        "jueves"
+      ],
+      "correct_answer": "lunes",
+      "explanation_md": "'Monday' significa 'lunes' en español.",
+      "related_lexeme_ids": [
+        "monday"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "week",
+      "back": "semana",
+      "hint": "siete días",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "weekend",
+      "back": "fin de semana",
+      "hint": "sábado y domingo",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "last",
+      "back": "último / pasado",
+      "hint": "ej: last week",
+      "lexeme_id": "last_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "next",
+      "back": "luego; próximo",
+      "hint": "ej: next week",
+      "lexeme_id": "next_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "Monday",
+      "back": "lunes",
+      "hint": "primer día de la semana",
+      "lexeme_id": "monday",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "Tuesday",
+      "back": "martes",
+      "hint": "segundo día",
+      "lexeme_id": "tuesday",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "Wednesday",
+      "back": "miércoles",
+      "hint": "tercer día",
+      "lexeme_id": "wednesday",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "Thursday",
+      "back": "jueves",
+      "hint": "cuarto día",
+      "lexeme_id": "thursday",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "Friday",
+      "back": "viernes",
+      "hint": "quinto día",
+      "lexeme_id": "friday",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "Saturday",
+      "back": "sábado",
+      "hint": "sexto día",
+      "lexeme_id": "saturday",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "Sunday",
+      "back": "domingo",
+      "hint": "séptimo día",
+      "lexeme_id": "sunday",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "calendar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "What day is it today?",
+      "back": "¿Qué día es hoy?",
+      "hint": "pregunta para saber el día",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_day_is_it",
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "questions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "on Monday / on the weekend",
+      "back": "el lunes / el fin de semana",
+      "hint": "preposición on para días",
+      "lexeme_id": null,
+      "chunk_id": "chunk_on_monday_weekend",
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "week",
+      "reading": "",
+      "translation": "semana",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "week",
+      "chunk_id": null
+    },
+    {
+      "target_word": "weekend",
+      "reading": "",
+      "translation": "fin de semana",
+      "pos": "noun",
+      "example": "I enjoy the weekend with my family.",
+      "example_translation": "Disfruto el fin de semana con mi familia.",
+      "lexeme_id": "weekend",
+      "chunk_id": null
+    },
+    {
+      "target_word": "last",
+      "reading": "",
+      "translation": "último / pasado",
+      "pos": "adjective",
+      "example": "Last Friday, I was tired after work.",
+      "example_translation": "El viernes pasado estaba cansado después del trabajo.",
+      "lexeme_id": "last_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "next",
+      "reading": "",
+      "translation": "luego; próximo",
+      "pos": "adverb",
+      "example": "Next week, I start work on Monday.",
+      "example_translation": "La próxima semana empiezo a trabajar el lunes.",
+      "lexeme_id": "next_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Monday",
+      "reading": "",
+      "translation": "lunes",
+      "pos": "noun",
+      "example": "It is Monday today.",
+      "example_translation": "Hoy es lunes.",
+      "lexeme_id": "monday",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Tuesday",
+      "reading": "",
+      "translation": "martes",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "tuesday",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Wednesday",
+      "reading": "",
+      "translation": "miércoles",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "wednesday",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Thursday",
+      "reading": "",
+      "translation": "jueves",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "thursday",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Friday",
+      "reading": "",
+      "translation": "viernes",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "friday",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Saturday",
+      "reading": "",
+      "translation": "sábado",
+      "pos": "noun",
+      "example": "We meet on Saturday morning.",
+      "example_translation": "Nos vemos el sábado por la mañana.",
+      "lexeme_id": "saturday",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Sunday",
+      "reading": "",
+      "translation": "domingo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "sunday",
+      "chunk_id": null
+    },
+    {
+      "target_word": "What day is it today?",
+      "reading": "",
+      "translation": "¿Qué día es hoy?",
+      "pos": "chunk",
+      "example": "What day is it today?",
+      "example_translation": "¿Qué día es hoy?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_day_is_it"
+    },
+    {
+      "target_word": "on Monday / on the weekend",
+      "reading": "",
+      "translation": "el lunes / el fin de semana",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_on_monday_weekend"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "week",
+      "role": "support",
+      "status": "practiced",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_010",
+        "ex_013",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "practiced",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_013",
+        "ex_002",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "last",
+      "role": "support",
+      "status": "introduced",
+      "translation": "último / pasado",
+      "lexeme_id": "last_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "next",
+      "role": "support",
+      "status": "practiced",
+      "translation": "luego; próximo",
+      "lexeme_id": "next_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "Monday",
+      "role": "support",
+      "status": "practiced",
+      "translation": "lunes",
+      "lexeme_id": "monday",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_004",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "Tuesday",
+      "role": "support",
+      "status": "practiced",
+      "translation": "martes",
+      "lexeme_id": "tuesday",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_013",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "Wednesday",
+      "role": "support",
+      "status": "practiced",
+      "translation": "miércoles",
+      "lexeme_id": "wednesday",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_009",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "Thursday",
+      "role": "support",
+      "status": "practiced",
+      "translation": "jueves",
+      "lexeme_id": "thursday",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "Friday",
+      "role": "support",
+      "status": "practiced",
+      "translation": "viernes",
+      "lexeme_id": "friday",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_011",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "Saturday",
+      "role": "support",
+      "status": "practiced",
+      "translation": "sábado",
+      "lexeme_id": "saturday",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_007",
+        "ex_013",
+        "ex_003",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "Sunday",
+      "role": "support",
+      "status": "practiced",
+      "translation": "domingo",
+      "lexeme_id": "sunday",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_012",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "What day is it today?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Qué día es hoy?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_day_is_it",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_006",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "on Monday / on the weekend",
+      "role": "support",
+      "status": "practiced",
+      "translation": "el lunes / el fin de semana",
+      "lexeme_id": null,
+      "chunk_id": "chunk_on_monday_weekend",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "review",
+      "translation": "hoy",
+      "lexeme_id": "today",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_006",
+        "ex_009",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "tomorrow",
+      "role": "support",
+      "status": "review",
+      "translation": "mañana",
+      "lexeme_id": "tomorrow",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "ex_011",
+        "ex_012",
+        "fc_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "fc_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "exm_006",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "enjoy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "disfrutar",
+      "lexeme_id": "enjoy_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "tomorrow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "class",
+      "role": "support",
+      "status": "emergent",
+      "translation": "clase",
+      "lexeme_id": "class",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_008",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "happy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "feliz / contento",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "birthday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cumpleanos",
+      "lexeme_id": "birthday",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 13,
+    "review_support_count": 2,
+    "emergent_count": 15,
+    "emergent_terms": [
+      "today",
+      "day",
+      "work",
+      "meet",
+      "morning",
+      "enjoy",
+      "family",
+      "tire",
+      "tired",
+      "tomorrow",
+      "class",
+      "time",
+      "friend",
+      "happy",
+      "birthday"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Hablar de los días de la semana",
+      "title_target": "Quiz: Talking About the Days of the Week",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué día es hoy si mañana es sábado?",
+          "prompt_target": "What day is it today if tomorrow is Saturday?",
+          "options": [
+            "Friday",
+            "Sunday",
+            "Monday",
+            "Thursday"
+          ],
+          "correct_answer": "Friday",
+          "explanation_form": "Si mañana es sábado, hoy es viernes. 'Friday' es viernes.",
+          "explanation_target": "If tomorrow is Saturday, today is Friday.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "friday",
+            "saturday",
+            "tomorrow",
+            "today"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ is it today?'",
+          "prompt_target": "Complete the question: '____ is it today?'",
+          "options": null,
+          "correct_answer": "What day",
+          "explanation_form": "Para preguntar el día, usamos 'What day is it today?'",
+          "explanation_target": "To ask the day, we use 'What day is it today?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_what_day_is_it",
+            "today"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué día es hoy?",
+          "prompt_target": "Listen and answer: What day is it today?",
+          "options": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Sunday"
+          ],
+          "correct_answer": "Monday",
+          "explanation_form": "La primera oración dice 'Today is Monday' (hoy es lunes).",
+          "explanation_target": "The first sentence says 'Today is Monday'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "monday",
+            "tuesday",
+            "today",
+            "tomorrow"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "Today is Monday. Tomorrow is Tuesday. I have a class on Tuesday.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "What",
+            "day",
+            "is",
+            "it",
+            "today"
+          ],
+          "correct_answer": "What day is it today?",
+          "explanation_form": "La pregunta correcta es 'What day is it today?'",
+          "explanation_target": "The correct question is 'What day is it today?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_what_day_is_it",
+            "today"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué día es el último día de la semana?",
+          "prompt_target": "What day is the last day of the week?",
+          "options": [
+            "Sunday",
+            "Monday",
+            "Friday",
+            "Thursday"
+          ],
+          "correct_answer": "Sunday",
+          "explanation_form": "El último día de la semana es el domingo, 'Sunday'.",
+          "explanation_target": "The last day of the week is Sunday.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sunday",
+            "week",
+            "last_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué día es el cumpleaños?",
+          "prompt_target": "Listen and answer: What day is the birthday?",
+          "options": [
+            "Wednesday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "correct_answer": "Wednesday",
+          "explanation_form": "La primera oración dice 'My birthday is on Wednesday' (mi cumpleaños es el miércoles).",
+          "explanation_target": "The first sentence says 'My birthday is on Wednesday'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wednesday",
+            "friday",
+            "weekend",
+            "birthday"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "My birthday is on Wednesday. My sister's birthday is on Friday. We have a party on the weekend.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué día viene después del jueves?",
+          "prompt_target": "What day comes after Thursday?",
+          "options": [
+            "Friday",
+            "Wednesday",
+            "Saturday",
+            "Sunday"
+          ],
+          "correct_answer": "Friday",
+          "explanation_form": "Después del jueves viene el viernes, 'Friday'.",
+          "explanation_target": "After Thursday comes Friday.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "thursday",
+            "friday"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I have a class ____ Monday.' (el lunes)",
+          "prompt_target": "Complete: 'I have a class ____ Monday.' (on Monday)",
+          "options": null,
+          "correct_answer": "on",
+          "explanation_form": "Usamos 'on' antes de los días de la semana: 'on Monday'.",
+          "explanation_target": "We use 'on' before days of the week: 'on Monday'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "monday",
+            "prepositions of time: on/at/in"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja cada día con su traducción:",
+          "prompt_target": "Match each day with its translation:",
+          "options": [
+            "Monday",
+            "Lunes",
+            "Tuesday",
+            "Martes",
+            "Wednesday",
+            "Miércoles",
+            "Thursday",
+            "Jueves"
+          ],
+          "correct_answer": [
+            "Monday=Lunes",
+            "Tuesday=Martes",
+            "Wednesday=Miércoles",
+            "Thursday=Jueves"
+          ],
+          "explanation_form": "Estos son los primeros cuatro días de la semana.",
+          "explanation_target": "These are the first four days of the week.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué día es el cumpleaños de mi hermano?",
+          "prompt_target": "Read the text and answer: What day is my brother's birthday?",
+          "options": [
+            "Saturday",
+            "Sunday",
+            "Friday",
+            "Monday"
+          ],
+          "correct_answer": "Saturday",
+          "explanation_form": "El texto dice 'My brother's birthday is on Saturday' (el cumpleaños de mi hermano es el sábado).",
+          "explanation_target": "The text says 'My brother's birthday is on Saturday'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "saturday",
+            "sunday",
+            "weekend",
+            "birthday",
+            "brother",
+            "father"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "My brother's birthday is on Saturday. My father's birthday is on Sunday. We have a party on the weekend. I am very happy.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué día es el primer día de la semana?",
+          "prompt_target": "What day is the first day of the week?",
+          "options": [
+            "Monday",
+            "Sunday",
+            "Tuesday",
+            "Friday"
+          ],
+          "correct_answer": "Monday",
+          "explanation_form": "El primer día de la semana es el lunes, 'Monday'.",
+          "explanation_target": "The first day of the week is Monday.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "monday",
+            "week"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I work ____ the weekend.' (el fin de semana)",
+          "prompt_target": "Complete: 'I work ____ the weekend.' (on the weekend)",
+          "options": null,
+          "correct_answer": "on",
+          "explanation_form": "Usamos 'on' con 'the weekend': 'on the weekend'.",
+          "explanation_target": "We use 'on' with 'the weekend': 'on the weekend'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "weekend",
+            "chunk_on_monday_weekend",
+            "prepositions of time: on/at/in"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Los días de la semana\n\nEn inglés, los días de la semana SIEMPRE llevan mayúscula inicial: **Monday**, **Tuesday**, etc. No olvides la 's' al final de los días: **Wednesdays** son los miércoles. Para decir 'el lunes', usa **on Monday**. Para 'el fin de semana', di **on the weekend**.\n\n## Preguntar y responder\n\nPara preguntar qué día es, usa **What day is it?** y responde **It's Monday.** Recuerda: **today** es hoy, **tomorrow** es mañana y **yesterday** es ayer. Con **last** hablas del pasado (**last Monday**) y con **next** del futuro (**next week**).",
+  "metadata": {
+    "generated_at": "2026-08-31T21:32:31Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

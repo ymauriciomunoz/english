@@ -1,0 +1,1645 @@
+{
+  "id": "lesson_016",
+  "position": 16,
+  "unit_id": 5,
+  "course_id": "en.B2",
+  "title_form": "Emphasising a key point in a debate",
+  "title_target": "Emphasising a key point in a debate",
+  "theme_focus": "politics",
+  "learning_objectives": [
+    "Can use cleft sentences to emphasise the most important reason for their position in a debate.",
+    "Can respond to a counterargument by highlighting a key point with 'what I really need is' or 'it was X that'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_015"
+  ],
+  "grammar_focus": [
+    "cleft sentences: what I really need is, it was X that"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "democracy",
+        "election"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "regulation",
+        "contribute_to_phrase",
+        "raise_awareness_phrase"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "democracy",
+        "role": "topic",
+        "rationale": "Central concept in the debate on electoral reform."
+      },
+      {
+        "term": "election",
+        "role": "topic",
+        "rationale": "Key topic of the debate; the learner discusses the electoral process."
+      },
+      {
+        "term": "regulation",
+        "role": "topic",
+        "rationale": "Relevant to discussing rules governing elections."
+      },
+      {
+        "term": "contribute to",
+        "role": "functional",
+        "rationale": "Used to explain how a reform could improve democracy."
+      },
+      {
+        "term": "raise awareness",
+        "role": "functional",
+        "rationale": "Used to argue for the importance of a political issue."
+      },
+      {
+        "term": "what I really need is",
+        "role": "grammar_support",
+        "rationale": "Cleft sentence structure for emphasis, the central grammar focus."
+      },
+      {
+        "term": "it was X that",
+        "role": "grammar_support",
+        "rationale": "Cleft sentence structure for emphasis, the central grammar focus."
+      }
+    ]
+  },
+  "scenario": "María participa en un debate universitario sobre reforma electoral. Su equipo defiende la necesidad de cambiar el sistema actual. Durante la discusión, María usa estructuras de énfasis para responder a los contraargumentos y convencer al público de que su propuesta es la más justa.",
+  "introduction_md": "## Emphasising a key point in a debate\n\nEn un debate, no basta con dar razones: a veces necesitas **subrayar** la razón más importante para que tu mensaje impacte. En esta lección vas a aprender dos estructuras de énfasis (cleft sentences) que te ayudarán a destacar tus ideas con claridad y convicción.\n\n**¿Qué vas a lograr?**\n\n- Usar **what I really need is** para señalar tu prioridad principal.\n- Usar **it was X that** para resaltar un factor decisivo.\n- Aplicar estas estructuras en un debate sobre **democracy** y **elections**.\n\nImagina que participas en una discusión sobre reforma electoral. Tu oponente dice que el cambio es demasiado arriesgado. Tú, en lugar de repetir tus argumentos, respondes con una frase contundente: *What I really need is a fair election.* Ese es el poder del énfasis.\n\nVas a practicar con ejemplos reales, ejercicios de comprensión y un quiz final. Al terminar, podrás defender tu posición con más seguridad y naturalidad. ¡Empecemos!",
+  "intro_target": "## Emphasising a key point in a debate\n\nIn a debate, giving reasons is not enough: sometimes you need to **highlight** the most important reason so your message has impact. In this lesson, you will learn two emphasis structures (cleft sentences) that will help you express your ideas clearly and convincingly.\n\n**What will you achieve?**\n\n- Use **what I really need is** to point out your main priority.\n- Use **it was X that** to highlight a decisive factor.\n- Apply these structures in a debate about **democracy** and **elections**.\n\nImagine you are taking part in a discussion about electoral reform. Your opponent says the change is too risky. Instead of repeating your arguments, you respond with a powerful sentence: *What I really need is a fair election.* That is the power of emphasis.\n\nYou will practise with real examples, comprehension exercises, and a final quiz. By the end, you will be able to defend your position with more confidence and naturalness. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "democracy",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What we really need in this country is a stronger democracy, not just more promises.",
+      "translation_form": "Lo que realmente necesitamos en este país es una democracia más fuerte, no solo más promesas.",
+      "highlight_words": [
+        "democracy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "election",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It was the last election that showed us how important fair regulation is.",
+      "translation_form": "Fue la última elección la que nos mostró lo importante que es una regulación justa.",
+      "highlight_words": [
+        "election",
+        "regulation"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "contribute_to_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I believe that better regulation could contribute to a healthier democracy.",
+      "translation_form": "Creo que una mejor regulación podría contribuir a una democracia más sana.",
+      "highlight_words": [
+        "regulation",
+        "democracy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "raise_awareness_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It was the campaign that helped raise awareness about the election.",
+      "translation_form": "Fue la campaña la que ayudó a crear conciencia sobre la elección.",
+      "highlight_words": [
+        "election"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "regulation",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What I really need is a clear regulation for the election, and I think we all agree.",
+      "translation_form": "Lo que realmente necesito es una regulación clara para la elección, y creo que todos estamos de acuerdo.",
+      "highlight_words": [
+        "regulation",
+        "election"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "cleft sentences: what I really need is, it was X that",
+      "title_form": "Oraciones hendidas: enfatizar un punto clave",
+      "title_target": "Cleft Sentences: Emphasising a Key Point",
+      "description_md_form": "Las **cleft sentences** (oraciones hendidas) son estructuras que usamos para **enfatizar** una parte concreta de la oración. En un debate, son ideales para destacar tu argumento más fuerte o para responder a un contraargumento.\n\n**Estructura 1: `What + sujeto + verbo + is + lo importante`**\n\nUsamos esta forma para enfocar toda la atención en **una cosa** (una necesidad, un problema, una solución).\n\n- `What I really need is a clear regulation.` → Lo que realmente necesito es una regulación clara.\n\n**Estructura 2: `It was + X + that + resto de la oración`**\n\nUsamos esta forma para enfatizar **un elemento específico** (una persona, un evento, un objeto) dentro de una historia o situación.\n\n- `It was the election that showed us the problem.` → Fue la elección la que nos mostró el problema.\n\n**¿Cuándo usarlas?**\n\n- Para **introducir** tu punto principal: `What I really need is...`\n- Para **responder** a un contraargumento: `It was X that...`\n\nEstas estructuras hacen tu discurso más persuasivo y natural, algo esencial en debates y discusiones formales.",
+      "description_md_target": "**Cleft sentences** are structures we use to **emphasise** a specific part of a sentence. In a debate, they are ideal for highlighting your strongest argument or responding to a counterargument.\n\n**Structure 1: `What + subject + verb + is + the important thing`**\n\nWe use this form to focus all attention on **one thing** (a need, a problem, a solution).\n\n- `What I really need is a clear regulation.`\n\n**Structure 2: `It was + X + that + rest of the sentence`**\n\nWe use this form to emphasise **a specific element** (a person, an event, an object) within a story or situation.\n\n- `It was the election that showed us the problem.`\n\n**When to use them?**\n\n- To **introduce** your main point: `What I really need is...`\n- To **respond** to a counterargument: `It was X that...`\n\nThese structures make your speech more persuasive and natural, essential in debates and formal discussions.",
+      "grammar_structure": "What + subject + verb + is + [focus] / It was + [focus] + that + [rest]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "cleft sentences: what I really need is, it was X that",
+          "text_target": "What I really need is a stronger democracy, not just more promises.",
+          "translation_form": "Lo que realmente necesito es una democracia más fuerte, no solo más promesas.",
+          "highlight_words": [
+            "what",
+            "really",
+            "need",
+            "is"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "cleft sentences: what I really need is, it was X that",
+          "text_target": "It was the last election that showed us how important fair regulation is.",
+          "translation_form": "Fue la última elección la que nos mostró lo importante que es una regulación justa.",
+          "highlight_words": [
+            "it",
+            "was",
+            "that"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Para sonar más natural:** en conversación, los hablantes nativos suelen usar estas estructuras con frecuencia. Practica con temas que te interesen, como la democracia o las elecciones, para que suenen automáticas."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado con el orden:** en español decimos 'Lo que necesito es...', pero en inglés el verbo 'is' va al final de la primera parte: `What I need **is**...`. No digas 'What is I need'."
+        },
+        {
+          "type": "warning",
+          "text_md": "**No uses 'it was' con personas en plural:** para enfatizar varias personas, usa 'it was' solo con singular. Para plural, reformula: 'They were the ones that...' (aunque esto es más avanzado)."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el verbo 'is' al final de la estructura 'What...': 'What I need a regulation' en lugar de 'What I need is a regulation'.",
+        "Usar 'that' cuando no hace falta: en 'What I really need is...' no se usa 'that' después de 'is'. Decimos 'What I need is a democracy', no 'What I need is that a democracy'.",
+        "Confundir el orden en 'It was X that': algunos estudiantes dicen 'It was that X' o 'That was X it'. El orden correcto es: It was + [elemento] + that + [resto].",
+        "Traducir literalmente 'Lo que' como 'The what' en lugar de usar 'What' solo."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'democracy'?",
+      "options": [
+        "Democracia",
+        "Elección",
+        "Regulación",
+        "Campaña"
+      ],
+      "correct_answer": "Democracia",
+      "explanation_md": "Democracy es el sistema de gobierno donde el pueblo elige a sus líderes.",
+      "related_lexeme_ids": [
+        "democracy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'election'?",
+      "options": [
+        "Elección",
+        "Democracia",
+        "Regulación",
+        "Voto"
+      ],
+      "correct_answer": "Elección",
+      "explanation_md": "Election es el proceso formal de votar para elegir a alguien.",
+      "related_lexeme_ids": [
+        "election"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración con la opción correcta: 'What we really need in this country is a stronger ____, not just more promises.'",
+      "options": [
+        "election",
+        "democracy",
+        "regulation",
+        "campaign"
+      ],
+      "correct_answer": "democracy",
+      "explanation_md": "La oración habla de un sistema de gobierno más fuerte, que es 'democracy'.",
+      "related_lexeme_ids": [
+        "democracy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración con la palabra correcta: 'It was the last ____ that showed us how important fair regulation is.'",
+      "options": null,
+      "correct_answer": "election",
+      "explanation_md": "La oración se refiere al proceso electoral pasado, que es 'election'.",
+      "related_lexeme_ids": [
+        "election"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra en inglés con su traducción al español:",
+      "options": [
+        "democracy",
+        "Democracia",
+        "election",
+        "Elección",
+        "regulation",
+        "Regulación"
+      ],
+      "correct_answer": [
+        "democracy=Democracia",
+        "election=Elección",
+        "regulation=Regulación"
+      ],
+      "explanation_md": "Estas son las traducciones directas de los términos clave de la lección.",
+      "related_lexeme_ids": [
+        "democracy",
+        "election",
+        "regulation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Lo que realmente necesito es una regulación clara para la elección.'",
+      "options": null,
+      "correct_answer": "What I really need is a clear regulation for the election.",
+      "explanation_md": "Usamos la estructura de oración hendida 'What I really need is...' para enfatizar.",
+      "related_lexeme_ids": [
+        "regulation",
+        "election"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'It was the campaign that helped raise awareness about the election.'",
+      "options": null,
+      "correct_answer": "Fue la campaña la que ayudó a crear conciencia sobre la elección.",
+      "explanation_md": "La estructura 'It was X that' enfatiza el sujeto de la acción.",
+      "related_lexeme_ids": [
+        "election"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la mejor manera de enfatizar que necesitamos una regulación justa?",
+      "options": [
+        "We need a fair regulation.",
+        "What we really need is a fair regulation.",
+        "A fair regulation is needed.",
+        "We need regulation that is fair."
+      ],
+      "correct_answer": "What we really need is a fair regulation.",
+      "explanation_md": "La oración hendida 'What... is...' pone el foco en la necesidad de la regulación.",
+      "related_lexeme_ids": [
+        "regulation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué fue lo que mostró la importancia de una regulación justa?",
+      "options": null,
+      "correct_answer": "Fue la última elección la que mostró la importancia de una regulación justa.",
+      "explanation_md": "El texto dice explícitamente: 'It was that election that showed us how important fair regulation is.'",
+      "related_lexeme_ids": [
+        "democracy",
+        "election",
+        "regulation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "In our country, we often discuss the health of our democracy. Many people believe that the last election was a turning point. It was that election that showed us how important fair regulation is. Without clear rules, some citizens feel that their vote does not matter. This is why some groups want to raise awareness about the need for better laws. They argue that a stronger democracy depends on fair elections. What we really need, they say, is a system where every person trusts the process. A good regulation could contribute to this goal. It could help people feel that their voice is heard. In the end, a healthy democracy is not just about voting. It is about believing that the election is fair and that the result is true.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué algunos grupos quieren crear conciencia?",
+      "options": null,
+      "correct_answer": "Quieren crear conciencia porque creen que muchas personas no entienden cómo funciona el sistema.",
+      "explanation_md": "El texto dice: 'They believe that many people do not understand how the system works. Because of this, they want to raise awareness.'",
+      "related_lexeme_ids": [
+        "democracy",
+        "election"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "A local community group is working on a new project. Their main goal is to improve the election process in their town. They believe that many people do not understand how the system works. Because of this, they want to raise awareness about the rules. The group also thinks that better regulation could contribute to a stronger democracy. They plan to hold meetings where citizens can ask questions. In these meetings, they will explain what the law says and what it does not say. The group hopes that more people will feel confident about voting. They argue that an informed citizen is the heart of a healthy democracy. What they really need is support from the community. With more help, they can make a real difference.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuál es la opinión del autor sobre la relación entre regulación y democracia?",
+      "options": null,
+      "correct_answer": "El autor opina que una buena regulación puede proteger la elección y hacer la democracia más fuerte.",
+      "explanation_md": "El texto concluye: 'Good laws can protect the election and make the democracy stronger.'",
+      "related_lexeme_ids": [
+        "democracy",
+        "election",
+        "regulation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Some people say that too much regulation is bad for a country. They think that rules slow down progress and limit freedom. However, when we talk about elections, the situation is different. A fair election needs clear rules. Without them, there is confusion and doubt. It was a recent election in a neighboring country that showed this clearly. There, the lack of good regulation led to many problems. People did not trust the result, and the democracy suffered. This example teaches us an important lesson. What we really need is not less regulation, but better regulation. Good laws can protect the election and make the democracy stronger. They can also help citizens feel safe and respected.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué fue lo que mostró la importancia de una regulación justa?",
+      "options": [
+        "La campaña",
+        "La última elección",
+        "La regulación",
+        "El voto"
+      ],
+      "correct_answer": "La última elección",
+      "explanation_md": "El audio dice: 'It was the last election that showed us how important fair regulation is.'",
+      "related_lexeme_ids": [
+        "election",
+        "regulation",
+        "democracy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "In our last meeting, we talked about the election. It was the last election that showed us how important fair regulation is. Many people did not trust the result. Now we want to raise awareness about this problem. We believe that better rules can help our democracy.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué es lo que realmente necesita el grupo?",
+      "options": [
+        "Más dinero",
+        "Más apoyo de los ciudadanos",
+        "Una nueva campaña",
+        "Más reuniones"
+      ],
+      "correct_answer": "Más apoyo de los ciudadanos",
+      "explanation_md": "El audio dice: 'What we really need is more support from the citizens.'",
+      "related_lexeme_ids": [
+        "democracy",
+        "election",
+        "regulation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Our community group wants to improve the election process. We think that a good regulation could contribute to a stronger democracy. But we cannot do it alone. What we really need is more support from the citizens. With their help, we can make a real change.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué pasó con la democracia en el país vecino?",
+      "options": [
+        "La democracia se hizo más fuerte",
+        "La democracia sufrió",
+        "La democracia desapareció",
+        "La democracia no cambió"
+      ],
+      "correct_answer": "La democracia sufrió",
+      "explanation_md": "El audio dice: 'The democracy suffered because of this.'",
+      "related_lexeme_ids": [
+        "democracy",
+        "election",
+        "regulation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "In a neighboring country, the last election had many problems. There was no fair regulation, and people did not trust the result. The democracy suffered because of this. It was a difficult time for everyone. Now they are working to create better laws.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones usando 'What I really need is...' o 'It was... that...' para hablar sobre lo que necesita tu país para tener una democracia más fuerte.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de las oraciones hendidas para enfatizar un punto.",
+      "related_lexeme_ids": [
+        "democracy",
+        "election",
+        "regulation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "What I really need is a fair election system.",
+        "It was the last election that showed us the problems.",
+        "What we really need is better regulation for the election."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_016",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones explicando cómo una campaña puede contribuir a crear conciencia sobre una elección.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'contribute to' y 'raise awareness' en contexto.",
+      "related_lexeme_ids": [
+        "election",
+        "democracy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "A campaign can raise awareness about the election.",
+        "It was the campaign that helped people understand the rules.",
+        "A good campaign could contribute to a healthier democracy."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "democracy",
+      "back": "democracia",
+      "hint": "sistema de gobierno donde el pueblo elige",
+      "lexeme_id": "democracy",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "B2",
+        "politics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "election",
+      "back": "elección",
+      "hint": "proceso para votar",
+      "lexeme_id": "election",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "B2",
+        "politics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "regulation",
+      "back": "regulación",
+      "hint": "regla oficial",
+      "lexeme_id": "regulation",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "B2",
+        "politics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "contribute to",
+      "back": "contribuir a",
+      "hint": "ayudar a lograr algo",
+      "lexeme_id": "contribute_to_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "B2",
+        "politics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "raise awareness",
+      "back": "crear conciencia",
+      "hint": "hacer que la gente sepa algo",
+      "lexeme_id": "raise_awareness_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "B2",
+        "politics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "what I really need is",
+      "back": "lo que realmente necesito es",
+      "hint": "estructura para enfatizar",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "what I really need is",
+      "tags": [
+        "lesson_016",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "it was X that",
+      "back": "fue X lo que",
+      "hint": "estructura para enfatizar",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "it was X that",
+      "tags": [
+        "lesson_016",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "democracy",
+      "reading": "",
+      "translation": "democracia",
+      "pos": "noun",
+      "example": "What we really need in this country is a stronger democracy, not just more promises.",
+      "example_translation": "Lo que realmente necesitamos en este país es una democracia más fuerte, no solo más promesas.",
+      "lexeme_id": "democracy",
+      "chunk_id": null
+    },
+    {
+      "target_word": "election",
+      "reading": "",
+      "translation": "elección",
+      "pos": "noun",
+      "example": "It was the last election that showed us how important fair regulation is.",
+      "example_translation": "Fue la última elección la que nos mostró lo importante que es una regulación justa.",
+      "lexeme_id": "election",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "democracy",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "democracia",
+      "lexeme_id": "democracy",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "cleft sentences: what I really need is, it was X that",
+        "ex_001",
+        "ex_003",
+        "ex_005",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "election",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "elección",
+      "lexeme_id": "election",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "exm_005",
+        "cleft sentences: what I really need is, it was X that",
+        "ex_002",
+        "ex_004",
+        "ex_005",
+        "ex_006",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_005",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "regulation",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "regulación",
+      "lexeme_id": "regulation",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_002",
+        "exm_003",
+        "exm_005",
+        "cleft sentences: what I really need is, it was X that",
+        "ex_005",
+        "ex_006",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "contribute to",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "contribuir a",
+      "lexeme_id": "contribute_to_phrase",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_010",
+        "ex_013",
+        "ex_016",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "raise awareness",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "aumentar la concienciación",
+      "lexeme_id": "raise_awareness_phrase",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_016",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "what I really need is",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_005",
+        "cleft sentences: what I really need is, it was X that",
+        "ex_015",
+        "fc_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "it was X that",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "cleft sentences: what I really need is, it was X that",
+        "fc_007",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "better",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mejor",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "fair",
+      "role": "support",
+      "status": "emergent",
+      "translation": "justo / claro",
+      "lexeme_id": "fair_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "believe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "creer",
+      "lexeme_id": "believe_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "stronger",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más fuerte",
+      "lexeme_id": "stronger",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "country",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_011",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "think",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pensar / creer",
+      "lexeme_id": "think_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_011",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "clear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "claro",
+      "lexeme_id": "clear_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "agree",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "campaign",
+      "role": "support",
+      "status": "emergent",
+      "translation": "campaña",
+      "lexeme_id": "campaign",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "rule",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gobernar / regla",
+      "lexeme_id": "rule_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_016",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "citizen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ciudadano",
+      "lexeme_id": "citizen_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_007",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "lack",
+      "role": "support",
+      "status": "emergent",
+      "translation": "falta",
+      "lexeme_id": "lack",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_007",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "ex_013",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "feel",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sentir",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "law",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ley",
+      "lexeme_id": "law",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "system",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sistema",
+      "lexeme_id": "system",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_015",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "result",
+      "role": "support",
+      "status": "emergent",
+      "translation": "resultar",
+      "lexeme_id": "result_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "community",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comunidad",
+      "lexeme_id": "community",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "make",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer / fabricar",
+      "lexeme_id": "make_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "group",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grupo",
+      "lexeme_id": "group",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "support",
+      "role": "support",
+      "status": "emergent",
+      "translation": "apoyar / apoyo",
+      "lexeme_id": "support",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_013",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "process",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proceso",
+      "lexeme_id": "process",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "argue",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reñir / argúir / apuntar",
+      "lexeme_id": "argue",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "policy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "político",
+      "lexeme_id": "policy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "healthy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sano / salubre / rubicundo",
+      "lexeme_id": "healthy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_008"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 7,
+    "lexical_target_count": 5,
+    "covered_lexical_target_count": 5,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 0,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "better",
+      "fair",
+      "believe",
+      "stronger",
+      "country",
+      "think",
+      "clear",
+      "agree",
+      "campaign",
+      "rule",
+      "citizen",
+      "want",
+      "meeting",
+      "lack",
+      "say",
+      "good",
+      "feel",
+      "law",
+      "system",
+      "result",
+      "community",
+      "make",
+      "meet",
+      "word",
+      "group",
+      "support",
+      "process",
+      "argue",
+      "policy",
+      "healthy",
+      "now",
+      "time"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Emphasising a key point in a debate",
+      "title_target": "Quiz: Emphasising a key point in a debate",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Cuál es la idea principal del segundo párrafo?",
+          "prompt_target": "Read the text and answer: What is the main idea of the second paragraph?",
+          "options": [
+            "That elections are the most important part of democracy.",
+            "That citizens need action, not just promises, to trust democracy.",
+            "That regulation is the only solution to political problems.",
+            "That candidates should make more promises during debates."
+          ],
+          "correct_answer": "That citizens need action, not just promises, to trust democracy.",
+          "explanation_form": "El segundo párrafo se centra en la idea de que los ciudadanos necesitan acción, no solo promesas, para confiar en la democracia.",
+          "explanation_target": "The second paragraph focuses on the idea that citizens need action, not just promises, to trust democracy.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "democracy",
+            "election",
+            "cleft_sentences"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "In a recent debate about democracy, one candidate made a powerful point. She said that what citizens really need is not more promises but more action. Her opponent argued that regulation was the answer, but she disagreed. She explained that it was the lack of trust that was destroying the system. She highlighted that elections alone do not guarantee a healthy democracy. What she really wanted was for people to participate more actively in their communities. She concluded that it was the citizens themselves who had the power to change things. Her speech was so convincing that many people changed their minds that night.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué dijo el orador que era lo más importante?",
+          "prompt_target": "Listen and answer: What did the speaker say was the most important thing?",
+          "options": [
+            "That the regulation was too strict.",
+            "That they need more transparency.",
+            "That the meeting was a waste of time.",
+            "That they should cancel the policy."
+          ],
+          "correct_answer": "That they need more transparency.",
+          "explanation_form": "El orador dijo que lo que realmente necesitan es más transparencia ('what we really need is more transparency').",
+          "explanation_target": "The speaker said that what they really need is more transparency ('what we really need is more transparency').",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "regulation",
+            "cleft_sentences"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "In our meeting, we discussed the new regulation. My colleague said it was too strict. I disagreed. I told them that what we really need is more transparency. It was the lack of clear rules that caused the problem. We finally agreed to review the policy next month.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta (cleft sentence):",
+          "prompt_target": "Order the words to form a correct sentence (cleft sentence):",
+          "options": [
+            "what",
+            "really",
+            "need",
+            "is",
+            "more",
+            "action"
+          ],
+          "correct_answer": "what I really need is more action",
+          "explanation_form": "La estructura cleft 'what + sujeto + really + verbo + is + énfasis' se usa para destacar un elemento.",
+          "explanation_target": "The cleft structure 'what + subject + really + verb + is + emphasis' is used to highlight an element.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cleft_sentences"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'democracy' en español?",
+          "prompt_target": "What does 'democracy' mean in Spanish?",
+          "options": [
+            "Democracia",
+            "Elección",
+            "Regulación",
+            "Gobierno"
+          ],
+          "correct_answer": "Democracia",
+          "explanation_form": "'Democracy' se traduce como 'democracia'.",
+          "explanation_target": "'Democracy' translates to 'democracia'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "democracy"
+          ],
+          "points": 5,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración con la palabra correcta: 'The _____ was very close; the winner got only 51% of the votes.'",
+          "prompt_target": "Complete the sentence with the correct word: 'The _____ was very close; the winner got only 51% of the votes.'",
+          "options": null,
+          "correct_answer": "election",
+          "explanation_form": "La palabra 'election' (elección) encaja perfectamente en el contexto de una votación reñida.",
+          "explanation_target": "The word 'election' fits perfectly in the context of a close vote.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "election"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál de estas oraciones usa correctamente una cleft sentence para enfatizar?",
+          "prompt_target": "Which of these sentences correctly uses a cleft sentence for emphasis?",
+          "options": [
+            "It was the regulation that caused the problem.",
+            "The regulation was causing the problem.",
+            "The problem was caused by the regulation.",
+            "The regulation caused the problem."
+          ],
+          "correct_answer": "It was the regulation that caused the problem.",
+          "explanation_form": "La estructura 'It was X that...' es una cleft sentence que enfatiza el elemento X.",
+          "explanation_target": "The structure 'It was X that...' is a cleft sentence that emphasizes element X.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cleft_sentences",
+            "regulation"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué fue lo que realmente sorprendió al orador?",
+          "prompt_target": "Listen and answer: What really surprised the speaker?",
+          "options": [
+            "That the meeting was cancelled.",
+            "That so many people agreed with the woman.",
+            "That the regulation was approved.",
+            "That no one spoke at the meeting."
+          ],
+          "correct_answer": "That so many people agreed with the woman.",
+          "explanation_form": "El orador dijo: 'What really surprised me was how many people agreed with her'.",
+          "explanation_target": "The speaker said: 'What really surprised me was how many people agreed with her'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "regulation",
+            "cleft_sentences"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I attended a public meeting about the new regulation. Many people spoke, but one woman stood out. She said that it was the lack of transparency that worried her the most. What really surprised me was how many people agreed with her. The meeting ended with a promise to review the policy.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traducí al español: 'What I really need is more time to decide.'",
+          "prompt_target": "Translate to Spanish: 'What I really need is more time to decide.'",
+          "options": null,
+          "correct_answer": "Lo que realmente necesito es más tiempo para decidir.",
+          "explanation_form": "La cleft sentence 'What I really need is...' se traduce como 'Lo que realmente necesito es...'.",
+          "explanation_target": "The cleft sentence 'What I really need is...' translates to 'Lo que realmente necesito es...'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cleft_sentences"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué conclusión saca el autor sobre la participación ciudadana?",
+          "prompt_target": "Read the text and answer: What conclusion does the author draw about citizen participation?",
+          "options": [
+            "That voting is the only way to support democracy.",
+            "That citizens need to feel their voice matters to participate.",
+            "That regulation is more important than participation.",
+            "That local meetings are a waste of time."
+          ],
+          "correct_answer": "That citizens need to feel their voice matters to participate.",
+          "explanation_form": "El autor concluye que los ciudadanos necesitan sentir que su voz importa para participar activamente.",
+          "explanation_target": "The author concludes that citizens need to feel their voice matters to participate actively.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "democracy",
+            "election",
+            "regulation",
+            "contribute_to_phrase"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": "Many people believe that voting in elections is enough to support democracy. However, experts argue that real democracy requires more than that. It requires active participation in community decisions. What citizens really need is to feel that their voice matters. It is through local meetings and public discussions that people can influence regulation. Unfortunately, many citizens do not contribute because they feel their participation will not change anything. This lack of trust is a serious problem. To solve it, leaders must show that public opinion can truly shape policy. Only then will people feel motivated to participate.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "democracy",
+            "democracia",
+            "election",
+            "elección"
+          ],
+          "correct_answer": [
+            "democracy=democracia",
+            "election=elección"
+          ],
+          "explanation_form": "Estas son las traducciones directas de las palabras clave de la lección.",
+          "explanation_target": "These are the direct translations of the key words from the lesson.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "democracy",
+            "election"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cleft sentences: tu arma secreta en un debate\n\nCuando quieras darle fuerza a tu argumento, usa **cleft sentences**. En vez de decir *\"I need more regulation\"*, di *\"What I really need is more regulation\"*. La estructura **what + sujeto + verbo + is** enfoca la atención en lo importante. Para el pasado, usa **it was X that**: *\"It was the election that changed everything\"*. Esto suena mucho más natural y convincente que un simple *\"The election changed everything\"*.\n\n## Errores comunes y trucos\n\n- **No olvides el *that*:** en *\"It was the election that...\"*, el *that* es obligatorio. Sin él, la frase pierde su fuerza.\n- **What vs. It:** usa *what* para hablar de una necesidad o deseo general (*\"What I really need is...\"*), y *it was... that* para señalar un momento o causa específica en el pasado (*\"It was the regulation that helped\"*).\n- **Piensa en español:** es como decir *\"Lo que realmente necesito es...\"* o *\"Fue X lo que...\"*. Si la traducción suena bien, la estructura es correcta.",
+  "metadata": {
+    "generated_at": "2026-08-31T01:32:56Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

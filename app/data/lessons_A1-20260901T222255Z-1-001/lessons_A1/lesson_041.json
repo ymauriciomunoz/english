@@ -1,0 +1,1563 @@
+{
+  "id": "lesson_041",
+  "position": 41,
+  "unit_id": 7,
+  "course_id": "en.A1",
+  "title_form": "Habilidad con can/can't",
+  "title_target": "Talking About Abilities with Can/Can't",
+  "theme_focus": "Expresar habilidad y permiso usando can y can't.",
+  "learning_objectives": [
+    "Can talk about abilities using 'can' and 'can't'.",
+    "Can ask for permission using 'can'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_033"
+  ],
+  "grammar_focus": [
+    "can/can't: ability and permission"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "paint_verb",
+        "draw_verb",
+        "jump_verb",
+        "guitar",
+        "dance_verb",
+        "sing_verb",
+        "run_verb",
+        "cook_verb",
+        "speak_verb"
+      ],
+      "chunk_ids": [
+        "chunk_i_can",
+        "chunk_i_cant",
+        "chunk_can_i"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "football",
+        "tennis",
+        "music",
+        "book",
+        "swim_verb",
+        "drive_verb",
+        "play_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tom y Ana son amigos. Tom quiere organizar un concierto con sus amigos. Ana le pregunta qué sabe hacer cada uno: quién canta, quién toca la guitarra, quién baila. Después, Tom le pide permiso a su mamá para usar el garaje para el concierto.",
+  "introduction_md": "¡Hola! En esta lección vas a aprender a hablar de tus **habilidades** con **can** y **can't**. \n\n**Can** significa *poder* o *saber hacer algo*. Por ejemplo: *I can swim* (Yo sé nadar).\n\n**Can't** es la forma negativa: *I can't dance* (No sé bailar).\n\nTambién vas a usar **can** para pedir permiso: *Can I go?* (¿Puedo ir?).\n\nCon estas palabras podrás:\n\n- Decir lo que sabes hacer (cantar, cocinar, correr...).\n- Preguntar si alguien puede hacer algo.\n- Pedir permiso de forma educada.\n\n¡Vamos a practicar con ejemplos de la vida diaria!",
+  "intro_target": "Hello! In this lesson you will learn to talk about your **abilities** with **can** and **can't**. \n\n**Can** means to be able to do something. For example: *I can swim*.\n\n**Can't** is the negative form: *I can't dance*.\n\nYou will also use **can** to ask for permission: *Can I go?*\n\nWith these words you can:\n\n- Say what you can do (sing, cook, run...).\n- Ask if someone can do something.\n- Ask for permission in a polite way.\n\nLet's practice with examples from daily life!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_can",
+      "grammar_slug": null,
+      "text_target": "I can play football and tennis.",
+      "translation_form": "Yo puedo jugar al fútbol y al tenis.",
+      "highlight_words": [
+        "can",
+        "play",
+        "football",
+        "tennis"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_cant",
+      "grammar_slug": null,
+      "text_target": "I can't swim, but I can run.",
+      "translation_form": "No puedo nadar, pero puedo correr.",
+      "highlight_words": [
+        "can't",
+        "swim",
+        "run"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": "chunk_can_i",
+      "grammar_slug": null,
+      "text_target": "Can I play music here? Yes, you can.",
+      "translation_form": "¿Puedo poner música aquí? Sí, puedes.",
+      "highlight_words": [
+        "can",
+        "play",
+        "music"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "paint_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I can paint and draw.",
+      "translation_form": "Yo puedo pintar y dibujar.",
+      "highlight_words": [
+        "paint",
+        "draw"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "guitar",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She can sing and play the guitar.",
+      "translation_form": "Ella puede cantar y tocar la guitarra.",
+      "highlight_words": [
+        "sing",
+        "play",
+        "guitar"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I can cook, but I can't dance.",
+      "translation_form": "Yo puedo cocinar, pero no puedo bailar.",
+      "highlight_words": [
+        "cook",
+        "can't",
+        "dance"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "can/can't: ability and permission",
+      "title_form": "Can y Can't: Habilidad y Permiso",
+      "title_target": "Can and Can't: Ability and Permission",
+      "description_md_form": "**Can** es un verbo especial que usamos para hablar de **habilidades** (lo que sabemos hacer) y para **pedir permiso**. Es igual para todas las personas: *I can, you can, he can, she can*... ¡No cambia!\n\n- **Afirmativo:** *I can sing.* (Yo puedo cantar.)\n- **Negativo:** *I can't dance.* (No puedo bailar.)\n- **Pregunta:** *Can I play music?* (¿Puedo poner música?)\n\nDespués de **can** o **can't**, el otro verbo va **sin \"to\"** y sin cambios: *I can run*, no *I can to run*. Para preguntar, ponemos **can** al inicio. Para responder, usamos *Yes, you can* o *No, you can't*.",
+      "description_md_target": "**Can** is a special verb we use to talk about **abilities** (things we know how to do) and to **ask for permission**. It is the same for all people: *I can, you can, he can, she can*... It doesn't change!\n\n- **Affirmative:** *I can sing.*\n- **Negative:** *I can't dance.*\n- **Question:** *Can I play music?*\n\nAfter **can** or **can't**, the other verb goes **without \"to\"** and without changes: *I can run*, not *I can to run*. To ask, we put **can** at the start. To answer, we use *Yes, you can* or *No, you can't*.",
+      "grammar_structure": "Subject + can/can't + base verb",
+      "conjugation_table": {
+        "name": "can_present",
+        "headers": [
+          "Forma",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Afirmativo",
+            "I can cook."
+          ],
+          [
+            "Negativo",
+            "I can't swim."
+          ],
+          [
+            "Pregunta",
+            "Can I jump?"
+          ],
+          [
+            "Respuesta corta sí",
+            "Yes, you can."
+          ],
+          [
+            "Respuesta corta no",
+            "No, you can't."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_i_can",
+          "grammar_slug": null,
+          "text_target": "I can paint and draw.",
+          "translation_form": "Yo puedo pintar y dibujar.",
+          "highlight_words": [
+            "can",
+            "paint",
+            "draw"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": "chunk_can_i",
+          "grammar_slug": null,
+          "text_target": "Can I play music here? Yes, you can.",
+          "translation_form": "¿Puedo poner música aquí? Sí, puedes.",
+          "highlight_words": [
+            "can",
+            "play",
+            "music"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Can** no cambia con *he, she, it*: *She can sing*, no *She cans sing*. ¡Es un verbo fácil!"
+        },
+        {
+          "type": "common_error",
+          "text_md": "Después de **can** o **can't**, el verbo va **sin \"to\"**: *I can run*, no *I can to run*."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Can't** se escribe con apóstrofo: *can't*. No lo confundas con *cant* (que no existe en inglés)."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I can to sing* en vez de *I can sing* (agregar \"to\" después de can).",
+        "Decir *He cans play* en vez de *He can play* (can no cambia con he/she/it).",
+        "Olvidar el apóstrofo en *can't* y escribir *cant*.",
+        "Responder *Yes, I can* cuando la pregunta es *Can I...?* — la respuesta correcta es *Yes, you can*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'paint'?",
+      "options": [
+        "pintar",
+        "correr",
+        "cantar",
+        "cocinar"
+      ],
+      "correct_answer": "pintar",
+      "explanation_md": "'Paint' significa pintar, como en 'I can paint'.",
+      "related_lexeme_ids": [
+        "paint_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada verbo con su significado:",
+      "options": [
+        "draw",
+        "dibujar",
+        "jump",
+        "saltar",
+        "sing",
+        "cantar"
+      ],
+      "correct_answer": [
+        "draw=dibujar",
+        "jump=saltar",
+        "sing=cantar"
+      ],
+      "explanation_md": "Estos verbos describen acciones que puedes hacer.",
+      "related_lexeme_ids": [
+        "draw_verb",
+        "jump_verb",
+        "sing_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración: 'I ____ play the guitar.' (Yo puedo tocar la guitarra.)",
+      "options": [
+        "can",
+        "can't",
+        "am",
+        "is"
+      ],
+      "correct_answer": "can",
+      "explanation_md": "Usamos 'can' para decir que podemos hacer algo.",
+      "related_lexeme_ids": [
+        "guitar"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_can"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'can' o 'can't': 'I ____ cook, but I ____ dance.' (Yo puedo cocinar, pero no puedo bailar.)",
+      "options": null,
+      "correct_answer": "can; can't",
+      "explanation_md": "Usamos 'can' para habilidad y 'can't' para falta de habilidad.",
+      "related_lexeme_ids": [
+        "cook_verb",
+        "dance_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_can",
+        "chunk_i_cant"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Puedo correr aquí?'",
+      "options": null,
+      "correct_answer": "Can I run here?",
+      "explanation_md": "Para preguntar permiso, usamos 'Can I...?' al inicio.",
+      "related_lexeme_ids": [
+        "run_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_can_i"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'She can sing and play the guitar.'",
+      "options": null,
+      "correct_answer": "Ella puede cantar y tocar la guitarra.",
+      "explanation_md": "'She can' significa 'ella puede'.",
+      "related_lexeme_ids": [
+        "sing_verb",
+        "guitar"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué significa 'I can't swim'?",
+      "options": [
+        "Yo puedo nadar.",
+        "Yo no puedo nadar.",
+        "Yo quiero nadar.",
+        "Yo sé nadar."
+      ],
+      "correct_answer": "Yo no puedo nadar.",
+      "explanation_md": "'Can't' es la forma negativa de 'can'.",
+      "related_lexeme_ids": [
+        "swim_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_cant"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'can' o 'can't': '____ I play music here?' (¿Puedo poner música aquí?)",
+      "options": null,
+      "correct_answer": "Can",
+      "explanation_md": "Para pedir permiso, usamos 'Can I...?'",
+      "related_lexeme_ids": [
+        "music"
+      ],
+      "related_chunk_ids": [
+        "chunk_can_i"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué puede hacer Tom?",
+      "options": [
+        "Tom can swim.",
+        "Tom can play football and tennis.",
+        "Tom can paint.",
+        "Tom can draw."
+      ],
+      "correct_answer": "Tom can play football and tennis.",
+      "explanation_md": "El texto dice que Tom puede jugar al fútbol y al tenis.",
+      "related_lexeme_ids": [
+        "football",
+        "tennis",
+        "guitar",
+        "sing_verb",
+        "cook_verb",
+        "paint_verb",
+        "draw_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom is my friend. He can play football and tennis. He can't swim, but he can run very fast. He can also play the guitar and sing. Tom can cook, but he can't paint or draw. He is a wonderful friend.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué puede hacer Ana?",
+      "options": [
+        "Ana can cook.",
+        "Ana can dance and sing.",
+        "Ana can't sing.",
+        "Ana can't dance."
+      ],
+      "correct_answer": "Ana can dance and sing.",
+      "explanation_md": "El audio dice que Ana puede bailar y cantar.",
+      "related_lexeme_ids": [
+        "dance_verb",
+        "sing_verb",
+        "cook_verb",
+        "draw_verb",
+        "paint_verb",
+        "run_verb",
+        "jump_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Ana is my sister. She can dance and sing. She can't cook. She can draw and paint. She can run and jump. She is very happy.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 3 oraciones sobre lo que puedes y no puedes hacer. Usa 'I can' e 'I can't'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'can' y 'can't' para expresar habilidad.",
+      "related_lexeme_ids": [
+        "football",
+        "tennis",
+        "cook_verb",
+        "run_verb",
+        "sing_verb",
+        "guitar"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_can",
+        "chunk_i_cant"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I can play football and tennis.",
+        "I can't cook, but I can run.",
+        "I can sing and play the guitar."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué pregunta es correcta para pedir permiso?",
+      "options": [
+        "I can go?",
+        "Can I go?",
+        "Go I can?",
+        "I go can?"
+      ],
+      "correct_answer": "Can I go?",
+      "explanation_md": "Para pedir permiso, la estructura es 'Can I + verbo'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_can_i"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "paint",
+      "back": "pintar",
+      "hint": "actividad creativa",
+      "lexeme_id": "paint_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "draw",
+      "back": "dibujar",
+      "hint": "con un lápiz",
+      "lexeme_id": "draw_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "jump",
+      "back": "saltar",
+      "hint": "movimiento con el cuerpo",
+      "lexeme_id": "jump_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "guitar",
+      "back": "guitarra",
+      "hint": "instrumento musical",
+      "lexeme_id": "guitar",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "dance",
+      "back": "bailar",
+      "hint": "mover el cuerpo con música",
+      "lexeme_id": "dance_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "sing",
+      "back": "cantar",
+      "hint": "hacer música con la voz",
+      "lexeme_id": "sing_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "run",
+      "back": "correr",
+      "hint": "deporte al aire libre",
+      "lexeme_id": "run_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "cook",
+      "back": "cocinar",
+      "hint": "preparar comida",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "speak",
+      "back": "hablar",
+      "hint": "comunicarse con palabras",
+      "lexeme_id": "speak_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "I can ...",
+      "back": "Yo puedo ...",
+      "hint": "expresar habilidad",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_can",
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "I can't ...",
+      "back": "No puedo ...",
+      "hint": "expresar falta de habilidad",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_cant",
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "Can I ... ?",
+      "back": "¿Puedo ...?",
+      "hint": "pedir permiso",
+      "lexeme_id": null,
+      "chunk_id": "chunk_can_i",
+      "target_term": null,
+      "tags": [
+        "lesson_041",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "paint",
+      "reading": "",
+      "translation": "pintar",
+      "pos": "verb",
+      "example": "I can paint and draw pictures.",
+      "example_translation": "Yo puedo pintar y dibujar dibujos.",
+      "lexeme_id": "paint_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "draw",
+      "reading": "",
+      "translation": "dibujar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "draw_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "jump",
+      "reading": "",
+      "translation": "saltar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "jump_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "guitar",
+      "reading": "",
+      "translation": "jarana / sonanta / guitarra",
+      "pos": "noun",
+      "example": "She can sing and play the guitar.",
+      "example_translation": "Ella puede cantar y tocar la guitarra.",
+      "lexeme_id": "guitar",
+      "chunk_id": null
+    },
+    {
+      "target_word": "dance",
+      "reading": "",
+      "translation": "bailar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "dance_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sing",
+      "reading": "",
+      "translation": "cantar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "sing_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "run",
+      "reading": "",
+      "translation": "correr",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "run_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cook",
+      "reading": "",
+      "translation": "cocinar",
+      "pos": "verb",
+      "example": "I can cook, but I can't dance.",
+      "example_translation": "Yo puedo cocinar, pero no puedo bailar.",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "speak",
+      "reading": "",
+      "translation": "hablar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "speak_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I can ...",
+      "reading": "",
+      "translation": "Yo puedo ...",
+      "pos": "chunk",
+      "example": "I can play football and tennis.",
+      "example_translation": "Yo puedo jugar al fútbol y al tenis.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_can"
+    },
+    {
+      "target_word": "I can't ...",
+      "reading": "",
+      "translation": "No puedo ...",
+      "pos": "chunk",
+      "example": "I can't swim, but I can run.",
+      "example_translation": "No puedo nadar, pero puedo correr.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_cant"
+    },
+    {
+      "target_word": "Can I ... ? — Yes, you can. / No, you can't.",
+      "reading": "",
+      "translation": "¿Puedo ...? — Sí, puedes. / No, no puedes.",
+      "pos": "chunk",
+      "example": "Can I play music here? Yes, you can.",
+      "example_translation": "¿Puedo poner música aquí? Sí, puedes.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_can_i"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "paint",
+      "role": "support",
+      "status": "practiced",
+      "translation": "pintar",
+      "lexeme_id": "paint_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_001",
+        "ex_009",
+        "ex_010",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "draw",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dibujar",
+      "lexeme_id": "draw_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_009",
+        "ex_010",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "jump",
+      "role": "support",
+      "status": "practiced",
+      "translation": "saltar",
+      "lexeme_id": "jump_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_010",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "guitar",
+      "role": "support",
+      "status": "practiced",
+      "translation": "jarana / sonanta / guitarra",
+      "lexeme_id": "guitar",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_006",
+        "ex_009",
+        "ex_011",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "dance",
+      "role": "support",
+      "status": "practiced",
+      "translation": "bailar",
+      "lexeme_id": "dance_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_010",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "sing",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cantar",
+      "lexeme_id": "sing_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_006",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "run",
+      "role": "support",
+      "status": "practiced",
+      "translation": "correr",
+      "lexeme_id": "run_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_010",
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "cook",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cocinar",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_004",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "speak",
+      "role": "support",
+      "status": "introduced",
+      "translation": "hablar",
+      "lexeme_id": "speak_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "I can ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Yo puedo ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_can",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "ex_004",
+        "ex_011",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "I can't ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "No puedo ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_cant",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_004",
+        "ex_007",
+        "ex_011",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "Can I ... ? — Yes, you can. / No, you can't.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Puedo ...? — Sí, puedes. / No, no puedes.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_can_i",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_005",
+        "ex_008",
+        "ex_012",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "tennis",
+      "role": "support",
+      "status": "review",
+      "translation": "tenis",
+      "lexeme_id": "tennis",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "football",
+      "role": "support",
+      "status": "review",
+      "translation": "fútbol",
+      "lexeme_id": "football",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "play",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jugar / tocar",
+      "lexeme_id": "play_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "exm_005",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "draw",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "fc_002",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "paint",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "fc_001",
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "jump",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "fc_003",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "swim",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nadar",
+      "lexeme_id": "swim_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "music",
+      "role": "support",
+      "status": "emergent",
+      "translation": "música",
+      "lexeme_id": "music",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "translate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "traducción",
+      "lexeme_id": "translate",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_007",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "subject",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "ability",
+      "role": "support",
+      "status": "emergent",
+      "translation": "habilidad",
+      "lexeme_id": "ability",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 12,
+    "review_support_count": 2,
+    "emergent_count": 12,
+    "emergent_terms": [
+      "play",
+      "draw",
+      "paint",
+      "jump",
+      "swim",
+      "music",
+      "ask",
+      "friend",
+      "person",
+      "translate",
+      "subject",
+      "ability"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Habilidad con can/can't",
+      "title_target": "Quiz: Talking About Abilities with Can/Can't",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I can sing'?",
+          "prompt_target": "What does 'I can sing' mean?",
+          "options": [
+            "Yo canto",
+            "Yo puedo cantar",
+            "Yo quiero cantar",
+            "Yo no canto"
+          ],
+          "correct_answer": "Yo puedo cantar",
+          "explanation_form": "'Can' expresa habilidad. 'I can sing' significa 'yo puedo cantar'.",
+          "explanation_target": "'Can' expresses ability. 'I can sing' means 'I can sing'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sing_verb",
+            "chunk_i_can"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ you cook?'",
+          "prompt_target": "Complete the question: '____ you cook?'",
+          "options": null,
+          "correct_answer": "Can",
+          "explanation_form": "Para preguntar sobre habilidad, ponemos 'can' al inicio: 'Can you cook?'",
+          "explanation_target": "To ask about ability, we put 'can' at the start: 'Can you cook?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cook_verb",
+            "chunk_can_i"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta.",
+          "prompt_target": "Listen and choose the correct answer.",
+          "options": [
+            "She can sing",
+            "She can draw",
+            "She can dance",
+            "She can not paint"
+          ],
+          "correct_answer": "She can draw",
+          "explanation_form": "La persona dice 'I can draw' y 'I can paint'. No puede cantar ni bailar.",
+          "explanation_target": "The person says 'I can draw' and 'I can paint'. She can not sing or dance.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "draw_verb",
+            "paint_verb",
+            "sing_verb",
+            "dance_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I can draw. I can paint. I can not sing. I can not dance.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta.",
+          "prompt_target": "Order the words to form a correct sentence.",
+          "options": [
+            "I",
+            "can",
+            "play",
+            "guitar",
+            "the"
+          ],
+          "correct_answer": "I can play the guitar",
+          "explanation_form": "La estructura es: sujeto + can + verbo + objeto. 'I can play the guitar'.",
+          "explanation_target": "The structure is: subject + can + verb + object. 'I can play the guitar'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "guitar",
+            "play_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma negativa de 'I can run'?",
+          "prompt_target": "How do you say 'I can run' with 'can not'?",
+          "options": [
+            "I can not run",
+            "I no can run",
+            "I don't can run",
+            "I can run not"
+          ],
+          "correct_answer": "I can not run",
+          "explanation_form": "La negación de 'can' es 'can not' (o 'can't'). 'I can not run'.",
+          "explanation_target": "The negative of 'can' is 'can not' (or 'can't'). 'I can not run'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "run_verb",
+            "chunk_i_cant"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué puede hacer Tom?",
+          "prompt_target": "Read the text and answer: What can Tom do?",
+          "options": [
+            "He can sing",
+            "He can play the guitar",
+            "He can cook and draw",
+            "He can not run"
+          ],
+          "correct_answer": "He can cook and draw",
+          "explanation_form": "El texto dice 'He can cook and he can draw'. No puede cantar ni tocar la guitarra.",
+          "explanation_target": "The text says 'He can cook and he can draw'. He can not sing or play the guitar.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cook_verb",
+            "draw_verb",
+            "guitar",
+            "sing_verb",
+            "run_verb",
+            "jump_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Tom is my friend. He can cook and he can draw. He can not play the guitar. He can not sing. He can run and he can jump.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: '¿Puedes bailar?'",
+          "prompt_target": "Translate to English: 'Can you dance?'",
+          "options": null,
+          "correct_answer": "Can you dance?",
+          "explanation_form": "Para preguntar, usamos 'Can' + sujeto + verbo: 'Can you dance?'",
+          "explanation_target": "To ask, we use 'Can' + subject + verb: 'Can you dance?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "dance_verb",
+            "chunk_can_i"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta.",
+          "prompt_target": "Listen and choose the correct answer.",
+          "options": [
+            "She can paint and jump",
+            "She can paint but she can not jump",
+            "She can not paint but she can jump",
+            "She can not paint or jump"
+          ],
+          "correct_answer": "She can paint but she can not jump",
+          "explanation_form": "La persona dice 'Yes, I can' para pintar y 'No, I can not' para saltar.",
+          "explanation_target": "The person says 'Yes, I can' for painting and 'No, I can not' for jumping.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "paint_verb",
+            "jump_verb",
+            "chunk_can_i",
+            "chunk_i_cant"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": "Can you paint? Yes, I can. Can you jump? No, I can not.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja cada oración con su significado:",
+          "prompt_target": "Match each sentence with its meaning:",
+          "options": [
+            "I can sing",
+            "Yo puedo cantar",
+            "I can not dance",
+            "Yo no puedo bailar"
+          ],
+          "correct_answer": [
+            "I can sing=Yo puedo cantar",
+            "I can not dance=Yo no puedo bailar"
+          ],
+          "explanation_form": "'I can sing' significa 'yo puedo cantar'. 'I can not dance' significa 'yo no puedo bailar'.",
+          "explanation_target": "'I can sing' means 'I can sing'. 'I can not dance' means 'I can not dance'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sing_verb",
+            "dance_verb",
+            "chunk_i_can",
+            "chunk_i_cant"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'can' o 'can't': 'She ____ speak English.' (Ella puede hablar inglés)",
+          "prompt_target": "Fill in with 'can' or 'can't': 'She ____ speak English.' (She can speak English)",
+          "options": null,
+          "correct_answer": "can",
+          "explanation_form": "Como ella puede hablar inglés, usamos 'can'.",
+          "explanation_target": "Because she can speak English, we use 'can'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "speak_verb",
+            "chunk_i_can"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I can't cook'?",
+          "prompt_target": "What does 'I can not cook' mean?",
+          "options": [
+            "Yo puedo cocinar",
+            "Yo no puedo cocinar",
+            "Yo quiero cocinar",
+            "Yo cocino"
+          ],
+          "correct_answer": "Yo no puedo cocinar",
+          "explanation_form": "'Can't' es la contracción de 'can not'. 'I can't cook' significa 'yo no puedo cocinar'.",
+          "explanation_target": "'Can not' is the negative form of can. 'I can not cook' means 'I cannot cook'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cook_verb",
+            "chunk_i_cant"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice 'I can draw' en español?",
+          "prompt_target": "How do you say 'I can draw' in Spanish?",
+          "options": null,
+          "correct_answer": "Yo puedo dibujar",
+          "explanation_form": "'I can draw' se traduce como 'yo puedo dibujar'.",
+          "explanation_target": "'I can draw' translates to 'yo puedo dibujar'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "draw_verb",
+            "chunk_i_can"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Can y can't: habilidad y permiso\n\n**Can** expresa habilidad (I can sing) y permiso (Can I go?). Es un verbo especial: no lleva -s en tercera persona (he can, no he cans) y no usa do/does en preguntas ni negaciones (Can you dance? / I can't cook).\n\n## Errores comunes\n\n- ✗ I can to swim → ✓ I can swim (nunca uses 'to' después de can).\n- ✗ He cans run → ✓ He can run (can no cambia con he/she/it).\n- ✗ Do you can play? → ✓ Can you play? (la pregunta ya lleva can).\n\n**Tip**: can't se pronuncia /kɑːnt/ (con 'a' larga), no /kænt/. Practica con música: 'I can sing, I can dance, I can run'.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:41:24Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

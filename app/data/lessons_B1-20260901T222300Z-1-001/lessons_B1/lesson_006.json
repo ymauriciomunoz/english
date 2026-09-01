@@ -1,0 +1,1544 @@
+{
+  "id": "lesson_006",
+  "position": 6,
+  "unit_id": 2,
+  "course_id": "en.B1",
+  "title_form": "Hablar de posibilidades cotidianas",
+  "title_target": "Talking about everyday possibilities",
+  "theme_focus": "daily life and routines",
+  "learning_objectives": [
+    "Can discuss what will happen in a familiar situation and respond to a possible problem."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_005"
+  ],
+  "grammar_focus": [
+    "First conditional for real future possibilities and unless for conditions."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "concern_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "trip"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "daily routine",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the daily life and routines situation."
+      },
+      {
+        "term": "weather",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the daily life and routines situation."
+      },
+      {
+        "term": "if it rains",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "unless",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "if + present",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "will + verb",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos planifica su rutina diaria antes de salir a trabajar, pero le preocupa que el clima afecte su viaje. Habla con su compañera sobre qué hará si llueve y evalúa diferentes alternativas de transporte. Juntos deciden cómo actuar según las condiciones del tiempo y los posibles imprevistos.",
+  "introduction_md": "En esta lección aprenderás a hablar sobre posibilidades en tu vida cotidiana y a responder ante situaciones imprevistas. Usaremos el primer condicional (**if + presente**, **will + verbo**) para expresar lo que sucederá en el futuro si se cumple una condición, así como la palabra **unless** para indicar excepciones.\n\nDurante la clase practicarás cómo planificar tu rutina diaria considerando imprevistos, como cambios en el clima o retrasos en tus trayectos.\n\nAl finalizar la lección podrás:\n- Expresar planes futuros que dependen de una condición real.\n- Utilizar **unless** para expresar \"a menos que\".\n- Hablar sobre preocupaciones y posibles soluciones en tu día a día.\n\n¡Prepárate para llevar tu conversación en inglés al siguiente nivel con situaciones prácticas y reales!",
+  "intro_target": "In this lesson, you will learn how to talk about everyday possibilities and respond to unexpected situations in daily life. We will focus on the first conditional (**if + present**, **will + verb**) to express what will happen in the future under specific conditions, as well as the word **unless** to state exceptions.\n\nThroughout this lesson, you will practice planning your daily routine while taking into account changes such as unpredictable weather or concerns during a trip.\n\nBy the end of this lesson, you will be able to:\n- Express future plans that depend on real conditions.\n- Use **unless** to describe conditions and exceptions.\n- Discuss everyday concerns and practical solutions clearly.\n\nGet ready to improve your English skills with natural and realistic everyday conversations!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "concern_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If bad weather delays your trip to work, the extra cost of a taxi will concern your family.",
+      "translation_form": "Si el mal tiempo retrasa tu viaje al trabajo, el costo adicional de un taxi preocupará a tu familia.",
+      "highlight_words": [
+        "weather",
+        "trip",
+        "concern"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We will start our trip tomorrow unless heavy rain creates a serious problem.",
+      "translation_form": "Comenzaremos nuestro viaje mañana a menos que la lluvia intensa cree un problema serio.",
+      "highlight_words": [
+        "trip",
+        "unless",
+        "rain"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If it rains tomorrow, I will stay home and clean the kitchen instead.",
+      "translation_form": "Si llueve mañana, me quedaré en casa y limpiaré la cocina en su lugar.",
+      "highlight_words": [
+        "if",
+        "rains"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The extra taxi fare will concern the passengers unless the train arrives on time.",
+      "translation_form": "La tarifa adicional del taxi preocupará a los pasajeros a menos que el tren llegue a tiempo.",
+      "highlight_words": [
+        "taxi",
+        "concern",
+        "unless"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If you prepare your bags tonight, your trip will be much more comfortable.",
+      "translation_form": "Si preparas tus maletas esta noche, tu viaje será mucho más cómodo.",
+      "highlight_words": [
+        "trip"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "First conditional for real future possibilities and unless for conditions.",
+      "title_form": "Primer condicional y uso de 'unless'",
+      "title_target": "First conditional and 'unless'",
+      "description_md_form": "Usamos el **primer condicional** para hablar de situaciones futuras reales o muy probables en nuestra vida cotidiana. Se forma combinando una condición en presente simple (**If + Present Simple**) con una consecuencia en futuro (**will + verbo base**).\n\nCuando queremos indicar una condición negativa, podemos usar la palabra **unless**, que significa *a menos que* o *a no ser que*. Es importante recordar que **unless** ya significa *if not*, por lo que el verbo dentro de esa cláusula debe ir en afirmativo.\n\nPor ejemplo, la frase *unless heavy rain creates a problem* significa que la acción ocurrirá a no ser que la lluvia intensa cree un problema. Este patrón te permite hablar de posibles dificultades en tu rutina o viaje diario.",
+      "description_md_target": "We use the **first conditional** to talk about real or likely future situations in daily life. It is formed by combining a condition in the present simple (**If + Present Simple**) with a future result (**will + base verb**).\n\nWhen we want to express a negative condition, we can use the word **unless**, which means *if not*. Because **unless** already carries a negative meaning, the verb inside that clause remains affirmative.\n\nFor instance, *unless heavy rain creates a problem* means an action will happen except if heavy rain causes trouble. This pattern helps you discuss potential concerns in your daily trip or routine.",
+      "grammar_structure": "If + Present Simple, Subject + will + Verb / Subject + will + Verb + unless + Present Simple",
+      "conjugation_table": {
+        "name": "first_conditional_structure",
+        "headers": [
+          "Conector",
+          "Condición (Presente)",
+          "Resultado (Futuro)"
+        ],
+        "rows": [
+          [
+            "If",
+            "it rains tomorrow,",
+            "I will stay home."
+          ],
+          [
+            "Unless",
+            "heavy rain creates a problem,",
+            "we will start our trip."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "First conditional for real future possibilities and unless for conditions.",
+          "text_target": "If it rains tomorrow, I will stay home and clean the kitchen instead.",
+          "translation_form": "Si llueve mañana, me quedaré en casa y limpiaré la cocina en su lugar.",
+          "highlight_words": [
+            "if",
+            "rains",
+            "will stay"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "First conditional for real future possibilities and unless for conditions.",
+          "text_target": "The extra taxi fare will concern the passengers unless the train arrives on time.",
+          "translation_form": "La tarifa adicional del taxi preocupará a los pasajeros a menos que el tren llegue a tiempo.",
+          "highlight_words": [
+            "will concern",
+            "unless",
+            "arrives"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "text_md": "No uses **will** inmediatamente después de **if** o **unless**. La condición siempre va en presente simple (ejemplo: *If it rains...*, no *If it will rain...*)."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Unless** significa *a menos que* (equivale a *if not*). Evita usar verbos en negativo justo después de **unless** para no crear una doble negación."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'will' dentro de la cláusula condicional (*If it will rain...* en lugar de *If it rains...*).",
+        "Usar una estructura negativa después de 'unless' (*unless it doesn't rain* en lugar de *unless it rains*).",
+        "Olvidar colocar la coma cuando la condición con 'If' se ubica al inicio de la oración."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa el verbo '**concern**' en español?",
+      "options": [
+        "Preocupar o incumbir",
+        "Agradecer o valorar",
+        "Construir o reparar",
+        "Celebrar o festejar"
+      ],
+      "correct_answer": "Preocupar o incumbir",
+      "explanation_md": "'Concern' significa preocupar o afectar directamente a alguien.",
+      "related_lexeme_ids": [
+        "concern_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la opción correcta para completar la oración de posibilidad futura:\n\n*If it ____ tomorrow, I will stay at home.*",
+      "options": [
+        "rains",
+        "rain",
+        "will rain",
+        "rained"
+      ],
+      "correct_answer": "rains",
+      "explanation_md": "En el primer condicional, la cláusula con 'if' usa el presente simple ('rains') para referirse a condiciones futuras.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra o expresión en inglés con su traducción al español:",
+      "options": [
+        "concern",
+        "preocupar",
+        "trip",
+        "viaje",
+        "bad weather",
+        "mal tiempo",
+        "unless",
+        "a menos que"
+      ],
+      "correct_answer": [
+        "concern=preocupar",
+        "trip=viaje",
+        "bad weather=mal tiempo",
+        "unless=a menos que"
+      ],
+      "explanation_md": "Estas palabras son clave para formular condiciones y describir situaciones cotidianas.",
+      "related_lexeme_ids": [
+        "concern_verb",
+        "trip"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la palabra condicional adecuada (**if** / **unless**):\n\n*We will start our trip tomorrow ____ heavy rain stops us.*",
+      "options": null,
+      "correct_answer": "unless",
+      "explanation_md": "Usamos 'unless' (a menos que) para indicar la condición que impediría el viaje.",
+      "related_lexeme_ids": [
+        "trip"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la forma correcta del verbo **concern**:\n\n*The extra cost of a taxi will ____ my family.*",
+      "options": null,
+      "correct_answer": "concern",
+      "explanation_md": "Tras el verbo auxiliar 'will', el verbo principal va en su forma base ('concern').",
+      "related_lexeme_ids": [
+        "concern_verb",
+        "trip"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente oración sobre una posibilidad futura:\n\n*Si llueve mañana, me quedaré en casa.*",
+      "options": null,
+      "correct_answer": "If it rains tomorrow, I will stay home.",
+      "explanation_md": "El primer condicional sigue la estructura: 'If + presente simple, sujeto + will + verbo base'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la siguiente oración:\n\n*The extra taxi fare will concern the passengers unless the train arrives on time.*",
+      "options": null,
+      "correct_answer": "La tarifa adicional del taxi preocupará a los pasajeros a menos que el tren llegue a tiempo.",
+      "explanation_md": "'Unless' equivale a 'a menos que' e introduce una condición excluyente.",
+      "related_lexeme_ids": [
+        "concern_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el siguiente texto sobre la rutina de trabajo y responde: ¿Qué hará la persona si llueve?",
+      "options": [
+        "Tomará el autobús al trabajo.",
+        "Irá caminando al trabajo.",
+        "Se quedará en casa a descansar.",
+        "Viajará en tren."
+      ],
+      "correct_answer": "Tomará el autobús al trabajo.",
+      "explanation_md": "En el texto se afirma explícitamente: 'If it rains, I will take the bus to work.'",
+      "related_lexeme_ids": [
+        "concern_verb",
+        "trip"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "My work routine depends on the weather. If it rains, I will take the bus to work. The possibility of a delay will concern the passengers, but the bus normally arrives on time. I will not walk unless the weather is lovely. A trip in bad weather is not comfortable.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el audio y responde a la pregunta: ¿Bajo qué condición detendrán su viaje?",
+      "options": [
+        "Solo si la lluvia es peligrosa.",
+        "Si el tren llega con retraso.",
+        "Si el clima está caluroso.",
+        "Tan pronto como comience a llover suavemente."
+      ],
+      "correct_answer": "Solo si la lluvia es peligrosa.",
+      "explanation_md": "El hablante expresa: 'We will not stop our trip unless the rain is dangerous' (No detendremos nuestro viaje a menos que la lluvia sea peligrosa).",
+      "related_lexeme_ids": [
+        "concern_verb",
+        "trip"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "We will start our trip early. If heavy rain starts, the extra taxi fare will concern us. We will not stop our trip unless the rain is dangerous.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "free_production",
+      "prompt_md": "Escribe 2 oraciones en inglés expresando tus planes condicionales para mañana. Usa 'if' en una oración y 'unless' en la otra.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Usa 'if + presente simple' con 'will' para posibilidades reales, y 'unless' para señalar excepciones a tus planes.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "If it rains tomorrow, I will read a book at home. I will go to the park unless the weather is bad.",
+        "If it rains tomorrow, I will take a taxi. I will walk to work unless it rains heavily."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato bilingüe en primera persona y responde: ¿Qué hará la narradora si el autobús llega tarde?\n\nRead the first-person story and answer: What will the narrator do if the bus is late?",
+      "options": [
+        "I will take a taxi.",
+        "I will walk to work.",
+        "I will stay at home.",
+        "I will call the doctor."
+      ],
+      "correct_answer": "I will take a taxi.",
+      "explanation_md": "La narradora dice 'If the bus is late, I will take a taxi'. La condición usa presente simple y el resultado usa 'will' + verbo base. / The condition uses the present simple and the result uses 'will' + base verb.",
+      "related_lexeme_ids": [
+        "concern_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I will leave home early tomorrow for a job interview. If the bus is late, I will take a taxi. The extra cost will concern my family, but I will continue unless the traffic is dangerous. If I arrive early, I will call my friend and wait at a cafe.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el diálogo bilingüe en primera persona y responde: ¿Qué hará la persona si el autobús llega tarde?\n\nListen to the first-person dialogue and answer: What will the speaker do if the bus is late?",
+      "options": [
+        "The speaker will take a taxi.",
+        "The speaker will walk home.",
+        "The speaker will wait until tomorrow.",
+        "The speaker will call the doctor."
+      ],
+      "correct_answer": "The speaker will take a taxi.",
+      "explanation_md": "La persona responde 'I will take a taxi' y después explica una excepción con 'unless'. / The speaker answers 'I will take a taxi' and then explains an exception with 'unless'.",
+      "related_lexeme_ids": [
+        "concern_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "A: The bus is late. What will you do? B: I will take a taxi. The cost will concern my family. A: Will you continue if the traffic is dangerous? B: No, I will not continue unless the road is safe.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "concern",
+      "back": "preocupar",
+      "hint": "Causar preocupación o inquietud a alguien",
+      "lexeme_id": "concern_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "trip",
+      "back": "viaje",
+      "hint": "Viaje a un lugar concreto",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "B1",
+        "travel_and_transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "occurred",
+      "back": "ocurrió / sucedió",
+      "hint": "forma en pasado de occur para describir lo que pasó",
+      "lexeme_id": "occur_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "finished",
+      "back": "terminó / terminado",
+      "hint": "forma en pasado o participio de finish para completar una tarea",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "discovered",
+      "back": "descubrió / descubrí",
+      "hint": "forma en pasado de discover al encontrar una opción nueva",
+      "lexeme_id": "discover_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_006",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "concern",
+      "reading": "",
+      "translation": "preocupar",
+      "pos": "verb",
+      "example": "If bad weather delays your trip to work, the extra cost of a taxi will concern your family.",
+      "example_translation": "Si el mal tiempo detiene tu viaje diario, el costo adicional preocupará a tu familia.",
+      "lexeme_id": "concern_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "daily routine",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction"
+      ]
+    },
+    {
+      "term": "weather",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "clima / tiempo",
+      "lexeme_id": "weather",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "if it rains",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "First conditional for real future possibilities and unless for conditions.",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "unless",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "a menos que",
+      "lexeme_id": "unless_conj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "First conditional for real future possibilities and unless for conditions.",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "if + present",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "First conditional for real future possibilities and unless for conditions."
+      ]
+    },
+    {
+      "term": "will + verb",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "First conditional for real future possibilities and unless for conditions."
+      ]
+    },
+    {
+      "term": "concern",
+      "role": "support",
+      "status": "practiced",
+      "translation": "preocupar",
+      "lexeme_id": "concern_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_003",
+        "ex_005",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "trip",
+      "role": "support",
+      "status": "review",
+      "translation": "viaje",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_008",
+        "ex_009",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "occur",
+      "role": "support",
+      "status": "review",
+      "translation": "pasar / acaecer / ocurrir",
+      "lexeme_id": "occur_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "review",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "discover",
+      "role": "support",
+      "status": "review",
+      "translation": "descubrir",
+      "lexeme_id": "discover_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "tomorrow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "taxi",
+      "role": "support",
+      "status": "emergent",
+      "translation": "taxi",
+      "lexeme_id": "taxi",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "extra",
+      "role": "support",
+      "status": "emergent",
+      "translation": "extra",
+      "lexeme_id": "extra_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_009",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "bad",
+      "role": "support",
+      "status": "emergent",
+      "translation": "malo",
+      "lexeme_id": "bad_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "arrive",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llegar",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "stay",
+      "role": "support",
+      "status": "emergent",
+      "translation": "quedarse",
+      "lexeme_id": "stay_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_001",
+        "quiz_001:q_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "cost",
+      "role": "support",
+      "status": "emergent",
+      "translation": "costar",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "instead",
+      "role": "support",
+      "status": "emergent",
+      "translation": "en lugar de",
+      "lexeme_id": "instead_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "on time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "a tiempo / puntual",
+      "lexeme_id": "on_time_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "fare",
+      "role": "support",
+      "status": "emergent",
+      "translation": "menú / dieta / comida",
+      "lexeme_id": "fare",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "heavy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fuerte / pesado",
+      "lexeme_id": "heavy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "comfortable",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cómodo / desahogado / confortable",
+      "lexeme_id": "comfortable_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "passenger",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pasajero",
+      "lexeme_id": "passenger",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "serious",
+      "role": "support",
+      "status": "emergent",
+      "translation": "serio",
+      "lexeme_id": "serious_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "bag",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bolsa",
+      "lexeme_id": "bag",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "clean",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "train",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tren",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "prepare",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preparar",
+      "lexeme_id": "prepare_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "create",
+      "role": "support",
+      "status": "emergent",
+      "translation": "crear",
+      "lexeme_id": "create",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "kitchen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocina",
+      "lexeme_id": "kitchen",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "tonight",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esta noche",
+      "lexeme_id": "tonight_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "possibility",
+      "role": "support",
+      "status": "emergent",
+      "translation": "posibilidad",
+      "lexeme_id": "possibility",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "future",
+      "role": "support",
+      "status": "emergent",
+      "translation": "futuro",
+      "lexeme_id": "future_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "condition",
+      "role": "support",
+      "status": "emergent",
+      "translation": "condición",
+      "lexeme_id": "condition",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "walk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caminar",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "bus",
+      "role": "support",
+      "status": "emergent",
+      "translation": "autobús",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 4,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "tomorrow",
+      "taxi",
+      "extra",
+      "home",
+      "bad",
+      "work",
+      "family",
+      "arrive",
+      "stay",
+      "cost",
+      "time",
+      "instead",
+      "on time",
+      "fare",
+      "heavy",
+      "comfortable",
+      "passenger",
+      "serious",
+      "bag",
+      "clean",
+      "train",
+      "prepare",
+      "create",
+      "kitchen",
+      "tonight",
+      "possibility",
+      "future",
+      "condition",
+      "take",
+      "call",
+      "walk",
+      "bus"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Hablar de posibilidades cotidianas",
+      "title_target": "Quiz: Talking about everyday possibilities",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Por qué la familia se quedará en casa según el texto?",
+          "prompt_target": "Read the text and answer: Why will the family stay at home?",
+          "options": [
+            "Porque no viajarán a menos que la lluvia pare temprano.",
+            "Porque prefieren viajar el sábado por la noche.",
+            "Porque los abuelos están de viaje.",
+            "Porque no tienen un vehículo seguro."
+          ],
+          "correct_answer": "Porque no viajarán a menos que la lluvia pare temprano.",
+          "explanation_form": "El texto explica que se quedarán en casa si el clima es malo y que no viajarán a menos que la lluvia pare temprano.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions.",
+            "concern_verb",
+            "trip"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "If the weather is bad tomorrow, we will stay at home. We will not travel unless the rain stops early. This decision concerns my family because we plan to visit our grandparents in the country. If we wait until Sunday, the trip will be safer for everyone.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué le pasará al paciente si no descansa en casa según el audio?",
+          "prompt_target": "Listen to the audio and answer: What will happen to the patient if they do not rest at home?",
+          "options": [
+            "No se recuperará.",
+            "Se recuperará rápido.",
+            "Llamará al médico mañana.",
+            "Viajará inmediatamente."
+          ],
+          "correct_answer": "No se recuperará.",
+          "explanation_form": "En el audio se afirma: 'You will not recover unless you rest at home'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions.",
+            "concern_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "If you do not call the doctor today, your illness will get worse. The doctor concerns himself with your health. You will not recover unless you rest at home.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué ocurrirá si no terminan el proyecto hoy?",
+          "prompt_target": "Listen to the audio and answer: What will happen if they do not finish the project today?",
+          "options": [
+            "El gerente se enojará.",
+            "El cliente visitará la oficina.",
+            "Los trabajadores irán a casa.",
+            "El problema desaparecerá solo."
+          ],
+          "correct_answer": "El gerente se enojará.",
+          "explanation_form": "El audio indica claramente: 'If we do not finish the project today, the manager will be angry'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions.",
+            "concern_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "This problem concerns all workers in our office. If we do not finish the project today, the manager will be angry. We will lose the client unless we work fast.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "matching",
+          "prompt_form": "Empareja cada expresión en inglés con su significado en español:",
+          "prompt_target": "Match each English expression with its Spanish meaning:",
+          "options": [
+            "unless",
+            "a menos que",
+            "if you study",
+            "si estudias",
+            "this concerns me",
+            "esto me preocupa",
+            "a safe trip",
+            "un viaje seguro"
+          ],
+          "correct_answer": [
+            "unless=a menos que",
+            "if you study=si estudias",
+            "this concerns me=esto me preocupa",
+            "a safe trip=un viaje seguro"
+          ],
+          "explanation_form": "Cada par conecta el término en inglés con su traducción o equivalente correcto.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions.",
+            "concern_verb",
+            "trip"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración condicional correcta:",
+          "prompt_target": "Order the words to form a correct conditional sentence:",
+          "options": [
+            "You",
+            "will",
+            "fail",
+            "unless",
+            "you",
+            "study",
+            "hard."
+          ],
+          "correct_answer": "You will fail unless you study hard.",
+          "explanation_form": "La estructura condicional con 'unless' une el resultado futuro con la condición ('a menos que').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "Elige la palabra adecuada para completar la oración: '____ you call him, he will not know the news.'",
+          "prompt_target": "Choose the correct word to complete the sentence: '____ you call him, he will not know the news.'",
+          "options": [
+            "Unless",
+            "If",
+            "Because",
+            "Until"
+          ],
+          "correct_answer": "Unless",
+          "explanation_form": "Usamos 'Unless' para expresar 'A menos que lo llames, no sabrá la noticia'.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Escribe el verbo adecuado en la oración: 'Safety rules ____ all employees in the factory.'",
+          "prompt_target": "Write the correct verb in the sentence: 'Safety rules ____ all employees in the factory.'",
+          "options": null,
+          "correct_answer": "concern",
+          "explanation_form": "El sujeto 'Safety rules' requiere la forma plural del verbo en presente simple: 'concern' (afectan/incumben).",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "concern_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce al español la oración: 'If it rains tomorrow, we will stay at home.'",
+          "prompt_target": "Translate the sentence into Spanish: 'If it rains tomorrow, we will stay at home.'",
+          "options": null,
+          "correct_answer": "Si llueve mañana, nos quedaremos en casa.",
+          "explanation_form": "'If it rains' se traduce como 'Si llueve', seguido del resultado en futuro 'nos quedaremos en casa'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés la oración: 'No viajaré a menos que me ayudes.'",
+          "prompt_target": "Translate the sentence into English: 'No viajaré a menos que me ayudes.'",
+          "options": null,
+          "correct_answer": "I will not travel unless you help me.",
+          "explanation_form": "Usamos 'I will not travel' para el resultado negativo y 'unless you help me' para la condición con 'a menos que'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato en primera persona: ¿Qué hará la narradora si el autobús está lleno?",
+          "prompt_target": "Read the first-person story: What will the narrator do if the bus is full?",
+          "options": [
+            "She will wait for the next bus.",
+            "She will stay at home all day.",
+            "She will call the doctor.",
+            "She will stop the traffic."
+          ],
+          "correct_answer": "She will wait for the next bus.",
+          "explanation_form": "El relato dice 'If the bus is full, I will wait for the next one'. La condición va en presente simple y el resultado lleva 'will'.",
+          "explanation_target": "The story says 'If the bus is full, I will wait for the next one'. The condition uses the present simple and the result uses 'will'.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I have a busy morning tomorrow. If I leave late, I will take the bus instead of walking. I will call my friend when I arrive, unless the traffic is dangerous. If the bus is full, I will wait for the next one.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el diálogo en primera persona: ¿Qué hará la persona si empieza a llover?",
+          "prompt_target": "Listen to the first-person dialogue: What will the speaker do if it starts to rain?",
+          "options": [
+            "The speaker will stay home.",
+            "The speaker will go to the park.",
+            "The speaker will call the doctor.",
+            "The speaker will take a taxi."
+          ],
+          "correct_answer": "The speaker will stay home.",
+          "explanation_form": "La persona dice 'I will stay home if the rain starts', una decisión futura expresada con 'will' después de la condición.",
+          "explanation_target": "The speaker says 'I will stay home if the rain starts', a future decision expressed with 'will' after the condition.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "First conditional for real future possibilities and unless for conditions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "A: The weather is bad. Will you go to the park? B: I will stay home if the rain starts. I will call our friend unless the phone is busy. If the rain stops, I will walk to the cafe.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El primer condicional y el uso de \"unless\"\n\nUsamos el **primer condicional** para hablar de situaciones reales o probables en el futuro. La regla de oro es: la condición va en presente simple y el resultado en futuro con *will* (*If you study, you will pass*).\n\nPara expresar la condición en negativo, usá **unless** (\"a menos que\" o \"a no ser que\"). Tené en cuenta que *unless* ya incluye la negación, por lo que el verbo que le sigue debe ir en afirmativo:\n- **Correcto:** *Unless it rains, we will go out.* (A menos que llueva, saldremos).\n- **Incorrecto:** ✗ *Unless it doesn't rain...*\n\n## Cómo usar el verbo \"concern\"\n\nEl verbo **concern** se utiliza para expresar que algo te preocupa o afecta. Podés usarlo de dos maneras principales:\n- Como verbo activo: *This situation concerns me.* (Esta situación me preocupa).\n- Con la estructura *to be concerned about*: *I am concerned about the trip.* (Estoy preocupado por el viaje).\n\nRecordá combinar siempre *concerned* con la preposición **about** cuando hables de la causa de tu preocupación.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:24:33Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

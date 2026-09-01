@@ -1,4 +1,4 @@
-import type { A1Activity, A1CourseEntry, A1QuizQuestion, LessonAnswer } from "../../a1-expanded-course";
+import type { CourseCatalogEntry, CourseEntry, LessonActivity, LessonAnswer, LessonQuizQuestion } from "../../course-content";
 
 export function cleanMarkdown(value?: string | null) {
   return (value ?? "")
@@ -37,7 +37,7 @@ export function uniqueLabels(values: string[]) {
   return [...labels.values()];
 }
 
-export function getPrerequisiteLabels(entry: A1CourseEntry, courseEntries: A1CourseEntry[]) {
+export function getPrerequisiteLabels(entry: CourseEntry, courseEntries: CourseCatalogEntry[]) {
   const prerequisites = [...new Set([...entry.prerequisites, ...entry.content.prerequisites])];
   const titles = new Map(courseEntries.map((courseEntry) => [courseEntry.id, courseEntry.title_target]));
   return prerequisites.map((id) => titles.get(id) ?? fallbackLessonLabel(id));
@@ -131,7 +131,7 @@ function deterministicShuffle(values: string[], seedValue: string) {
   return shuffled;
 }
 
-export function distributeCorrectOption(options: string[], item: A1Activity | A1QuizQuestion) {
+export function distributeCorrectOption(options: string[], item: LessonActivity | LessonQuizQuestion) {
   if (options.length < 2 || Array.isArray(item.correct_answer)) return options;
   const correctIndex = options.findIndex((option) => normalizeAnswer(option) === normalizeAnswer(item.correct_answer));
   if (correctIndex < 0) return options;

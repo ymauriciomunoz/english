@@ -1,0 +1,1937 @@
+{
+  "id": "lesson_007",
+  "position": 7,
+  "unit_id": 3,
+  "course_id": "en.B2",
+  "title_form": "Reporting what was decided in a meeting",
+  "title_target": "Reporting what was decided in a meeting",
+  "theme_focus": "work",
+  "learning_objectives": [
+    "Can summarize the decisions and agreed actions from a meeting in a professional email.",
+    "Can use the past simple passive to report what was decided and assigned.",
+    "Can use the present simple passive to state scheduled facts about a project."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_006"
+  ],
+  "grammar_focus": [
+    "passive voice: present and past simple passive for reporting decisions"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "accountant",
+        "management",
+        "take_over_verb_2"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "come_up_with_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "decision",
+        "role": "topic",
+        "rationale": "Core concept for reporting meeting outcomes."
+      },
+      {
+        "term": "action item",
+        "role": "topic",
+        "rationale": "Specific task agreed upon in a meeting."
+      },
+      {
+        "term": "meeting",
+        "role": "topic",
+        "rationale": "The context of the communication."
+      },
+      {
+        "term": "project",
+        "role": "topic",
+        "rationale": "The overarching work being discussed."
+      },
+      {
+        "term": "deadline",
+        "role": "topic",
+        "rationale": "Key detail for action items."
+      },
+      {
+        "term": "summarize",
+        "role": "functional",
+        "rationale": "The main communicative function of the task."
+      },
+      {
+        "term": "report",
+        "role": "functional",
+        "rationale": "To formally communicate the decisions."
+      },
+      {
+        "term": "was decided",
+        "role": "grammar_support",
+        "rationale": "Past simple passive to report the decision."
+      },
+      {
+        "term": "is scheduled",
+        "role": "grammar_support",
+        "rationale": "Present simple passive to state a fact about the plan."
+      },
+      {
+        "term": "was assigned",
+        "role": "grammar_support",
+        "rationale": "Past simple passive to report who was given a task."
+      },
+      {
+        "term": "accountant",
+        "role": "topic",
+        "rationale": "The financial role involved in the project follow-up."
+      },
+      {
+        "term": "management",
+        "role": "topic",
+        "rationale": "The decision-making group receiving the follow-up."
+      },
+      {
+        "term": "take over",
+        "role": "functional",
+        "rationale": "A phrase for transferring responsibility for an action."
+      }
+    ]
+  },
+  "scenario": "Sofía trabaja en una empresa. Su equipo tuvo una reunión con el management para planear un proyecto. Ahora, Sofía debe escribir un correo para reportar lo que se decidió: las tareas asignadas, las fechas límite y quién tomará el control del proyecto. En el camino, practicará la voz pasiva y el vocabulario clave.",
+  "introduction_md": "## Reporting what was decided in a meeting\n\nDespués de una reunión, necesitamos comunicar lo que se decidió. En inglés, usamos la **voz pasiva** para enfocar la acción, no quién la hizo. Esto es muy común en correos profesionales.\n\nEn esta lección aprenderás a:\n\n- **Resumir decisiones** con el pasado simple pasivo: *It was decided...*\n- **Reportar tareas asignadas**: *The report was assigned to...*\n- **Describir hechos del proyecto** con el presente simple pasivo: *The meeting is scheduled for...*\n\nVeremos vocabulario clave como *accountant*, *management* y *take over*. Practicarás con un escenario real: un proyecto con fechas límite y responsabilidades claras.\n\nAl final, podrás escribir un correo breve y profesional que resuma los acuerdos de una reunión. ¡Empecemos!",
+  "intro_target": "## Reporting what was decided in a meeting\n\nAfter a meeting, we need to communicate what was decided. In English, we use the **passive voice** to focus on the action, not on who did it. This is very common in professional emails.\n\nIn this lesson, you will learn to:\n\n- **Summarize decisions** with the past simple passive: *It was decided...*\n- **Report assigned tasks**: *The report was assigned to...*\n- **Describe project facts** with the present simple passive: *The meeting is scheduled for...*\n\nWe will cover key vocabulary like *accountant*, *management*, and *take over*. You will practice with a real scenario: a project with deadlines and clear responsibilities.\n\nBy the end, you will be able to write a short, professional email that summarizes the agreements from a meeting. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "take_over_verb_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "At the meeting, it was decided that Sarah would take over the project from next month.",
+      "translation_form": "En la reunión, se decidió que Sarah asumiría el control del proyecto a partir del próximo mes.",
+      "highlight_words": [
+        "take over"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "management",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The new policy was approved by management after a long discussion about the budget.",
+      "translation_form": "La nueva política fue aprobada por la gestión después de una larga discusión sobre el presupuesto.",
+      "highlight_words": [
+        "management"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "accountant",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Our accountant was assigned the task of preparing the financial report for the meeting.",
+      "translation_form": "A nuestro contador se le asignó la tarea de preparar el informe financiero para la reunión.",
+      "highlight_words": [
+        "accountant"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "take_over_verb_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It was announced that the new manager would take over the department immediately.",
+      "translation_form": "Se anunció que el nuevo gerente asumiría el control del departamento de inmediato.",
+      "highlight_words": [
+        "take over"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "management",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The decision was made by management to reduce the number of meetings each week.",
+      "translation_form": "La decisión fue tomada por la gestión de reducir el número de reuniones cada semana.",
+      "highlight_words": [
+        "management"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "accountant",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The accountant was asked to come up with a better way to track our expenses.",
+      "translation_form": "Se le pidió al contador que ideara una mejor manera de rastrear nuestros gastos.",
+      "highlight_words": [
+        "accountant"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "passive voice: present and past simple passive for reporting decisions",
+      "title_form": "Voz pasiva: presente y pasado simple para reportar decisiones",
+      "title_target": "Passive voice: present and past simple for reporting decisions",
+      "description_md_form": "La **voz pasiva** se usa para enfocar la acción o el resultado, no quién la realiza. Es perfecta para reportar decisiones de una reunión de forma profesional y objetiva.\n\n**Pasado simple pasivo** (para reportar lo que se decidió o asignó):\n- **was/were + participio pasado**\n- *It was decided that Sarah would take over the project.* (Se decidió que Sarah asumiría el control del proyecto.)\n- *The task was assigned to our accountant.* (La tarea fue asignada a nuestro contador.)\n\n**Presente simple pasivo** (para hechos programados del proyecto):\n- **am/is/are + participio pasado**\n- *The meeting is scheduled for Monday.* (La reunión está programada para el lunes.)\n- *The report is prepared by management.* (El informe es preparado por la gestión.)\n\n**¿Cuándo usar cada uno?**\n- **Pasado** → decisiones y acciones ya tomadas en la reunión.\n- **Presente** → hechos actuales o programados del proyecto.\n\n**Estructura clave:**\n- **Sujeto + was/were/is/are + participio pasado**\n- *The decision was made by management.* (La decisión fue tomada por la gestión.)",
+      "description_md_target": "The **passive voice** focuses on the action or result, not who performs it. It is perfect for reporting meeting decisions professionally and objectively.\n\n**Past simple passive** (to report what was decided or assigned):\n- **was/were + past participle**\n- *It was decided that Sarah would take over the project.*\n- *The task was assigned to our accountant.*\n\n**Present simple passive** (to state scheduled facts about the project):\n- **am/is/are + past participle**\n- *The meeting is scheduled for Monday.*\n- *The report is prepared by management.*\n\n**When to use each?**\n- **Past** → decisions and actions already taken in the meeting.\n- **Present** → current or scheduled facts about the project.\n\n**Key structure:**\n- **Subject + was/were/is/are + past participle**\n- *The decision was made by management.*",
+      "grammar_structure": "Subject + was/were/is/are + past participle (+ by + agent)",
+      "conjugation_table": {
+        "name": "passive_voice_present_past",
+        "headers": [
+          "Tiempo",
+          "Sujeto",
+          "Verbo to be",
+          "Participio",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Presente",
+            "The meeting",
+            "is",
+            "scheduled",
+            "The meeting is scheduled."
+          ],
+          [
+            "Presente",
+            "The report",
+            "is",
+            "prepared",
+            "The report is prepared."
+          ],
+          [
+            "Pasado",
+            "The decision",
+            "was",
+            "made",
+            "The decision was made."
+          ],
+          [
+            "Pasado",
+            "The task",
+            "was",
+            "assigned",
+            "The task was assigned."
+          ],
+          [
+            "Pasado",
+            "The decisions",
+            "were",
+            "approved",
+            "The decisions were approved."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "passive voice: present and past simple passive for reporting decisions",
+          "text_target": "It was decided that Sarah would take over the project from next month.",
+          "translation_form": "Se decidió que Sarah asumiría el control del proyecto a partir del próximo mes.",
+          "highlight_words": [
+            "was",
+            "decided",
+            "take",
+            "over"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "passive voice: present and past simple passive for reporting decisions",
+          "text_target": "The new policy was approved by management after a long discussion about the budget.",
+          "translation_form": "La nueva política fue aprobada por la gestión después de una larga discusión sobre el presupuesto.",
+          "highlight_words": [
+            "was",
+            "approved",
+            "management"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Usa la voz pasiva para sonar más profesional.** En reuniones de trabajo, es más común decir *It was decided that...* que *They decided that...*. La pasiva pone el foco en la decisión, no en la persona."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado con el participio pasado.** No uses el infinitivo después de *was/were/is/are*. Es *was decided*, NO *was decide*. El participio de *take over* es *taken over*: *was taken over*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No confundas presente y pasado.** Usa *is scheduled* para hechos actuales o futuros programados, y *was decided* para decisiones ya tomadas en la reunión. *The meeting is scheduled* (hecho) vs. *The meeting was scheduled* (acción pasada)."
+        }
+      ],
+      "common_errors_es": [
+        "Usar el infinitivo en lugar del participio: *was decide* en vez de *was decided*.",
+        "Confundir *was* (singular) con *were* (plural): *The decisions was approved* en vez de *The decisions were approved*.",
+        "Olvidar el verbo *to be*: *The decision made* en vez de *The decision was made*.",
+        "Usar la voz activa cuando la pasiva es más natural para reportar: *They decided* en vez de *It was decided*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'accountant'?",
+      "options": [
+        "contador",
+        "gerente",
+        "abogado",
+        "vendedor"
+      ],
+      "correct_answer": "contador",
+      "explanation_md": "Un accountant es la persona que maneja las finanzas y los números de una empresa.",
+      "related_lexeme_ids": [
+        "accountant"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'management'?",
+      "options": [
+        "la gestión / la dirección",
+        "el equipo de ventas",
+        "el departamento legal",
+        "la oficina de correos"
+      ],
+      "correct_answer": "la gestión / la dirección",
+      "explanation_md": "Management se refiere al grupo de personas que dirige y toma decisiones en una empresa.",
+      "related_lexeme_ids": [
+        "management"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'take over'?",
+      "options": [
+        "asumir el control / hacerse cargo",
+        "dar un paso atrás",
+        "revisar un documento",
+        "cancelar una reunión"
+      ],
+      "correct_answer": "asumir el control / hacerse cargo",
+      "explanation_md": "Take over significa tomar la responsabilidad o el control de algo, como un proyecto o un puesto.",
+      "related_lexeme_ids": [
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración con la forma correcta de la voz pasiva: 'The report ___ by the accountant last Friday.'",
+      "options": [
+        "was prepared",
+        "is prepared",
+        "prepared",
+        "was preparing"
+      ],
+      "correct_answer": "was prepared",
+      "explanation_md": "Para reportar una acción pasada sin decir quién la hizo, usamos 'was/were' + participio pasado. Aquí: 'was prepared'.",
+      "related_lexeme_ids": [
+        "accountant"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma pasiva correcta de 'Management approved the new policy'?",
+      "options": [
+        "The new policy was approved by management.",
+        "The new policy approved management.",
+        "Management was approved by the policy.",
+        "The new policy is approved by management."
+      ],
+      "correct_answer": "The new policy was approved by management.",
+      "explanation_md": "En la voz pasiva, el objeto de la oración activa ('the new policy') se convierte en el sujeto, y el verbo cambia a 'was/were' + participio.",
+      "related_lexeme_ids": [
+        "management"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la forma pasiva correcta del verbo entre paréntesis: 'It ___ (decide) that Sarah would take over the project.'",
+      "options": null,
+      "correct_answer": "was decided",
+      "explanation_md": "Usamos 'it was decided' para reportar una decisión de manera impersonal, sin especificar quién la tomó.",
+      "related_lexeme_ids": [
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la forma pasiva correcta: 'The meeting ___ (schedule) for Monday at 10.'",
+      "options": null,
+      "correct_answer": "is scheduled",
+      "explanation_md": "Para expresar un hecho o plan actual, usamos el presente simple pasivo: 'is scheduled'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "accountant",
+        "contador",
+        "management",
+        "la gestión",
+        "take over",
+        "asumir el control",
+        "deadline",
+        "fecha límite"
+      ],
+      "correct_answer": [
+        "accountant=contador",
+        "management=la gestión",
+        "take over=asumir el control",
+        "deadline=fecha límite"
+      ],
+      "explanation_md": "Estas son las palabras clave de la lección para reportar decisiones de una reunión.",
+      "related_lexeme_ids": [
+        "accountant",
+        "management",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Se decidió que el contador asumiría el control del proyecto.'",
+      "options": null,
+      "correct_answer": "It was decided that the accountant would take over the project.",
+      "explanation_md": "Usamos 'it was decided that' + sujeto + 'would' + verbo para reportar una decisión pasada.",
+      "related_lexeme_ids": [
+        "accountant",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'The new policy was approved by management.'",
+      "options": null,
+      "correct_answer": "La nueva política fue aprobada por la gestión.",
+      "explanation_md": "En español, la voz pasiva se forma con 'ser' + participio, igual que en inglés.",
+      "related_lexeme_ids": [
+        "management"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Quién fue asignado para preparar el informe financiero?",
+      "options": [
+        "The manager",
+        "The accountant",
+        "The team",
+        "The management"
+      ],
+      "correct_answer": "The accountant",
+      "explanation_md": "El texto dice: 'The accountant was assigned the task of preparing the financial report.'",
+      "related_lexeme_ids": [
+        "accountant",
+        "management",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Last week, the management team held a meeting to discuss the new project. It was decided that the project would start in March. The accountant was assigned the task of preparing the financial report. It was also announced that the deadline for the report is the 15th of the month. The team agreed that the report must be ready before the next meeting. The management also decided that a new manager would take over the project from the current one. Everyone was informed about the new schedule. The meeting was considered a success because all the important decisions were made quickly.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué se decidió sobre el nuevo gerente?",
+      "options": [
+        "He would start next month.",
+        "He would take over the department immediately.",
+        "He would work with the accountant.",
+        "He would change the budget."
+      ],
+      "correct_answer": "He would take over the department immediately.",
+      "explanation_md": "El texto dice: 'It was decided that the new manager would take over the department immediately.'",
+      "related_lexeme_ids": [
+        "management",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "In the meeting, the team discussed the future of the department. It was decided that the new manager would take over the department immediately. The management believed this was the best decision for the company. The accountant was asked to check the budget for the next year. It was also announced that the project deadline was moved to December. The team was happy with the new plan. Everyone agreed that the meeting was productive and that the decisions were clear. The next meeting is scheduled for next month.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué la reunión fue considerada un éxito?",
+      "options": [
+        "Because it was short.",
+        "Because all the important decisions were made quickly.",
+        "Because the accountant was there.",
+        "Because the project started in April."
+      ],
+      "correct_answer": "Because all the important decisions were made quickly.",
+      "explanation_md": "El texto dice: 'The meeting was considered a success because all the important decisions were made quickly.'",
+      "related_lexeme_ids": [
+        "accountant",
+        "management"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "The team met to discuss the new project. The management wanted to make quick decisions. It was decided that the project would start in April. The accountant was assigned to prepare the budget. It was also decided that the deadline for the first part is the end of May. The team agreed that the plan was clear. The meeting was considered a success because all the important decisions were made quickly. The next meeting is scheduled for next week. Everyone was informed about the new schedule.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué se decidió sobre el proyecto?",
+      "options": [
+        "Sarah would leave the project.",
+        "Sarah would take over the project.",
+        "The project was cancelled.",
+        "The deadline was moved to December."
+      ],
+      "correct_answer": "Sarah would take over the project.",
+      "explanation_md": "El audio dice: 'it was decided that Sarah would take over the project.'",
+      "related_lexeme_ids": [
+        "take_over_verb_2",
+        "management",
+        "accountant"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "At the meeting, it was decided that Sarah would take over the project. The management also decided that the deadline is next month. The accountant was assigned to check the budget. Everyone agreed with the plan.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cuándo está programada la próxima reunión?",
+      "options": [
+        "Friday at 10",
+        "Monday at 10",
+        "Tuesday at 10",
+        "Monday at 11"
+      ],
+      "correct_answer": "Monday at 10",
+      "explanation_md": "El audio dice: 'The next meeting is scheduled for Monday at 10.'",
+      "related_lexeme_ids": [
+        "management",
+        "accountant"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The new policy was approved by management. The accountant was asked to prepare the financial report. The next meeting is scheduled for Monday at 10. It was announced that the project deadline is the 15th.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_016",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Quién fue asignado para preparar el informe?",
+      "options": [
+        "The manager",
+        "The team",
+        "The accountant",
+        "The management"
+      ],
+      "correct_answer": "The accountant",
+      "explanation_md": "El audio dice: 'The accountant was assigned the task of preparing the financial report.'",
+      "related_lexeme_ids": [
+        "accountant",
+        "management"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "It was decided that the project would start in March. The accountant was assigned the task of preparing the financial report. The management announced that the deadline is the end of the month. The team was informed about the new schedule.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_017",
+      "kind": "free_production",
+      "prompt_md": "Imaginá que terminaste una reunión de trabajo. Escribí 2-3 oraciones reportando lo que se decidió, usando la voz pasiva (por ejemplo: 'It was decided that...', 'The report was assigned to...').",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de la voz pasiva en pasado y presente para reportar decisiones.",
+      "related_lexeme_ids": [
+        "accountant",
+        "management",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "It was decided that the project would start next month.",
+        "The accountant was assigned to prepare the budget.",
+        "The deadline was moved to December."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_018",
+      "kind": "free_production",
+      "prompt_md": "En una reunión, se decidió que un nuevo gerente asumiría el control del departamento. Escribí 2 oraciones reportando esta decisión y una consecuencia, usando la voz pasiva.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'take over' y la voz pasiva para reportar decisiones y sus consecuencias.",
+      "related_lexeme_ids": [
+        "management",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "It was announced that the new manager would take over the department.",
+        "The management decided that the project deadline would be moved."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "accountant",
+      "back": "contador / contadora",
+      "hint": "persona que maneja las finanzas",
+      "lexeme_id": "accountant",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "management",
+      "back": "gestión",
+      "hint": "el grupo que toma decisiones",
+      "lexeme_id": "management",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "take over",
+      "back": "asumir el control",
+      "hint": "tomar responsabilidad de algo",
+      "lexeme_id": "take_over_verb_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "come up with",
+      "back": "idear, proponer",
+      "hint": "pensar en una solución",
+      "lexeme_id": "come_up_with_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "was decided",
+      "back": "se decidió",
+      "hint": "pasado simple pasivo",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "was decided",
+      "tags": [
+        "lesson_007",
+        "B2",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "is scheduled",
+      "back": "está programado",
+      "hint": "presente simple pasivo",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "is scheduled",
+      "tags": [
+        "lesson_007",
+        "B2",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "was assigned",
+      "back": "fue asignado",
+      "hint": "pasado simple pasivo",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "was assigned",
+      "tags": [
+        "lesson_007",
+        "B2",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "action item",
+      "back": "tarea concreta acordada",
+      "hint": "tarea específica de una reunión",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "action item",
+      "tags": [
+        "lesson_007",
+        "B2",
+        "topic"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "accountant",
+      "reading": "",
+      "translation": "contador / contadora",
+      "pos": "noun",
+      "example": "Our accountant was assigned the task of preparing the financial report for the meeting.",
+      "example_translation": "A nuestro contador se le asignó la tarea de preparar el informe financiero para la reunión.",
+      "lexeme_id": "accountant",
+      "chunk_id": null
+    },
+    {
+      "target_word": "management",
+      "reading": "",
+      "translation": "gestión",
+      "pos": "noun",
+      "example": "The new policy was approved by management after a long discussion about the budget.",
+      "example_translation": "La nueva política fue aprobada por la gestión después de una larga discusión sobre el presupuesto.",
+      "lexeme_id": "management",
+      "chunk_id": null
+    },
+    {
+      "target_word": "take over",
+      "reading": "",
+      "translation": "asumir el control",
+      "pos": "verb",
+      "example": "At the meeting, it was decided that Sarah would take over the project from next month.",
+      "example_translation": "En la reunión, se decidió que Sarah asumiría el control del proyecto a partir del próximo mes.",
+      "lexeme_id": "take_over_verb_2",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "decision",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "decisión",
+      "lexeme_id": "decision",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_005",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "action item",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "ex_018",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "deadline",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "fecha límite",
+      "lexeme_id": "deadline",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "ex_018"
+      ]
+    },
+    {
+      "term": "summarize",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction"
+      ]
+    },
+    {
+      "term": "report",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_011",
+        "ex_015",
+        "ex_016",
+        "quiz_001:q_001",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "was decided",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_016",
+        "ex_017",
+        "fc_005",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "is scheduled",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "was assigned",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "ex_016",
+        "ex_017",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "accountant",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "contador / contadora",
+      "lexeme_id": "accountant",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "exm_006",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_001",
+        "ex_004",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "fc_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "management",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "gestión",
+      "lexeme_id": "management",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_005",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_002",
+        "ex_005",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "ex_018",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "take over",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "asumir el control",
+      "lexeme_id": "take_over_verb_2",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "passive voice: present and past simple passive for reporting decisions",
+        "ex_003",
+        "ex_006",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "ex_017",
+        "ex_018",
+        "fc_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "come up with",
+      "role": "support",
+      "status": "review",
+      "translation": "idear / proponer",
+      "lexeme_id": "come_up_with_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "take over",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "ex_018",
+        "fc_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "come",
+      "role": "support",
+      "status": "emergent",
+      "translation": "venir",
+      "lexeme_id": "come_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "budget",
+      "role": "support",
+      "status": "emergent",
+      "translation": "presupuesto",
+      "lexeme_id": "budget",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_017",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_012",
+        "ex_015",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "ex_012",
+        "ex_018",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "prepare",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preparar",
+      "lexeme_id": "prepare_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_013",
+        "ex_015",
+        "ex_016",
+        "ex_017"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "immediately",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora / enseguida / directamente",
+      "lexeme_id": "immediately_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "policy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "político",
+      "lexeme_id": "policy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_015",
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "financial",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fiscal / financiera / financiero",
+      "lexeme_id": "financial_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_015",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "department",
+      "role": "support",
+      "status": "emergent",
+      "translation": "departamento",
+      "lexeme_id": "department",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012",
+        "ex_018"
+      ]
+    },
+    {
+      "term": "task",
+      "role": "support",
+      "status": "emergent",
+      "translation": "faena / labor / tarea",
+      "lexeme_id": "task",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "discussion",
+      "role": "support",
+      "status": "emergent",
+      "translation": "discusión",
+      "lexeme_id": "discussion",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "better",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mejor",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "track",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pista / rastrear",
+      "lexeme_id": "track",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "way",
+      "role": "support",
+      "status": "emergent",
+      "translation": "manera / camino",
+      "lexeme_id": "way",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "reduce",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reducir",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "expense",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gasto",
+      "lexeme_id": "expense",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_016",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "inform",
+      "role": "support",
+      "status": "emergent",
+      "translation": "avisar / advertir / anunciar",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013",
+        "ex_016",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "discuss",
+      "role": "support",
+      "status": "emergent",
+      "translation": "discutir / hablar de",
+      "lexeme_id": "discuss_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "agree",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "plan",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planear",
+      "lexeme_id": "plan_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "consider",
+      "role": "support",
+      "status": "emergent",
+      "translation": "considerar",
+      "lexeme_id": "consider_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "company",
+      "role": "support",
+      "status": "emergent",
+      "translation": "empresa / compañía",
+      "lexeme_id": "company",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "success",
+      "role": "support",
+      "status": "emergent",
+      "translation": "éxito",
+      "lexeme_id": "success",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "believe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "creer",
+      "lexeme_id": "believe_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "make",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer / fabricar",
+      "lexeme_id": "make_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "read",
+      "role": "support",
+      "status": "emergent",
+      "translation": "leer",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "important",
+      "role": "support",
+      "status": "emergent",
+      "translation": "importante",
+      "lexeme_id": "important_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "idea",
+      "role": "support",
+      "status": "emergent",
+      "translation": "idea",
+      "lexeme_id": "idea",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 13,
+    "lexical_target_count": 10,
+    "covered_lexical_target_count": 10,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 1,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "take over",
+      "come",
+      "budget",
+      "ask",
+      "manager",
+      "prepare",
+      "week",
+      "immediately",
+      "policy",
+      "financial",
+      "department",
+      "task",
+      "discussion",
+      "better",
+      "track",
+      "way",
+      "reduce",
+      "expense",
+      "team",
+      "inform",
+      "discuss",
+      "agree",
+      "plan",
+      "consider",
+      "company",
+      "success",
+      "believe",
+      "make",
+      "read",
+      "important",
+      "check",
+      "idea"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Reporting what was decided in a meeting",
+      "title_target": "Quiz: Reporting what was decided in a meeting",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del pasivo para reportar la decisión?",
+          "prompt_target": "Which is the correct passive form to report the decision?",
+          "options": [
+            "The decision was made by the management.",
+            "The decision was make by the management.",
+            "The decision were made by the management.",
+            "The decision is made by the management."
+          ],
+          "correct_answer": "The decision was made by the management.",
+          "explanation_form": "En pasado simple pasivo usamos 'was/were + participio pasado'. 'Decision' es singular, así que usamos 'was made'.",
+          "explanation_target": "In the past simple passive we use 'was/were + past participle'. 'Decision' is singular, so we use 'was made'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "passive_voice_present_past_simple",
+            "management"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'The new policy ____ by the accountant.' (was approved / were approved)",
+          "prompt_target": "Fill in the blank: 'The new policy ____ by the accountant.' (was approved / were approved)",
+          "options": null,
+          "correct_answer": "was approved",
+          "explanation_form": "Usamos 'was' porque 'policy' es singular. El pasivo en pasado simple es 'was/were + participio pasado'.",
+          "explanation_target": "We use 'was' because 'policy' is singular. The past simple passive is 'was/were + past participle'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "accountant",
+            "passive_voice_present_past_simple"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta en pasivo:",
+          "prompt_target": "Order the words to form a correct passive sentence:",
+          "options": [
+            "was",
+            "the",
+            "meeting",
+            "by",
+            "the",
+            "manager",
+            "organized"
+          ],
+          "correct_answer": "The meeting was organized by the manager.",
+          "explanation_form": "En pasivo, el objeto de la acción activa se convierte en sujeto: 'The meeting was organized by the manager.'",
+          "explanation_target": "In the passive, the object of the active action becomes the subject: 'The meeting was organized by the manager.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "management",
+            "passive_voice_present_past_simple"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué decisión tomó el equipo sobre el proyecto?",
+          "prompt_target": "Read the text and answer: What decision did the team make about the project?",
+          "options": [
+            "The project was cancelled.",
+            "The project was taken over by a new manager.",
+            "The budget was increased.",
+            "The meeting was postponed."
+          ],
+          "correct_answer": "The project was taken over by a new manager.",
+          "explanation_form": "El texto dice: 'it was decided that the project would be taken over by a new manager'.",
+          "explanation_target": "The text says: 'it was decided that the project would be taken over by a new manager'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "take_over_verb_2",
+            "management",
+            "accountant",
+            "passive_voice_present_past_simple"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Last week, the management team held a meeting to discuss the new project. The accountant was asked to review the budget carefully. During the meeting, several ideas were presented by different members. After a long discussion, it was decided that the project would be taken over by a new manager. The decision was made because the current manager had too many responsibilities. The team also agreed that the budget would be reviewed again next month. Everyone was satisfied with the final decision, and the new manager was informed immediately. The project is expected to start in two weeks.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué fue aprobado por el contador?",
+          "prompt_target": "Listen and answer: What was approved by the accountant?",
+          "options": [
+            "The new budget",
+            "The new manager",
+            "The new project",
+            "The new report"
+          ],
+          "correct_answer": "The new budget",
+          "explanation_form": "El transcript dice: 'The budget was approved by the management'.",
+          "explanation_target": "The transcript says: 'The budget was approved by the management'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "accountant",
+            "passive_voice_present_past_simple"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "In the meeting, the accountant presented the new budget. The budget was approved by the management. After that, the team discussed the next steps. It was decided that the report would be sent to the clients. The meeting was considered a success.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma pasiva correcta de 'They took over the company'?",
+          "prompt_target": "Which is the correct passive form of 'They took over the company'?",
+          "options": [
+            "The company was taken over.",
+            "The company was take over.",
+            "The company were taken over.",
+            "The company is taken over."
+          ],
+          "correct_answer": "The company was taken over.",
+          "explanation_form": "En pasivo, el objeto 'the company' se convierte en sujeto. Usamos 'was' porque 'company' es singular.",
+          "explanation_target": "In the passive, the object 'the company' becomes the subject. We use 'was' because 'company' is singular.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "take_over_verb_2",
+            "passive_voice_present_past_simple"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Quién fue informado sobre la decisión?",
+          "prompt_target": "Listen and answer: Who was informed about the decision?",
+          "options": [
+            "The accountant",
+            "The manager",
+            "The employees",
+            "The clients"
+          ],
+          "correct_answer": "The accountant",
+          "explanation_form": "El transcript dice: 'The accountant was informed about the decision'.",
+          "explanation_target": "The transcript says: 'The accountant was informed about the decision'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "accountant",
+            "passive_voice_present_past_simple"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "The management decided to change the policy. The accountant was informed about the decision. The new policy was explained to all employees. Everyone was asked to follow the new rules. The change was well received by the team.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Por qué fue tomada la decisión?",
+          "prompt_target": "Read the text and answer: Why was the decision made?",
+          "options": [
+            "Because the smaller company had a strong customer base",
+            "Because the smaller company was too expensive",
+            "Because the management wanted to reduce costs",
+            "Because the accountant recommended it"
+          ],
+          "correct_answer": "Because the smaller company had a strong customer base",
+          "explanation_form": "El texto dice: 'The decision was made because the smaller company had a strong customer base'.",
+          "explanation_target": "The text says: 'The decision was made because the smaller company had a strong customer base'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "take_over_verb_2",
+            "management",
+            "accountant",
+            "passive_voice_present_past_simple"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": "A new idea was proposed by the management team during the weekly meeting. The idea was to take over a smaller company that was struggling financially. The accountant was asked to analyze the numbers. After a careful review, it was decided that the take over was a good opportunity. The decision was made because the smaller company had a strong customer base. The management believed that the take over would help them grow. The plan was approved by the board, and the process was started immediately. The employees of the smaller company were informed about the change. They were told that their jobs were safe. The take over was completed successfully three months later.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'La reunión fue organizada por el gerente.'",
+          "prompt_target": "Translate into English: 'La reunión fue organizada por el gerente.'",
+          "options": null,
+          "correct_answer": "The meeting was organized by the manager.",
+          "explanation_form": "En pasivo pasado simple: 'was/were + participio pasado + by + agente'.",
+          "explanation_target": "In the past simple passive: 'was/were + past participle + by + agent'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "management",
+            "passive_voice_present_past_simple"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo con su forma en pasado participio:",
+          "prompt_target": "Match each verb with its past participle form:",
+          "options": [
+            "take over",
+            "taken over",
+            "make",
+            "made",
+            "approve",
+            "approved",
+            "organize",
+            "organized"
+          ],
+          "correct_answer": [
+            "take over=taken over",
+            "make=made",
+            "approve=approved",
+            "organize=organized"
+          ],
+          "explanation_form": "Estos son los participios pasados que necesitás para formar el pasivo.",
+          "explanation_target": "These are the past participles you need to form the passive.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "take_over_verb_2",
+            "passive_voice_present_past_simple"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## La voz pasiva en reuniones de trabajo\n\nEn inglés profesional, la voz pasiva es tu mejor aliada para reportar decisiones sin señalar culpables ni protagonistas. En lugar de decir *\"The management decided...\"*, usamos *\"It was decided...\"* o *\"The plan was approved...\"*. Esto suena más neutral y diplomático, perfecto para emails de resumen.\n\n**Errores comunes para hispanohablantes:**\n\n- **No uses el participio pasado como adjetivo.** Decimos *\"The report was written\"* (acción), no *\"The report was wrote\"*. El participio de *write* es *written*.\n- **Cuidado con el sujeto.** En pasiva, el sujeto recibe la acción: *\"The accountant was assigned\"* (al contador le asignaron), no *\"The accountant assigned\"* (él asignó).\n- **No olvides el verbo *to be*.** En español a veces lo omitimos (*\"decidido\"*), pero en inglés siempre: *\"It was decided\"*, nunca *\"It decided\"*.\n\n**Tip mnemotécnico:** Piensa en la pasiva como una foto de la acción, no del actor. *\"The meeting was scheduled\"* es la foto; *\"The manager scheduled the meeting\"* es el video con protagonista.\n\n## Conecta con tu vida real\n\nImagina que terminas una reunión y debes escribir el resumen. La pasiva te permite enfocarte en los acuerdos, no en quién los propuso. Por ejemplo: *\"The budget was reviewed\"*, *\"The deadline was extended\"*, *\"The project was taken over by the new team\"*. Practica transformando tus propias decisiones diarias a pasiva: *\"My coffee was ordered\"*, *\"The email was sent\"*. Así interiorizas el patrón sin memorizar reglas aburridas.",
+  "metadata": {
+    "generated_at": "2026-08-31T01:26:44Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

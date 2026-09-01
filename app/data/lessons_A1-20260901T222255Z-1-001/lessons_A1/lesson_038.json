@@ -1,0 +1,1596 @@
+{
+  "id": "lesson_038",
+  "position": 38,
+  "unit_id": 7,
+  "course_id": "en.A1",
+  "title_form": "Partes del cuerpo",
+  "title_target": "Naming Parts of the Body",
+  "theme_focus": "Partes del cuerpo humano.",
+  "learning_objectives": [
+    "Can name basic parts of the body.",
+    "Can point to and name body parts."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_004"
+  ],
+  "grammar_focus": [
+    "plural nouns: regular and irregular (foot/feet, tooth/teeth)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "head",
+        "face",
+        "eye",
+        "hand",
+        "foot",
+        "back",
+        "tooth",
+        "feet",
+        "teeth_2",
+        "body",
+        "hair",
+        "this_det_pron",
+        "these_det_pron"
+      ],
+      "chunk_ids": [
+        "chunk_this_is_my_body_part",
+        "chunk_these_are_my_body_parts"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "hope_verb",
+        "wait_verb",
+        "choose_verb",
+        "dress_verb",
+        "wash_verb",
+        "talk_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tomás va al médico porque le duele la cabeza. El médico le pregunta qué parte del cuerpo le duele, y Tomás señala y nombra las partes: la cabeza, los ojos, las manos y los pies. Luego Tomás practica en casa con un espejo, señalando y diciendo los nombres en inglés.",
+  "introduction_md": "En esta lección vas a aprender a nombrar las partes del cuerpo en inglés. Esto te servirá para describirte, hablar de cómo te sientes y entender mejor a los demás.\n\n- Aprenderás palabras como **head**, **hand** y **foot**.\n- Verás cómo se forman los plurales irregulares: **foot** → **feet**, **tooth** → **teeth**.\n- Practicarás con frases útiles como **This is my head** y **These are my hands**.\n\n¡Vamos a empezar!",
+  "intro_target": "In this lesson, you will learn to name parts of the body in English. This will help you describe yourself, talk about how you feel, and understand others better.\n\n- You will learn words like **head**, **hand**, and **foot**.\n- You will see irregular plurals: **foot** → **feet**, **tooth** → **teeth**.\n- You will practice useful phrases like **This is my head** and **These are my hands**.\n\nLet's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_this_is_my_body_part",
+      "grammar_slug": null,
+      "text_target": "This is my head and this is my face.",
+      "translation_form": "Esta es mi cabeza y esta es mi cara.",
+      "highlight_words": [
+        "this",
+        "head",
+        "face"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_these_are_my_body_parts",
+      "grammar_slug": null,
+      "text_target": "These are my hands and these are my feet.",
+      "translation_form": "Estas son mis manos y estos son mis pies.",
+      "highlight_words": [
+        "these",
+        "hands",
+        "feet"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "eye",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My eyes are okay and my hair is clean.",
+      "translation_form": "Mis ojos están bien y mi cabello está limpio.",
+      "highlight_words": [
+        "eye",
+        "hair"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "tooth",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I wash my teeth and I wash my hands.",
+      "translation_form": "Yo lavo mis dientes y lavo mis manos.",
+      "highlight_words": [
+        "teeth",
+        "hand",
+        "wash"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "back",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My back is tired, but my feet are okay.",
+      "translation_form": "Mi espalda está cansada, pero mis pies están bien.",
+      "highlight_words": [
+        "back",
+        "feet",
+        "tired"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "body",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This is my body and this is my foot.",
+      "translation_form": "Este es mi cuerpo y este es mi pie.",
+      "highlight_words": [
+        "this",
+        "body",
+        "foot"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "plural nouns: regular and irregular (foot/feet, tooth/teeth)",
+      "title_form": "Plurales regulares e irregulares",
+      "title_target": "Regular and Irregular Plurals",
+      "description_md_form": "En inglés, para hablar de **más de una** parte del cuerpo, usamos el **plural**. La forma más común es agregar **-s** al final: *hand* → *hands*, *eye* → *eyes*. Pero hay **plurales irregulares** que cambian la palabra por completo. Dos muy importantes son: *foot* → **feet** y *tooth* → **teeth**. No decimos *foots* ni *tooths*. Con los plurales usamos **these are** (estos son) y con el singular usamos **this is** (este es). Por ejemplo: *This is my foot* (singular) y *These are my feet* (plural).",
+      "description_md_target": "In English, to talk about **more than one** body part, we use the **plural**. The most common way is to add **-s** at the end: *hand* → *hands*, *eye* → *eyes*. But there are **irregular plurals** that change the word completely. Two very important ones are: *foot* → **feet** and *tooth* → **teeth**. We don't say *foots* or *tooths*. With plurals we use **these are** (these are) and with singular we use **this is** (this is). For example: *This is my foot* (singular) and *These are my feet* (plural).",
+      "grammar_structure": "This is + singular noun / These are + plural noun",
+      "conjugation_table": {
+        "name": "plural_nouns",
+        "headers": [
+          "Singular",
+          "Plural",
+          "Regla"
+        ],
+        "rows": [
+          [
+            "hand",
+            "hands",
+            "Agregar -s"
+          ],
+          [
+            "eye",
+            "eyes",
+            "Agregar -s"
+          ],
+          [
+            "foot",
+            "feet",
+            "Irregular"
+          ],
+          [
+            "tooth",
+            "teeth",
+            "Irregular"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "plural nouns: regular and irregular (foot/feet, tooth/teeth)",
+          "text_target": "This is my foot and these are my feet.",
+          "translation_form": "Este es mi pie y estos son mis pies.",
+          "highlight_words": [
+            "foot",
+            "feet"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "plural nouns: regular and irregular (foot/feet, tooth/teeth)",
+          "text_target": "This is my tooth and these are my teeth.",
+          "translation_form": "Este es mi diente y estos son mis dientes.",
+          "highlight_words": [
+            "tooth",
+            "teeth"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "text_md": "**¡Cuidado!** *Foot* y *tooth* son irregulares. No digas *foots* ni *tooths*. La forma correcta es **feet** y **teeth**."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Usa **this is** para una sola cosa (*this is my hand*) y **these are** para varias (*these are my hands*)."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'foots' en lugar de 'feet'.",
+        "Decir 'tooths' en lugar de 'teeth'.",
+        "Usar 'this is' con plural: 'this is my hands' en vez de 'these are my hands'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'head'?",
+      "options": [
+        "cabeza",
+        "mano",
+        "pie",
+        "ojo"
+      ],
+      "correct_answer": "cabeza",
+      "explanation_md": "'Head' significa cabeza en español.",
+      "related_lexeme_ids": [
+        "head"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'feet'?",
+      "options": [
+        "pies",
+        "dientes",
+        "manos",
+        "ojos"
+      ],
+      "correct_answer": "pies",
+      "explanation_md": "'Feet' es el plural irregular de 'foot' (pie).",
+      "related_lexeme_ids": [
+        "feet"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "eye",
+        "ojo",
+        "hand",
+        "mano",
+        "tooth",
+        "diente",
+        "back",
+        "espalda"
+      ],
+      "correct_answer": [
+        "eye=ojo",
+        "hand=mano",
+        "tooth=diente",
+        "back=espalda"
+      ],
+      "explanation_md": "Estas son partes del cuerpo en inglés y su traducción al español.",
+      "related_lexeme_ids": [
+        "eye",
+        "hand",
+        "tooth",
+        "back"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'These are my ____.' (Estos son mis pies.)",
+      "options": [
+        "foot",
+        "feet",
+        "tooth",
+        "hand"
+      ],
+      "correct_answer": "feet",
+      "explanation_md": "Usamos 'feet' porque es el plural de 'foot'.",
+      "related_lexeme_ids": [
+        "feet",
+        "foot"
+      ],
+      "related_chunk_ids": [
+        "chunk_these_are_my_body_parts"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con 'this' o 'these': '____ is my hand.' (Esta es mi mano.)",
+      "options": null,
+      "correct_answer": "This",
+      "explanation_md": "Usamos 'this' para una sola cosa (singular).",
+      "related_lexeme_ids": [
+        "this_det_pron",
+        "hand"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con 'this' o 'these': '____ are my eyes.' (Estos son mis ojos.)",
+      "options": null,
+      "correct_answer": "These",
+      "explanation_md": "Usamos 'these' para varias cosas (plural).",
+      "related_lexeme_ids": [
+        "these_det_pron",
+        "eye"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Esta es mi cara.'",
+      "options": null,
+      "correct_answer": "This is my face.",
+      "explanation_md": "Usamos 'this is' para presentar una parte del cuerpo en singular.",
+      "related_lexeme_ids": [
+        "this_det_pron",
+        "face"
+      ],
+      "related_chunk_ids": [
+        "chunk_this_is_my_body_part"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'These are my teeth.'",
+      "options": null,
+      "correct_answer": "Estos son mis dientes.",
+      "explanation_md": "'These are' se usa para plural y 'teeth' es el plural de 'tooth'.",
+      "related_lexeme_ids": [
+        "these_det_pron",
+        "teeth_2"
+      ],
+      "related_chunk_ids": [
+        "chunk_these_are_my_body_parts"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuántas partes del cuerpo menciona Ana?",
+      "options": null,
+      "correct_answer": "Seven",
+      "explanation_md": "El texto presenta siete palabras del cuerpo: cara, ojos, cabello, manos, pies, espalda y diente.",
+      "related_lexeme_ids": [
+        "face",
+        "eye",
+        "hair",
+        "hand",
+        "feet",
+        "back",
+        "tooth",
+        "body"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana is a girl. This is her face. Her eyes are brown and her hair is black. She has two hands and two feet. Her back is okay, but her tooth hurts. She washes her hands and her face every day.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué le duele a Tom?",
+      "options": [
+        "Le duele la cabeza",
+        "Le duelen los ojos",
+        "Le duele la espalda",
+        "Le duelen los pies"
+      ],
+      "correct_answer": "Le duele la cabeza",
+      "explanation_md": "Tom dice 'my head hurts', que significa 'me duele la cabeza'.",
+      "related_lexeme_ids": [
+        "head",
+        "eye",
+        "back"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom is at home. He says: my head hurts. My eyes are tired. My back is okay. I want to sleep.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu cuerpo. Usa 'this is' o 'these are' y menciona al menos 3 partes del cuerpo.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'this is' (singular) y 'these are' (plural) con partes del cuerpo.",
+      "related_lexeme_ids": [
+        "this_det_pron",
+        "these_det_pron",
+        "head",
+        "hand",
+        "face",
+        "feet",
+        "hair",
+        "eye"
+      ],
+      "related_chunk_ids": [
+        "chunk_this_is_my_body_part",
+        "chunk_these_are_my_body_parts"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "This is my head. These are my hands. This is my face.",
+        "These are my feet. This is my hair. These are my eyes."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es el plural correcto de 'tooth'?",
+      "options": [
+        "tooths",
+        "teeth",
+        "toothes",
+        "tooth"
+      ],
+      "correct_answer": "teeth",
+      "explanation_md": "'Tooth' es irregular: su plural es 'teeth'.",
+      "related_lexeme_ids": [
+        "tooth",
+        "teeth_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "head",
+      "back": "cabeza",
+      "hint": "parte superior del cuerpo",
+      "lexeme_id": "head",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "face",
+      "back": "cara / rostro",
+      "hint": "parte delantera de la cabeza",
+      "lexeme_id": "face",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "eye",
+      "back": "ojo",
+      "hint": "órgano de la vista",
+      "lexeme_id": "eye",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "hand",
+      "back": "mano",
+      "hint": "parte del brazo",
+      "lexeme_id": "hand",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "foot",
+      "back": "pie",
+      "hint": "singular de 'feet'",
+      "lexeme_id": "foot",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "back",
+      "back": "espalda",
+      "hint": "parte posterior del cuerpo",
+      "lexeme_id": "back",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "tooth",
+      "back": "diente",
+      "hint": "singular de 'teeth'",
+      "lexeme_id": "tooth",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "feet",
+      "back": "pies",
+      "hint": "plural de 'foot'",
+      "lexeme_id": "feet",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "teeth",
+      "back": "dientes",
+      "hint": "plural de 'tooth'",
+      "lexeme_id": "teeth_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "body",
+      "back": "cuerpo",
+      "hint": "todo el cuerpo",
+      "lexeme_id": "body",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "hair",
+      "back": "cabello / pelo",
+      "hint": "en la cabeza",
+      "lexeme_id": "hair",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "this",
+      "back": "este / esto",
+      "hint": "singular",
+      "lexeme_id": "this_det_pron",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "demonstratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "these",
+      "back": "estos / estas",
+      "hint": "plural",
+      "lexeme_id": "these_det_pron",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "demonstratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "This is my ...",
+      "back": "Este/Esta es mi ...",
+      "hint": "presentar una parte del cuerpo",
+      "lexeme_id": null,
+      "chunk_id": "chunk_this_is_my_body_part",
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "These are my ...",
+      "back": "Estos/Estas son mis ...",
+      "hint": "presentar varias partes del cuerpo",
+      "lexeme_id": null,
+      "chunk_id": "chunk_these_are_my_body_parts",
+      "target_term": null,
+      "tags": [
+        "lesson_038",
+        "A1",
+        "body"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "head",
+      "reading": "",
+      "translation": "cabeza",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "head",
+      "chunk_id": null
+    },
+    {
+      "target_word": "face",
+      "reading": "",
+      "translation": "cara / rostro",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "face",
+      "chunk_id": null
+    },
+    {
+      "target_word": "eye",
+      "reading": "",
+      "translation": "ojo",
+      "pos": "noun",
+      "example": "My eyes are blue and my hair is brown.",
+      "example_translation": "Mis ojos son azules y mi cabello es castaño.",
+      "lexeme_id": "eye",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hand",
+      "reading": "",
+      "translation": "mano",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "hand",
+      "chunk_id": null
+    },
+    {
+      "target_word": "foot",
+      "reading": "",
+      "translation": "pie",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "foot",
+      "chunk_id": null
+    },
+    {
+      "target_word": "back",
+      "reading": "",
+      "translation": "espalda",
+      "pos": "noun",
+      "example": "My back is tired, but my feet are okay.",
+      "example_translation": "Mi espalda está cansada, pero mis pies están bien.",
+      "lexeme_id": "back",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tooth",
+      "reading": "",
+      "translation": "diente",
+      "pos": "noun",
+      "example": "I wash my teeth and I wash my hands.",
+      "example_translation": "Yo lavo mis dientes y lavo mis manos.",
+      "lexeme_id": "tooth",
+      "chunk_id": null
+    },
+    {
+      "target_word": "feet",
+      "reading": "",
+      "translation": "pies",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "feet",
+      "chunk_id": null
+    },
+    {
+      "target_word": "teeth",
+      "reading": "",
+      "translation": "dientes",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "teeth_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "body",
+      "reading": "",
+      "translation": "cuerpo",
+      "pos": "noun",
+      "example": "This is my body and this is my foot.",
+      "example_translation": "Este es mi cuerpo y este es mi pie.",
+      "lexeme_id": "body",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hair",
+      "reading": "",
+      "translation": "cabello / pelo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "hair",
+      "chunk_id": null
+    },
+    {
+      "target_word": "this",
+      "reading": "",
+      "translation": "este / esto",
+      "pos": "other",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "this_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "these",
+      "reading": "",
+      "translation": "estos / estas",
+      "pos": "other",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "these_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "This is my ...",
+      "reading": "",
+      "translation": "Este/Esta es mi ...",
+      "pos": "chunk",
+      "example": "This is my head and this is my face.",
+      "example_translation": "Esta es mi cabeza y esta es mi cara.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_this_is_my_body_part"
+    },
+    {
+      "target_word": "These are my ...",
+      "reading": "",
+      "translation": "Estos/Estas son mis ...",
+      "pos": "chunk",
+      "example": "These are my hands and these are my feet.",
+      "example_translation": "Estas son mis manos y estos son mis pies.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_these_are_my_body_parts"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "head",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cabeza",
+      "lexeme_id": "head",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_010",
+        "ex_011",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "face",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cara / rostro",
+      "lexeme_id": "face",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "eye",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ojo",
+      "lexeme_id": "eye",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_006",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "hand",
+      "role": "support",
+      "status": "practiced",
+      "translation": "mano",
+      "lexeme_id": "hand",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_005",
+        "ex_009",
+        "ex_011",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "foot",
+      "role": "support",
+      "status": "practiced",
+      "translation": "pie",
+      "lexeme_id": "foot",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "back",
+      "role": "support",
+      "status": "practiced",
+      "translation": "espalda",
+      "lexeme_id": "back",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_009",
+        "ex_010",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "tooth",
+      "role": "support",
+      "status": "practiced",
+      "translation": "diente",
+      "lexeme_id": "tooth",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_009",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "feet",
+      "role": "support",
+      "status": "practiced",
+      "translation": "pies",
+      "lexeme_id": "feet",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_004",
+        "ex_009",
+        "ex_011",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "teeth",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dientes",
+      "lexeme_id": "teeth_2",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "body",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cuerpo",
+      "lexeme_id": "body",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "hair",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cabello / pelo",
+      "lexeme_id": "hair",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "this",
+      "role": "support",
+      "status": "practiced",
+      "translation": "este / esto",
+      "lexeme_id": "this_det_pron",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_007",
+        "ex_011",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "these",
+      "role": "support",
+      "status": "practiced",
+      "translation": "estos / estas",
+      "lexeme_id": "these_det_pron",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_008",
+        "ex_011",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "This is my ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Este/Esta es mi ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_this_is_my_body_part",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_011",
+        "fc_014"
+      ]
+    },
+    {
+      "term": "These are my ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Estos/Estas son mis ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_these_are_my_body_parts",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_004",
+        "ex_008",
+        "ex_011",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "teeth",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "fc_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "wash",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lavar(se)",
+      "lexeme_id": "wash_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "brown",
+      "role": "support",
+      "status": "emergent",
+      "translation": "marrón",
+      "lexeme_id": "brown_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "blue",
+      "role": "support",
+      "status": "emergent",
+      "translation": "azul",
+      "lexeme_id": "blue_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "thing",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cosa",
+      "lexeme_id": "thing",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "near",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "hurt",
+      "role": "support",
+      "status": "emergent",
+      "translation": "doler / herir",
+      "lexeme_id": "hurt_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 15,
+    "review_support_count": 0,
+    "emergent_count": 12,
+    "emergent_terms": [
+      "teeth",
+      "tire",
+      "tired",
+      "wash",
+      "brown",
+      "blue",
+      "say",
+      "talk",
+      "thing",
+      "person",
+      "near",
+      "hurt"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Partes del cuerpo",
+      "title_target": "Quiz: Parts of the Body",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué parte del cuerpo es 'head'?",
+          "prompt_target": "What is 'head'?",
+          "options": [
+            "cabeza",
+            "mano",
+            "pie",
+            "ojo"
+          ],
+          "correct_answer": "cabeza",
+          "explanation_form": "'Head' significa cabeza. Es la parte superior del cuerpo.",
+          "explanation_target": "'Head' means head. It is the top part of the body.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "head"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice 'pie' en inglés?",
+          "prompt_target": "How do you say 'pie' in English?",
+          "options": [
+            "foot",
+            "feet",
+            "hand",
+            "face"
+          ],
+          "correct_answer": "foot",
+          "explanation_form": "'Pie' se dice 'foot' en singular. El plural es 'feet'.",
+          "explanation_target": "'Pie' is 'foot' in singular. The plural is 'feet'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "foot",
+            "feet"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____ is my face.' (Esto es mi cara.)",
+          "prompt_target": "Complete the sentence: '____ is my face.'",
+          "options": null,
+          "correct_answer": "This",
+          "explanation_form": "Usamos 'this' para hablar de una cosa que está cerca. 'This is my face.'",
+          "explanation_target": "We use 'this' to talk about one thing that is near. 'This is my face.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "this_det_pron",
+            "face",
+            "chunk_this_is_my_body_part"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____ are my hands.' (Estas son mis manos.)",
+          "prompt_target": "Complete the sentence: '____ are my hands.'",
+          "options": null,
+          "correct_answer": "These",
+          "explanation_form": "Usamos 'these' para hablar de varias cosas que están cerca. 'These are my hands.'",
+          "explanation_target": "We use 'these' to talk about several things that are near. 'These are my hands.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "these_det_pron",
+            "hand",
+            "chunk_these_are_my_body_parts"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "are",
+            "These",
+            "my",
+            "feet"
+          ],
+          "correct_answer": "These are my feet.",
+          "explanation_form": "La frase correcta es 'These are my feet.' (Estos son mis pies.)",
+          "explanation_target": "The correct sentence is 'These are my feet.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "these_det_pron",
+            "feet",
+            "chunk_these_are_my_body_parts"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "matching",
+          "prompt_form": "Empareja cada parte del cuerpo con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "eye",
+            "ojo",
+            "hair",
+            "pelo",
+            "back",
+            "espalda"
+          ],
+          "correct_answer": [
+            "eye=ojo",
+            "hair=pelo",
+            "back=espalda"
+          ],
+          "explanation_form": "Estas son partes del cuerpo: eye (ojo), hair (pelo) y back (espalda).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eye",
+            "hair",
+            "back"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué dice la persona?",
+          "prompt_target": "Listen and answer: What does the person say?",
+          "options": [
+            "Habla de su cabeza, ojos, cara y pelo",
+            "Habla de sus manos y pies",
+            "Habla de su espalda"
+          ],
+          "correct_answer": "Habla de su cabeza, ojos, cara y pelo",
+          "explanation_form": "La persona dice: 'This is my head. These are my eyes. This is my face. This is my hair.'",
+          "explanation_target": "The person says: 'This is my head. These are my eyes. This is my face. This is my hair.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "head",
+            "eye",
+            "face",
+            "hair",
+            "this_det_pron",
+            "these_det_pron"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "This is my head. These are my eyes. This is my face. This is my hair.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué dice la persona?",
+          "prompt_target": "Listen and answer: What does the person say?",
+          "options": [
+            "Habla de sus manos, pies y cuerpo",
+            "Habla de su cabeza y cara",
+            "Habla de su pelo"
+          ],
+          "correct_answer": "Habla de sus manos, pies y cuerpo",
+          "explanation_form": "La persona dice: 'These are my hands. These are my feet. This is my body.'",
+          "explanation_target": "The person says: 'These are my hands. These are my feet. This is my body.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hand",
+            "feet",
+            "body",
+            "these_det_pron",
+            "this_det_pron"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "These are my hands. These are my feet. This is my body.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Cuántas partes del cuerpo se mencionan?",
+          "prompt_target": "Read the text and answer: How many body names are there?",
+          "options": [
+            "eight",
+            "five",
+            "ten"
+          ],
+          "correct_answer": "eight",
+          "explanation_form": "El texto presenta ocho palabras: body, head, eyes, face, hair, hands, feet y back.",
+          "explanation_target": "The text has eight: body, head, eyes, face, hair, hands, feet and back.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "body",
+            "head",
+            "eye",
+            "face",
+            "hair",
+            "hand",
+            "feet",
+            "back",
+            "this_det_pron",
+            "these_det_pron"
+          ],
+          "points": 20,
+          "difficulty": "hard",
+          "passage_md": "This is my body. This is my head. These are my eyes. This is my face. This is my hair. These are my hands. These are my feet. This is my back.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el plural de 'tooth'?",
+          "prompt_target": "What is the plural of 'tooth'?",
+          "options": [
+            "teeth",
+            "tooths",
+            "toothes"
+          ],
+          "correct_answer": "teeth",
+          "explanation_form": "El plural de 'tooth' es irregular: 'teeth' (dientes).",
+          "explanation_target": "The plural of 'tooth' is irregular: 'teeth'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "tooth",
+            "teeth_2"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Plurales irregulares: ¡ojo con los pies y los dientes!\n\nEn inglés, la mayoría de los plurales se forman con **-s** (hand → hands, eye → eyes). Pero **foot** y **tooth** son irregulares: cambian la vocal, no añaden -s. Memoriza estos dos pares:\n\n- **foot** (un pie) → **feet** (dos pies)\n- **tooth** (un diente) → **teeth** (dos dientes)\n\nUn truco: si ves **oo** en singular (foot, tooth), en plural cambia a **ee** (feet, teeth). ¡Es como si los pies y los dientes \"duplicaran\" la vocal!\n\n## This vs. These: singular y plural\n\nUsa **this** para UNA cosa (this hand, this foot) y **these** para VARIAS (these hands, these feet). Es la misma regla que en español: \"este\" vs. \"estos\".\n\n- **This is my hand.** (Esta es mi mano.)\n- **These are my hands.** (Estas son mis manos.)\n\nPresta atención al verbo: con **this** usas **is**, con **these** usas **are**. ¡No digas \"these is\"!",
+  "metadata": {
+    "generated_at": "2026-08-31T21:40:19Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

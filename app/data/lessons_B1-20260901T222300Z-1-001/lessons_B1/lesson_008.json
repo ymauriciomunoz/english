@@ -1,0 +1,1463 @@
+{
+  "id": "lesson_008",
+  "position": 8,
+  "unit_id": 3,
+  "course_id": "en.B1",
+  "title_form": "Expresar intenciones y cambios",
+  "title_target": "Expressing intentions and changed plans",
+  "theme_focus": "social communication and plans",
+  "learning_objectives": [
+    "Can exchange messages about an intended activity and explain a change of plan."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_007"
+  ],
+  "grammar_focus": [
+    "Going to and present continuous for intentions and fixed arrangements."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "meet_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "appointment",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the social communication and plans situation."
+      },
+      {
+        "term": "intention",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the social communication and plans situation."
+      },
+      {
+        "term": "plan to",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "look forward to",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "going to",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "present continuous",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos planea reunirse con su amiga Sofía para cenar el viernes, pero le surge una cita médica imprevista. Le escribe un mensaje para explicarle el cambio de planes y proponer verse el sábado. Sofía acepta encantada porque también tiene intenciones de ponerse al día.",
+  "introduction_md": "En esta lección aprenderás a comunicar tus planes, intenciones y cambios de agenda de manera fluida en inglés. Saber explicar por qué debes reprogramar una cita o cómo cambian tus intenciones es fundamental para la vida social y profesional.\n\nEn particular, aprenderás a:\n- Usar **be going to** para expresar intenciones previas o planes personales.\n- Usar el **present continuous** para compromisos fijos y citas organizadas con fecha o hora específica.\n- Explicar un cambio de plan con **was/were going to + verbo** y proponer una alternativa.\n- Utilizar expresiones clave como **plan to**, **look forward to** y **appointment** para hablar de tus actividades futuras.\n\nAl terminar, podrás enviar mensajes claros para coordinar reencuentros, justificar imprevistos y reprogramar citas sin estrés. ¡Empecemos a planificar tus próximos pasos con confianza!",
+  "intro_target": "In this lesson, you will learn to communicate your plans, intentions, and schedule changes smoothly in English. Explaining why you need to reschedule an appointment or how your intentions change is essential for your social and professional life.\n\nSpecifically, you will learn how to:\n- Use **be going to** to express intentions or personal future plans.\n- Use the **present continuous** for fixed arrangements and scheduled events with specific dates or times.\n- Explain a changed plan with **was/were going to + base verb** and suggest an alternative.\n- Use key expressions like **plan to**, **look forward to**, and **appointment** to discuss future activities.\n\nBy the end of this lesson, you will be able to send clear messages to arrange meetings, explain sudden changes, and reschedule appointments confidently. Let's start planning your next steps!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am going to see my doctor tomorrow because I have an important appointment.",
+      "translation_form": "Voy a ver a mi médico mañana porque tengo una cita importante.",
+      "highlight_words": [
+        "going",
+        "see",
+        "appointment"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are meeting our manager at three o'clock to talk about our future project.",
+      "translation_form": "Nos reuniremos con nuestro gerente a las tres en punto para hablar sobre nuestro proyecto futuro.",
+      "highlight_words": [
+        "meeting"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She plans to visit her family next weekend, so she is buying her train tickets today.",
+      "translation_form": "Ella planea visitar a su familia el próximo fin de semana, así que hoy está comprando sus boletos de tren.",
+      "highlight_words": [
+        "plans"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Are you meeting your friends tonight, or are you staying at home to rest?",
+      "translation_form": "¿Te vas a reunir con tus amigos esta noche o te vas a quedar en casa para descansar?",
+      "highlight_words": [
+        "meeting"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He is looking forward to his trip, but he is going to finish his work first.",
+      "translation_form": "Él está deseando hacer su viaje, pero primero va a terminar su trabajo.",
+      "highlight_words": [
+        "looking",
+        "forward",
+        "going"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Going to and present continuous for intentions and fixed arrangements.",
+      "title_form": "Planes e intenciones: Be going to vs. Present Continuous",
+      "title_target": "Plans and Intentions: Be going to vs. Present Continuous",
+      "description_md_form": "En inglés utilizamos **be going to** y el **present continuous** para hablar de eventos futuros, pero existe una diferencia clave en su uso:\n\n- **Be going to** (**be + going to + verbo en infinitivo**) expresa **intenciones** o decisiones tomadas previamente, sin que exista aún un compromiso fijo o una cita confirmada. Por ejemplo: *She plans to visit her family, so she is going to buy her ticket soon.* (Tiene la intención de hacerlo).\n- **Present continuous** (**be + verbo con -ing**) se utiliza para **planes fijos** o acuerdos confirmados (*fixed arrangements*), los cuales suelen tener hora, fecha o lugar ya agendados. Por ejemplo: *We are meeting our manager at three o'clock.* (Cita ya agendada).\n- **Was/were going to** (**was/were + going to + verbo en infinitivo**) expresa una intención pasada que cambió o se canceló. Por ejemplo: *I was going to meet you, but I have an appointment.* (Iba a reunirme contigo, pero tengo una cita).\n\nComo regla general: si ya agendaste la cita o reservaste el lugar, usa el **present continuous**. Si es una intención personal o un plan en preparación, usa **be going to**. Para explicar un cambio de plan, usa **was/were going to**.",
+      "description_md_target": "In English, we use **be going to** and the **present continuous** to talk about future events, but there is a key difference between them:\n\n- **Be going to** (**be + going to + base verb**) expresses **intentions** or decisions made beforehand, where a fixed arrangement or appointment is not yet confirmed. For example: *She plans to visit her family, so she is going to buy her ticket soon.* (She intends to do it).\n- **Present continuous** (**be + -ing verb**) is used for **fixed arrangements** or confirmed plans that usually have a specific time, date, or place scheduled. For example: *We are meeting our manager at three o'clock.* (Meeting already scheduled).\n- **Was/were going to** (**was/were + going to + base verb**) expresses a past intention that changed or was cancelled. For example: *I was going to meet you, but I have an appointment.*\n\nAs a general rule: if you have already scheduled an appointment or booked a ticket, use the **present continuous**. If it is a personal intention, use **be going to**. To explain a changed plan, use **was/were going to**.",
+      "grammar_structure": "Intention: Subject + be + going to + verb | Fixed arrangement: Subject + be + verb-ing | Changed intention: Subject + was/were going to + verb",
+      "conjugation_table": {
+        "name": "future_plans_comparison",
+        "headers": [
+          "Uso principal",
+          "Estructura",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Intención / Decisión previa",
+            "Subject + am/is/are + going to + verb",
+            "I am going to finish my work first."
+          ],
+          [
+            "Compromiso fijo / Cita agendada",
+            "Subject + am/is/are + verb-ing",
+            "We are meeting our manager at three o'clock."
+          ],
+          [
+            "Intención cambiada / Reprogramación",
+            "Subject + was/were + going to + verb",
+            "I was going to meet you, but I have an appointment."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Going to and present continuous for intentions and fixed arrangements.",
+          "text_target": "We are meeting our manager at three o'clock to talk about our future project.",
+          "translation_form": "Nos reuniremos con nuestro gerente a las tres en punto para hablar sobre nuestro proyecto futuro.",
+          "highlight_words": [
+            "are",
+            "meeting"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Going to and present continuous for intentions and fixed arrangements.",
+          "text_target": "I am going to see my doctor tomorrow because I have an important appointment.",
+          "translation_form": "Voy a ver a mi médico mañana porque tengo una cita importante.",
+          "highlight_words": [
+            "am",
+            "going",
+            "to",
+            "see"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "No olvides incluir la forma adecuada del verbo **be** (*am/is/are*) antes de *going to*. Decir *I going to meet* es incorrecto; la forma correcta es *I am going to meet*."
+        },
+        {
+          "type": "tip",
+          "text_md": "Si una oración menciona una hora concreta o una cita confirmada (*at three o'clock*, *tomorrow morning*), el **present continuous** resulta mucho más natural que *going to*."
+        },
+        {
+          "type": "tip",
+          "text_md": "Para explicar una intención que cambió, usa **was/were going to + verbo**: *I was going to meet you, but I have an appointment.*"
+        }
+      ],
+      "common_errors_es": [
+        "Omitir el verbo auxiliar *be* al usar *going to* (decir *He going to visit* en lugar de *He is going to visit*).",
+        "Usar *will* o *going to* para eventos agendados que tienen hora y lugar fijados, en lugar de emplear el *present continuous*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'appointment'?",
+      "options": [
+        "Cita o consulta",
+        "Intención",
+        "Viaje",
+        "Mensaje"
+      ],
+      "correct_answer": "Cita o consulta",
+      "explanation_md": "'Appointment' significa cita o consulta programada (por ejemplo, con un médico o profesional).",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la opción correcta para completar la frase sobre un plan agendado con hora: 'I _____ my manager at four o'clock today.'",
+      "options": [
+        "am meeting",
+        "meet",
+        "meeting",
+        "met"
+      ],
+      "correct_answer": "am meeting",
+      "explanation_md": "Para planes o citas confirmadas con una hora específica, se utiliza el presente continuo ('am meeting').",
+      "related_lexeme_ids": [
+        "meet_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con la palabra que falta para expresar una intención futura: 'She is _____ to buy a new car next week.'",
+      "options": null,
+      "correct_answer": "going",
+      "explanation_md": "La estructura de intención futura es 'be going to' + verbo en infinitivo.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "matching",
+      "prompt_md": "Empareja cada término o expresión en inglés con su traducción al español:",
+      "options": [
+        "appointment",
+        "cita",
+        "intention",
+        "intención",
+        "look forward to",
+        "esperar con ilusión",
+        "plan to",
+        "planear"
+      ],
+      "correct_answer": [
+        "appointment=cita",
+        "intention=intención",
+        "look forward to=esperar con ilusión",
+        "plan to=planear"
+      ],
+      "explanation_md": "Relacionamos cada término de planes e intenciones con su significado en español.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce la siguiente oración al inglés: 'Nos vamos a reunir con el gerente mañana.'",
+      "options": null,
+      "correct_answer": "We are going to meet the manager tomorrow.",
+      "explanation_md": "'Nos vamos a reunir' se traduce como 'We are going to meet'.",
+      "related_lexeme_ids": [
+        "meet_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I am looking forward to my trip next weekend.'",
+      "options": null,
+      "correct_answer": "Estoy deseando hacer mi viaje el próximo fin de semana.",
+      "explanation_md": "'Look forward to' expresa ilusión o entusiasmo por un evento futuro.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto y responde: ¿Qué va a hacer Sara a las tres de la tarde?",
+      "options": [
+        "Ver a su médico",
+        "Tener una reunión con su gerente",
+        "Almorzar con un colega",
+        "Descansar en su casa"
+      ],
+      "correct_answer": "Ver a su médico",
+      "explanation_md": "El texto indica expresamente: 'At three o'clock, she is seeing her doctor for an important appointment.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Sara has a busy schedule today. She is meeting her manager at ten o'clock to talk about a new project. Later, she plans to have lunch with a colleague at a restaurant. At three o'clock, she is seeing her doctor for an important appointment. She is looking forward to resting tonight at home.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el audio y responde: ¿Qué planea hacer Tom el próximo fin de semana?",
+      "options": [
+        "Visitar a su familia",
+        "Comprar un auto nuevo",
+        "Trabajar en la oficina",
+        "Descansar en un hotel"
+      ],
+      "correct_answer": "Visitar a su familia",
+      "explanation_md": "En la grabación se escucha: 'He plans to visit his family next weekend.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "Tom is very happy today. He plans to visit his family next weekend. He is buying his train tickets right now.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "free_production",
+      "prompt_md": "Escribe 2 o 3 oraciones en inglés sobre un plan que cambió. Usa 'was/were going to + verbo' para explicar la intención original y propone una alternativa para reprogramar la cita.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Usa 'was/were going to + verbo' para una intención pasada que cambió y añade una alternativa con 'instead'.",
+      "related_lexeme_ids": [
+        "meet_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I was going to meet my friend on Friday, but I have an appointment. Can we meet on Saturday instead?",
+        "We were going to have dinner tonight, but my sister is ill. Could we meet tomorrow instead?"
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la oración gramaticalmente correcta para expresar una intención futura:",
+      "options": [
+        "He is going to start a new course next month.",
+        "He going to start a new course next month.",
+        "He is go to start a new course next month.",
+        "He is going start a new course next month."
+      ],
+      "correct_answer": "He is going to start a new course next month.",
+      "explanation_md": "La estructura requiere el auxiliar 'be' (is), seguido de 'going to' y el verbo principal en infinitivo (start).",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la opción que explica un plan que cambió y propone reprogramar la cita:",
+      "options": [
+        "I was going to meet you on Friday, but I have an appointment. Can we meet on Saturday instead?",
+        "I am meeting you on Friday at three o'clock.",
+        "I was meeting you on Friday, but I have an appointment.",
+        "I was going meet you on Friday, but I have an appointment."
+      ],
+      "correct_answer": "I was going to meet you on Friday, but I have an appointment. Can we meet on Saturday instead?",
+      "explanation_md": "Usamos 'was going to + verbo' para una intención pasada que cambió, y 'instead' para proponer la alternativa.",
+      "related_lexeme_ids": [
+        "meet_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Qué propuso la prima para reprogramar el encuentro? / Read the short story and answer: What did the cousin suggest to reschedule the meeting?",
+      "options": [
+        "Reunirse el jueves.",
+        "Reunirse el mismo martes a las cuatro.",
+        "Cancelar el encuentro para siempre.",
+        "Reunirse en la consulta del médico."
+      ],
+      "correct_answer": "Reunirse el jueves.",
+      "explanation_md": "La prima propuso reunirse el jueves en lugar del martes. / The cousin suggested meeting on Thursday instead of Tuesday.",
+      "related_lexeme_ids": [
+        "meet_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Last Tuesday, I was going to meet my cousin at a café after work. I had an appointment at four, but the doctor was running late. I sent my cousin a message and explained the problem. She suggested meeting on Thursday instead. I was disappointed, but I was looking forward to seeing her. We confirmed the new time and met two days later.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Qué hizo la narradora después de que cancelaran su tren? / Listen to the short story and answer: What did the narrator do after her train was cancelled?",
+      "options": [
+        "Llamó al gimnasio y pidió otra cita.",
+        "Regresó a casa sin avisar a nadie.",
+        "Canceló la clase del lunes.",
+        "Compró un coche nuevo."
+      ],
+      "correct_answer": "Llamó al gimnasio y pidió otra cita.",
+      "explanation_md": "Después de la cancelación, la narradora llamó al gimnasio para reprogramar el encuentro con la entrenadora. / After the cancellation, the narrator called the gym to reschedule the meeting with the trainer.",
+      "related_lexeme_ids": [
+        "meet_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I was going to meet a fitness trainer at the gym on Saturday, but my train was cancelled. I called the gym and asked whether I could meet her on Monday instead. The receptionist offered me a place in the evening class. I accepted, and we arranged the new time. I am looking forward to trying it.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "meet",
+      "back": "reunirse / quedar / encontrarse",
+      "hint": "verbo principal para quedar con alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_008",
+        "B1",
+        "social_plans"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "are meeting",
+      "back": "nos reunimos / vamos a quedar (plan fijo)",
+      "hint": "present continuous para planes ya agendados",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_008",
+        "B1",
+        "social_plans"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "is going to meet",
+      "back": "va a reunirse / va a quedar",
+      "hint": "be going to para intención previa",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_008",
+        "B1",
+        "social_plans"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "are meeting tomorrow",
+      "back": "nos reunimos mañana",
+      "hint": "disposición o arreglo con fecha fija",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_008",
+        "B1",
+        "social_plans"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "going to meet later",
+      "back": "va a reunirse más tarde",
+      "hint": "intención personal para más tarde",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_008",
+        "B1",
+        "social_plans"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [],
+  "lesson_vocabulary": [
+    {
+      "term": "appointment",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "cita / hora / citado",
+      "lexeme_id": "appointment",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "Going to and present continuous for intentions and fixed arrangements.",
+        "ex_007",
+        "ex_009",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "intention",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "intención",
+      "lexeme_id": "intention",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "Going to and present continuous for intentions and fixed arrangements.",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "plan to",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction"
+      ]
+    },
+    {
+      "term": "look forward to",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "esperar con ilusión",
+      "lexeme_id": "look_forward_to_phrase",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction"
+      ]
+    },
+    {
+      "term": "going to",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "ir a (planes futuros)",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_005",
+        "Going to and present continuous for intentions and fixed arrangements.",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "fc_003",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "present continuous",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "Going to and present continuous for intentions and fixed arrangements.",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "review",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_002",
+        "ex_005",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_001",
+        "fc_002",
+        "fc_003",
+        "fc_004",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "ex_007",
+        "ex_012",
+        "fc_002",
+        "fc_004",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012",
+        "quiz_001:q_006",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "visit",
+      "role": "support",
+      "status": "emergent",
+      "translation": "visitar",
+      "lexeme_id": "visit_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_007",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "later",
+      "role": "support",
+      "status": "emergent",
+      "translation": "luego / más tarde",
+      "lexeme_id": "later_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "train",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tren",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "o'clock",
+      "role": "support",
+      "status": "emergent",
+      "translation": "en punto",
+      "lexeme_id": "oclock_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "future",
+      "role": "support",
+      "status": "emergent",
+      "translation": "futuro",
+      "lexeme_id": "future_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "trip",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viaje",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "ticket",
+      "role": "support",
+      "status": "emergent",
+      "translation": "boleto / billete / ticket",
+      "lexeme_id": "ticket",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "rest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "descansar",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "important",
+      "role": "support",
+      "status": "emergent",
+      "translation": "importante",
+      "lexeme_id": "important_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "clock",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reloj",
+      "lexeme_id": "clock",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "fix",
+      "role": "support",
+      "status": "emergent",
+      "translation": "arreglar",
+      "lexeme_id": "fix_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "arrangement",
+      "role": "support",
+      "status": "emergent",
+      "translation": "arreglo",
+      "lexeme_id": "arrangement",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "instead",
+      "role": "support",
+      "status": "emergent",
+      "translation": "en lugar de",
+      "lexeme_id": "instead_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "listen to",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuchar",
+      "lexeme_id": "listen_to_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "suggest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sugerir",
+      "lexeme_id": "suggest_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "Saturday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sábado",
+      "lexeme_id": "saturday",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_013",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "have dinner",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cenar",
+      "lexeme_id": "have_dinner_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_009"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 1,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "meeting",
+      "friend",
+      "work",
+      "visit",
+      "doctor",
+      "home",
+      "later",
+      "talk",
+      "train",
+      "manager",
+      "weekend",
+      "family",
+      "o'clock",
+      "future",
+      "trip",
+      "ticket",
+      "rest",
+      "important",
+      "clock",
+      "project",
+      "see",
+      "finish",
+      "fix",
+      "arrangement",
+      "instead",
+      "listen to",
+      "suggest",
+      "Saturday",
+      "have dinner",
+      "time",
+      "book",
+      "ask"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Expresar intenciones y cambios",
+      "title_target": "Quiz: Expressing intentions and plans",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué oración expresa una intención futura planificada usando la estructura 'be going to'?",
+          "prompt_target": "Which sentence expresses a planned future intention using the structure 'be going to'?",
+          "options": [
+            "I am going to buy a new car next month.",
+            "I bought a new car last month.",
+            "I buy a new car every day.",
+            "I was buying a new car."
+          ],
+          "correct_answer": "I am going to buy a new car next month.",
+          "explanation_form": "La estructura 'be going to' se utiliza para hablar de intenciones o planes que ya hemos decidido realizar en el futuro.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la oración con la forma correcta de Present Continuous para expresar un plan confirmado: 'We ____ (meet) Sarah at the restaurant tonight.'",
+          "prompt_target": "Complete the sentence with the correct Present Continuous form to express a confirmed plan: 'We ____ (meet) Sarah at the restaurant tonight.'",
+          "options": null,
+          "correct_answer": "are meeting",
+          "explanation_form": "Usamos el Present Continuous ('are meeting') para planes o arreglos ya agendados y confirmados con otras personas.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el audio y responde: ¿Qué va a hacer el hablante después de tomar café con su amigo?",
+          "prompt_target": "Listen to the audio and answer: What is the speaker going to do after having coffee with his friend?",
+          "options": [
+            "He is going to buy a new book.",
+            "He is going to sleep.",
+            "He is going to work.",
+            "He is going to travel."
+          ],
+          "correct_answer": "He is going to buy a new book.",
+          "explanation_form": "En el audio el hablante dice: 'I am going to buy a new book after that'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I am meeting my friend tomorrow at the cafe. We are having coffee and talking about our new plans. I am going to buy a new book after that.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Ella va a estudiar medicina el próximo año.'",
+          "prompt_target": "Translate into English: 'She is going to study medicine next year.'",
+          "options": null,
+          "correct_answer": "She is going to study medicine next year.",
+          "explanation_form": "Para indicar intenciones en tercera persona singular se utiliza 'is going to' seguido del verbo principal sin cambios ('study').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el audio y responde: ¿Cuándo viaja ella a Londres?",
+          "prompt_target": "Listen to the audio and answer: When is she travelling to London?",
+          "options": [
+            "Next Monday.",
+            "This Friday.",
+            "Next month.",
+            "Today."
+          ],
+          "correct_answer": "Next Monday.",
+          "explanation_form": "El audio indica claramente el plan agendado: 'She is flying to London next Monday'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "She is flying to London next Monday. Her sister is meeting her at the airport. They are going to visit a museum together.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué van a hacer John y Mary el sábado?",
+          "prompt_target": "Read the text and answer: What are John and Mary going to do on Saturday?",
+          "options": [
+            "They are meeting their friends for a picnic.",
+            "They are studying for an exam.",
+            "They are working at the store.",
+            "They are watching a movie."
+          ],
+          "correct_answer": "They are meeting their friends for a picnic.",
+          "explanation_form": "El texto especifica que el sábado se reunirán con amigos para un picnic ('they are meeting their friends at the park for a picnic').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "John and Mary have big plans for the weekend. On Saturday, they are meeting their friends at the park for a picnic. On Sunday, Mary is going to study for her exam, and John is working at the store. In the evening, they are going to watch a movie together at home.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración correcta sobre un viaje ya planificado:",
+          "prompt_target": "Put the words in order to make a correct sentence about a planned trip:",
+          "options": [
+            "They",
+            "are",
+            "travelling",
+            "to",
+            "Spain",
+            "next",
+            "month"
+          ],
+          "correct_answer": "They are travelling to Spain next month",
+          "explanation_form": "El orden estándar para Present Continuous como futuro agendado es: Sujeto (They) + auxiliar (are) + verbo-ing (travelling) + complemento de lugar (to Spain) + expresión de tiempo (next month).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada estructura gramatical con la función que cumple según el contexto:",
+          "prompt_target": "Match each grammatical structure with the function it serves in context:",
+          "options": [
+            "be going to + verb",
+            "Intención o plan personal",
+            "present continuous",
+            "Arreglo o cita fija con hora/fecha"
+          ],
+          "correct_answer": [
+            "be going to + verb=Intención o plan personal",
+            "present continuous=Arreglo o cita fija con hora/fecha"
+          ],
+          "explanation_form": "'be going to' enfatiza la intención personal, mientras que el Present Continuous resalta que existe un arreglo firme o cita acordada.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Por qué pospuso la narradora su visita?",
+          "prompt_target": "Read the story and answer: Why did the narrator postpone her visit?",
+          "options": [
+            "Porque su gerente le pidió quedarse para una reunión urgente.",
+            "Porque su tía había cancelado el viaje.",
+            "Porque tenía una cita en el gimnasio.",
+            "Porque no quería volver a ver a su familia."
+          ],
+          "correct_answer": "Porque su gerente le pidió quedarse para una reunión urgente.",
+          "explanation_form": "La narradora iba a visitar a su tía, pero su gerente le pidió quedarse para una reunión urgente; por eso propuso el domingo.",
+          "explanation_target": "The narrator was going to visit her aunt, but her manager asked her to stay for an urgent meeting, so she suggested Sunday.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "meet_verb",
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "On Friday, I was going to visit my aunt after work. However, my manager asked me to stay for an urgent meeting. I sent my aunt a message, apologized and suggested visiting her on Sunday instead. She was understanding, so we confirmed the new plan. I am looking forward to seeing her then.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Qué alternativa propuso la amiga?",
+          "prompt_target": "Listen to the story and answer: What alternative did the friend suggest?",
+          "options": [
+            "Reunirse el miércoles siguiente.",
+            "Cenar esa misma noche.",
+            "Viajar juntos el próximo mes.",
+            "Cancelar todos sus planes."
+          ],
+          "correct_answer": "Reunirse el miércoles siguiente.",
+          "explanation_form": "La amiga propuso reunirse el miércoles siguiente en lugar de esa noche. / The friend suggested meeting next Wednesday instead of that night.",
+          "explanation_target": "The friend suggested meeting next Wednesday instead of that night.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "meet_verb",
+            "Going to and present continuous for intentions and fixed arrangements."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I was going to have dinner with my friend tonight, but I have a bad cold. I called her and explained the situation. She suggested meeting next Wednesday instead, and I agreed. We are going to book a table tomorrow. I am disappointed, but I am looking forward to our dinner.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Planes fijos vs. Intenciones\nEn inglés usamos dos estructuras distintas según la certeza y coordinación de tus planes:\n- **Present continuous** (*I'm meeting...*): Úsalo para **compromisos fijos** y coordinados con otra persona, fecha o lugar establecido. Ej: *I'm meeting John at 4 PM.*\n- **Be going to** (*I'm going to meet...*): Úsalo para **intenciones o decisiones previas**, cuando tienes la idea de hacer algo pero aún no coordinaste los detalles fijos.\n\n## Cómo comunicar un cambio de plan\nPara modificar o cancelar una cita de forma natural en un mensaje:\n- Usa el pasado de intenciones: *I was going to meet you, but...* (Iba a reunirme contigo, pero...).\n- Propón una alternativa con *instead*: *Can we meet on Friday instead?* (¿Podemos encontrarnos el viernes en su lugar?)\n\n💡 **Tip de fluidez:** Con verbos de movimiento como *go* o *come*, es más natural usar el presente continuo (*I'm going to the party*) que la forma repetitiva (*I'm going to go to the party*).",
+  "metadata": {
+    "generated_at": "2026-08-29T18:24:11Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

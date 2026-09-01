@@ -1,0 +1,1437 @@
+{
+  "id": "lesson_014",
+  "position": 14,
+  "unit_id": 3,
+  "course_id": "en.A1",
+  "title_form": "La hora",
+  "title_target": "Telling the Time",
+  "theme_focus": "Decir la hora en punto y con minutos.",
+  "learning_objectives": [
+    "Can tell the time using o'clock and half past.",
+    "Can ask what time it is."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_013"
+  ],
+  "grammar_focus": [
+    "present simple: be (it is + time)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "clock",
+        "hour",
+        "half",
+        "oclock_adv",
+        "time",
+        "now",
+        "today",
+        "tomorrow",
+        "yesterday",
+        "past_prep"
+      ],
+      "chunk_ids": [
+        "chunk_what_time_is_it",
+        "chunk_its_oclock",
+        "chunk_its_half_past"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "morning",
+        "afternoon",
+        "evening",
+        "night"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana está en su casa y mira el reloj. Hoy tiene una clase de inglés a las tres en punto. Su amigo Tom le pregunta qué hora es, y Ana le responde. Después hablan de sus planes para hoy y para mañana.",
+  "introduction_md": "## La hora\n\nEn esta lección vas a aprender a decir la hora en inglés. Es una habilidad muy útil para la vida diaria: para llegar a tiempo a una cita, para quedar con amigos o para saber cuándo empieza una clase.\n\nVamos a ver:\n\n- Cómo preguntar **¿Qué hora es?**\n- Cómo decir la hora **en punto** (o'clock)\n- Cómo decir **y media** (half past)\n\nCon estos tres bloques, podrás hablar de tu día y entender a los demás. ¡Vamos a empezar!",
+  "intro_target": "## Telling the Time\n\nIn this lesson, you will learn to tell the time in English. It is a very useful skill for daily life: to arrive on time for an appointment, to meet friends, or to know when a class starts.\n\nWe will see:\n\n- How to ask **What time is it?**\n- How to say the time **on the hour** (o'clock)\n- How to say **half past**\n\nWith these three blocks, you can talk about your day and understand others. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_time_is_it",
+      "grammar_slug": null,
+      "text_target": "What time is it now?",
+      "translation_form": "¿Qué hora es ahora?",
+      "highlight_words": [
+        "time",
+        "now"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_its_oclock",
+      "grammar_slug": null,
+      "text_target": "It is one o'clock in the afternoon.",
+      "translation_form": "Es la una en punto de la tarde.",
+      "highlight_words": [
+        "o'clock",
+        "afternoon"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": "chunk_its_half_past",
+      "grammar_slug": null,
+      "text_target": "It is half past eight in the morning.",
+      "translation_form": "Son las ocho y media de la mañana.",
+      "highlight_words": [
+        "half",
+        "past",
+        "morning"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "clock",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The clock is in the office.",
+      "translation_form": "El reloj está en la oficina.",
+      "highlight_words": [
+        "clock"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The meeting starts in one hour.",
+      "translation_form": "La reunión empieza en una hora.",
+      "highlight_words": [
+        "hour"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "today",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Today is a good day to meet my friend.",
+      "translation_form": "Hoy es un buen día para ver a mi amigo.",
+      "highlight_words": [
+        "today",
+        "friend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: be (it is + time)",
+      "title_form": "El verbo ser/estar con la hora",
+      "title_target": "The verb to be with time",
+      "description_md_form": "Para decir la hora en inglés, usamos **it is** (es/está) + la hora. Es una forma fija: **it** no cambia, siempre es singular. Para decir \"en punto\" usamos **o'clock** y para \"y media\" usamos **half past**. Ejemplos: **It is one o'clock** (Es la una en punto) y **It is half past eight** (Son las ocho y media). Para preguntar la hora, usamos la pregunta fija **What time is it?** (¿Qué hora es?). Esta estructura es muy simple: no cambia con la persona, solo con la hora.",
+      "description_md_target": "To tell the time in English, we use **it is** + the time. It is a fixed form: **it** never changes, it is always singular. To say \"o'clock\" we use **o'clock** and for \"half past\" we use **half past**. Examples: **It is one o'clock** and **It is half past eight**. To ask the time, we use the fixed question **What time is it?**. This structure is very simple: it does not change with the person, only with the time.",
+      "grammar_structure": "It is + [hour] + o'clock / half past + [hour]",
+      "conjugation_table": {
+        "name": "present_simple_be_time",
+        "headers": [
+          "Expresión",
+          "Uso",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "It is one o'clock",
+            "Hora en punto",
+            "Es la una en punto"
+          ],
+          [
+            "It is half past eight",
+            "Hora y media",
+            "Son las ocho y media"
+          ],
+          [
+            "It is two o'clock",
+            "Hora en punto",
+            "Son las dos en punto"
+          ],
+          [
+            "It is half past three",
+            "Hora y media",
+            "Son las tres y media"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_what_time_is_it",
+          "grammar_slug": null,
+          "text_target": "What time is it now?",
+          "translation_form": "¿Qué hora es ahora?",
+          "highlight_words": [
+            "what",
+            "time",
+            "is",
+            "it",
+            "now"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": "chunk_its_oclock",
+          "grammar_slug": null,
+          "text_target": "It is one o'clock in the afternoon.",
+          "translation_form": "Es la una en punto de la tarde.",
+          "highlight_words": [
+            "it",
+            "is",
+            "one",
+            "o'clock",
+            "in",
+            "the",
+            "afternoon"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**It is** se puede contraer a **It's**. Ambas formas son correctas: **It's one o'clock** = **It is one o'clock**."
+        },
+        {
+          "type": "common_error",
+          "text_md": "En español decimos \"son las ocho\", pero en inglés **it** siempre es singular: **It is eight o'clock**, nunca \"they are eight\"."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'are' en vez de 'is': **It are one o'clock** es incorrecto. Siempre usamos **it is**.",
+        "Olvidar 'o'clock' para horas en punto: **It is one** suena incompleto. Mejor: **It is one o'clock**.",
+        "Confundir 'half past' con 'half to': **half past eight** = ocho y media, no ocho menos media."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'clock'?",
+      "options": [
+        "reloj",
+        "hora",
+        "minuto",
+        "día"
+      ],
+      "correct_answer": "reloj",
+      "explanation_md": "'Clock' es el objeto que marca la hora, el reloj.",
+      "related_lexeme_ids": [
+        "clock"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'half'?",
+      "options": [
+        "media",
+        "hora",
+        "cuarto",
+        "minuto"
+      ],
+      "correct_answer": "media",
+      "explanation_md": "'Half' significa 'media', como en 'half past' (y media).",
+      "related_lexeme_ids": [
+        "half"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cómo preguntamos '¿Qué hora es?' en inglés?",
+      "options": [
+        "What time is it?",
+        "What is the clock?",
+        "What hour is it?",
+        "What time is now?"
+      ],
+      "correct_answer": "What time is it?",
+      "explanation_md": "La forma natural de preguntar la hora es 'What time is it?'.",
+      "related_lexeme_ids": [
+        "time"
+      ],
+      "related_chunk_ids": [
+        "chunk_what_time_is_it"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Son las 8:30. ¿Cómo lo decimos en inglés?",
+      "options": [
+        "It is half past eight.",
+        "It is eight o'clock.",
+        "It is half eight.",
+        "It is eight and half."
+      ],
+      "correct_answer": "It is half past eight.",
+      "explanation_md": "Para las medias horas usamos 'half past' + la hora.",
+      "related_lexeme_ids": [
+        "half",
+        "past_prep"
+      ],
+      "related_chunk_ids": [
+        "chunk_its_half_past"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'It is two ____ in the afternoon.' (en punto)",
+      "options": null,
+      "correct_answer": "o'clock",
+      "explanation_md": "Usamos 'o'clock' para las horas en punto.",
+      "related_lexeme_ids": [
+        "oclock_adv"
+      ],
+      "related_chunk_ids": [
+        "chunk_its_oclock"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'What ____ is it now?'",
+      "options": null,
+      "correct_answer": "time",
+      "explanation_md": "La pregunta por la hora es 'What time is it?'.",
+      "related_lexeme_ids": [
+        "time",
+        "now"
+      ],
+      "related_chunk_ids": [
+        "chunk_what_time_is_it"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Es la una en punto.'",
+      "options": null,
+      "correct_answer": "It is one o'clock.",
+      "explanation_md": "Para la hora en punto usamos 'It is' + número + 'o'clock'.",
+      "related_lexeme_ids": [
+        "oclock_adv"
+      ],
+      "related_chunk_ids": [
+        "chunk_its_oclock"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'It is half past seven in the morning.'",
+      "options": null,
+      "correct_answer": "Son las siete y media de la mañana.",
+      "explanation_md": "'Half past seven' = 'siete y media'; 'in the morning' = 'de la mañana'.",
+      "related_lexeme_ids": [
+        "half",
+        "past_prep",
+        "morning"
+      ],
+      "related_chunk_ids": [
+        "chunk_its_half_past"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "hour",
+        "hora",
+        "today",
+        "hoy",
+        "tomorrow",
+        "mañana",
+        "yesterday",
+        "ayer"
+      ],
+      "correct_answer": [
+        "hour=hora",
+        "today=hoy",
+        "tomorrow=mañana",
+        "yesterday=ayer"
+      ],
+      "explanation_md": "Estas palabras indican momentos en el tiempo: hora, hoy, mañana y ayer.",
+      "related_lexeme_ids": [
+        "hour",
+        "today",
+        "tomorrow",
+        "yesterday"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿a qué hora es la clase?",
+      "options": [
+        "A las nueve en punto.",
+        "A las diez en punto.",
+        "A las ocho en punto.",
+        "A las once en punto."
+      ],
+      "correct_answer": "A las diez en punto.",
+      "explanation_md": "La clase es a las 9 + 1 hora = a las 10 en punto.",
+      "related_lexeme_ids": [
+        "clock",
+        "hour",
+        "oclock_adv",
+        "today"
+      ],
+      "related_chunk_ids": [
+        "chunk_its_oclock"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is a student. She has a class today. She looks at the clock in the office. It is nine o'clock in the morning. Her class starts in one hour. She is happy.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿qué hora es?",
+      "options": [
+        "Son las cuatro en punto.",
+        "Son las cuatro y media.",
+        "Son las cinco en punto.",
+        "Son las tres y media."
+      ],
+      "correct_answer": "Son las cuatro y media.",
+      "explanation_md": "'Half past four' significa 'cuatro y media'.",
+      "related_lexeme_ids": [
+        "half",
+        "past_prep",
+        "now",
+        "afternoon"
+      ],
+      "related_chunk_ids": [
+        "chunk_what_time_is_it",
+        "chunk_its_half_past"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Excuse me. What time is it now? It is half past four in the afternoon. Thank you very much.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu rutina. Usa 'in the morning', 'in the afternoon' o 'in the evening' y la hora (por ejemplo: 'It is eight o'clock in the morning.').",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de la hora con 'o'clock' o 'half past' y las partes del día.",
+      "related_lexeme_ids": [
+        "oclock_adv",
+        "half",
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "related_chunk_ids": [
+        "chunk_its_oclock",
+        "chunk_its_half_past"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "It is seven o'clock in the morning. I have breakfast.",
+        "It is half past five in the evening. I am at home."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "clock",
+      "back": "reloj",
+      "hint": "objeto que marca la hora",
+      "lexeme_id": "clock",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "hour",
+      "back": "hora",
+      "hint": "unidad de tiempo",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "half",
+      "back": "y media",
+      "hint": "30 minutos",
+      "lexeme_id": "half",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "o'clock",
+      "back": "en punto",
+      "hint": "hora exacta",
+      "lexeme_id": "oclock_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "time",
+      "back": "hora / tiempo",
+      "hint": "pregunta por la hora",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "now",
+      "back": "ahora",
+      "hint": "en este momento",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "today",
+      "back": "hoy",
+      "hint": "este día",
+      "lexeme_id": "today",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "tomorrow",
+      "back": "mañana",
+      "hint": "el día siguiente",
+      "lexeme_id": "tomorrow",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "yesterday",
+      "back": "ayer",
+      "hint": "el día anterior",
+      "lexeme_id": "yesterday",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "past",
+      "back": "y / pasadas (la hora)",
+      "hint": "minutos después de la hora",
+      "lexeme_id": "past_prep",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "What time is it?",
+      "back": "¿Qué hora es?",
+      "hint": "pregunta por la hora",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_time_is_it",
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "It's [hour] o'clock.",
+      "back": "Son las ... en punto.",
+      "hint": "hora exacta",
+      "lexeme_id": null,
+      "chunk_id": "chunk_its_oclock",
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "It's half past [hour].",
+      "back": "Son las ... y media.",
+      "hint": "30 minutos",
+      "lexeme_id": null,
+      "chunk_id": "chunk_its_half_past",
+      "target_term": null,
+      "tags": [
+        "lesson_014",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "clock",
+      "reading": "",
+      "translation": "reloj",
+      "pos": "noun",
+      "example": "The clock is in the office.",
+      "example_translation": "El reloj está en la oficina.",
+      "lexeme_id": "clock",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hour",
+      "reading": "",
+      "translation": "hora",
+      "pos": "noun",
+      "example": "The meeting starts in one hour.",
+      "example_translation": "La reunión empieza en una hora.",
+      "lexeme_id": "hour",
+      "chunk_id": null
+    },
+    {
+      "target_word": "half",
+      "reading": "",
+      "translation": "y media",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "half",
+      "chunk_id": null
+    },
+    {
+      "target_word": "o'clock",
+      "reading": "",
+      "translation": "en punto",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "oclock_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "time",
+      "reading": "",
+      "translation": "hora / tiempo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "time",
+      "chunk_id": null
+    },
+    {
+      "target_word": "now",
+      "reading": "",
+      "translation": "ahora",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "now",
+      "chunk_id": null
+    },
+    {
+      "target_word": "today",
+      "reading": "",
+      "translation": "hoy",
+      "pos": "noun",
+      "example": "Today is a good day to meet my friend.",
+      "example_translation": "Hoy es un buen día para ver a mi amigo.",
+      "lexeme_id": "today",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tomorrow",
+      "reading": "",
+      "translation": "mañana",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "tomorrow",
+      "chunk_id": null
+    },
+    {
+      "target_word": "yesterday",
+      "reading": "",
+      "translation": "ayer",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "yesterday",
+      "chunk_id": null
+    },
+    {
+      "target_word": "past",
+      "reading": "",
+      "translation": "y / pasadas (la hora)",
+      "pos": "preposition",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "past_prep",
+      "chunk_id": null
+    },
+    {
+      "target_word": "What time is it?",
+      "reading": "",
+      "translation": "¿Qué hora es?",
+      "pos": "chunk",
+      "example": "What time is it now?",
+      "example_translation": "¿Qué hora es ahora?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_time_is_it"
+    },
+    {
+      "target_word": "It's [hour] o'clock.",
+      "reading": "",
+      "translation": "Son las ... en punto.",
+      "pos": "chunk",
+      "example": "It is one o'clock in the afternoon.",
+      "example_translation": "Es la una en punto de la tarde.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_its_oclock"
+    },
+    {
+      "target_word": "It's half past [hour].",
+      "reading": "",
+      "translation": "Son las ... y media.",
+      "pos": "chunk",
+      "example": "It is half past eight in the morning.",
+      "example_translation": "Son las ocho y media de la mañana.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_its_half_past"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "clock",
+      "role": "support",
+      "status": "practiced",
+      "translation": "reloj",
+      "lexeme_id": "clock",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_001",
+        "ex_010",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "hour",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hora",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_010",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "half",
+      "role": "support",
+      "status": "practiced",
+      "translation": "y media",
+      "lexeme_id": "half",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_004",
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "o'clock",
+      "role": "support",
+      "status": "practiced",
+      "translation": "en punto",
+      "lexeme_id": "oclock_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_006",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_011",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hoy",
+      "lexeme_id": "today",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "ex_010",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "tomorrow",
+      "role": "support",
+      "status": "practiced",
+      "translation": "mañana",
+      "lexeme_id": "tomorrow",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ayer",
+      "lexeme_id": "yesterday",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "past",
+      "role": "support",
+      "status": "practiced",
+      "translation": "y / pasadas (la hora)",
+      "lexeme_id": "past_prep",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_008",
+        "ex_011",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "What time is it?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Qué hora es?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_time_is_it",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "ex_006",
+        "ex_011",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "It's [hour] o'clock.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Son las ... en punto.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_its_oclock",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_005",
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "It's half past [hour].",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Son las ... y media.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_its_half_past",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_004",
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "review",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "afternoon",
+      "role": "support",
+      "status": "review",
+      "translation": "tarde",
+      "lexeme_id": "afternoon",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_010",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "exm_006"
+      ]
+    },
+    {
+      "term": "office",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oficina",
+      "lexeme_id": "office",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "wall",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pared",
+      "lexeme_id": "wall",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "tomorrow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "thirty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 13,
+    "review_support_count": 2,
+    "emergent_count": 11,
+    "emergent_terms": [
+      "today",
+      "meet",
+      "office",
+      "good",
+      "day",
+      "friend",
+      "wall",
+      "yesterday",
+      "tomorrow",
+      "meeting",
+      "thirty"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: La hora",
+      "title_target": "Quiz: Telling the Time",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué hora es?",
+          "prompt_target": "What time is it?",
+          "options": [
+            "It is one o'clock.",
+            "It is two o'clock.",
+            "It is three o'clock.",
+            "It is four o'clock."
+          ],
+          "correct_answer": "It is one o'clock.",
+          "explanation_form": "La respuesta correcta es 'It is one o'clock.' porque la imagen muestra la una en punto.",
+          "explanation_target": "The correct answer is 'It is one o'clock.' because the picture shows one o'clock.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "oclock_adv",
+            "chunk_its_oclock"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____ is it?'",
+          "prompt_target": "Complete the sentence: '____ is it?'",
+          "options": null,
+          "correct_answer": "What time",
+          "explanation_form": "La pregunta correcta es 'What time is it?' para preguntar la hora.",
+          "explanation_target": "The correct question is 'What time is it?' to ask the time.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_what_time_is_it"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": null,
+          "options": [
+            "clock",
+            "reloj",
+            "hour",
+            "hora",
+            "half",
+            "media"
+          ],
+          "correct_answer": [
+            "clock=reloj",
+            "hour=hora",
+            "half=media"
+          ],
+          "explanation_form": "Estas son las palabras clave para hablar de la hora.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "clock",
+            "hour",
+            "half"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "It is half past two.",
+            "It is two o'clock.",
+            "It is half past three."
+          ],
+          "correct_answer": "It is half past two.",
+          "explanation_form": "El audio dice 'It is half past two', que significa 'Son las dos y media'.",
+          "explanation_target": "The audio says 'It is half past two', which means it is two thirty.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_its_half_past",
+            "half"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "What time is it? It is half past two. It is two thirty.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "is",
+            "it",
+            "What",
+            "time",
+            "?"
+          ],
+          "correct_answer": "What time is it?",
+          "explanation_form": "La pregunta correcta es 'What time is it?'.",
+          "explanation_target": "The correct question is 'What time is it?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_what_time_is_it"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'It is half past one.'?",
+          "prompt_target": "What does 'It is half past one.' mean?",
+          "options": [
+            "Es la una y media.",
+            "Es la una en punto.",
+            "Son las dos y media."
+          ],
+          "correct_answer": "Es la una y media.",
+          "explanation_form": "'Half past one' significa 'la una y media'.",
+          "explanation_target": "'Half past one' means one thirty.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "half",
+            "chunk_its_half_past"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la hora correcta:",
+          "prompt_target": "Listen and choose the correct time:",
+          "options": [
+            "It is three o'clock.",
+            "It is two o'clock.",
+            "It is four o'clock."
+          ],
+          "correct_answer": "It is three o'clock.",
+          "explanation_form": "El audio dice 'It is three o'clock now', que significa 'Son las tres en punto ahora'.",
+          "explanation_target": "The audio says 'It is three o'clock now', which means it is three o'clock.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "oclock_adv",
+            "chunk_its_oclock",
+            "now"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "It is three o'clock now. It is time for lunch.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## La hora en ingles\n\nPara decir la hora en punto usa **o'clock**: *It is two o'clock*. Para la media hora usa **half past**: *It is half past two*. La palabra **past** significa \"pasadas de\". Recuerda: en ingles no dices \"son las dos\", dices **it is** (es).\n\n## Errores comunes\n\n- No digas *It is two hours*. Usa **o'clock** para la hora exacta.\n- No digas *It is half two*. La forma correcta es **half past two**.\n- Para preguntar la hora, usa la frase fija **What time is it?**. No la traduzcas palabra por palabra.\n\n**Tip**: piensa en la hora como un punto en el reloj (**clock**), no como una cantidad de tiempo. Asi recordaras usar **it is** en vez de \"there are\".",
+  "metadata": {
+    "generated_at": "2026-08-31T21:33:20Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

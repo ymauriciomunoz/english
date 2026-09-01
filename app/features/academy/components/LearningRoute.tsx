@@ -68,13 +68,13 @@ export function LearningRoute({ completed, selectedLevel, onSelectLevel, onOpenL
           const done = completed.includes(lesson.id);
           const sequentiallyUnlocked = isLessonUnlocked(lesson, completed);
           const current = sequentiallyUnlocked && !done && (index === 0 || completed.includes(visibleLessons[index - 1].id));
-          const showUnitHeading = lesson.level === "A1" && (index === 0 || visibleLessons[index - 1].unit !== lesson.unit);
+          const showUnitHeading = lesson.unit !== undefined && (index === 0 || visibleLessons[index - 1].unit !== lesson.unit);
           return <Fragment key={lesson.id}>
-            {showUnitHeading && <div className="a1-unit-divider"><span>{lesson.unit === "pre-A1" ? "PREPARACIÓN" : `UNIDAD ${lesson.unit}`}</span><div /><small>{visibleLessons.filter((item) => item.unit === lesson.unit).length} lecciones</small></div>}
+            {showUnitHeading && <div className="a1-unit-divider"><span>UNIDAD {lesson.unit} · {lesson.unitTitle}</span><div /><small>{visibleLessons.filter((item) => item.unit === lesson.unit).length} lecciones</small></div>}
             <article className={`lesson-tile ${done ? "done" : ""} ${current ? "current" : ""} ${!sequentiallyUnlocked ? "locked" : ""}`} style={{ "--lc": levelData[selectedLevel].color, "--ls": levelVisuals[selectedLevel].secondary } as CSSProperties}>
               <div className="lt-accent" />
-              <div className="lt-header"><div className={`lt-num ${done ? "done" : current ? "cur" : ""}`}>{done ? "✓" : !sequentiallyUnlocked ? "◆" : lesson.number}</div><span className="lt-label">{lesson.level === "A1" ? `UNIDAD ${lesson.unit} · ` : ""}LECCIÓN {String(lesson.number).padStart(2, "0")}</span>{done && <span className="xp-tag">+20 XP</span>}{current && <span className="current-badge">EN CURSO</span>}</div>
-              <div className="lt-icon-row"><div className="lt-icon">{sequentiallyUnlocked ? lesson.icon : "·"}</div><div className="lt-text"><h3>{lesson.title}</h3><p>{lesson.summary}</p>{lesson.level === "A1" && <small className="lt-duration">◷ {lesson.duration} min · Lección completa</small>}</div></div>
+              <div className="lt-header"><div className={`lt-num ${done ? "done" : current ? "cur" : ""}`}>{done ? "✓" : !sequentiallyUnlocked ? "◆" : lesson.number}</div><span className="lt-label">{lesson.unit !== undefined ? `UNIDAD ${lesson.unit} · ` : ""}LECCIÓN {String(lesson.number).padStart(2, "0")}</span>{done && <span className="xp-tag">+20 XP</span>}{current && <span className="current-badge">EN CURSO</span>}</div>
+              <div className="lt-icon-row"><div className="lt-icon">{sequentiallyUnlocked ? lesson.icon : "·"}</div><div className="lt-text"><h3>{lesson.title}</h3><p>{lesson.summary}</p>{lesson.duration && <small className="lt-duration">◷ {lesson.duration} min · Lección completa</small>}</div></div>
               <div className="lt-foot"><button onClick={() => onOpenLesson(lesson)} className={`lt-btn ${current ? "primary" : done ? "review" : "default"}`} aria-label={`${done ? "Repasar" : "Abrir"} ${lesson.title}`}>{done ? "Repasar" : current ? "Empezar" : "Abrir"}<span className="lt-arrow">→</span></button></div>
             </article>
           </Fragment>;

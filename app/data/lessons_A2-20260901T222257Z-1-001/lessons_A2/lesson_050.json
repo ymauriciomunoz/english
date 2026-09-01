@@ -1,0 +1,1903 @@
+{
+  "id": "lesson_050",
+  "position": 50,
+  "unit_id": 7,
+  "course_id": "en.A2",
+  "title_form": "Describing your work schedule",
+  "title_target": "Describiendo tu horario de trabajo",
+  "theme_focus": "work",
+  "learning_objectives": [
+    "Can describe their work schedule using time expressions.",
+    "Can state their working hours and days off."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_049"
+  ],
+  "grammar_focus": [
+    "present simple: affirmative with work"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "part_time",
+        "day_off",
+        "salary",
+        "business",
+        "off",
+        "shift",
+        "skill",
+        "permit"
+      ],
+      "chunk_ids": [
+        "chunk_a2_i_work_part_time",
+        "chunk_a2_im_off_today"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "job",
+        "company",
+        "boss_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Carlos trabaja en una empresa de tecnología. Esta semana, habla con su compañera Ana sobre su horario: trabaja a tiempo parcial, tiene un día libre y su turno empieza a las nueve. También le pregunta sobre el salario y las habilidades necesarias para el trabajo.",
+  "introduction_md": "En esta lección vas a aprender a hablar sobre tu horario de trabajo en inglés. ¿Trabajas a tiempo parcial o a tiempo completo? ¿Qué días tienes libres? ¿Cuál es tu turno?\n\nVas a poder:\n\n- Decir tus horas de trabajo con expresiones de tiempo.\n- Hablar de tus días libres y tu salario.\n- Describir tu rutina laboral con el presente simple.\n\nEste tema es muy útil para conversaciones cotidianas, entrevistas y para hacer nuevos amigos. ¡Vamos a practicar con situaciones reales de la vida diaria!",
+  "intro_target": "In this lesson, you will learn to talk about your work schedule in English. Do you work part-time or full-time? What days are you off? What is your shift?\n\nYou will be able to:\n\n- Say your working hours with time expressions.\n- Talk about your days off and your salary.\n- Describe your work routine with the present simple.\n\nThis topic is very useful for everyday conversations, interviews, and making new friends. Let's practice with real-life situations!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "part_time",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I work part-time at a small company.",
+      "translation_form": "Trabajo a tiempo parcial en una empresa pequeña.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "day_off",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My day off is Monday, so I rest at home.",
+      "translation_form": "Mi día libre es el lunes, así que descanso en casa.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "salary",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The salary is good, but the job is hard.",
+      "translation_form": "El salario es bueno, pero el trabajo es duro.",
+      "highlight_words": [
+        "salary"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "business",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My boss runs a business in the city centre.",
+      "translation_form": "Mi jefe dirige un negocio en el centro de la ciudad.",
+      "highlight_words": [
+        "business"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am off on weekends, so I visit my family.",
+      "translation_form": "Estoy libre los fines de semana, así que visito a mi familia.",
+      "highlight_words": [
+        "off"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "shift",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My shift starts at eight in the morning.",
+      "translation_form": "Mi turno empieza a las ocho de la mañana.",
+      "highlight_words": [
+        "shift"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "skill",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She has a great skill for talking to customers.",
+      "translation_form": "Ella tiene una gran habilidad para hablar con los clientes.",
+      "highlight_words": [
+        "skill"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "permit",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You need a work permit to start the job.",
+      "translation_form": "Necesitas un permiso de trabajo para empezar el trabajo.",
+      "highlight_words": [
+        "permit"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_009",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_work_part_time",
+      "grammar_slug": null,
+      "text_target": "I work part-time, so I have time for my studies.",
+      "translation_form": "Trabajo a tiempo parcial, así que tengo tiempo para mis estudios.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_010",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_off_today",
+      "grammar_slug": null,
+      "text_target": "I'm off today, so I can go to the beach.",
+      "translation_form": "Hoy estoy libre, así que puedo ir a la playa.",
+      "highlight_words": [
+        "off"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: affirmative with work",
+      "title_form": "Presente simple: afirmativo con work",
+      "title_target": "Present Simple: Affirmative with Work",
+      "description_md_form": "Usamos el **presente simple** para hablar de rutinas y hechos. Con el verbo **work**, la forma es muy fácil: para **I, you, we, they** usamos **work**; para **he, she, it** añadimos una **-s** y decimos **works**.\n\nEjemplos:\n- `I work part-time.` (Trabajo a tiempo parcial.)\n- `She works at a small company.` (Ella trabaja en una empresa pequeña.)\n\n**¡Ojo!** No digas *I works*. La **-s** solo va con **he, she, it**.\n\nEste tiempo es perfecto para describir tu horario: `I work from Monday to Friday.` (Trabajo de lunes a viernes.) o `My shift starts at nine.` (Mi turno empieza a las nueve.)",
+      "description_md_target": "We use the **present simple** to talk about routines and facts. With the verb **work**, the form is very easy: for **I, you, we, they** we use **work**; for **he, she, it** we add an **-s** and say **works**.\n\nExamples:\n- `I work part-time.`\n- `She works at a small company.`\n\n**Careful!** Don't say *I works*. The **-s** only goes with **he, she, it**.\n\nThis tense is perfect for describing your schedule: `I work from Monday to Friday.` or `My shift starts at nine.`",
+      "grammar_structure": "Subject + work/works + (complement)",
+      "conjugation_table": {
+        "name": "present_simple_work",
+        "headers": [
+          "Pronombre",
+          "Forma",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "work",
+            "I work part-time."
+          ],
+          [
+            "You",
+            "work",
+            "You work on Monday."
+          ],
+          [
+            "He/She/It",
+            "works",
+            "She works at a company."
+          ],
+          [
+            "We",
+            "work",
+            "We work from nine to five."
+          ],
+          [
+            "They",
+            "work",
+            "They work in the city."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_a2_i_work_part_time",
+          "grammar_slug": null,
+          "text_target": "I work part-time at a small company.",
+          "translation_form": "Trabajo a tiempo parcial en una empresa pequeña.",
+          "highlight_words": [
+            "work",
+            "part-time"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "shift",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My shift starts at nine in the morning.",
+          "translation_form": "Mi turno empieza a las nueve de la mañana.",
+          "highlight_words": [
+            "shift",
+            "starts"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda la -s**: con **he, she, it** el verbo cambia: *work* → *works*. Es el error más común de los hispanohablantes."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas** *I works* o *She work*. La **-s** solo va con **he, she, it**."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I works* en lugar de *I work*.",
+        "Olvidar la -s en la tercera persona: *She work* en vez de *She works*.",
+        "Confundir *work* (trabajar) con *job* (trabajo, sustantivo)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'shift'?",
+      "options": [
+        "turno",
+        "salario",
+        "habilidad",
+        "permiso"
+      ],
+      "correct_answer": "turno",
+      "explanation_md": "'Shift' se refiere a un período de trabajo, como un turno de mañana o de noche.",
+      "related_lexeme_ids": [
+        "shift"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'day off'?",
+      "options": [
+        "día libre",
+        "día de trabajo",
+        "fin de semana",
+        "hora de almuerzo"
+      ],
+      "correct_answer": "día libre",
+      "explanation_md": "'Day off' es un día en el que no trabajas.",
+      "related_lexeme_ids": [
+        "day_off"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "part-time",
+        "salario",
+        "salary",
+        "negocio",
+        "business",
+        "tiempo parcial"
+      ],
+      "correct_answer": [
+        "part-time=tiempo parcial",
+        "salary=salario",
+        "business=negocio"
+      ],
+      "explanation_md": "Estas son palabras clave para hablar de tu trabajo y horario.",
+      "related_lexeme_ids": [
+        "part_time",
+        "salary",
+        "business"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración: 'I work ______ at a small company.'",
+      "options": [
+        "part-time",
+        "day off",
+        "salary",
+        "shift"
+      ],
+      "correct_answer": "part-time",
+      "explanation_md": "Usamos 'part-time' para describir un trabajo con menos horas que uno completo.",
+      "related_lexeme_ids": [
+        "part_time"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_i_work_part_time"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'My ______ is Monday, so I rest at home.'",
+      "options": null,
+      "correct_answer": "day off",
+      "explanation_md": "El día libre de la persona es el lunes, por eso descansa en casa.",
+      "related_lexeme_ids": [
+        "day_off"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Estoy libre hoy.'",
+      "options": null,
+      "correct_answer": "I'm off today.",
+      "explanation_md": "Usamos la estructura 'I'm off' para decir que no trabajamos hoy.",
+      "related_lexeme_ids": [
+        "off"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_im_off_today"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'My boss runs a business in the city centre.'",
+      "options": null,
+      "correct_answer": "Mi jefe dirige un negocio en el centro de la ciudad.",
+      "explanation_md": "La oración describe lo que hace el jefe: dirigir un negocio.",
+      "related_lexeme_ids": [
+        "business",
+        "boss_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la respuesta correcta? 'What do you need for this job?'",
+      "options": [
+        "A good skill.",
+        "A day off.",
+        "A salary.",
+        "A shift."
+      ],
+      "correct_answer": "A good skill.",
+      "explanation_md": "Una 'skill' es una habilidad necesaria para hacer un trabajo.",
+      "related_lexeme_ids": [
+        "skill"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'The ______ is good, but the job is hard.'",
+      "options": null,
+      "correct_answer": "salary",
+      "explanation_md": "El salario es lo que ganas por tu trabajo; aquí es bueno pero el trabajo es difícil.",
+      "related_lexeme_ids": [
+        "salary"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuándo trabaja Tom?",
+      "options": [
+        "In the morning from Monday to Friday.",
+        "In the afternoon.",
+        "On weekends.",
+        "At night."
+      ],
+      "correct_answer": "In the morning from Monday to Friday.",
+      "explanation_md": "El texto dice que Tom trabaja por la mañana de lunes a viernes.",
+      "related_lexeme_ids": [
+        "part_time",
+        "salary",
+        "skill"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom works part-time at a small company. He works in the morning from Monday to Friday. He is off on weekends. His salary is good, and he likes his job. He wants to learn new skills for his work.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué día está libre Ana?",
+      "options": [
+        "Saturday.",
+        "Sunday.",
+        "Monday.",
+        "Friday."
+      ],
+      "correct_answer": "Saturday.",
+      "explanation_md": "El audio dice que el día libre de Ana es el sábado.",
+      "related_lexeme_ids": [
+        "day_off",
+        "company"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Ana works at a big company. She works from Monday to Friday. Her day off is Saturday. She rests at home and visits her family.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu horario de trabajo o estudio. Usa 'I work part-time' o 'I'm off'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de los chunks 'I work part-time' e 'I'm off' y el vocabulario de la lección.",
+      "related_lexeme_ids": [
+        "part_time",
+        "off"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_i_work_part_time",
+        "chunk_a2_im_off_today"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I work part-time at a cafe. I'm off on Sundays.",
+        "I'm off today, so I rest at home.",
+        "I work part-time and my day off is Monday."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué significa 'permit'?",
+      "options": [
+        "permiso",
+        "turno",
+        "habilidad",
+        "negocio"
+      ],
+      "correct_answer": "permiso",
+      "explanation_md": "'Permit' es un permiso o autorización para hacer algo.",
+      "related_lexeme_ids": [
+        "permit"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Trabajo a tiempo parcial en una empresa pequeña.'",
+      "options": null,
+      "correct_answer": "I work part-time at a small company.",
+      "explanation_md": "Usamos 'I work part-time' para hablar de un trabajo a tiempo parcial.",
+      "related_lexeme_ids": [
+        "part_time",
+        "company"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_i_work_part_time"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "part-time",
+      "back": "tiempo parcial / media jornada",
+      "hint": "se usa para hablar de un trabajo con menos horas",
+      "lexeme_id": "part_time",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "day off",
+      "back": "día libre",
+      "hint": "un día en el que no trabajas",
+      "lexeme_id": "day_off",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "salary",
+      "back": "salario",
+      "hint": "el dinero que ganas por tu trabajo",
+      "lexeme_id": "salary",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "business",
+      "back": "negocio / empresa",
+      "hint": "una compañía o actividad comercial",
+      "lexeme_id": "business",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "off",
+      "back": "libre (de trabajo); apagado",
+      "hint": "no estás trabajando",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "shift",
+      "back": "turno",
+      "hint": "el horario en el que trabajas",
+      "lexeme_id": "shift",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "skill",
+      "back": "habilidad",
+      "hint": "algo que sabes hacer bien",
+      "lexeme_id": "skill",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "permit",
+      "back": "permiso / licencia",
+      "hint": "un documento que te deja hacer algo",
+      "lexeme_id": "permit",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "ability"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "I work part-time.",
+      "back": "Trabajo a tiempo parcial.",
+      "hint": "frase completa para hablar de tu horario",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_work_part_time",
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "I'm off today.",
+      "back": "Hoy estoy libre / no trabajo.",
+      "hint": "frase completa para decir que no trabajas hoy",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_off_today",
+      "target_term": null,
+      "tags": [
+        "lesson_050",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "part-time",
+      "reading": "",
+      "translation": "tiempo parcial / media jornada",
+      "pos": "noun",
+      "example": "I work part-time at a small company.",
+      "example_translation": "Trabajo a tiempo parcial en una empresa pequeña.",
+      "lexeme_id": "part_time",
+      "chunk_id": null
+    },
+    {
+      "target_word": "day off",
+      "reading": "",
+      "translation": "día libre",
+      "pos": "noun",
+      "example": "My day off is Monday, so I rest at home.",
+      "example_translation": "Mi día libre es el lunes, así que descanso en casa.",
+      "lexeme_id": "day_off",
+      "chunk_id": null
+    },
+    {
+      "target_word": "salary",
+      "reading": "",
+      "translation": "salario",
+      "pos": "noun",
+      "example": "The salary is good, but the job is hard.",
+      "example_translation": "El salario es bueno, pero el trabajo es duro.",
+      "lexeme_id": "salary",
+      "chunk_id": null
+    },
+    {
+      "target_word": "business",
+      "reading": "",
+      "translation": "negocio / empresa",
+      "pos": "noun",
+      "example": "My boss runs a business in the city centre.",
+      "example_translation": "Mi jefe dirige un negocio en el centro de la ciudad.",
+      "lexeme_id": "business",
+      "chunk_id": null
+    },
+    {
+      "target_word": "off",
+      "reading": "",
+      "translation": "libre (de trabajo); apagado",
+      "pos": "adverb",
+      "example": "I am off on weekends, so I visit my family.",
+      "example_translation": "Estoy libre los fines de semana, así que visito a mi familia.",
+      "lexeme_id": "off",
+      "chunk_id": null
+    },
+    {
+      "target_word": "shift",
+      "reading": "",
+      "translation": "turno",
+      "pos": "noun",
+      "example": "My shift starts at eight in the morning.",
+      "example_translation": "Mi turno empieza a las ocho de la mañana.",
+      "lexeme_id": "shift",
+      "chunk_id": null
+    },
+    {
+      "target_word": "skill",
+      "reading": "",
+      "translation": "habilidad",
+      "pos": "noun",
+      "example": "She has a great skill for talking to customers.",
+      "example_translation": "Ella tiene una gran habilidad para hablar con los clientes.",
+      "lexeme_id": "skill",
+      "chunk_id": null
+    },
+    {
+      "target_word": "permit",
+      "reading": "",
+      "translation": "permiso / licencia",
+      "pos": "noun",
+      "example": "You need a work permit to start the job.",
+      "example_translation": "Necesitas un permiso de trabajo para empezar el trabajo.",
+      "lexeme_id": "permit",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I work part-time.",
+      "reading": "",
+      "translation": "Trabajo a tiempo parcial.",
+      "pos": "chunk",
+      "example": "I work part-time, so I have time for my studies.",
+      "example_translation": "Trabajo a tiempo parcial, así que tengo tiempo para mis estudios.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_work_part_time"
+    },
+    {
+      "target_word": "I'm off today.",
+      "reading": "",
+      "translation": "Hoy estoy libre / no trabajo.",
+      "pos": "chunk",
+      "example": "I'm off today, so I can go to the beach.",
+      "example_translation": "Hoy estoy libre, así que puedo ir a la playa.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_off_today"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "part-time",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tiempo parcial / media jornada",
+      "lexeme_id": "part_time",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "ex_004",
+        "ex_010",
+        "ex_012",
+        "ex_014",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "day off",
+      "role": "support",
+      "status": "practiced",
+      "translation": "día libre",
+      "lexeme_id": "day_off",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_005",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "salary",
+      "role": "support",
+      "status": "practiced",
+      "translation": "salario",
+      "lexeme_id": "salary",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_009",
+        "ex_010",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "business",
+      "role": "support",
+      "status": "practiced",
+      "translation": "negocio / empresa",
+      "lexeme_id": "business",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_007",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "practiced",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_006",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "shift",
+      "role": "support",
+      "status": "practiced",
+      "translation": "turno",
+      "lexeme_id": "shift",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_001",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "skill",
+      "role": "support",
+      "status": "practiced",
+      "translation": "habilidad",
+      "lexeme_id": "skill",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_008",
+        "ex_010",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "permit",
+      "role": "support",
+      "status": "practiced",
+      "translation": "permiso / licencia",
+      "lexeme_id": "permit",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_013",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "I work part-time.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Trabajo a tiempo parcial.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_work_part_time",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_009",
+        "ex_004",
+        "ex_012",
+        "ex_014",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "I'm off today.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Hoy estoy libre / no trabajo.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_off_today",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_010",
+        "ex_006",
+        "ex_012",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "company",
+      "role": "support",
+      "status": "review",
+      "translation": "empresa / compañía",
+      "lexeme_id": "company",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_008",
+        "exm_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_009",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011",
+        "quiz_001:q_012",
+        "quiz_001:q_013",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_009",
+        "ex_010",
+        "ex_012",
+        "fc_001",
+        "fc_009",
+        "quiz_001:q_001",
+        "quiz_001:q_006",
+        "quiz_001:q_011",
+        "quiz_001:q_013",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "job",
+      "role": "support",
+      "status": "emergent",
+      "translation": "trabajo / empleo",
+      "lexeme_id": "job",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_008",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_012",
+        "fc_002",
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_010",
+        "ex_012",
+        "fc_010",
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "Monday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lunes",
+      "lexeme_id": "monday",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "quiz_001:q_006",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_010",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "rest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "descansar",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "visit",
+      "role": "support",
+      "status": "emergent",
+      "translation": "visitar",
+      "lexeme_id": "visit_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "great",
+      "role": "support",
+      "status": "emergent",
+      "translation": "genial / estupendo",
+      "lexeme_id": "great_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "run",
+      "role": "support",
+      "status": "emergent",
+      "translation": "correr",
+      "lexeme_id": "run_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "boss",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mandar / dar órdenes",
+      "lexeme_id": "boss_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "beach",
+      "role": "support",
+      "status": "emergent",
+      "translation": "playa",
+      "lexeme_id": "beach",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_010"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_009"
+      ]
+    },
+    {
+      "term": "centre",
+      "role": "support",
+      "status": "emergent",
+      "translation": "centro",
+      "lexeme_id": "centre",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "customer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cliente",
+      "lexeme_id": "customer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "Friday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viernes",
+      "lexeme_id": "friday",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "hour",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "read",
+      "role": "support",
+      "status": "emergent",
+      "translation": "leer",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "order",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ordenar / pedir",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "Saturday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sábado",
+      "lexeme_id": "saturday",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 10,
+    "review_support_count": 1,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "work",
+      "time",
+      "job",
+      "day",
+      "today",
+      "Monday",
+      "good",
+      "home",
+      "small",
+      "morning",
+      "rest",
+      "weekend",
+      "family",
+      "need",
+      "visit",
+      "city",
+      "great",
+      "talk",
+      "run",
+      "boss",
+      "beach",
+      "study",
+      "centre",
+      "customer",
+      "person",
+      "Friday",
+      "word",
+      "hour",
+      "big",
+      "read",
+      "order",
+      "Saturday"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describing your work schedule",
+      "title_target": "Quiz: Describing your work schedule",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la mejor traducción de 'I work part time'?",
+          "prompt_target": "What is the best translation of 'I work part time'?",
+          "options": [
+            "Trabajo a tiempo parcial.",
+            "Trabajo a tiempo completo.",
+            "No trabajo.",
+            "Trabajo por la noche."
+          ],
+          "correct_answer": "Trabajo a tiempo parcial.",
+          "explanation_form": "'Part time' significa 'a tiempo parcial', es decir, menos horas que un trabajo completo.",
+          "explanation_target": "'Part time' means working fewer hours than a full-time job.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "part_time",
+            "chunk_a2_i_work_part_time"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "am",
+            "off",
+            "today"
+          ],
+          "correct_answer": "I am off today",
+          "explanation_form": "La estructura correcta es 'I am off today' (Estoy libre hoy).",
+          "explanation_target": "The correct structure is 'I am off today'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "off",
+            "chunk_a2_im_off_today"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué día está libre la persona?",
+          "prompt_target": "Listen and answer: What day is the person off?",
+          "options": [
+            "Saturday and Sunday",
+            "Monday and Tuesday",
+            "Wednesday and Thursday",
+            "Friday and Saturday"
+          ],
+          "correct_answer": "Saturday and Sunday",
+          "explanation_form": "La persona dice 'I am off on Saturday and Sunday' (Estoy libre el sábado y el domingo).",
+          "explanation_target": "The person says 'I am off on Saturday and Sunday'.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "off",
+            "day_off",
+            "shift"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I work from Monday to Friday. I am off on Saturday and Sunday. I like my weekend.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'My ____ is $15 an hour.' (Mi salario es $15 por hora.)",
+          "prompt_target": "Complete the sentence: 'My ____ is $15 an hour.'",
+          "options": null,
+          "correct_answer": "salary",
+          "explanation_form": "'Salary' significa 'salario'. La oración completa es 'My salary is $15 an hour.'",
+          "explanation_target": "'Salary' means 'salario'. The full sentence is 'My salary is $15 an hour.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "salary"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "shift",
+            "turno",
+            "skill",
+            "habilidad",
+            "permit",
+            "permiso",
+            "business",
+            "negocio"
+          ],
+          "correct_answer": [
+            "shift=turno",
+            "skill=habilidad",
+            "permit=permiso",
+            "business=negocio"
+          ],
+          "explanation_form": "Estas son palabras clave del vocabulario laboral: shift (turno), skill (habilidad), permit (permiso) y business (negocio).",
+          "explanation_target": "These are key work vocabulary words: shift, skill, permit, and business.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "shift",
+            "skill",
+            "permit",
+            "business"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Cuántos días trabaja la persona?",
+          "prompt_target": "Read the text and answer: How many days does the person work?",
+          "options": [
+            "Three days",
+            "Two days",
+            "Five days",
+            "One day"
+          ],
+          "correct_answer": "Three days",
+          "explanation_form": "La persona dice 'I work part time, from Monday to Wednesday' (Trabajo a tiempo parcial, de lunes a miércoles), que son tres días.",
+          "explanation_target": "The person says 'I work part time, from Monday to Wednesday', which is three days.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "part_time",
+            "business",
+            "salary",
+            "day_off"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "I work at a small business. I work part time, from Monday to Wednesday. I am off on Thursday and Friday. My salary is good. I like my job.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Estoy libre hoy.'",
+          "prompt_target": "Translate to English: 'Estoy libre hoy.'",
+          "options": null,
+          "correct_answer": "I am off today",
+          "explanation_form": "La expresión correcta es 'I am off today'.",
+          "explanation_target": "The correct expression is 'I am off today'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "off",
+            "chunk_a2_im_off_today"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'day off'?",
+          "prompt_target": "What does 'day off' mean?",
+          "options": [
+            "Día libre",
+            "Día de trabajo",
+            "Día de pago",
+            "Día de descanso"
+          ],
+          "correct_answer": "Día libre",
+          "explanation_form": "'Day off' significa 'día libre', un día en que no trabajas.",
+          "explanation_target": "'Day off' means a day when you do not work.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "day_off"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué turno trabaja la persona?",
+          "prompt_target": "Listen and answer: What shift does the person work?",
+          "options": [
+            "The morning shift",
+            "The night shift",
+            "The afternoon shift",
+            "The evening shift"
+          ],
+          "correct_answer": "The morning shift",
+          "explanation_form": "La persona dice 'I work the morning shift' (Trabajo el turno de la mañana).",
+          "explanation_target": "The person says 'I work the morning shift'.",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "shift",
+            "skill"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I work the morning shift. I start at eight and finish at two. I have a good skill for this job.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I need a ____ to work here.' (Necesito un permiso para trabajar aquí.)",
+          "prompt_target": "Complete: 'I need a ____ to work here.'",
+          "options": null,
+          "correct_answer": "permit",
+          "explanation_form": "'Permit' significa 'permiso'. La oración completa es 'I need a permit to work here.'",
+          "explanation_target": "'Permit' means 'permiso'. The full sentence is 'I need a permit to work here.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "permit"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Cómo se dice 'I work part time' en español?",
+          "prompt_target": "How do you say 'I work part time' in Spanish?",
+          "options": null,
+          "correct_answer": "Trabajo a tiempo parcial",
+          "explanation_form": "'I work part time' se traduce como 'Trabajo a tiempo parcial'.",
+          "explanation_target": "'I work part time' translates to 'Trabajo a tiempo parcial'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "part_time",
+            "chunk_a2_i_work_part_time"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del verbo 'work' con 'he'?",
+          "prompt_target": "What is the correct form of the verb 'work' with 'he'?",
+          "options": [
+            "He works",
+            "He work",
+            "He working",
+            "He worked"
+          ],
+          "correct_answer": "He works",
+          "explanation_form": "Con 'he', 'she' o 'it', el verbo 'work' lleva una 's' al final: 'He works'.",
+          "explanation_target": "With 'he', 'she', or 'it', the verb 'work' takes an 's' at the end: 'He works'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "present_simple_affirmative_with_work"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_013",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Cuál es el salario de la persona?",
+          "prompt_target": "Read the text and answer: What is the person's salary?",
+          "options": [
+            "$12 an hour",
+            "$15 an hour",
+            "$10 an hour",
+            "$20 an hour"
+          ],
+          "correct_answer": "$12 an hour",
+          "explanation_form": "Ana dice 'My salary is $12 an hour' (Mi salario es $12 por hora).",
+          "explanation_target": "Ana says 'My salary is $12 an hour'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "salary",
+            "shift",
+            "company",
+            "part_time",
+            "off"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "My name is Ana. I work at a big company. I have a part time job. My shift is from nine to one. My salary is $12 an hour. I am off on Sunday.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_014",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "She",
+            "works",
+            "part",
+            "time"
+          ],
+          "correct_answer": "She works part time",
+          "explanation_form": "La estructura correcta es 'She works part time' (Ella trabaja a tiempo parcial).",
+          "explanation_target": "The correct structure is 'She works part time'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "part_time",
+            "chunk_a2_i_work_part_time"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_015",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'skill'?",
+          "prompt_target": "What does 'skill' mean?",
+          "options": [
+            "Habilidad",
+            "Salario",
+            "Turno",
+            "Permiso"
+          ],
+          "correct_answer": "Habilidad",
+          "explanation_form": "'Skill' significa 'habilidad' o 'destreza'.",
+          "explanation_target": "'Skill' means 'habilidad' or 'destreza'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "skill"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Tu horario en ingles\n\nPara hablar de tu horario de trabajo, usa el **present simple** con el verbo *work*. Recuerda: con *he*, *she* o *it*, el verbo lleva **-s** (he *works*). Para decir que trabajas medio tiempo, usa la expresion *work part time*: *I work part time*. Si hoy no trabajas, di *I'm off today*.\n\n## Errores comunes\n\n- **No digas** *I work in a part time*. La expresion correcta es *I work part time* (sin *in*).\n- **Cuidado con *off***: *I'm off* significa 'estoy libre / no trabajo'. No lo confundas con *I'm out* ('estoy fuera de casa').\n- Para preguntar por el dia libre de alguien: *When is your day off?*",
+  "metadata": {
+    "generated_at": "2026-08-31T18:58:17Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

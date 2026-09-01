@@ -1,0 +1,2065 @@
+{
+  "id": "lesson_017",
+  "position": 17,
+  "unit_id": 3,
+  "course_id": "en.A1",
+  "title_form": "Fechas, cumpleaños y ordinales",
+  "title_target": "Talking About Dates, Birthdays, and Ordinal Numbers",
+  "theme_focus": "Decir y escribir fechas completas (día, mes y año), hablar del cumpleaños y practicar ordinales hasta thirty-first. La lección debe practicar las formas 'the 21st of July 2026' y 'July 21st, 2026'. La explicación debe presentar el sistema completo de ordinales: first, second y third; cambios de escritura como fifth, eighth, ninth y twelfth; y la regla regular -th. El generador debe incluir los ordinales en la explicación, ejemplos, ejercicios, flashcards y quiz cuando corresponda, sin inventar IDs de lexemas.",
+  "learning_objectives": [
+    "Can say and write a complete date using the day, month, and year, and talk about his/her birthday using ordinal numbers.",
+    "Can use ordinal numbers for dates, including first, second, third, fifth, eighth, ninth, twelfth, twentieth, and thirtieth.",
+    "Can explain and apply the regular -th pattern and spelling changes to form ordinal dates through thirty-first."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_015",
+    "lesson_016"
+  ],
+  "grammar_focus": [
+    "complete dates: the + ordinal + of + month + year (The 21st of July 2026) and month + ordinal + year (July 21st, 2026)",
+    "ordinal numbers for dates: first, second, third, spelling changes in fifth/eighth/ninth/twelfth, and regular -th forms through thirty-first"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "first_ord",
+        "second_ord",
+        "third_ord",
+        "fourth_ord",
+        "fifth_ord",
+        "eighth_ord",
+        "ninth_ord",
+        "twelfth_ord",
+        "twentieth_ord",
+        "thirtieth_ord",
+        "date",
+        "celebrate_verb",
+        "gift",
+        "card"
+      ],
+      "chunk_ids": [
+        "chunk_yesterday_today_tomorrow",
+        "chunk_what_date_is_it",
+        "chunk_when_is_your_birthday"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "birthday",
+        "year",
+        "day",
+        "week",
+        "weekend",
+        "today",
+        "tomorrow",
+        "yesterday",
+        "january",
+        "june"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana y su amigo Tom están planeando una fiesta de cumpleaños. Hablan de la fecha exacta, de los regalos y de las tarjetas que van a preparar. Durante la conversación, usan los números ordinales para decir el día y el mes, y practican las dos formas de escribir la fecha.",
+  "introduction_md": "En esta lección vas a aprender a decir y escribir fechas completas en inglés: día, mes y año. También vas a practicar los números ordinales (first, second, third...) hasta thirty-first, que son esenciales para hablar de tu cumpleaños. \n\nVas a ver dos formas de decir la fecha: **the 21st of July 2026** y **July 21st, 2026**. Ambas son correctas y naturales. \n\nAl final, podrás responder preguntas como *When is your birthday?* y *What date is it?* con confianza. ¡Vamos a practicar con ejemplos reales y ejercicios cortos!",
+  "intro_target": "In this lesson, you will learn to say and write complete dates in English: day, month, and year. You will also practice ordinal numbers (first, second, third...) up to thirty-first, which are essential for talking about your birthday. \n\nYou will see two ways to say the date: **the 21st of July 2026** and **July 21st, 2026**. Both are correct and natural. \n\nBy the end, you will be able to answer questions like *When is your birthday?* and *What date is it?* with confidence. Let's practice with real examples and short exercises!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_date_is_it",
+      "grammar_slug": null,
+      "text_target": "What date is it today?",
+      "translation_form": "¿Qué fecha es hoy?",
+      "highlight_words": [
+        "what",
+        "date",
+        "is",
+        "it",
+        "today"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_when_is_your_birthday",
+      "grammar_slug": null,
+      "text_target": "When is your birthday?",
+      "translation_form": "¿Cuándo es tu cumpleaños?",
+      "highlight_words": [
+        "when",
+        "is",
+        "your",
+        "birthday"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "first_ord",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My birthday is on the first of June.",
+      "translation_form": "Mi cumpleaños es el primero de junio.",
+      "highlight_words": [
+        "first",
+        "birthday",
+        "june"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "twelfth_ord",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The birthday is on the twelfth of July.",
+      "translation_form": "El cumpleaños es el doce de julio.",
+      "highlight_words": [
+        "twelfth",
+        "july"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "celebrate_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We celebrate my birthday with a gift.",
+      "translation_form": "Celebramos mi cumpleaños con un regalo.",
+      "highlight_words": [
+        "celebrate",
+        "birthday",
+        "gift"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "date",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What is the date tomorrow?",
+      "translation_form": "¿Qué fecha es mañana?",
+      "highlight_words": [
+        "date",
+        "tomorrow"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "complete dates: the + ordinal + of + month + year (The 21st of July 2026) and month + ordinal + year (July 21st, 2026)",
+      "title_form": "Fechas completas: día, mes y año",
+      "title_target": "Complete Dates: Day, Month, and Year",
+      "description_md_form": "Para decir una fecha completa en inglés, usamos el **ordinal** para el día. Hay dos formas comunes:\n\n1. **the + ordinal + of + month + year** → `The 21st of July 2026` (más formal, muy usada en el Reino Unido).\n2. **month + ordinal + year** → `July 21st, 2026` (más común en Estados Unidos).\n\nEn ambas, el día es un **número ordinal** (first, second, third...). El año se dice como un número normal: `2026` = *twenty twenty-six*.\n\n**Ejemplos:**\n- `The first of June 2026` = El primero de junio de 2026.\n- `June 1st, 2026` = El primero de junio de 2026.\n\nAmbas formas son correctas. ¡Elige una y úsala con confianza!",
+      "description_md_target": "To say a complete date in English, we use the **ordinal** for the day. There are two common forms:\n\n1. **the + ordinal + of + month + year** → `The 21st of July 2026` (more formal, common in the UK).\n2. **month + ordinal + year** → `July 21st, 2026` (more common in the US).\n\nIn both, the day is an **ordinal number** (first, second, third...). The year is said as a normal number: `2026` = *twenty twenty-six*.\n\n**Examples:**\n- `The first of June 2026` = June 1st, 2026.\n- `June 1st, 2026` = June 1st, 2026.\n\nBoth forms are correct. Choose one and use it with confidence!",
+      "grammar_structure": "the + ordinal + of + month + year | month + ordinal + year",
+      "conjugation_table": {
+        "name": "date_formats",
+        "headers": [
+          "Formato",
+          "Ejemplo",
+          "Uso"
+        ],
+        "rows": [
+          [
+            "the + ordinal + of + month + year",
+            "The 21st of July 2026",
+            "Más formal, común en el Reino Unido"
+          ],
+          [
+            "month + ordinal + year",
+            "July 21st, 2026",
+            "Más común en Estados Unidos"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "complete dates: the + ordinal + of + month + year (The 21st of July 2026) and month + ordinal + year (July 21st, 2026)",
+          "text_target": "The party is on the twelfth of July 2026.",
+          "translation_form": "La fiesta es el doce de julio de 2026.",
+          "highlight_words": [
+            "twelfth",
+            "of",
+            "july"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "complete dates: the + ordinal + of + month + year (The 21st of July 2026) and month + ordinal + year (July 21st, 2026)",
+          "text_target": "My birthday is on June 1st, 2026.",
+          "translation_form": "Mi cumpleaños es el primero de junio de 2026.",
+          "highlight_words": [
+            "june",
+            "1st"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, el día SIEMPRE es un ordinal (first, second, third...). Nunca uses un número normal (one, two, three) para el día en una fecha."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *\"June one\"* ni *\"one of June\"*. Di *\"June first\"* o *\"the first of June\"*."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Atención:** En la forma *month + ordinal + year*, pon una coma después del día: `July 21st, 2026`. En la forma *the + ordinal + of + month*, no necesitas coma."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *\"June one\"* en lugar de *\"June first\"*: el día siempre es ordinal.",
+        "Olvidar la coma en el formato americano: *\"July 21st 2026\"* → debe ser *\"July 21st, 2026\"*.",
+        "Usar *\"of\"* en el formato americano: *\"July of 21st\"* es incorrecto; es *\"July 21st\"*.",
+        "Confundir el orden: en inglés es día + mes (o mes + día), nunca mes + día + de + año como en español."
+      ]
+    },
+    {
+      "slug": "ordinal numbers for dates: first, second, third, spelling changes in fifth/eighth/ninth/twelfth, and regular -th forms through thirty-first",
+      "title_form": "Números ordinales para fechas",
+      "title_target": "Ordinal Numbers for Dates",
+      "description_md_form": "Los **números ordinales** expresan posición u orden: *first* (primero), *second* (segundo), *third* (tercero).\n\nLos tres primeros son **irregulares** y debes memorizarlos. Luego, la mayoría se forma añadiendo **-th** al número cardinal: *fourth*, *sixth*, *seventh*.\n\n⚠️ **Cambios de escritura**:\n- *five* → **fifth** (la *ve* cambia a *f*)\n- *eight* → **eighth** (solo se añade *h*)\n- *nine* → **ninth** (se pierde la *e*)\n- *twelve* → **twelfth** (la *ve* cambia a *f*)\n\nPara decenas, cambia la *y* por *ie*: *twenty* → **twentieth**, *thirty* → **thirtieth**.\n\nEn fechas, usamos el ordinal con *the* y *of*: **the first of June**.",
+      "description_md_target": "**Ordinal numbers** express position or order: *first*, *second*, *third*.\n\nThe first three are **irregular** and you must memorize them. Then, most are formed by adding **-th** to the cardinal number: *fourth*, *sixth*, *seventh*.\n\n⚠️ **Spelling changes**:\n- *five* → **fifth** (the *ve* changes to *f*)\n- *eight* → **eighth** (just add *h*)\n- *nine* → **ninth** (the *e* is dropped)\n- *twelve* → **twelfth** (the *ve* changes to *f*)\n\nFor tens, change the *y* to *ie*: *twenty* → **twentieth**, *thirty* → **thirtieth**.\n\nIn dates, we use the ordinal with *the* and *of*: **the first of June**.",
+      "grammar_structure": "the + ordinal + of + month",
+      "conjugation_table": {
+        "name": "ordinal_numbers",
+        "headers": [
+          "Número",
+          "Ordinal",
+          "Regla"
+        ],
+        "rows": [
+          [
+            "1",
+            "first",
+            "Irregular"
+          ],
+          [
+            "2",
+            "second",
+            "Irregular"
+          ],
+          [
+            "3",
+            "third",
+            "Irregular"
+          ],
+          [
+            "4",
+            "fourth",
+            "Cardinal + th"
+          ],
+          [
+            "5",
+            "fifth",
+            "five → fifth"
+          ],
+          [
+            "8",
+            "eighth",
+            "eight + h"
+          ],
+          [
+            "9",
+            "ninth",
+            "nine → ninth"
+          ],
+          [
+            "12",
+            "twelfth",
+            "twelve → twelfth"
+          ],
+          [
+            "20",
+            "twentieth",
+            "twenty → twentieth"
+          ],
+          [
+            "30",
+            "thirtieth",
+            "thirty → thirtieth"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "first_ord",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "My birthday is on the first of June.",
+          "translation_form": "Mi cumpleaños es el primero de junio.",
+          "highlight_words": [
+            "first"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "twelfth_ord",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "The party is on the twelfth of July.",
+          "translation_form": "La fiesta es el doce de julio.",
+          "highlight_words": [
+            "twelfth"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "💡 **Truco**: para la mayoría de los números, solo añade **-th** al final: *fourth*, *sixth*, *seventh*, *tenth*. ¡Es más fácil de lo que parece!"
+        },
+        {
+          "type": "warning",
+          "text_md": "⚠️ **Cuidado con *fifth* y *twelfth***: la *v* de *five* y *twelve* cambia a *f*. No escribas *fiveth* ni *twelveth*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "❌ **Error común**: en español decimos *el primero de junio*, pero en inglés usamos **the first of June** — siempre con *the* y *of*."
+        }
+      ],
+      "common_errors_es": [
+        "Escribir *fiveth* en lugar de **fifth** (la *v* cambia a *f*).",
+        "Escribir *twelveth* en lugar de **twelfth** (la *v* cambia a *f*).",
+        "Olvidar el cambio de *y* a *ie* en decenas: *twentieth*, *thirtieth*.",
+        "Decir *one* en lugar de **first** para el día 1 del mes."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'first'?",
+      "options": [
+        "primero",
+        "segundo",
+        "tercero",
+        "quinto"
+      ],
+      "correct_answer": "primero",
+      "explanation_md": "'First' es el ordinal de 'one', es decir, 'primero'.",
+      "related_lexeme_ids": [
+        "first_ord"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'gift'?",
+      "options": [
+        "regalo",
+        "tarjeta",
+        "fiesta",
+        "fecha"
+      ],
+      "correct_answer": "regalo",
+      "explanation_md": "'Gift' significa 'regalo'.",
+      "related_lexeme_ids": [
+        "gift"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada ordinal con su número:",
+      "options": [
+        "first",
+        "1st",
+        "second",
+        "2nd",
+        "third",
+        "3rd",
+        "fifth",
+        "5th"
+      ],
+      "correct_answer": [
+        "first=1st",
+        "second=2nd",
+        "third=3rd",
+        "fifth=5th"
+      ],
+      "explanation_md": "Los ordinales 'first', 'second', 'third' y 'fifth' corresponden a 1st, 2nd, 3rd y 5th.",
+      "related_lexeme_ids": [
+        "first_ord",
+        "second_ord",
+        "third_ord",
+        "fifth_ord"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta del ordinal para el número 8?",
+      "options": [
+        "eighth",
+        "eight",
+        "eighty",
+        "eighteen"
+      ],
+      "correct_answer": "eighth",
+      "explanation_md": "El ordinal de 8 es 'eighth'. Se escribe con una sola 't' al final.",
+      "related_lexeme_ids": [
+        "eighth_ord"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'My birthday is on the ____ of June.' (primero)",
+      "options": null,
+      "correct_answer": "first",
+      "explanation_md": "Para decir 'el primero de junio' usamos 'the first of June'.",
+      "related_lexeme_ids": [
+        "first_ord"
+      ],
+      "related_chunk_ids": [
+        "chunk_when_is_your_birthday"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Qué fecha es hoy?'",
+      "options": null,
+      "correct_answer": "What date is it today?",
+      "explanation_md": "Usamos el chunk 'What date is it today?' para preguntar la fecha.",
+      "related_lexeme_ids": [
+        "date"
+      ],
+      "related_chunk_ids": [
+        "chunk_what_date_is_it"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'We celebrate my birthday with a gift.'",
+      "options": null,
+      "correct_answer": "Celebramos mi cumpleaños con un regalo.",
+      "explanation_md": "La oración usa 'celebrate' (celebrar) y 'gift' (regalo).",
+      "related_lexeme_ids": [
+        "celebrate_verb",
+        "gift"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuándo es el cumpleaños de Ana?",
+      "options": [
+        "on the twentieth of June",
+        "on the twelfth of July",
+        "on the first of June",
+        "on the thirtieth of June"
+      ],
+      "correct_answer": "on the twentieth of June",
+      "explanation_md": "El texto dice 'Her birthday is on the twentieth of June'.",
+      "related_lexeme_ids": [
+        "twentieth_ord",
+        "birthday",
+        "june"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana is my friend. Her birthday is on the twentieth of June. She is happy because it is a special day. Her family gives her a card and a gift. We celebrate her birthday at her house on the weekend.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué día es hoy?",
+      "options": [
+        "the ninth of July",
+        "the tenth of July",
+        "the eighth of July",
+        "the twelfth of July"
+      ],
+      "correct_answer": "the ninth of July",
+      "explanation_md": "El audio dice 'It is the ninth of July'.",
+      "related_lexeme_ids": [
+        "ninth_ord",
+        "date",
+        "today",
+        "tomorrow",
+        "yesterday"
+      ],
+      "related_chunk_ids": [
+        "chunk_yesterday_today_tomorrow",
+        "chunk_what_date_is_it"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "What date is it today? It is the ninth of July. Tomorrow is the tenth. Yesterday was the eighth.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cuándo es el cumpleaños de Tom?",
+      "options": [
+        "on the twelfth of August",
+        "on the second of August",
+        "on the twentieth of August",
+        "on the twelfth of July"
+      ],
+      "correct_answer": "on the twelfth of August",
+      "explanation_md": "El audio dice 'My birthday is on the twelfth of August'.",
+      "related_lexeme_ids": [
+        "twelfth_ord",
+        "birthday",
+        "gift",
+        "card"
+      ],
+      "related_chunk_ids": [
+        "chunk_when_is_your_birthday"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "When is your birthday, Tom? My birthday is on the twelfth of August. I love my birthday. I get a gift and a card.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu cumpleaños. Usa 'When is your birthday?' y responde con la fecha.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de la fecha con ordinales y el chunk 'When is your birthday?'.",
+      "related_lexeme_ids": [
+        "birthday",
+        "celebrate_verb",
+        "gift",
+        "card"
+      ],
+      "related_chunk_ids": [
+        "chunk_when_is_your_birthday"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "My birthday is on the first of June.",
+        "I celebrate my birthday with my family.",
+        "I get a gift and a card."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta del ordinal para el número 30?",
+      "options": [
+        "thirtieth",
+        "thirty",
+        "twentieth",
+        "twelfth"
+      ],
+      "correct_answer": "thirtieth",
+      "explanation_md": "El ordinal de 30 es 'thirtieth'. Cambia 'y' por 'ie' antes de agregar '-th'.",
+      "related_lexeme_ids": [
+        "thirtieth_ord"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "first",
+      "back": "primero",
+      "hint": "el primero del mes",
+      "lexeme_id": "first_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "second",
+      "back": "segundo",
+      "hint": "el segundo del mes",
+      "lexeme_id": "second_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "third",
+      "back": "tercero",
+      "hint": "el tercero del mes",
+      "lexeme_id": "third_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "fourth",
+      "back": "cuarto",
+      "hint": "el cuarto del mes",
+      "lexeme_id": "fourth_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "fifth",
+      "back": "quinto",
+      "hint": "el quinto del mes",
+      "lexeme_id": "fifth_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "eighth",
+      "back": "octavo",
+      "hint": "el octavo del mes",
+      "lexeme_id": "eighth_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "ninth",
+      "back": "noveno",
+      "hint": "el noveno del mes",
+      "lexeme_id": "ninth_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "twelfth",
+      "back": "duodécimo",
+      "hint": "el duodécimo del mes",
+      "lexeme_id": "twelfth_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "twentieth",
+      "back": "vigésimo",
+      "hint": "el vigésimo del mes",
+      "lexeme_id": "twentieth_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "thirtieth",
+      "back": "trigésimo",
+      "hint": "el trigésimo del mes",
+      "lexeme_id": "thirtieth_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "date",
+      "back": "fecha",
+      "hint": "qué día del mes es",
+      "lexeme_id": "date",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "celebrate",
+      "back": "celebrar",
+      "hint": "hacer una fiesta",
+      "lexeme_id": "celebrate_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "gift",
+      "back": "regalo",
+      "hint": "algo que das en un cumpleaños",
+      "lexeme_id": "gift",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "card",
+      "back": "tarjeta / carta",
+      "hint": "papel con un mensaje",
+      "lexeme_id": "card",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "yesterday / today / tomorrow",
+      "back": "ayer / hoy / mañana",
+      "hint": "los tres días",
+      "lexeme_id": null,
+      "chunk_id": "chunk_yesterday_today_tomorrow",
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_016",
+      "front": "What date is it?",
+      "back": "¿Qué fecha es?",
+      "hint": "pregunta por la fecha",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_date_is_it",
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_017",
+      "front": "When is your birthday?",
+      "back": "¿Cuándo es tu cumpleaños?",
+      "hint": "pregunta por el cumpleaños",
+      "lexeme_id": null,
+      "chunk_id": "chunk_when_is_your_birthday",
+      "target_term": null,
+      "tags": [
+        "lesson_017",
+        "A1",
+        "time"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "first",
+      "reading": "",
+      "translation": "primero",
+      "pos": "numeral",
+      "example": "My birthday is on the first of June.",
+      "example_translation": "Mi cumpleaños es el primero de junio.",
+      "lexeme_id": "first_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "second",
+      "reading": "",
+      "translation": "segundo",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "second_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "third",
+      "reading": "",
+      "translation": "tercero",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "third_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "fourth",
+      "reading": "",
+      "translation": "cuarto",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "fourth_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "fifth",
+      "reading": "",
+      "translation": "quinto",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "fifth_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "eighth",
+      "reading": "",
+      "translation": "octavo",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "eighth_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "ninth",
+      "reading": "",
+      "translation": "noveno",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "ninth_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "twelfth",
+      "reading": "",
+      "translation": "duodécimo",
+      "pos": "numeral",
+      "example": "The party is on the twelfth of July.",
+      "example_translation": "La fiesta es el doce de julio.",
+      "lexeme_id": "twelfth_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "twentieth",
+      "reading": "",
+      "translation": "vigésimo",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "twentieth_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "thirtieth",
+      "reading": "",
+      "translation": "trigésimo",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "thirtieth_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "date",
+      "reading": "",
+      "translation": "fecha",
+      "pos": "noun",
+      "example": "What is the date tomorrow?",
+      "example_translation": "¿Qué fecha es mañana?",
+      "lexeme_id": "date",
+      "chunk_id": null
+    },
+    {
+      "target_word": "celebrate",
+      "reading": "",
+      "translation": "celebrar",
+      "pos": "verb",
+      "example": "We celebrate my birthday with a gift.",
+      "example_translation": "Celebramos mi cumpleaños con un regalo.",
+      "lexeme_id": "celebrate_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "gift",
+      "reading": "",
+      "translation": "regalo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "gift",
+      "chunk_id": null
+    },
+    {
+      "target_word": "card",
+      "reading": "",
+      "translation": "tarjeta / carta",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "card",
+      "chunk_id": null
+    },
+    {
+      "target_word": "yesterday / today / tomorrow",
+      "reading": "",
+      "translation": "ayer / hoy / mañana",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_yesterday_today_tomorrow"
+    },
+    {
+      "target_word": "What date is it?",
+      "reading": "",
+      "translation": "¿Qué fecha es?",
+      "pos": "chunk",
+      "example": "What date is it today?",
+      "example_translation": "¿Qué fecha es hoy?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_date_is_it"
+    },
+    {
+      "target_word": "When is your birthday?",
+      "reading": "",
+      "translation": "¿Cuándo es tu cumpleaños?",
+      "pos": "chunk",
+      "example": "When is your birthday?",
+      "example_translation": "¿Cuándo es tu cumpleaños?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_when_is_your_birthday"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "first",
+      "role": "support",
+      "status": "practiced",
+      "translation": "primero",
+      "lexeme_id": "first_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_001",
+        "ex_003",
+        "ex_005",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "second",
+      "role": "support",
+      "status": "practiced",
+      "translation": "segundo",
+      "lexeme_id": "second_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "third",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tercero",
+      "lexeme_id": "third_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "fourth",
+      "role": "support",
+      "status": "introduced",
+      "translation": "cuarto",
+      "lexeme_id": "fourth_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "fifth",
+      "role": "support",
+      "status": "practiced",
+      "translation": "quinto",
+      "lexeme_id": "fifth_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "eighth",
+      "role": "support",
+      "status": "practiced",
+      "translation": "octavo",
+      "lexeme_id": "eighth_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "ninth",
+      "role": "support",
+      "status": "practiced",
+      "translation": "noveno",
+      "lexeme_id": "ninth_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "twelfth",
+      "role": "support",
+      "status": "practiced",
+      "translation": "duodécimo",
+      "lexeme_id": "twelfth_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "twentieth",
+      "role": "support",
+      "status": "practiced",
+      "translation": "vigésimo",
+      "lexeme_id": "twentieth_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "thirtieth",
+      "role": "support",
+      "status": "practiced",
+      "translation": "trigésimo",
+      "lexeme_id": "thirtieth_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_012",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "date",
+      "role": "support",
+      "status": "practiced",
+      "translation": "fecha",
+      "lexeme_id": "date",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_006",
+        "ex_009",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "celebrate",
+      "role": "support",
+      "status": "practiced",
+      "translation": "celebrar",
+      "lexeme_id": "celebrate_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_007",
+        "ex_011",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "gift",
+      "role": "support",
+      "status": "practiced",
+      "translation": "regalo",
+      "lexeme_id": "gift",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "card",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tarjeta / carta",
+      "lexeme_id": "card",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "fc_014"
+      ]
+    },
+    {
+      "term": "yesterday / today / tomorrow",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ayer / hoy / mañana",
+      "lexeme_id": null,
+      "chunk_id": "chunk_yesterday_today_tomorrow",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "What date is it?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Qué fecha es?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_date_is_it",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_006",
+        "ex_009",
+        "fc_016"
+      ]
+    },
+    {
+      "term": "When is your birthday?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Cuándo es tu cumpleaños?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_when_is_your_birthday",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_005",
+        "ex_010",
+        "ex_011",
+        "fc_017"
+      ]
+    },
+    {
+      "term": "birthday",
+      "role": "support",
+      "status": "review",
+      "translation": "cumpleanos",
+      "lexeme_id": "birthday",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "fc_015",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_012",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "tomorrow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "fc_015",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "June",
+      "role": "support",
+      "status": "emergent",
+      "translation": "junio",
+      "lexeme_id": "june",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_013",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "eighth",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "fc_006",
+        "quiz_001:q_005",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "ninth",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "fc_007",
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "fourth",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "fifth",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "july",
+      "role": "support",
+      "status": "emergent",
+      "translation": "julio",
+      "lexeme_id": "july",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "get",
+      "role": "support",
+      "status": "emergent",
+      "translation": "obtener / conseguir / llegar",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_006",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "order",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ordenar / pedir",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "add",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sumar",
+      "lexeme_id": "add",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_008",
+        "quiz_001:q_014",
+        "quiz_001:q_015"
+      ]
+    },
+    {
+      "term": "love",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amar / encantar",
+      "lexeme_id": "love_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "happy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "feliz / contento",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "cake",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pastel / torta",
+      "lexeme_id": "cake",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "memorize",
+      "role": "support",
+      "status": "emergent",
+      "translation": "memorizar",
+      "lexeme_id": "memorize_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 17,
+    "review_support_count": 1,
+    "emergent_count": 20,
+    "emergent_terms": [
+      "today",
+      "tomorrow",
+      "June",
+      "eighth",
+      "ninth",
+      "yesterday",
+      "fourth",
+      "fifth",
+      "july",
+      "day",
+      "get",
+      "family",
+      "order",
+      "add",
+      "love",
+      "friend",
+      "word",
+      "happy",
+      "cake",
+      "memorize"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Fechas, cumpleaños y ordinales",
+      "title_target": "Quiz: Talking About Dates, Birthdays, and Ordinal Numbers",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la fecha: 'Today is the ____ of June.' (Hoy es el 5 de junio.)",
+          "prompt_target": "Complete the date: 'Today is the ____ of June.'",
+          "options": null,
+          "correct_answer": "fifth",
+          "explanation_form": "Para el día 5 usamos el ordinal 'fifth'. El orden es: the + ordinal + of + month.",
+          "explanation_target": "For day 5 we use the ordinal 'fifth'. The order is: the + ordinal + of + month.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "fifth_ord",
+            "date",
+            "june"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta: '¿Cuándo es tu cumpleaños?'",
+          "prompt_target": "Order the words to form a correct question: 'When is your birthday?'",
+          "options": [
+            "is",
+            "your",
+            "When",
+            "birthday",
+            "?"
+          ],
+          "correct_answer": "When is your birthday?",
+          "explanation_form": "La pregunta correcta es 'When is your birthday?'. En inglés, el verbo 'is' va después de 'when'.",
+          "explanation_target": "The correct question is 'When is your birthday?'. In English, the verb 'is' goes after 'when'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_when_is_your_birthday",
+            "birthday"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué día es hoy?",
+          "prompt_target": "Listen and answer: What day is it today?",
+          "options": [
+            "The ninth of June",
+            "The twelfth of June",
+            "The fifth of June",
+            "The first of June"
+          ],
+          "correct_answer": "The ninth of June",
+          "explanation_form": "La primera oración dice 'Today is the ninth of June', así que hoy es el 9 de junio.",
+          "explanation_target": "The first sentence says 'Today is the ninth of June', so today is the 9th of June.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ninth_ord",
+            "date",
+            "june",
+            "today"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Today is the ninth of June. My birthday is on the twelfth of June. I am very happy.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del ordinal para el número 2?",
+          "prompt_target": "In a date, how do you write number two?",
+          "options": [
+            "second",
+            "third",
+            "two",
+            "twelfth"
+          ],
+          "correct_answer": "second",
+          "explanation_form": "El ordinal de 2 es 'second'. Es una forma irregular que debés memorizar.",
+          "explanation_target": "The ordinal for 2 is 'second'. It is an irregular form you must memorize.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "second_ord"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada ordinal con su número:",
+          "prompt_target": "Match each one to its number:",
+          "options": [
+            "first",
+            "1",
+            "eighth",
+            "8",
+            "twelfth",
+            "12",
+            "twentieth",
+            "20"
+          ],
+          "correct_answer": [
+            "first=1",
+            "eighth=8",
+            "twelfth=12",
+            "twentieth=20"
+          ],
+          "explanation_form": "first=1, eighth=8, twelfth=12 y twentieth=20. Recordá que 'twelfth' tiene una 'f' y 'twentieth' termina en '-ieth'.",
+          "explanation_target": "first=1, eighth=8, twelfth=12 and twentieth=20. Remember that 'twelfth' has an 'f' and 'twentieth' ends in '-ieth'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "first_ord",
+            "eighth_ord",
+            "twelfth_ord",
+            "twentieth_ord"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Cuándo es el cumpleaños de mi amigo?",
+          "prompt_target": "Read the text and answer: When is my friend's birthday?",
+          "options": [
+            "The thirtieth of June",
+            "The third of June",
+            "The ninth of June",
+            "The twentieth of June"
+          ],
+          "correct_answer": "The thirtieth of June",
+          "explanation_form": "El texto dice 'His birthday is on the thirtieth of June', así que el cumpleaños es el 30 de junio.",
+          "explanation_target": "The text says 'His birthday is on the thirtieth of June', so the birthday is on the 30th of June.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "thirtieth_ord",
+            "birthday",
+            "june",
+            "gift",
+            "card",
+            "celebrate_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "My friend Tom is a student. His birthday is on the thirtieth of June. He loves his birthday. He gets a card and a gift from his family. We celebrate with a cake.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ is the date today?' (¿Cuál es la fecha de hoy?)",
+          "prompt_target": "Complete the question: '____ is the date today?'",
+          "options": null,
+          "correct_answer": "What",
+          "explanation_form": "Para preguntar por la fecha usamos 'What is the date today?'. 'What' significa 'qué' o 'cuál'.",
+          "explanation_target": "To ask for the date we use 'What is the date today?'. 'What' means 'what' or 'which'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_what_date_is_it",
+            "date",
+            "today"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el ordinal correcto para el número 9?",
+          "prompt_target": "In a date, how do you write number nine?",
+          "options": [
+            "ninth",
+            "eighth",
+            "nine",
+            "ninety"
+          ],
+          "correct_answer": "ninth",
+          "explanation_form": "El ordinal de 9 es 'ninth'. Perdemos la 'e' de 'nine' y agregamos '-th'.",
+          "explanation_target": "The ordinal for 9 is 'ninth'. We drop the 'e' from 'nine' and add '-th'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ninth_ord"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué día es mañana?",
+          "prompt_target": "Listen and answer: What day is tomorrow?",
+          "options": [
+            "The second of June",
+            "The first of June",
+            "The third of June",
+            "The fifth of June"
+          ],
+          "correct_answer": "The second of June",
+          "explanation_form": "El texto dice 'Today is the first... Tomorrow is the second', así que mañana es el 2 de junio.",
+          "explanation_target": "The text says 'Today is the first... Tomorrow is the second', so tomorrow is the 2nd of June.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "first_ord",
+            "second_ord",
+            "date",
+            "june",
+            "tomorrow"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Today is the first of June. Tomorrow is the second of June. My birthday is on the second.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'My birthday is on the ____ of June.' (Mi cumpleaños es el 3 de junio.)",
+          "prompt_target": "Complete: 'My birthday is on the ____ of June.'",
+          "options": null,
+          "correct_answer": "third",
+          "explanation_form": "Para el día 3 usamos el ordinal 'third'. Es otra forma irregular que debés memorizar.",
+          "explanation_target": "For day 3 we use the ordinal 'third'. It is another irregular form you must memorize.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "third_ord",
+            "birthday",
+            "june"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del ordinal para el número 4?",
+          "prompt_target": "In a date, how do you write number four?",
+          "options": [
+            "fourth",
+            "fifth",
+            "four",
+            "forty"
+          ],
+          "correct_answer": "fourth",
+          "explanation_form": "El ordinal de 4 es 'fourth'. Se forma agregando '-th' a 'four'.",
+          "explanation_target": "The ordinal for 4 is 'fourth'. It is formed by adding '-th' to 'four'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "fourth_ord"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta: '¿Qué fecha es hoy?'",
+          "prompt_target": "Order the words to form a correct question: 'What is the date today?'",
+          "options": [
+            "the",
+            "date",
+            "What",
+            "is",
+            "today",
+            "?"
+          ],
+          "correct_answer": "What is the date today?",
+          "explanation_form": "La pregunta correcta es 'What is the date today?'. El orden es: What + is + the + date + today.",
+          "explanation_target": "The correct question is 'What is the date today?'. The order is: What + is + the + date + today.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_what_date_is_it",
+            "date",
+            "today"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_013",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Cuándo es el cumpleaños de mi hermana?",
+          "prompt_target": "Listen and answer: When is my sister's birthday?",
+          "options": [
+            "The twentieth of June",
+            "The twelfth of June",
+            "The thirtieth of June",
+            "The ninth of June"
+          ],
+          "correct_answer": "The twentieth of June",
+          "explanation_form": "El texto dice 'My sister's birthday is on the twentieth of June', así que es el 20 de junio.",
+          "explanation_target": "The text says 'My sister's birthday is on the twentieth of June', so it is the 20th of June.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "twentieth_ord",
+            "birthday",
+            "june",
+            "gift",
+            "card",
+            "celebrate_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "My sister's birthday is on the twentieth of June. She gets a gift and a card. We celebrate with cake.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_014",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'Today is the ____ of June.' (Hoy es el 8 de junio.)",
+          "prompt_target": "Complete: 'Today is the ____ of June.'",
+          "options": null,
+          "correct_answer": "eighth",
+          "explanation_form": "Para el día 8 usamos el ordinal 'eighth'. Perdemos una 't' de 'eight' y agregamos '-h'.",
+          "explanation_target": "For day 8 we use the ordinal 'eighth'. We drop one 't' from 'eight' and add '-h'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eighth_ord",
+            "date",
+            "june"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_015",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del ordinal para el número 12?",
+          "prompt_target": "In a date, how do you write number twelve?",
+          "options": [
+            "twelfth",
+            "tenth",
+            "twelve",
+            "twentieth"
+          ],
+          "correct_answer": "twelfth",
+          "explanation_form": "El ordinal de 12 es 'twelfth'. Cambiamos 've' por 'f' y agregamos '-th'.",
+          "explanation_target": "The ordinal for 12 is 'twelfth'. We change 've' to 'f' and add '-th'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "twelfth_ord"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Fechas en inglés: el orden importa\n\nEn español decimos \"21 de julio\", pero en inglés hay dos formas: **July 21st** (mes primero) o **the 21st of July** (día primero). Las dos son correctas. Recuerda: el número ordinal lleva **the** antes cuando va primero: *the 21st of July*.\n\n## Ordinales: trucos para no fallar\n\nLos primeros tres son irregulares: **first, second, third**. Luego, cuidado con los cambios de escritura: **fifth** (no fiveth), **eighth** (una sola t), **ninth** (sin e) y **twelfth** (f, no v). El resto es fácil: solo agrega **-th** al número. Para decenas como 20 y 30, cambia la y por **-ieth**: *twentieth, thirtieth*.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:34:03Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

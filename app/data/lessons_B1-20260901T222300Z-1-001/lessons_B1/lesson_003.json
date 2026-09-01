@@ -1,0 +1,1605 @@
+{
+  "id": "lesson_003",
+  "position": 3,
+  "unit_id": 1,
+  "course_id": "en.B1",
+  "title_form": "Ordenar eventos pasados",
+  "title_target": "Ordering events in a past story",
+  "theme_focus": "stories and narrative",
+  "learning_objectives": [
+    "Can describe a straightforward narrative and identify which event happened first."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_002"
+  ],
+  "grammar_focus": [
+    "Past perfect with past simple to show an earlier past event."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "realize_verb",
+        "confuse_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "discover_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "timeline",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the stories and narrative situation."
+      },
+      {
+        "term": "earlier event",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the stories and narrative situation."
+      },
+      {
+        "term": "by the time",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "before that",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "had already",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "when",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos llega a la estación de tren para viajar a una conferencia, pero descubre que el tren ya había partido. Al revisar su billete, se da cuenta de que había confundido las horas de salida antes de salir de casa. Finalmente, le explica a la agente de pasajes lo que había ocurrido para poder reprogramar su viaje.",
+  "introduction_md": "¿Alguna vez has contado una historia y necesitaste explicar qué sucedió primero? En esta lección aprenderás a ordenar eventos en el pasado usando el pasado perfecto (*past perfect*) junto con el pasado simple (*past simple*).\n\nEsta estructura te permite señalar con claridad qué acción ocurrió antes que otra en una línea de tiempo.\n\nEn esta lección vas a aprender a:\n- Usar el pasado perfecto para referirte a un evento anterior.\n- Conectar ideas usando expresiones como *by the time*, *before that* y *when*.\n- Expresar descubrimientos o confusiones en narraciones del pasado.\n\nDominar este patrón gramatical te ayudará a contar anécdotas, historias de viajes y experiencias personales de forma clara y fluida. ¡Comencemos a ordenar tus historias!",
+  "intro_target": "Have you ever told a story and needed to explain which event happened first? In this lesson, you will learn how to order events in the past by using the past perfect together with the past simple.\n\nThis structure allows you to show clearly which action occurred before another event on a narrative timeline.\n\nIn this lesson, you will learn how to:\n- Use the past perfect to refer to an earlier event in a story.\n- Connect ideas using useful expressions like *by the time*, *before that*, and *when*.\n- Express realizations and mix-ups when describing past personal experiences.\n\nMastering this grammar pattern will help you narrate anecdotes, travel stories, and daily events smoothly and clearly. Let's start ordering your past stories!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "realize_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "When I arrived at the station, I realized that the train had already left.",
+      "translation_form": "Cuando llegué a la estación, me di cuenta de que el tren ya se había ido.",
+      "highlight_words": [
+        "when",
+        "realized",
+        "had",
+        "already"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "By the time we checked the timeline, we discovered that the dates had confused us.",
+      "translation_form": "Para cuando revisamos la línea de tiempo, descubrimos que las fechas nos habían confundido.",
+      "highlight_words": [
+        "by",
+        "the",
+        "time",
+        "timeline",
+        "discovered",
+        "confused"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "discover_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I discovered an earlier event in the story after I had already finished the reading.",
+      "translation_form": "Descubrí un evento anterior en la historia después de que ya había terminado la lectura.",
+      "highlight_words": [
+        "discovered",
+        "earlier",
+        "event",
+        "had",
+        "already"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The manager sent an update, and she checked the new timetable. Before that, she had already called him to confirm the details, so she did not confuse the times.",
+      "translation_form": "El gerente envió una actualización y ella revisó el nuevo horario. Antes de eso, ya lo había llamado para confirmar los detalles, así que no confundió las horas.",
+      "highlight_words": [
+        "had",
+        "already",
+        "before",
+        "that",
+        "confuse"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "realize_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "When they discovered the mistake, they realized that someone had changed the timeline.",
+      "translation_form": "Cuando descubrieron el error, se dieron cuenta de que alguien había cambiado la línea de tiempo.",
+      "highlight_words": [
+        "when",
+        "discovered",
+        "realized",
+        "timeline"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Past perfect with past simple to show an earlier past event.",
+      "title_form": "Pasado perfecto con pasado simple para ordenar eventos pasados",
+      "title_target": "Past perfect with past simple to show an earlier past event",
+      "description_md_form": "El **past perfect** (`had` + participio) se utiliza junto con el **past simple** para indicar claramente cuál de dos acciones pasadas ocurrió primero en el tiempo. La acción anterior en la línea de tiempo se expresa en *past perfect*, mientras que la acción más reciente se expresa en *past simple*.\n\nMarcadores temporales habituales:\n- **when** / **by the time**: introducen la acción posterior en *past simple*.\n- **had already** / **before that**: destacan que la primera acción ya había finalizado.\n\nUsar esta combinación evita confundir los detalles de una historia y mantiene el orden cronológico claro.",
+      "description_md_target": "The **past perfect** (`had` + past participle) is used alongside the **past simple** to clearly show which of two past actions happened first. The earlier event on the timeline uses the *past perfect*, while the more recent event uses the *past simple*.\n\nCommon time markers:\n- **when** / **by the time**: introduce the later action in *past simple*.\n- **had already** / **before that**: highlight that the first action had finished.\n\nUsing this combination avoids confusing story details and keeps chronological order clear.",
+      "grammar_structure": "Subject + had + past participle ... when/by the time + Subject + past simple",
+      "conjugation_table": {
+        "name": "past_perfect_vs_past_simple",
+        "headers": [
+          "Tiempo verbal",
+          "Función en la historia",
+          "Estructura",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Past Perfect",
+            "Evento anterior (primer hecho)",
+            "had + past participle",
+            "she had already left"
+          ],
+          [
+            "Past Simple",
+            "Evento posterior (hecho reciente)",
+            "verb in past tense (-ed / irregular)",
+            "I realized the mistake"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Past perfect with past simple to show an earlier past event.",
+          "text_target": "When I arrived at the station, I realized that the train had already left.",
+          "translation_form": "Cuando llegué a la estación, me di cuenta de que el tren ya se había ido.",
+          "highlight_words": [
+            "arrived",
+            "realized",
+            "had",
+            "already",
+            "left"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Past perfect with past simple to show an earlier past event.",
+          "text_target": "By the time we checked the timeline, we discovered that the dates had confused us.",
+          "translation_form": "Para cuando revisamos la línea de tiempo, descubrimos que las fechas nos habían confundido.",
+          "highlight_words": [
+            "by",
+            "the",
+            "time",
+            "checked",
+            "discovered",
+            "had",
+            "confused"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "Usa **had already** para enfatizar que el primer evento ya se había completado antes del segundo punto en el pasado."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No uses el pasado simple para ambas acciones si la secuencia temporal no queda clara sin el pasado perfecto."
+        }
+      ],
+      "common_errors_es": [
+        "Usar pasado simple en ambos verbos cuando la relación temporal entre los eventos no es evidente.",
+        "Olvidar el auxiliar 'had' al construir el past perfect.",
+        "Confundir qué evento ocurrió primero al usar conectores como 'by the time'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'realize' en español?",
+      "options": [
+        "Darse cuenta de algo",
+        "Confundir a alguien",
+        "Descubrir una pista",
+        "Olvidar un dato"
+      ],
+      "correct_answer": "Darse cuenta de algo",
+      "explanation_md": "'Realize' significa darse cuenta o comprender de manera clara una situación.",
+      "related_lexeme_ids": [
+        "realize_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra o expresión en inglés con su traducción:",
+      "options": [
+        "realize",
+        "darse cuenta",
+        "confuse",
+        "confundir",
+        "discover",
+        "descubrir",
+        "earlier event",
+        "evento anterior"
+      ],
+      "correct_answer": [
+        "realize=darse cuenta",
+        "confuse=confundir",
+        "discover=descubrir",
+        "earlier event=evento anterior"
+      ],
+      "explanation_md": "Relacionamos cada término clave del tema con su significado correcto.",
+      "related_lexeme_ids": [
+        "realize_verb",
+        "confuse_verb",
+        "discover_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la opción correcta para completar la oración según el orden del tiempo en el pasado:\n\n'When I arrived at the station, the train _____.'",
+      "options": [
+        "had already left",
+        "has left",
+        "is leaving",
+        "leaves"
+      ],
+      "correct_answer": "had already left",
+      "explanation_md": "Usamos Pasado Perfecto ('had left') para la acción que ocurrió antes de llegar a la estación.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa el espacio con el pasado simple del verbo 'realize':\n\nWhen she opened her bag, she ____ that she had lost her keys.",
+      "options": null,
+      "correct_answer": "realized",
+      "explanation_md": "Usamos 'realized' en pasado simple para la acción posterior a haber perdido las llaves.",
+      "related_lexeme_ids": [
+        "realize_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Escribe la forma adecuada de Pasado Perfecto para indicar el evento anterior:\n\nBy the time we checked the timeline, the dates ____ us.",
+      "options": null,
+      "correct_answer": "had confused",
+      "explanation_md": "Se utiliza 'had confused' para expresar que las fechas produjeron la confusión antes de revisar la línea de tiempo.",
+      "related_lexeme_ids": [
+        "confuse_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés las siguientes oraciones usando Pasado Perfecto. Contexto: el gerente envió una actualización y ella revisó el nuevo horario. Antes de eso, ya había llamado al gerente para confirmar los detalles.",
+      "options": null,
+      "correct_answer": "The manager sent an update, and she checked the new timetable. Before that, she had already called him to confirm the details.",
+      "explanation_md": "La primera oración proporciona el contexto de 'before that'; la segunda usa 'had already called' para marcar la acción anterior.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce la siguiente oración al español:",
+      "options": null,
+      "correct_answer": "Ellos descubrieron que alguien había cambiado la línea de tiempo.",
+      "explanation_md": "'Discovered' se traduce como descubrieron en pasado simple y 'had changed' como había cambiado en pasado perfecto.",
+      "related_lexeme_ids": [
+        "discover_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto sobre una reunión de trabajo y responde a la pregunta:\n\n¿Por qué se confundió el equipo con el horario?",
+      "options": [
+        "Porque nadie había revisado el correo nuevo con los cambios.",
+        "Porque el gerente canceló la reunión por completo.",
+        "Porque la oficina estaba cerrada esa mañana.",
+        "Porque María llegó tarde al trabajo."
+      ],
+      "correct_answer": "Porque nadie había revisado el correo nuevo con los cambios.",
+      "explanation_md": "El texto explica que 'nobody had checked the new email', lo que generó la confusión con la hora.",
+      "related_lexeme_ids": [
+        "realize_verb",
+        "confuse_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Yesterday, Maria arrived at the office for an important meeting. However, when she opened her calendar, she realized that the manager had changed the timetable earlier. By the time the team arrived, the old schedule had confused everyone. Before that, nobody had checked the new email.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha la narración y responde:\n\n¿Qué descubrió el viajero cuando llegó al aeropuerto?",
+      "options": [
+        "Que había olvidado su pasaporte en casa.",
+        "Que su vuelo había cambiado de horario.",
+        "Que el aeropuerto estaba cerrado.",
+        "Que su equipaje se había perdido."
+      ],
+      "correct_answer": "Que había olvidado su pasaporte en casa.",
+      "explanation_md": "En el audio el hablante dice: 'I realized that I had forgotten my passport at home'.",
+      "related_lexeme_ids": [
+        "realize_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "When I arrived at the airport, I realized that I had forgotten my passport at home. By the time I returned, the flight had already left.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la opción que mejor ordene los eventos pasados en la siguiente oración:\n\n'I _____ an earlier event in the story after I _____ the reading.'",
+      "options": [
+        "discovered / had already finished",
+        "had discovered / finish",
+        "discover / had finished",
+        "discovered / have finished"
+      ],
+      "correct_answer": "discovered / had already finished",
+      "explanation_md": "'Discovered' expresa la acción principal en pasado simple y 'had already finished' la acción previa en pasado perfecto.",
+      "related_lexeme_ids": [
+        "discover_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribe una oración en inglés combinando Pasado Simple ('realized') y Pasado Perfecto ('had already...') para contar algo que notaste tarde.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'realized' junto a 'had already' más el participio pasado.",
+      "related_lexeme_ids": [
+        "realize_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "When I got to the station, I realized that the train had already left.",
+        "I realized that I had forgotten my keys after I closed the door."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente oración:",
+      "options": null,
+      "correct_answer": "When they discovered the mistake, they realized that the dates had confused them.",
+      "explanation_md": "Combinamos los verbos en pasado simple ('discovered', 'realized') con el pasado perfecto ('had confused') para el evento anterior.",
+      "related_lexeme_ids": [
+        "realize_verb",
+        "confuse_verb",
+        "discover_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Por qué me confundí con la fecha de devolución? / Read the short story and answer: Why was I confused about the return date?",
+      "options": [
+        "Porque había revisado un recordatorio antiguo y no había notado la fecha actualizada.",
+        "Porque la biblioteca había estado cerrada toda la semana.",
+        "Porque había perdido el libro antes de salir de casa.",
+        "Porque la bibliotecaria le había dado una fecha equivocada."
+      ],
+      "correct_answer": "Porque había revisado un recordatorio antiguo y no había notado la fecha actualizada.",
+      "explanation_md": "La narradora había revisado un recordatorio antiguo y no había notado la fecha actualizada antes de llegar. / The narrator had checked an old reminder and had not noticed the updated date before she arrived.",
+      "related_lexeme_ids": [
+        "realize_verb",
+        "confuse_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Last Saturday, I arrived at the community library to return a book. I was surprised when the librarian told me that the return deadline had passed. Before I left home, I had checked an old reminder on my phone, but I had not noticed the updated date in the library email. I apologized and explained what had happened. The librarian checked my account and gave me one extra day. I realized that I had confused the old reminder with the updated one, so I returned the book the next morning.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Qué había ocurrido antes de que llegara al teatro? / Listen to the short story and answer: What had happened before I arrived at the theatre?",
+      "options": [
+        "La batería de mi teléfono se había agotado en el autobús.",
+        "La obra había comenzado antes de que yo llegara al teatro.",
+        "La asistente había cancelado mi reserva.",
+        "Yo había perdido mi equipaje en la estación."
+      ],
+      "correct_answer": "La batería de mi teléfono se había agotado en el autobús.",
+      "explanation_md": "La batería se había agotado antes de que el narrador llegara al teatro, así que no pudo mostrar el correo de confirmación. / The battery had died before the speaker arrived at the theatre, so the confirmation email could not be shown.",
+      "related_lexeme_ids": [
+        "realize_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Last night, I arrived at the theatre ten minutes before the play started. I had bought my ticket online, but I could not find the confirmation email. Before I left home, I had saved the message on my phone, yet my battery had died on the bus. I realized that I could not show the ticket, so I explained the problem to an assistant. She checked my name on the list and found my booking. I entered the theatre just before the doors closed.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "realize",
+      "back": "darse cuenta, comprender",
+      "hint": "comprender claramente una situación",
+      "lexeme_id": "realize_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_003",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "realized",
+      "back": "se dio cuenta, había comprendido",
+      "hint": "forma en pasado del verbo realize",
+      "lexeme_id": "realize_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_003",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "confuse",
+      "back": "confundir",
+      "hint": "mezclar o no entender algo con claridad",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_003",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "confused",
+      "back": "confundió, desorientó",
+      "hint": "forma en pasado del verbo confuse",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_003",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "discover",
+      "back": "descubrir, hallar",
+      "hint": "encontrar o averiguar algo nuevo",
+      "lexeme_id": "discover_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_003",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "realize",
+      "reading": "",
+      "translation": "darse cuenta",
+      "pos": "verb",
+      "example": "When I arrived at the station, I realized that the train had already left.",
+      "example_translation": "Cuando llegué a la estación, me di cuenta de que el tren ya se había ido.",
+      "lexeme_id": "realize_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "confuse",
+      "reading": "",
+      "translation": "confundir",
+      "pos": "verb",
+      "example": "By the time we checked the timeline, we discovered that the dates had confused us.",
+      "example_translation": "Para cuando revisamos la línea de tiempo, descubrimos que las fechas nos habían confundido.",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "timeline",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_005",
+        "Past perfect with past simple to show an earlier past event."
+      ]
+    },
+    {
+      "term": "earlier event",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Past perfect with past simple to show an earlier past event.",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "by the time",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "Past perfect with past simple to show an earlier past event.",
+        "ex_008",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "before that",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "Past perfect with past simple to show an earlier past event.",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "had already",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "exm_004",
+        "Past perfect with past simple to show an earlier past event.",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "when",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "cuándo",
+      "lexeme_id": "when_wh",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_005",
+        "Past perfect with past simple to show an earlier past event.",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "realise",
+      "role": "support",
+      "status": "planned",
+      "translation": "ganar / hacer / cobrar",
+      "lexeme_id": "realise_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": []
+    },
+    {
+      "term": "confuse",
+      "role": "support",
+      "status": "practiced",
+      "translation": "confundir",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "ex_002",
+        "ex_005",
+        "ex_008",
+        "ex_012",
+        "ex_013",
+        "fc_003",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "realize",
+      "role": "support",
+      "status": "review",
+      "translation": "darse cuenta",
+      "lexeme_id": "realize_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_005",
+        "ex_001",
+        "ex_002",
+        "ex_004",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_001",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "discover",
+      "role": "support",
+      "status": "review",
+      "translation": "descubrir",
+      "lexeme_id": "discover_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_002",
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "ex_008",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "arrive",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llegar",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "ex_009",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "left",
+      "role": "support",
+      "status": "emergent",
+      "translation": "izquierda",
+      "lexeme_id": "left",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "train",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tren",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "quiz_001:q_004",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "station",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estación",
+      "lexeme_id": "station",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "quiz_001:q_004",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "date",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fecha",
+      "lexeme_id": "date",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "mistake",
+      "role": "support",
+      "status": "emergent",
+      "translation": "error",
+      "lexeme_id": "mistake",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "detail",
+      "role": "support",
+      "status": "emergent",
+      "translation": "detallar",
+      "lexeme_id": "detail_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "update",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actualizar / actualización",
+      "lexeme_id": "update",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "confirm",
+      "role": "support",
+      "status": "emergent",
+      "translation": "confirmar",
+      "lexeme_id": "confirm",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "listen to",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuchar",
+      "lexeme_id": "listen_to_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_013",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "close",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cerrar",
+      "lexeme_id": "close_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_014",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "return",
+      "role": "support",
+      "status": "emergent",
+      "translation": "volver / regresar",
+      "lexeme_id": "return_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_013",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "email",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_013",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "name",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nombre",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "open",
+      "role": "support",
+      "status": "emergent",
+      "translation": "abrir",
+      "lexeme_id": "open_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "read",
+      "role": "support",
+      "status": "emergent",
+      "translation": "leer",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "office",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oficina",
+      "lexeme_id": "office",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "phone",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "airport",
+      "role": "support",
+      "status": "emergent",
+      "translation": "aeropuerto",
+      "lexeme_id": "airport",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "surprised",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sorprendido",
+      "lexeme_id": "surprised_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "ticket",
+      "role": "support",
+      "status": "emergent",
+      "translation": "boleto / billete / ticket",
+      "lexeme_id": "ticket",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "schedule",
+      "role": "support",
+      "status": "emergent",
+      "translation": "horario",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 2,
+    "review_support_count": 2,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "check",
+      "arrive",
+      "left",
+      "train",
+      "station",
+      "call",
+      "date",
+      "finish",
+      "manager",
+      "mistake",
+      "detail",
+      "update",
+      "confirm",
+      "home",
+      "yesterday",
+      "listen to",
+      "old",
+      "close",
+      "return",
+      "email",
+      "explain",
+      "name",
+      "open",
+      "read",
+      "office",
+      "phone",
+      "morning",
+      "airport",
+      "surprised",
+      "ticket",
+      "book",
+      "schedule"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Ordenar eventos pasados",
+      "title_target": "Quiz: Ordering past events",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué descubrió Anna cuando llegó al aeropuerto?",
+          "prompt_target": "Read the text and answer: What did Anna realize when she arrived at the airport?",
+          "options": [
+            "Se dio cuenta de que había dejado su pasaporte en casa.",
+            "Descubrió que había perdido el autobús hacia el aeropuerto.",
+            "Se dio cuenta de que su hermano la estaba esperando.",
+            "Descubrió que el avión se había retrasado dos horas."
+          ],
+          "correct_answer": "Se dio cuenta de que había dejado su pasaporte en casa.",
+          "explanation_form": "Anna se dio cuenta (realized) de que había olvidado su pasaporte antes de llegar al aeropuerto.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "realize_verb",
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Yesterday, Anna went to the airport. When she arrived, she realized that she had left her passport at home. She was very worried because the plane had already landed. She called her brother, but he had already gone to work.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha la grabación y responde: ¿Por qué el hablante llegó tarde?",
+          "prompt_target": "Listen to the audio and answer: Why was the speaker late?",
+          "options": [
+            "Porque había confundido la hora de la película.",
+            "Porque el cine estaba cerrado.",
+            "Porque no encontraba sus entradas.",
+            "Porque la película ya había terminado."
+          ],
+          "correct_answer": "Porque había confundido la hora de la película.",
+          "explanation_form": "El hablante menciona que había confundido la hora ('had confused the time') antes de llegar al cine.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "confuse_verb",
+            "realize_verb",
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "I got to the cinema late yesterday. When I entered, the movie had already started. I realized I had confused the time.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha la grabación y responde: ¿Qué descubrió Tom al llegar a la oficina?",
+          "prompt_target": "Listen to the recording and answer: What did Tom discover upon arriving at the office?",
+          "options": [
+            "Que su equipo ya había terminado el proyecto.",
+            "Que la oficina estaba vacía y cerrada.",
+            "Que la reunión se había cancelado.",
+            "Que había olvidado sus documentos."
+          ],
+          "correct_answer": "Que su equipo ya había terminado el proyecto.",
+          "explanation_form": "Tom descubrió ('discovered') que la tarea anterior ya había sido completada por su equipo ('had already finished').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "discover_verb",
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Tom arrived at the office early. He discovered that his team had already finished the project without him. He was very surprised.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa con la forma correcta de Past Perfect para indicar la acción previa: 'When we arrived at the station, the train ____ (leave).'",
+          "prompt_target": "Complete with the correct Past Perfect form: 'When we arrived at the station, the train ____ (leave).'",
+          "options": null,
+          "correct_answer": "had left",
+          "explanation_form": "Usamos 'had left' (Past Perfect) porque el tren se fue antes de que nosotros llegáramos.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración correcta sobre dos eventos en el pasado:",
+          "prompt_target": "Order the words to form a correct past sequence sentence:",
+          "options": [
+            "She",
+            "realized",
+            "that",
+            "she",
+            "had",
+            "lost",
+            "her",
+            "keys."
+          ],
+          "correct_answer": "She realized that she had lost her keys.",
+          "explanation_form": "Primero perdió las llaves (had lost) y luego se dio cuenta (realized).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "realize_verb",
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "Elige la oración que muestra correctamente un evento anterior a otro en el pasado:",
+          "prompt_target": "Choose the sentence that correctly shows an earlier event in the past:",
+          "options": [
+            "I confused the dates because I had not checked my diary.",
+            "I confuse the dates because I did not check my diary.",
+            "I had confused the dates because I check my diary.",
+            "I was confusing the dates because I have checked my diary."
+          ],
+          "correct_answer": "I confused the dates because I had not checked my diary.",
+          "explanation_form": "'had not checked' expresa el evento anterior a 'confused'.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "confuse_verb",
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada expresión con su equivalente en español:",
+          "prompt_target": "Match each expression with its Spanish equivalent:",
+          "options": [
+            "had left",
+            "había salido",
+            "realized",
+            "se dio cuenta",
+            "confused",
+            "confundió",
+            "discovered",
+            "descubrió"
+          ],
+          "correct_answer": [
+            "had left=había salido",
+            "realized=se dio cuenta",
+            "confused=confundió",
+            "discovered=descubrió"
+          ],
+          "explanation_form": "Revisa los significados de los verbos y del Past Perfect.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "realize_verb",
+            "confuse_verb",
+            "discover_verb",
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Escribe el verbo en pasado simple que completa la oración: 'I ____ (confuse) the two names yesterday.'",
+          "prompt_target": "Write the simple past verb: 'I ____ (confuse) the two names yesterday.'",
+          "options": null,
+          "correct_answer": "confused",
+          "explanation_form": "El pasado simple de 'confuse' es 'confused'.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "confuse_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Ella se dio cuenta de que había olvidado la dirección.'",
+          "prompt_target": "Translate to English: 'Ella se dio cuenta de que había olvidado la dirección.'",
+          "options": null,
+          "correct_answer": "She realized that she had forgotten the address.",
+          "explanation_form": "'Se dio cuenta' se traduce como 'she realized' y 'había olvidado' como 'she had forgotten'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "realize_verb",
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Qué había hecho la narradora antes de llegar al museo?",
+          "prompt_target": "Read the story and answer: What had the narrator done before arriving at the museum?",
+          "options": [
+            "Había guardado la hora equivocada de apertura de un sitio web antiguo.",
+            "Había comprobado el horario actual esa misma mañana.",
+            "Había comprado las entradas después de que abriera el museo.",
+            "Había visitado el museo el sábado anterior."
+          ],
+          "correct_answer": "Había guardado la hora equivocada de apertura de un sitio web antiguo.",
+          "explanation_form": "Antes de llegar, la narradora había guardado una hora equivocada y después se dio cuenta de que había confundido el horario del sábado con el del lunes.",
+          "explanation_target": "Before arriving, the narrator had saved the wrong opening time and later realized that she had confused Saturday's schedule with Monday's.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "realize_verb",
+            "confuse_verb",
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "On Monday, I met my friend at the museum. I had planned the visit carefully, but I had saved the wrong opening time from an old website. When I arrived, the doors were still closed. I called the museum, and an employee explained that the exhibition would open at ten. I realized that I had confused Saturday's schedule with Monday's schedule, so I went to a nearby café and returned later.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Por qué compró el hablante un boleto nuevo?",
+          "prompt_target": "Listen to the story and answer: Why did the speaker buy a new ticket?",
+          "options": [
+            "Porque había confundido la página del horario y su tren ya había salido.",
+            "Porque había perdido su maleta en la estación.",
+            "Porque la estación había cerrado por la mañana.",
+            "Porque había reservado un asiento en otro tren."
+          ],
+          "correct_answer": "Porque había confundido la página del horario y su tren ya había salido.",
+          "explanation_form": "El hablante había confundido la página del horario; cuando llegó a la estación, su tren ya había salido y necesitó otro boleto.",
+          "explanation_target": "The speaker had confused the timetable page; when he arrived at the station, his train had already departed, so he needed another ticket.",
+          "references_exercise_id": "ex_014",
+          "references_lesson_topics": [
+            "realize_verb",
+            "confuse_verb",
+            "Past perfect with past simple to show an earlier past event."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": "I arrived at the station after the morning rush. Before I left home, I had checked the train timetable, but I had confused yesterday's page with today's. When I saw the platform sign, I realized that my train had already departed. I asked an officer for help, and she showed me the next departure. I bought a new ticket and waited.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## La línea del tiempo en el pasado\n\nCuando cuentas una historia en inglés, el **Past Perfect** (`had` + participio) representa la acción que ocurrió *antes* que otra acción en **Past Simple**.\n\n- *I realized (Past Simple) that I had confused (Past Perfect) the dates.*\n  (Primero confundí las fechas y después me di cuenta).\n\n## Tip para hispanohablantes: \"Had\" no cambia\n\nA diferencia del español, donde el verbo haber cambia según la persona (había, habías, habíamos), en inglés la estructura es constante: siempre usas **had** para todos los pronombres (`I had`, `she had`, `they had`).\n\nPresta atención a verbos como *realize* y *discover*: suelen marcar el momento presente del relato en el que te das cuenta de algo que ya había sucedido antes.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:19:43Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

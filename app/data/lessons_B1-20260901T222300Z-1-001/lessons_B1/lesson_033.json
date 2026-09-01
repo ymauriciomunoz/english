@@ -1,0 +1,1528 @@
+{
+  "id": "lesson_033",
+  "position": 33,
+  "unit_id": 11,
+  "course_id": "en.B1",
+  "title_form": "Integrar ideas en una presentacion",
+  "title_target": "Integrating ideas in a final presentation",
+  "theme_focus": "work and study",
+  "learning_objectives": [
+    "Can present a clear connected proposal and respond to familiar questions about it."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_032"
+  ],
+  "grammar_focus": [
+    "Organising a short proposal with sequence, reason, contrast and conclusion markers."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "purpose"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "post"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "purpose",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the work and study situation."
+      },
+      {
+        "term": "final proposal",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the work and study situation."
+      },
+      {
+        "term": "firstly",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "to sum up",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "therefore",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "on the other hand",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos presenta una propuesta final para un nuevo proyecto ante su equipo de trabajo. Explica el propósito del plan, compara diferentes opciones y responde las preguntas de sus compañeros. Al final, resume las conclusiones principales para cerrar la presentación.",
+  "introduction_md": "En esta lección aprenderás a estructurar una propuesta clara y bien organizada para el entorno laboral o académico. Cuando hacemos una presentación profesional, es esencial conectar nuestras ideas de forma lógica para que la audiencia entienda nuestra intención y nuestro propósito.\n\nPracticaremos cómo estructurar un mensaje efectivo usando conectores clave:\n- Organizar ideas en orden secuencial usando expresiones como *firstly*.\n- Expresar una consecuencia lógica con *therefore*: primero presentamos la causa y después el resultado.\n- Introducir visiones contrastantes, alternativas o limitaciones con *on the other hand*.\n- Resumir tus puntos principales y concluir una propuesta final con *to sum up*.\n\nAl finalizar esta lección, podrás exponer el *purpose* de tu *final proposal* con confianza y responder preguntas comunes con fluidez. ¡Comencemos a mejorar tus habilidades de presentación!",
+  "intro_target": "In this lesson, you will learn how to structure a clear and well-organised proposal for a work or study environment. When giving a professional presentation, it is essential to connect your ideas logically so that your audience understands your intention and your main purpose.\n\nWe will practice how to structure an effective message using key connectors:\n- Organise ideas in a sequential order using expressions like *firstly*.\n- Express a logical consequence with *therefore*: present the cause first and the result afterwards.\n- Introduce contrasting views, alternative options or limitations with *on the other hand*.\n- Summarise your main points and conclude a final proposal with *to sum up*.\n\nBy the end of this lesson, you will be able to present the purpose of your final proposal with confidence and answer common questions fluently. Let us start improving your presentation skills!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "purpose",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Firstly, the main purpose of our plan is to increase online sales this year.",
+      "translation_form": "En primer lugar, el propósito principal de nuestro plan es aumentar las ventas en línea este año.",
+      "highlight_words": [
+        "purpose"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Firstly, we will explain the duties of the new post. On the other hand, the team must decide whether the position is necessary.",
+      "translation_form": "En primer lugar, explicaremos las funciones del nuevo puesto. Por otro lado, el equipo debe decidir si el puesto es necesario.",
+      "highlight_words": [
+        "post"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "purpose",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The main purpose of the project was not clear; therefore, we could not decide whether the result justified a new post.",
+      "translation_form": "El propósito principal del proyecto no estaba claro; por lo tanto, no pudimos decidir si el resultado justificaba un nuevo puesto.",
+      "highlight_words": [
+        "purpose",
+        "post"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "To sum up, our project has a clear purpose and will help all team members work better.",
+      "translation_form": "Para resumir, nuestro proyecto tiene un propósito claro y ayudará a todos los miembros del equipo a trabajar mejor.",
+      "highlight_words": [
+        "purpose"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Organising a short proposal with sequence, reason, contrast and conclusion markers.",
+      "title_form": "Organizar una propuesta con conectores de secuencia, razón, contraste y conclusión",
+      "title_target": "Organising a short proposal with linkers",
+      "description_md_form": "Para presentar una propuesta clara en inglés, es fundamental estructurar tus ideas en un orden lógico usando conectores (*linkers*):\n\n1. **Secuencia**: Usa `firstly` para introducir tu primer punto importante.\n2. **Resultado o consecuencia**: Usa `therefore` para introducir el resultado lógico de la idea anterior. La causa aparece antes y el resultado después: `The costs are high; therefore, we recommend a smaller plan.` No significa 'porque'.\n3. **Contraste**: Usa `on the other hand` para presentar una perspectiva opuesta, una alternativa o una limitación.\n4. **Conclusión**: Usa `to sum up` para cerrar y resumir el mensaje principal de la propuesta.\n\nEstructura básica:\n- *Sequence*: `Firstly, the main purpose of our plan is...`\n- *Cause → result*: `The costs are high; therefore, we recommend a smaller plan.`\n- *Contrast*: `On the other hand, some users may prefer another option.`\n- *Conclusion*: `To sum up, our project will...`\n\nUsar estos conectores ayuda a que tu presentación sea fluida, profesional y fácil de seguir para tu audiencia en el ámbito laboral o académico.",
+      "description_md_target": "To present a clear proposal in English, organize your ideas with linkers:\n\n1. **Sequence**: Use `firstly` to start your main point.\n2. **Result or consequence**: Use `therefore` to introduce the logical result of the previous idea. The cause comes first and the result follows: `The costs are high; therefore, we recommend a smaller plan.` It does not mean 'because'.\n3. **Contrast**: Use `on the other hand` to show an opposing view, an alternative or a limitation.\n4. **Conclusion**: Use `to sum up` to give a clear conclusion.\n\nBasic structure:\n- *Sequence*: `Firstly, the main purpose of our plan is to...`\n- *Cause → result*: `The costs are high; therefore, we recommend a smaller plan.`\n- *Contrast*: `On the other hand, some users may prefer another option.`\n- *Conclusion*: `To sum up, our project will help...`\n\nUsing these words will help your presentation sound professional and clear.",
+      "grammar_structure": "Firstly [Point 1] + Cause; therefore, [Result] + On the other hand [Contrast/alternative] + To sum up [Conclusion]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Organising a short proposal with sequence, reason, contrast and conclusion markers.",
+          "text_target": "Firstly, the main purpose of our plan is clear. On the other hand, the new post still needs a clear description.",
+          "translation_form": "En primer lugar, el propósito principal de nuestro plan está claro. Por otro lado, el nuevo puesto todavía necesita una descripción clara.",
+          "highlight_words": [
+            "firstly",
+            "on the other hand"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Organising a short proposal with sequence, reason, contrast and conclusion markers.",
+          "text_target": "The main purpose of the project was not clear; therefore, we could not decide whether the result justified a new post. To sum up, our project needs a clearer plan.",
+          "translation_form": "El propósito principal del proyecto no estaba claro; por lo tanto, no pudimos decidir si el resultado justificaba un nuevo puesto. Para resumir, nuestro proyecto necesita un plan más claro.",
+          "highlight_words": [
+            "therefore",
+            "to sum up"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "Usa `firstly` al inicio de un párrafo u oración para estructurar la apertura de tu propuesta de forma profesional."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No confundas `on the other hand` (por otro lado) con conectores de adición. Sirve para señalar un contraste, una alternativa o una limitación."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'first' en lugar de 'firstly' al organizar puntos formales de una propuesta.",
+        "Usar 'therefore' como si significara 'because'; therefore introduce un resultado, no la causa.",
+        "Unir dos oraciones completas con una sola coma antes de 'therefore'. Usa punto y coma y coma: 'The costs are high; therefore, we recommend a smaller plan.'"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'purpose'?",
+      "options": [
+        "propósito",
+        "propuesta",
+        "resultado",
+        "respuesta"
+      ],
+      "correct_answer": "propósito",
+      "explanation_md": "'Purpose' significa propósito u objetivo principal de una acción o plan.",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona el conector adecuado para iniciar el primer punto de una propuesta:",
+      "options": [
+        "Firstly",
+        "Therefore",
+        "To sum up",
+        "On the other hand"
+      ],
+      "correct_answer": "Firstly",
+      "explanation_md": "'Firstly' se utiliza al comienzo de una presentación para introducir el primer punto.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada conector o término con su significado correspondiente:",
+      "options": [
+        "purpose",
+        "propósito",
+        "firstly",
+        "en primer lugar",
+        "therefore",
+        "por lo tanto",
+        "to sum up",
+        "para resumir"
+      ],
+      "correct_answer": [
+        "purpose=propósito",
+        "firstly=en primer lugar",
+        "therefore=por lo tanto",
+        "to sum up=para resumir"
+      ],
+      "explanation_md": "Relaciona correctamente los conectores de secuencia, causa y conclusión con su significado.",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la palabra que indica el objetivo principal: 'The main ____ of our project is to help the team.'",
+      "options": null,
+      "correct_answer": "purpose",
+      "explanation_md": "'Purpose' es el sustantivo que significa propósito o meta.",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el conector de consecuencia: 'The main purpose was not clear; ____, we did not start the work.'",
+      "options": null,
+      "correct_answer": "therefore",
+      "explanation_md": "'Therefore' se usa para indicar una consecuencia directa o resultado.",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Por otro lado, debemos revisar el nuevo puesto hoy.'",
+      "options": null,
+      "correct_answer": "On the other hand, we must review the new post today.",
+      "explanation_md": "'On the other hand' introduce un contraste o un punto de vista alternativo. Aquí, 'post' es un sustantivo que significa 'puesto' o 'cargo'.",
+      "related_lexeme_ids": [
+        "post"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la oración de conclusión: 'To sum up, our plan has a clear purpose.'",
+      "options": null,
+      "correct_answer": "Para resumir, nuestro plan tiene un propósito claro.",
+      "explanation_md": "'To sum up' se usa para cerrar una presentación resumiendo el punto central.",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la oración que expresa un contraste adecuado en una propuesta:",
+      "options": [
+        "We wrote a clear message for the team; on the other hand, some clients still prefer a phone call.",
+        "We wrote a clear message for the team; firstly, some clients still prefer a phone call.",
+        "We wrote a clear message for the team; to sum up, some clients still prefer a phone call.",
+        "We wrote a clear message for the team; purpose, some clients still prefer a phone call."
+      ],
+      "correct_answer": "We wrote a clear message for the team; on the other hand, some clients still prefer a phone call.",
+      "explanation_md": "'On the other hand' añade una consideración contrastante antes de tomar una decisión final.",
+      "related_lexeme_ids": [
+        "post"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee la propuesta y responde: ¿cuál es el propósito principal del proyecto?",
+      "options": [
+        "Facilitar el trabajo en la oficina",
+        "Publicar ofertas de empleo",
+        "Cambiar el horario de atención",
+        "Comprar equipos nuevos"
+      ],
+      "correct_answer": "Facilitar el trabajo en la oficina",
+      "explanation_md": "El texto aclara en la primera frase: 'the main purpose of our new project is to help work in the office'.",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Firstly, the main purpose of our new project is to help our team work more efficiently in the office. We will write clear messages for the team every morning. On the other hand, some clients prefer a phone call, so we must not rely only on online messages. Therefore, we will use both channels so everyone receives the correct information quickly. To sum up, this plan will help our team make better decisions and save time every day.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el audio y responde: ¿cuándo tomarán la decisión final?",
+      "options": [
+        "Mañana",
+        "Hoy",
+        "La próxima semana",
+        "En un mes"
+      ],
+      "correct_answer": "Mañana",
+      "explanation_md": "El hablante relaciona la revisión de los costos con la decisión: 'Therefore, we will check the costs today and make a final decision tomorrow.'",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "Firstly, the purpose of this meeting is to choose a new project. The most ambitious option is attractive; on the other hand, a cheaper project may be easier to start. Therefore, we will check the costs today and make a final decision tomorrow.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'En primer lugar, el propósito principal es explicar el nuevo puesto.'",
+      "options": null,
+      "correct_answer": "Firstly, the main purpose is to explain the new post.",
+      "explanation_md": "'Firstly' indica el primer punto, 'main purpose' es el propósito principal y 'post' aquí es el sustantivo 'puesto' o 'cargo'.",
+      "related_lexeme_ids": [
+        "purpose",
+        "post"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Prepara una propuesta oral de aproximadamente 3 minutos y un resumen escrito de 3–4 oraciones sobre una mejora para un problema conocido de tu escuela, trabajo o comunidad. Explica el problema y el 'purpose' de tu 'final proposal', recomienda una acción concreta y su resultado esperado, y compara una alternativa o limitación con 'on the other hand'. Organiza la presentación con 'firstly', una relación clara de causa y consecuencia con 'therefore' y una conclusión con 'to sum up'. Después de presentar, responde dos preguntas distintas de la audiencia: una sobre la propuesta y otra sobre su resultado o puesta en práctica, usando oraciones completas.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "La propuesta debe desarrollar un problema, un propósito, dos acciones, una alternativa o limitación y una consecuencia lógica. Usa 'firstly' para organizar el inicio, 'therefore' solo para introducir el resultado de una causa previa, 'on the other hand' para contrastar una opción y 'to sum up' para concluir. El resumen escrito debe tener 3–4 oraciones y la presentación debe terminar con dos preguntas de la audiencia y respuestas claras.",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Oral proposal: Firstly, our school library closes before many students finish work, so they cannot study there in the evening. The main purpose of my final proposal is to keep the library open for two extra hours on weekdays during a four-week trial. I have discussed the problem with the librarian and with students who prepare exams after school. At present, some students go home to noisy rooms, while others cannot use the internet they need for their assignments. We could ask two trained volunteers to help the librarian, check the sign-in list, and remind visitors to keep the room quiet. We would also ask one teacher to supervise each evening. The first option is practical because the room, computers, and books are already available. On the other hand, volunteers may not be able to attend every day, and the librarian should not have to work extra hours alone. Therefore, the school should publish a weekly rota and cancel an extra opening when there is no adult supervisor. After four weeks, we can ask students and staff for feedback, count visits, and decide whether the plan is useful. To sum up, the final proposal is affordable, safe, and likely to give students more time to study without hiring new staff. If the trial succeeds, the school can review the opening hours before exam periods. Written summary: The purpose of the proposal is to extend the library hours on weekdays. Volunteers and teachers will share supervision during a four-week trial. Therefore, students will have more time and a quieter place to study. The plan is affordable, although it needs a clear rota and regular review. Audience question: How will you keep the library safe? Answer: We will use a sign-in list, limit the number of students, and have an adult supervisor every evening. Audience question: What will happen if volunteers cannot cover one evening? Answer: The library will close at the usual time, and we will arrange another supervisor before extending the hours again.",
+        "Oral proposal: Firstly, our team loses time because meeting information is stored in different places. The purpose of my final proposal is to use one shared weekly plan for every project, with the current tasks, deadlines, and decisions in one place. Before each Monday meeting, every person will add a short update: what they finished, what they need, and what they will do next. The meeting chair will check the plan and send a link after the meeting. This should help new colleagues understand the project and help us notice delays early. The first option is a digital plan because it can be updated quickly and searched when we need an old decision. On the other hand, some colleagues prefer paper notes or cannot check the system during a busy shift. Therefore, we will print a one-page summary and keep the important deadlines on the office noticeboard as well. We will not write every conversation in the plan; we will record only decisions, responsibilities, and dates. After one month, we can compare missed deadlines and ask the team whether communication has improved. To sum up, the final proposal combines a shared digital plan with a short paper summary. It is simple to start, respects different working habits, and should reduce repeated work. If the results are positive, we can use the same format for other teams. Written summary: Our proposal creates one shared plan for tasks, deadlines, and meeting decisions. It includes a digital version and a short paper summary. Therefore, the team can coordinate its work more easily and notice delays earlier. We will review the plan every Monday and evaluate it after one month. Audience question: Who will update the plan? Answer: Each person will add a short update, and the meeting chair will check the plan after every meeting. Audience question: What if a colleague cannot access the digital plan? Answer: We will provide the paper summary and ask the meeting chair to add any urgent information for that colleague."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee la propuesta breve y responde: ¿Qué problema quiere resolver la narradora? / Read the short proposal and answer: What problem does the narrator want to solve?",
+      "options": [
+        "The team loses time looking for information.",
+        "The office has no meeting room.",
+        "The school needs a new sports field.",
+        "The clients cannot pay online."
+      ],
+      "correct_answer": "The team loses time looking for information.",
+      "explanation_md": "La narradora explica que el equipo pierde tiempo porque la información de las reuniones está en distintos lugares. / The narrator explains that the team loses time because meeting information is stored in different places.",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I am presenting a proposal for my team. Firstly, we lose time because meeting information is stored in different places. The purpose of my proposal is to create one shared weekly plan. On the other hand, some colleagues prefer paper notes, so a printed copy will also be provided. Therefore, everyone will find the latest information more quickly. To sum up, this simple change should improve our work. A listener asks, \"Who will update the plan?\" I answer that the meeting chair will update it after each meeting.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha la propuesta breve y responde: ¿Qué hará la escuela para ofrecer más tiempo de estudio? / Listen to the short proposal and answer: What will the school do to offer more study time?",
+      "options": [
+        "Keep the library open for two extra hours.",
+        "Build a new library immediately.",
+        "Cancel evening classes.",
+        "Ask students to study at home."
+      ],
+      "correct_answer": "Keep the library open for two extra hours.",
+      "explanation_md": "La narradora propone mantener abierta la biblioteca dos horas más. / The narrator proposes keeping the library open for two extra hours.",
+      "related_lexeme_ids": [
+        "purpose"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I am presenting a proposal for my school library. Firstly, it closes before many students finish their work, so they cannot study there in the evening. The purpose of my proposal is to keep the library open for two extra hours. On the other hand, volunteers cannot cover every day; therefore, teachers will supervise one evening each week. To sum up, students will have more time to study. A listener asks, \"How will you keep the library safe?\" I explain that an adult supervisor will be present every evening.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "purpose",
+      "back": "propósito, objetivo",
+      "hint": "la meta o intención de una acción",
+      "lexeme_id": "purpose",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "main purpose",
+      "back": "propósito principal",
+      "hint": "el objetivo más importante de un plan o propuesta",
+      "lexeme_id": "purpose",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "for this purpose",
+      "back": "con este propósito / para este fin",
+      "hint": "expresión usada para indicar la razón de una medida",
+      "lexeme_id": "purpose",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "post",
+      "back": "puesto / cargo",
+      "hint": "un puesto o cargo dentro de una organización",
+      "lexeme_id": "post",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "apply for a post",
+      "back": "solicitar un puesto",
+      "hint": "pedir ser considerado para un cargo",
+      "lexeme_id": "post",
+      "chunk_id": null,
+      "tags": [
+        "lesson_033",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "purpose",
+      "reading": "",
+      "translation": "propósito",
+      "pos": "noun",
+      "example": "Firstly, the main purpose of our plan is to increase online sales this year.",
+      "example_translation": "En primer lugar, el propósito principal de nuestro plan es aumentar las ventas en línea este año.",
+      "lexeme_id": "purpose",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "purpose",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "propósito",
+      "lexeme_id": "purpose",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "exm_004",
+        "Organising a short proposal with sequence, reason, contrast and conclusion markers.",
+        "ex_001",
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_001",
+        "fc_002",
+        "fc_003",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "final proposal",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "firstly",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_002",
+        "Organising a short proposal with sequence, reason, contrast and conclusion markers.",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "to sum up",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "Organising a short proposal with sequence, reason, contrast and conclusion markers.",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "therefore",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "por lo tanto",
+      "lexeme_id": "therefore",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Organising a short proposal with sequence, reason, contrast and conclusion markers.",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "on the other hand",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "Organising a short proposal with sequence, reason, contrast and conclusion markers.",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_003",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "post",
+      "role": "support",
+      "status": "review",
+      "translation": "cargo / lugar / poste",
+      "lexeme_id": "post",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_006",
+        "ex_008",
+        "ex_011",
+        "fc_004",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "ex_009",
+        "ex_012",
+        "fc_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "clear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "claro",
+      "lexeme_id": "clear_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_004",
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "plan",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planear",
+      "lexeme_id": "plan_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_014",
+        "quiz_001:q_002",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "result",
+      "role": "support",
+      "status": "emergent",
+      "translation": "resultar",
+      "lexeme_id": "result_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "quiz_001:q_007",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "better",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mejor",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "position",
+      "role": "support",
+      "status": "emergent",
+      "translation": "posición",
+      "lexeme_id": "position",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "duty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "deber",
+      "lexeme_id": "duty",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "member",
+      "role": "support",
+      "status": "emergent",
+      "translation": "miembro",
+      "lexeme_id": "member",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "justify",
+      "role": "support",
+      "status": "emergent",
+      "translation": "justificar",
+      "lexeme_id": "justify_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "necessary",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesario",
+      "lexeme_id": "necessary_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "sale",
+      "role": "support",
+      "status": "emergent",
+      "translation": "venta",
+      "lexeme_id": "sale",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "apply",
+      "role": "support",
+      "status": "emergent",
+      "translation": "aplicar",
+      "lexeme_id": "apply_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "increase",
+      "role": "support",
+      "status": "emergent",
+      "translation": "aumento",
+      "lexeme_id": "increase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "short",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bajo",
+      "lexeme_id": "short_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "conclusion",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conclusión",
+      "lexeme_id": "conclusion",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "reason",
+      "role": "support",
+      "status": "emergent",
+      "translation": "razon",
+      "lexeme_id": "reason",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "sequence",
+      "role": "support",
+      "status": "emergent",
+      "translation": "secuencia",
+      "lexeme_id": "sequence",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "marker",
+      "role": "support",
+      "status": "emergent",
+      "translation": "marcador",
+      "lexeme_id": "marker",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "contrast",
+      "role": "support",
+      "status": "emergent",
+      "translation": "contraste",
+      "lexeme_id": "contrast",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_002",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "information",
+      "role": "support",
+      "status": "emergent",
+      "translation": "información",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "prefer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_009"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 1,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "main",
+      "team",
+      "project",
+      "clear",
+      "work",
+      "plan",
+      "explain",
+      "result",
+      "better",
+      "position",
+      "year",
+      "duty",
+      "member",
+      "justify",
+      "necessary",
+      "sale",
+      "apply",
+      "increase",
+      "time",
+      "short",
+      "conclusion",
+      "reason",
+      "sequence",
+      "marker",
+      "contrast",
+      "ask",
+      "meeting",
+      "day",
+      "need",
+      "meet",
+      "information",
+      "prefer"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Integrar ideas en una presentación",
+      "title_target": "Quiz: Integrating ideas in a short presentation",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Cuál es la acción propuesta en segundo lugar según el texto?",
+          "prompt_target": "What is the second proposed action according to the text?",
+          "options": [
+            "Crear una propuesta clara",
+            "Comprar herramientas costosas",
+            "Cerrar el proyecto inmediatamente",
+            "Cambiar a todos los miembros del equipo"
+          ],
+          "correct_answer": "Crear una propuesta clara",
+          "explanation_form": "El texto indica expresamente: 'Next, we will create a clear proposal.'",
+          "explanation_target": "The text explicitly states: 'Next, we will create a clear proposal.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Organising a short proposal with sequence, reason, contrast and conclusion markers."
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "We have a new project for our team. Firstly, we need to research the market to understand client needs. Next, we will create a clear proposal. However, our time is short, so we must choose our options carefully. Therefore, we will focus on one practical solution. To sum up, this project will help us grow if we work together well.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Con qué propósito se redactó el mensaje según el audio?",
+          "prompt_target": "What is the purpose of the message according to the audio?",
+          "options": [
+            "Explicar el propósito del nuevo proyecto",
+            "Cancelar las reuniones de la próxima semana",
+            "Despedir al equipo de trabajo",
+            "Vender un producto a los clientes"
+          ],
+          "correct_answer": "Explicar el propósito del nuevo proyecto",
+          "explanation_form": "En la audición se menciona: 'I am writing this message to explain the purpose of our new project.'",
+          "explanation_target": "The audio mentions: 'I am writing this message to explain the purpose of our new project.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "purpose"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I am writing this message to explain the purpose of our new project. Our team needs clearer communication; therefore, we will start weekly meetings next month.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué hará el orador al final de la presentación?",
+          "prompt_target": "What will the speaker do at the end of the presentation?",
+          "options": [
+            "Responder a las preguntas de la audiencia",
+            "Explicar el problema por primera vez",
+            "Terminar la reunión sin decir nada más",
+            "Mostrar una propuesta diferente"
+          ],
+          "correct_answer": "Responder a las preguntas de la audiencia",
+          "explanation_form": "El orador concluye diciendo: 'To sum up, I will answer your questions before we decide.'",
+          "explanation_target": "The speaker concludes by saying: 'To sum up, I will answer your questions before we decide.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Organising a short proposal with sequence, reason, contrast and conclusion markers."
+          ],
+          "points": 15,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "Firstly, I will present the problem. On the other hand, I will show why our main solution is practical. Therefore, I will recommend it. To sum up, I will answer your questions before we decide. Thank you for your time.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración correcta sobre el propósito principal:",
+          "prompt_target": "Order the words to form a correct sentence about the main purpose:",
+          "options": [
+            "The",
+            "main",
+            "purpose",
+            "is",
+            "to",
+            "help",
+            "the",
+            "team."
+          ],
+          "correct_answer": "The main purpose is to help the team.",
+          "explanation_form": "La estructura correcta inicia con el sujeto 'The main purpose' seguido del verbo 'is to help the team.'",
+          "explanation_target": "The correct structure starts with the subject 'The main purpose' followed by 'is to help the team.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "purpose"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase con el conector de conclusión adecuado: '____, we recommend accepting the new proposal.'",
+          "prompt_target": "Complete the sentence with the appropriate conclusion marker: '____, we recommend accepting the new proposal.'",
+          "options": null,
+          "correct_answer": "To sum up",
+          "explanation_form": "'To sum up' es el marcador discursivo de conclusión que sintetiza los puntos y da paso a la recomendación final.",
+          "explanation_target": "'To sum up' summarizes the main points and introduces the final recommendation of a proposal.",
+          "references_exercise_id": "ex_007",
+          "references_lesson_topics": [
+            "Organising a short proposal with sequence, reason, contrast and conclusion markers."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué sustantivo en inglés se utiliza para indicar la intención u objetivo de un plan o propuesta?",
+          "prompt_target": "Which noun in English is used to indicate the goal or intention of a plan or proposal?",
+          "options": [
+            "purpose",
+            "post",
+            "however",
+            "finally"
+          ],
+          "correct_answer": "purpose",
+          "explanation_form": "'Purpose' significa propósito u objetivo principal de una acción o propuesta.",
+          "explanation_target": "'Purpose' means the main goal or objective of an action or proposal.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "purpose"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada marcador discursivo con su función organizativa en la presentación:",
+          "prompt_target": "Match each discourse marker with its organizational function in the presentation:",
+          "options": [
+            "Firstly",
+            "Secuencia o inicio",
+            "On the other hand",
+            "Contraste u objeción",
+            "Therefore",
+            "Resultado o consecuencia",
+            "To sum up",
+            "Cierre o resumen"
+          ],
+          "correct_answer": [
+            "Firstly=Secuencia o inicio",
+            "On the other hand=Contraste u objeción",
+            "Therefore=Resultado o consecuencia",
+            "To sum up=Cierre o resumen"
+          ],
+          "explanation_form": "'Firstly' inicia la secuencia, 'On the other hand' introduce un contraste, 'Therefore' presenta el resultado de una causa previa y 'To sum up' cierra la idea.",
+          "explanation_target": "'Firstly' starts the sequence, 'On the other hand' introduces contrast, 'Therefore' presents the result of a previous cause, and 'To sum up' closes the idea.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Organising a short proposal with sequence, reason, contrast and conclusion markers."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Solicité el nuevo puesto.'",
+          "prompt_target": "Translate into English: 'Solicité el nuevo puesto.'",
+          "options": null,
+          "correct_answer": "I applied for the new post.",
+          "explanation_form": "'Solicité' se traduce como 'I applied for' y 'puesto' como 'post' cuando hablamos de un cargo o posición laboral.",
+          "explanation_target": "'I applied for' expresses the action, and 'post' means a job or position in this context.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "post"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Qué solución propone la narradora?",
+          "prompt_target": "Read the story and answer: What solution does the narrator propose?",
+          "options": [
+            "A shared digital and paper plan for the team's meetings.",
+            "A longer meeting every morning.",
+            "A new office for each colleague.",
+            "Fewer deadlines for all projects."
+          ],
+          "correct_answer": "A shared digital and paper plan for the team's meetings.",
+          "explanation_form": "La narradora propone un plan semanal compartido en formato digital y en papel para las reuniones del equipo. / The narrator proposes a shared digital and paper weekly plan for the team's meetings.",
+          "explanation_target": "The narrator proposes a shared digital and paper weekly plan for the team's meetings. / La narradora propone un plan semanal compartido en formato digital y en papel para las reuniones del equipo.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "purpose",
+            "Organising a short proposal with sequence, reason, contrast and conclusion markers."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I am presenting a proposal because my team loses time when meeting information is kept in different places. Firstly, the purpose is to use one shared weekly plan. A digital copy will be updated after each meeting, and a short paper copy will be available for colleagues who need it. On the other hand, some people prefer handwritten notes; therefore, both formats are included. To sum up, the plan should make our work easier. A listener asks whether the plan will replace every note, and I explain that it will only collect the main decisions.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Qué resultado espera la narradora?",
+          "prompt_target": "Listen to the story and answer: What result does the narrator expect?",
+          "options": [
+            "Students will have more time to study.",
+            "Teachers will leave the school.",
+            "The library will close earlier.",
+            "The project will need a larger building."
+          ],
+          "correct_answer": "Students will have more time to study.",
+          "explanation_form": "La narradora espera que los estudiantes tengan más tiempo para estudiar. / The narrator expects students to have more time to study.",
+          "explanation_target": "The narrator expects students to have more time to study. / La narradora espera que los estudiantes tengan más tiempo para estudiar.",
+          "references_exercise_id": "ex_014",
+          "references_lesson_topics": [
+            "purpose",
+            "Organising a short proposal with sequence, reason, contrast and conclusion markers."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I am presenting a proposal to improve our school library. Firstly, the purpose is to keep it open for two extra hours. Some teachers can supervise one evening each week; on the other hand, volunteers cannot cover every day. Therefore, students will have more time to study. To sum up, the plan is practical and fair. A listener asks how safety will be checked, and I answer that an adult supervisor will be present.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cómo estructurar una propuesta laboral\n\nPara presentar una propuesta clara en inglés, es fundamental conectar las ideas de forma lógica usando conectores específicos:\n- **Inicio y secuencia:** Usá *firstly* o *to begin with* para presentar el punto de partida.\n- **Razón y propósito:** Expresá el objetivo principal usando *purpose* (por ejemplo: *The main purpose of this project is...*) y explicá la causa con *because* o *due to*.\n- **Resultado:** Usá *therefore* para introducir una consecuencia de la idea anterior: *The costs are high; therefore, we recommend a smaller plan.* No lo uses como sinónimo de *because*.\n- **Contraste y conclusión:** Presentá una alternativa o limitación con *on the other hand* y cerrá resumiendo con *to sum up*.\n\n## Consejos clave para tu presentación\n\n- **Pronunciación de \"purpose\":** Tené cuidado con la palabra *purpose* (/ˈpɜːpəs/). La última sílaba no suena como la palabra en español \"pose\", sino como una sílaba átona y suave (/pəs/).\n- **Uso de \"post\":** Recordá que, en esta lección, *post* se refiere a un puesto o cargo dentro de una organización, no a publicar un mensaje. Integrar este término ayuda a definir roles de manera precisa al justificar tu propuesta.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:41:47Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

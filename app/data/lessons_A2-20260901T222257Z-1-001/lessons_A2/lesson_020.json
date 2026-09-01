@@ -1,0 +1,1613 @@
+{
+  "id": "lesson_020",
+  "position": 20,
+  "unit_id": 3,
+  "course_id": "en.A2",
+  "title_form": "Talking about future plans with 'going to'",
+  "title_target": "Hablando de planes futuros con 'going to'",
+  "theme_focus": "plans",
+  "learning_objectives": [
+    "Can describe future plans and intentions using 'going to'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_017"
+  ],
+  "grammar_focus": [
+    "going to: affirmative for plans"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "solve_a_problem_phrase",
+        "get_married_phrase",
+        "make_friends_phrase",
+        "email",
+        "send_an_email_phrase",
+        "text_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "play_sports_phrase",
+        "take_a_photo_phrase",
+        "activity",
+        "organize_verb",
+        "make_a_plan_phrase"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tomás está planeando su semana. El lunes va a enviar un correo importante a su jefe. El fin de semana, él y su amiga Lucía van a hacer un plan para salir. Durante la lección, Tomás habla de sus planes y resuelve un pequeño problema con su teléfono.",
+  "introduction_md": "En esta lección vas a aprender a hablar de tus planes futuros con **'going to'**. Es una estructura muy común en inglés para decir lo que vas a hacer.\n\n- **I am going to send an email.** (Voy a enviar un correo.)\n- **She is going to get married.** (Ella se va a casar.)\n\nCon 'going to' puedes hablar de tus intenciones y de lo que ya has decidido. Es fácil de usar y te ayuda a sonar más natural.\n\nVamos a practicar con situaciones de la vida diaria: enviar mensajes, hacer planes con amigos y resolver problemas. ¡Empecemos!",
+  "intro_target": "In this lesson you will learn to talk about your future plans with **'going to'**. It is a very common structure in English to say what you are going to do.\n\n- **I am going to send an email.**\n- **She is going to get married.**\n\nWith 'going to' you can talk about your intentions and things you have already decided. It is easy to use and helps you sound more natural.\n\nLet's practice with everyday situations: sending messages, making plans with friends, and solving problems. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "get_married_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My sister is going to get married next summer.",
+      "translation_form": "Mi hermana se va a casar el próximo verano.",
+      "highlight_words": [
+        "get married"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "make_friends_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am going to make friends at my new school.",
+      "translation_form": "Voy a hacer amigos en mi nueva escuela.",
+      "highlight_words": [
+        "make friends"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "solve_a_problem_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are going to solve this problem together.",
+      "translation_form": "Vamos a resolver este problema juntos.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "email",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is going to send an email to her teacher tonight.",
+      "translation_form": "Ella va a enviar un correo electrónico a su profesor esta noche.",
+      "highlight_words": [
+        "email",
+        "send an email"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "text_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am going to text you the address of the restaurant.",
+      "translation_form": "Te voy a enviar un mensaje de texto con la dirección del restaurante.",
+      "highlight_words": [
+        "text"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "send_an_email_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We are going to send an email to the hotel for a reservation.",
+      "translation_form": "Vamos a enviar un correo electrónico al hotel para una reservación.",
+      "highlight_words": [
+        "send an email",
+        "email"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "make_friends_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Are you going to make friends at the party? Yes, I am.",
+      "translation_form": "¿Vas a hacer amigos en la fiesta? Sí, voy a hacerlo.",
+      "highlight_words": [
+        "make friends"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "get_married_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They are going to get married in a small church.",
+      "translation_form": "Ellos se van a casar en una iglesia pequeña.",
+      "highlight_words": [
+        "get married"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "going to: affirmative for plans",
+      "title_form": "Going to: afirmativo para planes",
+      "title_target": "Going to: affirmative for plans",
+      "description_md_form": "Usamos **going to** para hablar de **planes e intenciones** para el futuro. La estructura es: **sujeto + verbo *to be* (am/is/are) + *going to* + verbo en infinitivo**.\n\nEjemplos:\n- `I am going to send an email.` = Voy a enviar un correo electrónico.\n- `She is going to get married.` = Ella se va a casar.\n\nEs muy común en conversaciones diarias para decir lo que **ya decidimos** hacer. No lo usamos para predicciones sin evidencia (eso es *will*, que veremos más adelante).\n\n**Puntos clave:**\n- El verbo *to be* cambia con el sujeto: `I am`, `you are`, `he/she/it is`, `we are`, `they are`.\n- El verbo principal **no cambia**: siempre va en infinitivo (sin *to* extra).\n- En español, solemos decir \"voy a + infinitivo\", igual que en inglés.",
+      "description_md_target": "We use **going to** to talk about **future plans and intentions**. The structure is: **subject + verb *to be* (am/is/are) + *going to* + base verb**.\n\nExamples:\n- `I am going to send an email.`\n- `She is going to get married.`\n\nIt is very common in daily conversation to say what we **have already decided** to do. We do not use it for predictions without evidence (that is *will*, which we will see later).\n\n**Key points:**\n- The verb *to be* changes with the subject: `I am`, `you are`, `he/she/it is`, `we are`, `they are`.\n- The main verb **does not change**: it is always in the base form.\n- In Spanish, we often say \"voy a + infinitive\", just like in English.",
+      "grammar_structure": "Subject + to be (am/is/are) + going to + base verb",
+      "conjugation_table": {
+        "name": "going_to_affirmative",
+        "headers": [
+          "Pronombre",
+          "Forma con going to",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "am going to",
+            "I am going to text you."
+          ],
+          [
+            "You",
+            "are going to",
+            "You are going to make friends."
+          ],
+          [
+            "He/She/It",
+            "is going to",
+            "She is going to get married."
+          ],
+          [
+            "We",
+            "are going to",
+            "We are going to solve this problem."
+          ],
+          [
+            "They",
+            "are going to",
+            "They are going to send an email."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "going to: affirmative for plans",
+          "text_target": "I am going to text you the address.",
+          "translation_form": "Voy a enviarte un mensaje de texto con la dirección.",
+          "highlight_words": [
+            "am going to",
+            "text"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "going to: affirmative for plans",
+          "text_target": "We are going to solve this problem together.",
+          "translation_form": "Vamos a resolver este problema juntos.",
+          "highlight_words": [
+            "are going to",
+            "solve"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Contracciones:** en conversación, decimos `I'm going to`, `She's going to`, `We're going to`. Es más natural y común."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas** `I going to` (sin *am*). El verbo *to be* es obligatorio: `I am going to`."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Cuidado con el verbo principal:** después de *going to*, el verbo va en infinitivo SIN *to*: `going to send`, NO `going to to send`."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el verbo *to be*: decir `I going to` en lugar de `I am going to`.",
+        "Agregar *to* al verbo principal: `going to to send` en lugar de `going to send`.",
+        "Confundir *going to* con el presente continuo: `I am going to school` (presente) vs `I am going to study` (futuro)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'to get married'?",
+      "options": [
+        "casarse",
+        "hacer amigos",
+        "enviar un correo",
+        "resolver un problema"
+      ],
+      "correct_answer": "casarse",
+      "explanation_md": "'To get married' significa 'casarse'.",
+      "related_lexeme_ids": [
+        "get_married_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'to send an email'?",
+      "options": [
+        "hacer una foto",
+        "enviar un correo electrónico",
+        "hacer amigos",
+        "jugar deportes"
+      ],
+      "correct_answer": "enviar un correo electrónico",
+      "explanation_md": "'To send an email' significa 'enviar un correo electrónico'.",
+      "related_lexeme_ids": [
+        "send_an_email_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración con la forma correcta de 'going to':\n\n'We ___ solve this problem together.'",
+      "options": [
+        "is going to",
+        "are going to",
+        "am going to",
+        "be going to"
+      ],
+      "correct_answer": "are going to",
+      "explanation_md": "Con 'we' usamos 'are going to'.",
+      "related_lexeme_ids": [
+        "solve_a_problem_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta de 'going to' para 'she'?",
+      "options": [
+        "She are going to",
+        "She am going to",
+        "She is going to",
+        "She be going to"
+      ],
+      "correct_answer": "She is going to",
+      "explanation_md": "Con 'she' usamos 'is going to'.",
+      "related_lexeme_ids": [
+        "send_an_email_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración con la forma correcta de 'going to':\n\n'I ___ text you the address.'",
+      "options": null,
+      "correct_answer": "am going to",
+      "explanation_md": "Con 'I' usamos 'am going to'.",
+      "related_lexeme_ids": [
+        "text_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración con la forma correcta de 'going to':\n\n'My sister ___ get married next summer.'",
+      "options": null,
+      "correct_answer": "is going to",
+      "explanation_md": "Con 'my sister' (ella) usamos 'is going to'.",
+      "related_lexeme_ids": [
+        "get_married_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés:\n\n'Voy a hacer amigos en mi nueva escuela.'",
+      "options": null,
+      "correct_answer": "I am going to make friends at my new school.",
+      "explanation_md": "Usamos 'am going to' con 'I' y 'make friends' para 'hacer amigos'.",
+      "related_lexeme_ids": [
+        "make_friends_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés:\n\n'Ella va a enviar un correo electrónico a su profesor esta noche.'",
+      "options": null,
+      "correct_answer": "She is going to send an email to her teacher tonight.",
+      "explanation_md": "Usamos 'is going to' con 'she' y 'send an email' para 'enviar un correo'.",
+      "related_lexeme_ids": [
+        "send_an_email_phrase",
+        "email"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Emparejá cada frase con su significado:",
+      "options": [
+        "to get married",
+        "casarse",
+        "to make friends",
+        "hacer amigos",
+        "to solve a problem",
+        "resolver un problema",
+        "to send an email",
+        "enviar un correo electrónico"
+      ],
+      "correct_answer": [
+        "to get married=casarse",
+        "to make friends=hacer amigos",
+        "to solve a problem=resolver un problema",
+        "to send an email=enviar un correo electrónico"
+      ],
+      "explanation_md": "Estas son las frases nuevas de la lección.",
+      "related_lexeme_ids": [
+        "get_married_phrase",
+        "make_friends_phrase",
+        "solve_a_problem_phrase",
+        "send_an_email_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español:\n\n'I am going to text you the address of the restaurant.'",
+      "options": null,
+      "correct_answer": "Te voy a enviar un mensaje de texto con la dirección del restaurante.",
+      "explanation_md": "'To text someone' significa 'enviar un mensaje de texto a alguien'.",
+      "related_lexeme_ids": [
+        "text_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿qué va a hacer Ana?",
+      "options": null,
+      "correct_answer": "Ana is going to make friends at her new school.",
+      "explanation_md": "El texto dice que Ana va a hacer amigos en su nueva escuela.",
+      "related_lexeme_ids": [
+        "make_friends_phrase",
+        "get_married_phrase",
+        "send_an_email_phrase",
+        "text_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana is a student. She is going to make friends at her new school. Her brother is going to get married next summer. They are going to organize a big party. Ana is going to send an email to her friends about the party. She is going to text them the address of the restaurant.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿qué va a hacer Tom?",
+      "options": [
+        "He is going to make friends.",
+        "He is going to solve a problem at work.",
+        "He is going to get married.",
+        "He is going to play sports."
+      ],
+      "correct_answer": "He is going to solve a problem at work.",
+      "explanation_md": "El audio dice que Tom va a resolver un problema en el trabajo.",
+      "related_lexeme_ids": [
+        "solve_a_problem_phrase",
+        "send_an_email_phrase",
+        "text_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom is going to solve a problem at work. He is going to send an email to his boss. Later, he is going to text his friend. They are going to make a plan for the weekend.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tus planes para el próximo fin de semana. Usá 'going to' y las frases nuevas de la lección (make friends, send an email, text, etc.).",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'going to' y las frases nuevas.",
+      "related_lexeme_ids": [
+        "send_an_email_phrase",
+        "text_verb",
+        "make_friends_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I am going to send an email to my friend.",
+        "We are going to make a plan for the weekend.",
+        "I am going to text my sister about the party."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "solve a problem",
+      "back": "resolver un problema",
+      "hint": "se usa para hablar de soluciones",
+      "lexeme_id": "solve_a_problem_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A2",
+        "plans"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "get married",
+      "back": "casarse",
+      "hint": "se usa para hablar de bodas",
+      "lexeme_id": "get_married_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "make friends",
+      "back": "hacer amigos",
+      "hint": "se usa para hablar de relaciones",
+      "lexeme_id": "make_friends_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "email",
+      "back": "correo electrónico",
+      "hint": "se usa para comunicación digital",
+      "lexeme_id": "email",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "send an email",
+      "back": "enviar un correo electrónico",
+      "hint": "se usa para comunicación digital",
+      "lexeme_id": "send_an_email_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "text",
+      "back": "enviar un mensaje de texto",
+      "hint": "se usa para comunicación móvil",
+      "lexeme_id": "text_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "play sports",
+      "back": "hacer deporte",
+      "hint": "se usa para hablar de actividades",
+      "lexeme_id": "play_sports_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A2",
+        "activity"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "take a photo",
+      "back": "tomar una foto",
+      "hint": "se usa para hablar de fotos",
+      "lexeme_id": "take_a_photo_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A2",
+        "activity"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "solve a problem",
+      "reading": "",
+      "translation": "resolver un problema",
+      "pos": "phrase",
+      "example": "We are going to solve this problem together.",
+      "example_translation": "Vamos a resolver este problema juntos.",
+      "lexeme_id": "solve_a_problem_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "get married",
+      "reading": "",
+      "translation": "casarse",
+      "pos": "phrase",
+      "example": "My sister is going to get married next summer.",
+      "example_translation": "Mi hermana se va a casar el próximo verano.",
+      "lexeme_id": "get_married_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "make friends",
+      "reading": "",
+      "translation": "hacer amigos",
+      "pos": "phrase",
+      "example": "I am going to make friends at my new school.",
+      "example_translation": "Voy a hacer amigos en mi nueva escuela.",
+      "lexeme_id": "make_friends_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "email",
+      "reading": "",
+      "translation": "correo electrónico",
+      "pos": "noun",
+      "example": "She is going to send an email to her teacher tonight.",
+      "example_translation": "Ella va a enviar un correo electrónico a su profesor esta noche.",
+      "lexeme_id": "email",
+      "chunk_id": null
+    },
+    {
+      "target_word": "send an email",
+      "reading": "",
+      "translation": "enviar un correo electrónico",
+      "pos": "phrase",
+      "example": "We are going to send an email to the hotel for a reservation.",
+      "example_translation": "Vamos a enviar un correo electrónico al hotel para una reservación.",
+      "lexeme_id": "send_an_email_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "text",
+      "reading": "",
+      "translation": "enviar un mensaje de texto",
+      "pos": "verb",
+      "example": "I am going to text you the address of the restaurant.",
+      "example_translation": "Te voy a enviar un mensaje de texto con la dirección del restaurante.",
+      "lexeme_id": "text_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "solve a problem",
+      "role": "support",
+      "status": "practiced",
+      "translation": "resolver un problema",
+      "lexeme_id": "solve_a_problem_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_009",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "get married",
+      "role": "support",
+      "status": "practiced",
+      "translation": "casarse",
+      "lexeme_id": "get_married_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_008",
+        "ex_001",
+        "ex_006",
+        "ex_009",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "make friends",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hacer amigos",
+      "lexeme_id": "make_friends_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "ex_013",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "email",
+      "role": "support",
+      "status": "practiced",
+      "translation": "correo electrónico",
+      "lexeme_id": "email",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "send an email",
+      "role": "support",
+      "status": "practiced",
+      "translation": "enviar un correo electrónico",
+      "lexeme_id": "send_an_email_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_002",
+        "ex_004",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "text",
+      "role": "support",
+      "status": "practiced",
+      "translation": "enviar un mensaje de texto",
+      "lexeme_id": "text_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_005",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "play sports",
+      "role": "support",
+      "status": "review",
+      "translation": "practicar deportes",
+      "lexeme_id": "play_sports_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "take a photo",
+      "role": "support",
+      "status": "review",
+      "translation": "tomar una foto",
+      "lexeme_id": "take_a_photo_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "going to",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ir a (planes futuros)",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_003",
+        "exm_004",
+        "exm_005",
+        "exm_006",
+        "exm_007",
+        "exm_008",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "email",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "exm_006",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_004",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "send",
+      "role": "support",
+      "status": "emergent",
+      "translation": "enviar",
+      "lexeme_id": "send_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "exm_006",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "make",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer / fabricar",
+      "lexeme_id": "make_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_003",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_003",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "get married",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_008",
+        "ex_011",
+        "fc_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "get",
+      "role": "support",
+      "status": "emergent",
+      "translation": "obtener / conseguir / llegar",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_008",
+        "ex_011",
+        "fc_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "solve",
+      "role": "support",
+      "status": "emergent",
+      "translation": "resolver",
+      "lexeme_id": "solve",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "fc_001",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "sister",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hermana",
+      "lexeme_id": "sister",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_013",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "tonight",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esta noche",
+      "lexeme_id": "tonight_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_002",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "restaurant",
+      "role": "support",
+      "status": "emergent",
+      "translation": "restaurante",
+      "lexeme_id": "restaurant",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "address",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dirección / dirigir",
+      "lexeme_id": "address",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "summer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "verano",
+      "lexeme_id": "summer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "sports",
+      "role": "support",
+      "status": "emergent",
+      "translation": "deportes",
+      "lexeme_id": "sports",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "play",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jugar / tocar",
+      "lexeme_id": "play_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "hotel",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hotel",
+      "lexeme_id": "hotel",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "sport",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "reservation",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reserva / reservación",
+      "lexeme_id": "reservation",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "church",
+      "role": "support",
+      "status": "emergent",
+      "translation": "iglesia",
+      "lexeme_id": "church",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "photo",
+      "role": "support",
+      "status": "emergent",
+      "translation": "foto",
+      "lexeme_id": "photo",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "plan",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planear",
+      "lexeme_id": "plan_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "affirmative",
+      "role": "support",
+      "status": "emergent",
+      "translation": "afirmativo",
+      "lexeme_id": "affirmative_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "make a plan",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer un plan",
+      "lexeme_id": "make_a_plan_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "boss",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mandar / dar órdenes",
+      "lexeme_id": "boss_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 6,
+    "review_support_count": 2,
+    "emergent_count": 30,
+    "emergent_terms": [
+      "going to",
+      "email",
+      "send",
+      "make",
+      "friend",
+      "get married",
+      "get",
+      "solve",
+      "school",
+      "sister",
+      "tonight",
+      "teacher",
+      "restaurant",
+      "address",
+      "summer",
+      "sports",
+      "take",
+      "play",
+      "small",
+      "hotel",
+      "sport",
+      "reservation",
+      "church",
+      "photo",
+      "plan",
+      "affirmative",
+      "make a plan",
+      "weekend",
+      "big",
+      "boss"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Talking about future plans with 'going to'",
+      "title_target": "Quiz: Talking about future plans with 'going to'",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'send an email'?",
+          "prompt_target": "What does 'send an email' mean?",
+          "options": [
+            "enviar un correo electrónico",
+            "escribir una carta",
+            "hacer una llamada",
+            "enviar un mensaje de texto"
+          ],
+          "correct_answer": "enviar un correo electrónico",
+          "explanation_form": "'Send an email' significa 'enviar un correo electrónico'.",
+          "explanation_target": "'Send an email' means 'enviar un correo electrónico'.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "send_an_email_phrase"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I ___ to send an email tonight.' (voy a)",
+          "prompt_target": "Complete the sentence: 'I ___ to send an email tonight.' (going to)",
+          "options": null,
+          "correct_answer": "am going",
+          "explanation_form": "La forma correcta es 'am going to' para 'yo voy a'.",
+          "explanation_target": "The correct form is 'am going to' for 'I am going to'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "going to: affirmative for plans",
+            "send_an_email_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué va a hacer María?",
+          "prompt_target": "Listen and answer: What is Maria going to do?",
+          "options": [
+            "She is going to get married.",
+            "She is going to send an email.",
+            "She is going to make friends.",
+            "She is going to solve a problem."
+          ],
+          "correct_answer": "She is going to get married.",
+          "explanation_form": "El audio dice que María va a casarse el próximo año.",
+          "explanation_target": "The audio says Maria is going to get married next year.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "get_married_phrase",
+            "going to: affirmative for plans"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Maria is going to get married next year. She is very excited. Her family is happy too. They are going to have a big celebration.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "going",
+            "to",
+            "text",
+            "I",
+            "am",
+            "my",
+            "friend"
+          ],
+          "correct_answer": "I am going to text my friend",
+          "explanation_form": "La estructura es: sujeto + am/is/are + going to + verbo.",
+          "explanation_target": "The structure is: subject + am/is/are + going to + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "text_verb",
+            "going to: affirmative for plans"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de 'going to' para 'ellos'?",
+          "prompt_target": "What is the correct form of 'going to' for 'they'?",
+          "options": [
+            "They are going to",
+            "They is going to",
+            "They am going to",
+            "They be going to"
+          ],
+          "correct_answer": "They are going to",
+          "explanation_form": "Con 'they' usamos 'are going to'.",
+          "explanation_target": "With 'they' we use 'are going to'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "going to: affirmative for plans"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué va a hacer Tom?",
+          "prompt_target": "Read the text and answer: What is Tom going to do?",
+          "options": [
+            "He is going to solve a problem.",
+            "He is going to get married.",
+            "He is going to make friends.",
+            "He is going to text his friend."
+          ],
+          "correct_answer": "He is going to solve a problem.",
+          "explanation_form": "El texto dice que Tom va a resolver un problema con su computadora.",
+          "explanation_target": "The text says Tom is going to solve a problem with his computer.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "solve_a_problem_phrase",
+            "email",
+            "send_an_email_phrase",
+            "going to: affirmative for plans"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Tom has a problem with his computer. He is going to solve it tonight. He is going to send an email to his friend for help. His friend is going to answer quickly.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'She ___ to make friends at the new school.' (va a)",
+          "prompt_target": "Complete: 'She ___ to make friends at the new school.' (is going to)",
+          "options": null,
+          "correct_answer": "is going",
+          "explanation_form": "Con 'she' usamos 'is going to'.",
+          "explanation_target": "With 'she' we use 'is going to'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "make_friends_phrase",
+            "going to: affirmative for plans"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué va a hacer John?",
+          "prompt_target": "Listen and answer: What is John going to do?",
+          "options": [
+            "He is going to text his sister.",
+            "He is going to get married.",
+            "He is going to solve a problem.",
+            "He is going to make friends."
+          ],
+          "correct_answer": "He is going to text his sister.",
+          "explanation_form": "El audio dice que John va a enviar un mensaje de texto a su hermana.",
+          "explanation_target": "The audio says John is going to text his sister.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "text_verb",
+            "going to: affirmative for plans"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "John is going to text his sister. He is going to send an email to his boss. He is going to make a plan for the weekend.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja cada frase con su significado:",
+          "prompt_target": "Match each phrase with its meaning:",
+          "options": [
+            "get married",
+            "casarse",
+            "make friends",
+            "hacer amigos",
+            "solve a problem",
+            "resolver un problema",
+            "send an email",
+            "enviar un correo"
+          ],
+          "correct_answer": [
+            "get married=casarse",
+            "make friends=hacer amigos",
+            "solve a problem=resolver un problema",
+            "send an email=enviar un correo"
+          ],
+          "explanation_form": "Estas son las frases clave de la lección.",
+          "explanation_target": "These are the key phrases of the lesson.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "get_married_phrase",
+            "make_friends_phrase",
+            "solve_a_problem_phrase",
+            "send_an_email_phrase"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'They ___ to email the teacher.' (van a)",
+          "prompt_target": "Complete: 'They ___ to email the teacher.' (are going to)",
+          "options": null,
+          "correct_answer": "are going",
+          "explanation_form": "Con 'they' usamos 'are going to'.",
+          "explanation_target": "With 'they' we use 'are going to'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "email",
+            "going to: affirmative for plans"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## 'Going to' para planes\n\nUsa **'going to'** para hablar de planes que ya tienes en mente. La estructura es: **sujeto + am/is/are + going to + verbo**. Recuerda que 'going to' no cambia, solo cambia el verbo 'to be'.\n\n- I **am going to** send an email.\n- She **is going to** get married.\n- They **are going to** make friends.\n\n## Errores comunes\n\n- **No digas**: *I going to solve a problem.* (falta el verbo 'am').\n- **No digas**: *She are going to text you.* (usa 'is' con 'she').\n- **No confundas**: 'send an email' (enviar un correo) con 'text' (enviar un mensaje de texto). Son acciones diferentes.\n\nPiensa en un plan real que tengas para esta semana y forma una oración con 'going to'. ¡Eso es practicar de verdad!",
+  "metadata": {
+    "generated_at": "2026-08-31T18:52:44Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

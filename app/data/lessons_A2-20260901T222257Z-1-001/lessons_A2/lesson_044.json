@@ -1,0 +1,1972 @@
+{
+  "id": "lesson_044",
+  "position": 44,
+  "unit_id": 6,
+  "course_id": "en.A2",
+  "title_form": "Asking for medicine at the pharmacy",
+  "title_target": "Pidiendo medicina en la farmacia",
+  "theme_focus": "health",
+  "learning_objectives": [
+    "Can ask for medicine and describe symptoms at a pharmacy."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_041",
+    "lesson_043"
+  ],
+  "grammar_focus": [
+    "need to: necessity"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "pharmacy",
+        "pill",
+        "patient",
+        "allergic_adj",
+        "side_effect",
+        "blood_pressure",
+        "x_ray_noun",
+        "doctor_2",
+        "how_often",
+        "medicine"
+      ],
+      "chunk_ids": [
+        "chunk_a2_i_need_some_medicine",
+        "chunk_a2_side_effects",
+        "chunk_a2_im_allergic_to",
+        "chunk_a2_how_often_should_i_take"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "headache",
+        "fever",
+        "flu",
+        "cough",
+        "sore_throat",
+        "pain",
+        "feel_sick_phrase",
+        "feel_tired_phrase",
+        "ill_adj",
+        "temperature"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana se siente mal y va a la farmacia. Saluda al farmacéutico, le explica sus síntomas (dolor de cabeza, fiebre) y le pide medicina. El farmacéutico le pregunta si es alérgica a algo, le da un medicamento y le explica con qué frecuencia debe tomarlo. Ana también pregunta sobre los efectos secundarios y el farmacéutico le recomienda ver a un doctor si no mejora.",
+  "introduction_md": "## Pidiendo medicina en la farmacia\n\nCuando te sientes mal en un viaje o en tu ciudad, la farmacia es tu primer destino. En esta lección vas a aprender a:\n\n- Pedir medicina para tus síntomas.\n- Explicar si eres alérgico a algo.\n- Preguntar con qué frecuencia debes tomar un medicamento.\n\nVas a practicar con un diálogo real entre un paciente y un farmacéutico. Así podrás resolver esta situación con confianza.\n\n**Vocabulario clave:** pharmacy, medicine, pill, patient, allergic, side_effect, blood_pressure, x_ray, doctor, how_often.\n\n¡Vamos a practicar!",
+  "intro_target": "## Asking for medicine at the pharmacy\n\nWhen you feel sick on a trip or in your city, the pharmacy is your first stop. In this lesson you will learn to:\n\n- Ask for medicine for your symptoms.\n- Explain if you are allergic to something.\n- Ask how often you should take a medicine.\n\nYou will practice with a real dialogue between a patient and a pharmacist. This way you can handle this situation with confidence.\n\n**Key vocabulary:** pharmacy, medicine, pill, patient, allergic, side_effect, blood_pressure, x_ray, doctor, how_often.\n\nLet's practice!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_need_some_medicine",
+      "grammar_slug": null,
+      "text_target": "I need some medicine for my headache, please.",
+      "translation_form": "Necesito un medicamento para mi dolor de cabeza, por favor.",
+      "highlight_words": [
+        "medicine",
+        "headache"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "pharmacy",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The pharmacy is next to the hospital, near the bus stop.",
+      "translation_form": "La farmacia está al lado del hospital, cerca de la parada de autobús.",
+      "highlight_words": [
+        "pharmacy",
+        "hospital"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_allergic_to",
+      "grammar_slug": null,
+      "text_target": "I'm allergic to penicillin, so I can't take that pill.",
+      "translation_form": "Soy alérgico a la penicilina, así que no puedo tomar esa pastilla.",
+      "highlight_words": [
+        "allergic",
+        "pill"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_side_effects",
+      "grammar_slug": null,
+      "text_target": "Are there any side effects with this medicine?",
+      "translation_form": "¿Hay algún efecto secundario con este medicamento?",
+      "highlight_words": [
+        "side",
+        "effects",
+        "medicine"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_how_often_should_i_take",
+      "grammar_slug": null,
+      "text_target": "How often should I take this pill for my cough?",
+      "translation_form": "¿Con qué frecuencia debo tomar esta pastilla para mi tos?",
+      "highlight_words": [
+        "how",
+        "often",
+        "pill",
+        "cough"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "blood_pressure",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The doctor checked my blood pressure and said it's fine.",
+      "translation_form": "El doctor me revisó la presión arterial y dijo que está bien.",
+      "highlight_words": [
+        "blood",
+        "pressure",
+        "doctor"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "patient",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The patient has a fever and needs to see the doctor.",
+      "translation_form": "El paciente tiene fiebre y necesita ver al doctor.",
+      "highlight_words": [
+        "patient",
+        "fever",
+        "doctor"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "x_ray_noun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The nurse said I need an X-ray for my arm.",
+      "translation_form": "La enfermera dijo que necesito una radiografía para mi brazo.",
+      "highlight_words": [
+        "x-ray",
+        "nurse"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "need to: necessity",
+      "title_form": "Need to: necesidad",
+      "title_target": "Need to: Necessity",
+      "description_md_form": "Usamos **need to** para hablar de algo que es necesario hacer. Es una forma común en la farmacia: *I need to take this pill* (Necesito tomar esta pastilla).\n\nLa estructura es simple:\n\n- **Sujeto + need to + verbo**\n\nEjemplos:\n- *I **need to** see the doctor.* (Necesito ver al doctor.)\n- *You **need to** take this medicine.* (Necesitas tomar esta medicina.)\n\n**Importante:** *need to* no cambia con el sujeto. Solo cambia el verbo *need*:\n\n- *He **needs to** take a pill.* (Él necesita tomar una pastilla.)\n\nEn preguntas, usamos *do/does*:\n\n- *Do I need to take this?* (¿Necesito tomar esto?)\n\nEn negativas, usamos *don't/doesn't*:\n\n- *You **don't need to** take an X-ray.* (No necesitas hacerte una radiografía.)",
+      "description_md_target": "We use **need to** to talk about something that is necessary to do. It is common at the pharmacy: *I need to take this pill*.\n\nThe structure is simple:\n\n- **Subject + need to + verb**\n\nExamples:\n- *I **need to** see the doctor.*\n- *You **need to** take this medicine.*\n\n**Important:** *need to* does not change with the subject. Only the verb *need* changes:\n\n- *He **needs to** take a pill.*\n\nIn questions, we use *do/does*:\n\n- *Do I need to take this?*\n\nIn negatives, we use *don't/doesn't*:\n\n- *You **don't need to** take an X-ray.*",
+      "grammar_structure": "Subject + need to + base verb",
+      "conjugation_table": {
+        "name": "present_simple_need_to",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "I need to take",
+            "I don't need to take",
+            "Do I need to take?"
+          ],
+          [
+            "You",
+            "You need to take",
+            "You don't need to take",
+            "Do you need to take?"
+          ],
+          [
+            "He/She/It",
+            "He needs to take",
+            "He doesn't need to take",
+            "Does he need to take?"
+          ],
+          [
+            "We",
+            "We need to take",
+            "We don't need to take",
+            "Do we need to take?"
+          ],
+          [
+            "They",
+            "They need to take",
+            "They don't need to take",
+            "Do they need to take?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "need to: necessity",
+          "text_target": "I need to take this pill for my headache.",
+          "translation_form": "Necesito tomar esta pastilla para mi dolor de cabeza.",
+          "highlight_words": [
+            "need to"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "need to: necessity",
+          "text_target": "You need to see the doctor for an X-ray.",
+          "translation_form": "Necesitas ver al doctor para una radiografía.",
+          "highlight_words": [
+            "need to"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** *Need to* es para acciones necesarias. Para cosas que necesitas (objetos), usa solo *need*: *I need some medicine* (Necesito un medicamento)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *I need take*. Siempre usa *to* después de *need*: *I need **to** take*."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado:** Con *he/she/it*, el verbo cambia a *needs*: *He needs to take this pill*. No olvides la *-s*."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el 'to': *I need take* en lugar de *I need to take*.",
+        "No cambiar 'need' a 'needs' con he/she/it: *He need to* en lugar de *He needs to*.",
+        "Usar 'to' después del verbo principal: *I need to take to this* en lugar de *I need to take this*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'pharmacy'?",
+      "options": [
+        "Farmacia",
+        "Hospital",
+        "Médico",
+        "Medicina"
+      ],
+      "correct_answer": "Farmacia",
+      "explanation_md": "'Pharmacy' es el lugar donde compramos medicinas.",
+      "related_lexeme_ids": [
+        "pharmacy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'side effect'?",
+      "options": [
+        "Efecto secundario",
+        "Dolor de cabeza",
+        "Dosis",
+        "Receta"
+      ],
+      "correct_answer": "Efecto secundario",
+      "explanation_md": "Un 'side effect' es una reacción no deseada de un medicamento.",
+      "related_lexeme_ids": [
+        "side_effect"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_side_effects"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en la farmacia y necesitas comprar algo para el dolor de cabeza. ¿Qué dices?",
+      "options": [
+        "I need some medicine for my headache, please.",
+        "I need a ticket for the bus, please.",
+        "I need a table for two, please.",
+        "I need a map of the city, please."
+      ],
+      "correct_answer": "I need some medicine for my headache, please.",
+      "explanation_md": "Usamos 'I need some medicine for...' para pedir medicinas en la farmacia.",
+      "related_lexeme_ids": [
+        "medicine",
+        "headache"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_i_need_some_medicine"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "El farmacéutico te pregunta sobre alergias. ¿Qué respuesta es correcta?",
+      "options": [
+        "I'm allergic to penicillin.",
+        "I'm tired of penicillin.",
+        "I'm happy with penicillin.",
+        "I'm afraid of penicillin."
+      ],
+      "correct_answer": "I'm allergic to penicillin.",
+      "explanation_md": "Para decir que somos alérgicos a algo, usamos 'I'm allergic to...'.",
+      "related_lexeme_ids": [
+        "allergic_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_im_allergic_to"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'How often should I take this ____ for my cough?'",
+      "options": null,
+      "correct_answer": "pill",
+      "explanation_md": "Una 'pill' es una pastilla. La oración pregunta con qué frecuencia tomar la pastilla.",
+      "related_lexeme_ids": [
+        "pill",
+        "cough"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_how_often_should_i_take"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'The ____ is next to the hospital, near the bus stop.'",
+      "options": null,
+      "correct_answer": "pharmacy",
+      "explanation_md": "La 'pharmacy' es la farmacia, el lugar donde compramos medicinas.",
+      "related_lexeme_ids": [
+        "pharmacy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "pharmacy",
+        "Farmacia",
+        "pill",
+        "Pastilla",
+        "patient",
+        "Paciente",
+        "medicine",
+        "Medicina"
+      ],
+      "correct_answer": [
+        "pharmacy=Farmacia",
+        "pill=Pastilla",
+        "patient=Paciente",
+        "medicine=Medicina"
+      ],
+      "explanation_md": "Estas son palabras clave para la visita a la farmacia.",
+      "related_lexeme_ids": [
+        "pharmacy",
+        "pill",
+        "patient",
+        "medicine"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Necesito un medicamento para mi tos, por favor.'",
+      "options": null,
+      "correct_answer": "I need some medicine for my cough, please.",
+      "explanation_md": "Usamos 'I need some medicine for...' para pedir medicinas.",
+      "related_lexeme_ids": [
+        "medicine",
+        "cough"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_i_need_some_medicine"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Are there any side effects with this medicine?'",
+      "options": null,
+      "correct_answer": "¿Hay algún efecto secundario con este medicamento?",
+      "explanation_md": "Preguntamos sobre los efectos secundarios de un medicamento.",
+      "related_lexeme_ids": [
+        "side_effect",
+        "medicine"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_side_effects"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué necesita Tom?",
+      "options": null,
+      "correct_answer": "Tom needs some medicine for his headache.",
+      "explanation_md": "Tom pide medicina para su dolor de cabeza.",
+      "related_lexeme_ids": [
+        "pharmacy",
+        "medicine",
+        "headache",
+        "cough",
+        "allergic_adj",
+        "pill"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_i_need_some_medicine",
+        "chunk_a2_im_allergic_to"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Tom is at the pharmacy. He has a bad headache and a cough. He talks to the pharmacist. Tom says, 'I need some medicine for my headache, please.' The pharmacist asks, 'Are you allergic to anything?' Tom says, 'Yes, I'm allergic to penicillin.' The pharmacist gives him a different pill and says, 'Take one pill in the morning and one at night.'",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cuántas pastillas debe tomar Ana al día?",
+      "options": [
+        "Una pastilla",
+        "Dos pastillas",
+        "Tres pastillas",
+        "Cuatro pastillas"
+      ],
+      "correct_answer": "Dos pastillas",
+      "explanation_md": "El farmacéutico dice que tome una pastilla por la mañana y una por la noche, es decir, dos al día.",
+      "related_lexeme_ids": [
+        "fever",
+        "sore_throat",
+        "medicine",
+        "pill"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_how_often_should_i_take"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Ana is at the pharmacy. She has a fever and a sore throat. She asks the pharmacist, 'How often should I take this medicine?' The pharmacist says, 'Take one pill in the morning and one at night.'",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Imagina que estás en la farmacia. Escribe 2-3 oraciones: pide medicina para un problema de salud y pregunta sobre los efectos secundarios.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'I need some medicine for...' y la pregunta sobre efectos secundarios.",
+      "related_lexeme_ids": [
+        "medicine",
+        "cough",
+        "side_effect"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_i_need_some_medicine",
+        "chunk_a2_side_effects"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I need some medicine for my cough, please.",
+        "Are there any side effects with this medicine?"
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "pharmacy",
+      "back": "farmacia",
+      "hint": "lugar donde compras medicinas",
+      "lexeme_id": "pharmacy",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "pill",
+      "back": "pastilla / píldora",
+      "hint": "medicina pequeña que tomas",
+      "lexeme_id": "pill",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "patient",
+      "back": "paciente",
+      "hint": "persona que ve al doctor",
+      "lexeme_id": "patient",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "allergic",
+      "back": "alérgico",
+      "hint": "reacción a algo, ej. a un medicamento",
+      "lexeme_id": "allergic_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "side effect",
+      "back": "efecto secundario",
+      "hint": "reacción no deseada de una medicina",
+      "lexeme_id": "side_effect",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "blood pressure",
+      "back": "presión arterial",
+      "hint": "lo que mide el doctor en tu brazo",
+      "lexeme_id": "blood_pressure",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "X-ray",
+      "back": "radiografía / rayos X",
+      "hint": "imagen de tus huesos",
+      "lexeme_id": "x_ray_noun",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "doctor",
+      "back": "doctor / médico",
+      "hint": "persona que te ayuda con tu salud",
+      "lexeme_id": "doctor_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "how often",
+      "back": "con qué frecuencia",
+      "hint": "pregunta sobre frecuencia",
+      "lexeme_id": "how_often",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "medicine",
+      "back": "medicina / medicamento",
+      "hint": "lo que tomas para mejorar",
+      "lexeme_id": "medicine",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "I need some medicine.",
+      "back": "Necesito un medicamento.",
+      "hint": "frase para pedir medicina",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_need_some_medicine",
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "Are there any side effects?",
+      "back": "¿Hay efectos secundarios?",
+      "hint": "pregunta sobre reacciones",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_side_effects",
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "I'm allergic to ...",
+      "back": "Soy alérgico a ...",
+      "hint": "para decir a qué eres alérgico",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_allergic_to",
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "How often should I take this?",
+      "back": "¿Con qué frecuencia debo tomar esto?",
+      "hint": "pregunta sobre la dosis",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_how_often_should_i_take",
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "headache",
+      "back": "dolor de cabeza",
+      "hint": "dolor en la cabeza",
+      "lexeme_id": "headache",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "pharmacy",
+      "reading": "",
+      "translation": "farmacia",
+      "pos": "noun",
+      "example": "The pharmacy is next to the hospital, near the bus stop.",
+      "example_translation": "La farmacia está al lado del hospital, cerca de la parada de autobús.",
+      "lexeme_id": "pharmacy",
+      "chunk_id": null
+    },
+    {
+      "target_word": "pill",
+      "reading": "",
+      "translation": "pastilla / píldora",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "pill",
+      "chunk_id": null
+    },
+    {
+      "target_word": "patient",
+      "reading": "",
+      "translation": "paciente",
+      "pos": "noun",
+      "example": "The patient has a fever and needs to see the doctor.",
+      "example_translation": "El paciente tiene fiebre y necesita ver al doctor.",
+      "lexeme_id": "patient",
+      "chunk_id": null
+    },
+    {
+      "target_word": "allergic",
+      "reading": "",
+      "translation": "alérgico",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "allergic_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "side effect",
+      "reading": "",
+      "translation": "efecto secundario",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "side_effect",
+      "chunk_id": null
+    },
+    {
+      "target_word": "blood pressure",
+      "reading": "",
+      "translation": "presión arterial",
+      "pos": "noun",
+      "example": "The doctor checked my blood pressure and said it's fine.",
+      "example_translation": "El doctor me revisó la presión arterial y dijo que está bien.",
+      "lexeme_id": "blood_pressure",
+      "chunk_id": null
+    },
+    {
+      "target_word": "X-ray",
+      "reading": "",
+      "translation": "radiografía / rayos X",
+      "pos": "noun",
+      "example": "The nurse said I need an X-ray for my arm.",
+      "example_translation": "La enfermera dijo que necesito una radiografía para mi brazo.",
+      "lexeme_id": "x_ray_noun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "doctor",
+      "reading": "",
+      "translation": "dm / dr. / doc",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "doctor_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "how often",
+      "reading": "",
+      "translation": "con qué frecuencia",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "how_often",
+      "chunk_id": null
+    },
+    {
+      "target_word": "medicine",
+      "reading": "",
+      "translation": "medicina / medicamento",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "medicine",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I need some medicine.",
+      "reading": "",
+      "translation": "Necesito un medicamento.",
+      "pos": "chunk",
+      "example": "I need some medicine for my headache, please.",
+      "example_translation": "Necesito un medicamento para mi dolor de cabeza, por favor.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_need_some_medicine"
+    },
+    {
+      "target_word": "Are there any side effects?",
+      "reading": "",
+      "translation": "¿Hay efectos secundarios?",
+      "pos": "chunk",
+      "example": "Are there any side effects with this medicine?",
+      "example_translation": "¿Hay algún efecto secundario con este medicamento?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_side_effects"
+    },
+    {
+      "target_word": "I'm allergic to ...",
+      "reading": "",
+      "translation": "Soy alérgico a ...",
+      "pos": "chunk",
+      "example": "I'm allergic to penicillin, so I can't take that pill.",
+      "example_translation": "Soy alérgico a la penicilina, así que no puedo tomar esa pastilla.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_allergic_to"
+    },
+    {
+      "target_word": "How often should I take this?",
+      "reading": "",
+      "translation": "¿Con qué frecuencia debo tomar esto?",
+      "pos": "chunk",
+      "example": "How often should I take this pill for my cough?",
+      "example_translation": "¿Con qué frecuencia debo tomar esta pastilla para mi tos?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_how_often_should_i_take"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "pharmacy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "farmacia",
+      "lexeme_id": "pharmacy",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_001",
+        "ex_006",
+        "ex_007",
+        "ex_010",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "pill",
+      "role": "support",
+      "status": "practiced",
+      "translation": "pastilla / píldora",
+      "lexeme_id": "pill",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "patient",
+      "role": "support",
+      "status": "practiced",
+      "translation": "paciente",
+      "lexeme_id": "patient",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_007",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "allergic",
+      "role": "support",
+      "status": "practiced",
+      "translation": "alérgico",
+      "lexeme_id": "allergic_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "side effect",
+      "role": "support",
+      "status": "practiced",
+      "translation": "efecto secundario",
+      "lexeme_id": "side_effect",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_009",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "blood pressure",
+      "role": "support",
+      "status": "introduced",
+      "translation": "presión arterial",
+      "lexeme_id": "blood_pressure",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "X-ray",
+      "role": "support",
+      "status": "introduced",
+      "translation": "radiografía / rayos X",
+      "lexeme_id": "x_ray_noun",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "introduced",
+      "translation": "dm / dr. / doc",
+      "lexeme_id": "doctor_2",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "how often",
+      "role": "support",
+      "status": "introduced",
+      "translation": "con qué frecuencia",
+      "lexeme_id": "how_often",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "medicine",
+      "role": "support",
+      "status": "practiced",
+      "translation": "medicina / medicamento",
+      "lexeme_id": "medicine",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "I need some medicine.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Necesito un medicamento.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_need_some_medicine",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "Are there any side effects?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Hay efectos secundarios?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_side_effects",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_009",
+        "ex_012",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "I'm allergic to ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Soy alérgico a ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_im_allergic_to",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_004",
+        "ex_010",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "How often should I take this?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Con qué frecuencia debo tomar esto?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_how_often_should_i_take",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_005",
+        "ex_011",
+        "fc_014"
+      ]
+    },
+    {
+      "term": "headache",
+      "role": "support",
+      "status": "review",
+      "translation": "dolor de cabeza",
+      "lexeme_id": "headache",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_003",
+        "ex_010",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "cough",
+      "role": "support",
+      "status": "review",
+      "translation": "tos",
+      "lexeme_id": "cough",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_005",
+        "ex_008",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "medicine",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_010",
+        "fc_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_007",
+        "exm_008",
+        "ex_010",
+        "ex_012",
+        "fc_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_008",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_005",
+        "ex_010",
+        "ex_011",
+        "fc_014",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "often",
+      "role": "support",
+      "status": "emergent",
+      "translation": "a menudo",
+      "lexeme_id": "often_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011",
+        "fc_009",
+        "fc_014",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "allergic",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "fc_004",
+        "fc_013",
+        "quiz_001:q_002",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "effect",
+      "role": "support",
+      "status": "emergent",
+      "translation": "efecto",
+      "lexeme_id": "effect",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012",
+        "fc_005",
+        "fc_012",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "exm_007",
+        "fc_008",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "blood",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sangre",
+      "lexeme_id": "blood",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "fc_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "pressure",
+      "role": "support",
+      "status": "emergent",
+      "translation": "presión",
+      "lexeme_id": "pressure",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "fc_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "fever",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fiebre",
+      "lexeme_id": "fever",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "fine",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bien",
+      "lexeme_id": "fine_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "stop",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "arm",
+      "role": "support",
+      "status": "emergent",
+      "translation": "brazo",
+      "lexeme_id": "arm",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "bus",
+      "role": "support",
+      "status": "emergent",
+      "translation": "autobús",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "hospital",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hospital",
+      "lexeme_id": "hospital",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "near",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "nurse",
+      "role": "support",
+      "status": "emergent",
+      "translation": "enfermero/a",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "bus stop",
+      "role": "support",
+      "status": "emergent",
+      "translation": "parada de autobús",
+      "lexeme_id": "bus_stop",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "night",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noche",
+      "lexeme_id": "night",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "hour",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "sore throat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dolor de garganta",
+      "lexeme_id": "sore_throat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "throat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "garganta",
+      "lexeme_id": "throat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "example",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ejemplo",
+      "lexeme_id": "example",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_011",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "con",
+      "role": "support",
+      "status": "emergent",
+      "translation": "timo / bunco / bunko",
+      "lexeme_id": "con",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "sore",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dolorido",
+      "lexeme_id": "sore_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 14,
+    "review_support_count": 2,
+    "emergent_count": 30,
+    "emergent_terms": [
+      "medicine",
+      "need",
+      "take",
+      "often",
+      "allergic",
+      "effect",
+      "doctor",
+      "blood",
+      "pressure",
+      "see",
+      "fever",
+      "fine",
+      "stop",
+      "arm",
+      "bus",
+      "hospital",
+      "near",
+      "nurse",
+      "check",
+      "bus stop",
+      "ask",
+      "word",
+      "morning",
+      "night",
+      "hour",
+      "sore throat",
+      "throat",
+      "example",
+      "con",
+      "sore"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Asking for medicine at the pharmacy",
+      "title_target": "Quiz: Asking for medicine at the pharmacy",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "I",
+            "need",
+            "some",
+            "medicine",
+            "for",
+            "my",
+            "headache"
+          ],
+          "correct_answer": "I need some medicine for my headache",
+          "explanation_form": "La estructura correcta es: sujeto + verbo + objeto. 'I need some medicine for my headache' significa 'Necesito algo de medicina para mi dolor de cabeza'.",
+          "explanation_target": "The correct structure is: subject + verb + object. 'I need some medicine for my headache' means 'Necesito algo de medicina para mi dolor de cabeza'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_i_need_some_medicine",
+            "medicine",
+            "headache"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué le dice el paciente al farmacéutico?",
+          "prompt_target": "Listen and answer: What does the patient tell the pharmacist?",
+          "options": [
+            "He is allergic to penicillin and needs medicine for his cough.",
+            "He is allergic to aspirin and needs medicine for his fever.",
+            "He is allergic to penicillin and needs medicine for his sore throat."
+          ],
+          "correct_answer": "He is allergic to penicillin and needs medicine for his cough.",
+          "explanation_form": "El paciente dice 'I am allergic to penicillin' (soy alérgico a la penicilina) y 'I need some medicine for my cough' (necesito medicina para mi tos).",
+          "explanation_target": "The patient says 'I am allergic to penicillin' (soy alérgico a la penicilina) and 'I need some medicine for my cough' (necesito medicina para mi tos).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_im_allergic_to",
+            "chunk_a2_i_need_some_medicine",
+            "cough",
+            "patient",
+            "pharmacy"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I am allergic to penicillin. I need some medicine for my cough. Can you help me, please?",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué pregunta el paciente?",
+          "prompt_target": "Listen and answer: What does the patient ask?",
+          "options": [
+            "How often he should take the pill.",
+            "How much the pill costs.",
+            "What the side effects are."
+          ],
+          "correct_answer": "How often he should take the pill.",
+          "explanation_form": "El paciente pregunta 'How often should I take this pill?' (¿Con qué frecuencia debo tomar esta pastilla?).",
+          "explanation_target": "The patient asks 'How often should I take this pill?' (¿Con qué frecuencia debo tomar esta pastilla?).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_how_often_should_i_take",
+            "pill",
+            "patient"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "How often should I take this pill? Every four hours? Or every six hours?",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué debe hacer el paciente?",
+          "prompt_target": "Read the text and answer: What should the patient do?",
+          "options": [
+            "Take the pill every six hours and rest.",
+            "Take the pill every four hours and drink coffee.",
+            "Take the pill every six hours and drink coffee."
+          ],
+          "correct_answer": "Take the pill every six hours and rest.",
+          "explanation_form": "El farmacéutico dice 'Take this pill every six hours' (tome esta pastilla cada seis horas) y 'Rest and drink water' (descanse y beba agua).",
+          "explanation_target": "The pharmacist says 'Take this pill every six hours' (tome esta pastilla cada seis horas) and 'Rest and drink water' (descanse y beba agua).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "pharmacy",
+            "pill",
+            "fever",
+            "sore_throat",
+            "patient",
+            "medicine"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "The patient has a fever and a sore throat. He goes to the pharmacy. He needs some medicine. The pharmacist says: 'Take this pill every six hours. Do not take it with coffee. Rest and drink water.'",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'side effects'?",
+          "prompt_target": "What does 'side effects' mean?",
+          "options": [
+            "Efectos secundarios",
+            "Efectos positivos",
+            "Dosis diaria",
+            "Receta médica"
+          ],
+          "correct_answer": "Efectos secundarios",
+          "explanation_form": "'Side effects' son los efectos secundarios de un medicamento, como somnolencia o náuseas.",
+          "explanation_target": "'Side effects' are the secondary effects of a medicine, like sleepiness or nausea.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "side_effect",
+            "chunk_a2_side_effects"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Soy alérgico a la aspirina.'",
+          "prompt_target": "Translate to English: 'Soy alérgico a la aspirina.'",
+          "options": null,
+          "correct_answer": "I am allergic to aspirin.",
+          "explanation_form": "La estructura es 'I am allergic to + sustancia'. 'Aspirin' es aspirina.",
+          "explanation_target": "The structure is 'I am allergic to + substance'. 'Aspirin' is aspirina.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_im_allergic_to",
+            "allergic_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'blood pressure'?",
+          "prompt_target": "What does 'blood pressure' mean?",
+          "options": [
+            "Presión arterial",
+            "Análisis de sangre",
+            "Grupo sanguíneo",
+            "Donación de sangre"
+          ],
+          "correct_answer": "Presión arterial",
+          "explanation_form": "'Blood pressure' es la presión arterial, la fuerza que ejerce la sangre sobre las paredes de las arterias.",
+          "explanation_target": "'Blood pressure' is the pressure of the blood on the walls of the arteries.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "blood_pressure"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____, I need to see the doctor.' (Necesito ver al doctor.)",
+          "prompt_target": "Fill in the blank: '____, I need to see the doctor.'",
+          "options": null,
+          "correct_answer": "Actually",
+          "explanation_form": "'Actually' significa 'en realidad' o 'de hecho'. Se usa para introducir una corrección o una aclaración.",
+          "explanation_target": "'Actually' means 'en realidad' or 'de hecho'. It is used to introduce a correction or clarification.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "doctor_2"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "pharmacy",
+            "farmacia",
+            "pill",
+            "pastilla",
+            "patient",
+            "paciente"
+          ],
+          "correct_answer": [
+            "pharmacy=farmacia",
+            "pill=pastilla",
+            "patient=paciente"
+          ],
+          "explanation_form": "Estas son palabras clave para ir a la farmacia: 'pharmacy' (farmacia), 'pill' (pastilla) y 'patient' (paciente).",
+          "explanation_target": "These are key words for going to the pharmacy: 'pharmacy' (farmacia), 'pill' (pastilla) and 'patient' (paciente).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "pharmacy",
+            "pill",
+            "patient"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'x-ray'?",
+          "prompt_target": "What does 'x-ray' mean?",
+          "options": [
+            "Radiografía",
+            "Rayos X",
+            "Tomografía",
+            "Ecografía"
+          ],
+          "correct_answer": "Radiografía",
+          "explanation_form": "'X-ray' es una radiografía, una imagen que se toma con rayos X para ver el interior del cuerpo.",
+          "explanation_target": "'X-ray' is a radiograph, an image taken with X-rays to see inside the body.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "x_ray_noun"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'how often'?",
+          "prompt_target": "What does 'how often' mean?",
+          "options": [
+            "Con qué frecuencia",
+            "Cuánto tiempo",
+            "Cuántas veces",
+            "Cuándo"
+          ],
+          "correct_answer": "Con qué frecuencia",
+          "explanation_form": "'How often' se usa para preguntar sobre la frecuencia de una acción. Por ejemplo: 'How often do you exercise?' (¿Con qué frecuencia haces ejercicio?).",
+          "explanation_target": "'How often' is used to ask about the frequency of an action. For example: 'How often do you exercise?' (¿Con qué frecuencia haces ejercicio?).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "how_often",
+            "chunk_a2_how_often_should_i_take"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'need to'?",
+          "prompt_target": "What does 'need to' mean?",
+          "options": [
+            "Necesitar (hacer algo)",
+            "Querer (hacer algo)",
+            "Deber (hacer algo)",
+            "Poder (hacer algo)"
+          ],
+          "correct_answer": "Necesitar (hacer algo)",
+          "explanation_form": "'Need to' expresa necesidad. Por ejemplo: 'I need to take this medicine' (Necesito tomar esta medicina).",
+          "explanation_target": "'Need to' expresses necessity. For example: 'I need to take this medicine' (Necesito tomar esta medicina).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "need_to"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## En la farmacia\n\nCuando pidas medicina, usa la estructura **\"I need...\"** (necesito...). Es directa y natural: *\"I need some medicine for a headache\"*. Recuerda que **\"some\"** se usa con sustantivos incontables como *medicine* o *water*.\n\n## Errores comunes\n\n- No digas *\"I am allergic of...\"*. Lo correcto es **\"I am allergic TO...\"** (soy alergico a...).\n- Para preguntar frecuencia, usa **\"How often...?\"** (cada cuanto...): *\"How often should I take this pill?\"* (cada cuanto debo tomar esta pastilla?).\n- **\"Side effects\"** (efectos secundarios) siempre va en plural cuando hablas de varios sintomas.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:57:21Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

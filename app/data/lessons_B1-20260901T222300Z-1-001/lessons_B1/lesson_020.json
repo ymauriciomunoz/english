@@ -1,0 +1,1479 @@
+{
+  "id": "lesson_020",
+  "position": 20,
+  "unit_id": 7,
+  "course_id": "en.B1",
+  "title_form": "Hablar de metas futuras",
+  "title_target": "Talking about future milestones",
+  "theme_focus": "work and study",
+  "learning_objectives": [
+    "Can write a clear update about what will have been completed by a future deadline."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_019"
+  ],
+  "grammar_focus": [
+    "Future perfect for milestones and time clauses for project updates."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "develop_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "deadline"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "deadline",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the work and study situation."
+      },
+      {
+        "term": "plan",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the work and study situation."
+      },
+      {
+        "term": "by next month",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "will have finished",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "will have + past participle",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "by the time",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos es director de proyectos en una empresa de tecnología y debe presentar el informe de avance trimestral a su equipo. Durante la reunión, repasa los plazos clave y explica qué metas habrán completado para el próximo mes. A través de este informe, el equipo analiza los planes de desarrollo y ajusta sus tiempos de trabajo.",
+  "introduction_md": "¡Bienvenido a esta lección sobre proyectos y metas de trabajo! En el entorno laboral y académico, a menudo necesitamos informar qué tareas habremos completado para una fecha límite determinada. Para comunicar estos avances con precisión, utilizamos el futuro perfecto (*future perfect*).\n\nEn esta lección aprenderás a:\n- Expresar avances de proyectos utilizando estructuras como *will have finished* o *will have developed*.\n- Utilizar expresiones de tiempo clave como *by next month* y *by the time* para establecer plazos claros.\n- Redactar informes breves y actualizaciones sobre tus planes profesionales de manera fluida y profesional.\n\nDominar estas herramientas te permitirá proyectar tus metas con seguridad y dar seguimiento a cualquier proyecto importante. ¡Empecemos a planificar tu futuro con éxito!",
+  "intro_target": "Welcome to this lesson on projects and future goals! In work and academic environments, we often need to report what tasks we will have completed by a specific deadline. To communicate these achievements clearly, we use the future perfect tense.\n\nIn this lesson, you will learn to:\n- Express project progress using structures like *will have finished* or *will have developed*.\n- Use key time expressions such as *by next month* and *by the time* to set clear deadlines.\n- Write brief updates and reports about your professional plans in a smooth and clear way.\n\nMastering these tools will help you outline your milestones with confidence and manage any important project effectively. Let's start planning your future!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "develop_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Our team will have developed the main project plan by next month.",
+      "translation_form": "Para el próximo mes, nuestro equipo habrá desarrollado el plan principal del proyecto.",
+      "highlight_words": [
+        "developed",
+        "plan",
+        "project",
+        "by next month"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "By the time the deadline arrives, we will have finished the main project.",
+      "translation_form": "Para cuando llegue la fecha límite, habremos terminado el proyecto principal.",
+      "highlight_words": [
+        "by the time",
+        "deadline",
+        "will have finished",
+        "project"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "develop_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "By next month, the study group will have developed a study schedule for the final exam.",
+      "translation_form": "Para el próximo mes, el grupo de estudio habrá desarrollado un calendario de estudio para el examen final.",
+      "highlight_words": [
+        "by next month",
+        "developed",
+        "study schedule",
+        "final exam"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They will have finished their project plan before the main project deadline next week.",
+      "translation_form": "La próxima semana, habrán terminado su plan del proyecto antes de la fecha límite principal.",
+      "highlight_words": [
+        "will have finished",
+        "project",
+        "plan",
+        "deadline"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Future perfect for milestones and time clauses for project updates.",
+      "title_form": "Futuro perfecto para metas y cláusulas de tiempo",
+      "title_target": "Future Perfect for Milestones and Time Clauses",
+      "description_md_form": "El **Future Perfect** (`will have` + participio pasado) se utiliza para hablar de acciones o metas que estarán completadas antes de un momento específico en el futuro. Es un patrón clave en entornos laborales y académicos para presentar actualizaciones de proyectos (*project updates*) y señalar hitos (*milestones*).\n\n### Estructura y conectores de tiempo\nPara fijar el límite temporal de una meta, usamos dos conectores principales:\n- **`by` + expresión de tiempo**: `by next month` (para el próximo mes), `by Friday` (para el viernes).\n- **`by the time` + presente simple**: `by the time the deadline arrives` (para cuando llegue la fecha límite).\n\n### Regla clave\nEn las oraciones con **`by the time`**, el verbo que sigue va en **presente simple** (no en futuro), mientras que la acción principal usa el **future perfect** (`will have finished` / `will have developed`).",
+      "description_md_target": "The **Future Perfect** (`will have` + past participle) is used to talk about actions or milestones that will be completed before a specific point in the future. It is key for professional and academic updates.\n\n### Structure and Time Connectors\nTo express deadlines, we use two main time markers:\n- **`by` + time expression**: `by next month`, `by Friday`.\n- **`by the time` + present simple clause**: `by the time the deadline arrives`.\n\n### Key Rule\nIn clauses introduced by **`by the time`**, use the **present simple** (not future), while the main clause uses the **future perfect** (`will have finished` / `will have developed`).",
+      "grammar_structure": "Subject + will have + past participle + by / by the time + time clause",
+      "conjugation_table": {
+        "name": "future_perfect_milestones",
+        "headers": [
+          "Sujeto",
+          "Estructura",
+          "Ejemplo de hito / meta"
+        ],
+        "rows": [
+          [
+            "I / You / We / They",
+            "will have + past participle",
+            "will have finished the report"
+          ],
+          [
+            "He / She / It",
+            "will have + past participle",
+            "will have developed the plan"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Future perfect for milestones and time clauses for project updates.",
+          "text_target": "By next month, our team will have developed a plan for the project.",
+          "translation_form": "Para el próximo mes, nuestro equipo habrá desarrollado un plan para el proyecto.",
+          "highlight_words": [
+            "by",
+            "next",
+            "month",
+            "will",
+            "have",
+            "developed"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Future perfect for milestones and time clauses for project updates.",
+          "text_target": "By the time the deadline arrives, we will have finished the main project.",
+          "translation_form": "Para cuando llegue la fecha límite, habremos terminado el proyecto principal.",
+          "highlight_words": [
+            "by",
+            "the",
+            "time",
+            "will",
+            "have",
+            "finished"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "Usa **by + expresión de tiempo** (ej. *by next month*) para señalar la fecha límite en la que una meta ya estará concluida."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No uses *will* después de **by the time**. Di *by the time the deadline arrives* (presente simple), no *will arrive*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar el verbo auxiliar *will* dentro de la cláusula *by the time* (ej. decir *by the time the deadline will arrive* en lugar de *arrives*).",
+        "Omitir el verbo *have* o usar el verbo principal en infinitivo en lugar de participio pasado (ej. decir *will finish* en vez de *will have finished*)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa el verbo **'develop'** en español?",
+      "options": [
+        "desarrollar",
+        "destruir",
+        "descubrir",
+        "decidir"
+      ],
+      "correct_answer": "desarrollar",
+      "explanation_md": "'Develop' significa desarrollar, crear o diseñar un proyecto o idea.",
+      "related_lexeme_ids": [
+        "develop_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la opción correcta para completar la oración sobre metas del equipo:\n'Our team ____ a new plan for the project by next month.'",
+      "options": [
+        "will have developed",
+        "developed",
+        "develop",
+        "has developed"
+      ],
+      "correct_answer": "will have developed",
+      "explanation_md": "Usamos el futuro perfecto ('will have developed') para señalar una meta completada en un punto futuro ('by next month').",
+      "related_lexeme_ids": [
+        "develop_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase de tiempo en la oración sobre el proyecto:\n'____ the time the project deadline arrives, we will have finished the main project.'",
+      "options": null,
+      "correct_answer": "By",
+      "explanation_md": "'By the time' significa 'Para cuando' e introduce la cláusula de tiempo para una meta en futuro perfecto.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "matching",
+      "prompt_md": "Empareja cada expresión en inglés con su traducción correspondiente:",
+      "options": [
+        "by next month",
+        "para el próximo mes",
+        "by the time",
+        "para cuando",
+        "deadline",
+        "fecha límite",
+        "will have finished",
+        "habrá terminado"
+      ],
+      "correct_answer": [
+        "by next month=para el próximo mes",
+        "by the time=para cuando",
+        "deadline=fecha límite",
+        "will have finished=habrá terminado"
+      ],
+      "explanation_md": "Estas expresiones y verbos son esenciales para hablar de plazos y metas en el futuro.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente oración sobre plazos de trabajo:\n'Para la fecha límite, habremos desarrollado el plan del proyecto.'",
+      "options": null,
+      "correct_answer": "By the deadline, we will have developed the project plan.",
+      "explanation_md": "'By the deadline' expresa 'para la fecha límite', y 'we will have developed' es la estructura del futuro perfecto.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la siguiente oración:\n'By next month, the company will have finished the new project plan.'",
+      "options": null,
+      "correct_answer": "Para el próximo mes, la empresa habrá terminado el nuevo plan del proyecto.",
+      "explanation_md": "'By next month' se traduce como 'Para el próximo mes' y 'will have finished' como 'habrá terminado'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el siguiente informe de proyecto y responde a la pregunta:\nWhat will the team have finished by next month?",
+      "options": [
+        "The main project work",
+        "The new smartphone app",
+        "The new car",
+        "The house plan"
+      ],
+      "correct_answer": "The main project work",
+      "explanation_md": "En el texto se indica explícitamente: 'By next month, we will have finished the main project work.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Our team has a clear deadline for the new project. By next month, we will have finished the main project work. Also, by the time the manager arrives, we will have developed a new plan for the company.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el mensaje de trabajo y responde a la pregunta:\nWhat will they have developed before the deadline?",
+      "options": [
+        "A new study schedule for the final exam",
+        "A new mobile phone",
+        "A new car model",
+        "A coffee machine"
+      ],
+      "correct_answer": "A new study schedule for the final exam",
+      "explanation_md": "En la grabación, la persona menciona: 'we will have developed a new study schedule for the final exam'.",
+      "related_lexeme_ids": [
+        "develop_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "Hello team. By the time the project deadline arrives next week, we will have developed a new study schedule for the final exam. Please send your final notes today.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con las tres palabras verbales en inglés para formar el futuro perfecto:\n'By next month, the project team ____ ____ ____ a study schedule for the final exam.'",
+      "options": null,
+      "correct_answer": "will have developed",
+      "explanation_md": "El futuro perfecto se construye combinando el auxiliar 'will', 'have' y el participio pasado del verbo principal ('developed').",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "free_production",
+      "prompt_md": "Escribe una actualización conectada de 3–4 hitos sobre un proyecto de trabajo o estudio. Incluye al menos tres acciones relacionadas: usa dos oraciones con 'will have + past participle', un hito con 'by the time' y una fecha límite como 'by next month'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa una actualización conectada de 3–4 hitos, con al menos dos usos de 'will have' + participio pasado, una cláusula con 'by the time' y una fecha límite como 'by next month'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "By next month, our team will have developed the project plan. By the time the manager arrives, we will have finished the main project work. We will have checked the final schedule before the deadline. Then we will send the final file.",
+        "By next month, I will have developed my study plan. By the time the teacher arrives, I will have finished the main study task. I will have checked the final schedule before the deadline. Then I will send the final file."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato bilingüe en primera persona y responde: ¿Qué habrá terminado la narradora para el próximo mes?\n\nRead the first-person story and answer: What will the narrator have finished by next month?",
+      "options": [
+        "The research notes.",
+        "The final presentation next year.",
+        "The report after the deadline.",
+        "The project before she starts it."
+      ],
+      "correct_answer": "The research notes.",
+      "explanation_md": "La narradora dice 'By next month, I will have finished the research notes'. El futuro perfecto expresa un hito terminado antes de una fecha futura. / The narrator says 'By next month, I will have finished the research notes'. The future perfect expresses a milestone completed before a future date.",
+      "related_lexeme_ids": [
+        "develop_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I am leading a study project for my evening course. By next month, I will have finished the research notes and developed the first draft. By the time my tutor arrives, I will have checked the references. Then I will send the report before the deadline.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el diálogo bilingüe en primera persona y responde: ¿Qué habrá comprobado la persona para cuando llegue el gerente?\n\nListen to the first-person dialogue and answer: What will the speaker have checked by the time the manager arrives?",
+      "options": [
+        "The figures.",
+        "The manager's contract.",
+        "The new office.",
+        "The final exam."
+      ],
+      "correct_answer": "The figures.",
+      "explanation_md": "La persona dice 'By the time the manager arrives, I will have checked the figures'. Después de 'by the time' va presente simple y la oración principal usa futuro perfecto. / The speaker says 'By the time the manager arrives, I will have checked the figures'. After 'by the time' we use the present simple, while the main clause uses the future perfect.",
+      "related_lexeme_ids": [
+        "finish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "A: I am preparing our quarterly work update. By Friday, I will have finished the budget review and developed the new schedule. B: What will be ready by the time the manager arrives? A: I will have checked the figures and sent the draft. B: Good. We can discuss the remaining milestones then.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "develop",
+      "back": "desarrollar",
+      "hint": "crear o hacer crecer una idea o proyecto",
+      "lexeme_id": "develop_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "B1",
+        "work_and_study"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "deadline",
+      "back": "fecha límite",
+      "hint": "fecha en la que debe estar lista una tarea",
+      "lexeme_id": "deadline",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "B1",
+        "work_and_study"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "will have developed",
+      "back": "habrá desarrollado",
+      "hint": "forma del futuro perfecto para expresar un hito alcanzado",
+      "lexeme_id": "develop_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "B1",
+        "work_and_study"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "develop a plan",
+      "back": "desarrollar un plan",
+      "hint": "crear una estrategia o proyecto",
+      "lexeme_id": "develop_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "B1",
+        "work_and_study"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "finish a project",
+      "back": "terminar un proyecto",
+      "hint": "completar un proyecto antes de una fecha límite",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_020",
+        "B1",
+        "work_and_study"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "develop",
+      "reading": "",
+      "translation": "desarrollar",
+      "pos": "verb",
+      "example": "Our team will have developed the main project plan by next month.",
+      "example_translation": "Para el próximo mes, nuestro equipo habrá desarrollado el plan principal del proyecto.",
+      "lexeme_id": "develop_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "deadline",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "fecha límite",
+      "lexeme_id": "deadline",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "Future perfect for milestones and time clauses for project updates.",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "plan",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "planear",
+      "lexeme_id": "plan_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "Future perfect for milestones and time clauses for project updates.",
+        "ex_007",
+        "ex_010",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "by next month",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "Future perfect for milestones and time clauses for project updates.",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "will have finished",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "Future perfect for milestones and time clauses for project updates.",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "will have + past participle",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "Future perfect for milestones and time clauses for project updates."
+      ]
+    },
+    {
+      "term": "by the time",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "Future perfect for milestones and time clauses for project updates.",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "develop",
+      "role": "support",
+      "status": "practiced",
+      "translation": "desarrollar",
+      "lexeme_id": "develop_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "ex_001",
+        "ex_002",
+        "ex_008",
+        "ex_011",
+        "fc_001",
+        "fc_003",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "review",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_004",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_004",
+        "ex_007",
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "arrive",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llegar",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "schedule",
+      "role": "support",
+      "status": "emergent",
+      "translation": "horario",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "final",
+      "role": "support",
+      "status": "emergent",
+      "translation": "final",
+      "lexeme_id": "final_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "exam",
+      "role": "support",
+      "status": "emergent",
+      "translation": "test / examen / prueba",
+      "lexeme_id": "exam",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "group",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grupo",
+      "lexeme_id": "group",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "update",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actualizar / actualización",
+      "lexeme_id": "update",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "future",
+      "role": "support",
+      "status": "emergent",
+      "translation": "futuro",
+      "lexeme_id": "future_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "send",
+      "role": "support",
+      "status": "emergent",
+      "translation": "enviar",
+      "lexeme_id": "send_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "prepare",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preparar",
+      "lexeme_id": "prepare_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "file",
+      "role": "support",
+      "status": "emergent",
+      "translation": "archivo / archivar",
+      "lexeme_id": "file",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "note",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nota / notar",
+      "lexeme_id": "note",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "company",
+      "role": "support",
+      "status": "emergent",
+      "translation": "empresa / compañía",
+      "lexeme_id": "company",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "discuss",
+      "role": "support",
+      "status": "emergent",
+      "translation": "discutir / hablar de",
+      "lexeme_id": "discuss_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "Friday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viernes",
+      "lexeme_id": "friday",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "task",
+      "role": "support",
+      "status": "emergent",
+      "translation": "faena / labor / tarea",
+      "lexeme_id": "task",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "draft",
+      "role": "support",
+      "status": "emergent",
+      "translation": "borrador",
+      "lexeme_id": "draft",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "clear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "claro",
+      "lexeme_id": "clear_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "tutor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tutor / preceptor / instructor",
+      "lexeme_id": "tutor",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "present",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actual",
+      "lexeme_id": "present_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "result",
+      "role": "support",
+      "status": "emergent",
+      "translation": "resultar",
+      "lexeme_id": "result_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_011"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 1,
+    "emergent_count": 30,
+    "emergent_terms": [
+      "project",
+      "main",
+      "arrive",
+      "study",
+      "schedule",
+      "team",
+      "final",
+      "exam",
+      "week",
+      "group",
+      "update",
+      "future",
+      "work",
+      "send",
+      "manager",
+      "check",
+      "person",
+      "prepare",
+      "year",
+      "file",
+      "note",
+      "company",
+      "discuss",
+      "Friday",
+      "task",
+      "draft",
+      "clear",
+      "tutor",
+      "present",
+      "result"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Hablar de metas futuras",
+      "title_target": "Quiz: Talking about future milestones",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Qué habrá desarrollado el equipo para el mes de diciembre según el texto?",
+          "prompt_target": "What will the team have developed by December according to the text?",
+          "options": [
+            "Un plan de trabajo para el nuevo proyecto",
+            "Una nueva red de transporte público",
+            "Un calendario de vacaciones"
+          ],
+          "correct_answer": "Un plan de trabajo para el nuevo proyecto",
+          "explanation_form": "El texto menciona explícitamente: 'By December, we will have developed a work plan for the new project'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "develop_verb",
+            "Future perfect for milestones and time clauses for project updates."
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Our team has a clear goal for next year. By December, we will have developed a work plan for the new project. When we complete this project, we will present the results to the manager. Everyone is working hard to finish the main tasks before the deadline.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Para cuándo habrá terminado la persona el informe del proyecto?",
+          "prompt_target": "By when will the person have finished the project report?",
+          "options": [
+            "Para el próximo mes",
+            "Para la próxima semana",
+            "Para el próximo año"
+          ],
+          "correct_answer": "Para el próximo mes",
+          "explanation_form": "En el audio se escucha: 'By next month, I will have finished the project report'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Future perfect for milestones and time clauses for project updates."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "By next month, I will have finished the project report. When I send the file, we can talk about our future goals.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué habrá desarrollado el grupo de estudio para el próximo año?",
+          "prompt_target": "What will the study group have developed by next year?",
+          "options": [
+            "Un calendario de estudio para el examen final",
+            "Un nuevo motor de autobús",
+            "Una aplicación de cocina"
+          ],
+          "correct_answer": "Un calendario de estudio para el examen final",
+          "explanation_form": "En el audio se dice: 'The study group will have developed a study schedule for the final exam by next year'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "develop_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The study group will have developed a study schedule for the final exam by next year. This schedule will help everyone prepare for the final exam.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa con la forma del futuro perfecto: 'By next week, we ____ (finish) the project.'",
+          "prompt_target": "Fill in the blank with future perfect: 'By next week, we ____ (finish) the project.'",
+          "options": null,
+          "correct_answer": "will have finished",
+          "explanation_form": "El futuro perfecto se forma con 'will have' seguido del participio pasado del verbo ('finished').",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "Future perfect for milestones and time clauses for project updates."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para expresar una meta futura con futuro perfecto:",
+          "prompt_target": "Order the words to express a future milestone:",
+          "options": [
+            "they",
+            "will",
+            "have",
+            "developed",
+            "the",
+            "app",
+            "by",
+            "June"
+          ],
+          "correct_answer": "they will have developed the app by June",
+          "explanation_form": "La estructura correcta es: Sujeto + will have + participio + complemento de tiempo ('by June').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "develop_verb",
+            "Future perfect for milestones and time clauses for project updates."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la traducción del verbo 'desarrollar' en inglés?",
+          "prompt_target": "What is the translation of 'desarrollar' in English?",
+          "options": [
+            "develop",
+            "destroy",
+            "discover",
+            "depend"
+          ],
+          "correct_answer": "develop",
+          "explanation_form": "'Develop' significa crear, elaborar o desarrollar algo (como una idea, sistema o proyecto).",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "develop_verb"
+          ],
+          "points": 5,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Cuando terminemos el proyecto, celebraremos.'",
+          "prompt_target": "Translate to English: 'Cuando terminemos el proyecto, celebraremos.'",
+          "options": null,
+          "correct_answer": "When we finish the project, we will celebrate.",
+          "explanation_form": "En cláusulas temporales introducidas por 'when', se usa el presente simple ('we finish') para referirse al futuro.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Future perfect for milestones and time clauses for project updates."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la oración: 'By 2026, the company ____ (develop) a plan for the new project.'",
+          "prompt_target": "Complete the sentence: 'By 2026, the company ____ (develop) a plan for the new project.'",
+          "options": null,
+          "correct_answer": "will have developed",
+          "explanation_form": "Para expresar un hito que estará completado antes de un momento futuro ('By 2026'), usamos 'will have developed' para hablar del plan del nuevo proyecto.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "develop_verb",
+            "Future perfect for milestones and time clauses for project updates."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja la primera parte de la frase con su continuación lógica:",
+          "prompt_target": "Match the first part of the sentence with its logical continuation:",
+          "options": [
+            "By next year,",
+            "we will have developed the project plan.",
+            "When the project ends,",
+            "we will send the final file.",
+            "Before the deadline,",
+            "they will have finished the main task."
+          ],
+          "correct_answer": [
+            "By next year,=we will have developed the project plan.",
+            "When the project ends,=we will send the final file.",
+            "Before the deadline,=they will have finished the main task."
+          ],
+          "explanation_form": "Cada marcador temporal ('by next year', 'when...', 'before...') conecta con la estructura correspondiente en futuro o futuro perfecto.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "develop_verb",
+            "Future perfect for milestones and time clauses for project updates."
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato en primera persona: ¿Qué habrá preparado la narradora para cuando llegue la directora?",
+          "prompt_target": "Read the first-person story: What will the narrator have prepared by the time the director arrives?",
+          "options": [
+            "The progress update.",
+            "The final exam results from last year.",
+            "The director's new contract.",
+            "The project after the deadline."
+          ],
+          "correct_answer": "The progress update.",
+          "explanation_form": "La narradora dice 'By the time the director arrives, I will have prepared the progress update'. 'Arrives' va en presente simple después de 'by the time' y 'will have prepared' expresa el hito completado.",
+          "explanation_target": "The narrator says 'By the time the director arrives, I will have prepared the progress update'. 'Arrives' is in the present simple after 'by the time', and 'will have prepared' expresses the completed milestone.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "Future perfect for milestones and time clauses for project updates."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I am coordinating a training project at work. By the end of June, I will have developed the training plan and finished the first workshop. By the time the director arrives, I will have prepared the progress update. I will send it before the deadline.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el diálogo en primera persona: ¿Qué habrá completado la persona para cuando llame el tutor?",
+          "prompt_target": "Listen to the first-person dialogue: What will the speaker have completed by the time the tutor calls?",
+          "options": [
+            "Three practice tests.",
+            "The final exam itself.",
+            "A new job contract.",
+            "The tutor's progress report."
+          ],
+          "correct_answer": "Three practice tests.",
+          "explanation_form": "La persona dice 'By the time the tutor calls, I will have completed three practice tests'. Usamos futuro perfecto para el hito terminado antes de esa llamada.",
+          "explanation_target": "The speaker says 'By the time the tutor calls, I will have completed three practice tests'. We use the future perfect for the milestone completed before that call.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "Future perfect for milestones and time clauses for project updates."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "A: I am studying for my final exam. By next Friday, I will have finished my revision plan. B: What will you have completed by the time the tutor calls? A: I will have completed three practice tests and checked my answers. B: Great; then you can discuss the results.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El Futuro Perfecto para metas y fechas límite\nEl *future perfect* (**will have + participio pasado**) sirve para proyectar acciones que ya habrán terminado antes de un momento determinado en el futuro. Por ejemplo, al reportar avances de trabajo o estudio: *By next month, our team will have developed the project plan* (Para el próximo mes, nuestro equipo habrá desarrollado el plan del proyecto).\n\n## Expresiones de tiempo: \"by\" y \"by the time\"\nPara indicar la fecha límite o hito (*milestone*), utilizamos **by** antes de un sustantivo o fecha (*by Monday*, *by 2030*), y **by the time** cuando introducimos una oración con verbo. Recuerda esta regla de oro: después de *by the time*, el verbo principal va en **presente simple**, no en futuro (ejemplo: *by the time the deadline arrives, we will have finished the main project*).",
+  "metadata": {
+    "generated_at": "2026-08-29T18:31:51Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

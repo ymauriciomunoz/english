@@ -1,0 +1,1557 @@
+{
+  "id": "lesson_026",
+  "position": 26,
+  "unit_id": 9,
+  "course_id": "en.B1",
+  "title_form": "Hablar de un presupuesto",
+  "title_target": "Discussing a household budget",
+  "theme_focus": "finance and consumption",
+  "learning_objectives": [
+    "Can compare spending choices and write a simple recommendation for staying within a budget."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_025"
+  ],
+  "grammar_focus": [
+    "Comparatives, superlatives and enough/too much in budget decisions."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "spend_money_phrase"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "cheap",
+        "safe_adj"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "budget",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the finance and consumption situation."
+      },
+      {
+        "term": "purchase",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the finance and consumption situation."
+      },
+      {
+        "term": "too much",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "enough for",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "more economical",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "the cheapest",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos y María están revisando sus gastos mensuales para organizar el presupuesto familiar. Comparan precios de compras recientes, evalúan si gastaron demasiado dinero en ciertas cosas y buscan la opción más económica para ahorrar este mes.",
+  "introduction_md": "¡Bienvenido a esta lección de inglés! En la vida cotidiana, administrar las finanzas personales es una habilidad fundamental para tomar buenas decisiones. En esta sesión aprenderás a hablar sobre gastos, comparar precios y administrar un presupuesto del hogar de manera práctica y eficiente.\n\nAl finalizar la lección, serás capaz de:\n- Comparar opciones de compra utilizando comparativos y superlativos de forma natural.\n- Expresar si una opción cuesta demasiado dinero o si tienes recursos suficientes para un gasto.\n- Analizar alternativas de consumo y recomendar la opción más económica para la familia.\n\nPracticaremos estructurando conversaciones reales con vocabulario clave como *budget*, *purchase*, *too much* y *enough for*. ¡Comencemos a optimizar tus finanzas en inglés ahora mismo!",
+  "intro_target": "Welcome to this English lesson! In daily life, managing personal finances is an essential skill for making good decisions. In this session, you will learn to talk about spending, compare prices, and manage a household budget in a practical and efficient way.\n\nBy the end of the lesson, you will be able to:\n- Compare purchasing options using comparatives and superlatives naturally.\n- Express whether an option costs too much money or if you have enough resources for an expense.\n- Analyze spending alternatives and recommend the most economical option for the family.\n\nWe will practice structuring real conversations using key vocabulary such as budget, purchase, too much, and enough for. Let us start optimizing your finances in English right now!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "spend_money_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We spend money on food every week, but this new store is much cheaper.",
+      "translation_form": "Gastamos dinero en comida cada semana, pero esta tienda nueva es mucho más barata.",
+      "highlight_words": [
+        "spend",
+        "money",
+        "cheaper"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This small apartment is the cheapest option and it is very safe for our family.",
+      "translation_form": "Este apartamento pequeño es la opción más barata y es muy segura para nuestra familia.",
+      "highlight_words": [
+        "cheapest",
+        "safe"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We spend too much money on coffee, so we need a more economical plan for next month.",
+      "translation_form": "Gastamos demasiado dinero en café, así que necesitamos un plan más económico para el próximo mes.",
+      "highlight_words": [
+        "too",
+        "much",
+        "more",
+        "economical",
+        "plan"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Is this price low enough for your budget before you make the purchase?",
+      "translation_form": "¿Es este precio lo suficientemente bajo para tu presupuesto antes de hacer la compra?",
+      "highlight_words": [
+        "enough",
+        "for",
+        "budget",
+        "purchase"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Comparatives, superlatives and enough/too much in budget decisions.",
+      "title_form": "Comparativos, superlativos y cuantificadores en decisiones de presupuesto",
+      "title_target": "Comparatives, superlatives, and quantifiers in budget decisions",
+      "description_md_form": "Para tomar decisiones financieras y evaluar gastos en inglés, combinamos estructuras de comparación y cuantificación:\n\n- **Comparativos** (`more economical than`, `cheaper than`): Comparan dos opciones. Para adjetivos largos usa **more** (*more economical*) y para adjetivos cortos añade **-er** (*cheaper*).\n- **Superlativos** (`the cheapest`): Destacan la opción extrema dentro de un grupo (*the cheapest option*).\n- **Too much** + sustantivo incontable: Expresa un exceso o gasto desmedido (*spend too much money*).\n- **Enough for** + sustantivo/pronombre: Indica suficiencia para un propósito o presupuesto (*cheap enough for our family* o *enough money for a purchase*).\n\nRecuerda que **too much** va siempre antes del sustantivo, mientras que **enough** se coloca **después** de un adjetivo (*cheap enough*) o **antes** de un sustantivo (*enough money*).",
+      "description_md_target": "To make financial decisions and evaluate spending in English, we combine structures of comparison and quantification:\n\n- **Comparatives** (`more economical than`, `cheaper than`): Compare two options. Use **more** for long adjectives (*more economical*) and add **-er** for short adjectives (*cheaper*).\n- **Superlatives** (`the cheapest`): Highlight the extreme option within a group (*the cheapest option*).\n- **Too much** + uncountable noun: Expresses an excessive amount (*spend too much money*).\n- **Enough for** + noun/pronoun: Expresses sufficiency for a purpose or budget (*cheap enough for our family* or *enough money for a purchase*).\n\nRemember that **too much** always goes before the noun, whereas **enough** comes **after** an adjective (*cheap enough*) or **before** a noun (*enough money*).",
+      "grammar_structure": "More + Adj / Adj+-er | The + Adj+-est | Too much + Noun | Adj + enough for",
+      "conjugation_table": {
+        "name": "budget_comparison_structures",
+        "headers": [
+          "Estructura",
+          "Uso principal",
+          "Ejemplo práctico"
+        ],
+        "rows": [
+          [
+            "Comparative",
+            "Comparar dos opciones financieras",
+            "more economical / cheaper"
+          ],
+          [
+            "Superlative",
+            "Señalar la opción de menor o mayor costo",
+            "the cheapest option"
+          ],
+          [
+            "Too much",
+            "Indicar un exceso de gasto negativo",
+            "spend too much money"
+          ],
+          [
+            "Enough for",
+            "Expresar suficiencia para un presupuesto",
+            "cheap enough for my budget"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Comparatives, superlatives and enough/too much in budget decisions.",
+          "text_target": "We spend too much money on coffee, so we need a more economical plan for next month.",
+          "translation_form": "Gastamos demasiado dinero en café, así que necesitamos un plan más económico para el próximo mes.",
+          "highlight_words": [
+            "spend",
+            "too",
+            "much",
+            "more",
+            "economical",
+            "plan"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Comparatives, superlatives and enough/too much in budget decisions.",
+          "text_target": "Is this small apartment cheap enough for your budget before you make the purchase?",
+          "translation_form": "¿Es este apartamento pequeño lo suficientemente barato para tu presupuesto antes de hacer la compra?",
+          "highlight_words": [
+            "cheap",
+            "enough",
+            "for",
+            "budget",
+            "purchase"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "text_md": "Atención al orden de **enough**: se coloca **después** de adjetivos (*cheap enough*), pero **antes** de sustantivos (*enough money*)."
+        },
+        {
+          "type": "tip",
+          "text_md": "Usa **too much** con sustantivos incontables como *money*. Para sustantivos contables en plural usa **too many** (*too many purchases*)."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *more cheap* en lugar de *cheaper*.",
+        "Colocar *enough* antes del adjetivo (ej. escribir *enough cheap* en vez de *cheap enough*).",
+        "Usar *too many* con dinero (ej. escribir *too many money* en lugar de *too much money*)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la expresión en inglés '**spend money**'?",
+      "options": [
+        "gastar dinero",
+        "ahorrar dinero",
+        "ganar dinero",
+        "cambiar dinero"
+      ],
+      "correct_answer": "gastar dinero",
+      "explanation_md": "'Spend money' significa gastar dinero en bienes, servicios u otras necesidades.",
+      "related_lexeme_ids": [
+        "spend_money_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la opción superlativa correcta para completar la oración: 'This store has ____ price for food in town.'",
+      "options": [
+        "the cheapest",
+        "more cheap",
+        "cheapest than",
+        "too cheap"
+      ],
+      "correct_answer": "the cheapest",
+      "explanation_md": "Usamos 'the cheapest' (el más barato) como superlativo para comparar una opción con todas las demás.",
+      "related_lexeme_ids": [
+        "cheap"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada término sobre presupuestos en inglés con su traducción al español:",
+      "options": [
+        "budget",
+        "presupuesto",
+        "purchase",
+        "compra",
+        "spend money",
+        "gastar dinero",
+        "more economical",
+        "más económico"
+      ],
+      "correct_answer": [
+        "budget=presupuesto",
+        "purchase=compra",
+        "spend money=gastar dinero",
+        "more economical=más económico"
+      ],
+      "explanation_md": "Asociamos adecuadamente los términos clave de planificación financiera y compras.",
+      "related_lexeme_ids": [
+        "spend_money_phrase",
+        "cheap"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la expresión cuantitativa adecuada para indicar que el precio alcanza para el presupuesto: 'This price is low ____ our monthly budget.'",
+      "options": null,
+      "correct_answer": "enough for",
+      "explanation_md": "'Enough for' significa 'suficiente para' e indica que un costo está dentro de los límites del presupuesto.",
+      "related_lexeme_ids": [
+        "spend_money_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente oración sobre hábitos de gasto: 'Gastamos demasiado dinero en cosas que no necesitamos.'",
+      "options": null,
+      "correct_answer": "We spend too much money on things we don't need.",
+      "explanation_md": "'Spend too much money on' expresa el exceso de dinero gastado en algo determinado.",
+      "related_lexeme_ids": [
+        "spend_money_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la oración comparativa: 'This plan is more economical than buying a new car.'",
+      "options": null,
+      "correct_answer": "Este plan es más económico que comprar un coche nuevo.",
+      "explanation_md": "'More economical than' compara la eficiencia financiera de dos opciones.",
+      "related_lexeme_ids": [
+        "cheap"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha la conversación sobre decisiones de compra y responde: ¿Por qué necesitan revisar su presupuesto?",
+      "options": [
+        "Porque gastan demasiado dinero en comida.",
+        "Porque la tienda es muy insegura.",
+        "Porque no pueden hacer ninguna compra.",
+        "Porque quieren comprar un coche nuevo."
+      ],
+      "correct_answer": "Porque gastan demasiado dinero en comida.",
+      "explanation_md": "En la grabación, la persona aclara: 'We spend too much money on food.'",
+      "related_lexeme_ids": [
+        "spend_money_phrase",
+        "safe_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "We need to check our budget. We spend too much money on food. This store is safe and cheap for our purchase.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto y responde: ¿Qué ventaja tiene el apartamento que encontró la familia?",
+      "options": [
+        "Es la opción más barata y resulta más económica para ellos.",
+        "Está demasiado lejos del centro de la ciudad.",
+        "Supera el presupuesto mensual de la familia.",
+        "Es muy costoso pero tiene más espacio."
+      ],
+      "correct_answer": "Es la opción más barata y resulta más económica para ellos.",
+      "explanation_md": "El texto explica que el apartamento es 'the cheapest option' y 'more economical for us'.",
+      "related_lexeme_ids": [
+        "spend_money_phrase",
+        "cheap",
+        "safe_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Our family wants to make a decision about our monthly budget. Right now, we spend too much money on things we do not need. Last week, we found a small apartment near the city centre. It is safe and it is the cheapest option available. This choice is more economical for us. We now have enough money for our daily food and other needs.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente decisión financiera: 'Esta opción es la más barata pero es suficiente para nuestro presupuesto.'",
+      "options": null,
+      "correct_answer": "This option is the cheapest, but it is cheap enough for our budget.",
+      "explanation_md": "Combinamos el superlativo 'the cheapest' con 'cheap enough for our budget' para justificar que la opción elegida cabe en el presupuesto.",
+      "related_lexeme_ids": [
+        "cheap",
+        "spend_money_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "free_production",
+      "prompt_md": "Escribe una recomendación de 4–5 oraciones en inglés para una familia que debe elegir entre dos opciones de gasto. Compara las dos opciones, indica el coste y un beneficio de cada una, y explica cuál elegirías y por qué. Usa al menos un comparativo (como 'cheaper than' o 'more economical than'), una expresión con 'enough' o 'too much' y el vocabulario 'budget' o 'spend money'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la capacidad de comparar dos opciones, explicar claramente un coste y un beneficio de cada una y escribir una recomendación razonada dentro del presupuesto. Usa comparativos o superlativos y cuantificadores como 'enough' y 'too much' de manera natural.",
+      "related_lexeme_ids": [
+        "spend_money_phrase",
+        "cheap"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "The family can either cook at home or eat at restaurants. Cooking at home is cheaper than eating out, and it leaves enough money for other needs. Eating at a restaurant is more convenient, but it costs more and we may spend too much money. I recommend cooking at home because it is the most economical option for this month's budget.",
+        "We could choose a cheap apartment farther from the city centre or a more expensive apartment nearby. The nearby apartment is more convenient, but its rent is too high for our budget. The cheaper apartment is safe enough and leaves enough money for food. I recommend the cheaper option because saving money is more important this month."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato bilingüe en primera persona y responde: ¿Qué opción recomienda la narradora?\n\nRead the first-person story and answer: Which option does the narrator recommend?",
+      "options": [
+        "The weekly market.",
+        "The more expensive supermarket.",
+        "Both options, because they cost too much.",
+        "Neither option, because the family has no budget."
+      ],
+      "correct_answer": "The weekly market.",
+      "explanation_md": "La narradora compara los precios, dice que el mercado es la opción más barata y suficientemente asequible, y lo recomienda para el presupuesto familiar. / The narrator compares the prices, says the market is the cheapest and affordable enough, and recommends it for the family budget.",
+      "related_lexeme_ids": [
+        "spend_money_phrase",
+        "cheap"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I am planning my family's monthly budget. The weekly market is cheaper than the supermarket, but it is farther away. The supermarket is more convenient; however, we would spend too much money there. The market is the cheapest option and is affordable enough for our budget. I recommend the market.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el diálogo bilingüe en primera persona y responde: ¿Por qué eligen el plan A?\n\nListen to the first-person dialogue and answer: Why do they choose Plan A?",
+      "options": [
+        "It is cheaper and fast enough for their needs.",
+        "It is the most expensive plan available.",
+        "It makes them spend too much money this month.",
+        "It is slower and not affordable for their budget."
+      ],
+      "correct_answer": "It is cheaper and fast enough for their needs.",
+      "explanation_md": "El plan A es más barato y suficientemente rápido para sus necesidades, mientras que el plan B cuesta más. La comparación justifica la recomendación dentro del presupuesto. / Plan A is cheaper and fast enough for their needs, while Plan B costs more. The comparison justifies the recommendation within their budget.",
+      "related_lexeme_ids": [
+        "spend_money_phrase",
+        "cheap"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "A: I am comparing two internet plans for our house. Plan A is cheaper than Plan B, but it is fast enough for work and study. B: Plan B is more expensive and faster. A: We should not spend too much money this month. B: In my view, Plan A is the most economical option. A: I agree; I recommend choosing Plan A.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "spend money",
+      "back": "gastar dinero",
+      "hint": "usar dinero para comprar bienes o servicios",
+      "lexeme_id": "spend_money_phrase",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "B1",
+        "finance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "cheap",
+      "back": "barato / económica",
+      "hint": "que cuesta poco dinero",
+      "lexeme_id": "cheap",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "B1",
+        "finance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "safe",
+      "back": "seguro / segura",
+      "hint": "sin peligro o riesgo",
+      "lexeme_id": "safe_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "B1",
+        "finance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "spend too much money",
+      "back": "gastar demasiado dinero",
+      "hint": "gasto excesivo de recursos económicos",
+      "lexeme_id": "spend_money_phrase",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "B1",
+        "finance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "cheaper than",
+      "back": "más barato que",
+      "hint": "comparativo de precio menor",
+      "lexeme_id": "cheap",
+      "chunk_id": null,
+      "tags": [
+        "lesson_026",
+        "B1",
+        "finance"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "spend money",
+      "reading": "",
+      "translation": "gastar dinero",
+      "pos": "phrase",
+      "example": "We spend money on food every week, but this new store is much cheaper.",
+      "example_translation": "Gastamos dinero en comida cada semana, pero esta tienda nueva es mucho más barata.",
+      "lexeme_id": "spend_money_phrase",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "budget",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "presupuesto",
+      "lexeme_id": "budget",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "Comparatives, superlatives and enough/too much in budget decisions.",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "purchase",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "compra",
+      "lexeme_id": "purchase",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "Comparatives, superlatives and enough/too much in budget decisions.",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "too much",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Comparatives, superlatives and enough/too much in budget decisions.",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_004",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "enough for",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "Comparatives, superlatives and enough/too much in budget decisions.",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "more economical",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "Comparatives, superlatives and enough/too much in budget decisions.",
+        "ex_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "the cheapest",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_002",
+        "Comparatives, superlatives and enough/too much in budget decisions.",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "spend money",
+      "role": "support",
+      "status": "practiced",
+      "translation": "gastar dinero",
+      "lexeme_id": "spend_money_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "cheap",
+      "role": "support",
+      "status": "review",
+      "translation": "malo / barata / barato",
+      "lexeme_id": "cheap",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_002",
+        "ex_003",
+        "ex_006",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_002",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "safe",
+      "role": "support",
+      "status": "review",
+      "translation": "seguro",
+      "lexeme_id": "safe_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_008",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "spend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gastar (dinero, tiempo)",
+      "lexeme_id": "spend_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "fc_004",
+        "quiz_001:q_003",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "cheaper",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más barato",
+      "lexeme_id": "cheaper",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_005",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "option",
+      "role": "support",
+      "status": "emergent",
+      "translation": "opción",
+      "lexeme_id": "option",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_004",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_002",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "food",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comida",
+      "lexeme_id": "food",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "plan",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planear",
+      "lexeme_id": "plan_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "make",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer / fabricar",
+      "lexeme_id": "make_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "apartment",
+      "role": "support",
+      "status": "emergent",
+      "translation": "apartamento / departamento",
+      "lexeme_id": "apartment",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "store",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tienda",
+      "lexeme_id": "store",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "price",
+      "role": "support",
+      "status": "emergent",
+      "translation": "precio",
+      "lexeme_id": "price",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "low",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bajo",
+      "lexeme_id": "low_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "decision",
+      "role": "support",
+      "status": "emergent",
+      "translation": "decisión",
+      "lexeme_id": "decision",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "recommend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "recomendación",
+      "lexeme_id": "recommend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "save",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahorrar / salvar",
+      "lexeme_id": "save_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "convenient",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conveniente",
+      "lexeme_id": "convenient",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "cost",
+      "role": "support",
+      "status": "emergent",
+      "translation": "costar",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "choice",
+      "role": "support",
+      "status": "emergent",
+      "translation": "elección",
+      "lexeme_id": "choice",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "expensive",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caro / costoso",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "eat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comer",
+      "lexeme_id": "eat_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "cooking",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocinar (actividad)",
+      "lexeme_id": "cooking",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "restaurant",
+      "role": "support",
+      "status": "emergent",
+      "translation": "restaurante",
+      "lexeme_id": "restaurant",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "cook",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocinar",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "affordable",
+      "role": "support",
+      "status": "emergent",
+      "translation": "asequible / económico",
+      "lexeme_id": "affordable_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 2,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "spend",
+      "cheaper",
+      "option",
+      "need",
+      "family",
+      "food",
+      "plan",
+      "make",
+      "apartment",
+      "week",
+      "small",
+      "store",
+      "coffee",
+      "price",
+      "low",
+      "decision",
+      "recommend",
+      "save",
+      "convenient",
+      "cost",
+      "choice",
+      "expensive",
+      "city",
+      "home",
+      "want",
+      "eat",
+      "study",
+      "cooking",
+      "restaurant",
+      "person",
+      "cook",
+      "affordable"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Hablar de un presupuesto",
+      "title_target": "Quiz: Discussing money plans",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la combinación de palabras correcta para decir 'gastar dinero en comida'?",
+          "prompt_target": null,
+          "options": [
+            "spend money on food",
+            "spend money in food",
+            "spend money for food",
+            "spend money at food"
+          ],
+          "correct_answer": "spend money on food",
+          "explanation_form": "En inglés, el verbo 'spend' usa la preposición 'on' cuando indicamos en qué se gasta el dinero.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "spend_money_phrase"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Por qué prefieren cocinar en casa según lo escuchado?",
+          "prompt_target": null,
+          "options": [
+            "Porque cocinar en casa es más barato que comer en restaurantes.",
+            "Porque no tienen tiempo para ir a un restaurante.",
+            "Porque la comida de los restaurantes es mala.",
+            "Porque prefieren comer fuera de casa."
+          ],
+          "correct_answer": "Porque cocinar en casa es más barato que comer en restaurantes.",
+          "explanation_form": "En el audio se menciona 'Cooking at home is cheaper than eating at restaurants', destacando el ahorro.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Comparatives, superlatives and enough/too much in budget decisions."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "We need to save money this month. Cooking at home is cheaper than eating at restaurants. It is a good choice for our plan.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿En qué gasta demasiado dinero el hermano según la conversación?",
+          "prompt_target": null,
+          "options": [
+            "En juegos.",
+            "En su renta.",
+            "En comida.",
+            "En viajes."
+          ],
+          "correct_answer": "En juegos.",
+          "explanation_form": "El hablante dice 'My brother spends too much money on games', indicando un gasto excesivo en juegos.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "spend_money_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "My brother spends too much money on games. He should save more cash for his rent and food. I always advise him to make a plan.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Por qué es importante verificar si un auto barato es seguro según el texto?",
+          "prompt_target": null,
+          "options": [
+            "Porque un auto que no es seguro puede traer grandes problemas.",
+            "Porque los autos baratos siempre son más lentos.",
+            "Porque los autos caros nunca necesitan revisión.",
+            "Porque es obligatorio comprar la opción más costosa."
+          ],
+          "correct_answer": "Porque un auto que no es seguro puede traer grandes problemas.",
+          "explanation_form": "El texto explica que 'A car that is not safe can bring big problems', enfatizando la seguridad al tomar decisiones de presupuesto.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Comparatives, superlatives and enough/too much in budget decisions.",
+            "cheap",
+            "safe_adj"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Many people try to save money every month. Buying a cheap car is sometimes better than buying an expensive one. However, you must check if it is safe. A car that is not safe can bring big problems. Finding an affordable and safe option is the best decision for your family.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la oración con la palabra adecuada para indicar gasto excesivo: 'We spend ____ much money on restaurants.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "too",
+          "explanation_form": "Usamos la estructura 'too much' delante de sustantivos incontables como 'money' para indicar una cantidad excesiva.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "Comparatives, superlatives and enough/too much in budget decisions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra o frase en inglés con su traducción correcta:",
+          "prompt_target": null,
+          "options": [
+            "cheap",
+            "barato",
+            "safe",
+            "seguro",
+            "spend money",
+            "gastar dinero"
+          ],
+          "correct_answer": [
+            "cheap=barato",
+            "safe=seguro",
+            "spend money=gastar dinero"
+          ],
+          "explanation_form": "'cheap' significa barato, 'safe' significa seguro y 'spend money' expresa gastar dinero.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cheap",
+            "safe_adj",
+            "spend_money_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración comparativa correcta sobre tomar decisiones de ahorro:",
+          "prompt_target": null,
+          "options": [
+            "Cooking",
+            "at",
+            "home",
+            "is",
+            "cheaper",
+            "than",
+            "eating",
+            "out."
+          ],
+          "correct_answer": "Cooking at home is cheaper than eating out.",
+          "explanation_form": "La estructura comparativa regular requiere el adjetivo con sufijo '-er' (cheaper) seguido de la partícula 'than'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Comparatives, superlatives and enough/too much in budget decisions."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce la siguiente oración al inglés: 'No tenemos suficiente dinero para este viaje.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "We do not have enough money for this trip.",
+          "explanation_form": "'enough' se coloca antes del sustantivo 'money' para indicar cantidad suficiente.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Comparatives, superlatives and enough/too much in budget decisions."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma superlativa correcta de 'cheap' para referirse a la opción con el menor costo?",
+          "prompt_target": null,
+          "options": [
+            "the cheapest",
+            "the most cheap",
+            "cheaper",
+            "more cheap"
+          ],
+          "correct_answer": "the cheapest",
+          "explanation_form": "Para adjetivos cortos de una sola sílaba como 'cheap', el superlativo se forma anteponiendo 'the' y agregando el sufijo '-est'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Comparatives, superlatives and enough/too much in budget decisions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato en primera persona: ¿Qué opción recomienda la narradora para su curso nocturno?",
+          "prompt_target": "Read the first-person story: Which option does the narrator recommend for her evening course?",
+          "options": [
+            "The printed book.",
+            "The more expensive tablet.",
+            "Both options because she wants to spend too much money.",
+            "Neither option because the budget is unlimited."
+          ],
+          "correct_answer": "The printed book.",
+          "explanation_form": "La narradora compara el libro y la tableta, explica que el libro es suficientemente barato y recomienda la opción más económica.",
+          "explanation_target": "The narrator compares the book and the tablet, explains that the book is cheap enough, and recommends the more economical option.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "Comparatives, superlatives and enough/too much in budget decisions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I am comparing two options for my evening course. A printed book costs less than a tablet, but the tablet is more convenient. The book is cheap enough for my budget, and I do not want to spend too much money this month. In my view, the book is the most economical choice, so I recommend buying it.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el diálogo en primera persona: ¿Por qué recomienda la persona estudiar en la biblioteca?",
+          "prompt_target": "Listen to the first-person dialogue: Why does the speaker recommend studying at the library?",
+          "options": [
+            "It is the cheapest option, and the café would cost too much.",
+            "It is more expensive than the café.",
+            "It is the only place where people can study.",
+            "It gives the speaker enough money to buy a new car."
+          ],
+          "correct_answer": "It is the cheapest option, and the café would cost too much.",
+          "explanation_form": "La persona dice que la cafetería costaría demasiado y que la biblioteca es la opción más barata para su presupuesto.",
+          "explanation_target": "The speaker says that the café would cost too much and that the library is the cheapest option for the budget.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "Comparatives, superlatives and enough/too much in budget decisions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "A: I need to choose a place to study. The library is free, but the café is more convenient. B: Is the café cheap enough for your budget? A: No, I would spend too much money there. The library is the cheapest option, so I recommend studying there. B: That sounds sensible.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cómo expresar decisiones de presupuesto\n\nPara justificar tus decisiones financieras en inglés, combiná comparativos con expresiones de cantidad:\n- **Enough** va después de adjetivos (*safe enough*) pero antes de sustantivos (*enough money*).\n- **Too much** indica un gasto excesivo (*We spend too much money*).\n\n## Ojo con la preposición\n\nEn español decimos \"gastar dinero **en**\", pero en inglés la frase fija es **spend money on**:\n- Correcto: *I spend money **on** cheap items.*\n- Incorrecto: *I spend money **in** cheap items.*",
+  "metadata": {
+    "generated_at": "2026-08-29T18:35:47Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

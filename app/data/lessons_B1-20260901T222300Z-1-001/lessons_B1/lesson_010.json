@@ -1,0 +1,1577 @@
+{
+  "id": "lesson_010",
+  "position": 10,
+  "unit_id": 4,
+  "course_id": "en.B1",
+  "title_form": "Dar consejos sobre bienestar",
+  "title_target": "Giving advice about wellbeing",
+  "theme_focus": "health and wellbeing",
+  "learning_objectives": [
+    "Can give and respond to straightforward advice about a familiar health habit."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_009"
+  ],
+  "grammar_focus": [
+    "Should, ought to, must and might for advice, obligation and possibility."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "recommendation"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "prefer_2"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "health habit",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the health and wellbeing situation."
+      },
+      {
+        "term": "wellbeing",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the health and wellbeing situation."
+      },
+      {
+        "term": "you should",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "if I were you",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "should",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "might",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Elena habla con su compañero de trabajo Carlos sobre el estrés y la falta de sueño. Carlos le da consejos sobre hábitos de salud y le recomienda cambios en su rutina diaria para mejorar su bienestar. Elena escucha las sugerencias y comparte sus preferencias para estar más saludable.",
+  "introduction_md": "En esta lección aprenderás a dar y responder a consejos sobre la salud y el bienestar de forma clara y natural en inglés. En la vida diaria, a menudo compartimos hábitos saludables con amigos, compañeros de trabajo o familiares.\n\nPara expresar recomendaciones y posibilidades, utilizaremos verbos modales clave como **should**, **ought to**, **must** y **might**. También aprenderás estructuras muy útiles como *if I were you* (si fuera tú) y el sustantivo **recommendation** (recomendación).\n\nAl finalizar la lección, serás capaz de:\n- Dar consejos sencillos sobre hábitos de salud (como el sueño, la dieta o el ejercicio).\n- Expresar obligación suave y sugerencias de bienestar.\n- Responder adecuadamente a los consejos de otras personas.\n\n¡Empieza a practicar y mejora tus habilidades para cuidar tu salud y la de los demás en inglés!",
+  "intro_target": "In this lesson, you will learn how to give and respond to advice about health and wellbeing clearly and naturally in English. In daily life, we often share healthy habits with friends, coworkers, or family members.\n\nTo express recommendations and possibilities, we will use key modal verbs such as **should**, **ought to**, **must**, and **might**. You will also learn very useful structures like *if I were you* and the noun **recommendation**.\n\nBy the end of the lesson, you will be able to:\n- Give simple advice about health habits (such as sleep, diet, or exercise).\n- Express mild obligation and wellbeing suggestions.\n- Respond appropriately to advice from other people.\n\nStart practicing now and improve your skills to take care of your health and others in English!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "recommendation",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My doctor gave me a useful recommendation to change my health habits and support my wellbeing.",
+      "translation_form": "Mi doctor me dio una recomendación útil para cambiar mi hábito de salud y apoyar mi bienestar.",
+      "highlight_words": [
+        "recommendation"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If I were you, I would change that bad habit because I prefer eating healthy food for better wellbeing.",
+      "translation_form": "Si yo fuera tú, cambiaría ese mal hábito porque prefiero comer comida saludable para un mejor bienestar.",
+      "highlight_words": [
+        "prefer"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You might feel tired today, so you should rest if you prefer to protect your health.",
+      "translation_form": "Podrías sentirte cansado hoy, así que deberías descansar si prefieres proteger tu salud.",
+      "highlight_words": [
+        "prefer"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "recommendation",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You must follow this recommendation from your doctor to protect your health.",
+      "translation_form": "Debes seguir esta recomendación de tu doctor para proteger tu hábito de salud.",
+      "highlight_words": [
+        "recommendation"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Should, ought to, must and might for advice, obligation and possibility.",
+      "title_form": "Uso de 'should', 'ought to', 'must' y 'might' para consejos, obligación y posibilidad",
+      "title_target": "Using 'should', 'ought to', 'must', and 'might' for advice, obligation, and possibility",
+      "description_md_form": "En inglés, utilizamos verbos modales específicos para dar consejos, expresar obligación o indicar posibilidad sobre nuestro bienestar y hábitos diarios.\n\n- **Should** y **Ought to**: Ambos se utilizan para dar un consejo o recomendación sobre la salud. La diferencia principal radica en que *ought to* es más formal y siempre lleva *to* antes del verbo base.\n- **Must**: Expresa una obligación fuerte o una regla importante que se debe seguir para proteger la salud.\n- **Might**: Expresa una posibilidad. Se usa cuando algo es posible, pero no completamente seguro.\n\nTodos estos verbos modales (excepto *ought to*) van seguidos directamente por el verbo principal en infinitivo sin *to*. Además, mantienen la misma forma para todas las personas gramaticales.",
+      "description_md_target": "In English, we use modal verbs to give advice, express obligation, or show possibility about health habits and wellbeing.\n\n- **Should** and **Ought to**: Both modal verbs are used to give friendly advice or recommendations. Notice that *ought to* is more formal and always includes *to* before the base verb.\n- **Must**: Expresses a strong obligation or an important rule that you need to follow.\n- **Might**: Expresses a possibility. You use it when something is possible, but not certain.\n\nThese modal verbs (except *ought to*) are followed by a base verb without *to*. They do not change form with different pronouns.",
+      "grammar_structure": "Subject + modal verb (should / ought to / must / might) + base verb",
+      "conjugation_table": {
+        "name": "modal_verbs_wellbeing",
+        "headers": [
+          "Verbo modal",
+          "Uso principal",
+          "Ejemplo en inglés"
+        ],
+        "rows": [
+          [
+            "should",
+            "Consejo o sugerencia",
+            "You should rest today."
+          ],
+          [
+            "ought to",
+            "Consejo formal",
+            "You ought to rest today."
+          ],
+          [
+            "must",
+            "Obligación fuerte",
+            "You must follow the rule."
+          ],
+          [
+            "might",
+            "Posibilidad",
+            "You might feel tired."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Should, ought to, must and might for advice, obligation and possibility.",
+          "text_target": "You might feel tired today, so you should rest if you prefer to protect your health.",
+          "translation_form": "Podrías sentirte cansado hoy, así que deberías descansar si prefieres proteger tu salud.",
+          "highlight_words": [
+            "might",
+            "should"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Should, ought to, must and might for advice, obligation and possibility.",
+          "text_target": "You must follow this recommendation from your doctor to protect your health.",
+          "translation_form": "Debes seguir esta recomendación de tu doctor para proteger tu salud.",
+          "highlight_words": [
+            "must"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "No agregues **to** después de *should*, *must* o *might*. Decimos `you should rest`, NO `you should to rest`. La única excepción en este grupo es *ought to*."
+        },
+        {
+          "type": "tip",
+          "text_md": "Recuerda que los verbos modales no añaden **-s** en la tercera persona (*he*, *she*, *it*). Decimos `she should rest`, nunca `she shoulds rest`."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'to' después de 'should' o 'must' (ej. 'You should to sleep' en vez de 'You should sleep').",
+        "Olvidar incluir 'to' al usar 'ought' (ej. 'You ought sleep' en vez de 'You ought to sleep').",
+        "Añadir '-s' a la tercera persona en verbos modales (ej. 'He musts go' en vez de 'He must go')."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'recommendation' en español?",
+      "options": [
+        "recomendación",
+        "recordar",
+        "recibir",
+        "recuperar"
+      ],
+      "correct_answer": "recomendación",
+      "explanation_md": "'Recommendation' es un sustantivo que significa una sugerencia o consejo beneficioso.",
+      "related_lexeme_ids": [
+        "recommendation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la oración correcta para dar un consejo sobre hábitos de salud:",
+      "options": [
+        "You should drink more water for your health.",
+        "You must drink water to lose keys.",
+        "You might drink water past midnight only.",
+        "You ought drink water without sleep."
+      ],
+      "correct_answer": "You should drink more water for your health.",
+      "explanation_md": "Usamos 'should' para dar consejos útiles sobre la salud y el bienestar de una persona.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada término en inglés con su traducción al español:",
+      "options": [
+        "recommendation",
+        "recomendación",
+        "wellbeing",
+        "bienestar",
+        "health habit",
+        "hábito de salud",
+        "advice",
+        "consejo"
+      ],
+      "correct_answer": [
+        "recommendation=recomendación",
+        "wellbeing=bienestar",
+        "health habit=hábito de salud",
+        "advice=consejo"
+      ],
+      "explanation_md": "Relacionamos el vocabulario clave para ofrecer consejos sobre la salud.",
+      "related_lexeme_ids": [
+        "recommendation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la palabra en inglés para 'hábito': 'If I were you, I would change this bad ____.'",
+      "options": null,
+      "correct_answer": "habit",
+      "explanation_md": "'Habit' significa hábito. La combinación 'health habit' expresa una costumbre saludable.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la siguiente recomendación de salud: 'You should rest if you feel tired today.'",
+      "options": null,
+      "correct_answer": "Deberías descansar si te sientes cansado hoy.",
+      "explanation_md": "'You should rest' equivale a 'Deberías descansar' para dar una sugerencia amable.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés utilizando la estructura condicional: 'Si yo fuera tú, preferiría comer comida saludable.'",
+      "options": null,
+      "correct_answer": "If I were you, I would prefer to eat healthy food.",
+      "explanation_md": "'If I were you' es la fórmula habitual para aconsejar poniéndote en el lugar del otro.",
+      "related_lexeme_ids": [
+        "prefer_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el audio y responde: ¿Qué recomienda la persona para mejorar el bienestar?",
+      "options": [
+        "Beber agua y descansar temprano",
+        "Trabajar más tiempo por la noche",
+        "Comer comida rápida en la calle",
+        "Hacer ejercicio sin descansar"
+      ],
+      "correct_answer": "Beber agua y descansar temprano",
+      "explanation_md": "En la grabación se da la recomendación de beber agua y descansar temprano para cuidar el bienestar personal.",
+      "related_lexeme_ids": [
+        "recommendation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "You look tired today. You should drink water and rest early. My recommendation is to follow a simple health habit for your wellbeing.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto y responde: ¿Por qué el médico aconseja hacer cambios en la rutina?",
+      "options": [
+        "Porque el hábito de salud diario del paciente no era bueno",
+        "Porque el paciente quería comprar medicamentos costosos",
+        "Porque el doctor quería cancelar la consulta médica",
+        "Porque el paciente prefería trabajar durante la noche"
+      ],
+      "correct_answer": "Porque el hábito de salud diario del paciente no era bueno",
+      "explanation_md": "El texto aclara que el hábito diario no era adecuado y por ello se recomiendan cambios positivos.",
+      "related_lexeme_ids": [
+        "recommendation",
+        "prefer_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "My doctor gave me a great recommendation last week. He said that my daily health habit was not good. If I were you, I would walk more and sleep early, he told me. You must care for your body and your wellbeing. Now I prefer eating fresh food and resting well every night.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la oración que expresa una recomendación o deber médico firme:",
+      "options": [
+        "You must follow this recommendation from your doctor to protect your health.",
+        "You might follow a friend's recommendation if you prefer herbal tea.",
+        "You should to drink milk every single minute.",
+        "You ought follow doctors without feeling tired."
+      ],
+      "correct_answer": "You must follow this recommendation from your doctor to protect your health.",
+      "explanation_md": "El modal 'must' indica una obligación o recomendación muy importante.",
+      "related_lexeme_ids": [
+        "recommendation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "free_production",
+      "prompt_md": "Escribe 2 oraciones en inglés para dar un consejo de bienestar a un amigo. Utiliza estructuras como 'you should' o 'if I were you'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la producción correcta empleando modales de consejo junto con vocabulario de salud.",
+      "related_lexeme_ids": [
+        "prefer_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "You should rest if you feel tired today.",
+        "If I were you, I would prefer to drink more water for my health."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato bilingüe en primera persona y responde: ¿Qué dice la narradora que debería hacer?\n\nRead the first-person story and answer: What does the narrator say she should do?",
+      "options": [
+        "I should take a short walk after work and drink more water.",
+        "I must work late and skip dinner.",
+        "I might stop drinking water.",
+        "I ought to cancel every appointment."
+      ],
+      "correct_answer": "I should take a short walk after work and drink more water.",
+      "explanation_md": "La narradora dice 'I should take a short walk after work and drink more water', una recomendación para cuidar su bienestar. / The narrator says 'I should take a short walk after work and drink more water', a recommendation for her wellbeing.",
+      "related_lexeme_ids": [
+        "recommendation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I work at a desk all day, and I feel tired by the evening. My doctor gave me a recommendation: I should take a short walk after work and drink more water. I must stop checking my phone before bed. If I still feel tired tomorrow, I might call the doctor.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el diálogo bilingüe en primera persona y responde: ¿Qué recomienda la persona?\n\nListen to the first-person dialogue and answer: What does the speaker recommend?",
+      "options": [
+        "The speaker ought to rest for a while and eat something fresh.",
+        "The speaker must work all night.",
+        "The speaker might go to the gym later.",
+        "The speaker should travel tonight."
+      ],
+      "correct_answer": "The speaker ought to rest for a while and eat something fresh.",
+      "explanation_md": "La persona recomienda descansar y comer algo fresco con 'ought to'; también usa 'must' para una obligación y 'might' para una posibilidad. / The speaker recommends resting and eating something fresh with 'ought to'; she also uses 'must' for an obligation and 'might' for a possibility.",
+      "related_lexeme_ids": [
+        "recommendation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "A: I feel stressed after work. B: You ought to rest for a while and eat something fresh. You must not work all night. A: I might go to the gym later. B: That is possible, but you should stop if you feel worse.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "recommendation",
+      "back": "recomendación",
+      "hint": "sugerencia o consejo que se le da a alguien",
+      "lexeme_id": "recommendation",
+      "chunk_id": null,
+      "tags": [
+        "lesson_010",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "prefer",
+      "back": "preferir",
+      "hint": "elegir una opción sobre otra",
+      "lexeme_id": "prefer_2",
+      "chunk_id": null,
+      "tags": [
+        "lesson_010",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "concern",
+      "back": "preocupar",
+      "hint": "causar preocupación por una persona o situación",
+      "lexeme_id": "concern_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_010",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "I have just finished.",
+      "back": "Acabo de terminar.",
+      "hint": "acción que acaba de completarse",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_i_have_just",
+      "tags": [
+        "lesson_010",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "What do you think?",
+      "back": "¿Qué piensas?",
+      "hint": "pregunta para conocer la opinión de otra persona",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_what_do_you_think",
+      "tags": [
+        "lesson_010",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "recommendation",
+      "reading": "",
+      "translation": "recomendación",
+      "pos": "noun",
+      "example": "My doctor gave me a useful recommendation to change my health habits and support my wellbeing.",
+      "example_translation": "Mi doctor me dio una recomendación útil para cambiar mi hábito de salud y apoyar mi bienestar.",
+      "lexeme_id": "recommendation",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "health habit",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "ex_007",
+        "ex_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "wellbeing",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_002",
+        "Should, ought to, must and might for advice, obligation and possibility.",
+        "ex_007",
+        "ex_008",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "you should",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "Should, ought to, must and might for advice, obligation and possibility.",
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_004",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "if I were you",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "ex_008",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "should",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "debería (consejo / obligación suave)",
+      "lexeme_id": "should_modal",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Should, ought to, must and might for advice, obligation and possibility.",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "might",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "podría (posibilidad remota)",
+      "lexeme_id": "might_modal",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Should, ought to, must and might for advice, obligation and possibility.",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "recommend",
+      "role": "support",
+      "status": "practiced",
+      "translation": "recomendación",
+      "lexeme_id": "recommend",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "recommendation",
+      "role": "support",
+      "status": "review",
+      "translation": "recomendación",
+      "lexeme_id": "recommendation",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_001",
+        "ex_003",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "prefer",
+      "role": "support",
+      "status": "review",
+      "translation": "preferir",
+      "lexeme_id": "prefer_2",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_006",
+        "ex_008",
+        "ex_010",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "concern",
+      "role": "support",
+      "status": "review",
+      "translation": "preocupar",
+      "lexeme_id": "concern_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "I have just finished.",
+      "role": "support",
+      "status": "review",
+      "translation": "Acabo de terminar.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_i_have_just",
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "What do you think?",
+      "role": "support",
+      "status": "review",
+      "translation": "¿Qué piensas?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_what_do_you_think",
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "prefer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_003",
+        "ex_008",
+        "ex_010",
+        "fc_002",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_005",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "protect",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proteger",
+      "lexeme_id": "protect_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_004"
+      ]
+    },
+    {
+      "term": "feel",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sentir",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "rest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "descansar",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_005",
+        "quiz_001:q_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "eat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comer",
+      "lexeme_id": "eat_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "ex_012",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "feel tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sentirse cansado",
+      "lexeme_id": "feel_tired_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_010",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "food",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comida",
+      "lexeme_id": "food",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "follow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "seguir",
+      "lexeme_id": "follow_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_007",
+        "quiz_001:q_003",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "better",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mejor",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "think",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pensar / creer",
+      "lexeme_id": "think_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "bad",
+      "role": "support",
+      "status": "emergent",
+      "translation": "malo",
+      "lexeme_id": "bad_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "support",
+      "role": "support",
+      "status": "emergent",
+      "translation": "apoyar / apoyo",
+      "lexeme_id": "support",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "useful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "útil",
+      "lexeme_id": "useful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "drink",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "ought",
+      "role": "support",
+      "status": "emergent",
+      "translation": "deber",
+      "lexeme_id": "ought",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "water",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agua",
+      "lexeme_id": "water",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "obligation",
+      "role": "support",
+      "status": "emergent",
+      "translation": "obligación",
+      "lexeme_id": "obligation",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "advice",
+      "role": "support",
+      "status": "emergent",
+      "translation": "consejo",
+      "lexeme_id": "advice",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "possibility",
+      "role": "support",
+      "status": "emergent",
+      "translation": "posibilidad",
+      "lexeme_id": "possibility",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "walk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caminar",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "give",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dar",
+      "lexeme_id": "give_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "stop",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "fresh",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fresco",
+      "lexeme_id": "fresh_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_012",
+        "quiz_001:q_004"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 5,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "prefer",
+      "doctor",
+      "protect",
+      "feel",
+      "rest",
+      "tire",
+      "tired",
+      "eat",
+      "feel tired",
+      "today",
+      "food",
+      "follow",
+      "better",
+      "think",
+      "bad",
+      "finish",
+      "support",
+      "useful",
+      "drink",
+      "ought",
+      "water",
+      "obligation",
+      "advice",
+      "possibility",
+      "work",
+      "walk",
+      "give",
+      "stop",
+      "day",
+      "call",
+      "person",
+      "fresh"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Dar consejos sobre bienestar",
+      "title_target": "Quiz: Giving advice about wellbeing",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la estructura correcta para expresar una recomendación saludable usando 'recommendation'?",
+          "prompt_target": "Which sentence correctly expresses a healthy recommendation using 'recommendation'?",
+          "options": [
+            "My doctor gave me a useful recommendation.",
+            "My doctor gave me useful recommendation.",
+            "My doctor recommended a useful.",
+            "My doctor gave me recommendation useful."
+          ],
+          "correct_answer": "My doctor gave me a useful recommendation.",
+          "explanation_form": "'Recommendation' es un sustantivo; después de 'a' usamos 'recommendation' para nombrar la sugerencia recibida.",
+          "explanation_target": "'Recommendation' is a noun; after 'a' we use 'recommendation' to name the suggestion received.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "recommendation"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa el consejo para indicar una sugerencia recomendada: 'You ____ drink more water every day if you feel tired.'",
+          "prompt_target": "Fill in the advice: 'You ____ drink more water every day if you feel tired.'",
+          "options": null,
+          "correct_answer": "should",
+          "explanation_form": "Usamos 'should' para dar consejos generales o recomendaciones amables sobre el bienestar.",
+          "explanation_target": "We use 'should' to give general advice or friendly recommendations about wellbeing.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Should, ought to, must and might for advice, obligation and possibility."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una recomendación formal sobre salud:",
+          "prompt_target": "Put the words in order to make a formal health recommendation:",
+          "options": [
+            "You",
+            "ought",
+            "to",
+            "see",
+            "a",
+            "doctor"
+          ],
+          "correct_answer": "You ought to see a doctor",
+          "explanation_form": "'Ought to' expresa una sugerencia o recomendación formal y siempre va seguido de la partícula 'to' más el verbo en infinitivo.",
+          "explanation_target": "'Ought to' expresses a formal recommendation and is always followed by 'to' plus infinitive.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Should, ought to, must and might for advice, obligation and possibility."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué actividad específica incluye la recomendación del hablante para sentirse mejor diariamente?",
+          "prompt_target": "What specific activity is included in the speaker's recommendation to feel better every day?",
+          "options": [
+            "Caminar treinta minutos",
+            "Dormir ocho horas",
+            "Correr por la mañana",
+            "Ir al gimnasio"
+          ],
+          "correct_answer": "Caminar treinta minutos",
+          "explanation_form": "La recomendación del hablante es caminar treinta minutos cada día.",
+          "explanation_target": "The speaker's recommendation is to walk for thirty minutes every day.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "recommendation"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "If you want to feel better, my recommendation is to walk for thirty minutes every day. You should also drink enough water and eat fresh fruit.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "reading_comprehension",
+          "prompt_form": "Según el texto, ¿cuándo se aconseja llamar al médico?",
+          "prompt_target": "According to the text, when is it advised to call a doctor?",
+          "options": [
+            "Si la fiebre no baja después de dos días",
+            "Inmediatamente al primer síntoma",
+            "Si no puedes tomar té caliente",
+            "Después de descansar una semana entera"
+          ],
+          "correct_answer": "Si la fiebre no baja después de dos días",
+          "explanation_form": "El texto especifica 'You ought to call a doctor if your fever does not drop after two days'.",
+          "explanation_target": "The text specifies 'You ought to call a doctor if your fever does not drop after two days'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Should, ought to, must and might for advice, obligation and possibility."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": "When you feel sick, you must rest at home. You might have a cold or the flu. My recommendation is to drink hot tea and eat light food like soup. You ought to call a doctor if your fever does not drop after two days.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce al español la preferencia expresada: 'I prefer walking in the park to going to the gym.'",
+          "prompt_target": "Translate to Spanish: 'I prefer walking in the park to going to the gym.'",
+          "options": null,
+          "correct_answer": "Prefiero caminar en el parque a ir al gimnasio.",
+          "explanation_form": "Recordá que 'prefer X to Y' se traduce como 'preferir X a Y'.",
+          "explanation_target": "Remember that 'prefer X to Y' translates as 'preferir X a Y'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "prefer_2"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo modal con su matiz en los consejos sobre bienestar:",
+          "prompt_target": "Match each modal verb with its nuance when giving health advice:",
+          "options": [
+            "must",
+            "obligación o imperativo fuerte",
+            "should",
+            "consejo o recomendación general",
+            "might",
+            "posibilidad o hipótesis"
+          ],
+          "correct_answer": [
+            "must=obligación o imperativo fuerte",
+            "should=consejo o recomendación general",
+            "might=posibilidad o hipótesis"
+          ],
+          "explanation_form": "'Must' indica necesidad o fuerte recomendación, 'should' un consejo habitual y 'might' una posibilidad.",
+          "explanation_target": "'Must' indicates strong necessity or advice, 'should' regular advice, and 'might' possibility.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Should, ought to, must and might for advice, obligation and possibility."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Por qué se enfatiza que la persona DEBE descansar de inmediato?",
+          "prompt_target": "Why is it emphasized that the person MUST rest right away?",
+          "options": [
+            "Porque se ve muy cansada y podría resfriarse si continúa trabajando",
+            "Porque la oficina ya está cerrada por la noche",
+            "Porque tiene que ir al médico inmediatamente",
+            "Porque debe preparar la cena en casa"
+          ],
+          "correct_answer": "Porque se ve muy cansada y podría resfriarse si continúa trabajando",
+          "explanation_form": "En el audio se escucha que se ve muy cansada ('look very tired') y que 'might catch a cold if you continue working'.",
+          "explanation_target": "In the audio you hear that the person looks very tired and 'might catch a cold if you continue working'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Should, ought to, must and might for advice, obligation and possibility."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "You look very tired today. You must stop working now and get some rest. You might catch a cold if you continue working without sleeping.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'El médico me dio una recomendación para comer comida saludable.'",
+          "prompt_target": "Translate into English: 'The doctor gave me a recommendation to eat healthy food.'",
+          "options": null,
+          "correct_answer": "The doctor gave me a recommendation to eat healthy food.",
+          "explanation_form": "En inglés, 'recommendation' es un sustantivo y va después de 'a'; usamos 'to eat' para expresar la acción recomendada.",
+          "explanation_target": "In English, 'recommendation' is a noun and follows 'a'; we use 'to eat' to express the recommended action.",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "recommendation"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato en primera persona: ¿Qué dice la narradora que debería hacer antes de dormir?",
+          "prompt_target": "Read the first-person story: What does the narrator say she should do before bed?",
+          "options": [
+            "She ought to stop using her phone before bed.",
+            "She must work all night.",
+            "She might stop drinking water.",
+            "She should travel tonight."
+          ],
+          "correct_answer": "She ought to stop using her phone before bed.",
+          "explanation_form": "La narradora usa 'ought to' para recomendar que deje de usar el teléfono antes de dormir.",
+          "explanation_target": "The narrator uses 'ought to' to recommend stopping phone use before bed.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "Should, ought to, must and might for advice, obligation and possibility."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I often work late, and I feel tired in the morning. My sister gives me advice: I ought to stop using my phone before bed, and I should drink water when I wake up. I must change this health habit. If I still feel tired tomorrow, I might call my doctor.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el diálogo en primera persona: ¿Qué consejo da la persona?",
+          "prompt_target": "Listen to the first-person dialogue: What advice does the speaker give?",
+          "options": [
+            "The speaker should rest before dinner and drink some water.",
+            "The speaker must work late tonight.",
+            "The speaker might skip dinner.",
+            "The speaker should travel tomorrow."
+          ],
+          "correct_answer": "The speaker should rest before dinner and drink some water.",
+          "explanation_form": "La persona recomienda descansar antes de cenar y beber agua con 'should'.",
+          "explanation_target": "The speaker recommends resting before dinner and drinking water with 'should'.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "Should, ought to, must and might for advice, obligation and possibility."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "A: I feel stressed after work. B: You should rest before dinner and drink some water. You must take your medicine on time, too. A: I might go for a walk later. B: That is possible, but rest first.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Matices al dar consejos: ¿Qué tan fuerte es tu recomendación?\n\nEn inglés, el verbo modal que elijas cambia la intensidad de tu consejo:\n- **Should** / **Ought to**: Expresan una recomendación amable o lo ideal (\"You should sleep more\" / \"You ought to rest\"). Recuerda que *ought* siempre se acompaña de *to*.\n- **Must**: Expresa una recomendación muy fuerte o urgente por salud (\"You must see a doctor\").\n- **Might**: Sugiere una posibilidad suave o una alternativa opcional (\"You might try meditation\").\n\n## Cómo usar el sustantivo \"recommendation\"\n\nEl sustantivo **recommendation** es clave al hablar de salud y bienestar. Presta atención a cómo se construye en la oración:\n- **Con un artículo**: \"My doctor gave me a recommendation about my health habits\" (Mi médico me dio una recomendación sobre mis hábitos de salud).\n- **Con una acción recomendada**: \"My recommendation is to drink more water\" (Mi recomendación es beber más agua).\n- **Error común**: No confundas la forma verbal *recommend* con el sustantivo; después de un artículo usa *recommendation*.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:24:06Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

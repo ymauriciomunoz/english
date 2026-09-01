@@ -1,0 +1,1599 @@
+{
+  "id": "lesson_024",
+  "position": 24,
+  "unit_id": 4,
+  "course_id": "en.A1",
+  "title_form": "Cuantificadores some/any",
+  "title_target": "Using Some and Any",
+  "theme_focus": "Uso de some y any con sustantivos contables e incontables.",
+  "learning_objectives": [
+    "Can use 'some' and 'any' with countable and uncountable nouns.",
+    "Can ask for things using 'some' and 'any'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_021"
+  ],
+  "grammar_focus": [
+    "some/any: affirmative and questions"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "some_det_pron",
+        "any_det_pron",
+        "much_det_pron",
+        "many_det_pron",
+        "all_det_pron",
+        "glass",
+        "bottle",
+        "cup",
+        "sugar",
+        "information"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "water",
+        "coffee",
+        "tea",
+        "juice",
+        "food",
+        "vegetable"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana está en su casa preparando una merienda para sus amigos. Revisa la cocina y descubre que le falta azúcar y no tiene suficiente jugo. Llama a su amigo Tom para pedirle ayuda y juntos van a la tienda a comprar lo que necesitan.",
+  "introduction_md": "En esta lección vas a aprender a usar **some** y **any** para hablar de cantidades. Son palabras muy útiles para pedir cosas en un café, en una tienda o en la cocina de tu casa.\n\n- **Some** se usa en oraciones afirmativas: *I have some sugar.*\n- **Any** se usa en preguntas y negaciones: *Do you have any tea?*\n\nTambién veremos **much**, **many** y **all** para hablar de cantidades grandes o totales. Con ejemplos simples y diálogos cortos, vas a poder pedir un vaso de agua o una botella de jugo sin problemas. ¡Vamos a practicar!",
+  "intro_target": "In this lesson, you will learn to use **some** and **any** to talk about quantities. They are very useful words to ask for things at a café, at a store, or in your kitchen.\n\n- **Some** is used in affirmative sentences: *I have some sugar.*\n- **Any** is used in questions and negatives: *Do you have any tea?*\n\nWe will also see **much**, **many**, and **all** to talk about big or total quantities. With simple examples and short dialogues, you will be able to ask for a glass of water or a bottle of juice without problems. Let's practice!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "some_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I want some water, please.",
+      "translation_form": "Quiero un poco de agua, por favor.",
+      "highlight_words": [
+        "some",
+        "water"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "any_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Do you have any coffee?",
+      "translation_form": "¿Tienes algo de café?",
+      "highlight_words": [
+        "any",
+        "coffee"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "much_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "How much sugar do you want?",
+      "translation_form": "¿Cuánta azúcar quieres?",
+      "highlight_words": [
+        "much",
+        "sugar"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "many_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "How many cups of tea do you drink?",
+      "translation_form": "¿Cuántas tazas de té bebes?",
+      "highlight_words": [
+        "many",
+        "cups",
+        "tea"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "all_det_pron",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I drink all the juice in the bottle.",
+      "translation_form": "Bebo todo el jugo de la botella.",
+      "highlight_words": [
+        "all",
+        "juice",
+        "bottle"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "glass",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Can I have a glass of milk?",
+      "translation_form": "¿Puedo tomar un vaso de leche?",
+      "highlight_words": [
+        "glass",
+        "milk"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "some/any: affirmative and questions",
+      "title_form": "Some y Any: afirmativo y preguntas",
+      "title_target": "Some and Any: Affirmative and Questions",
+      "description_md_form": "En inglés, **some** y **any** significan \"algo de\" o \"algunos\". Se usan con sustantivos contables e incontables.\n\n- **Some** se usa en **oraciones afirmativas**: `I want some water.`\n- **Any** se usa en **preguntas** y **negaciones**: `Do you have any coffee?` / `I don't have any sugar.`\n\n**Regla clave:** en preguntas, usa **any**, no some. Pero si ofreces algo, puedes usar some: `Do you want some tea?`\n\n**Contables vs. incontables:**\n- **Much** para incontables: `How much sugar?`\n- **Many** para contables: `How many cups?`\n\n**All** significa \"todo\": `I drink all the juice.`",
+      "description_md_target": "In English, **some** and **any** mean \"a little\" or \"some\". They are used with countable and uncountable nouns.\n\n- **Some** is used in **affirmative sentences**: `I want some water.`\n- **Any** is used in **questions** and **negations**: `Do you have any coffee?` / `I don't have any sugar.`\n\n**Key rule:** in questions, use **any**, not some. But if you offer something, you can use some: `Do you want some tea?`\n\n**Countable vs. uncountable:**\n- **Much** for uncountable: `How much sugar?`\n- **Many** for countable: `How many cups?`\n\n**All** means \"everything\": `I drink all the juice.`",
+      "grammar_structure": "Affirmative: Subject + verb + some + noun\nQuestion: Do/Does + subject + verb + any + noun?\nNegative: Subject + don't/doesn't + verb + any + noun",
+      "conjugation_table": {
+        "name": "some/any usage",
+        "headers": [
+          "Tipo de oración",
+          "Contable",
+          "Incontable"
+        ],
+        "rows": [
+          [
+            "Afirmativa",
+            "some cups",
+            "some water"
+          ],
+          [
+            "Pregunta",
+            "any cups",
+            "any water"
+          ],
+          [
+            "Negativa",
+            "any cups",
+            "any water"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "some_det_pron",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I want some water, please.",
+          "translation_form": "Quiero un poco de agua, por favor.",
+          "highlight_words": [
+            "some"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "any_det_pron",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Do you have any coffee?",
+          "translation_form": "¿Tienes algo de café?",
+          "highlight_words": [
+            "any"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En preguntas, usa **any**. Pero si ofreces algo, puedes usar **some**: `Do you want some tea?`"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas `Do you have some coffee?` en una pregunta normal. Usa **any**."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Ojo:** **Much** es para incontables (sugar, water) y **many** para contables (cups, bottles)."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'some' en preguntas: 'Do you have some coffee?' → correcto: 'Do you have any coffee?'",
+        "Usar 'any' en afirmativas: 'I want any water.' → correcto: 'I want some water.'",
+        "Confundir 'much' y 'many': 'How many sugar?' → correcto: 'How much sugar?'"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'some'?",
+      "options": [
+        "algunos / un poco de",
+        "ninguno",
+        "todo",
+        "mucho"
+      ],
+      "correct_answer": "algunos / un poco de",
+      "explanation_md": "'Some' se usa en oraciones afirmativas para decir 'un poco de' o 'algunos'.",
+      "related_lexeme_ids": [
+        "some_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "En un restaurante, el camarero pregunta: 'Do you want some water?' ¿Qué significa?",
+      "options": [
+        "¿Quieres un poco de agua?",
+        "¿Quieres toda el agua?",
+        "¿Quieres mucha agua?",
+        "¿Quieres agua?"
+      ],
+      "correct_answer": "¿Quieres un poco de agua?",
+      "explanation_md": "'Some water' significa 'un poco de agua'. Se usa 'some' en preguntas cuando ofrecemos algo.",
+      "related_lexeme_ids": [
+        "some_det_pron",
+        "water"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I want ___ water, please.' (un poco de)",
+      "options": null,
+      "correct_answer": "some",
+      "explanation_md": "En oraciones afirmativas usamos 'some' para decir 'un poco de'.",
+      "related_lexeme_ids": [
+        "some_det_pron",
+        "water"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_018",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Quiero un poco de agua, por favor.'",
+      "options": null,
+      "correct_answer": "I want some water, please.",
+      "explanation_md": "Usamos 'some' en oraciones afirmativas para 'un poco de'.",
+      "related_lexeme_ids": [
+        "some_det_pron",
+        "water"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_024",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "cup",
+        "sugar",
+        "information",
+        "azúcar",
+        "información",
+        "taza"
+      ],
+      "correct_answer": [
+        "cup=taza",
+        "sugar=azúcar",
+        "information=información"
+      ],
+      "explanation_md": "Estas son las palabras clave de la lección y sus significados.",
+      "related_lexeme_ids": [
+        "cup",
+        "sugar",
+        "information"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_026",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I want some water, please.'",
+      "options": null,
+      "correct_answer": "Quiero un poco de agua, por favor.",
+      "explanation_md": "'Some water' significa 'un poco de agua'.",
+      "related_lexeme_ids": [
+        "some_det_pron",
+        "water"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_031",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿qué quiere Tom?",
+      "options": [
+        "Tom wants some water and some food.",
+        "Tom wants a bottle of juice.",
+        "Tom wants all the sugar.",
+        "Tom wants a cup of tea."
+      ],
+      "correct_answer": "Tom wants some water and some food.",
+      "explanation_md": "Tom dice 'Yes, please. And I want some food.' Así que quiere agua y comida.",
+      "related_lexeme_ids": [
+        "some_det_pron",
+        "water",
+        "food",
+        "glass",
+        "cup",
+        "coffee"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom is at a restaurant. He is very tired. The waiter asks, 'Do you want some water?' Tom says, 'Yes, please. And I want some food.' The waiter brings a glass of water and a cup of coffee. Tom drinks the water and the coffee. He feels better.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_034",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿qué quiere el estudiante?",
+      "options": [
+        "The student wants a cup of tea and some sugar.",
+        "The student wants a bottle of water.",
+        "The student wants some food.",
+        "The student wants a glass of juice."
+      ],
+      "correct_answer": "The student wants a cup of tea and some sugar.",
+      "explanation_md": "El estudiante dice 'I want a cup of tea, please. And some sugar.'",
+      "related_lexeme_ids": [
+        "any_det_pron",
+        "tea",
+        "cup",
+        "some_det_pron",
+        "sugar"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "A student is at a cafe. He asks the waiter, 'Do you have any tea?' The waiter says, 'Yes, we do.' The student says, 'I want a cup of tea, please. And some sugar.'",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_037",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre lo que quieres beber o comer hoy. Usa 'some' o 'any'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'some' y 'any' en oraciones afirmativas y preguntas.",
+      "related_lexeme_ids": [
+        "some_det_pron",
+        "any_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I want some water, please.",
+        "Do you have any tea?",
+        "I want some food."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'any'?",
+      "options": [
+        "alguno / algo de (en preguntas y negaciones)",
+        "todo",
+        "poco",
+        "mucho"
+      ],
+      "correct_answer": "alguno / algo de (en preguntas y negaciones)",
+      "explanation_md": "'Any' se usa en preguntas y oraciones negativas para decir 'algo de' o 'ninguno'.",
+      "related_lexeme_ids": [
+        "any_det_pron"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'bottle'?",
+      "options": [
+        "botella",
+        "taza",
+        "vaso",
+        "plato"
+      ],
+      "correct_answer": "botella",
+      "explanation_md": "'Bottle' es una botella, como una botella de agua o de jugo.",
+      "related_lexeme_ids": [
+        "bottle"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'glass'?",
+      "options": [
+        "vaso",
+        "botella",
+        "taza",
+        "cuchara"
+      ],
+      "correct_answer": "vaso",
+      "explanation_md": "'Glass' es un vaso, como un vaso de agua.",
+      "related_lexeme_ids": [
+        "glass"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "some",
+      "back": "algo de / algunos",
+      "hint": "se usa en frases afirmativas",
+      "lexeme_id": "some_det_pron",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "quantifiers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "any",
+      "back": "algo de / alguno (en preguntas y negación)",
+      "hint": "se usa en preguntas y negación",
+      "lexeme_id": "any_det_pron",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "quantifiers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "much",
+      "back": "mucho (incontable)",
+      "hint": "para cosas que no se pueden contar",
+      "lexeme_id": "much_det_pron",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "quantifiers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "many",
+      "back": "muchos (contable)",
+      "hint": "para cosas que se pueden contar",
+      "lexeme_id": "many_det_pron",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "quantifiers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "all",
+      "back": "todo",
+      "hint": "la totalidad",
+      "lexeme_id": "all_det_pron",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "quantifiers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "glass",
+      "back": "vaso / cristal",
+      "hint": "recipiente para beber",
+      "lexeme_id": "glass",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "bottle",
+      "back": "botella",
+      "hint": "recipiente con tapa",
+      "lexeme_id": "bottle",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "cup",
+      "back": "taza",
+      "hint": "para café o té",
+      "lexeme_id": "cup",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "sugar",
+      "back": "azúcar",
+      "hint": "endulzante",
+      "lexeme_id": "sugar",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "information",
+      "back": "información",
+      "hint": "datos o detalles",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "some",
+      "reading": "",
+      "translation": "algo de / algunos",
+      "pos": "other",
+      "example": "I want some water, please.",
+      "example_translation": "Quiero un poco de agua, por favor.",
+      "lexeme_id": "some_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "any",
+      "reading": "",
+      "translation": "algo de / alguno (en preguntas y negación)",
+      "pos": "other",
+      "example": "Do you have any coffee?",
+      "example_translation": "¿Tienes algo de café?",
+      "lexeme_id": "any_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "much",
+      "reading": "",
+      "translation": "mucho (incontable)",
+      "pos": "other",
+      "example": "How much sugar do you want?",
+      "example_translation": "¿Cuánta azúcar quieres?",
+      "lexeme_id": "much_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "many",
+      "reading": "",
+      "translation": "muchos (contable)",
+      "pos": "other",
+      "example": "How many cups of tea do you drink?",
+      "example_translation": "¿Cuántas tazas de té bebes?",
+      "lexeme_id": "many_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "all",
+      "reading": "",
+      "translation": "todo",
+      "pos": "other",
+      "example": "I drink all the juice in the bottle.",
+      "example_translation": "Bebo todo el jugo de la botella.",
+      "lexeme_id": "all_det_pron",
+      "chunk_id": null
+    },
+    {
+      "target_word": "glass",
+      "reading": "",
+      "translation": "vaso / cristal",
+      "pos": "noun",
+      "example": "Can I have a glass of milk?",
+      "example_translation": "¿Puedo tomar un vaso de leche?",
+      "lexeme_id": "glass",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bottle",
+      "reading": "",
+      "translation": "botella",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "bottle",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cup",
+      "reading": "",
+      "translation": "taza",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "cup",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sugar",
+      "reading": "",
+      "translation": "azúcar",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "sugar",
+      "chunk_id": null
+    },
+    {
+      "target_word": "information",
+      "reading": "",
+      "translation": "información",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "information",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "some",
+      "role": "support",
+      "status": "practiced",
+      "translation": "algo de / algunos",
+      "lexeme_id": "some_det_pron",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_008",
+        "ex_013",
+        "ex_018",
+        "ex_026",
+        "ex_031",
+        "ex_034",
+        "ex_037",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "any",
+      "role": "support",
+      "status": "practiced",
+      "translation": "algo de / alguno (en preguntas y negación)",
+      "lexeme_id": "any_det_pron",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_034",
+        "ex_037",
+        "ex_002",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "much",
+      "role": "support",
+      "status": "introduced",
+      "translation": "mucho (incontable)",
+      "lexeme_id": "much_det_pron",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "many",
+      "role": "support",
+      "status": "introduced",
+      "translation": "muchos (contable)",
+      "lexeme_id": "many_det_pron",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "all",
+      "role": "support",
+      "status": "introduced",
+      "translation": "todo",
+      "lexeme_id": "all_det_pron",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "glass",
+      "role": "support",
+      "status": "practiced",
+      "translation": "vaso / cristal",
+      "lexeme_id": "glass",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_031",
+        "ex_004",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "bottle",
+      "role": "support",
+      "status": "practiced",
+      "translation": "botella",
+      "lexeme_id": "bottle",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "cup",
+      "role": "support",
+      "status": "practiced",
+      "translation": "taza",
+      "lexeme_id": "cup",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_024",
+        "ex_031",
+        "ex_034",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "sugar",
+      "role": "support",
+      "status": "practiced",
+      "translation": "azúcar",
+      "lexeme_id": "sugar",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_024",
+        "ex_034",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "information",
+      "role": "support",
+      "status": "practiced",
+      "translation": "información",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_024",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "water",
+      "role": "support",
+      "status": "review",
+      "translation": "agua",
+      "lexeme_id": "water",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_013",
+        "ex_018",
+        "ex_026",
+        "ex_031"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "ex_031",
+        "ex_034",
+        "ex_037"
+      ]
+    },
+    {
+      "term": "drink",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "exm_005",
+        "ex_031"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_031",
+        "quiz_001:q_003",
+        "quiz_001:q_013",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "tea",
+      "role": "support",
+      "status": "emergent",
+      "translation": "té",
+      "lexeme_id": "tea",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_034",
+        "ex_037",
+        "quiz_001:q_005",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "juice",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jugo / zumo",
+      "lexeme_id": "juice",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_006",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "milk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "leche",
+      "lexeme_id": "milk",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011",
+        "quiz_001:q_015"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_031",
+        "ex_034",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "food",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comida",
+      "lexeme_id": "food",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_031",
+        "ex_037",
+        "quiz_001:q_012",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_015"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_012",
+        "quiz_001:q_013",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "affirmative",
+      "role": "support",
+      "status": "emergent",
+      "translation": "afirmativo",
+      "lexeme_id": "affirmative_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "count",
+      "role": "support",
+      "status": "emergent",
+      "translation": "contar",
+      "lexeme_id": "count_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "order",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ordenar / pedir",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "thing",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cosa",
+      "lexeme_id": "thing",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "waiter",
+      "role": "support",
+      "status": "emergent",
+      "translation": "camarero / mesero",
+      "lexeme_id": "waiter",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_031",
+        "ex_034"
+      ]
+    },
+    {
+      "term": "subject",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 10,
+    "review_support_count": 1,
+    "emergent_count": 17,
+    "emergent_terms": [
+      "want",
+      "drink",
+      "coffee",
+      "tea",
+      "juice",
+      "milk",
+      "word",
+      "ask",
+      "food",
+      "say",
+      "person",
+      "affirmative",
+      "count",
+      "order",
+      "thing",
+      "waiter",
+      "subject"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Cuantificadores some/any",
+      "title_target": "Quiz: Using Some and Any",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra usamos en oraciones afirmativas para decir 'algo de'?",
+          "prompt_target": "When do we use some?",
+          "options": [
+            "some",
+            "any",
+            "much",
+            "many"
+          ],
+          "correct_answer": "some",
+          "explanation_form": "En oraciones afirmativas usamos 'some' para decir 'algo de'.",
+          "explanation_target": "In affirmative sentences we use 'some' to say 'some'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "some_det_pron"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra usamos en preguntas para decir 'algo de'?",
+          "prompt_target": "Which word do we use in questions to say 'some'?",
+          "options": [
+            "some",
+            "any",
+            "much",
+            "many"
+          ],
+          "correct_answer": "any",
+          "explanation_form": "En preguntas usamos 'any' para decir 'algo de'.",
+          "explanation_target": "In questions we use 'any' to say 'some'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "any_det_pron"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'I have ____ coffee.' (Tengo algo de café.)",
+          "prompt_target": "Complete the sentence: 'I have ____ coffee.'",
+          "options": null,
+          "correct_answer": "some",
+          "explanation_form": "En afirmativo usamos 'some'.",
+          "explanation_target": "In affirmative we use 'some'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "some_det_pron",
+            "coffee"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: 'Do you have ____ sugar?' (¿Tienes algo de azúcar?)",
+          "prompt_target": "Complete the question: 'Do you have ____ sugar?'",
+          "options": null,
+          "correct_answer": "any",
+          "explanation_form": "En preguntas usamos 'any'.",
+          "explanation_target": "In questions we use 'any'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "any_det_pron",
+            "sugar"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "have",
+            "some",
+            "tea"
+          ],
+          "correct_answer": "I have some tea",
+          "explanation_form": "En afirmativo: sujeto + have + some + sustantivo.",
+          "explanation_target": "In affirmative: subject + have + some + noun.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "some_det_pron",
+            "tea"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "Do",
+            "you",
+            "have",
+            "any",
+            "juice"
+          ],
+          "correct_answer": "Do you have any juice",
+          "explanation_form": "En preguntas: Do + sujeto + have + any + sustantivo.",
+          "explanation_target": "In questions: Do + subject + have + any + noun.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "any_det_pron",
+            "juice"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra usamos para preguntar por una cantidad de algo que no podemos contar?",
+          "prompt_target": "Which word do we use with water?",
+          "options": [
+            "much",
+            "many",
+            "all",
+            "some"
+          ],
+          "correct_answer": "much",
+          "explanation_form": "Usamos 'much' para preguntar por cantidades de cosas no contables.",
+          "explanation_target": "We use 'much' to ask about quantities of uncountable things.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "much_det_pron"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra usamos para preguntar por una cantidad de cosas que sí podemos contar?",
+          "prompt_target": "Which word do we use to ask about a quantity of things we can count?",
+          "options": [
+            "many",
+            "much",
+            "all",
+            "any"
+          ],
+          "correct_answer": "many",
+          "explanation_form": "Usamos 'many' para preguntar por cantidades de cosas contables.",
+          "explanation_target": "We use 'many' to ask about quantities of countable things.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "many_det_pron"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra significa 'todo' o 'todos'?",
+          "prompt_target": "Which word means 'all'?",
+          "options": [
+            "all",
+            "some",
+            "any",
+            "much"
+          ],
+          "correct_answer": "all",
+          "explanation_form": "'All' significa 'todo' o 'todos'.",
+          "explanation_target": "'All' means 'all'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "all_det_pron"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "glass",
+            "vaso",
+            "bottle",
+            "botella",
+            "cup",
+            "taza"
+          ],
+          "correct_answer": [
+            "glass=vaso",
+            "bottle=botella",
+            "cup=taza"
+          ],
+          "explanation_form": "Estas son palabras para recipientes.",
+          "explanation_target": "These are words for containers.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "glass",
+            "bottle",
+            "cup"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra significa 'información'?",
+          "prompt_target": "Which word means 'information'?",
+          "options": [
+            "information",
+            "sugar",
+            "food",
+            "vegetable"
+          ],
+          "correct_answer": "information",
+          "explanation_form": "'Information' significa 'información'.",
+          "explanation_target": "'Information' means 'information'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "information"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué tiene la persona?",
+          "prompt_target": "Listen and answer: What does the person have?",
+          "options": [
+            "tea and a cup",
+            "coffee and a cup",
+            "juice and a glass",
+            "sugar and a cup"
+          ],
+          "correct_answer": "tea and a cup",
+          "explanation_form": "La persona dice: 'I have some tea and a cup.'",
+          "explanation_target": "The person says: 'I have some tea and a cup.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "some_det_pron",
+            "tea",
+            "cup",
+            "sugar",
+            "glass"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I have some tea and a cup. I do not have any sugar. I have some food and a glass of water.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_013",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué pregunta hace la persona?",
+          "prompt_target": "Listen and answer: What question does the person ask?",
+          "options": [
+            "Do you have any sugar?",
+            "Do you have any tea?",
+            "Do you have any juice?",
+            "Do you have any food?"
+          ],
+          "correct_answer": "Do you have any sugar?",
+          "explanation_form": "La persona pregunta: 'Do you have any sugar?'",
+          "explanation_target": "The person asks: 'Do you have any sugar?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "any_det_pron",
+            "sugar",
+            "coffee",
+            "information"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Do you have any sugar? Do you have any coffee? Do you have any information?",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_014",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué tiene la persona?",
+          "prompt_target": "Read the text and answer: What does the person have?",
+          "options": [
+            "coffee and a cup",
+            "tea and a cup",
+            "juice and a glass",
+            "sugar and a cup"
+          ],
+          "correct_answer": "coffee and a cup",
+          "explanation_form": "El texto dice: 'I have some coffee and a cup.'",
+          "explanation_target": "The text says: 'I have some coffee and a cup.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "some_det_pron",
+            "coffee",
+            "cup",
+            "sugar",
+            "glass",
+            "juice",
+            "information"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I have some coffee and a cup. I do not have any sugar. I have some food and a glass of water. I do not have any juice. I have some information for you.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_015",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra usamos en oraciones negativas para decir 'nada de'?",
+          "prompt_target": "When do we use any with not?",
+          "options": [
+            "any",
+            "some",
+            "much",
+            "all"
+          ],
+          "correct_answer": "any",
+          "explanation_form": "En oraciones negativas usamos 'any' para decir 'nada de'.",
+          "explanation_target": "In negative sentences we use 'any' to say 'any'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "any_det_pron"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Some y any: tu guía rápida\n\n- **some** se usa en frases afirmativas: *I have some water.*\n- **any** se usa en preguntas y negaciones: *Do you have any tea?* / *I don't have any juice.*\n\n## Truco para hispanohablantes\n\nEn español decimos 'un poco de' o 'algunos'. En inglés, **some** y **any** ya incluyen esa idea. No necesitas otra palabra. Para pedir algo en un café, usa **some**: *Can I have some coffee?* Suena natural y educado. Con **any**, piensa en preguntas: *Is there any sugar?*",
+  "metadata": {
+    "generated_at": "2026-08-31T21:36:52Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

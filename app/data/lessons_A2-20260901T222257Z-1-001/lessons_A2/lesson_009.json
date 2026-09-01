@@ -1,0 +1,1609 @@
+{
+  "id": "lesson_009",
+  "position": 9,
+  "unit_id": 2,
+  "course_id": "en.A2",
+  "title_form": "Talking about yesterday",
+  "title_target": "Hablando de ayer",
+  "theme_focus": "time",
+  "learning_objectives": [
+    "Can describe a past activity using past simple with was/were."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_001",
+    "lesson_002",
+    "lesson_003",
+    "lesson_004",
+    "lesson_005",
+    "lesson_006",
+    "lesson_007",
+    "lesson_008"
+  ],
+  "grammar_focus": [
+    "past simple: was/were"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "busy",
+        "celebration",
+        "memory",
+        "during_prep",
+        "eventually_adv",
+        "as_soon_as_conj",
+        "nervous_adj",
+        "surprised_adj"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "wake_up_verb",
+        "get_dressed_phrase",
+        "brush",
+        "prepare_verb",
+        "pack_verb",
+        "reach_verb",
+        "first_adv",
+        "afterwards_adv",
+        "appointment",
+        "sit_down_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana tuvo un día muy ocupado ayer. Primero fue a una celebración familiar, luego tuvo una cita importante y finalmente llegó a casa cansada pero feliz. A lo largo de la lección, Ana comparte sus recuerdos y emociones de ese día.",
+  "introduction_md": "## Hablando de ayer\n\nEn esta lección vas a aprender a **hablar de lo que hiciste ayer**. Usaremos el **pasado simple** con *was* y *were* para describir actividades y momentos del día.\n\n- Aprenderás palabras útiles como *busy*, *nervous* y *surprised*.\n- Practicarás con frases como *as soon as* y *during*.\n- Hablarás de recuerdos y celebraciones.\n\nAl final, podrás contar una pequeña historia sobre tu día de ayer. ¡Vamos a empezar!",
+  "intro_target": "## Talking about yesterday\n\nIn this lesson, you will learn to **talk about what you did yesterday**. We will use the **past simple** with *was* and *were* to describe activities and moments of the day.\n\n- You will learn useful words like *busy*, *nervous* and *surprised*.\n- You will practice with phrases like *as soon as* and *during*.\n- You will talk about memories and celebrations.\n\nAt the end, you will be able to tell a short story about your day yesterday. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "busy",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Yesterday I was busy, but I finished all my work.",
+      "translation_form": "Ayer estuve ocupado, pero terminé todo mi trabajo.",
+      "highlight_words": [
+        "busy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "celebration",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The celebration was fantastic, and everyone was happy.",
+      "translation_form": "La celebración fue fantástica, y todos estaban felices.",
+      "highlight_words": [
+        "celebration"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "memory",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "That trip was a wonderful memory for our family.",
+      "translation_form": "Ese viaje fue un recuerdo maravilloso para nuestra familia.",
+      "highlight_words": [
+        "memory"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "during_prep",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "During the meeting, I was very tired.",
+      "translation_form": "Durante la reunión, estaba muy cansado.",
+      "highlight_words": [
+        "during"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "eventually_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We were lost, but eventually we found the hotel.",
+      "translation_form": "Estábamos perdidos, pero finalmente encontramos el hotel.",
+      "highlight_words": [
+        "eventually"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "as_soon_as_conj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "As soon as I woke up, I prepared my breakfast.",
+      "translation_form": "Tan pronto como me desperté, preparé mi desayuno.",
+      "highlight_words": [
+        "as soon as"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "nervous_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She was nervous before her first day at work.",
+      "translation_form": "Ella estaba nerviosa antes de su primer día de trabajo.",
+      "highlight_words": [
+        "nervous"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "surprised_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I was surprised when I saw the gift on the table.",
+      "translation_form": "Me sorprendí cuando vi el regalo sobre la mesa.",
+      "highlight_words": [
+        "surprised"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "past simple: was/were",
+      "title_form": "Pasado simple: was/were",
+      "title_target": "Past simple: was/were",
+      "description_md_form": "El **pasado simple** de *to be* (ser/estar) tiene solo dos formas: **was** y **were**. Usamos **was** con *I, he, she, it* y **were** con *you, we, they*.\n\n**Afirmativo:**\n- *I was busy.* (Estaba ocupado.)\n- *They were happy.* (Estaban felices.)\n\n**Negativo:** agregamos *not*: *was not* (wasn't) y *were not* (weren't).\n- *The celebration was not boring.* (La celebración no fue aburrida.)\n\n**Preguntas:** invertimos el orden: *Was she nervous?* (¿Estaba ella nerviosa?)\n\n**Uso clave:** lo usamos para describir estados, emociones y situaciones en el pasado, a menudo con *during* (durante) o *as soon as* (tan pronto como).\n\n| Pronombre | Afirmativo | Negativo |\n|-----------|------------|----------|\n| I | was | was not (wasn't) |\n| He/She/It | was | was not (wasn't) |\n| You/We/They | were | were not (weren't) |\n\nAsí puedes cerrar una descripción breve: *I was busy, but I was happy.*",
+      "description_md_target": "The **past simple** of *to be* has only two forms: **was** and **were**. We use **was** with *I, he, she, it* and **were** with *you, we, they*.\n\n**Affirmative:**\n- *I was busy.*\n- *They were happy.*\n\n**Negative:** add *not*: *was not* (wasn't) and *were not* (weren't).\n- *The celebration was not boring.*\n\n**Questions:** invert the order: *Was she nervous?*\n\n**Key use:** we use it to describe states, emotions and situations in the past, often with *during* or *as soon as*.",
+      "grammar_structure": "Subject + was/were + complement",
+      "conjugation_table": {
+        "name": "past_simple_to_be",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "was",
+            "was not (wasn't)",
+            "Was I...?"
+          ],
+          [
+            "He/She/It",
+            "was",
+            "was not (wasn't)",
+            "Was he/she/it...?"
+          ],
+          [
+            "You",
+            "were",
+            "were not (weren't)",
+            "Were you...?"
+          ],
+          [
+            "We",
+            "were",
+            "were not (weren't)",
+            "Were we...?"
+          ],
+          [
+            "They",
+            "were",
+            "were not (weren't)",
+            "Were they...?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: was/were",
+          "text_target": "I was nervous during the celebration, but everyone was happy.",
+          "translation_form": "Estaba nervioso durante la celebración, pero todos estaban felices.",
+          "highlight_words": [
+            "was"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: was/were",
+          "text_target": "We were surprised as soon as we saw the memory book.",
+          "translation_form": "Estábamos sorprendidos tan pronto como vimos el libro de recuerdos.",
+          "highlight_words": [
+            "were",
+            "surprised"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** *was* y *were* son las únicas formas del pasado de *to be*. No necesitas otra palabra para el pasado: *I was busy* ya significa \"estuve/estaba ocupado\"."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** no digas *I were* o *she were*. Con *I, he, she, it* siempre usamos **was**: *I was busy*, *she was nervous*."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado:** en preguntas, el verbo va primero: *Was she surprised?* No digas *She was surprised?* (eso es solo para confirmar con entonación)."
+        }
+      ],
+      "common_errors_es": [
+        "Usar *were* con *I*: ✗ *I were busy* → ✓ *I was busy*.",
+        "Olvidar el verbo en preguntas: ✗ *You were nervous?* → ✓ *Were you nervous?*",
+        "Confundir *was* con *is* en pasado: ✗ *Yesterday I is busy* → ✓ *Yesterday I was busy*.",
+        "Poner *did* con *to be*: ✗ *Did you be happy?* → ✓ *Were you happy?*"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'busy'?",
+      "options": [
+        "ocupado",
+        "feliz",
+        "cansado",
+        "triste"
+      ],
+      "correct_answer": "ocupado",
+      "explanation_md": "'Busy' significa ocupado, con mucho trabajo o cosas que hacer.",
+      "related_lexeme_ids": [
+        "busy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'celebration'?",
+      "options": [
+        "reunión",
+        "celebración",
+        "vacación",
+        "comida"
+      ],
+      "correct_answer": "celebración",
+      "explanation_md": "'Celebration' significa celebración, una fiesta o evento especial.",
+      "related_lexeme_ids": [
+        "celebration"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "memory",
+        "recuerdo",
+        "nervous",
+        "nervioso",
+        "surprised",
+        "sorprendido"
+      ],
+      "correct_answer": [
+        "memory=recuerdo",
+        "nervous=nervioso",
+        "surprised=sorprendido"
+      ],
+      "explanation_md": "Estas palabras describen recuerdos y emociones.",
+      "related_lexeme_ids": [
+        "memory",
+        "nervous_adj",
+        "surprised_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración: 'I was very ____ before the exam.'",
+      "options": [
+        "nervous",
+        "happy",
+        "tired",
+        "busy"
+      ],
+      "correct_answer": "nervous",
+      "explanation_md": "'Nervous' significa nervioso, que es como te sientes antes de un examen.",
+      "related_lexeme_ids": [
+        "nervous_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la palabra correcta: '____ the meeting, I was very tired.'",
+      "options": null,
+      "correct_answer": "During",
+      "explanation_md": "'During' significa durante, en el transcurso de algo.",
+      "related_lexeme_ids": [
+        "during_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta del pasado de 'to be' para 'we'?",
+      "options": [
+        "was",
+        "were",
+        "is",
+        "are"
+      ],
+      "correct_answer": "were",
+      "explanation_md": "Con 'we' usamos 'were' en pasado simple.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ayer estuve ocupado.'",
+      "options": null,
+      "correct_answer": "Yesterday I was busy.",
+      "explanation_md": "Usamos 'was' con 'I' en pasado simple.",
+      "related_lexeme_ids": [
+        "busy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'We were lost, but eventually we found the hotel.'",
+      "options": null,
+      "correct_answer": "Estábamos perdidos, pero finalmente encontramos el hotel.",
+      "explanation_md": "'Eventually' significa finalmente, después de un tiempo.",
+      "related_lexeme_ids": [
+        "eventually_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cómo se sintió Ana durante la celebración?",
+      "options": [
+        "Ella estaba triste",
+        "Ella estaba feliz y sorprendida",
+        "Ella estaba enojada",
+        "Ella estaba cansada"
+      ],
+      "correct_answer": "Ella estaba feliz y sorprendida",
+      "explanation_md": "El texto dice que Ana estaba muy feliz y sorprendida durante la celebración.",
+      "related_lexeme_ids": [
+        "celebration",
+        "surprised_adj",
+        "nervous_adj",
+        "memory",
+        "busy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Yesterday was a special day for Ana. It was her birthday, and her family organized a big celebration. During the party, Ana was very happy and surprised. She was nervous at first, but then she enjoyed the moment. It was a wonderful memory for her. She was busy all day, but she was very happy.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hizo Pedro después de despertarse?",
+      "options": [
+        "Él fue al supermercado",
+        "Él se vistió y preparó el desayuno",
+        "Él fue al cine",
+        "Él durmió más"
+      ],
+      "correct_answer": "Él se vistió y preparó el desayuno",
+      "explanation_md": "El audio dice que primero se vistió y después preparó el desayuno.",
+      "related_lexeme_ids": [
+        "eventually_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Pedro woke up early. First, he got dressed. Afterwards, he prepared breakfast. He was busy in the morning. Eventually, he reached the office.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre lo que hiciste ayer. Usa 'was' o 'were' y al menos una de estas palabras: busy, celebration, memory, nervous, surprised.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de was/were y del vocabulario de la lección.",
+      "related_lexeme_ids": [
+        "busy",
+        "celebration",
+        "memory",
+        "nervous_adj",
+        "surprised_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Yesterday I was busy with my work. I was surprised because the day was very long.",
+        "The celebration was fantastic. I was nervous at first, but it was a wonderful memory."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la palabra correcta: 'Call me ____ you arrive.'",
+      "options": null,
+      "correct_answer": "as soon as",
+      "explanation_md": "'As soon as' significa tan pronto como.",
+      "related_lexeme_ids": [
+        "as_soon_as_conj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "busy",
+      "back": "ocupado",
+      "hint": "se usa para describir a una persona o un día con muchas cosas que hacer",
+      "lexeme_id": "busy",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "daily_life"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "celebration",
+      "back": "celebración",
+      "hint": "una fiesta o un evento especial",
+      "lexeme_id": "celebration",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "social_plans"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "memory",
+      "back": "memoria / recuerdo",
+      "hint": "algo que recuerdas del pasado",
+      "lexeme_id": "memory",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "describe_experience"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "during",
+      "back": "durante",
+      "hint": "se usa para decir cuándo pasa algo, por ejemplo: durante la clase",
+      "lexeme_id": "during_prep",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "eventually",
+      "back": "al final / finalmente",
+      "hint": "después de un tiempo, al final",
+      "lexeme_id": "eventually_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "future"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "as soon as",
+      "back": "tan pronto como",
+      "hint": "se usa para conectar dos acciones que pasan casi al mismo tiempo",
+      "lexeme_id": "as_soon_as_conj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "nervous",
+      "back": "nervioso",
+      "hint": "se siente cuando tienes miedo o preocupación por algo",
+      "lexeme_id": "nervous_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "surprised",
+      "back": "sorprendido",
+      "hint": "se siente cuando algo inesperado pasa",
+      "lexeme_id": "surprised_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "wake up",
+      "back": "despertarse",
+      "hint": "la primera acción del día",
+      "lexeme_id": "wake_up_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "daily_life"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "get dressed",
+      "back": "vestirse",
+      "hint": "ponerse la ropa",
+      "lexeme_id": "get_dressed_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A2",
+        "daily_life"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "busy",
+      "reading": "",
+      "translation": "ocupado",
+      "pos": "adjective",
+      "example": "Yesterday I was busy, but I finished all my work.",
+      "example_translation": "Ayer estuve ocupado, pero terminé todo mi trabajo.",
+      "lexeme_id": "busy",
+      "chunk_id": null
+    },
+    {
+      "target_word": "celebration",
+      "reading": "",
+      "translation": "celebración",
+      "pos": "noun",
+      "example": "The celebration was fantastic, and everyone was happy.",
+      "example_translation": "La celebración fue fantástica, y todos estaban felices.",
+      "lexeme_id": "celebration",
+      "chunk_id": null
+    },
+    {
+      "target_word": "memory",
+      "reading": "",
+      "translation": "memoria",
+      "pos": "noun",
+      "example": "That trip was a wonderful memory for our family.",
+      "example_translation": "Ese viaje fue un recuerdo maravilloso para nuestra familia.",
+      "lexeme_id": "memory",
+      "chunk_id": null
+    },
+    {
+      "target_word": "during",
+      "reading": "",
+      "translation": "durante",
+      "pos": "preposition",
+      "example": "During the meeting, I was very tired.",
+      "example_translation": "Durante la reunión, estaba muy cansado.",
+      "lexeme_id": "during_prep",
+      "chunk_id": null
+    },
+    {
+      "target_word": "eventually",
+      "reading": "",
+      "translation": "al final / finalmente",
+      "pos": "adverb",
+      "example": "We were lost, but eventually we found the hotel.",
+      "example_translation": "Estábamos perdidos, pero finalmente encontramos el hotel.",
+      "lexeme_id": "eventually_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "as soon as",
+      "reading": "",
+      "translation": "tan pronto como",
+      "pos": "conjunction",
+      "example": "As soon as I woke up, I prepared my breakfast.",
+      "example_translation": "Tan pronto como me desperté, preparé mi desayuno.",
+      "lexeme_id": "as_soon_as_conj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "nervous",
+      "reading": "",
+      "translation": "nervioso",
+      "pos": "adjective",
+      "example": "She was nervous before her first day at work.",
+      "example_translation": "Ella estaba nerviosa antes de su primer día de trabajo.",
+      "lexeme_id": "nervous_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "surprised",
+      "reading": "",
+      "translation": "sorprendido",
+      "pos": "adjective",
+      "example": "I was surprised when I saw the gift on the table.",
+      "example_translation": "Me sorprendí cuando vi el regalo sobre la mesa.",
+      "lexeme_id": "surprised_adj",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "busy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ocupado",
+      "lexeme_id": "busy",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "celebration",
+      "role": "support",
+      "status": "practiced",
+      "translation": "celebración",
+      "lexeme_id": "celebration",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_009",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "memory",
+      "role": "support",
+      "status": "practiced",
+      "translation": "memoria",
+      "lexeme_id": "memory",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_009",
+        "ex_011",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "during",
+      "role": "support",
+      "status": "practiced",
+      "translation": "durante",
+      "lexeme_id": "during_prep",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_005",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "eventually",
+      "role": "support",
+      "status": "practiced",
+      "translation": "al final / finalmente",
+      "lexeme_id": "eventually_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "ex_010",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "as soon as",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tan pronto como",
+      "lexeme_id": "as_soon_as_conj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "nervous",
+      "role": "support",
+      "status": "practiced",
+      "translation": "nervioso",
+      "lexeme_id": "nervous_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_003",
+        "ex_004",
+        "ex_009",
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "surprised",
+      "role": "support",
+      "status": "practiced",
+      "translation": "sorprendido",
+      "lexeme_id": "surprised_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_003",
+        "ex_009",
+        "ex_011",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "wake up",
+      "role": "support",
+      "status": "review",
+      "translation": "despertarse",
+      "lexeme_id": "wake_up_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "get dressed",
+      "role": "support",
+      "status": "review",
+      "translation": "vestirse",
+      "lexeme_id": "get_dressed_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_007",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "soon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pronto",
+      "lexeme_id": "soon_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "fc_006",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "wonderful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "maravilloso",
+      "lexeme_id": "wonderful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "happy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "feliz / contento",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "prepare",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preparar",
+      "lexeme_id": "prepare_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "breakfast",
+      "role": "support",
+      "status": "emergent",
+      "translation": "desayuno",
+      "lexeme_id": "breakfast",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "dress",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "fantastic",
+      "role": "support",
+      "status": "emergent",
+      "translation": "brutal / genial / bárbaro",
+      "lexeme_id": "fantastic_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "get dressed",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "get",
+      "role": "support",
+      "status": "emergent",
+      "translation": "obtener / conseguir / llegar",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "table",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mesa",
+      "lexeme_id": "table",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "wake",
+      "role": "support",
+      "status": "emergent",
+      "translation": "despertar (verbo)",
+      "lexeme_id": "wake",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "hotel",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hotel",
+      "lexeme_id": "hotel",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "trip",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viaje",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "gift",
+      "role": "support",
+      "status": "emergent",
+      "translation": "regalo",
+      "lexeme_id": "gift",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "wake up",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "found",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fundar",
+      "lexeme_id": "found_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "translate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "traducción",
+      "lexeme_id": "translate",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 8,
+    "review_support_count": 2,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "work",
+      "soon",
+      "day",
+      "yesterday",
+      "wonderful",
+      "family",
+      "meet",
+      "tire",
+      "happy",
+      "tired",
+      "prepare",
+      "breakfast",
+      "dress",
+      "meeting",
+      "fantastic",
+      "get dressed",
+      "get",
+      "table",
+      "wake",
+      "finish",
+      "hotel",
+      "trip",
+      "gift",
+      "wake up",
+      "found",
+      "morning",
+      "person",
+      "say",
+      "good",
+      "time",
+      "home",
+      "translate"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Talking about yesterday",
+      "title_target": "Quiz: Talking about yesterday",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta: ¿Qué dice la persona sobre su día?",
+          "prompt_target": "Listen and choose the correct answer: What does the person say about their day?",
+          "options": [
+            "The person was busy yesterday.",
+            "The person was nervous yesterday.",
+            "The person was surprised yesterday.",
+            "The person was bored yesterday."
+          ],
+          "correct_answer": "The person was busy yesterday.",
+          "explanation_form": "La persona dice 'Yesterday was a busy day for me', lo que indica que estuvo ocupada.",
+          "explanation_target": "The person says 'Yesterday was a busy day for me', which means they were busy.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "busy",
+            "past simple: was/were"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "Yesterday was a busy day for me. I had a meeting in the morning. After the meeting, I went to the supermarket. I was tired at the end of the day.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta: ¿Qué pasó con la persona?",
+          "prompt_target": "Listen and choose the correct answer: What happened to the person?",
+          "options": [
+            "The person was nervous and then surprised.",
+            "The person was surprised and then nervous.",
+            "The person was only nervous.",
+            "The person was only surprised."
+          ],
+          "correct_answer": "The person was nervous and then surprised.",
+          "explanation_form": "Primero dice 'I was nervous before the exam' y luego 'I was surprised'.",
+          "explanation_target": "First they say 'I was nervous before the exam' and then 'I was surprised'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "nervous_adj",
+            "surprised_adj",
+            "past simple: was/were"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I was nervous before the exam. But after the exam, I was surprised. The questions were easy. I think I did well.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y elige la respuesta correcta: ¿Qué hizo la persona durante la celebración?",
+          "prompt_target": "Read the text and choose the correct answer: What did the person do during the celebration?",
+          "options": [
+            "They ate cake and talked.",
+            "They slept all day.",
+            "They worked at the party.",
+            "They watched a movie."
+          ],
+          "correct_answer": "They ate cake and talked.",
+          "explanation_form": "El texto dice 'We ate cake and talked a lot'.",
+          "explanation_target": "The text says 'We ate cake and talked a lot'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "celebration",
+            "memory",
+            "eventually_adv",
+            "past simple: was/were"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Last weekend, I went to my friend's birthday celebration. It was a wonderful party. We ate cake and talked a lot. I have a good memory of that day. Eventually, we went home at midnight.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta.",
+          "prompt_target": "Order the words to form a correct sentence.",
+          "options": [
+            "I",
+            "was",
+            "nervous",
+            "during",
+            "the",
+            "meeting"
+          ],
+          "correct_answer": "I was nervous during the meeting",
+          "explanation_form": "La estructura correcta es: Sujeto + was + adjetivo + during + sustantivo.",
+          "explanation_target": "The correct structure is: Subject + was + adjective + during + noun.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "nervous_adj",
+            "during_prep",
+            "past simple: was/were"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'The party was fun. ____, we went home.'",
+          "prompt_target": "Complete the sentence: 'The party was fun. ____, we went home.'",
+          "options": null,
+          "correct_answer": "Eventually",
+          "explanation_form": "'Eventually' significa 'finalmente' y se usa para indicar que algo pasó después de un tiempo.",
+          "explanation_target": "'Eventually' means 'finally' and is used to indicate that something happened after some time.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eventually_adv"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'I was busy ____ the morning.'",
+          "prompt_target": "Complete the sentence: 'I was busy ____ the morning.'",
+          "options": null,
+          "correct_answer": "during",
+          "explanation_form": "'During' se usa para indicar un período de tiempo.",
+          "explanation_target": "'During' is used to indicate a period of time.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "during_prep"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce al español: 'I have a good memory of that day.'",
+          "prompt_target": "Translate to Spanish: 'I have a good memory of that day.'",
+          "options": null,
+          "correct_answer": "Tengo un buen recuerdo de ese día.",
+          "explanation_form": "'Memory' en este contexto significa 'recuerdo'.",
+          "explanation_target": "'Memory' in this context means 'recuerdo'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "memory"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Estaba ocupado durante la celebración.'",
+          "prompt_target": "Translate to English: 'Estaba ocupado durante la celebración.'",
+          "options": null,
+          "correct_answer": "I was busy during the celebration.",
+          "explanation_form": "Usa 'was' para 'estaba' y 'during' para 'durante'.",
+          "explanation_target": "Use 'was' for 'estaba' and 'during' for 'durante'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "busy",
+            "during_prep",
+            "celebration",
+            "past simple: was/were"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'as soon as'?",
+          "prompt_target": "What is the meaning of 'as soon as'?",
+          "options": [
+            "tan pronto como",
+            "después de",
+            "durante",
+            "finalmente"
+          ],
+          "correct_answer": "tan pronto como",
+          "explanation_form": "'As soon as' significa 'tan pronto como'.",
+          "explanation_target": "'As soon as' means 'tan pronto como'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "as_soon_as_conj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El pasado con was y were\n\nPara hablar de ayer, usa **was** con I, he, she e it, y **were** con you, we y they. La forma negativa es **was not / were not** (o **wasn't / weren't**).\n\n- **I was busy** yesterday.\n- **They were nervous** before the celebration.\n\n**Ojo con el error común:** en español decimos \"yo estaba ocupado\", pero en inglés el verbo *to be* es obligatorio: **I was busy**, nunca \"I busy\".\n\n## Trucos para recordar\n\n- **During** = durante un periodo. **As soon as** = en cuanto.\n- **Eventually** significa \"finalmente\", no \"eventualmente\": es un falso amigo.\n- Usa **was/were** con emociones: *I was surprised; she was nervous.*\n\nPara describir tu **día** de ayer, ordena la historia con *first*, *afterwards* y *eventually*. Así tu historia suena natural y clara.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:49:53Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

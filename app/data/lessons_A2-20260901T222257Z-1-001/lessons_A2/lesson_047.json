@@ -1,0 +1,1649 @@
+{
+  "id": "lesson_047",
+  "position": 47,
+  "unit_id": 6,
+  "course_id": "en.A2",
+  "title_form": "Making polite requests with could and may",
+  "title_target": "Haciendo peticiones corteses con could y may",
+  "theme_focus": "health",
+  "learning_objectives": [
+    "Can make polite requests for help or permission in health situations."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_044"
+  ],
+  "grammar_focus": [
+    "could: polite requests",
+    "may: permission"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "backache",
+        "toothache",
+        "earache",
+        "could_modal",
+        "me_pronoun",
+        "may_modal"
+      ],
+      "chunk_ids": [
+        "chunk_a2_could_you_help_me",
+        "chunk_a2_may_i_open"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "pharmacy",
+        "pill",
+        "patient",
+        "allergic_adj",
+        "side_effect",
+        "blood_pressure",
+        "x_ray_noun",
+        "doctor_2",
+        "pain"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana tiene dolor de espalda y va a la farmacia. Pide ayuda al farmacéutico con cortesía usando could y may. Luego visita al doctor, quien le recomienda un tratamiento. Ana practica cómo hacer peticiones educadas en cada situación.",
+  "introduction_md": "## Pidiendo ayuda con cortesía\n\nCuando tienes un problema de salud, necesitas pedir ayuda de forma educada. En inglés, las palabras **could** y **may** hacen que tus peticiones suenen amables y respetuosas.\n\nEn esta lección vas a aprender a:\n\n- Pedir ayuda con **could** (¿Podrías...?)\n- Pedir permiso con **may** (¿Puedo...?)\n- Usar estas frases en situaciones de salud, como en la farmacia o en el consultorio del doctor\n\nCon estas herramientas, podrás comunicarte mejor cuando necesites atención médica o ayuda con un dolor. ¡Vamos a practicar con situaciones reales!",
+  "intro_target": "## Asking for help politely\n\nWhen you have a health problem, you need to ask for help in a polite way. In English, the words **could** and **may** make your requests sound kind and respectful.\n\nIn this lesson you will learn to:\n\n- Ask for help with **could** (Could you...?)\n- Ask for permission with **may** (May I...?)\n- Use these phrases in health situations, like at the pharmacy or at the doctor's office\n\nWith these tools, you will be able to communicate better when you need medical care or help with a pain. Let's practice with real situations!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "could_modal",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Could you help me with this heavy bag, please?",
+      "translation_form": "¿Podrías ayudarme con esta bolsa pesada, por favor?",
+      "highlight_words": [
+        "could",
+        "me"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "may_modal",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "May I open the window? It is very hot in this room.",
+      "translation_form": "¿Puedo abrir la ventana? Hace mucho calor en esta habitación.",
+      "highlight_words": [
+        "may",
+        "open"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "backache",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Could you give me a pill for my backache?",
+      "translation_form": "¿Podrías darme una pastilla para mi dolor de espalda?",
+      "highlight_words": [
+        "could",
+        "me",
+        "backache"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "toothache",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "May I see the doctor? I have a terrible toothache.",
+      "translation_form": "¿Puedo ver al doctor? Tengo un dolor de muelas terrible.",
+      "highlight_words": [
+        "may",
+        "toothache"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "earache",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Could you check my ear? I have an earache.",
+      "translation_form": "¿Podrías revisar mi oído? Tengo dolor de oído.",
+      "highlight_words": [
+        "could",
+        "earache"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "me_pronoun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Could you give me some medicine for the pain?",
+      "translation_form": "¿Podrías darme algo de medicina para el dolor?",
+      "highlight_words": [
+        "could",
+        "me",
+        "pain"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_could_you_help_me",
+      "grammar_slug": null,
+      "text_target": "Could you help me, please? I need to find the pharmacy.",
+      "translation_form": "¿Podrías ayudarme, por favor? Necesito encontrar la farmacia.",
+      "highlight_words": [
+        "could",
+        "me",
+        "pharmacy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_may_i_open",
+      "grammar_slug": null,
+      "text_target": "May I open the window? The room is very hot.",
+      "translation_form": "¿Puedo abrir la ventana? La habitación está muy caliente.",
+      "highlight_words": [
+        "may",
+        "open"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "could: polite requests",
+      "title_form": "Could: peticiones corteses",
+      "title_target": "Could: Polite Requests",
+      "description_md_form": "Usamos **could** para hacer peticiones de forma cortés y educada. Es más formal que *can* y suena muy natural en situaciones de salud, como cuando hablas con un doctor o en una farmacia.\n\nLa estructura es simple: **Could + sujeto + verbo + ...?**\n\n- **Could you** help me with this heavy bag, please?\n- **Could you** give me a pill for my backache?\n- **Could you** check my ear? I have an earache.\n\n**Could** no cambia con la persona: *I could*, *you could*, *he could*, etc. Siempre va seguido del verbo en su forma base.\n\nCon **me** (me) hacemos la petición más personal: *Could you help **me**?* Es una forma muy común y educada de pedir ayuda.",
+      "description_md_target": "We use **could** to make polite and courteous requests. It is more formal than *can* and sounds very natural in health situations, like when you talk to a doctor or at a pharmacy.\n\nThe structure is simple: **Could + subject + verb + ...?**\n\n- **Could you** help me with this heavy bag, please?\n- **Could you** give me a pill for my backache?\n- **Could you** check my ear? I have an earache.\n\n**Could** does not change with the person: *I could*, *you could*, *he could*, etc. It is always followed by the verb in its base form.\n\nWith **me** we make the request more personal: *Could you help **me**?* It is a very common and polite way to ask for help.",
+      "grammar_structure": "Could + subject + verb (base form) + ...?",
+      "conjugation_table": {
+        "name": "could_polite_requests",
+        "headers": [
+          "Sujeto",
+          "Could",
+          "Verbo base",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "could",
+            "ask",
+            "Could I ask for a pill?"
+          ],
+          [
+            "you",
+            "could",
+            "help",
+            "Could you help me, please?"
+          ],
+          [
+            "he/she",
+            "could",
+            "check",
+            "Could she check my ear?"
+          ],
+          [
+            "we",
+            "could",
+            "open",
+            "Could we open the window?"
+          ],
+          [
+            "they",
+            "could",
+            "give",
+            "Could they give me a pill?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "could_modal",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Could you help me with this heavy bag, please?",
+          "translation_form": "¿Podrías ayudarme con esta bolsa pesada, por favor?",
+          "highlight_words": [
+            "could",
+            "you",
+            "help",
+            "me"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "me_pronoun",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Could you give me a pill for my backache?",
+          "translation_form": "¿Podrías darme una pastilla para mi dolor de espalda?",
+          "highlight_words": [
+            "could",
+            "you",
+            "give",
+            "me"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Could** es más cortés que *can*. En una farmacia o con un doctor, usa **could** para sonar más educado: *Could you check my ear?*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No olvides el verbo en forma base.** Después de *could*, el verbo no cambia: *Could you help me?* (NO *Could you helps me?*)."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *Could you to help me?* — el verbo va sin *to*: *Could you help me?*",
+        "Olvidar el signo de interrogación en inglés: *Could you help me?* (con ? al final).",
+        "Usar *could* con la persona cambiando: *He could helps* — no, siempre *he could help*."
+      ]
+    },
+    {
+      "slug": "may: permission",
+      "title_form": "May: pedir permiso",
+      "title_target": "May: asking for permission",
+      "description_md_form": "**May** se usa para **pedir permiso** de forma **formal y cortés**. Es perfecto para situaciones con personas que no conoces bien o en contextos serios, como una consulta médica.\n\nLa estructura es muy simple:\n\n- **May I + verbo...?** = ¿Puedo...?\n\nEjemplos:\n\n- `May I open the window?` = ¿Puedo abrir la ventana?\n- `May I see the doctor?` = ¿Puedo ver al doctor?\n\n**May** no cambia con la persona: siempre es **May I**, **May you**, **May he**, etc. No necesitas añadir *-s* ni cambiar nada.\n\n**Diferencia clave:** *May* es más formal que *can*. Usa *may* para pedir permiso con respeto; usa *can* para hablar de habilidad o en contextos informales.",
+      "description_md_target": "**May** is used to **ask for permission** in a **formal and polite** way. It is perfect for situations with people you do not know well or in serious contexts, like a medical appointment.\n\nThe structure is very simple:\n\n- **May I + verb...?** = Can I...?\n\nExamples:\n\n- `May I open the window?`\n- `May I see the doctor?`\n\n**May** does not change with the person: it is always **May I**, **May you**, **May he**, etc. You do not need to add *-s* or change anything.\n\n**Key difference:** *May* is more formal than *can*. Use *may* to ask for permission with respect; use *can* to talk about ability or in informal contexts.",
+      "grammar_structure": "May + subject + verb (base form)...?",
+      "conjugation_table": {
+        "name": "may_permission",
+        "headers": [
+          "Pronombre",
+          "Pregunta",
+          "Respuesta corta"
+        ],
+        "rows": [
+          [
+            "I",
+            "May I...?",
+            "Yes, you may. / No, you may not."
+          ],
+          [
+            "you",
+            "May you...?",
+            "Yes, I may. / No, I may not."
+          ],
+          [
+            "he/she/it",
+            "May he/she/it...?",
+            "Yes, he/she/it may. / No, he/she/it may not."
+          ],
+          [
+            "we",
+            "May we...?",
+            "Yes, you may. / No, you may not."
+          ],
+          [
+            "they",
+            "May they...?",
+            "Yes, they may. / No, they may not."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "may_modal",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "May I see the doctor? I have a terrible toothache.",
+          "translation_form": "¿Puedo ver al doctor? Tengo un dolor de muelas terrible.",
+          "highlight_words": [
+            "may",
+            "see",
+            "doctor",
+            "toothache"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": "chunk_a2_may_i_open",
+          "grammar_slug": null,
+          "text_target": "May I open the window? It is very hot in this room.",
+          "translation_form": "¿Puedo abrir la ventana? Hace mucho calor en esta habitación.",
+          "highlight_words": [
+            "may",
+            "open",
+            "window"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Usa **May I...?** en situaciones formales (médico, trabajo, personas mayores). Para amigos y familia, **Can I...?** es más natural y relajado."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *May I to open...?* El verbo va **sin *to***: *May I open...?*"
+        },
+        {
+          "type": "warning",
+          "text_md": "**Atención:** *May* no se usa para hablar de habilidad (eso es *can*). *May* es solo para **permiso** o **posibilidad**."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *May I to open the window?* — el verbo va sin *to*: *May I open the window?*",
+        "Confundir *may* con *can*: *may* es para permiso formal, *can* para habilidad o informal.",
+        "Olvidar que *may* no cambia con la persona: *May he...?*, no *Mays he...?*",
+        "Usar *may* en respuestas afirmativas cortas: se responde *Yes, you may* o *Yes, you can*, no *Yes, I may*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'could'?",
+      "options": [
+        "poder (condicional)",
+        "querer",
+        "deber",
+        "saber"
+      ],
+      "correct_answer": "poder (condicional)",
+      "explanation_md": "'Could' se usa para hacer peticiones corteses, como '¿podrías...?'.",
+      "related_lexeme_ids": [
+        "could_modal"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'may'?",
+      "options": [
+        "poder (permiso)",
+        "deber",
+        "querer",
+        "saber"
+      ],
+      "correct_answer": "poder (permiso)",
+      "explanation_md": "'May' se usa para pedir permiso de forma formal, como '¿puedo...?'.",
+      "related_lexeme_ids": [
+        "may_modal"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "backache",
+        "dolor de espalda",
+        "toothache",
+        "dolor de muelas",
+        "earache",
+        "dolor de oído"
+      ],
+      "correct_answer": [
+        "backache=dolor de espalda",
+        "toothache=dolor de muelas",
+        "earache=dolor de oído"
+      ],
+      "explanation_md": "Estas palabras combinan la parte del cuerpo con '-ache' para indicar dolor.",
+      "related_lexeme_ids": [
+        "backache",
+        "toothache",
+        "earache"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la frase: '______ I open the window? It is very hot.'",
+      "options": [
+        "Could",
+        "May",
+        "Can't",
+        "Must"
+      ],
+      "correct_answer": "May",
+      "explanation_md": "'May' es la forma más formal para pedir permiso. 'Could' también es posible, pero 'May' es más común para permiso.",
+      "related_lexeme_ids": [
+        "may_modal"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_may_i_open"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la respuesta más cortés a 'Could you help me?'?",
+      "options": [
+        "Yes, I can.",
+        "Of course.",
+        "No.",
+        "Maybe."
+      ],
+      "correct_answer": "Of course.",
+      "explanation_md": "'Of course' es una respuesta muy cortés y positiva a una petición con 'could'.",
+      "related_lexeme_ids": [
+        "could_modal"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_could_you_help_me"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'could' o 'may': '______ you give me a pill for my backache?'",
+      "options": null,
+      "correct_answer": "Could",
+      "explanation_md": "Usamos 'could' para hacer una petición cortés a otra persona.",
+      "related_lexeme_ids": [
+        "could_modal",
+        "backache"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'could' o 'may': '______ I see the doctor? I have a terrible toothache.'",
+      "options": null,
+      "correct_answer": "May",
+      "explanation_md": "Usamos 'may' para pedir permiso de forma formal, como en una consulta médica.",
+      "related_lexeme_ids": [
+        "may_modal",
+        "toothache"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Podrías revisar mi oído? Tengo dolor de oído.'",
+      "options": null,
+      "correct_answer": "Could you check my ear? I have an earache.",
+      "explanation_md": "Usamos 'could' para la petición y 'earache' para el dolor de oído.",
+      "related_lexeme_ids": [
+        "could_modal",
+        "earache"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'May I open the window?'",
+      "options": null,
+      "correct_answer": "¿Puedo abrir la ventana?",
+      "explanation_md": "'May I' es una forma muy cortés de pedir permiso.",
+      "related_lexeme_ids": [
+        "may_modal"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_may_i_open"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué le duele a Tom?",
+      "options": null,
+      "correct_answer": "A Tom le duele la espalda y las muelas.",
+      "explanation_md": "El texto dice 'He has a backache and a toothache'.",
+      "related_lexeme_ids": [
+        "backache",
+        "toothache",
+        "could_modal",
+        "may_modal"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_could_you_help_me"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Tom is at the doctor's office. He has a backache and a toothache. He says to the doctor, 'Could you help me, please? I have a lot of pain.' The doctor says, 'Of course. May I see your teeth?' Tom opens his mouth. The doctor checks his teeth and gives him a pill for the pain.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué pide la persona?",
+      "options": [
+        "Pide ayuda con una bolsa y permiso para ponerla.",
+        "Pide un café.",
+        "Pide una pastilla.",
+        "Pide la hora."
+      ],
+      "correct_answer": "Pide ayuda con una bolsa y permiso para ponerla.",
+      "explanation_md": "El audio usa 'Could you help me' y 'May I put it here'.",
+      "related_lexeme_ids": [
+        "could_modal",
+        "may_modal"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_could_you_help_me"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Excuse me. Could you help me with this bag? It is very heavy. May I put it here? Thank you very much.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones pidiendo ayuda o permiso en una farmacia. Usa 'could' o 'may'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'could' para peticiones y 'may' para permiso.",
+      "related_lexeme_ids": [
+        "could_modal",
+        "may_modal",
+        "backache"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_could_you_help_me"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Could you give me a pill for my backache, please?",
+        "May I see the pharmacist?"
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "backache",
+      "back": "dolor de espalda",
+      "hint": "parte del cuerpo",
+      "lexeme_id": "backache",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "toothache",
+      "back": "dolor de muelas",
+      "hint": "parte del cuerpo",
+      "lexeme_id": "toothache",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "earache",
+      "back": "dolor de oído",
+      "hint": "parte del cuerpo",
+      "lexeme_id": "earache",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "could",
+      "back": "podría (solicitud cortés)",
+      "hint": "verbo modal para pedir",
+      "lexeme_id": "could_modal",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "permission"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "me",
+      "back": "me / mí (objeto)",
+      "hint": "pronombre objeto",
+      "lexeme_id": "me_pronoun",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "may",
+      "back": "puede (permiso formal)",
+      "hint": "verbo modal para permiso",
+      "lexeme_id": "may_modal",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "permission"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "Could you help me, please?",
+      "back": "¿Podrías ayudarme, por favor?",
+      "hint": "solicitud cortés",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_could_you_help_me",
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "permission"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "May I open the window?",
+      "back": "¿Puedo abrir la ventana?",
+      "hint": "pedir permiso",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_may_i_open",
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "permission"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "pharmacy",
+      "back": "farmacia",
+      "hint": "lugar para comprar medicinas",
+      "lexeme_id": "pharmacy",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "pain",
+      "back": "dolor",
+      "hint": "sensación física",
+      "lexeme_id": "pain",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_047",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "backache",
+      "reading": "",
+      "translation": "dolor de espalda",
+      "pos": "noun",
+      "example": "Could you give me a pill for my backache?",
+      "example_translation": "¿Podrías darme una pastilla para mi dolor de espalda?",
+      "lexeme_id": "backache",
+      "chunk_id": null
+    },
+    {
+      "target_word": "toothache",
+      "reading": "",
+      "translation": "dolor de muelas",
+      "pos": "noun",
+      "example": "May I see the doctor? I have a terrible toothache.",
+      "example_translation": "¿Puedo ver al doctor? Tengo un dolor de muelas terrible.",
+      "lexeme_id": "toothache",
+      "chunk_id": null
+    },
+    {
+      "target_word": "earache",
+      "reading": "",
+      "translation": "dolor de oído",
+      "pos": "noun",
+      "example": "Could you check my ear? I have an earache.",
+      "example_translation": "¿Podrías revisar mi oído? Tengo dolor de oído.",
+      "lexeme_id": "earache",
+      "chunk_id": null
+    },
+    {
+      "target_word": "could",
+      "reading": "",
+      "translation": "podría (pasado de can / solicitud cortés)",
+      "pos": "auxiliary",
+      "example": "Could you help me with this heavy bag, please?",
+      "example_translation": "¿Podrías ayudarme con esta bolsa pesada, por favor?",
+      "lexeme_id": "could_modal",
+      "chunk_id": null
+    },
+    {
+      "target_word": "me",
+      "reading": "",
+      "translation": "me / mí (objeto)",
+      "pos": "pronoun",
+      "example": "Could you give me some medicine for the pain?",
+      "example_translation": "¿Podrías darme algo de medicina para el dolor?",
+      "lexeme_id": "me_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "may",
+      "reading": "",
+      "translation": "puede (permiso formal / posibilidad)",
+      "pos": "auxiliary",
+      "example": "May I open the window? It is very hot in this room.",
+      "example_translation": "¿Puedo abrir la ventana? Hace mucho calor en esta habitación.",
+      "lexeme_id": "may_modal",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Could you help me, please?",
+      "reading": "",
+      "translation": "¿Podrías ayudarme, por favor?",
+      "pos": "chunk",
+      "example": "Could you help me, please? I need to find the pharmacy.",
+      "example_translation": "¿Podrías ayudarme, por favor? Necesito encontrar la farmacia.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_could_you_help_me"
+    },
+    {
+      "target_word": "May I open the window?",
+      "reading": "",
+      "translation": "¿Puedo abrir la ventana?",
+      "pos": "chunk",
+      "example": "May I open the window? The room is very hot.",
+      "example_translation": "¿Puedo abrir la ventana? La habitación está muy caliente.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_may_i_open"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "backache",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dolor de espalda",
+      "lexeme_id": "backache",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_006",
+        "ex_010",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "toothache",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dolor de muelas",
+      "lexeme_id": "toothache",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_007",
+        "ex_010",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "earache",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dolor de oído",
+      "lexeme_id": "earache",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_008",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "could",
+      "role": "support",
+      "status": "practiced",
+      "translation": "podría (pasado de can / solicitud cortés)",
+      "lexeme_id": "could_modal",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_005",
+        "ex_006",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "me",
+      "role": "support",
+      "status": "introduced",
+      "translation": "me / mí (objeto)",
+      "lexeme_id": "me_pronoun",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "may",
+      "role": "support",
+      "status": "practiced",
+      "translation": "puede (permiso formal / posibilidad)",
+      "lexeme_id": "may_modal",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_004",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "Could you help me, please?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Podrías ayudarme, por favor?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_could_you_help_me",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_005",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "May I open the window?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Puedo abrir la ventana?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_may_i_open",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_004",
+        "ex_009",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "pharmacy",
+      "role": "support",
+      "status": "review",
+      "translation": "farmacia",
+      "lexeme_id": "pharmacy",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "pain",
+      "role": "support",
+      "status": "review",
+      "translation": "dolor",
+      "lexeme_id": "pain",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "open",
+      "role": "support",
+      "status": "emergent",
+      "translation": "abrir",
+      "lexeme_id": "open_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_008",
+        "ex_010",
+        "fc_008",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "window",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ventana",
+      "lexeme_id": "window",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_008",
+        "fc_008",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "give",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dar",
+      "lexeme_id": "give_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_006",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "room",
+      "role": "support",
+      "status": "emergent",
+      "translation": "habitación / cuarto",
+      "lexeme_id": "room",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_008"
+      ]
+    },
+    {
+      "term": "hot",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caliente",
+      "lexeme_id": "hot_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_008"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "bag",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bolsa",
+      "lexeme_id": "bag",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "pill",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pastilla / píldora",
+      "lexeme_id": "pill",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "heavy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fuerte / pesado",
+      "lexeme_id": "heavy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "find",
+      "role": "support",
+      "status": "emergent",
+      "translation": "encontrar",
+      "lexeme_id": "find_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "terrible",
+      "role": "support",
+      "status": "emergent",
+      "translation": "terrible",
+      "lexeme_id": "terrible_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "ear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oído / oreja",
+      "lexeme_id": "ear",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "medicine",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "polite",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "request",
+      "role": "support",
+      "status": "emergent",
+      "translation": "solicitud",
+      "lexeme_id": "request",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "permission",
+      "role": "support",
+      "status": "emergent",
+      "translation": "permiso",
+      "lexeme_id": "permission",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "way",
+      "role": "support",
+      "status": "emergent",
+      "translation": "manera / camino",
+      "lexeme_id": "way",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "excuse me",
+      "role": "support",
+      "status": "emergent",
+      "translation": "disculpe",
+      "lexeme_id": "excuse_me_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "subject",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_005"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 8,
+    "review_support_count": 2,
+    "emergent_count": 24,
+    "emergent_terms": [
+      "open",
+      "window",
+      "give",
+      "room",
+      "hot",
+      "see",
+      "bag",
+      "pill",
+      "doctor",
+      "need",
+      "check",
+      "heavy",
+      "find",
+      "terrible",
+      "ear",
+      "medicine",
+      "ask",
+      "polite",
+      "request",
+      "permission",
+      "person",
+      "way",
+      "excuse me",
+      "subject"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Making polite requests with could and may",
+      "title_target": "Quiz: Making polite requests with could and may",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'May I open the window?'?",
+          "prompt_target": "What does 'May I open the window?' mean?",
+          "options": [
+            "¿Puedo abrir la ventana?",
+            "¿Puedes abrir la ventana?",
+            "¿Abriste la ventana?",
+            "¿La ventana está abierta?"
+          ],
+          "correct_answer": "¿Puedo abrir la ventana?",
+          "explanation_form": "'May I...' se usa para pedir permiso de forma muy cortés. Aquí, la persona pregunta si puede abrir la ventana.",
+          "explanation_target": "'May I...' is used to ask for permission very politely. Here, the person asks if they can open the window.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "may_modal",
+            "chunk_a2_may_i_open",
+            "may: permission"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la petición cortés: '____ you help me with this bag?'",
+          "prompt_target": "Complete the polite request: '____ you help me with this bag?'",
+          "options": null,
+          "correct_answer": "Could",
+          "explanation_form": "'Could you...' es una forma muy cortés de pedir ayuda. Se usa 'could' + sujeto + verbo.",
+          "explanation_target": "'Could you...' is a very polite way to ask for help. Use 'could' + subject + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "could_modal",
+            "chunk_a2_could_you_help_me",
+            "could: polite requests"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la respuesta más cortés para pedir permiso?",
+          "prompt_target": "Which is the most polite way to ask for permission?",
+          "options": [
+            "May I sit here?",
+            "I sit here.",
+            "Sit here!",
+            "You sit here."
+          ],
+          "correct_answer": "May I sit here?",
+          "explanation_form": "'May I...' es la forma más cortés para pedir permiso. Las otras opciones son afirmaciones u órdenes, no peticiones.",
+          "explanation_target": "'May I...' is the most polite way to ask for permission. The other options are statements or commands, not requests.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "may_modal",
+            "may: permission"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué pide la persona?",
+          "prompt_target": "Listen and answer: What does the person ask for?",
+          "options": [
+            "Ayuda con una bolsa y permiso para sentarse",
+            "Una cita con el doctor",
+            "Una pastilla para el dolor",
+            "Un vaso de agua"
+          ],
+          "correct_answer": "Ayuda con una bolsa y permiso para sentarse",
+          "explanation_form": "La persona pide ayuda ('Could you help me?') porque tiene dolor de espalda y no puede cargar la bolsa, y luego pide permiso para sentarse ('May I sit here?').",
+          "explanation_target": "The person asks for help ('Could you help me?') because they have a backache and can't carry the bag, and then asks permission to sit ('May I sit here?').",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "could_modal",
+            "may_modal",
+            "backache",
+            "chunk_a2_could_you_help_me",
+            "could: polite requests",
+            "may: permission"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Excuse me. Could you help me? I have a backache and I can't carry this bag. May I sit here for a moment?",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una petición cortés:",
+          "prompt_target": "Order the words to form a polite request:",
+          "options": [
+            "May",
+            "I",
+            "open",
+            "the",
+            "window",
+            "?"
+          ],
+          "correct_answer": "May I open the window?",
+          "explanation_form": "Para pedir permiso con 'may', el orden es: May + sujeto + verbo + resto de la frase.",
+          "explanation_target": "To ask permission with 'may', the order is: May + subject + verb + rest of the sentence.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "may_modal",
+            "chunk_a2_may_i_open",
+            "may: permission"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la diferencia principal entre 'Could you...' y 'May I...'?",
+          "prompt_target": "What is the main difference between 'Could you...' and 'May I...'?",
+          "options": [
+            "'Could you' pide ayuda a otra persona; 'May I' pide permiso para uno mismo",
+            "'Could you' es para el pasado; 'May I' es para el futuro",
+            "No hay diferencia",
+            "'Could you' es más formal que 'May I'"
+          ],
+          "correct_answer": "'Could you' pide ayuda a otra persona; 'May I' pide permiso para uno mismo",
+          "explanation_form": "'Could you...' se usa para pedir que OTRA persona haga algo. 'May I...' se usa para pedir permiso para hacer algo uno mismo.",
+          "explanation_target": "'Could you...' is used to ask ANOTHER person to do something. 'May I...' is used to ask permission to do something yourself.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "could_modal",
+            "may_modal",
+            "could: polite requests",
+            "may: permission"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué problema tiene la persona?",
+          "prompt_target": "Listen and answer: What problem does the person have?",
+          "options": [
+            "Dolor de muela y dolor de oído",
+            "Dolor de cabeza y fiebre",
+            "Dolor de espalda y dolor de estómago",
+            "Dolor de garganta y tos"
+          ],
+          "correct_answer": "Dolor de muela y dolor de oído",
+          "explanation_form": "La persona dice 'I have a toothache and an earache', que significa que tiene dolor de muela y dolor de oído.",
+          "explanation_target": "The person says 'I have a toothache and an earache', which means they have a toothache and an earache.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "toothache",
+            "earache",
+            "could_modal",
+            "could: polite requests"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I have a toothache and an earache. Could you call the doctor for me? I can't talk on the phone now.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué pide la paciente?",
+          "prompt_target": "Read the text and answer: What does the patient ask for?",
+          "options": [
+            "Pide ayuda y permiso para ver una caja de pastillas",
+            "Pide una cita con el doctor",
+            "Pide un vaso de agua",
+            "Pide un taxi para ir a casa"
+          ],
+          "correct_answer": "Pide ayuda y permiso para ver una caja de pastillas",
+          "explanation_form": "Maria pide ayuda ('Could you help me?') y luego pide permiso para ver una caja de pastillas ('May I see that box of pills?').",
+          "explanation_target": "Maria asks for help ('Could you help me?') and then asks permission to see a box of pills ('May I see that box of pills?').",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "backache",
+            "could_modal",
+            "may_modal",
+            "pharmacy",
+            "pill",
+            "could: polite requests",
+            "may: permission"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": "Maria is at the pharmacy. She has a backache and needs some pills. She says to the salesperson: 'Could you help me? I need something for the pain. May I see that box of pills, please?' The salesperson gives her the box and says: 'Here you are.'",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Could y May: la cortesia en ingles\n\nEn ingles, **could** y **may** son tus mejores amigos para pedir ayuda o permiso de forma educada. **Could** es mas informal y se usa para pedir un favor: *Could you help me?* (¿Podrias ayudarme?). **May** es mas formal y se usa para pedir permiso: *May I open the window?* (¿Puedo abrir la ventana?). Usalos con el verbo en su forma base, sin 'to'.\n\n## Errores comunes y trucos\n\n- **No digas** 'Could you to help me?'. El verbo va solo: *Could you help me?*.\n- **No confundas** 'may' con 'maybe'. 'May' pide permiso; 'maybe' significa 'quizas'.\n- **Truco**: si tienes dolor (*backache*, *toothache*, *earache*), usa *Could you help me?* para pedir ayuda. Es la frase perfecta para el medico o la farmacia.\n- **Recuerda**: 'me' es un pronombre que va despues del verbo: *help me*, *give me*.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:58:20Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

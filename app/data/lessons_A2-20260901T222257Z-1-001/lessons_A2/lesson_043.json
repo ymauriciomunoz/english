@@ -1,0 +1,1842 @@
+{
+  "id": "lesson_043",
+  "position": 43,
+  "unit_id": 6,
+  "course_id": "en.A2",
+  "title_form": "Giving advice with should",
+  "title_target": "Dando consejos con should",
+  "theme_focus": "health",
+  "learning_objectives": [
+    "Can give simple advice about health problems using 'should'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_041"
+  ],
+  "grammar_focus": [
+    "should: advice"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "rest_verb",
+        "recover_verb",
+        "healthy_adj",
+        "health",
+        "illness",
+        "medical_adj",
+        "emergency",
+        "ambulance",
+        "should_modal"
+      ],
+      "chunk_ids": [
+        "chunk_a2_should_see_doctor"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "headache",
+        "fever",
+        "flu",
+        "cough",
+        "sore_throat",
+        "pain",
+        "feel_sick_phrase",
+        "feel_tired_phrase",
+        "ill_adj",
+        "temperature"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tomás se siente enfermo después de un viaje. Llama a su amiga Lucía para contarle que tiene dolor de cabeza y fiebre. Lucía le da consejos con should y le recomienda ver a un doctor. Más tarde, Tomás se siente peor y Lucía decide llamar a una ambulancia.",
+  "introduction_md": "## Dando consejos con should\n\nEn esta lección vas a aprender a dar consejos simples sobre problemas de salud usando **should** (deberías).\n\n- **should** + verbo: *You should rest.* (Deberías descansar.)\n- **shouldn't** + verbo: *You shouldn't go to work.* (No deberías ir a trabajar.)\n\nEsto es muy útil cuando alguien está enfermo y quieres ayudarle. También aprenderás palabras como *health*, *illness*, *emergency* y *ambulance*.\n\n**¿Qué vas a lograr?**\n\n- Dar consejos sobre salud.\n- Hablar de problemas comunes como dolor de cabeza o fiebre.\n- Entender y usar vocabulario médico básico.\n\n¡Vamos a practicar con situaciones reales!",
+  "intro_target": "## Giving advice with should\n\nIn this lesson, you will learn to give simple advice about health problems using **should**.\n\n- **should** + verb: *You should rest.*\n- **shouldn't** + verb: *You shouldn't go to work.*\n\nThis is very useful when someone is sick and you want to help them. You will also learn words like *health*, *illness*, *emergency*, and *ambulance*.\n\n**What will you achieve?**\n\n- Give advice about health.\n- Talk about common problems like headache or fever.\n- Understand and use basic medical vocabulary.\n\nLet's practice with real situations!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "should_modal",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You should rest today because you have a fever.",
+      "translation_form": "Deberías descansar hoy porque tienes fiebre.",
+      "highlight_words": [
+        "should",
+        "rest",
+        "fever"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "healthy_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Eating fruit and resting well keeps you healthy.",
+      "translation_form": "Comer fruta y descansar bien te mantiene sano.",
+      "highlight_words": [
+        "healthy",
+        "rest"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "recover_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You will recover faster if you sleep and drink water.",
+      "translation_form": "Te recuperarás más rápido si duermes y bebes agua.",
+      "highlight_words": [
+        "recover"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "emergency",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Call an ambulance in a medical emergency.",
+      "translation_form": "Llama a una ambulancia en una emergencia médica.",
+      "highlight_words": [
+        "emergency",
+        "ambulance",
+        "medical"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "illness",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This illness is not serious, but you should rest.",
+      "translation_form": "Esta enfermedad no es grave, pero deberías descansar.",
+      "highlight_words": [
+        "illness",
+        "should",
+        "rest"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "health",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Good health is important, so you should eat well.",
+      "translation_form": "La buena salud es importante, así que deberías comer bien.",
+      "highlight_words": [
+        "health",
+        "should"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "medical_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The nurse gave me some medical advice for my cough.",
+      "translation_form": "La enfermera me dio algunos consejos médicos para mi tos.",
+      "highlight_words": [
+        "medical",
+        "cough"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "should: advice",
+      "title_form": "Deberías: dando consejos con should",
+      "title_target": "Should: Giving Advice",
+      "description_md_form": "Usamos **should** para dar consejos o sugerencias. Es una forma de decir *\"es una buena idea\"* o *\"es lo correcto\"*.\n\nLa estructura es simple: **sujeto + should + verbo base**. El verbo no cambia con la persona.\n\n- *You **should rest** today.* = Deberías descansar hoy.\n- *She **should drink** water.* = Ella debería beber agua.\n\nPara la forma negativa, usamos **should not** (o **shouldn't**):\n\n- *You **should not** go to work.* = No deberías ir al trabajo.\n\nPara preguntar, invertimos el orden: **Should + sujeto + verbo?**\n\n- *Should I see a doctor?* = ¿Debería ver a un médico?\n\n**Should** es un verbo modal: no lleva *-s* en tercera persona y no usa *do/does* para preguntas o negaciones.",
+      "description_md_target": "We use **should** to give advice or suggestions. It means *\"it is a good idea\"* or *\"it is the right thing to do\"*.\n\nThe structure is simple: **subject + should + base verb**. The verb does not change with the person.\n\n- *You **should rest** today.*\n- *She **should drink** water.*\n\nFor the negative form, we use **should not** (or **shouldn't**):\n\n- *You **should not** go to work.*\n\nTo ask a question, we invert the order: **Should + subject + verb?**\n\n- *Should I see a doctor?*\n\n**Should** is a modal verb: it does not take *-s* in the third person and does not use *do/does* for questions or negatives.",
+      "grammar_structure": "Subject + should + base verb",
+      "conjugation_table": {
+        "name": "should_advice",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "I should rest",
+            "I should not rest",
+            "Should I rest?"
+          ],
+          [
+            "You",
+            "You should rest",
+            "You should not rest",
+            "Should you rest?"
+          ],
+          [
+            "He/She/It",
+            "He should rest",
+            "He should not rest",
+            "Should he rest?"
+          ],
+          [
+            "We",
+            "We should rest",
+            "We should not rest",
+            "Should we rest?"
+          ],
+          [
+            "They",
+            "They should rest",
+            "They should not rest",
+            "Should they rest?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "should_modal",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "You should rest today because you have a fever.",
+          "translation_form": "Deberías descansar hoy porque tienes fiebre.",
+          "highlight_words": [
+            "should",
+            "rest"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": "chunk_a2_should_see_doctor",
+          "grammar_slug": null,
+          "text_target": "You should see a doctor.",
+          "translation_form": "Deberías ver a un médico.",
+          "highlight_words": [
+            "should",
+            "see",
+            "doctor"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Should** no cambia con la persona. Decimos *he should rest*, no *he shoulds rest*. El verbo que sigue siempre está en forma base."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No uses *do* para negar: *You don't should rest* es incorrecto. La forma correcta es *You should not rest* o *You shouldn't rest*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *he shoulds rest* en lugar de *he should rest* (should nunca lleva -s).",
+        "Usar *do* en negaciones: *you don't should* en vez de *you shouldn't*.",
+        "Confundir *should* con *must*: *should* es un consejo suave, *must* es una obligación fuerte."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'should'?",
+      "options": [
+        "debería",
+        "puedo",
+        "quiero",
+        "necesito"
+      ],
+      "correct_answer": "debería",
+      "explanation_md": "'Should' se usa para dar consejos y significa 'debería'.",
+      "related_lexeme_ids": [
+        "should_modal"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'ambulance'?",
+      "options": [
+        "hospital",
+        "ambulancia",
+        "doctor",
+        "medicina"
+      ],
+      "correct_answer": "ambulancia",
+      "explanation_md": "'Ambulance' es el vehículo que lleva a los enfermos al hospital.",
+      "related_lexeme_ids": [
+        "ambulance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "rest",
+        "descansar",
+        "recover",
+        "recuperarse",
+        "healthy",
+        "sano",
+        "illness",
+        "enfermedad"
+      ],
+      "correct_answer": [
+        "rest=descansar",
+        "recover=recuperarse",
+        "healthy=sano",
+        "illness=enfermedad"
+      ],
+      "explanation_md": "Estas palabras son clave para hablar de salud y consejos.",
+      "related_lexeme_ids": [
+        "rest_verb",
+        "recover_verb",
+        "healthy_adj",
+        "illness"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la frase: 'You have a fever. You ____ rest today.'",
+      "options": [
+        "should",
+        "can",
+        "want",
+        "need"
+      ],
+      "correct_answer": "should",
+      "explanation_md": "Usamos 'should' para dar un consejo: 'deberías descansar'.",
+      "related_lexeme_ids": [
+        "should_modal",
+        "fever"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con la palabra correcta: 'Drink water and ____ well to get better.'",
+      "options": null,
+      "correct_answer": "rest",
+      "explanation_md": "'Rest' significa descansar, una acción importante para recuperarse.",
+      "related_lexeme_ids": [
+        "rest_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Deberías ver a un doctor.'",
+      "options": null,
+      "correct_answer": "You should see a doctor.",
+      "explanation_md": "Usamos 'should' + verbo para dar consejos. 'See a doctor' es una frase común.",
+      "related_lexeme_ids": [
+        "should_modal"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_should_see_doctor"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'You should call an ambulance in an emergency.'",
+      "options": null,
+      "correct_answer": "Deberías llamar a una ambulancia en una emergencia.",
+      "explanation_md": "La frase usa 'should' para un consejo importante en una emergencia.",
+      "related_lexeme_ids": [
+        "should_modal",
+        "ambulance",
+        "emergency"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es el mejor consejo para alguien con dolor de cabeza?",
+      "options": [
+        "You should rest in a quiet place.",
+        "You should run a marathon.",
+        "You should eat a lot of sugar.",
+        "You should go to a party."
+      ],
+      "correct_answer": "You should rest in a quiet place.",
+      "explanation_md": "Descansar en un lugar tranquilo es un buen consejo para el dolor de cabeza.",
+      "related_lexeme_ids": [
+        "rest_verb",
+        "headache"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto y responde: ¿Qué debería hacer Tom?",
+      "options": [
+        "Debería ir a trabajar.",
+        "Debería descansar y beber agua.",
+        "Debería hacer ejercicio.",
+        "Debería comer mucho."
+      ],
+      "correct_answer": "Debería descansar y beber agua.",
+      "explanation_md": "Anna le aconseja a Tom descansar y beber agua para sentirse mejor.",
+      "related_lexeme_ids": [
+        "rest_verb",
+        "cough",
+        "sore_throat",
+        "feel_tired_phrase",
+        "temperature"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_should_see_doctor"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Tom feels sick today. He has a cough and a sore throat. He feels tired and he has a temperature. His friend Anna says: 'You should rest and drink water. You should see a doctor if you don't feel better tomorrow.' Tom thinks Anna gives good advice.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el audio y responde: ¿Qué consejo da el doctor?",
+      "options": [
+        "Deberías trabajar mucho.",
+        "Deberías descansar y beber agua.",
+        "Deberías viajar.",
+        "Deberías comer mucho."
+      ],
+      "correct_answer": "Deberías descansar y beber agua.",
+      "explanation_md": "El doctor aconseja descansar y beber agua para recuperarse de la gripe.",
+      "related_lexeme_ids": [
+        "rest_verb",
+        "recover_verb",
+        "flu"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The doctor says: 'You have the flu. You should rest for a few days. Drink a lot of water and take your medicine. You will recover soon.'",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribe 2-3 oraciones dando consejos a un amigo que tiene fiebre. Usa 'should'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'should' para dar consejos sobre salud.",
+      "related_lexeme_ids": [
+        "should_modal",
+        "rest_verb",
+        "fever"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_should_see_doctor"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "You should rest today. You should drink water and take medicine. You should see a doctor if you feel worse."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué significa 'medical' en la frase 'medical emergency'?",
+      "options": [
+        "médico",
+        "familiar",
+        "personal",
+        "legal"
+      ],
+      "correct_answer": "médico",
+      "explanation_md": "'Medical' se refiere a la medicina o a los doctores.",
+      "related_lexeme_ids": [
+        "medical_adj",
+        "emergency"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con la palabra correcta: 'Eating fruit and vegetables is good for your ____.'",
+      "options": null,
+      "correct_answer": "health",
+      "explanation_md": "'Health' significa salud. Comer fruta y verduras es bueno para la salud.",
+      "related_lexeme_ids": [
+        "health",
+        "healthy_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Esta enfermedad no es grave, pero deberías descansar.'",
+      "options": null,
+      "correct_answer": "This illness is not serious, but you should rest.",
+      "explanation_md": "Usamos 'should' para dar un consejo suave. 'Illness' significa enfermedad.",
+      "related_lexeme_ids": [
+        "illness",
+        "should_modal",
+        "rest_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "rest",
+      "back": "descansar",
+      "hint": "verbo para cuando el cuerpo necesita pausa",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "recover",
+      "back": "recuperarse",
+      "hint": "volver a estar bien después de una enfermedad",
+      "lexeme_id": "recover_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "healthy",
+      "back": "sano / saludable",
+      "hint": "adjetivo para describir buena salud",
+      "lexeme_id": "healthy_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "health",
+      "back": "salud",
+      "hint": "sustantivo para el estado del cuerpo",
+      "lexeme_id": "health",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "illness",
+      "back": "enfermedad",
+      "hint": "sustantivo para una condición de salud",
+      "lexeme_id": "illness",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "medical",
+      "back": "médico (relacionado con la medicina)",
+      "hint": "adjetivo para cosas de medicina",
+      "lexeme_id": "medical_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "emergency",
+      "back": "emergencia",
+      "hint": "situación urgente que necesita ayuda rápida",
+      "lexeme_id": "emergency",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "ambulance",
+      "back": "ambulancia",
+      "hint": "vehículo para llevar enfermos al hospital",
+      "lexeme_id": "ambulance",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "should",
+      "back": "debería (consejo / obligación suave)",
+      "hint": "modal para dar consejos",
+      "lexeme_id": "should_modal",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "You should see a doctor.",
+      "back": "Deberías ver a un médico.",
+      "hint": "frase completa para dar consejo",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_should_see_doctor",
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "headache",
+      "back": "dolor de cabeza",
+      "hint": "síntoma común",
+      "lexeme_id": "headache",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "fever",
+      "back": "fiebre",
+      "hint": "temperatura alta del cuerpo",
+      "lexeme_id": "fever",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "flu",
+      "back": "gripe",
+      "hint": "enfermedad común con fiebre y tos",
+      "lexeme_id": "flu",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "cough",
+      "back": "tos",
+      "hint": "sonido del pecho cuando estás enfermo",
+      "lexeme_id": "cough",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "sore throat",
+      "back": "dolor de garganta",
+      "hint": "dolor al tragar",
+      "lexeme_id": "sore_throat",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_043",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "rest",
+      "reading": "",
+      "translation": "descansar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "recover",
+      "reading": "",
+      "translation": "recuperarse",
+      "pos": "verb",
+      "example": "You will recover faster if you sleep and drink water.",
+      "example_translation": "Te recuperarás más rápido si duermes y bebes agua.",
+      "lexeme_id": "recover_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "healthy",
+      "reading": "",
+      "translation": "sano / salubre / rubicundo",
+      "pos": "adjective",
+      "example": "Eating fruit and resting well keeps you healthy.",
+      "example_translation": "Comer fruta y descansar bien te mantiene sano.",
+      "lexeme_id": "healthy_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "health",
+      "reading": "",
+      "translation": "salud",
+      "pos": "noun",
+      "example": "Good health is important, so you should eat well.",
+      "example_translation": "La buena salud es importante, así que deberías comer bien.",
+      "lexeme_id": "health",
+      "chunk_id": null
+    },
+    {
+      "target_word": "illness",
+      "reading": "",
+      "translation": "enfermedad",
+      "pos": "noun",
+      "example": "This illness is not serious, but you should rest.",
+      "example_translation": "Esta enfermedad no es grave, pero deberías descansar.",
+      "lexeme_id": "illness",
+      "chunk_id": null
+    },
+    {
+      "target_word": "medical",
+      "reading": "",
+      "translation": "médico",
+      "pos": "adjective",
+      "example": "The nurse gave me some medical advice for my cough.",
+      "example_translation": "La enfermera me dio algunos consejos médicos para mi tos.",
+      "lexeme_id": "medical_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "emergency",
+      "reading": "",
+      "translation": "emergencia",
+      "pos": "noun",
+      "example": "Call an ambulance in a medical emergency.",
+      "example_translation": "Llama a una ambulancia en una emergencia médica.",
+      "lexeme_id": "emergency",
+      "chunk_id": null
+    },
+    {
+      "target_word": "ambulance",
+      "reading": "",
+      "translation": "ambulancia",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "ambulance",
+      "chunk_id": null
+    },
+    {
+      "target_word": "should",
+      "reading": "",
+      "translation": "debería (consejo / obligación suave)",
+      "pos": "auxiliary",
+      "example": "You should rest today because you have a fever.",
+      "example_translation": "Deberías descansar hoy porque tienes fiebre.",
+      "lexeme_id": "should_modal",
+      "chunk_id": null
+    },
+    {
+      "target_word": "You should see a doctor.",
+      "reading": "",
+      "translation": "Deberías ver a un médico.",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_should_see_doctor"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "rest",
+      "role": "support",
+      "status": "practiced",
+      "translation": "descansar",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_005",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_014",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "recover",
+      "role": "support",
+      "status": "practiced",
+      "translation": "recuperarse",
+      "lexeme_id": "recover_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_010",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "healthy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "sano / salubre / rubicundo",
+      "lexeme_id": "healthy_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_013",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "health",
+      "role": "support",
+      "status": "practiced",
+      "translation": "salud",
+      "lexeme_id": "health",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_013",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "illness",
+      "role": "support",
+      "status": "practiced",
+      "translation": "enfermedad",
+      "lexeme_id": "illness",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_003",
+        "ex_014",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "medical",
+      "role": "support",
+      "status": "practiced",
+      "translation": "médico",
+      "lexeme_id": "medical_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "emergency",
+      "role": "support",
+      "status": "practiced",
+      "translation": "emergencia",
+      "lexeme_id": "emergency",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_007",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "ambulance",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ambulancia",
+      "lexeme_id": "ambulance",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_007",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "should",
+      "role": "support",
+      "status": "practiced",
+      "translation": "debería (consejo / obligación suave)",
+      "lexeme_id": "should_modal",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_004",
+        "ex_006",
+        "ex_007",
+        "ex_011",
+        "ex_014",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "You should see a doctor.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Deberías ver a un médico.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_should_see_doctor",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_009",
+        "ex_011",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "fever",
+      "role": "support",
+      "status": "review",
+      "translation": "fiebre",
+      "lexeme_id": "fever",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_004",
+        "ex_011",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "headache",
+      "role": "support",
+      "status": "review",
+      "translation": "dolor de cabeza",
+      "lexeme_id": "headache",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "sore throat",
+      "role": "support",
+      "status": "review",
+      "translation": "dolor de garganta",
+      "lexeme_id": "sore_throat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "cough",
+      "role": "support",
+      "status": "review",
+      "translation": "tos",
+      "lexeme_id": "cough",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "fc_014"
+      ]
+    },
+    {
+      "term": "flu",
+      "role": "support",
+      "status": "review",
+      "translation": "gripe",
+      "lexeme_id": "flu",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "well",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_007"
+      ]
+    },
+    {
+      "term": "eat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comer",
+      "lexeme_id": "eat_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_007"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_010",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "fc_010",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "water",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agua",
+      "lexeme_id": "water",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "drink",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "advice",
+      "role": "support",
+      "status": "emergent",
+      "translation": "consejo",
+      "lexeme_id": "advice",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "sleep",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dormir",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "throat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "garganta",
+      "lexeme_id": "throat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "sore",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dolorido",
+      "lexeme_id": "sore_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "serious",
+      "role": "support",
+      "status": "emergent",
+      "translation": "serio",
+      "lexeme_id": "serious_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "fruit",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fruta",
+      "lexeme_id": "fruit",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "nurse",
+      "role": "support",
+      "status": "emergent",
+      "translation": "enfermero/a",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "important",
+      "role": "support",
+      "status": "emergent",
+      "translation": "importante",
+      "lexeme_id": "important_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "faster",
+      "role": "support",
+      "status": "emergent",
+      "translation": "veloz / rápido / animado",
+      "lexeme_id": "faster",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "feel",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sentir",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "better",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mejor",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "give",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dar",
+      "lexeme_id": "give_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "sick",
+      "role": "support",
+      "status": "emergent",
+      "translation": "enfermo",
+      "lexeme_id": "sick_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "tomorrow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "medicine",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 10,
+    "review_support_count": 5,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "well",
+      "eat",
+      "doctor",
+      "see",
+      "water",
+      "drink",
+      "today",
+      "advice",
+      "good",
+      "call",
+      "sleep",
+      "throat",
+      "sore",
+      "serious",
+      "fruit",
+      "nurse",
+      "important",
+      "faster",
+      "feel",
+      "better",
+      "word",
+      "take",
+      "give",
+      "sick",
+      "person",
+      "home",
+      "need",
+      "friend",
+      "tire",
+      "tomorrow",
+      "tired",
+      "medicine"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Giving advice with should",
+      "title_target": "Quiz: Giving advice with should",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase con la palabra correcta: 'You have a fever. You ______ see a doctor.'",
+          "prompt_target": "Complete the sentence with the correct word: 'You have a fever. You ______ see a doctor.'",
+          "options": null,
+          "correct_answer": "should",
+          "explanation_form": "Usamos 'should' para dar un consejo. Aquí, la persona tiene fiebre, así que el consejo es ver a un doctor.",
+          "explanation_target": "We use 'should' to give advice. Here, the person has a fever, so the advice is to see a doctor.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "should_modal",
+            "fever",
+            "chunk_a2_should_see_doctor"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'emergency'?",
+          "prompt_target": "What does 'emergency' mean?",
+          "options": [
+            "una emergencia",
+            "una cita",
+            "un hospital",
+            "una farmacia"
+          ],
+          "correct_answer": "una emergencia",
+          "explanation_form": "'Emergency' significa 'emergencia', una situación urgente que necesita ayuda inmediata.",
+          "explanation_target": "'Emergency' means 'emergencia', an urgent situation that needs immediate help.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "emergency",
+            "ambulance"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué consejo da la persona?",
+          "prompt_target": "Listen and answer: What advice does the person give?",
+          "options": [
+            "Deberías descansar hoy.",
+            "Deberías trabajar hoy.",
+            "Deberías ir al hospital.",
+            "Deberías tomar un taxi."
+          ],
+          "correct_answer": "Deberías descansar hoy.",
+          "explanation_form": "La persona dice 'You should rest today', que significa 'Deberías descansar hoy'.",
+          "explanation_target": "The person says 'You should rest today', which means 'Deberías descansar hoy'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "rest_verb",
+            "should_modal",
+            "feel_tired_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "You look tired. You should rest today. Don't work. Stay at home and sleep. You can feel better tomorrow.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "You",
+            "should",
+            "see",
+            "a",
+            "doctor"
+          ],
+          "correct_answer": "You should see a doctor",
+          "explanation_form": "La estructura correcta es: sujeto + should + verbo + complemento. 'You should see a doctor' significa 'Deberías ver a un doctor'.",
+          "explanation_target": "The correct structure is: subject + should + verb + complement. 'You should see a doctor' means 'Deberías ver a un doctor'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "should_modal",
+            "doctor",
+            "chunk_a2_should_see_doctor"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué debe hacer Tom?",
+          "prompt_target": "Read the text and answer: What should Tom do?",
+          "options": [
+            "Debe descansar y beber agua.",
+            "Debe ir a trabajar.",
+            "Debe tomar un taxi.",
+            "Debe llamar a una ambulancia."
+          ],
+          "correct_answer": "Debe descansar y beber agua.",
+          "explanation_form": "El amigo de Tom le dice 'You should rest and drink water', que significa 'Deberías descansar y beber agua'.",
+          "explanation_target": "Tom's friend tells him 'You should rest and drink water', which means 'Deberías descansar y beber agua'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cough",
+            "headache",
+            "rest_verb",
+            "ill_adj",
+            "should_modal"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Tom has a bad cough and a headache. He feels ill. His friend says: 'You should rest and drink water. If you don't feel better, you should see a doctor.' Tom listens to his friend and stays at home.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "health",
+            "salud",
+            "illness",
+            "enfermedad",
+            "medical",
+            "médico"
+          ],
+          "correct_answer": [
+            "health=salud",
+            "illness=enfermedad",
+            "medical=médico"
+          ],
+          "explanation_form": "Estas palabras están relacionadas con el tema de la salud: 'health' es salud, 'illness' es enfermedad y 'medical' es médico.",
+          "explanation_target": "These words are related to health: 'health' is salud, 'illness' is enfermedad and 'medical' is médico.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "health",
+            "illness",
+            "medical_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la palabra correcta: 'She is sick. She needs to ______ to feel better.'",
+          "prompt_target": "Complete with the correct word: 'She is sick. She needs to ______ to feel better.'",
+          "options": null,
+          "correct_answer": "recover",
+          "explanation_form": "'Recover' significa 'recuperarse'. Cuando estás enfermo, necesitas recuperarte para sentirte mejor.",
+          "explanation_target": "'Recover' means 'recuperarse'. When you are sick, you need to recover to feel better.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "recover_verb",
+            "sick",
+            "healthy_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué dice la persona sobre la ambulancia?",
+          "prompt_target": "Listen and answer: What does the person say about the ambulance?",
+          "options": [
+            "La ambulancia es rápida.",
+            "La ambulancia es lenta.",
+            "La ambulancia es cara.",
+            "La ambulancia es nueva."
+          ],
+          "correct_answer": "La ambulancia es rápida.",
+          "explanation_form": "La persona dice 'The ambulance can take the sick person to the hospital fast', lo que significa que la ambulancia es rápida.",
+          "explanation_target": "The person says 'The ambulance can take the sick person to the hospital fast', which means the ambulance is fast.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ambulance",
+            "emergency",
+            "hospital"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "This is an emergency. Call an ambulance now. The ambulance can take the sick person to the hospital fast.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Consejos con should\n\nUsa **should** para dar consejos: *You should rest* (Deberías descansar). Es una recomendación, no una orden. Para decir lo que NO debes hacer, usa **should not** o **shouldn't**: *You shouldn't go to work*.\n\n## Errores comunes\n\n- No digas *You should to rest*. Después de **should** va el verbo sin **to**.\n- Para preguntar, invierte el orden: *Should I see a doctor?* (¿Debería ver a un médico?).\n- **Should** es igual para todas las personas: *I should*, *he should*, *they should*. ¡No cambia!\n\n**Tip**: En una emergencia, llama a una **ambulance**. Si solo tienes **flu** o **fever**, descansa y bebe agua. ¡Cuídate!",
+  "metadata": {
+    "generated_at": "2026-08-31T18:57:09Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

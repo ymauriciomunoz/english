@@ -1,0 +1,1560 @@
+{
+  "id": "lesson_035",
+  "position": 35,
+  "unit_id": 6,
+  "course_id": "en.A1",
+  "title_form": "Preguntar por gustos",
+  "title_target": "Asking About Likes and Dislikes",
+  "theme_focus": "Preguntar y responder sobre gustos y preferencias.",
+  "learning_objectives": [
+    "Can ask yes/no questions about likes.",
+    "Can answer yes/no questions about likes using short answers."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_011",
+    "lesson_034"
+  ],
+  "grammar_focus": [
+    "present simple: yes/no questions with do/does"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "sports",
+        "films",
+        "games",
+        "movies",
+        "travelling",
+        "cooking"
+      ],
+      "chunk_ids": [
+        "chunk_yes_i_do",
+        "chunk_no_i_dont",
+        "chunk_do_you_like"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "like_verb",
+        "love_verb",
+        "hate_verb",
+        "football",
+        "tennis",
+        "music",
+        "book"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Dos amigos, Ana y Luis, se encuentran en un café. Ana quiere conocer mejor a Luis, así que le hace preguntas sobre sus gustos: deportes, películas, música y comida. Luis responde con entusiasmo y también le pregunta a Ana sobre sus preferencias. La conversación fluye naturalmente mientras descubren qué tienen en común.",
+  "introduction_md": "En esta lección vas a aprender a preguntar por los gustos de otras personas y a responder sobre los tuyos. Es una habilidad clave para conversaciones cotidianas: conocer a alguien, hacer amigos o simplemente charlar.\n\nVas a practicar:\n\n- Preguntas con **do you like...?**\n- Respuestas cortas: **Yes, I do** / **No, I don't**\n- Vocabulario de deportes, películas, juegos y más\n\nCon esto podrás hablar de lo que te gusta y descubrir lo que les gusta a los demás. ¡Vamos a empezar!",
+  "intro_target": "In this lesson you will learn to ask about other people's likes and to answer about yours. It is a key skill for everyday conversations: meeting someone, making friends, or just chatting.\n\nYou will practice:\n\n- Questions with **do you like...?**\n- Short answers: **Yes, I do** / **No, I don't**\n- Vocabulary about sports, films, games, and more\n\nWith this, you can talk about what you like and find out what others like. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_like",
+      "grammar_slug": null,
+      "text_target": "Do you like sports?",
+      "translation_form": "¿Te gustan los deportes?",
+      "highlight_words": [
+        "sports"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_yes_i_do",
+      "grammar_slug": null,
+      "text_target": "Yes, I do. I love football.",
+      "translation_form": "Sí, me gustan. Amo el fútbol.",
+      "highlight_words": [
+        "love",
+        "football"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": "chunk_no_i_dont",
+      "grammar_slug": null,
+      "text_target": "No, I don't. But I like films.",
+      "translation_form": "No, no me gustan. Pero me gustan las películas.",
+      "highlight_words": [
+        "like",
+        "films"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "movies",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Do you like movies or games?",
+      "translation_form": "¿Te gustan las películas o los juegos?",
+      "highlight_words": [
+        "movies",
+        "games"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "travelling",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I like travelling, but I hate cooking.",
+      "translation_form": "Me gusta viajar, pero odio cocinar.",
+      "highlight_words": [
+        "travelling",
+        "hate",
+        "cooking"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: yes/no questions with do/does",
+      "title_form": "Preguntas de sí/no con do",
+      "title_target": "Yes/No Questions with Do",
+      "description_md_form": "Para preguntar sobre gustos usamos **do** al inicio de la pregunta. La estructura es: **Do + sujeto + like + objeto?**\n\n- **Do you like sports?** = ¿Te gustan los deportes?\n- **Do you like films?** = ¿Te gustan las películas?\n\nPara responder, usamos respuestas cortas:\n\n- **Yes, I do.** = Sí, me gustan.\n- **No, I don't.** = No, no me gustan.\n\n**Importante:** En estas preguntas, el verbo *like* no cambia. No decimos *Do you likes?* El verbo queda en su forma base.",
+      "description_md_target": "To ask about likes, we use **do** at the start of the question. The structure is: **Do + subject + like + object?**\n\n- **Do you like sports?**\n- **Do you like films?**\n\nFor answers, we use short answers:\n\n- **Yes, I do.**\n- **No, I don't.**\n\n**Important:** In these questions, the verb *like* does not change. We don't say *Do you likes?* The verb stays in its base form.",
+      "grammar_structure": "Do + subject + like + object? → Yes, I do. / No, I don't.",
+      "conjugation_table": {
+        "name": "present_simple_questions",
+        "headers": [
+          "Pregunta",
+          "Respuesta afirmativa",
+          "Respuesta negativa"
+        ],
+        "rows": [
+          [
+            "Do you like sports?",
+            "Yes, I do.",
+            "No, I don't."
+          ],
+          [
+            "Do you like films?",
+            "Yes, I do.",
+            "No, I don't."
+          ],
+          [
+            "Do you like games?",
+            "Yes, I do.",
+            "No, I don't."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_do_you_like",
+          "grammar_slug": null,
+          "text_target": "Do you like sports?",
+          "translation_form": "¿Te gustan los deportes?",
+          "highlight_words": [
+            "do",
+            "you",
+            "like"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": "chunk_yes_i_do",
+          "grammar_slug": null,
+          "text_target": "Yes, I do. I love football.",
+          "translation_form": "Sí, me gustan. Amo el fútbol.",
+          "highlight_words": [
+            "yes",
+            "i",
+            "do"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Do** es la palabra mágica para preguntar. Solo ponla al inicio: *Do you like movies?*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas *Do you like movies?* con *s* en *like*.** El verbo no cambia en preguntas con *do*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *Do you likes movies?* — el verbo no lleva *s* después de *do*.",
+        "Responder *Yes, I like* — la respuesta corta correcta es *Yes, I do*.",
+        "Olvidar el *do* al inicio: *You like sports?* — en inglés necesitamos *Do you like sports?*"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'sports'?",
+      "options": [
+        "los deportes",
+        "las películas",
+        "los juegos",
+        "la comida"
+      ],
+      "correct_answer": "los deportes",
+      "explanation_md": "'Sports' significa 'deportes' en español.",
+      "related_lexeme_ids": [
+        "sports"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'travelling'?",
+      "options": [
+        "cocinar",
+        "viajar",
+        "leer",
+        "escuchar"
+      ],
+      "correct_answer": "viajar",
+      "explanation_md": "'Travelling' significa 'viajar' en español.",
+      "related_lexeme_ids": [
+        "travelling"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "films",
+        "las películas",
+        "games",
+        "los juegos",
+        "cooking",
+        "cocinar"
+      ],
+      "correct_answer": [
+        "films=las películas",
+        "games=los juegos",
+        "cooking=cocinar"
+      ],
+      "explanation_md": "Estas palabras son sustantivos y verbos comunes para hablar de gustos.",
+      "related_lexeme_ids": [
+        "films",
+        "games",
+        "cooking"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la respuesta: 'Do you like movies?' → 'Yes, ____.'",
+      "options": [
+        "I do",
+        "I don't",
+        "I am",
+        "I like"
+      ],
+      "correct_answer": "I do",
+      "explanation_md": "La respuesta corta afirmativa a 'Do you like...?' es 'Yes, I do.'",
+      "related_lexeme_ids": [
+        "movies"
+      ],
+      "related_chunk_ids": [
+        "chunk_yes_i_do"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la pregunta: '____ you like sports?'",
+      "options": null,
+      "correct_answer": "Do",
+      "explanation_md": "Usamos 'Do' para formar preguntas de sí/no con 'you' en presente simple.",
+      "related_lexeme_ids": [
+        "sports"
+      ],
+      "related_chunk_ids": [
+        "chunk_do_you_like"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'No, no me gustan. Pero me gustan las películas.'",
+      "options": null,
+      "correct_answer": "No, I don't. But I like films.",
+      "explanation_md": "Usamos 'No, I don't' para negar y 'But I like films' para contrastar.",
+      "related_lexeme_ids": [
+        "films"
+      ],
+      "related_chunk_ids": [
+        "chunk_no_i_dont"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Do you like games?'",
+      "options": null,
+      "correct_answer": "¿Te gustan los juegos?",
+      "explanation_md": "La pregunta 'Do you like...?' se traduce como '¿Te gustan...?'",
+      "related_lexeme_ids": [
+        "games"
+      ],
+      "related_chunk_ids": [
+        "chunk_do_you_like"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la respuesta correcta a 'Do you like cooking?'",
+      "options": [
+        "Yes, I do.",
+        "Yes, I am.",
+        "Yes, I like.",
+        "Yes, I don't."
+      ],
+      "correct_answer": "Yes, I do.",
+      "explanation_md": "La respuesta corta afirmativa siempre es 'Yes, I do.'",
+      "related_lexeme_ids": [
+        "cooking"
+      ],
+      "related_chunk_ids": [
+        "chunk_yes_i_do"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿A Tom le gustan los deportes?",
+      "options": [
+        "Yes, he does.",
+        "No, he does not.",
+        "He likes cooking.",
+        "He likes games."
+      ],
+      "correct_answer": "Yes, he does.",
+      "explanation_md": "El texto dice 'He likes sports', así que la respuesta es 'Yes, he does.'",
+      "related_lexeme_ids": [
+        "sports",
+        "movies",
+        "cooking"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom is my friend. He likes sports. He plays football and tennis. He also likes movies. But he does not like cooking. He says it is boring. He likes to watch films at home.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿A Ana le gusta viajar?",
+      "options": [
+        "Yes, she does.",
+        "No, she does not.",
+        "She likes games.",
+        "She likes cooking."
+      ],
+      "correct_answer": "Yes, she does.",
+      "explanation_md": "El audio dice 'Ana likes travelling', así que la respuesta es 'Yes, she does.'",
+      "related_lexeme_ids": [
+        "travelling",
+        "films",
+        "games"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Ana likes travelling. She visits new places every year. She also likes films. But she does not like games. She says they are boring.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre lo que te gusta y lo que no te gusta. Usa 'I like...' y 'I don't like...'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'I like' y 'I don't like' con vocabulario de la lección.",
+      "related_lexeme_ids": [
+        "sports",
+        "cooking",
+        "films",
+        "games",
+        "travelling"
+      ],
+      "related_chunk_ids": [
+        "chunk_yes_i_do",
+        "chunk_no_i_dont"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I like sports. I don't like cooking.",
+        "I like films and games. I don't like travelling."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la respuesta negativa: 'Do you like movies?' → 'No, ____.'",
+      "options": null,
+      "correct_answer": "I don't",
+      "explanation_md": "La respuesta corta negativa a 'Do you like...?' es 'No, I don't.'",
+      "related_lexeme_ids": [
+        "movies"
+      ],
+      "related_chunk_ids": [
+        "chunk_no_i_dont"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "sports",
+      "back": "deportes",
+      "hint": "actividad física",
+      "lexeme_id": "sports",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "films",
+      "back": "películas",
+      "hint": "sinónimo de movies",
+      "lexeme_id": "films",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "games",
+      "back": "juegos",
+      "hint": "actividad de ocio",
+      "lexeme_id": "games",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "movies",
+      "back": "películas",
+      "hint": "sinónimo de films",
+      "lexeme_id": "movies",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "travelling",
+      "back": "viajar (afición)",
+      "hint": "actividad de ocio",
+      "lexeme_id": "travelling",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "cooking",
+      "back": "cocinar (actividad)",
+      "hint": "preparar comida",
+      "lexeme_id": "cooking",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "Do you like ...?",
+      "back": "¿Te gusta ...?",
+      "hint": "pregunta sobre gustos",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_like",
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "Yes, I do.",
+      "back": "Sí, me gusta.",
+      "hint": "respuesta corta afirmativa",
+      "lexeme_id": null,
+      "chunk_id": "chunk_yes_i_do",
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "No, I don't.",
+      "back": "No, no me gusta.",
+      "hint": "respuesta corta negativa",
+      "lexeme_id": null,
+      "chunk_id": "chunk_no_i_dont",
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "football",
+      "back": "fútbol",
+      "hint": "deporte popular",
+      "lexeme_id": "football",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "tennis",
+      "back": "tenis",
+      "hint": "deporte con raqueta",
+      "lexeme_id": "tennis",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "sports"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "music",
+      "back": "música",
+      "hint": "arte sonoro",
+      "lexeme_id": "music",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_035",
+        "A1",
+        "hobbies"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "sports",
+      "reading": "",
+      "translation": "deportes",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "sports",
+      "chunk_id": null
+    },
+    {
+      "target_word": "films",
+      "reading": "",
+      "translation": "películas",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "films",
+      "chunk_id": null
+    },
+    {
+      "target_word": "games",
+      "reading": "",
+      "translation": "juegos",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "games",
+      "chunk_id": null
+    },
+    {
+      "target_word": "movies",
+      "reading": "",
+      "translation": "películas",
+      "pos": "noun",
+      "example": "Do you like movies or games?",
+      "example_translation": "¿Te gustan las películas o los juegos?",
+      "lexeme_id": "movies",
+      "chunk_id": null
+    },
+    {
+      "target_word": "travelling",
+      "reading": "",
+      "translation": "viajar (afición)",
+      "pos": "noun",
+      "example": "I like travelling, but I hate cooking.",
+      "example_translation": "Me gusta viajar, pero odio cocinar.",
+      "lexeme_id": "travelling",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cooking",
+      "reading": "",
+      "translation": "cocinar (actividad)",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "cooking",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Yes, I do.",
+      "reading": "",
+      "translation": "Respuesta corta afirmativa a una pregunta con do.",
+      "pos": "chunk",
+      "example": "Yes, I do. I love football.",
+      "example_translation": "Sí, me gustan. Amo el fútbol.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_yes_i_do"
+    },
+    {
+      "target_word": "No, I don't.",
+      "reading": "",
+      "translation": "Respuesta corta negativa a una pregunta con do.",
+      "pos": "chunk",
+      "example": "No, I don't. But I like films.",
+      "example_translation": "No, no me gustan. Pero me gustan las películas.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_no_i_dont"
+    },
+    {
+      "target_word": "Do you like ...?",
+      "reading": "",
+      "translation": "¿Te gusta ...",
+      "pos": "chunk",
+      "example": "Do you like sports?",
+      "example_translation": "¿Te gustan los deportes?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_like"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "sports",
+      "role": "support",
+      "status": "practiced",
+      "translation": "deportes",
+      "lexeme_id": "sports",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_005",
+        "ex_009",
+        "ex_011",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "films",
+      "role": "support",
+      "status": "practiced",
+      "translation": "películas",
+      "lexeme_id": "films",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_006",
+        "ex_010",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "games",
+      "role": "support",
+      "status": "practiced",
+      "translation": "juegos",
+      "lexeme_id": "games",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "movies",
+      "role": "support",
+      "status": "practiced",
+      "translation": "películas",
+      "lexeme_id": "movies",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_004",
+        "ex_009",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "travelling",
+      "role": "support",
+      "status": "practiced",
+      "translation": "viajar (afición)",
+      "lexeme_id": "travelling",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_002",
+        "ex_010",
+        "ex_011",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "cooking",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cocinar (actividad)",
+      "lexeme_id": "cooking",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "Yes, I do.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Respuesta corta afirmativa a una pregunta con do.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_yes_i_do",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_004",
+        "ex_008",
+        "ex_011",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "No, I don't.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Respuesta corta negativa a una pregunta con do.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_no_i_dont",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_006",
+        "ex_011",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "Do you like ...?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Te gusta ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_like",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_005",
+        "ex_007",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "football",
+      "role": "support",
+      "status": "review",
+      "translation": "fútbol",
+      "lexeme_id": "football",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "tennis",
+      "role": "support",
+      "status": "review",
+      "translation": "tenis",
+      "lexeme_id": "tennis",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "music",
+      "role": "support",
+      "status": "review",
+      "translation": "música",
+      "lexeme_id": "music",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "film",
+      "role": "support",
+      "status": "emergent",
+      "translation": "película",
+      "lexeme_id": "film",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "game",
+      "role": "support",
+      "status": "emergent",
+      "translation": "juego",
+      "lexeme_id": "game",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "ex_011",
+        "fc_003",
+        "quiz_001:q_003",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "movie",
+      "role": "support",
+      "status": "emergent",
+      "translation": "película",
+      "lexeme_id": "movie",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "fc_004",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "sport",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_011",
+        "fc_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "cook",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocinar",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_011",
+        "fc_006",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "love",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amar / encantar",
+      "lexeme_id": "love_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "hate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "odiar",
+      "lexeme_id": "hate_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "bore",
+      "role": "support",
+      "status": "emergent",
+      "translation": "aburrir",
+      "lexeme_id": "bore_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "boring",
+      "role": "support",
+      "status": "emergent",
+      "translation": "aburrido",
+      "lexeme_id": "boring_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "short",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bajo",
+      "lexeme_id": "short_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "negative",
+      "role": "support",
+      "status": "emergent",
+      "translation": "negativo",
+      "lexeme_id": "negative_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "make",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer / fabricar",
+      "lexeme_id": "make_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "watch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar / ver",
+      "lexeme_id": "watch_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_008",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "fill",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llenar",
+      "lexeme_id": "fill",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "fill in",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rellenar",
+      "lexeme_id": "fill_in_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "blank",
+      "role": "support",
+      "status": "emergent",
+      "translation": "espacio en blanco",
+      "lexeme_id": "blank",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "translate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "traducción",
+      "lexeme_id": "translate",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "affirmative",
+      "role": "support",
+      "status": "emergent",
+      "translation": "afirmativo",
+      "lexeme_id": "affirmative_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 9,
+    "review_support_count": 3,
+    "emergent_count": 19,
+    "emergent_terms": [
+      "film",
+      "game",
+      "movie",
+      "sport",
+      "cook",
+      "love",
+      "hate",
+      "bore",
+      "boring",
+      "short",
+      "negative",
+      "make",
+      "watch",
+      "ask",
+      "fill",
+      "fill in",
+      "blank",
+      "translate",
+      "affirmative"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Preguntar por gustos",
+      "title_target": "Quiz: Asking About Likes and Dislikes",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to make a correct question:",
+          "options": [
+            "you",
+            "Do",
+            "like",
+            "films",
+            "?"
+          ],
+          "correct_answer": "Do you like films?",
+          "explanation_form": "En inglés, las preguntas de sí/no con 'do' empiezan con 'Do' + sujeto + verbo.",
+          "explanation_target": "In English, yes/no questions with 'do' start with 'Do' + subject + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_do_you_like",
+            "films"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué le gusta a Tom?",
+          "prompt_target": "Listen and answer: What does Tom like?",
+          "options": [
+            "Football",
+            "Movies",
+            "Tennis",
+            "Cooking"
+          ],
+          "correct_answer": "Football",
+          "explanation_form": "Tom dice 'He plays football on Saturday' y 'He does not like movies'. Le gusta el fútbol.",
+          "explanation_target": "Tom says 'He plays football on Saturday' and 'He does not like movies'. He likes football.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sports",
+            "football",
+            "movies"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Tom likes sports. He plays football on Saturday. He does not like movies. He says movies are boring.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué le gusta a Ana?",
+          "prompt_target": "Listen and answer: What does Ana like?",
+          "options": [
+            "Cooking",
+            "Games",
+            "Movies",
+            "Music"
+          ],
+          "correct_answer": "Cooking",
+          "explanation_form": "Ana dice 'Ana likes cooking' y 'She does not like games'. Le gusta cocinar.",
+          "explanation_target": "Ana says 'Ana likes cooking' and 'She does not like games'. She likes cooking.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cooking",
+            "games"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Ana likes cooking. She makes soup and salad. She does not like games. She says games are boring.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué le gusta a Mike?",
+          "prompt_target": "Read the text and answer: What does Mike like?",
+          "options": [
+            "Travelling and films",
+            "Sports and films",
+            "Games and movies",
+            "Cooking and music"
+          ],
+          "correct_answer": "Travelling and films",
+          "explanation_form": "El texto dice 'He likes travelling and films' y 'He does not like sports'.",
+          "explanation_target": "The text says 'He likes travelling and films' and 'He does not like sports'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "travelling",
+            "films",
+            "sports"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Mike is a student. He likes travelling and films. He watches movies at the weekend. He does not like sports. He says sports are boring.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo respondés 'Sí, me gusta' a la pregunta 'Do you like music?'",
+          "prompt_target": "How do you answer 'Yes, I like it' to the question 'Do you like music?'",
+          "options": [
+            "Yes, I do.",
+            "Yes, I am.",
+            "No, I don't.",
+            "Yes, I like."
+          ],
+          "correct_answer": "Yes, I do.",
+          "explanation_form": "La respuesta corta afirmativa a 'Do you...?' es 'Yes, I do.'",
+          "explanation_target": "The short affirmative answer to 'Do you...?' is 'Yes, I do.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_yes_i_do",
+            "music"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo respondés 'No, no me gusta' a la pregunta 'Do you like football?'",
+          "prompt_target": "How do you answer 'No, I do not like it' to the question 'Do you like football?'",
+          "options": [
+            "No, I don't.",
+            "No, I do.",
+            "No, I am not.",
+            "No, I don't like."
+          ],
+          "correct_answer": "No, I don't.",
+          "explanation_form": "La respuesta corta negativa a 'Do you...?' es 'No, I don't.'",
+          "explanation_target": "The short negative answer to 'Do you...?' is 'No, I don't.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_no_i_dont",
+            "football"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traducí al español: 'Do you like games?'",
+          "prompt_target": "Translate to Spanish: 'Do you like games?'",
+          "options": null,
+          "correct_answer": "¿Te gustan los juegos?",
+          "explanation_form": "'Do you like...?' se traduce como '¿Te gusta...?' o '¿Te gustan...?' según el sustantivo.",
+          "explanation_target": "'Do you like...?' translates as '¿Te gusta...?' or '¿Te gustan...?' depending on the noun.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_do_you_like",
+            "games"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: '¿Te gusta viajar?'",
+          "prompt_target": "Translate to English: '¿Te gusta viajar?'",
+          "options": null,
+          "correct_answer": "Do you like travelling?",
+          "explanation_form": "Para preguntar por gustos usamos 'Do you like' + verbo con -ing.",
+          "explanation_target": "To ask about likes we use 'Do you like' + verb with -ing.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_do_you_like",
+            "travelling"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja cada respuesta con su significado:",
+          "prompt_target": "Match each answer with its meaning:",
+          "options": [
+            "Yes, I do.",
+            "Sí, me gusta.",
+            "No, I don't.",
+            "No, no me gusta."
+          ],
+          "correct_answer": [
+            "Yes, I do.=Sí, me gusta.",
+            "No, I don't.=No, no me gusta."
+          ],
+          "explanation_form": "'Yes, I do' es la respuesta afirmativa corta y 'No, I don't' es la negativa corta.",
+          "explanation_target": "'Yes, I do' is the short affirmative answer and 'No, I don't' is the short negative answer.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_yes_i_do",
+            "chunk_no_i_dont"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ you like movies?'",
+          "prompt_target": "Fill in the blank: '____ you like movies?'",
+          "options": null,
+          "correct_answer": "Do",
+          "explanation_form": "Para formar una pregunta con 'you' usamos 'Do' al principio.",
+          "explanation_target": "To form a question with 'you' we use 'Do' at the beginning.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_do_you_like",
+            "movies"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la respuesta: 'No, I ____.'",
+          "prompt_target": "Fill in the blank: 'No, I ____.'",
+          "options": null,
+          "correct_answer": "don't",
+          "explanation_form": "La respuesta negativa corta usa 'don't' después de 'I'.",
+          "explanation_target": "The short negative answer uses 'don't' after 'I'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_no_i_dont"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué pregunta es correcta para saber si a alguien le gusta el tenis?",
+          "prompt_target": "Which question is correct to ask if someone likes tennis?",
+          "options": [
+            "Do you like tennis?",
+            "You like tennis?",
+            "Do you like football?",
+            "Like you tennis?"
+          ],
+          "correct_answer": "Do you like tennis?",
+          "explanation_form": "La forma correcta es 'Do you like' + sustantivo.",
+          "explanation_target": "The correct form is 'Do you like' + noun.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_do_you_like",
+            "tennis"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Preguntas de sí o no con do/does\n\nPara preguntar por gustos en inglés, usamos **Do you like...?** (con I, you, we, they) y **Does he/she like...?** (con he, she, it). Fíjate que con **does**, el verbo **like** no lleva **-s**: decimos *Does she like films?*, no *Does she likes films?*.\n\n## Respuestas cortas\n\nResponde con **Yes, I do** o **No, I don't**. No repitas el verbo completo. Para he/she, usa **Yes, he does** o **No, she doesn't**. Es la forma más natural y rápida de contestar en inglés.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:39:10Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

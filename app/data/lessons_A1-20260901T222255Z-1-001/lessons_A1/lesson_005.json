@@ -1,0 +1,1479 @@
+{
+  "id": "lesson_005",
+  "position": 5,
+  "unit_id": 1,
+  "course_id": "en.A1",
+  "title_form": "Números del 11 al 20",
+  "title_target": "Counting from 11 to 20",
+  "theme_focus": "Números cardinales del 11 al 20 y su uso en contextos simples.",
+  "learning_objectives": [
+    "Can count from 11 to 20.",
+    "Can use numbers 11-20 in simple contexts."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_004"
+  ],
+  "grammar_focus": [],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "eleven_num",
+        "twelve_num",
+        "thirteen_num",
+        "fourteen_num",
+        "fifteen_num",
+        "sixteen_num",
+        "seventeen_num",
+        "eighteen_num",
+        "nineteen_num",
+        "twenty_num",
+        "let_verb"
+      ],
+      "chunk_ids": [
+        "chunk_lets_count"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "one_num",
+        "two_num",
+        "three_num",
+        "four_num",
+        "five_num"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tomás está en una tienda de frutas. Quiere comprar manzanas para una fiesta. La vendedora le pregunta cuántas quiere y él cuenta las manzanas del 11 al 20. Después, Tomás practica los números con su amiga Ana mientras esperan el autobús.",
+  "introduction_md": "¡Hola! En esta lección vas a aprender los números del 11 al 20 en inglés. Contar es una habilidad básica que usarás todos los días: para decir tu edad, hablar de precios, dar tu número de teléfono o contar objetos. \n\nVamos a practicar con situaciones simples y útiles. Al final, podrás: \n- Contar del 11 al 20. \n- Usar estos números en frases cortas y naturales. \n\n¡Empecemos! Es más fácil de lo que piensas.",
+  "intro_target": "Hello! In this lesson, you will learn the numbers from 11 to 20 in English. Counting is a basic skill you will use every day: to say your age, talk about prices, give your phone number, or count objects. \n\nWe will practice with simple and useful situations. At the end, you will be able to: \n- Count from 11 to 20. \n- Use these numbers in short, natural sentences. \n\nLet's start! It is easier than you think.",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "eleven_num",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am eleven years old.",
+      "translation_form": "Tengo once años.",
+      "highlight_words": [
+        "eleven"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "twelve_num",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The student has twelve pencils.",
+      "translation_form": "El estudiante tiene doce lápices.",
+      "highlight_words": [
+        "twelve"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "thirteen_num",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We see thirteen cats at the station.",
+      "translation_form": "Vemos trece gatos en la estación.",
+      "highlight_words": [
+        "thirteen"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "fourteen_num",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She asks for fourteen cups of tea.",
+      "translation_form": "Ella pide catorce tazas de té.",
+      "highlight_words": [
+        "fourteen"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "fifteen_num",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There are fifteen apples on the table.",
+      "translation_form": "Hay quince manzanas sobre la mesa.",
+      "highlight_words": [
+        "fifteen"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "sixteen_num",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My friend has sixteen books.",
+      "translation_form": "Mi amigo tiene dieciséis libros.",
+      "highlight_words": [
+        "sixteen"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'eleven'?",
+      "options": [
+        "once",
+        "doce",
+        "trece",
+        "catorce"
+      ],
+      "correct_answer": "once",
+      "explanation_md": "'Eleven' es el número once.",
+      "related_lexeme_ids": [
+        "eleven_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'twenty'?",
+      "options": [
+        "diecinueve",
+        "veinte",
+        "dieciocho",
+        "diecisiete"
+      ],
+      "correct_answer": "veinte",
+      "explanation_md": "'Twenty' es el número veinte.",
+      "related_lexeme_ids": [
+        "twenty_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada número con su forma escrita en inglés:",
+      "options": [
+        "13",
+        "thirteen",
+        "15",
+        "fifteen",
+        "17",
+        "seventeen",
+        "19",
+        "nineteen"
+      ],
+      "correct_answer": [
+        "13=thirteen",
+        "15=fifteen",
+        "17=seventeen",
+        "19=nineteen"
+      ],
+      "explanation_md": "Estos son los números del 13 al 19 en inglés.",
+      "related_lexeme_ids": [
+        "thirteen_num",
+        "fifteen_num",
+        "seventeen_num",
+        "nineteen_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa: 'I am ____ years old.' (Tengo catorce años.)",
+      "options": [
+        "twelve",
+        "fourteen",
+        "sixteen",
+        "eighteen"
+      ],
+      "correct_answer": "fourteen",
+      "explanation_md": "'Fourteen' significa catorce.",
+      "related_lexeme_ids": [
+        "fourteen_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el número correcto: 'There are ____ apples on the table.' (Hay dieciséis manzanas.)",
+      "options": null,
+      "correct_answer": "sixteen",
+      "explanation_md": "'Sixteen' significa dieciséis.",
+      "related_lexeme_ids": [
+        "sixteen_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Tengo dieciocho años.'",
+      "options": null,
+      "correct_answer": "I am eighteen years old.",
+      "explanation_md": "Usa 'I am' + número + 'years old' para decir la edad.",
+      "related_lexeme_ids": [
+        "eighteen_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'She has twelve pencils.'",
+      "options": null,
+      "correct_answer": "Ella tiene doce lápices.",
+      "explanation_md": "'Twelve' es doce.",
+      "related_lexeme_ids": [
+        "twelve_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué número es 'nineteen'?",
+      "options": [
+        "diecisiete",
+        "dieciocho",
+        "diecinueve",
+        "veinte"
+      ],
+      "correct_answer": "diecinueve",
+      "explanation_md": "'Nineteen' es diecinueve.",
+      "related_lexeme_ids": [
+        "nineteen_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá y respondé: ¿Cuántos gatos hay?",
+      "options": [
+        "once",
+        "doce",
+        "trece",
+        "catorce"
+      ],
+      "correct_answer": "trece",
+      "explanation_md": "El audio dice 'thirteen cats', que significa trece gatos.",
+      "related_lexeme_ids": [
+        "thirteen_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "We see thirteen cats at the station. They are small and old. The cats are near the door.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá y respondé: ¿Cuántos años tiene la persona?",
+      "options": [
+        "catorce",
+        "quince",
+        "dieciséis",
+        "diecisiete"
+      ],
+      "correct_answer": "quince",
+      "explanation_md": "El audio dice 'I am fifteen years old', que significa tengo quince años.",
+      "related_lexeme_ids": [
+        "fifteen_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Hello, my name is Ana. I am a student. I am fifteen years old. I am from the school.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuántos años tiene Tom?",
+      "options": [
+        "quince",
+        "dieciséis",
+        "diecisiete",
+        "dieciocho"
+      ],
+      "correct_answer": "diecisiete",
+      "explanation_md": "El texto dice 'Tom is seventeen years old', que significa Tom tiene diecisiete años.",
+      "related_lexeme_ids": [
+        "seventeen_num",
+        "sixteen_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom is a student. He is at the school with his friend. Tom is seventeen years old. His friend is sixteen years old. They are good friends. They count together.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu edad y la de un amigo o familiar. Usa números del 11 al 20.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de los números del 11 al 20 y la estructura 'I am ... years old'.",
+      "related_lexeme_ids": [
+        "eleven_num",
+        "twelve_num",
+        "thirteen_num",
+        "twenty_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I am twelve years old. My friend is thirteen years old.",
+        "I am eleven years old. My sister is twenty years old."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "eleven",
+      "back": "once",
+      "hint": "número entre 10 y 12",
+      "lexeme_id": "eleven_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "twelve",
+      "back": "doce",
+      "hint": "número de meses en un año",
+      "lexeme_id": "twelve_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "thirteen",
+      "back": "trece",
+      "hint": "número de la mala suerte",
+      "lexeme_id": "thirteen_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "fourteen",
+      "back": "catorce",
+      "hint": "número después de 13",
+      "lexeme_id": "fourteen_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "fifteen",
+      "back": "quince",
+      "hint": "número de minutos en un cuarto de hora",
+      "lexeme_id": "fifteen_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "sixteen",
+      "back": "dieciséis",
+      "hint": "número después de 15",
+      "lexeme_id": "sixteen_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "seventeen",
+      "back": "diecisiete",
+      "hint": "número después de 16",
+      "lexeme_id": "seventeen_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "eighteen",
+      "back": "dieciocho",
+      "hint": "número después de 17",
+      "lexeme_id": "eighteen_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "nineteen",
+      "back": "diecinueve",
+      "hint": "número después de 18",
+      "lexeme_id": "nineteen_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "twenty",
+      "back": "veinte",
+      "hint": "número después de 19",
+      "lexeme_id": "twenty_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "let",
+      "back": "dejar / permitir",
+      "hint": "verbo que usamos para proponer algo",
+      "lexeme_id": "let_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "Let's count!",
+      "back": "¡Contemos!",
+      "hint": "frase para empezar a contar",
+      "lexeme_id": null,
+      "chunk_id": "chunk_lets_count",
+      "target_term": null,
+      "tags": [
+        "lesson_005",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "eleven",
+      "reading": "",
+      "translation": "once",
+      "pos": "numeral",
+      "example": "I am eleven years old.",
+      "example_translation": "Tengo once años.",
+      "lexeme_id": "eleven_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "twelve",
+      "reading": "",
+      "translation": "doce",
+      "pos": "numeral",
+      "example": "The student has twelve pencils.",
+      "example_translation": "El estudiante tiene doce lápices.",
+      "lexeme_id": "twelve_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "thirteen",
+      "reading": "",
+      "translation": "trece",
+      "pos": "numeral",
+      "example": "We see thirteen cats at the station.",
+      "example_translation": "Vemos trece gatos en la estación.",
+      "lexeme_id": "thirteen_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "fourteen",
+      "reading": "",
+      "translation": "catorce",
+      "pos": "numeral",
+      "example": "She asks for fourteen cups of tea.",
+      "example_translation": "Ella pide catorce tazas de té.",
+      "lexeme_id": "fourteen_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "fifteen",
+      "reading": "",
+      "translation": "quince",
+      "pos": "numeral",
+      "example": "There are fifteen apples on the table.",
+      "example_translation": "Hay quince manzanas sobre la mesa.",
+      "lexeme_id": "fifteen_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sixteen",
+      "reading": "",
+      "translation": "dieciséis",
+      "pos": "numeral",
+      "example": "My friend has sixteen books.",
+      "example_translation": "Mi amigo tiene dieciséis libros.",
+      "lexeme_id": "sixteen_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "seventeen",
+      "reading": "",
+      "translation": "diecisiete",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "seventeen_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "eighteen",
+      "reading": "",
+      "translation": "dieciocho",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "eighteen_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "nineteen",
+      "reading": "",
+      "translation": "diecinueve",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "nineteen_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "twenty",
+      "reading": "",
+      "translation": "veinte",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "twenty_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "let",
+      "reading": "",
+      "translation": "dejar / permitir",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "let_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Let's count!",
+      "reading": "",
+      "translation": "¡Contemos!",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_lets_count"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "eleven",
+      "role": "support",
+      "status": "practiced",
+      "translation": "once",
+      "lexeme_id": "eleven_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "twelve",
+      "role": "support",
+      "status": "practiced",
+      "translation": "doce",
+      "lexeme_id": "twelve_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "thirteen",
+      "role": "support",
+      "status": "practiced",
+      "translation": "trece",
+      "lexeme_id": "thirteen_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_009",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "fourteen",
+      "role": "support",
+      "status": "practiced",
+      "translation": "catorce",
+      "lexeme_id": "fourteen_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_004",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "fifteen",
+      "role": "support",
+      "status": "practiced",
+      "translation": "quince",
+      "lexeme_id": "fifteen_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_010",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "sixteen",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dieciséis",
+      "lexeme_id": "sixteen_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_005",
+        "ex_011",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "seventeen",
+      "role": "support",
+      "status": "practiced",
+      "translation": "diecisiete",
+      "lexeme_id": "seventeen_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "eighteen",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dieciocho",
+      "lexeme_id": "eighteen_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "nineteen",
+      "role": "support",
+      "status": "practiced",
+      "translation": "diecinueve",
+      "lexeme_id": "nineteen_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_008",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "twenty",
+      "role": "support",
+      "status": "practiced",
+      "translation": "veinte",
+      "lexeme_id": "twenty_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_012",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "let",
+      "role": "support",
+      "status": "introduced",
+      "translation": "dejar / permitir",
+      "lexeme_id": "let_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "Let's count!",
+      "role": "support",
+      "status": "introduced",
+      "translation": "¡Contemos!",
+      "lexeme_id": null,
+      "chunk_id": "chunk_lets_count",
+      "source": "cart",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "eleven",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_012",
+        "fc_001",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "sixteen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_011",
+        "fc_006",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "thirteen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "twelve",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_012",
+        "fc_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "fourteen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "cat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gato",
+      "lexeme_id": "cat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "there are",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hay (plural)",
+      "lexeme_id": "there_are_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "station",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estación",
+      "lexeme_id": "station",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "count",
+      "role": "support",
+      "status": "emergent",
+      "translation": "contar",
+      "lexeme_id": "count_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "eighteen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "seventeen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "twenty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "table",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mesa",
+      "lexeme_id": "table",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "tea",
+      "role": "support",
+      "status": "emergent",
+      "translation": "té",
+      "lexeme_id": "tea",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "apple",
+      "role": "support",
+      "status": "emergent",
+      "translation": "manzana",
+      "lexeme_id": "apple",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "cup",
+      "role": "support",
+      "status": "emergent",
+      "translation": "taza",
+      "lexeme_id": "cup",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "pencil",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lápiz",
+      "lexeme_id": "pencil",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "nineteen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 12,
+    "review_support_count": 0,
+    "emergent_count": 26,
+    "emergent_terms": [
+      "eleven",
+      "sixteen",
+      "thirteen",
+      "twelve",
+      "fourteen",
+      "old",
+      "year",
+      "student",
+      "friend",
+      "cat",
+      "there are",
+      "see",
+      "station",
+      "count",
+      "eighteen",
+      "seventeen",
+      "twenty",
+      "book",
+      "ask",
+      "table",
+      "tea",
+      "apple",
+      "cup",
+      "pencil",
+      "nineteen",
+      "school"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Números del 11 al 20",
+      "title_target": "Quiz: Numbers from 11 to 20",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "matching",
+          "prompt_form": "Empareja cada número con su forma escrita en inglés:",
+          "prompt_target": null,
+          "options": [
+            "11",
+            "eleven",
+            "13",
+            "thirteen",
+            "17",
+            "seventeen",
+            "20",
+            "twenty"
+          ],
+          "correct_answer": [
+            "11=eleven",
+            "13=thirteen",
+            "17=seventeen",
+            "20=twenty"
+          ],
+          "explanation_form": "Los números del 11 al 20 tienen formas propias en inglés: eleven (11), thirteen (13), seventeen (17) y twenty (20).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eleven_num",
+            "thirteen_num",
+            "seventeen_num",
+            "twenty_num"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I am ____ years old.' (Tengo 15 años.)",
+          "prompt_target": "Complete the sentence: 'I am ____ years old.' (I am 15 years old.)",
+          "options": null,
+          "correct_answer": "fifteen",
+          "explanation_form": "Para decir la edad usamos 'I am' + número + 'years old'. Fifteen es 15.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "fifteen_num",
+            "age"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí el número que oís:",
+          "prompt_target": "Listen and choose the number you hear:",
+          "options": [
+            "12",
+            "14",
+            "15",
+            "20"
+          ],
+          "correct_answer": "12",
+          "explanation_form": "La frase dice 'twelve years old', que significa 12 años.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "twelve_num",
+            "fourteen_num",
+            "friend",
+            "birthday",
+            "cat",
+            "dog"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "My friend is twelve years old. Her birthday is on the fourteenth of May. She has a cat and a dog.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Cuántos estudiantes hay en la escuela?",
+          "prompt_target": "Read the text and answer: How many students are at the school?",
+          "options": [
+            "11",
+            "18",
+            "7",
+            "20"
+          ],
+          "correct_answer": "18",
+          "explanation_form": "El texto dice 'My class has eighteen students', que significa que hay 18 estudiantes.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eighteen_num",
+            "eleven_num",
+            "seventeen_num",
+            "school",
+            "student",
+            "teacher",
+            "mr",
+            "smith"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "This is my school. I am a student. My school has eighteen students. There are eleven girls and seven boys. My teacher is Mr. Smith. He is very nice.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "Let's",
+            "count",
+            "to",
+            "twenty",
+            "together"
+          ],
+          "correct_answer": "Let's count to twenty together",
+          "explanation_form": "La frase correcta es 'Let's count to twenty together' (Contemos hasta veinte juntos).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "let_verb",
+            "chunk_lets_count",
+            "twenty_num",
+            "together"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué número es 'sixteen'?",
+          "prompt_target": "What number is 'sixteen'?",
+          "options": [
+            "16",
+            "15",
+            "17",
+            "14"
+          ],
+          "correct_answer": "16",
+          "explanation_form": "Sixteen es 16 en inglés.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sixteen_num"
+          ],
+          "points": 5,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el número correcto: '____ + 5 = 20'",
+          "prompt_target": "Complete with the correct number: '____ + 5 = 20'",
+          "options": null,
+          "correct_answer": "fifteen",
+          "explanation_form": "15 + 5 = 20. Fifteen es 15 y twenty es 20.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "fifteen_num",
+            "twenty_num"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Números del 11 al 20\n\nLos números del 11 al 15 tienen un nombre propio (eleven, twelve, thirteen, fourteen, fifteen). Del 16 al 19, la regla es fácil: el número + \"teen\" (sixteen, seventeen, eighteen, nineteen). ¡Ojo! No digas \"ten and six\" — en inglés se dice todo junto: sixteen.\n\n## Trucos para recordar\n\n- **Eleven y twelve** no siguen ninguna regla: memorizalos como palabras unicas.\n- **Thirteen y fifteen** cambian la letra: no son \"threeteen\" ni \"fiveteen\".\n- **Twenty** es el primero de la siguiente decena: veinte.\n- Para contar del 1 al 20, usa el chunk \"Let's count!\" (¡Contemos!) con un amigo. Es una forma natural de practicar el número en voz alta.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:29:03Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

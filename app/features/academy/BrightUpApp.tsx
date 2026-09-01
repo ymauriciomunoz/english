@@ -1,8 +1,8 @@
 "use client";
 
 import A1LessonPage from "../../a1-lesson-page";
-import { a1Roadmap } from "../../a1-expanded-course";
-import { allLessons, a1Lessons } from "./course-data";
+import { courseRoadmaps } from "../../course-content";
+import { allLessons } from "./course-data";
 import { getStudentInitials } from "./course-utils";
 import { useAcademyState } from "./hooks/use-academy-state";
 import { useEnglishSpeech } from "./hooks/use-english-speech";
@@ -17,17 +17,22 @@ export function BrightUpApp() {
   const academy = useAcademyState();
   const speech = useEnglishSpeech();
   const studentInitials = getStudentInitials(academy.studentName);
+  const activeLesson = academy.activeLesson;
 
-  if (academy.activeLesson?.level === "A1" && academy.activeA1Entry) {
+  if (activeLesson && activeLesson.level !== "C1") {
+    const level = activeLesson.level;
+    const courseEntries = courseRoadmaps[level];
+    if (!academy.activeCourseEntry) return <main className="a1-lesson-page"><section className="course-lesson-loading"><span>{academy.courseLessonError ? "!" : "B"}</span><h1>{academy.courseLessonError ? "No se pudo abrir la lección" : "Preparando tu lección…"}</h1><p>{academy.courseLessonError || `${level} · Lección ${activeLesson.number} · ${activeLesson.title}`}</p>{academy.courseLessonError && <button onClick={academy.exitCourseLesson}>Volver a mi ruta</button>}</section></main>;
     return <A1LessonPage
-      key={academy.activeLesson.id}
-      entry={academy.activeA1Entry}
-      courseEntries={a1Roadmap}
-      lessonNumber={academy.activeLesson.number}
-      totalLessons={a1Lessons.length}
-      onExit={academy.exitA1Lesson}
-      onComplete={academy.completeA1Lesson}
-      onNextLesson={academy.nextA1Lesson}
+      key={activeLesson.id}
+      level={level}
+      entry={academy.activeCourseEntry}
+      courseEntries={courseEntries}
+      lessonNumber={activeLesson.number}
+      totalLessons={courseEntries.length}
+      onExit={academy.exitCourseLesson}
+      onComplete={academy.completeCourseLesson}
+      onNextLesson={academy.nextCourseLesson}
       onSpeak={speech.speakEnglish}
     />;
   }

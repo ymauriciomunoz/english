@@ -1,0 +1,1446 @@
+{
+  "id": "lesson_002",
+  "position": 2,
+  "unit_id": 1,
+  "course_id": "en.A1",
+  "title_form": "Preguntar cómo estás",
+  "title_target": "Asking How Someone Is",
+  "theme_focus": "Preguntar y responder sobre el estado de ánimo y bienestar.",
+  "learning_objectives": [
+    "Can ask how someone is.",
+    "Can respond to 'How are you?' using basic expressions."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_001"
+  ],
+  "grammar_focus": [
+    "present simple: be (am/is/are) with adjectives"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "fine_adj",
+        "ok_interj",
+        "happy_adj",
+        "sad_adj",
+        "tired_adj",
+        "good_adj",
+        "bad_adj",
+        "thanks_interj"
+      ],
+      "chunk_ids": [
+        "chunk_how_are_you",
+        "chunk_im_fine_thanks"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "hello_interj",
+        "bye_interj",
+        "name"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana se encuentra con su amigo Tom en la calle. Ella lo saluda, le pregunta cómo está y Tom responde con un adjetivo. Luego Tom le pregunta a Ana cómo está ella, y ella responde. Es una conversación corta y amable entre dos amigos que se encuentran.",
+  "introduction_md": "En esta lección vas a aprender a preguntar **cómo está alguien** y a responder con expresiones básicas. Es una de las primeras cosas que haces en cualquier conversación.\n\nVas a practicar:\n- La pregunta **How are you?**\n- Respuestas con adjetivos: **fine**, **happy**, **tired**, etc.\n- El verbo **to be** (am/is/are) con adjetivos.\n\nAl final, podrás saludar, preguntar cómo está una persona y responder tú mismo. ¡Vamos a empezar!",
+  "intro_target": "In this lesson, you will learn to ask **how someone is** and to answer with basic expressions. It is one of the first things you do in any conversation.\n\nYou will practice:\n- The question **How are you?**\n- Answers with adjectives: **fine**, **happy**, **tired**, etc.\n- The verb **to be** (am/is/are) with adjectives.\n\nAt the end, you will be able to greet, ask how a person is, and answer yourself. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_are_you",
+      "grammar_slug": null,
+      "text_target": "Hello, how are you?",
+      "translation_form": "Hola, ¿cómo estás?",
+      "highlight_words": [
+        "hello",
+        "how are you"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_fine_thanks",
+      "grammar_slug": null,
+      "text_target": "I'm fine, thanks. And you?",
+      "translation_form": "Estoy bien, gracias. ¿Y tú?",
+      "highlight_words": [
+        "i'm fine",
+        "thanks"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I am tired today.",
+      "translation_form": "Estoy cansado hoy.",
+      "highlight_words": [
+        "tired"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My friend is happy.",
+      "translation_form": "Mi amigo está feliz.",
+      "highlight_words": [
+        "happy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The coffee is good.",
+      "translation_form": "El café está bueno.",
+      "highlight_words": [
+        "good"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "sad_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is sad.",
+      "translation_form": "Ella está triste.",
+      "highlight_words": [
+        "sad"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: be (am/is/are) with adjectives",
+      "title_form": "El verbo ser/estar con adjetivos",
+      "title_target": "The verb to be with adjectives",
+      "description_md_form": "En inglés, para decir cómo te sientes, usamos el verbo **to be** (ser/estar) con un **adjetivo**. Es muy simple: el verbo cambia según la persona.\n\n- **I am** happy. (Yo estoy feliz.)\n- **You are** tired. (Tú estás cansado.)\n- **He/She/It is** sad. (Él/Ella está triste.)\n\nEn conversación, usamos las formas cortas: **I'm**, **you're**, **he's**, etc. Por ejemplo: **I'm fine, thanks.**\n\nLa estructura es siempre: **sujeto + verbo to be + adjetivo**.",
+      "description_md_target": "In English, to say how you feel, we use the verb **to be** with an **adjective**. It is very simple: the verb changes depending on the person.\n\n- **I am** happy.\n- **You are** tired.\n- **He/She/It is** sad.\n\nIn conversation, we use the short forms: **I'm**, **you're**, **he's**, etc. For example: **I'm fine, thanks.**\n\nThe structure is always: **subject + verb to be + adjective**.",
+      "grammar_structure": "Subject + to be (am/is/are) + adjective",
+      "conjugation_table": {
+        "name": "present_simple_be",
+        "headers": [
+          "Pronombre",
+          "Forma",
+          "Forma corta"
+        ],
+        "rows": [
+          [
+            "I",
+            "am",
+            "I'm"
+          ],
+          [
+            "you",
+            "are",
+            "you're"
+          ],
+          [
+            "he / she / it",
+            "is",
+            "he's / she's / it's"
+          ],
+          [
+            "we",
+            "are",
+            "we're"
+          ],
+          [
+            "they",
+            "are",
+            "they're"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_im_fine_thanks",
+          "grammar_slug": null,
+          "text_target": "I'm fine, thanks.",
+          "translation_form": "Estoy bien, gracias.",
+          "highlight_words": [
+            "i'm",
+            "fine"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "tired_adj",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I am tired today.",
+          "translation_form": "Estoy cansado hoy.",
+          "highlight_words": [
+            "am",
+            "tired"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, **am**, **is** y **are** significan tanto *ser* como *estar*. No necesitas elegir entre los dos verbos como en español."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *I am happy* con el verbo *to be* en forma completa en conversación. Usa la forma corta: **I'm happy**."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'I is happy' en lugar de 'I am happy'. El verbo 'to be' cambia con cada persona.",
+        "Olvidar el verbo 'to be' y decir 'I happy' en lugar de 'I'm happy'.",
+        "Usar 'am' con 'you': 'You am tired' en lugar de 'You are tired'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'tired'?",
+      "options": [
+        "feliz",
+        "cansado",
+        "triste",
+        "enojado"
+      ],
+      "correct_answer": "cansado",
+      "explanation_md": "'Tired' significa 'cansado' en español.",
+      "related_lexeme_ids": [
+        "tired_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'happy'?",
+      "options": [
+        "triste",
+        "enojado",
+        "feliz",
+        "cansado"
+      ],
+      "correct_answer": "feliz",
+      "explanation_md": "'Happy' significa 'feliz' en español.",
+      "related_lexeme_ids": [
+        "happy_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra en inglés con su significado en español:",
+      "options": [
+        "good",
+        "bad",
+        "sad",
+        "bueno",
+        "malo",
+        "triste"
+      ],
+      "correct_answer": [
+        "good=bueno",
+        "bad=malo",
+        "sad=triste"
+      ],
+      "explanation_md": "Estas son las palabras para describir cómo te sientes o cómo es algo.",
+      "related_lexeme_ids": [
+        "good_adj",
+        "bad_adj",
+        "sad_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la conversación: 'Hello, how are you?' → '____, thanks. And you?'",
+      "options": [
+        "I'm fine",
+        "I'm sad",
+        "I'm tired",
+        "I'm bad"
+      ],
+      "correct_answer": "I'm fine",
+      "explanation_md": "La respuesta natural a 'How are you?' es 'I'm fine, thanks.'",
+      "related_lexeme_ids": [
+        "fine_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_im_fine_thanks"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'My friend ____ happy today.' (usa el verbo correcto)",
+      "options": null,
+      "correct_answer": "is",
+      "explanation_md": "Usamos 'is' con 'my friend' (tercera persona singular).",
+      "related_lexeme_ids": [
+        "happy_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I ____ tired today.' (usa el verbo correcto)",
+      "options": null,
+      "correct_answer": "am",
+      "explanation_md": "Usamos 'am' con 'I'.",
+      "related_lexeme_ids": [
+        "tired_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'El café está bueno.'",
+      "options": null,
+      "correct_answer": "The coffee is good.",
+      "explanation_md": "Usamos 'is' con 'the coffee' y el adjetivo 'good'.",
+      "related_lexeme_ids": [
+        "good_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I am sad today.'",
+      "options": null,
+      "correct_answer": "Estoy triste hoy.",
+      "explanation_md": "'I am sad' se traduce como 'Estoy triste'.",
+      "related_lexeme_ids": [
+        "sad_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la respuesta correcta a 'How are you?'?",
+      "options": [
+        "I'm fine, thanks.",
+        "I'm a student.",
+        "My name is Ana.",
+        "I'm from Spain."
+      ],
+      "correct_answer": "I'm fine, thanks.",
+      "explanation_md": "La respuesta estándar a 'How are you?' es 'I'm fine, thanks.'",
+      "related_lexeme_ids": [
+        "fine_adj",
+        "thanks_interj"
+      ],
+      "related_chunk_ids": [
+        "chunk_how_are_you",
+        "chunk_im_fine_thanks"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿cómo está Ana?",
+      "options": [
+        "Ana está feliz.",
+        "Ana está cansada.",
+        "Ana está triste.",
+        "Ana está enojada."
+      ],
+      "correct_answer": "Ana está cansada.",
+      "explanation_md": "Ana dice 'I am tired today', que significa 'Estoy cansada hoy'.",
+      "related_lexeme_ids": [
+        "tired_adj",
+        "happy_adj",
+        "fine_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_how_are_you",
+        "chunk_im_fine_thanks"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is at school. She is with her friend, Maria. Maria asks, 'How are you, Ana?' Ana says, 'I'm fine, thanks. But I am tired today.' Maria says, 'Oh, I am happy today!' They are good friends.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿cómo está Pedro?",
+      "options": [
+        "Pedro está feliz.",
+        "Pedro está cansado.",
+        "Pedro está triste.",
+        "Pedro está enojado."
+      ],
+      "correct_answer": "Pedro está triste.",
+      "explanation_md": "Pedro dice 'I am sad', que significa 'Estoy triste'.",
+      "related_lexeme_ids": [
+        "sad_adj",
+        "good_adj",
+        "bad_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Hello, my name is Pedro. I am at home today. I am not at school. I am sad because my dog is bad. But my coffee is good.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones presentándote: tu nombre y cómo estás hoy. Usa 'My name is...' y 'I am...'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'My name is' y 'I am' + adjetivo.",
+      "related_lexeme_ids": [
+        "fine_adj",
+        "tired_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_im_fine_thanks"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "My name is Ana. I am fine, thanks.",
+        "My name is Pedro. I am tired today."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "fine",
+      "back": "bien",
+      "hint": "se usa para decir que estás bien",
+      "lexeme_id": "fine_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "OK",
+      "back": "ok, de acuerdo",
+      "hint": "expresión de acuerdo",
+      "lexeme_id": "ok_interj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "happy",
+      "back": "feliz / contento",
+      "hint": "emoción positiva",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "sad",
+      "back": "triste",
+      "hint": "emoción negativa",
+      "lexeme_id": "sad_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "tired",
+      "back": "cansado",
+      "hint": "cuando necesitas descansar",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "good",
+      "back": "bueno",
+      "hint": "opuesto de bad",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "opinions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "bad",
+      "back": "malo",
+      "hint": "opuesto de good",
+      "lexeme_id": "bad_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "opinions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "thanks",
+      "back": "gracias (informal)",
+      "hint": "para agradecer",
+      "lexeme_id": "thanks_interj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "How are you?",
+      "back": "¿Cómo estás?",
+      "hint": "saludo para preguntar cómo está alguien",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_are_you",
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "I'm fine, thanks.",
+      "back": "Estoy bien, gracias.",
+      "hint": "respuesta a How are you?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_fine_thanks",
+      "target_term": null,
+      "tags": [
+        "lesson_002",
+        "A1",
+        "social"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "fine",
+      "reading": "",
+      "translation": "bien",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "fine_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "OK",
+      "reading": "",
+      "translation": "ok, de acuerdo",
+      "pos": "interjection",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "ok_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "happy",
+      "reading": "",
+      "translation": "feliz / contento",
+      "pos": "adjective",
+      "example": "My friend is happy.",
+      "example_translation": "Mi amigo está feliz.",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sad",
+      "reading": "",
+      "translation": "triste",
+      "pos": "adjective",
+      "example": "She is sad.",
+      "example_translation": "Ella está triste.",
+      "lexeme_id": "sad_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tired",
+      "reading": "",
+      "translation": "cansado",
+      "pos": "adjective",
+      "example": "I am tired today.",
+      "example_translation": "Estoy cansado hoy.",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "good",
+      "reading": "",
+      "translation": "bueno",
+      "pos": "adjective",
+      "example": "The coffee is good.",
+      "example_translation": "El café está bueno.",
+      "lexeme_id": "good_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bad",
+      "reading": "",
+      "translation": "malo",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "bad_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "thanks",
+      "reading": "",
+      "translation": "gracias (informal)",
+      "pos": "interjection",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "thanks_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "How are you?",
+      "reading": "",
+      "translation": "¿Cómo estás?",
+      "pos": "chunk",
+      "example": "Hello, how are you?",
+      "example_translation": "Hola, ¿cómo estás?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_are_you"
+    },
+    {
+      "target_word": "I'm fine, thanks.",
+      "reading": "",
+      "translation": "Estoy bien, gracias.",
+      "pos": "chunk",
+      "example": "I'm fine, thanks. And you?",
+      "example_translation": "Estoy bien, gracias. ¿Y tú?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_fine_thanks"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "fine",
+      "role": "support",
+      "status": "practiced",
+      "translation": "bien",
+      "lexeme_id": "fine_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "OK",
+      "role": "support",
+      "status": "introduced",
+      "translation": "ok, de acuerdo",
+      "lexeme_id": "ok_interj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_002"
+      ]
+    },
+    {
+      "term": "happy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "feliz / contento",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_005",
+        "ex_010",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "sad",
+      "role": "support",
+      "status": "practiced",
+      "translation": "triste",
+      "lexeme_id": "sad_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_003",
+        "ex_008",
+        "ex_011",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_001",
+        "ex_006",
+        "ex_010",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "practiced",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_007",
+        "ex_011",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "bad",
+      "role": "support",
+      "status": "practiced",
+      "translation": "malo",
+      "lexeme_id": "bad_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "thanks",
+      "role": "support",
+      "status": "practiced",
+      "translation": "gracias (informal)",
+      "lexeme_id": "thanks_interj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "How are you?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Cómo estás?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_are_you",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_010",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "I'm fine, thanks.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Estoy bien, gracias.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_fine_thanks",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_004",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "thank",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agradecer",
+      "lexeme_id": "thank_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_012",
+        "fc_008",
+        "fc_010",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_012",
+        "fc_005",
+        "quiz_001:q_004",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "hello",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hola",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "present",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actual",
+      "lexeme_id": "present_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_011",
+        "quiz_001:q_012",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "name",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nombre",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_009"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 10,
+    "review_support_count": 0,
+    "emergent_count": 11,
+    "emergent_terms": [
+      "thank",
+      "tire",
+      "today",
+      "hello",
+      "friend",
+      "coffee",
+      "school",
+      "present",
+      "ask",
+      "name",
+      "word"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Preguntar cómo estás",
+      "title_target": "Quiz: Asking How Someone Is",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "Anna is happy.",
+            "Anna is sad.",
+            "Anna is tired.",
+            "Anna is bad."
+          ],
+          "correct_answer": "Anna is happy.",
+          "explanation_form": "La conversación dice 'I am happy today', así que Anna está feliz.",
+          "explanation_target": "The conversation says 'I am happy today', so Anna is happy.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "happy_adj",
+            "chunk_how_are_you",
+            "chunk_im_fine_thanks"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "Hello, Anna. How are you? I am fine, thanks. And you? I am happy today.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta:",
+          "prompt_target": "Order the words to form a question:",
+          "options": [
+            "How",
+            "are",
+            "you",
+            "?"
+          ],
+          "correct_answer": "How are you?",
+          "explanation_form": "La pregunta correcta para saludar es 'How are you?'.",
+          "explanation_target": "The correct greeting question is 'How are you?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_how_are_you"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la respuesta: 'I am ____, thanks.' (bien)",
+          "prompt_target": "Complete the answer: 'I am ____, thanks.' (fine)",
+          "options": null,
+          "correct_answer": "fine",
+          "explanation_form": "La respuesta natural a 'How are you?' es 'I am fine, thanks.'",
+          "explanation_target": "The natural answer to 'How are you?' is 'I am fine, thanks.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "fine_adj",
+            "chunk_im_fine_thanks"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I am tired'?",
+          "prompt_target": "What does 'I am tired' mean?",
+          "options": [
+            "Estoy cansado.",
+            "Estoy feliz.",
+            "Estoy triste.",
+            "Estoy bien."
+          ],
+          "correct_answer": "Estoy cansado.",
+          "explanation_form": "'Tired' significa cansado.",
+          "explanation_target": "'Tired' means cansado.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "tired_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "The person is happy.",
+            "The person is sad.",
+            "The person is fine.",
+            "The person is tired."
+          ],
+          "correct_answer": "The person is sad.",
+          "explanation_form": "La persona dice 'I am sad today', así que está triste.",
+          "explanation_target": "The person says 'I am sad today', so they are sad.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sad_adj",
+            "good_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Good morning. How are you? I am sad today. Oh, I am sorry.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traducí al español: 'I am bad.'",
+          "prompt_target": "Translate to Spanish: 'I am bad.'",
+          "options": null,
+          "correct_answer": "Estoy mal.",
+          "explanation_form": "'Bad' significa mal.",
+          "explanation_target": "'Bad' means mal.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "bad_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo respondes a 'How are you?' si estás bien?",
+          "prompt_target": "How do you answer 'How are you?' if you are fine?",
+          "options": [
+            "I am fine, thanks.",
+            "I am sad.",
+            "I am tired.",
+            "I am bad."
+          ],
+          "correct_answer": "I am fine, thanks.",
+          "explanation_form": "La respuesta natural es 'I am fine, thanks.'",
+          "explanation_target": "The natural answer is 'I am fine, thanks.'",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "fine_adj",
+            "thanks_interj",
+            "chunk_im_fine_thanks"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: '____, I am fine.' (Gracias)",
+          "prompt_target": "Complete: '____, I am fine.' (Thanks)",
+          "options": null,
+          "correct_answer": "Thanks",
+          "explanation_form": "'Thanks' significa gracias.",
+          "explanation_target": "'Thanks' means gracias.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "thanks_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "happy",
+            "feliz",
+            "sad",
+            "triste",
+            "tired",
+            "cansado",
+            "fine",
+            "bien"
+          ],
+          "correct_answer": [
+            "happy=feliz",
+            "sad=triste",
+            "tired=cansado",
+            "fine=bien"
+          ],
+          "explanation_form": "Estas son las emociones básicas en inglés.",
+          "explanation_target": "These are the basic emotions in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "happy_adj",
+            "sad_adj",
+            "tired_adj",
+            "fine_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y elige la respuesta correcta:",
+          "prompt_target": "Read the text and choose the correct answer:",
+          "options": [
+            "Tom is sad.",
+            "Tom is ok.",
+            "Tom is tired.",
+            "Tom is bad."
+          ],
+          "correct_answer": "Tom is ok.",
+          "explanation_form": "Tom dice 'I am ok, thanks', así que está bien.",
+          "explanation_target": "Tom says 'I am ok, thanks', so he is fine.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ok_interj",
+            "chunk_how_are_you",
+            "chunk_im_fine_thanks"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Tom is a student. He is at school. His friend Anna asks, 'How are you?' Tom says, 'I am ok, thanks. And you?' Anna says, 'I am happy today.'",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'am', 'is' o 'are': 'I ____ fine.'",
+          "prompt_target": "Complete with 'am', 'is' or 'are': 'I ____ fine.'",
+          "options": null,
+          "correct_answer": "am",
+          "explanation_form": "Con 'I' usamos 'am'.",
+          "explanation_target": "With 'I' we use 'am'.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "present simple: be (am/is/are) with adjectives"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'am', 'is' o 'are': 'She ____ happy.'",
+          "prompt_target": "Complete with 'am', 'is' or 'are': 'She ____ happy.'",
+          "options": null,
+          "correct_answer": "is",
+          "explanation_form": "Con 'she' usamos 'is'.",
+          "explanation_target": "With 'she' we use 'is'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "present simple: be (am/is/are) with adjectives"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_013",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'am', 'is' o 'are': 'They ____ tired.'",
+          "prompt_target": "Complete with 'am', 'is' or 'are': 'They ____ tired.'",
+          "options": null,
+          "correct_answer": "are",
+          "explanation_form": "Con 'they' usamos 'are'.",
+          "explanation_target": "With 'they' we use 'are'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "present simple: be (am/is/are) with adjectives",
+            "tired_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_014",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'good'?",
+          "prompt_target": "What does 'good' mean?",
+          "options": [
+            "Bien",
+            "Mal",
+            "Triste",
+            "Cansado"
+          ],
+          "correct_answer": "Bien",
+          "explanation_form": "'Good' significa bien o bueno.",
+          "explanation_target": "'Good' means bien or bueno.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "good_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## La magia de \"How are you?\"\n\nEn inglés, \"How are you?\" no siempre es una pregunta real de salud. Es un saludo automático, como nuestro \"¿Qué tal?\". La respuesta corta y educada es \"I'm fine, thanks\", aunque no te sientas perfecto. Si quieres ser más sincero, puedes decir \"I'm tired\" o \"I'm sad\". ¡No te preocupes por dar detalles!\n\n## Errores comunes\n\n- **No digas \"I am fine, thank you\" siempre.** Es correcto, pero suena muy formal. Usa \"I'm fine, thanks\" para sonar natural.\n- **Cuidado con el orden:** en español decimos \"estoy feliz\", pero en inglés es \"I am happy\". El verbo *to be* (am/is/are) siempre va antes del adjetivo.\n- **No olvides el sujeto:** en inglés, la frase necesita \"I\", \"you\", \"he\", etc. No puedes decir solo \"am happy\".",
+  "metadata": {
+    "generated_at": "2026-08-31T21:28:11Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

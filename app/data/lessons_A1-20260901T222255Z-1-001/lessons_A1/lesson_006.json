@@ -1,0 +1,1579 @@
+{
+  "id": "lesson_006",
+  "position": 6,
+  "unit_id": 1,
+  "course_id": "en.A1",
+  "title_form": "Contar del 21 al 100",
+  "title_target": "Counting from 21 to 100",
+  "theme_focus": "Números del 21 al 100: repaso de twenty y de las unidades, introducción de las decenas y composición de números compuestos (twenty-one, thirty-two, fifty-five). La generación de contenido debe modelar la composición con guion y practicarla en ejemplos, ejercicios y quiz.",
+  "learning_objectives": [
+    "Can count from 21 to 100 using reviewed ones/twenty and new tens, form compound numbers like fifty-five, and state ages using numbers."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_005"
+  ],
+  "grammar_focus": [],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "thirty_num",
+        "forty_num",
+        "fifty_num",
+        "sixty_num",
+        "seventy_num",
+        "eighty_num",
+        "ninety_num",
+        "hundred_num",
+        "apple",
+        "book",
+        "student"
+      ],
+      "chunk_ids": [
+        "chunk_compound_numbers_21_to_100",
+        "chunk_i_am_number_years_old"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "one_num",
+        "two_num",
+        "three_num",
+        "four_num",
+        "five_num",
+        "six_num",
+        "seven_num",
+        "eight_num",
+        "nine_num",
+        "twenty_num"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tom es un estudiante nuevo en la clase de inglés. Hoy la maestra pregunta la edad de cada estudiante y cuántos libros hay en la mesa. Tom practica los números del 21 al 100 para responder con confianza.",
+  "introduction_md": "¡Gran avance! Ya sabes contar del 1 al 20. Ahora vas a aprender las decenas: **thirty, forty, fifty, sixty, seventy, eighty, ninety** y **hundred**. \n\nLa clave está en la composición: para formar números como 21 o 55, solo unes la decena y la unidad con un guion: **twenty-one**, **fifty-five**. \n\nEn esta lección vas a:\n\n- Aprender las decenas del 30 al 90.\n- Formar números compuestos del 21 al 100.\n- Decir tu edad y la de otras personas.\n\n¡Vamos a contar!",
+  "intro_target": "Great progress! You already know how to count from 1 to 20. Now you will learn the tens: **thirty, forty, fifty, sixty, seventy, eighty, ninety** and **hundred**. \n\nThe key is composition: to form numbers like 21 or 55, you just join the ten and the unit with a hyphen: **twenty-one**, **fifty-five**. \n\nIn this lesson you will:\n\n- Learn the tens from 30 to 90.\n- Form compound numbers from 21 to 100.\n- Say your age and other people's ages.\n\nLet's count!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_am_number_years_old",
+      "grammar_slug": null,
+      "text_target": "I am thirty years old.",
+      "translation_form": "Tengo treinta años.",
+      "highlight_words": [
+        "thirty",
+        "years",
+        "old"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_compound_numbers_21_to_100",
+      "grammar_slug": null,
+      "text_target": "I have forty-five books.",
+      "translation_form": "Tengo cuarenta y cinco libros.",
+      "highlight_words": [
+        "forty",
+        "five",
+        "books"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The student is twenty-two years old.",
+      "translation_form": "El estudiante tiene veintidós años.",
+      "highlight_words": [
+        "student",
+        "twenty",
+        "two",
+        "years",
+        "old"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "apple",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have sixty apples and one book.",
+      "translation_form": "Tengo sesenta manzanas y un libro.",
+      "highlight_words": [
+        "sixty",
+        "apples",
+        "one",
+        "book"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "book",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is seventy years old.",
+      "translation_form": "Ella tiene setenta años.",
+      "highlight_words": [
+        "seventy",
+        "years",
+        "old"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "hundred_num",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have one hundred books.",
+      "translation_form": "Tengo cien libros.",
+      "highlight_words": [
+        "one",
+        "hundred",
+        "books"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'thirty'?",
+      "options": [
+        "treinta",
+        "cuarenta",
+        "cincuenta",
+        "sesenta"
+      ],
+      "correct_answer": "treinta",
+      "explanation_md": "'Thirty' es el número 30 en inglés.",
+      "related_lexeme_ids": [
+        "thirty_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cómo se dice 'cincuenta y cinco' en inglés?",
+      "options": [
+        "fifty-five",
+        "forty-five",
+        "sixty-five",
+        "fifty-four"
+      ],
+      "correct_answer": "fifty-five",
+      "explanation_md": "Cincuenta es 'fifty' y cinco es 'five'. Juntos forman 'fifty-five'.",
+      "related_lexeme_ids": [
+        "fifty_num",
+        "five_num"
+      ],
+      "related_chunk_ids": [
+        "chunk_compound_numbers_21_to_100"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I am ____ years old.' (Tengo ochenta años).",
+      "options": null,
+      "correct_answer": "eighty",
+      "explanation_md": "Ochenta en inglés es 'eighty'.",
+      "related_lexeme_ids": [
+        "eighty_num"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_am_number_years_old"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "matching",
+      "prompt_md": "Empareja cada número con su traducción:",
+      "options": [
+        "forty",
+        "cuarenta",
+        "ninety",
+        "noventa",
+        "sixty",
+        "sesenta",
+        "eighty",
+        "ochenta"
+      ],
+      "correct_answer": [
+        "forty=cuarenta",
+        "ninety=noventa",
+        "sixty=sesenta",
+        "eighty=ochenta"
+      ],
+      "explanation_md": "Estos son los números de decenas en inglés.",
+      "related_lexeme_ids": [
+        "forty_num",
+        "ninety_num",
+        "sixty_num",
+        "eighty_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Tengo treinta y dos años.'",
+      "options": null,
+      "correct_answer": "I am thirty-two years old.",
+      "explanation_md": "Para decir la edad usamos 'I am' + número + 'years old'.",
+      "related_lexeme_ids": [
+        "thirty_num",
+        "two_num"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_am_number_years_old",
+        "chunk_compound_numbers_21_to_100"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'The student is forty years old.'",
+      "options": null,
+      "correct_answer": "El estudiante tiene cuarenta años.",
+      "explanation_md": "'The student' es 'el estudiante' y 'is forty years old' es 'tiene cuarenta años'.",
+      "related_lexeme_ids": [
+        "student",
+        "forty_num"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_am_number_years_old"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuántos años tiene Tom?",
+      "options": [
+        "treinta",
+        "veinte",
+        "treinta y cinco",
+        "cuarenta"
+      ],
+      "correct_answer": "treinta",
+      "explanation_md": "El texto dice 'She is thirty years old', que significa 'Ella tiene treinta años'.",
+      "related_lexeme_ids": [
+        "student",
+        "twenty_num",
+        "five_num",
+        "thirty_num",
+        "book"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_am_number_years_old"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Tom is a student. He is thirty years old. He has a book and a pen. His friend is Anna. She is twenty-five years old. They are at school.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cuántos años tiene la hermana de John?",
+      "options": [
+        "veintidós",
+        "veinte",
+        "treinta y dos",
+        "treinta"
+      ],
+      "correct_answer": "veintidós",
+      "explanation_md": "El audio dice 'She is twenty-two years old', que significa 'Ella tiene veintidós años'.",
+      "related_lexeme_ids": [
+        "twenty_num",
+        "two_num",
+        "student"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_am_number_years_old",
+        "chunk_compound_numbers_21_to_100"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "John has a sister. Her name is Mary. She is a student. She is twenty-two years old. She has a cat.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu edad y la de un amigo o familiar. Usa números del 21 al 100.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'I am' + número + 'years old' y los números del 21 al 100.",
+      "related_lexeme_ids": [
+        "thirty_num",
+        "forty_num",
+        "fifty_num",
+        "twenty_num",
+        "two_num"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_am_number_years_old",
+        "chunk_compound_numbers_21_to_100"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I am thirty years old. My friend is forty-five years old.",
+        "I am twenty-two years old. My mother is fifty years old."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'hundred'?",
+      "options": [
+        "diez",
+        "cien",
+        "mil",
+        "veinte"
+      ],
+      "correct_answer": "cien",
+      "explanation_md": "'Hundred' significa cien (100).",
+      "related_lexeme_ids": [
+        "hundred_num"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I have ____ books.' (Tengo setenta libros).",
+      "options": null,
+      "correct_answer": "seventy",
+      "explanation_md": "Setenta en inglés es 'seventy'.",
+      "related_lexeme_ids": [
+        "seventy_num",
+        "book"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Tengo noventa y nueve libros.'",
+      "options": null,
+      "correct_answer": "I have ninety-nine books.",
+      "explanation_md": "Noventa es 'ninety' y nueve es 'nine'. Se unen con un guion.",
+      "related_lexeme_ids": [
+        "ninety_num",
+        "nine_num",
+        "book"
+      ],
+      "related_chunk_ids": [
+        "chunk_compound_numbers_21_to_100"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "thirty",
+      "back": "treinta",
+      "hint": "número entre 20 y 40",
+      "lexeme_id": "thirty_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "forty",
+      "back": "cuarenta",
+      "hint": "número entre 30 y 50",
+      "lexeme_id": "forty_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "fifty",
+      "back": "cincuenta",
+      "hint": "número entre 40 y 60",
+      "lexeme_id": "fifty_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "sixty",
+      "back": "sesenta",
+      "hint": "número entre 50 y 70",
+      "lexeme_id": "sixty_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "seventy",
+      "back": "setenta",
+      "hint": "número entre 60 y 80",
+      "lexeme_id": "seventy_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "eighty",
+      "back": "ochenta",
+      "hint": "número entre 70 y 90",
+      "lexeme_id": "eighty_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "ninety",
+      "back": "noventa",
+      "hint": "número entre 80 y 100",
+      "lexeme_id": "ninety_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "hundred",
+      "back": "cien",
+      "hint": "100",
+      "lexeme_id": "hundred_num",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "apple",
+      "back": "manzana",
+      "hint": "una fruta",
+      "lexeme_id": "apple",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "food"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "book",
+      "back": "libro",
+      "hint": "algo que lees",
+      "lexeme_id": "book",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "student",
+      "back": "estudiante",
+      "hint": "persona que estudia",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "twenty-one / thirty-two / fifty-five",
+      "back": "Componer números del 21 al 100 uniendo la decena y la unidad.",
+      "hint": "veintiuno / treinta y dos / cincuenta y cinco",
+      "lexeme_id": null,
+      "chunk_id": "chunk_compound_numbers_21_to_100",
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "I am [number] years old.",
+      "back": "Decir la edad usando un número.",
+      "hint": "Tengo [número] años.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_am_number_years_old",
+      "target_term": null,
+      "tags": [
+        "lesson_006",
+        "A1",
+        "personal_information"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "thirty",
+      "reading": "",
+      "translation": "treinta",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "thirty_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "forty",
+      "reading": "",
+      "translation": "cuarenta",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "forty_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "fifty",
+      "reading": "",
+      "translation": "cincuenta",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "fifty_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sixty",
+      "reading": "",
+      "translation": "sesenta",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "sixty_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "seventy",
+      "reading": "",
+      "translation": "setenta",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "seventy_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "eighty",
+      "reading": "",
+      "translation": "ochenta",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "eighty_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "ninety",
+      "reading": "",
+      "translation": "noventa",
+      "pos": "numeral",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "ninety_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hundred",
+      "reading": "",
+      "translation": "cien",
+      "pos": "numeral",
+      "example": "I have one hundred books.",
+      "example_translation": "Tengo cien libros.",
+      "lexeme_id": "hundred_num",
+      "chunk_id": null
+    },
+    {
+      "target_word": "apple",
+      "reading": "",
+      "translation": "manzana",
+      "pos": "noun",
+      "example": "I have sixty apples and one book.",
+      "example_translation": "Tengo sesenta manzanas y un libro.",
+      "lexeme_id": "apple",
+      "chunk_id": null
+    },
+    {
+      "target_word": "book",
+      "reading": "",
+      "translation": "libro",
+      "pos": "noun",
+      "example": "I have seventy books.",
+      "example_translation": "Tengo setenta libros.",
+      "lexeme_id": "book",
+      "chunk_id": null
+    },
+    {
+      "target_word": "student",
+      "reading": "",
+      "translation": "estudiante",
+      "pos": "noun",
+      "example": "The student is twenty-two years old.",
+      "example_translation": "El estudiante tiene veintidós años.",
+      "lexeme_id": "student",
+      "chunk_id": null
+    },
+    {
+      "target_word": "twenty-one / thirty-two / fifty-five",
+      "reading": "",
+      "translation": "Componer números del 21 al 100 uniendo la decena y la unidad.",
+      "pos": "chunk",
+      "example": "I have forty-five books.",
+      "example_translation": "Tengo cuarenta y cinco libros.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_compound_numbers_21_to_100"
+    },
+    {
+      "target_word": "I am [number] years old.",
+      "reading": "",
+      "translation": "Decir la edad usando un número.",
+      "pos": "chunk",
+      "example": "I am thirty years old.",
+      "example_translation": "Tengo treinta años.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_am_number_years_old"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "thirty",
+      "role": "support",
+      "status": "practiced",
+      "translation": "treinta",
+      "lexeme_id": "thirty_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_007",
+        "ex_011",
+        "ex_013",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "forty",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cuarenta",
+      "lexeme_id": "forty_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_009",
+        "ex_013",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "fifty",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cincuenta",
+      "lexeme_id": "fifty_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_013",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "sixty",
+      "role": "support",
+      "status": "practiced",
+      "translation": "sesenta",
+      "lexeme_id": "sixty_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "seventy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "setenta",
+      "lexeme_id": "seventy_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "eighty",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ochenta",
+      "lexeme_id": "eighty_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_006",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "ninety",
+      "role": "support",
+      "status": "practiced",
+      "translation": "noventa",
+      "lexeme_id": "ninety_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_008",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "hundred",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cien",
+      "lexeme_id": "hundred_num",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_002",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "apple",
+      "role": "support",
+      "status": "introduced",
+      "translation": "manzana",
+      "lexeme_id": "apple",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "practiced",
+      "translation": "libro",
+      "lexeme_id": "book",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011",
+        "ex_005",
+        "ex_008",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "practiced",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "twenty-one / thirty-two / fifty-five",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Componer números del 21 al 100 uniendo la decena y la unidad.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_compound_numbers_21_to_100",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_003",
+        "ex_007",
+        "ex_012",
+        "ex_013",
+        "ex_008",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "I am [number] years old.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Decir la edad usando un número.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_am_number_years_old",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_004",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "five",
+      "role": "support",
+      "status": "review",
+      "translation": "cinco",
+      "lexeme_id": "five_num",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_003",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "two",
+      "role": "support",
+      "status": "review",
+      "translation": "dos",
+      "lexeme_id": "two_num",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "twenty",
+      "role": "support",
+      "status": "review",
+      "translation": "veinte",
+      "lexeme_id": "twenty_num",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "exm_005",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "exm_005",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "exm_006",
+        "ex_011",
+        "fc_010",
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "thirty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_013",
+        "fc_001",
+        "fc_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "twenty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_012",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "forty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_013",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "fifty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "fc_003",
+        "fc_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "sixty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "fc_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_005",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "hear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oír / escuchar",
+      "lexeme_id": "hear_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_005",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "pen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bolígrafo",
+      "lexeme_id": "pen",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "happy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "feliz / contento",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 13,
+    "review_support_count": 3,
+    "emergent_count": 13,
+    "emergent_terms": [
+      "year",
+      "old",
+      "book",
+      "thirty",
+      "twenty",
+      "forty",
+      "fifty",
+      "sixty",
+      "friend",
+      "hear",
+      "pen",
+      "teacher",
+      "happy"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Contar del 21 al 100",
+      "title_target": "Quiz: Counting from 21 to 100",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige el número que oyes.",
+          "prompt_target": "Listen and choose the number you hear.",
+          "options": [
+            "thirty",
+            "forty",
+            "fifty",
+            "sixty"
+          ],
+          "correct_answer": "thirty",
+          "explanation_form": "La frase 'I am thirty years old' dice que tengo 30 años.",
+          "explanation_target": "The sentence 'I am thirty years old' says I am 30 years old.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "thirty_num",
+            "forty_num",
+            "fifty_num",
+            "chunk_i_am_number_years_old"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "I am thirty years old. My friend is forty. My teacher is fifty. We are happy.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta.",
+          "prompt_target": "Order the words to form a correct sentence.",
+          "options": [
+            "I",
+            "am",
+            "sixty",
+            "years",
+            "old"
+          ],
+          "correct_answer": "I am sixty years old.",
+          "explanation_form": "La estructura es: sujeto + am + número + years old.",
+          "explanation_target": "The structure is: subject + am + number + years old.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sixty_num",
+            "chunk_i_am_number_years_old"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué número es 'eighty'?",
+          "prompt_target": "What number is 'eighty'?",
+          "options": [
+            "seventy",
+            "eighty",
+            "ninety",
+            "hundred"
+          ],
+          "correct_answer": "eighty",
+          "explanation_form": "'Eighty' significa 80 en inglés.",
+          "explanation_target": "'Eighty' means 80 in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eighty_num"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'She is ____ years old.' (Ella tiene noventa años).",
+          "prompt_target": "Complete the sentence: 'She is ____ years old.' (She is ninety years old).",
+          "options": null,
+          "correct_answer": "ninety",
+          "explanation_form": "'Ninety' significa 90 en inglés.",
+          "explanation_target": "'Ninety' means 90 in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ninety_num",
+            "chunk_i_am_number_years_old"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige el número que oyes.",
+          "prompt_target": "Listen and choose the number you hear.",
+          "options": [
+            "sixty",
+            "seventy",
+            "eighty",
+            "ninety"
+          ],
+          "correct_answer": "seventy",
+          "explanation_form": "La frase 'I have seventy books' dice que tengo 70 libros.",
+          "explanation_target": "The sentence 'I have seventy books' says I have 70 books.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "seventy_num",
+            "eighty_num",
+            "book"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I have seventy books. My friend has eighty pens. We are students.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué número es 'hundred'?",
+          "prompt_target": "What number is 'hundred'?",
+          "options": [
+            "ten",
+            "hundred",
+            "fifty",
+            "ninety"
+          ],
+          "correct_answer": "hundred",
+          "explanation_form": "'Hundred' significa 100 en inglés.",
+          "explanation_target": "'Hundred' means 100 in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hundred_num"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'I am ____ years old.' (Tengo cuarenta años).",
+          "prompt_target": "Complete the sentence: 'I am ____ years old.' (I am forty years old).",
+          "options": null,
+          "correct_answer": "forty",
+          "explanation_form": "'Forty' significa 40 en inglés.",
+          "explanation_target": "'Forty' means 40 in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "forty_num",
+            "chunk_i_am_number_years_old"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada número con su forma escrita en inglés.",
+          "prompt_target": "Match each number with its written form in English.",
+          "options": [
+            "thirty",
+            "fifty",
+            "seventy",
+            "ninety",
+            "30",
+            "50",
+            "70",
+            "90"
+          ],
+          "correct_answer": [
+            "thirty=thirty",
+            "fifty=fifty",
+            "seventy=seventy",
+            "ninety=ninety"
+          ],
+          "explanation_form": "Estos son los números de decenas en inglés.",
+          "explanation_target": "These are the tens numbers in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "thirty_num",
+            "fifty_num",
+            "seventy_num",
+            "ninety_num"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y elige la respuesta correcta.",
+          "prompt_target": "Read the text and choose the correct answer.",
+          "options": [
+            "Tom is twenty years old.",
+            "Tom is sixty years old.",
+            "Tom is thirty years old.",
+            "Tom is forty years old."
+          ],
+          "correct_answer": "Tom is twenty years old.",
+          "explanation_form": "El texto dice 'He is twenty years old', así que Tom tiene 20 años.",
+          "explanation_target": "The text says 'He is twenty years old', so Tom is 20 years old.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "twenty_num",
+            "student",
+            "book",
+            "teacher",
+            "sixty_num"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Tom is a student. He is twenty years old. He has a book and a pen. His teacher is sixty years old. Tom is happy.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice '100' en inglés?",
+          "prompt_target": "How do you say '100' in English?",
+          "options": [
+            "hundred",
+            "ten",
+            "fifty",
+            "ninety"
+          ],
+          "correct_answer": "hundred",
+          "explanation_form": "'Hundred' significa 100 en inglés.",
+          "explanation_target": "'Hundred' means 100 in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hundred_num"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'I have ____ apples.' (Tengo ochenta manzanas).",
+          "prompt_target": "Complete the sentence: 'I have ____ apples.' (I have eighty apples).",
+          "options": null,
+          "correct_answer": "eighty",
+          "explanation_form": "'Eighty' significa 80 en inglés.",
+          "explanation_target": "'Eighty' means 80 in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eighty_num",
+            "apple"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige el número que oyes.",
+          "prompt_target": "Listen and choose the number you hear.",
+          "options": [
+            "eighty",
+            "ninety",
+            "hundred",
+            "seventy"
+          ],
+          "correct_answer": "ninety",
+          "explanation_form": "La frase 'I am ninety years old' dice que tengo 90 años.",
+          "explanation_target": "The sentence 'I am ninety years old' says I am 90 years old.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ninety_num",
+            "hundred_num",
+            "chunk_i_am_number_years_old"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I am ninety years old. My friend is one hundred. We are old.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El guion en los números compuestos\n\nEn inglés, los números del 21 al 99 se escriben con un guion (-) entre la decena y la unidad. Por ejemplo: **twenty-one**, **thirty-two**, **fifty-five**. Es un error muy común olvidar el guion. Recuerda: **twenty-one** no es 'twenty one'.\n\n## Decenas y unidades\n\nLas decenas (thirty, forty, fifty...) son palabras nuevas, pero las unidades (one, two, three...) ya las conoces. Para formar un número compuesto, solo une la decena con la unidad usando el guion. Por ejemplo: **sixty** + **seven** = **sixty-seven**. Practica con tu edad: **I am thirty-two years old**.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:29:30Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

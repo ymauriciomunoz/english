@@ -1,0 +1,1999 @@
+{
+  "id": "lesson_009",
+  "position": 9,
+  "unit_id": 3,
+  "course_id": "en.B2",
+  "title_form": "Explaining why a deadline was missed",
+  "title_target": "Explaining why a deadline was missed",
+  "theme_focus": "decisions",
+  "learning_objectives": [
+    "Can explain why a deadline was missed and speculate about causes and alternative actions.",
+    "Can use 'might have' to speculate about past causes.",
+    "Can use 'should have' to criticize past actions and suggest alternatives."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_008"
+  ],
+  "grammar_focus": [
+    "modal perfects: might have, should have for past possibility and criticism"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "give_in_verb",
+        "pull_off_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "take_over_verb_2"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "deadline",
+        "role": "topic",
+        "rationale": "The central issue being discussed."
+      },
+      {
+        "term": "delay",
+        "role": "topic",
+        "rationale": "The problem that occurred."
+      },
+      {
+        "term": "cause",
+        "role": "topic",
+        "rationale": "The reason for the problem."
+      },
+      {
+        "term": "mistake",
+        "role": "topic",
+        "rationale": "A potential reason for the delay."
+      },
+      {
+        "term": "explain",
+        "role": "functional",
+        "rationale": "The main communicative function."
+      },
+      {
+        "term": "speculate",
+        "role": "functional",
+        "rationale": "To discuss possible causes."
+      },
+      {
+        "term": "might have caused",
+        "role": "grammar_support",
+        "rationale": "Modal perfect for past possibility."
+      },
+      {
+        "term": "should have done",
+        "role": "grammar_support",
+        "rationale": "Modal perfect for criticism of a past action."
+      },
+      {
+        "term": "should have been",
+        "role": "grammar_support",
+        "rationale": "Modal perfect for criticism of a past state."
+      },
+      {
+        "term": "might have been",
+        "role": "grammar_support",
+        "rationale": "Modal perfect for past possibility."
+      }
+    ]
+  },
+  "scenario": "María y su equipo perdieron la fecha límite de un proyecto importante. En una reunión con su jefe, ella explica las causas del retraso, especula sobre lo que pudo haber salido mal y reconoce lo que deberían haber hecho diferente para evitar el problema.",
+  "introduction_md": "## Explaining why a deadline was missed\n\nEn el trabajo, a veces las cosas no salen como planeamos. Perder una fecha límite (deadline) puede pasar, pero lo importante es saber explicar por qué ocurrió y qué harías diferente.\n\nEn esta lección vas a aprender a:\n\n- **Explicar** la causa de un retraso (delay) de forma clara.\n- **Especular** sobre lo que pudo haber causado el problema usando **might have**.\n- **Criticar** acciones pasadas y sugerir alternativas usando **should have**.\n\nEstas estructuras son muy útiles en reuniones de trabajo y en conversaciones profesionales. Te permiten sonar más natural y diplomático al hablar de errores o problemas.\n\nVamos a practicar con un escenario real: un proyecto que no se entregó a tiempo. Verás ejemplos, harás ejercicios y terminarás con un quiz para comprobar tu progreso.\n\n¡Empecemos!",
+  "intro_target": "## Explaining why a deadline was missed\n\nAt work, sometimes things don't go as we planned. Missing a deadline can happen, but what matters is knowing how to explain why it happened and what you would do differently.\n\nIn this lesson, you will learn to:\n\n- **Explain** the cause of a delay clearly.\n- **Speculate** about what might have caused the problem using **might have**.\n- **Criticize** past actions and suggest alternatives using **should have**.\n\nThese structures are very useful in work meetings and professional conversations. They help you sound more natural and diplomatic when talking about mistakes or problems.\n\nWe will practice with a real scenario: a project that wasn't delivered on time. You will see examples, do exercises, and finish with a quiz to check your progress.\n\nLet's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "give_in_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I know I should have finished the report earlier, but I gave in to the pressure and took a break.",
+      "translation_form": "Sé que debería haber terminado el informe antes, pero cedí a la presión y tomé un descanso.",
+      "highlight_words": [
+        "should have"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "pull_off_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Despite the delay, the team pulled off the project presentation and impressed the client.",
+      "translation_form": "A pesar de la demora, el equipo logró la presentación del proyecto e impresionó al cliente.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The server might have caused the delay, but we should have checked the system earlier.",
+      "translation_form": "El servidor podría haber causado la demora, pero deberíamos haber revisado el sistema antes.",
+      "highlight_words": [
+        "might have",
+        "should have"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "take_over_verb_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She might have taken over the task if she had known about the mistake, but nobody told her.",
+      "translation_form": "Ella podría haber asumido la tarea si hubiera sabido del error, pero nadie le dijo.",
+      "highlight_words": [
+        "might have"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You should have been more careful with the data; the mistake cost us the whole week.",
+      "translation_form": "Deberías haber sido más cuidadoso con los datos; el error nos costó toda la semana.",
+      "highlight_words": [
+        "should have been"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "give_in_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I might have given in to the client's demands, but I decided to explain the real cause of the problem.",
+      "translation_form": "Podría haber cedido a las exigencias del cliente, pero decidí explicar la causa real del problema.",
+      "highlight_words": [
+        "might have"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "pull_off_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We pulled off the launch even though the delay was serious; the team should have been more organized.",
+      "translation_form": "Logramos el lanzamiento aunque la demora fue seria; el equipo debería haber sido más organizado.",
+      "highlight_words": [
+        "should have been"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "take_over_verb_2",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The manager might have taken over the project, but he was too busy with other meetings.",
+      "translation_form": "El gerente podría haber asumido el proyecto, pero estaba demasiado ocupado con otras reuniones.",
+      "highlight_words": [
+        "might have"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "modal perfects: might have, should have for past possibility and criticism",
+      "title_form": "Perfectos modales: might have y should have para posibilidad y crítica en el pasado",
+      "title_target": "Modal Perfects: Might Have and Should Have for Past Possibility and Criticism",
+      "description_md_form": "Los **perfectos modales** combinan un modal (*might*, *should*) con *have* + participio pasado. Se usan para hablar del pasado desde el presente.\n\n**Might have + participio** expresa **posibilidad pasada**: especulamos sobre una causa sin certeza.\n\n- *The server **might have caused** the delay.* → El servidor podría haber causado la demora.\n\n**Should have + participio** expresa **crítica o arrepentimiento**: algo debió hacerse (o no) y no fue así.\n\n- *We **should have checked** the system earlier.* → Deberíamos haber revisado el sistema antes.\n\n**Estructura:**\n\n| Modal | + have | + participio |\n|-------|--------|--------------|\n| might | have   | caused       |\n| should| have   | checked      |\n\n**Negativo:** *shouldn't have* (no debí) y *might not have* (quizá no).\n\n**Clave:** *might have* = especular; *should have* = juzgar. Ambos miran al pasado con la mente de hoy.",
+      "description_md_target": "**Modal perfects** combine a modal (*might*, *should*) with *have* + past participle. They are used to talk about the past from the present.\n\n**Might have + participle** expresses **past possibility**: we speculate about a cause without certainty.\n\n- *The server **might have caused** the delay.*\n\n**Should have + participle** expresses **criticism or regret**: something should (or shouldn't) have been done, and it wasn't.\n\n- *We **should have checked** the system earlier.*\n\n**Structure:**\n\n| Modal | + have | + participle |\n|-------|--------|--------------|\n| might | have   | caused       |\n| should| have   | checked      |\n\n**Negative:** *shouldn't have* and *might not have*.\n\n**Key:** *might have* = speculate; *should have* = judge. Both look at the past with today's mind.",
+      "grammar_structure": "Subject + might/should + have + past participle",
+      "conjugation_table": {
+        "name": "modal_perfects",
+        "headers": [
+          "Modal",
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "might",
+            "might have + participio",
+            "Posibilidad pasada",
+            "The server might have caused the delay."
+          ],
+          [
+            "might not",
+            "might not have + participio",
+            "Posibilidad negativa",
+            "It might not have been the server."
+          ],
+          [
+            "should",
+            "should have + participio",
+            "Crítica / consejo pasado",
+            "We should have checked the system."
+          ],
+          [
+            "shouldn't",
+            "shouldn't have + participio",
+            "Crítica negativa",
+            "You shouldn't have taken a break."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "modal perfects: might have, should have for past possibility and criticism",
+          "text_target": "The server might have caused the delay, but we should have checked the system earlier.",
+          "translation_form": "El servidor podría haber causado la demora, pero deberíamos haber revisado el sistema antes.",
+          "highlight_words": [
+            "might have",
+            "should have"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "modal perfects: might have, should have for past possibility and criticism",
+          "text_target": "She might have taken over the task if she had known about the mistake, but nobody told her.",
+          "translation_form": "Ella podría haber asumido la tarea si hubiera sabido del error, pero nadie le dijo.",
+          "highlight_words": [
+            "might have"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Might have** = especular (no sabemos). **Should have** = criticar (sabemos que fue un error). Si no estás seguro de la causa, usa *might have*; si crees que alguien falló, usa *should have*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas 'should has' ni 'might has'.** El modal siempre va seguido de *have* (sin importar el sujeto): *he should have*, *she might have*. Nunca *he should has*."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado con el orden en negativo:** *shouldn't have + participio* (no debí hacer) vs *might not have + participio* (quizá no fue). El *not* va después del modal, no después de *have*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'should has' en lugar de 'should have' con he/she/it: *She should have checked*, no *She should has checked*.",
+        "Confundir 'might have' (posibilidad) con 'should have' (crítica): *The delay might have been the server* (no sabemos) vs *We should have checked* (fallamos).",
+        "Olvidar el participio pasado: *We should have check* → correcto: *We should have checked*.",
+        "Poner 'to' después del modal: *should to have* → correcto: *should have*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'give in'?",
+      "options": [
+        "ceder, rendirse",
+        "entregar algo",
+        "dar un regalo",
+        "abandonar un lugar"
+      ],
+      "correct_answer": "ceder, rendirse",
+      "explanation_md": "'Give in' significa ceder o rendirse ante una presión o situación.",
+      "related_lexeme_ids": [
+        "give_in_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'pull off'?",
+      "options": [
+        "lograr algo difícil",
+        "tirar de una cuerda",
+        "quitar una etiqueta",
+        "abrir una puerta"
+      ],
+      "correct_answer": "lograr algo difícil",
+      "explanation_md": "'Pull off' significa lograr algo que parecía difícil o improbable.",
+      "related_lexeme_ids": [
+        "pull_off_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración con la opción correcta: 'The server ______ caused the delay, but we are not sure.'",
+      "options": [
+        "might have",
+        "should have",
+        "must have",
+        "can have"
+      ],
+      "correct_answer": "might have",
+      "explanation_md": "Usamos 'might have' para expresar posibilidad en el pasado: algo pudo haber causado la demora.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la mejor forma de criticar una acción pasada?",
+      "options": [
+        "You should have checked the system.",
+        "You might check the system.",
+        "You should check the system.",
+        "You might have checked the system."
+      ],
+      "correct_answer": "You should have checked the system.",
+      "explanation_md": "Para criticar una acción pasada usamos 'should have + participio pasado'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la forma correcta del verbo: 'I know I should have ______ the report earlier, but I gave in to the pressure.'",
+      "options": null,
+      "correct_answer": "finished",
+      "explanation_md": "Después de 'should have' usamos el participio pasado del verbo: finish → finished.",
+      "related_lexeme_ids": [
+        "give_in_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la forma correcta: 'Despite the delay, the team ______ off the project presentation and impressed the client.'",
+      "options": null,
+      "correct_answer": "pulled",
+      "explanation_md": "El phrasal verb 'pull off' en pasado es 'pulled off': lograron algo difícil.",
+      "related_lexeme_ids": [
+        "pull_off_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Ella podría haber asumido la tarea si hubiera sabido del error.'",
+      "options": null,
+      "correct_answer": "She might have taken over the task if she had known about the mistake.",
+      "explanation_md": "Usamos 'might have + participio' para posibilidad pasada y 'take over' para asumir una tarea.",
+      "related_lexeme_ids": [
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'You should have been more careful with the data.'",
+      "options": null,
+      "correct_answer": "Deberías haber sido más cuidadoso con los datos.",
+      "explanation_md": "'Should have been' expresa crítica sobre un estado pasado: deberías haber estado más atento.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Emparejá cada phrasal verb con su significado:",
+      "options": [
+        "give in",
+        "pull off",
+        "take over",
+        "ceder, rendirse",
+        "lograr algo difícil",
+        "asumir, hacerse cargo"
+      ],
+      "correct_answer": [
+        "give in=ceder, rendirse",
+        "pull off=lograr algo difícil",
+        "take over=asumir, hacerse cargo"
+      ],
+      "explanation_md": "Estos phrasal verbs son clave para hablar de presión, logros y responsabilidades.",
+      "related_lexeme_ids": [
+        "give_in_verb",
+        "pull_off_verb",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué se retrasó el proyecto?",
+      "options": null,
+      "correct_answer": "The delay was caused by a small mistake in the data.",
+      "explanation_md": "El texto dice que el error en los datos fue la causa real de la demora.",
+      "related_lexeme_ids": [
+        "give_in_verb",
+        "pull_off_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Last week, our team had a serious problem. We missed an important deadline for a client. The delay caused a lot of stress in the office. Some people thought the server might have caused the problem, but we were not sure. Later, we discovered that a small mistake in the data was the real cause. My colleague said we should have checked the system earlier. He was right. In the end, we pulled off the presentation, but it was very difficult. The client was impressed, but we learned a valuable lesson. Next time, we will be more careful and we will not give in to the pressure.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué crítica hace el jefe sobre el informe?",
+      "options": null,
+      "correct_answer": "The manager criticized that the team should have finished the report on time and should have been more careful with the data.",
+      "explanation_md": "El jefe critica que deberían haber terminado el informe a tiempo y haber sido más cuidadosos con los datos.",
+      "related_lexeme_ids": [
+        "give_in_verb",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "The manager called a meeting to discuss the missed deadline. He was calm but direct. He said the team should have finished the report on time. He also mentioned that someone should have been more careful with the client's data. The manager believed that the mistake might have been avoided with better planning. He asked everyone to explain their part of the work. One employee said she gave in to the pressure and took a break. The manager listened and then suggested a new system for future projects. He wanted the team to take over the next project with more confidence.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué piensa Ana sobre el error?",
+      "options": null,
+      "correct_answer": "Ana thinks the mistake might have been caused by a lack of communication and that they should have tested the system before.",
+      "explanation_md": "Ana cree que el error pudo haber sido causado por falta de comunicación y que deberían haber probado el sistema antes.",
+      "related_lexeme_ids": [
+        "give_in_verb",
+        "pull_off_verb",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Ana was frustrated about the project delay. She believed the team should have tested the system before the presentation. In her opinion, the mistake might have been caused by a lack of communication. She also thought that her colleague should have told her about the problem earlier. Despite everything, Ana was proud that they pulled off the final presentation. She said the experience was difficult but useful. Now she wants to take over the next project and do things differently. She will not give in to the pressure again.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué piensa el hablante que debería haber hecho?",
+      "options": [
+        "He should have started the project earlier.",
+        "He should have taken a break.",
+        "He should have called the client.",
+        "He should have worked faster."
+      ],
+      "correct_answer": "He should have started the project earlier.",
+      "explanation_md": "El hablante dice 'I should have started the project earlier' — esa es su crítica sobre el pasado.",
+      "related_lexeme_ids": [
+        "give_in_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I missed the deadline yesterday. I feel terrible about it. I should have started the project earlier. The delay might have caused problems for the client. I gave in to the pressure and stopped working. Next time, I will be more careful.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué logró el equipo?",
+      "options": [
+        "They pulled off the presentation.",
+        "They gave in to the pressure.",
+        "They took over a new project.",
+        "They missed the meeting."
+      ],
+      "correct_answer": "They pulled off the presentation.",
+      "explanation_md": "El audio dice 'they pulled off the presentation' — lograron la presentación a pesar de las dificultades.",
+      "related_lexeme_ids": [
+        "pull_off_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": "The team had a difficult week. They missed an important deadline. But in the end, they pulled off the presentation. The client was very impressed. The manager said they should have been more organized, but he was happy with the result.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué opina el hablante sobre el error?",
+      "options": [
+        "The mistake might have been avoided.",
+        "The mistake was not important.",
+        "The mistake caused no problems.",
+        "The mistake was the client's fault."
+      ],
+      "correct_answer": "The mistake might have been avoided.",
+      "explanation_md": "El hablante dice 'The problem might have been avoided' — el error pudo haberse evitado.",
+      "related_lexeme_ids": [
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The mistake was serious. It caused a big delay in our project. I think we should have checked the data more carefully. The problem might have been avoided. Now we need to take over the next task with more attention.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_016",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones explicando por qué se retrasó un proyecto en tu trabajo o estudio. Usá 'should have' o 'might have' y uno de estos phrasal verbs: 'give in', 'pull off' o 'take over'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'should have'/'might have' con participio pasado y de los phrasal verbs de la lección.",
+      "related_lexeme_ids": [
+        "give_in_verb",
+        "pull_off_verb",
+        "take_over_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I think the delay might have been caused by a lack of communication. We should have checked the system earlier.",
+        "We pulled off the presentation, but we gave in to the pressure. Next time, I should have been more careful."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_017",
+      "kind": "free_production",
+      "prompt_md": "Imaginá que un colega cometió un error que causó una demora. Escribí 2-3 oraciones criticando su acción de forma educada usando 'should have'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'should have' para crítica educada y la capacidad de explicar causas.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "You should have told me about the problem earlier. The mistake might have been avoided.",
+        "You should have been more careful with the data. The delay caused a lot of stress."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_018",
+      "kind": "free_production",
+      "prompt_md": "Contá una situación en la que lograste algo difícil ('pull off') o cediste a la presión ('give in'). Escribí 2-3 oraciones usando 'might have' para especular sobre lo que pudo haber pasado.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'pull off'/'give in' y 'might have' para especular sobre el pasado.",
+      "related_lexeme_ids": [
+        "give_in_verb",
+        "pull_off_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I pulled off the presentation last week, but it was very hard. The stress might have caused some mistakes.",
+        "I gave in to the pressure and took a break. The delay might have been avoided if I had continued."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "give in",
+      "back": "ceder / rendirse",
+      "hint": "dejar de resistir",
+      "lexeme_id": "give_in_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "B2",
+        "decisions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "pull off",
+      "back": "lograr (algo difícil)",
+      "hint": "conseguir algo complicado",
+      "lexeme_id": "pull_off_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "B2",
+        "decisions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "take over",
+      "back": "asumir el control / hacerse cargo",
+      "hint": "ocupar el lugar de alguien",
+      "lexeme_id": "take_over_verb_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "B2",
+        "decisions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "might have caused",
+      "back": "podría haber causado",
+      "hint": "posibilidad en el pasado",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "might have caused",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "should have done",
+      "back": "debería haber hecho",
+      "hint": "crítica sobre una acción pasada",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "should have done",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "should have been",
+      "back": "debería haber estado / debería haber sido",
+      "hint": "crítica sobre un estado pasado",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "should have been",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "might have been",
+      "back": "podría haber estado / podría haber sido",
+      "hint": "posibilidad en el pasado",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "might have been",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "deadline",
+      "back": "fecha límite",
+      "hint": "el tema central de la discusión",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "deadline",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "delay",
+      "back": "retraso / demora",
+      "hint": "el problema que ocurrió",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "delay",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "cause",
+      "back": "causa / motivo",
+      "hint": "la razón del problema",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "cause",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "mistake",
+      "back": "error / equivocación",
+      "hint": "una posible razón del retraso",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "mistake",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "explain",
+      "back": "explicar",
+      "hint": "la función comunicativa principal",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "explain",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "speculate",
+      "back": "especular / conjeturar",
+      "hint": "discutir posibles causas",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "speculate",
+      "tags": [
+        "lesson_009",
+        "B2",
+        "communication"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "give in",
+      "reading": "",
+      "translation": "ceder / rendirse",
+      "pos": "verb",
+      "example": "I know I should have finished the report earlier, but I gave in to the pressure and took a break.",
+      "example_translation": "Sé que debería haber terminado el informe antes, pero cedí a la presión y tomé un descanso.",
+      "lexeme_id": "give_in_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "pull off",
+      "reading": "",
+      "translation": "lograr (algo difícil)",
+      "pos": "verb",
+      "example": "Despite the delay, the team pulled off the project presentation and impressed the client.",
+      "example_translation": "A pesar de la demora, el equipo logró la presentación del proyecto e impresionó al cliente.",
+      "lexeme_id": "pull_off_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "deadline",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "fecha límite",
+      "lexeme_id": "deadline",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "fc_008",
+        "quiz_001:q_004",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "delay",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "retraso",
+      "lexeme_id": "delay",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_003",
+        "exm_007",
+        "modal perfects: might have, should have for past possibility and criticism",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "ex_018",
+        "fc_009",
+        "quiz_001:q_004",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "cause",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_006",
+        "modal perfects: might have, should have for past possibility and criticism",
+        "ex_010",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "mistake",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "error",
+      "lexeme_id": "mistake",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_004",
+        "exm_005",
+        "modal perfects: might have, should have for past possibility and criticism",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_015",
+        "ex_017",
+        "fc_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "explicar",
+      "lexeme_id": "explain_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_006",
+        "ex_011",
+        "fc_012",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "speculate",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "modal perfects: might have, should have for past possibility and criticism",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "might have caused",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "modal perfects: might have, should have for past possibility and criticism",
+        "ex_010",
+        "ex_013",
+        "ex_018",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "should have done",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "should have been",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_005",
+        "exm_007",
+        "ex_011",
+        "ex_014",
+        "ex_016",
+        "ex_017",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "might have been",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "ex_018",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "give in",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ceder / rendirse",
+      "lexeme_id": "give_in_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_006",
+        "ex_001",
+        "ex_005",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_016",
+        "ex_018",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "pull off",
+      "role": "support",
+      "status": "practiced",
+      "translation": "lograr (algo difícil)",
+      "lexeme_id": "pull_off_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_002",
+        "ex_006",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_014",
+        "ex_016",
+        "ex_018",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "take over",
+      "role": "support",
+      "status": "review",
+      "translation": "asumir el control",
+      "lexeme_id": "take_over_verb_2",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "exm_008",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_015",
+        "ex_016",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "pull",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jalar / tirar de",
+      "lexeme_id": "pull_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_010",
+        "ex_012",
+        "ex_014",
+        "ex_016",
+        "ex_018",
+        "fc_002",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "emergent",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_010",
+        "ex_012",
+        "ex_014",
+        "ex_016",
+        "ex_018",
+        "fc_002",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "earlier",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más temprano",
+      "lexeme_id": "earlier",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_016",
+        "ex_017",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_008",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "client",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cliente",
+      "lexeme_id": "client",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_006",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_004",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "pressure",
+      "role": "support",
+      "status": "emergent",
+      "translation": "presión",
+      "lexeme_id": "pressure",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_016",
+        "ex_018"
+      ]
+    },
+    {
+      "term": "presentation",
+      "role": "support",
+      "status": "emergent",
+      "translation": "entrega / muestra / exhibición",
+      "lexeme_id": "presentation",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_012",
+        "ex_014",
+        "ex_016",
+        "ex_018",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "give",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dar",
+      "lexeme_id": "give_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_011",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "careful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cuidadoso",
+      "lexeme_id": "careful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_016",
+        "ex_017"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_014",
+        "ex_018",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "system",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sistema",
+      "lexeme_id": "system",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "data",
+      "role": "support",
+      "status": "emergent",
+      "translation": "datos",
+      "lexeme_id": "data",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_011",
+        "ex_015",
+        "ex_017"
+      ]
+    },
+    {
+      "term": "take over",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "ex_015",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "ex_015",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_011",
+        "ex_014",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_015",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_011",
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "break",
+      "role": "support",
+      "status": "emergent",
+      "translation": "romper",
+      "lexeme_id": "break_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_018"
+      ]
+    },
+    {
+      "term": "serious",
+      "role": "support",
+      "status": "emergent",
+      "translation": "serio",
+      "lexeme_id": "serious_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_010",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "despite",
+      "role": "support",
+      "status": "emergent",
+      "translation": "a pesar de",
+      "lexeme_id": "despite",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "impress",
+      "role": "support",
+      "status": "emergent",
+      "translation": "marcar / afectar / conmover",
+      "lexeme_id": "impress_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "know",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "too",
+      "role": "support",
+      "status": "emergent",
+      "translation": "también; demasiado",
+      "lexeme_id": "too_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "task",
+      "role": "support",
+      "status": "emergent",
+      "translation": "faena / labor / tarea",
+      "lexeme_id": "task",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "server",
+      "role": "support",
+      "status": "emergent",
+      "translation": "servidor / camarero",
+      "lexeme_id": "server",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "organize",
+      "role": "support",
+      "status": "emergent",
+      "translation": "organizar",
+      "lexeme_id": "organize_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "even",
+      "role": "support",
+      "status": "emergent",
+      "translation": "incluso",
+      "lexeme_id": "even_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "cost",
+      "role": "support",
+      "status": "emergent",
+      "translation": "costar",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "busy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ocupado",
+      "lexeme_id": "busy",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "demand",
+      "role": "support",
+      "status": "emergent",
+      "translation": "demanda",
+      "lexeme_id": "demand",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 10,
+    "lexical_target_count": 6,
+    "covered_lexical_target_count": 6,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 2,
+    "review_support_count": 1,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "pull",
+      "off",
+      "earlier",
+      "project",
+      "team",
+      "client",
+      "pressure",
+      "presentation",
+      "give",
+      "careful",
+      "week",
+      "system",
+      "data",
+      "take over",
+      "take",
+      "manager",
+      "check",
+      "meeting",
+      "break",
+      "serious",
+      "finish",
+      "despite",
+      "impress",
+      "know",
+      "too",
+      "task",
+      "server",
+      "organize",
+      "even",
+      "cost",
+      "busy",
+      "demand"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Explaining why a deadline was missed",
+      "title_target": "Quiz: Explaining why a deadline was missed",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'give in' en esta frase: 'The team gave in and accepted the new plan'?",
+          "prompt_target": "What does 'give in' mean in this sentence: 'The team gave in and accepted the new plan'?",
+          "options": [
+            "To stop resisting and accept something",
+            "To start a new project",
+            "To give a gift to someone",
+            "To leave a place quickly"
+          ],
+          "correct_answer": "To stop resisting and accept something",
+          "explanation_form": "'Give in' significa ceder o dejar de resistirse y aceptar algo. En la frase, el equipo cedió y aceptó el nuevo plan.",
+          "explanation_target": "'Give in' means to stop resisting and accept something. In the sentence, the team gave in and accepted the new plan.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "give_in_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase con la forma correcta del verbo: 'We ____ the project, but it was very difficult.'",
+          "prompt_target": "Complete the sentence with the correct verb form: 'We ____ the project, but it was very difficult.'",
+          "options": null,
+          "correct_answer": "pulled off",
+          "explanation_form": "'Pull off' significa lograr algo difícil. En pasado es 'pulled off'. La frase completa: 'We pulled off the project, but it was very difficult.'",
+          "explanation_target": "'Pull off' means to achieve something difficult. In the past it is 'pulled off'. The full sentence: 'We pulled off the project, but it was very difficult.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "pull_off_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la mejor forma de expresar crítica sobre una acción pasada?",
+          "prompt_target": "What is the best way to express criticism about a past action?",
+          "options": [
+            "You should have called me earlier.",
+            "You should call me earlier.",
+            "You will call me earlier.",
+            "You are calling me earlier."
+          ],
+          "correct_answer": "You should have called me earlier.",
+          "explanation_form": "Para criticar una acción pasada usamos 'should have + participio'. 'You should have called me earlier' significa 'Deberías haberme llamado antes'.",
+          "explanation_target": "To criticize a past action we use 'should have + past participle'. 'You should have called me earlier' means 'Deberías haberme llamado antes'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "modal_perfects_and_deduction"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Por qué el equipo no cumplió con la fecha límite?",
+          "prompt_target": "Read the text and answer: Why did the team not meet the deadline?",
+          "options": [
+            "Because the client changed the requirements and two team members got sick",
+            "Because the team did not want to work",
+            "Because the project was too easy",
+            "Because the client cancelled the project"
+          ],
+          "correct_answer": "Because the client changed the requirements and two team members got sick",
+          "explanation_form": "El texto dice que el cliente cambió los requisitos dos veces y que dos miembros del equipo se enfermaron, lo que causó el retraso.",
+          "explanation_target": "The text says the client changed the requirements twice and two team members got sick, which caused the delay.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "give_in_verb",
+            "pull_off_verb",
+            "modal_perfects_and_deduction"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Last month, our team had a very important project with a strict deadline. We planned everything carefully, but problems appeared from the start. The client changed the requirements twice, which caused delays. We should have asked for more time then, but we thought we could manage. Later, two team members got sick and could not work for a week. We tried to pull off the project anyway, but it was impossible. In the end, we missed the deadline by three days. The client was not happy, but we explained the situation honestly. We should have communicated the problems earlier. Now we know that we must always tell the client about delays immediately.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué dice la persona sobre la reunión?",
+          "prompt_target": "Listen and answer: What does the person say about the meeting?",
+          "options": [
+            "That they arrived late and had no plan",
+            "That the meeting was very successful",
+            "That the manager was very happy",
+            "That they had a great plan"
+          ],
+          "correct_answer": "That they arrived late and had no plan",
+          "explanation_form": "La persona dice que llegaron tarde y no tenían plan. También dice que deberían haberse preparado mejor.",
+          "explanation_target": "The person says they arrived late and had no plan. They also say they should have prepared better.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "give_in_verb",
+            "modal_perfects_and_deduction"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The meeting was a disaster. We arrived late and we had no plan. We should have prepared better. The manager was very angry and asked us many questions. We gave in and accepted all his ideas. Now we have more work than before.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "should",
+            "have",
+            "called",
+            "you",
+            "earlier"
+          ],
+          "correct_answer": "You should have called earlier",
+          "explanation_form": "La estructura correcta es: sujeto + should have + participio. 'You should have called earlier' = 'Deberías haber llamado antes'.",
+          "explanation_target": "The correct structure is: subject + should have + past participle. 'You should have called earlier' = 'Deberías haber llamado antes'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "modal_perfects_and_deduction"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'pull off' en esta frase: 'She pulled off the presentation despite being nervous'?",
+          "prompt_target": "What does 'pull off' mean in this sentence: 'She pulled off the presentation despite being nervous'?",
+          "options": [
+            "She managed to do it successfully",
+            "She failed completely",
+            "She cancelled the presentation",
+            "She postponed the presentation"
+          ],
+          "correct_answer": "She managed to do it successfully",
+          "explanation_form": "'Pull off' significa lograr algo a pesar de las dificultades. Ella logró hacer la presentación con éxito a pesar de estar nerviosa.",
+          "explanation_target": "'Pull off' means to achieve something despite difficulties. She managed to do the presentation successfully despite being nervous.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "pull_off_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué piensa la persona sobre el proyecto?",
+          "prompt_target": "Listen and answer: What does the person think about the project?",
+          "options": [
+            "That they should have started earlier and tried harder",
+            "That the project was perfect",
+            "That they should have given in more",
+            "That they are very happy with the result"
+          ],
+          "correct_answer": "That they should have started earlier and tried harder",
+          "explanation_form": "La persona dice que deberían haber empezado antes y que deberían haber intentado más. No está completamente feliz con el resultado.",
+          "explanation_target": "The person says they should have started earlier and should have tried harder. They are not completely happy with the result.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "give_in_verb",
+            "pull_off_verb",
+            "modal_perfects_and_deduction"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I think we should have started the project earlier. We had many problems and we gave in too quickly. We should have tried harder. The result is not great, but we pulled off something in the end. I am not completely happy.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'might have' o 'should have': 'He ____ forgotten the meeting. He is usually very punctual.'",
+          "prompt_target": "Complete with 'might have' or 'should have': 'He ____ forgotten the meeting. He is usually very punctual.'",
+          "options": null,
+          "correct_answer": "might have",
+          "explanation_form": "'Might have' expresa posibilidad en el pasado. 'He might have forgotten the meeting' = 'Pudo haber olvidado la reunión'. 'Should have' sería una crítica, no una posibilidad.",
+          "explanation_target": "'Might have' expresses past possibility. 'He might have forgotten the meeting' = 'Pudo haber olvidado la reunión'. 'Should have' would be criticism, not possibility.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "modal_perfects_and_deduction"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la mejor respuesta para explicar por qué no cumpliste una fecha límite?",
+          "prompt_target": "What is the best response to explain why you missed a deadline?",
+          "options": [
+            "I am sorry. We should have managed the time better.",
+            "I do not care about the deadline.",
+            "The deadline was not important.",
+            "I forgot about the project completely."
+          ],
+          "correct_answer": "I am sorry. We should have managed the time better.",
+          "explanation_form": "Para explicar un retraso de forma profesional, reconocés el error y usás 'should have' para mostrar lo que deberías haber hecho. 'We should have managed the time better' = 'Deberíamos haber gestionado mejor el tiempo'.",
+          "explanation_target": "To explain a delay professionally, you acknowledge the mistake and use 'should have' to show what you should have done. 'We should have managed the time better' = 'Deberíamos haber gestionado mejor el tiempo'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "modal_perfects_and_deduction"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué lección aprendió el equipo?",
+          "prompt_target": "Read the text and answer: What lesson did the team learn?",
+          "options": [
+            "That they should not give in to every request",
+            "That they should always say yes to the client",
+            "That deadlines are not important",
+            "That they should work fewer hours"
+          ],
+          "correct_answer": "That they should not give in to every request",
+          "explanation_form": "El texto dice que el equipo aprendió que no deberían ceder ante cada petición. Ahora discuten los cambios antes de aceptarlos.",
+          "explanation_target": "The text says the team learned that they should not give in to every request. Now they discuss changes before accepting them.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "give_in_verb",
+            "modal_perfects_and_deduction"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Our company had a big project with a client from another country. We had a very tight deadline and we knew it would be difficult. At first, everything went well. We finished the first part of the project on time. But then, the client asked for many changes. We should have said no to some of them, but we gave in because we wanted to make the client happy. This caused many problems. We had to work extra hours and we still missed the final deadline. The client was upset, but we explained that the changes made the project much bigger. We learned that we should not give in to every request. Sometimes, it is better to say no and explain why. Now we always discuss changes before accepting them.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "matching",
+          "prompt_form": "Empareja cada expresión con su significado:",
+          "prompt_target": "Match each expression with its meaning:",
+          "options": [
+            "give in",
+            "pull off",
+            "should have",
+            "might have",
+            "to stop resisting",
+            "to achieve something difficult",
+            "criticism about a past action",
+            "possibility about a past action"
+          ],
+          "correct_answer": [
+            "give in=to stop resisting",
+            "pull off=to achieve something difficult",
+            "should have=criticism about a past action",
+            "might have=possibility about a past action"
+          ],
+          "explanation_form": "Estas expresiones son clave para explicar retrasos. 'Give in' es ceder, 'pull off' es lograr algo difícil, 'should have' expresa crítica y 'might have' expresa posibilidad.",
+          "explanation_target": "These expressions are key to explaining delays. 'Give in' means to stop resisting, 'pull off' means to achieve something difficult, 'should have' expresses criticism and 'might have' expresses possibility.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "give_in_verb",
+            "pull_off_verb",
+            "modal_perfects_and_deduction"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Errores comunes con 'might have' y 'should have'\n\n- **'Might have' + participio** expresa posibilidad pasada: *She might have missed the train.* (Ella pudo haber perdido el tren). No lo confundas con 'might' + verbo, que habla del presente o futuro.\n- **'Should have' + participio** expresa crítica o arrepentimiento: *You should have called me.* (Deberías haberme llamado). En negativo, *shouldn't have* critica algo que sí se hizo: *I shouldn't have given in so fast.*\n\n## Consejos para sonar natural\n\n- Usa estos modales para **especular sobre causas** en el trabajo: *The delay might have happened because of the server.* También para **sugerir alternativas**: *We should have pulled off the launch earlier.*\n- En conversación, acorta las formas: *might've*, *should've*. Suenan más fluidas y son muy comunes entre nativos.\n- Para sonar menos directo al criticar, añade 'maybe' o 'perhaps': *Maybe we should have taken over the task sooner.*",
+  "metadata": {
+    "generated_at": "2026-08-31T01:29:24Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

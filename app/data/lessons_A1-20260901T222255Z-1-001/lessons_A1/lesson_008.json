@@ -1,0 +1,1508 @@
+{
+  "id": "lesson_008",
+  "position": 8,
+  "unit_id": 2,
+  "course_id": "en.A1",
+  "title_form": "Familia inmediata",
+  "title_target": "Describing Immediate Family",
+  "theme_focus": "Miembros de la familia inmediata y presentación de los mismos.",
+  "learning_objectives": [
+    "Can name immediate family members.",
+    "Can describe his/her immediate family using 'have got'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_007"
+  ],
+  "grammar_focus": [
+    "have got: affirmative (I have got ...)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "mother",
+        "father",
+        "parents",
+        "brother",
+        "sister",
+        "son",
+        "daughter",
+        "family",
+        "have_got_verb",
+        "his_det",
+        "her_det"
+      ],
+      "chunk_ids": [
+        "chunk_i_have_got",
+        "chunk_have_you_got"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "name",
+        "live_verb",
+        "my_det",
+        "i_pronoun",
+        "why_wh"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana está en casa con su amiga Lucy. Lucy ve una foto de la familia de Ana y le pregunta quiénes son. Ana le presenta a su madre, su padre, su hermano y su hermana, y le cuenta un poco sobre ellos.",
+  "introduction_md": "¡Hola! En esta lección vas a aprender a hablar de tu **familia inmediata**: tu madre, tu padre, tus hermanos y más. \n\nVas a aprender:\n\n- Los nombres de los miembros de la familia en inglés.\n- A decir quién es quién con la frase **I have got** (yo tengo).\n- A presentar a tu familia con palabras como **his** (su, de él) y **her** (su, de ella).\n\nCon esto podrás hablar de las personas más importantes de tu vida. ¡Vamos a empezar!",
+  "intro_target": "Hello! In this lesson, you will learn to talk about your **immediate family**: your mother, your father, your brothers and more.\n\nYou will learn:\n\n- The names of family members in English.\n- To say who is who with the phrase **I have got**.\n- To introduce your family with words like **his** and **her**.\n\nWith this, you can talk about the most important people in your life. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_have_got",
+      "grammar_slug": null,
+      "text_target": "I have got a mother and a father.",
+      "translation_form": "Yo tengo una madre y un padre.",
+      "highlight_words": [
+        "have got",
+        "mother",
+        "father"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_have_you_got",
+      "grammar_slug": null,
+      "text_target": "Have you got a brother? Yes, I have got one.",
+      "translation_form": "¿Tienes un hermano? Sí, yo tengo uno.",
+      "highlight_words": [
+        "have you got",
+        "brother"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "sister",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My sister is a student, and my brother is happy.",
+      "translation_form": "Mi hermana es una estudiante, y mi hermano es feliz.",
+      "highlight_words": [
+        "sister",
+        "brother"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "son",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Her son is my friend, and his daughter is my sister.",
+      "translation_form": "Su hijo es mi amigo, y su hija es mi hermana.",
+      "highlight_words": [
+        "son",
+        "daughter",
+        "his",
+        "her",
+        "sister"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My family is happy, and my parents are happy.",
+      "translation_form": "Mi familia es grande, y mis padres son felices.",
+      "highlight_words": [
+        "family",
+        "parents"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "have got: affirmative (I have got ...)",
+      "title_form": "Have got: afirmativo (Yo tengo ...)",
+      "title_target": "Have got: affirmative (I have got ...)",
+      "description_md_form": "Usamos **have got** para hablar de lo que tenemos, como nuestra **familia**. Es muy común en inglés hablado.\n\nLa estructura es simple:\n\n- **I have got** + familia\n\nEjemplos:\n\n- **I have got** a mother.\n- **I have got** a brother and a sister.\n\n**Importante:** *have got* significa *tener*. No lo confundas con *have* (que también significa *tener*). En esta lección, usamos *have got* para presentar a nuestra familia.\n\nRecuerda: *have got* es una forma fija. No decimos *I have got a mother and a father* de otra manera.",
+      "description_md_target": "We use **have got** to talk about what we have, like our **family**. It is very common in spoken English.\n\nThe structure is simple:\n\n- **I have got** + family\n\nExamples:\n\n- **I have got** a mother.\n- **I have got** a brother and a sister.\n\n**Important:** *have got* means *to have*. Do not confuse it with *have* (which also means *to have*). In this lesson, we use *have got* to introduce our family.\n\nRemember: *have got* is a fixed form. We do not say *I have got a mother and a father* in another way.",
+      "grammar_structure": "I + have got + (a/an) + family member",
+      "conjugation_table": {
+        "name": "have_got_affirmative",
+        "headers": [
+          "Pronombre",
+          "Forma",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "have got",
+            "I have got a sister."
+          ],
+          [
+            "You",
+            "have got",
+            "You have got a brother."
+          ],
+          [
+            "He",
+            "has got",
+            "He has got a son."
+          ],
+          [
+            "She",
+            "has got",
+            "She has got a daughter."
+          ],
+          [
+            "We",
+            "have got",
+            "We have got a family."
+          ],
+          [
+            "They",
+            "have got",
+            "They have got parents."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_i_have_got",
+          "grammar_slug": null,
+          "text_target": "I have got a mother and a father.",
+          "translation_form": "Yo tengo una madre y un padre.",
+          "highlight_words": [
+            "have",
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "have got: affirmative (I have got ...)",
+          "text_target": "I have got a brother and a sister.",
+          "translation_form": "Yo tengo un hermano y una hermana.",
+          "highlight_words": [
+            "have",
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés hablado, *have got* es más natural que *have* para hablar de la familia. Usa *I have got* para presentar a tu familia."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *I have got a mother and a father* con *have* solo. La forma correcta es *I have got*."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el artículo *a* antes del miembro de la familia: *I have got brother* (incorrecto) → *I have got a brother* (correcto).",
+        "Olvidar el artículo *a* antes del miembro de la familia: *I have got brother* (incorrecto) → *I have got a brother* (correcto).",
+        "Confundir *have got* con *has got*: con *I*, *you*, *we*, *they* usamos *have got*; con *he*, *she*, *it* usamos *has got*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'mother'?",
+      "options": [
+        "madre",
+        "padre",
+        "hermana",
+        "hijo"
+      ],
+      "correct_answer": "madre",
+      "explanation_md": "'Mother' es la madre, la mamá.",
+      "related_lexeme_ids": [
+        "mother"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'parents'?",
+      "options": [
+        "padres",
+        "hermanos",
+        "abuelos",
+        "amigos"
+      ],
+      "correct_answer": "padres",
+      "explanation_md": "'Parents' son los padres, papá y mamá.",
+      "related_lexeme_ids": [
+        "parents"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'daughter'?",
+      "options": [
+        "hija",
+        "hijo",
+        "hermana",
+        "madre"
+      ],
+      "correct_answer": "hija",
+      "explanation_md": "'Daughter' es la hija.",
+      "related_lexeme_ids": [
+        "daughter"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "brother",
+        "hermano",
+        "sister",
+        "hermana",
+        "son",
+        "hijo",
+        "father",
+        "padre"
+      ],
+      "correct_answer": [
+        "brother=hermano",
+        "sister=hermana",
+        "son=hijo",
+        "father=padre"
+      ],
+      "explanation_md": "Estas son las palabras para los miembros de la familia.",
+      "related_lexeme_ids": [
+        "brother",
+        "sister",
+        "son",
+        "father"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa: 'I have got a mother and a ____.' (Tengo una madre y un padre.)",
+      "options": [
+        "father",
+        "sister",
+        "daughter",
+        "brother"
+      ],
+      "correct_answer": "father",
+      "explanation_md": "Usamos 'father' para decir padre.",
+      "related_lexeme_ids": [
+        "father"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_have_got"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'his' o 'her': '____ son is my friend.' (Su hijo es mi amigo.)",
+      "options": null,
+      "correct_answer": "His",
+      "explanation_md": "Usamos 'his' para un hombre (el hijo).",
+      "related_lexeme_ids": [
+        "his_det",
+        "son"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'his' o 'her': '____ daughter is my sister.' (Su hija es mi hermana.)",
+      "options": null,
+      "correct_answer": "Her",
+      "explanation_md": "Usamos 'her' para una mujer (la hija).",
+      "related_lexeme_ids": [
+        "her_det",
+        "daughter"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Tienes un hermano?'",
+      "options": null,
+      "correct_answer": "Have you got a brother?",
+      "explanation_md": "Para preguntar si alguien tiene algo, usamos 'Have you got...?'.",
+      "related_lexeme_ids": [
+        "brother"
+      ],
+      "related_chunk_ids": [
+        "chunk_have_you_got"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'My family is big.'",
+      "options": null,
+      "correct_answer": "Mi familia es grande.",
+      "explanation_md": "'Family' es familia y 'big' es grande.",
+      "related_lexeme_ids": [
+        "family"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿cuántos hermanos tiene Ana?",
+      "options": [
+        "one",
+        "two",
+        "three",
+        "four"
+      ],
+      "correct_answer": "one",
+      "explanation_md": "Ana dice 'a brother' (un hermano).",
+      "related_lexeme_ids": [
+        "brother",
+        "family",
+        "mother",
+        "father"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana is a student. She has got a big family. She has got a mother, a father, and a brother. Her brother is a student too. Ana is happy.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿quién es mi amigo?",
+      "options": [
+        "Tom",
+        "my mother",
+        "my father",
+        "my sister"
+      ],
+      "correct_answer": "Tom",
+      "explanation_md": "El audio dice 'Tom is my friend'.",
+      "related_lexeme_ids": [
+        "friend",
+        "mother",
+        "his_det"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_have_got"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I have got a friend. His name is Tom. Tom is my friend. His mother is my mother's friend.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu familia. Usa 'I have got...' y los miembros de la familia que conoces.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'have got' y el vocabulario de la familia.",
+      "related_lexeme_ids": [
+        "family",
+        "mother",
+        "father",
+        "sister"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_have_got"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I have got a mother and a father.",
+        "I have got a sister.",
+        "My family is big."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "mother",
+      "back": "madre",
+      "hint": "una mujer que es tu madre",
+      "lexeme_id": "mother",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "father",
+      "back": "padre",
+      "hint": "un hombre que es tu padre",
+      "lexeme_id": "father",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "parents",
+      "back": "padres",
+      "hint": "madre y padre juntos",
+      "lexeme_id": "parents",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "brother",
+      "back": "hermano",
+      "hint": "un chico que es tu hermano",
+      "lexeme_id": "brother",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "sister",
+      "back": "hermana",
+      "hint": "una chica que es tu hermana",
+      "lexeme_id": "sister",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "son",
+      "back": "hijo",
+      "hint": "un chico que es tu hijo",
+      "lexeme_id": "son",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "daughter",
+      "back": "hija",
+      "hint": "una chica que es tu hija",
+      "lexeme_id": "daughter",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "family",
+      "back": "familia",
+      "hint": "madre, padre, hermanos...",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "have got",
+      "back": "tener",
+      "hint": "verbo para posesión",
+      "lexeme_id": "have_got_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "his",
+      "back": "su (de él)",
+      "hint": "posesivo para él",
+      "lexeme_id": "his_det",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "her",
+      "back": "su (de ella)",
+      "hint": "posesivo para ella",
+      "lexeme_id": "her_det",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "I have got ...",
+      "back": "Yo tengo ...",
+      "hint": "frase para decir lo que tienes",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_have_got",
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "Have you got ...?",
+      "back": "¿Tienes ...?",
+      "hint": "pregunta para saber lo que alguien tiene",
+      "lexeme_id": null,
+      "chunk_id": "chunk_have_you_got",
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "mother",
+      "reading": "",
+      "translation": "madre",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "mother",
+      "chunk_id": null
+    },
+    {
+      "target_word": "father",
+      "reading": "",
+      "translation": "padre",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "father",
+      "chunk_id": null
+    },
+    {
+      "target_word": "parents",
+      "reading": "",
+      "translation": "padres",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "parents",
+      "chunk_id": null
+    },
+    {
+      "target_word": "brother",
+      "reading": "",
+      "translation": "hermano",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "brother",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sister",
+      "reading": "",
+      "translation": "hermana",
+      "pos": "noun",
+      "example": "My sister is a student, and my brother is happy.",
+      "example_translation": "Mi hermana es una estudiante, y mi hermano es feliz.",
+      "lexeme_id": "sister",
+      "chunk_id": null
+    },
+    {
+      "target_word": "son",
+      "reading": "",
+      "translation": "hijo",
+      "pos": "noun",
+      "example": "Her son is my friend, and his daughter is my sister.",
+      "example_translation": "Su hijo es mi amigo, y su hija es mi hermana.",
+      "lexeme_id": "son",
+      "chunk_id": null
+    },
+    {
+      "target_word": "daughter",
+      "reading": "",
+      "translation": "hija",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "daughter",
+      "chunk_id": null
+    },
+    {
+      "target_word": "family",
+      "reading": "",
+      "translation": "familia",
+      "pos": "noun",
+      "example": "My family is happy, and my parents are happy.",
+      "example_translation": "Mi familia es grande, y mis padres son felices.",
+      "lexeme_id": "family",
+      "chunk_id": null
+    },
+    {
+      "target_word": "have got",
+      "reading": "",
+      "translation": "tener",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "have_got_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "his",
+      "reading": "",
+      "translation": "su (de él)",
+      "pos": "determiner",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "his_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "her",
+      "reading": "",
+      "translation": "su (de ella)",
+      "pos": "determiner",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "her_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I have got ...",
+      "reading": "",
+      "translation": "Yo tengo ...",
+      "pos": "chunk",
+      "example": "I have got a mother and a father.",
+      "example_translation": "Yo tengo una madre y un padre.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_have_got"
+    },
+    {
+      "target_word": "Have you got ...?",
+      "reading": "",
+      "translation": "¿Tienes ...",
+      "pos": "chunk",
+      "example": "Have you got a brother? Yes, I have got one.",
+      "example_translation": "¿Tienes un hermano? Sí, yo tengo uno.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_have_you_got"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "mother",
+      "role": "support",
+      "status": "practiced",
+      "translation": "madre",
+      "lexeme_id": "mother",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "father",
+      "role": "support",
+      "status": "practiced",
+      "translation": "padre",
+      "lexeme_id": "father",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_005",
+        "ex_010",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "parents",
+      "role": "support",
+      "status": "practiced",
+      "translation": "padres",
+      "lexeme_id": "parents",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "brother",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hermano",
+      "lexeme_id": "brother",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_008",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "sister",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hermana",
+      "lexeme_id": "sister",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_004",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "son",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hijo",
+      "lexeme_id": "son",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_004",
+        "ex_006",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "daughter",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hija",
+      "lexeme_id": "daughter",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_007",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "practiced",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "have got",
+      "role": "support",
+      "status": "introduced",
+      "translation": "tener",
+      "lexeme_id": "have_got_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "his",
+      "role": "support",
+      "status": "practiced",
+      "translation": "su (de él)",
+      "lexeme_id": "his_det",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_011",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "her",
+      "role": "support",
+      "status": "practiced",
+      "translation": "su (de ella)",
+      "lexeme_id": "her_det",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "I have got ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Yo tengo ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_have_got",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_005",
+        "ex_011",
+        "ex_012",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "Have you got ...?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Tienes ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_have_you_got",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_001",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "happy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "feliz / contento",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "name",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nombre",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "too",
+      "role": "support",
+      "status": "emergent",
+      "translation": "también; demasiado",
+      "lexeme_id": "too_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 13,
+    "review_support_count": 0,
+    "emergent_count": 10,
+    "emergent_terms": [
+      "student",
+      "old",
+      "big",
+      "friend",
+      "happy",
+      "name",
+      "say",
+      "too",
+      "talk",
+      "word"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Familia inmediata",
+      "title_target": "Quiz: Immediate Family",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "I have got a brother and a sister.",
+            "I have got a son and a daughter.",
+            "I have got a friend and a brother."
+          ],
+          "correct_answer": "I have got a brother and a sister.",
+          "explanation_form": "El audio dice que tienes un hermano y una hermana.",
+          "explanation_target": "The audio says you have a brother and a sister.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "brother",
+            "sister",
+            "mother",
+            "father",
+            "chunk_i_have_got"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "I have got a mother and a father. My mother is a student. My father is old. I have got a brother and a sister.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "have",
+            "got",
+            "a",
+            "daughter"
+          ],
+          "correct_answer": "I have got a daughter.",
+          "explanation_form": "La estructura correcta es: sujeto + have got + artículo + sustantivo.",
+          "explanation_target": "The correct structure is: subject + have got + article + noun.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "daughter",
+            "chunk_i_have_got"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'parents'?",
+          "prompt_target": "What does 'parents' mean?",
+          "options": [
+            "Padres",
+            "Hermanos",
+            "Abuelos",
+            "Hijos"
+          ],
+          "correct_answer": "Padres",
+          "explanation_form": "'Parents' significa 'padres' (madre y padre).",
+          "explanation_target": "'Parents' means 'padres' (mother and father).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "parents"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "He has got a son and a daughter.",
+            "He has got a brother and a sister.",
+            "He has got a mother and a father."
+          ],
+          "correct_answer": "He has got a son and a daughter.",
+          "explanation_form": "El audio dice que tiene un hijo y una hija.",
+          "explanation_target": "The audio says he has a son and a daughter.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "son",
+            "daughter",
+            "chunk_have_you_got",
+            "chunk_i_have_got"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Have you got a son? Yes, I have got a son and a daughter. My son is a student.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____ name is Anna.' (Su nombre es Anna, hablando de una mujer)",
+          "prompt_target": "Complete the sentence: '____ name is Anna.' (Her name is Anna)",
+          "options": null,
+          "correct_answer": "Her",
+          "explanation_form": "Usamos 'her' para hablar de una mujer.",
+          "explanation_target": "We use 'her' to talk about a woman.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "her_det"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____ name is John.' (Su nombre es John, hablando de un hombre)",
+          "prompt_target": "Complete the sentence: '____ name is John.' (His name is John)",
+          "options": null,
+          "correct_answer": "His",
+          "explanation_form": "Usamos 'his' para hablar de un hombre.",
+          "explanation_target": "We use 'his' to talk about a man.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "his_det"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y elige la respuesta correcta:",
+          "prompt_target": "Read the text and choose the correct answer:",
+          "options": [
+            "He has got a brother and a sister.",
+            "He has got a son and a daughter.",
+            "He has got a mother and a brother."
+          ],
+          "correct_answer": "He has got a brother and a sister.",
+          "explanation_form": "El texto dice que tiene un hermano y una hermana.",
+          "explanation_target": "The text says he has a brother and a sister.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "family",
+            "mother",
+            "father",
+            "brother",
+            "sister",
+            "chunk_i_have_got"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "This is my family. I have got a mother and a father. My mother is a student. My father is old. I have got a brother and a sister. My brother is a student too. My sister is young.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "mother",
+            "madre",
+            "father",
+            "padre",
+            "brother",
+            "hermano",
+            "sister",
+            "hermana"
+          ],
+          "correct_answer": [
+            "mother=madre",
+            "father=padre",
+            "brother=hermano",
+            "sister=hermana"
+          ],
+          "explanation_form": "Estas son las palabras básicas para la familia inmediata.",
+          "explanation_target": "These are the basic words for immediate family.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "mother",
+            "father",
+            "brother",
+            "sister"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice 'hija' en inglés?",
+          "prompt_target": "How do you say 'hija' in English?",
+          "options": [
+            "daughter",
+            "son",
+            "sister",
+            "mother"
+          ],
+          "correct_answer": "daughter",
+          "explanation_form": "'Hija' se dice 'daughter' en inglés.",
+          "explanation_target": "'Hija' is 'daughter' in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "daughter"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice 'hijo' en inglés?",
+          "prompt_target": "How do you say 'hijo' in English?",
+          "options": [
+            "son",
+            "daughter",
+            "brother",
+            "father"
+          ],
+          "correct_answer": "son",
+          "explanation_form": "'Hijo' se dice 'son' en inglés.",
+          "explanation_target": "'Hijo' is 'son' in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "son"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I ____ got a family.' (Tengo una familia)",
+          "prompt_target": "Complete the sentence: 'I ____ got a family.' (I have a family)",
+          "options": null,
+          "correct_answer": "have",
+          "explanation_form": "Usamos 'have' con 'I' para formar 'have got'.",
+          "explanation_target": "We use 'have' with 'I' to form 'have got'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "family",
+            "chunk_i_have_got"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'family'?",
+          "prompt_target": "What does 'family' mean?",
+          "options": [
+            "Familia",
+            "Amigo",
+            "Casa",
+            "Nombre"
+          ],
+          "correct_answer": "Familia",
+          "explanation_form": "'Family' significa 'familia'.",
+          "explanation_target": "'Family' means 'familia'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "family"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El verbo have got\n\nEn ingles, para hablar de tu familia usamos **have got**. Es como decir \"tengo\" en espanol. Fijate que con **I** (yo) siempre decimos **I have got**, y nunca decimos \"I has got\". El verbo cambia solo con **he**, **she** o **it**: **he has got**.\n\n## Errores comunes\n\n- Recuerda usar el artículo *a* antes de cada miembro de la familia: *I have got a brother and a sister*.\n- Recuerda que **his** es para un hombre (su) y **her** para una mujer (su). Por ejemplo: \"His mother\" (la madre de el) y \"Her father\" (el padre de ella).\n- Para preguntar, usamos **Have you got...?** (¿Tienes...?). La respuesta corta es \"Yes, I have\" o \"No, I haven't\".",
+  "metadata": {
+    "generated_at": "2026-08-31T21:29:37Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

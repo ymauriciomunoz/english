@@ -1,0 +1,1555 @@
+{
+  "id": "lesson_001",
+  "position": 1,
+  "unit_id": 1,
+  "course_id": "en.B2",
+  "title_form": "Telling a story: background and main events",
+  "title_target": "Telling a story: background and main events",
+  "theme_focus": "stories",
+  "learning_objectives": [
+    "Can narrate a past event, using past continuous for background actions and past simple for main events.",
+    "Can use time connectors like 'meanwhile' and 'in the end' to structure a story."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [],
+  "grammar_focus": [
+    "B1/B2 review: past simple vs past continuous for background and main events in narratives"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": []
+    },
+    "target_vocabulary": [
+      {
+        "term": "surprise",
+        "role": "topic",
+        "rationale": "Core noun for the unexpected event being narrated."
+      },
+      {
+        "term": "footsteps",
+        "role": "topic",
+        "rationale": "Concrete detail that sets the scene in the story."
+      },
+      {
+        "term": "meanwhile",
+        "role": "functional",
+        "rationale": "Time connector to link background and main events."
+      },
+      {
+        "term": "in the end",
+        "role": "functional",
+        "rationale": "Sequencing phrase to conclude the narrative."
+      },
+      {
+        "term": "was walking",
+        "role": "grammar_support",
+        "rationale": "Past continuous form for background action."
+      },
+      {
+        "term": "heard",
+        "role": "grammar_support",
+        "rationale": "Past simple form for the main interrupting event."
+      }
+    ]
+  },
+  "scenario": "Marta camina por una calle tranquila al atardecer. De repente, escucha pasos detrás de ella y se detiene. Mientras tanto, un perro aparece desde una esquina y se acerca a ella. Al final, Marta descubre que el perro la sigue porque tiene hambre y ella le da un poco de su pan.",
+  "introduction_md": "## Contar una historia: el fondo y los hechos principales\n\nCuando contamos una historia en inglés, necesitamos dos piezas: **el fondo** (lo que estaba pasando) y **los hechos principales** (lo que pasó).\n\n- **Past continuous** (was walking, was raining) describe la acción de fondo.\n- **Past simple** (heard, saw, opened) marca los hechos principales que interrumpen ese fondo.\n\nEn esta lección vas a aprender a combinar ambos tiempos para narrar de forma natural, igual que un hablante nativo. También usarás conectores de tiempo como **meanwhile** (mientras tanto) e **in the end** (al final) para estructurar tu relato.\n\n**¿Por qué es útil?**\n\n- Para contar anécdotas en conversaciones cotidianas.\n- Para narrar noticias o eventos en el trabajo.\n- Para escribir historias o correos con un hilo claro.\n\nVamos a practicar con una historia sencilla: alguien camina por la calle, escucha algo inesperado y, al final, descubre una sorpresa. ¡Empecemos!",
+  "intro_target": "## Telling a story: background and main events\n\nWhen we tell a story in English, we need two pieces: **the background** (what was happening) and **the main events** (what happened).\n\n- **Past continuous** (was walking, was raining) describes the background action.\n- **Past simple** (heard, saw, opened) marks the main events that interrupt that background.\n\nIn this lesson, you will learn to combine both tenses to narrate naturally, just like a native speaker. You will also use time connectors like **meanwhile** (while this was happening) and **in the end** (finally) to structure your story.\n\n**Why is this useful?**\n\n- To tell anecdotes in everyday conversations.\n- To narrate news or events at work.\n- To write stories or emails with a clear thread.\n\nLet's practice with a simple story: someone is walking down the street, hears something unexpected, and, in the end, discovers a surprise. Let's begin!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I was walking home from work when I heard strange footsteps behind me.",
+      "translation_form": "Caminaba a casa desde el trabajo cuando escuché pasos extraños detrás de mí.",
+      "highlight_words": [
+        "was walking",
+        "heard",
+        "footsteps"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She was cooking dinner while the children were playing in the garden.",
+      "translation_form": "Ella cocinaba la cena mientras los niños jugaban en el jardín.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The phone rang, and I immediately knew something was wrong.",
+      "translation_form": "El teléfono sonó, e inmediatamente supe que algo estaba mal.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Meanwhile, the rain started to fall heavily on the empty streets.",
+      "translation_form": "Mientras tanto, la lluvia comenzó a caer fuertemente sobre las calles vacías.",
+      "highlight_words": [
+        "meanwhile"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We waited for hours, but in the end, the meeting was cancelled.",
+      "translation_form": "Esperamos durante horas, pero al final, la reunión fue cancelada.",
+      "highlight_words": [
+        "in the end"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I was reading a book when suddenly the lights went out.",
+      "translation_form": "Leía un libro cuando de repente se apagaron las luces.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He was running to catch the bus when he slipped on the wet floor.",
+      "translation_form": "Corría para alcanzar el autobús cuando resbaló en el suelo mojado.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The children were sleeping peacefully when the dog started to bark loudly.",
+      "translation_form": "Los niños dormían pacíficamente cuando el perro comenzó a ladrar fuerte.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "B1/B2 review: past simple vs past continuous for background and main events in narratives",
+      "title_form": "Pasado simple vs pasado continuo: fondo y eventos principales",
+      "title_target": "Past simple vs past continuous: background and main events",
+      "description_md_form": "Para contar una historia en inglés, necesitas **dos tiempos** que trabajan juntos:\n\n- **Past continuous** (`was/were + -ing`) describe la **acción de fondo** — lo que estaba pasando cuando algo ocurrió. Ej: `I was walking home.`\n- **Past simple** describe el **evento principal** — la acción que interrumpe o sucede en ese contexto. Ej: `I heard strange footsteps.`\n\n**La estructura típica de una narración:**\n\n> **Background** (past continuous) + **Main event** (past simple)\n\nEjemplo: `I was walking home when I heard strange footsteps.`\n\n**Conectores temporales** ayudan a estructurar la historia:\n- `Meanwhile` — para acciones paralelas o simultáneas.\n- `In the end` — para concluir la narración.\n\n**Regla clave:** el past continuous pinta el escenario; el past simple avanza la acción. Si usas solo past simple, la historia suena como una lista de eventos. Si usas solo past continuous, la historia no avanza.\n\n**Ejemplo completo:**\n> `She was cooking dinner while the children were playing in the garden. The phone rang, and I immediately knew something was wrong. Meanwhile, the rain started to fall heavily on the empty streets. We waited for hours, but in the end, the meeting was cancelled.`",
+      "description_md_target": "To tell a story in English, you need **two tenses** that work together:\n\n- **Past continuous** (`was/were + -ing`) describes the **background action** — what was happening when something occurred. E.g., `I was walking home.`\n- **Past simple** describes the **main event** — the action that interrupts or happens in that context. E.g., `I heard strange footsteps.`\n\n**The typical narrative structure:**\n\n> **Background** (past continuous) + **Main event** (past simple)\n\nExample: `I was walking home when I heard strange footsteps.`\n\n**Time connectors** help structure the story:\n- `Meanwhile` — for parallel or simultaneous actions.\n- `In the end` — to conclude the narrative.\n\n**Key rule:** past continuous sets the scene; past simple moves the action forward. If you use only past simple, the story sounds like a list of events. If you use only past continuous, the story doesn't progress.\n\n**Complete example:**\n> `She was cooking dinner while the children were playing in the garden. The phone rang, and I immediately knew something was wrong. Meanwhile, the rain started to fall heavily on the empty streets. We waited for hours, but in the end, the meeting was cancelled.`",
+      "grammar_structure": "Subject + was/were + verb-ing (background) + when/while + Subject + past simple (main event)",
+      "conjugation_table": {
+        "name": "past_continuous",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo"
+        ],
+        "rows": [
+          [
+            "I",
+            "was walking",
+            "was not walking"
+          ],
+          [
+            "You",
+            "were walking",
+            "were not walking"
+          ],
+          [
+            "He/She/It",
+            "was walking",
+            "was not walking"
+          ],
+          [
+            "We",
+            "were walking",
+            "were not walking"
+          ],
+          [
+            "They",
+            "were walking",
+            "were not walking"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "B1/B2 review: past simple vs past continuous for background and main events in narratives",
+          "text_target": "I was walking home from work when I heard strange footsteps behind me.",
+          "translation_form": "Caminaba a casa desde el trabajo cuando escuché pasos extraños detrás de mí.",
+          "highlight_words": [
+            "was walking",
+            "heard"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "B1/B2 review: past simple vs past continuous for background and main events in narratives",
+          "text_target": "She was cooking dinner while the children were playing in the garden.",
+          "translation_form": "Ella cocinaba la cena mientras los niños jugaban en el jardín.",
+          "highlight_words": [
+            "was cooking",
+            "were playing"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Piensa en una película:** el past continuous es la cámara que muestra la escena; el past simple es la acción que ocurre en esa escena. `I was reading when the lights went out.`"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No uses past continuous para eventos consecutivos.** Si dices `I was waking up, I was brushing my teeth, I was leaving`, suena como acciones simultáneas. Usa past simple para secuencias: `I woke up, brushed my teeth, and left.`"
+        },
+        {
+          "type": "warning",
+          "text_md": "**`Meanwhile` no conecta con `when`.** `Meanwhile` introduce una acción paralela en una nueva oración: `I was cooking. Meanwhile, he was watching TV.` No digas `Meanwhile when...`"
+        }
+      ],
+      "common_errors_es": [
+        "Confundir el uso: usar past continuous para eventos principales en lugar de past simple. Ej incorrecto: `I was hearing a noise.` → Correcto: `I heard a noise.`",
+        "Olvidar el auxiliar `was/were` en past continuous. Ej incorrecto: `I walking home.` → Correcto: `I was walking home.`",
+        "Usar `while` con past simple para acciones de fondo. Ej incorrecto: `While I walked, the phone rang.` → Correcto: `While I was walking, the phone rang.`",
+        "Traducir literalmente `mientras tanto` como `meanwhile` al inicio de una oración sin coma. Correcto: `Meanwhile, the rain started.`"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'surprise'?",
+      "options": [
+        "sorpresa",
+        "miedo",
+        "alegría",
+        "tristeza"
+      ],
+      "correct_answer": "sorpresa",
+      "explanation_md": "'Surprise' significa 'sorpresa', el evento inesperado que cambia la historia.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'footsteps'?",
+      "options": [
+        "pasos",
+        "manos",
+        "ojos",
+        "pies"
+      ],
+      "correct_answer": "pasos",
+      "explanation_md": "'Footsteps' son los 'pasos' que alguien hace al caminar.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "meanwhile",
+        "mientras tanto",
+        "in the end",
+        "al final",
+        "surprise",
+        "sorpresa"
+      ],
+      "correct_answer": [
+        "meanwhile=mientras tanto",
+        "in the end=al final",
+        "surprise=sorpresa"
+      ],
+      "explanation_md": "Estas palabras conectan y organizan la historia: 'meanwhile' para acciones simultáneas y 'in the end' para el final.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración con la opción correcta: 'I ___ home when I heard the noise.'",
+      "options": [
+        "was walking",
+        "walked",
+        "walk",
+        "am walking"
+      ],
+      "correct_answer": "was walking",
+      "explanation_md": "Usamos 'was walking' (pasado continuo) para describir la acción de fondo que estaba en progreso cuando ocurrió el evento principal.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la forma correcta del verbo: 'She ___ (cook) dinner when the phone rang.'",
+      "options": null,
+      "correct_answer": "was cooking",
+      "explanation_md": "La acción de fondo (cocinar) estaba en progreso cuando ocurrió el evento principal (el teléfono sonó).",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Mientras tanto, la lluvia comenzó a caer.'",
+      "options": null,
+      "correct_answer": "Meanwhile, the rain started to fall.",
+      "explanation_md": "'Meanwhile' conecta dos acciones simultáneas. 'Started' es el pasado simple del evento principal.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'In the end, the meeting was cancelled.'",
+      "options": null,
+      "correct_answer": "Al final, la reunión fue cancelada.",
+      "explanation_md": "'In the end' se traduce como 'al final' y se usa para concluir la historia.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué estaba haciendo Ana cuando escuchó los pasos?",
+      "options": null,
+      "correct_answer": "Ana estaba caminando a casa desde el trabajo.",
+      "explanation_md": "El texto dice: 'Ana was walking home from work when she heard strange footsteps behind her.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana was walking home from work when she heard strange footsteps behind her. She felt nervous and started to walk faster. Meanwhile, the rain began to fall heavily on the empty streets. She looked back, but she saw nobody. In the end, she arrived at her apartment and closed the door quickly. The surprise was that the footsteps were just her neighbor, who was also walking home.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Quién era la persona que caminaba detrás de Ana?",
+      "options": [
+        "Su vecino",
+        "Su hermana",
+        "Nadie",
+        "Un pájaro"
+      ],
+      "correct_answer": "Su vecino",
+      "explanation_md": "El texto dice: 'the footsteps were just her neighbor, who was also walking home.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom was sitting in the garden when he saw a bird on the fence. He was reading a book and drinking coffee. Meanwhile, his sister was playing with the dog inside the house. Suddenly, the bird flew away. Tom felt a little sad, but in the end, he continued reading his book. The surprise was that the bird came back with another bird.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué estaba haciendo Tom cuando vio el pájaro?",
+      "options": null,
+      "correct_answer": "Tom estaba sentado en el jardín leyendo un libro y tomando café.",
+      "explanation_md": "El texto dice: 'Tom was sitting in the garden when he saw a bird on the fence. He was reading a book and drinking coffee.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom was sitting in the garden when he saw a bird on the fence. He was reading a book and drinking coffee. Meanwhile, his sister was playing with the dog inside the house. Suddenly, the bird flew away. Tom felt a little sad, but in the end, he continued reading his book. The surprise was that the bird came back with another bird.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué estaba haciendo María cuando sonó el teléfono?",
+      "options": [
+        "Estaba durmiendo",
+        "Estaba cocinando",
+        "Estaba leyendo",
+        "Estaba trabajando"
+      ],
+      "correct_answer": "Estaba cocinando",
+      "explanation_md": "El audio dice: 'Maria was cooking dinner when the phone rang.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Maria was cooking dinner when the phone rang. She was making pasta and listening to music. Meanwhile, her brother was watching TV in the living room. She answered the phone and it was a surprise. Her friend was calling to invite her to a party.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hizo el perro al final?",
+      "options": [
+        "Corrió a la puerta",
+        "Se quedó en el jardín",
+        "Se escondió en la casa",
+        "Empezó a ladrar"
+      ],
+      "correct_answer": "Corrió a la puerta",
+      "explanation_md": "El audio dice: 'He woke up and ran to the door.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The dog was sleeping in the garden when it started to rain. He woke up and ran to the door. Meanwhile, the children were playing inside the house. In the end, the dog found a dry place under the table and went back to sleep.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Dónde estaba el perro al final?",
+      "options": [
+        "En el jardín",
+        "Bajo la mesa",
+        "En la puerta",
+        "En la cama"
+      ],
+      "correct_answer": "Bajo la mesa",
+      "explanation_md": "El audio dice: 'the dog found a dry place under the table and went back to sleep.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The dog was sleeping in the garden when it started to rain. He woke up and ran to the door. Meanwhile, the children were playing inside the house. In the end, the dog found a dry place under the table and went back to sleep.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "free_production",
+      "prompt_md": "Contá una breve historia (3-4 oraciones) sobre un momento de sorpresa. Usá 'was walking' o 'was cooking' para el fondo y 'heard' o 'saw' para el evento principal. Incluí 'meanwhile' o 'in the end'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto del pasado continuo para el fondo y el pasado simple para el evento principal, además de los conectores 'meanwhile' e 'in the end'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I was walking in the park when I saw a rabbit. Meanwhile, my friend was taking photos. In the end, the rabbit ran away.",
+        "She was cooking dinner when she heard a noise. Meanwhile, her brother was watching TV. In the end, it was just the cat."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "free_production",
+      "prompt_md": "Describí una escena de tu vida diaria (3-4 oraciones) usando el pasado continuo para describir lo que estaba pasando y el pasado simple para una interrupción. Usá 'footsteps' o 'surprise' en tu historia.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la capacidad de narrar una escena con fondo (pasado continuo) y evento principal (pasado simple), usando el vocabulario de la lección.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I was reading a book when I heard footsteps outside. It was a surprise because I was alone. Meanwhile, the rain was falling. In the end, I opened the door and saw my friend.",
+        "We were watching a movie when the lights went out. It was a big surprise. Meanwhile, my sister was sleeping. In the end, we used candles."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "surprise",
+      "back": "sorpresa",
+      "hint": "sustantivo para el evento inesperado",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "surprise",
+      "tags": [
+        "lesson_001",
+        "B2",
+        "narratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "footsteps",
+      "back": "pasos (sonido de pasos)",
+      "hint": "detalle concreto que ambienta la escena",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "footsteps",
+      "tags": [
+        "lesson_001",
+        "B2",
+        "narratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "meanwhile",
+      "back": "mientras tanto",
+      "hint": "conector temporal para enlazar acciones",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "meanwhile",
+      "tags": [
+        "lesson_001",
+        "B2",
+        "narratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "in the end",
+      "back": "al final",
+      "hint": "frase para concluir la narración",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "in the end",
+      "tags": [
+        "lesson_001",
+        "B2",
+        "narratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "was walking",
+      "back": "estaba caminando",
+      "hint": "pasado continuo para acción de fondo",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "was walking",
+      "tags": [
+        "lesson_001",
+        "B2",
+        "narratives"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "heard",
+      "back": "oyó / escuchó",
+      "hint": "pasado simple para el evento que interrumpe",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "heard",
+      "tags": [
+        "lesson_001",
+        "B2",
+        "narratives"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [],
+  "lesson_vocabulary": [
+    {
+      "term": "surprise",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "sorpresa",
+      "lexeme_id": "surprise",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_015",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "footsteps",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "pasos",
+      "lexeme_id": "footsteps",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "B1/B2 review: past simple vs past continuous for background and main events in narratives",
+        "ex_008",
+        "ex_015",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "meanwhile",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "mientras tanto",
+      "lexeme_id": "meanwhile_adv",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "B1/B2 review: past simple vs past continuous for background and main events in narratives",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "in the end",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "al final",
+      "lexeme_id": "in_the_end",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_005",
+        "B1/B2 review: past simple vs past continuous for background and main events in narratives",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "was walking",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "B1/B2 review: past simple vs past continuous for background and main events in narratives",
+        "ex_008",
+        "ex_014",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "heard",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "B1/B2 review: past simple vs past continuous for background and main events in narratives",
+        "ex_008",
+        "ex_014",
+        "ex_015",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "children",
+      "role": "support",
+      "status": "emergent",
+      "translation": "niños / hijos",
+      "lexeme_id": "children",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_008",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "phone",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "dinner",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cena",
+      "lexeme_id": "dinner",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "suddenly",
+      "role": "support",
+      "status": "emergent",
+      "translation": "de repente",
+      "lexeme_id": "suddenly_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "ex_010",
+        "ex_015",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "sleep",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dormir",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "cooking",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocinar (actividad)",
+      "lexeme_id": "cooking",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_014",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "rain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lluvia",
+      "lexeme_id": "rain",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_012",
+        "ex_013",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "cook",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocinar",
+      "lexeme_id": "cook_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_014",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "garden",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jardín",
+      "lexeme_id": "garden",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "dog",
+      "role": "support",
+      "status": "emergent",
+      "translation": "perro",
+      "lexeme_id": "dog",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "street",
+      "role": "support",
+      "status": "emergent",
+      "translation": "calle",
+      "lexeme_id": "street",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "strange",
+      "role": "support",
+      "status": "emergent",
+      "translation": "extraño",
+      "lexeme_id": "strange_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "empty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vacío / vaciar",
+      "lexeme_id": "empty_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "heavily",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fuertemente",
+      "lexeme_id": "heavily_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "wait",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "floor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "piso / suelo",
+      "lexeme_id": "floor",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "hour",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "running",
+      "role": "support",
+      "status": "emergent",
+      "translation": "correr (actividad)",
+      "lexeme_id": "running",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "bus",
+      "role": "support",
+      "status": "emergent",
+      "translation": "autobús",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "cancelled",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cancelado",
+      "lexeme_id": "cancelled_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "catch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "atrapar / tomar (un tren, un bus)",
+      "lexeme_id": "catch_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "immediately",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora / enseguida / directamente",
+      "lexeme_id": "immediately_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "wet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "húmedo / mojado / empapado",
+      "lexeme_id": "wet_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "bark",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pelar / ladrar / descortezar",
+      "lexeme_id": "bark_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "wrong",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equivocado / incorrecto",
+      "lexeme_id": "wrong_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "back",
+      "role": "support",
+      "status": "emergent",
+      "translation": "espalda",
+      "lexeme_id": "back",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "watch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar / ver",
+      "lexeme_id": "watch_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_014",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_011"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 0,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "children",
+      "phone",
+      "dinner",
+      "suddenly",
+      "book",
+      "sleep",
+      "cooking",
+      "rain",
+      "cook",
+      "garden",
+      "dog",
+      "home",
+      "work",
+      "street",
+      "strange",
+      "empty",
+      "heavily",
+      "wait",
+      "meet",
+      "floor",
+      "hour",
+      "running",
+      "bus",
+      "cancelled",
+      "catch",
+      "meeting",
+      "immediately",
+      "wet",
+      "bark",
+      "wrong",
+      "back",
+      "watch"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Telling a story: background and main events",
+      "title_target": "Quiz: Telling a story: background and main events",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué estaba haciendo el narrador cuando ocurrió el evento principal?",
+          "prompt_target": "Read the text and answer: What was the narrator doing when the main event happened?",
+          "options": [
+            "He was walking home from work.",
+            "He was sitting on a bench.",
+            "He was talking to his sister.",
+            "He was watching television."
+          ],
+          "correct_answer": "He was walking home from work.",
+          "explanation_form": "El texto dice: 'I was walking home from work when I saw a strange light in the sky.' La acción en progreso (past continuous) es el fondo de la historia.",
+          "explanation_target": "The text says: 'I was walking home from work when I saw a strange light in the sky.' The action in progress (past continuous) is the background of the story.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": "Last summer, I was walking home from work when I saw a strange light in the sky. It was a warm evening, and the streets were quiet. I was feeling tired after a long day, so I decided to sit on a bench for a moment. Suddenly, a small object appeared above the trees. It was moving slowly, and it made a soft sound. I was watching it carefully when my phone rang. It was my sister. She was calling to ask about dinner. When I looked up again, the object was gone. I never found out what it was, but I still think about that evening sometimes.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué interrumpió la observación del narrador?",
+          "prompt_target": "Read the text and answer: What interrupted the narrator's observation?",
+          "options": [
+            "A loud noise from the street.",
+            "A phone call from his sister.",
+            "A sudden rainstorm.",
+            "A friend who arrived at the park."
+          ],
+          "correct_answer": "A phone call from his sister.",
+          "explanation_form": "El texto dice: 'I was watching it carefully when my phone rang. It was my sister.' La llamada interrumpió la acción en progreso.",
+          "explanation_target": "The text says: 'I was watching it carefully when my phone rang. It was my sister.' The call interrupted the action in progress.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Last summer, I was walking home from work when I saw a strange light in the sky. It was a warm evening, and the streets were quiet. I was feeling tired after a long day, so I decided to sit on a bench for a moment. Suddenly, a small object appeared above the trees. It was moving slowly, and it made a soft sound. I was watching it carefully when my phone rang. It was my sister. She was calling to ask about dinner. When I looked up again, the object was gone. I never found out what it was, but I still think about that evening sometimes.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué estaba haciendo la mujer cuando sonó el teléfono?",
+          "prompt_target": "Listen and answer: What was the woman doing when the phone rang?",
+          "options": [
+            "She was cooking dinner.",
+            "She was reading a book.",
+            "She was sleeping.",
+            "She was watching television."
+          ],
+          "correct_answer": "She was cooking dinner.",
+          "explanation_form": "El transcript dice: 'I was cooking dinner in the kitchen' cuando sonó el teléfono.",
+          "explanation_target": "The transcript says: 'I was cooking dinner in the kitchen' when the phone rang.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "Yesterday afternoon, I was cooking dinner in the kitchen. The radio was playing my favorite song. Suddenly, the phone rang. I was washing the vegetables, so I could not answer it. When I finished, I called back. It was my mother. She was telling me about her trip.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Por qué no contestó el teléfono la mujer?",
+          "prompt_target": "Listen and answer: Why did the woman not answer the phone?",
+          "options": [
+            "She was washing the vegetables.",
+            "She was sleeping.",
+            "She was outside.",
+            "She did not hear the phone."
+          ],
+          "correct_answer": "She was washing the vegetables.",
+          "explanation_form": "El transcript dice: 'I was washing the vegetables, so I could not answer it.'",
+          "explanation_target": "The transcript says: 'I was washing the vegetables, so I could not answer it.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Yesterday afternoon, I was cooking dinner in the kitchen. The radio was playing my favorite song. Suddenly, the phone rang. I was washing the vegetables, so I could not answer it. When I finished, I called back. It was my mother. She was telling me about her trip.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración con la forma correcta del verbo: 'While I ____ (walk) to the store, I met an old friend.'",
+          "prompt_target": "Complete the sentence with the correct verb form: 'While I ____ (walk) to the store, I met an old friend.'",
+          "options": null,
+          "correct_answer": "was walking",
+          "explanation_form": "Usamos past continuous (was walking) para la acción en progreso que sirve de fondo, y past simple (met) para el evento principal que la interrumpe.",
+          "explanation_target": "We use past continuous (was walking) for the action in progress that serves as background, and past simple (met) for the main event that interrupts it.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración con la forma correcta del verbo: 'She ____ (read) a book when the lights went out.'",
+          "prompt_target": "Complete the sentence with the correct verb form: 'She ____ (read) a book when the lights went out.'",
+          "options": null,
+          "correct_answer": "was reading",
+          "explanation_form": "La acción de leer estaba en progreso (past continuous) cuando ocurrió el evento principal (the lights went out).",
+          "explanation_target": "The action of reading was in progress (past continuous) when the main event happened (the lights went out).",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "was",
+            "I",
+            "when",
+            "the",
+            "door",
+            "opened",
+            "cooking"
+          ],
+          "correct_answer": "I was cooking when the door opened",
+          "explanation_form": "La estructura correcta es: sujeto + was/were + verbo-ing + when + evento principal en past simple.",
+          "explanation_target": "The correct structure is: subject + was/were + verb-ing + when + main event in past simple.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "while",
+            "was",
+            "she",
+            "the",
+            "phone",
+            "rang",
+            "sleeping"
+          ],
+          "correct_answer": "She was sleeping while the phone rang",
+          "explanation_form": "Usamos 'while' para conectar la acción en progreso (was sleeping) con el evento que ocurrió durante esa acción (the phone rang).",
+          "explanation_target": "We use 'while' to connect the action in progress (was sleeping) with the event that happened during that action (the phone rang).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta del past continuous para 'they'?",
+          "prompt_target": "Which is the correct past continuous form for 'they'?",
+          "options": [
+            "They was playing.",
+            "They were playing.",
+            "They were play.",
+            "They was play."
+          ],
+          "correct_answer": "They were playing.",
+          "explanation_form": "Con 'they' usamos 'were' + verbo con -ing: 'They were playing.'",
+          "explanation_target": "With 'they' we use 'were' + verb with -ing: 'They were playing.'",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué oración describe correctamente el fondo de una historia?",
+          "prompt_target": "Which sentence correctly describes the background of a story?",
+          "options": [
+            "The sun was shining and the birds were singing.",
+            "The sun shined and the birds sang.",
+            "The sun shine and the birds sing.",
+            "The sun was shine and the birds were sing."
+          ],
+          "correct_answer": "The sun was shining and the birds were singing.",
+          "explanation_form": "El past continuous (was shining, were singing) se usa para describir el fondo o la escena de una historia.",
+          "explanation_target": "The past continuous (was shining, were singing) is used to describe the background or scene of a story.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traducí al español: 'I was watching TV when the storm started.'",
+          "prompt_target": "Translate to Spanish: 'I was watching TV when the storm started.'",
+          "options": null,
+          "correct_answer": "Estaba viendo la tele cuando empezó la tormenta.",
+          "explanation_form": "El past continuous (was watching) se traduce como 'estaba viendo' y el past simple (started) como 'empezó'.",
+          "explanation_target": "The past continuous (was watching) translates as 'estaba viendo' and the past simple (started) as 'empezó'.",
+          "references_exercise_id": "ex_004",
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: 'Mientras ella cocinaba, él llegó a casa.'",
+          "prompt_target": "Translate to English: 'Mientras ella cocinaba, él llegó a casa.'",
+          "options": null,
+          "correct_answer": "While she was cooking, he arrived home.",
+          "explanation_form": "Usamos 'while' + past continuous para la acción en progreso y past simple para el evento principal.",
+          "explanation_target": "We use 'while' + past continuous for the action in progress and past simple for the main event.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past_simple_vs_past_continuous"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El escenario y la accion\n\nEn una historia, el **past continuous** pinta el fondo (lo que estaba pasando), y el **past simple** da los golpes de la trama (lo que paso). Piensa en una pelicula: la camara muestra la escena con *was/were + -ing*, y luego el protagonista actua con el pasado simple. Ejemplo: *The phone was ringing when I woke up.* El telefono sonaba (fondo) y yo me desperte (evento principal).\n\n## Conectores que ordenan el relato\n\nUsa *meanwhile* para cambiar de escena o personaje, e *in the end* para cerrar la historia con el resultado final. Son como las senales de trafico de tu narracion: guian al oyente sin perderse. Practica contando una anecdota corta de tu día: primero el fondo con *was/were doing*, luego la accion con el pasado simple, y cierra con *in the end*.",
+  "metadata": {
+    "generated_at": "2026-08-31T01:52:30Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

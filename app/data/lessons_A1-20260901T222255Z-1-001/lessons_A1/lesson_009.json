@@ -1,0 +1,1546 @@
+{
+  "id": "lesson_009",
+  "position": 9,
+  "unit_id": 2,
+  "course_id": "en.A1",
+  "title_form": "Familia extendida",
+  "title_target": "Describing Extended Family",
+  "theme_focus": "Miembros de la familia extendida y preguntas sobre la familia.",
+  "learning_objectives": [
+    "Can name extended family members.",
+    "Can ask and answer questions about family members."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_008"
+  ],
+  "grammar_focus": [
+    "have got: questions (Have you got ...?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "grandmother",
+        "grandfather",
+        "husband",
+        "wife",
+        "children",
+        "baby",
+        "uncle",
+        "cousin",
+        "our_det",
+        "their_det",
+        "single_adj_2"
+      ],
+      "chunk_ids": [
+        "chunk_a1_are_you_single"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "family",
+        "have_got_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Carlos muestra fotos de su familia a su amiga Ana. Primero presenta a sus abuelos, padres y hermanos. Luego Ana pregunta sobre tíos, primos y si Carlos está soltero. Carlos responde con *have got* y describe a su familia extendida.",
+  "introduction_md": "En esta lección vas a hablar de tu familia extendida: abuelos, tíos y primos. Aprenderás a nombrar a cada miembro y a hacer preguntas sobre ellos.\n\n**¿Qué vas a lograr?**\n\n- Nombrar a los miembros de tu familia extendida.\n- Preguntar y responder sobre tu familia.\n- Usar *have got* para hablar de lo que tienes.\n\nImagina que presentas a tu familia a un amigo. Con estas palabras, podrás decir quién es quién y responder preguntas como *Have you got a big family?*. ¡Vamos a empezar!",
+  "intro_target": "In this lesson, you will talk about your extended family: grandparents, uncles, and cousins. You will learn to name each member and ask questions about them.\n\n**What will you achieve?**\n\n- Name the members of your extended family.\n- Ask and answer questions about your family.\n- Use *have got* to talk about what you have.\n\nImagine you introduce your family to a friend. With these words, you will be able to say who is who and answer questions like *Have you got a big family?*. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "grandmother",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My grandmother and grandfather live with us.",
+      "translation_form": "Mi abuela y mi abuelo viven con nosotros.",
+      "highlight_words": [
+        "grandmother",
+        "grandfather"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "husband",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Her husband is my uncle.",
+      "translation_form": "Su esposo es mi tío.",
+      "highlight_words": [
+        "husband",
+        "uncle"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "wife",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "His wife is my mother's sister.",
+      "translation_form": "Su esposa es la hermana de mi madre.",
+      "highlight_words": [
+        "wife",
+        "mother",
+        "sister"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "children",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Our children are with the baby.",
+      "translation_form": "Nuestros hijos están con el bebé.",
+      "highlight_words": [
+        "children",
+        "our",
+        "baby"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "cousin",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Their cousin is a student.",
+      "translation_form": "Su primo es un estudiante.",
+      "highlight_words": [
+        "cousin",
+        "their",
+        "student"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a1_are_you_single",
+      "grammar_slug": null,
+      "text_target": "Are you single? My brother is single too.",
+      "translation_form": "¿Eres soltero? Mi hermano también es soltero.",
+      "highlight_words": [
+        "single",
+        "brother"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "have got: questions (Have you got ...?)",
+      "title_form": "Preguntas con have got",
+      "title_target": "Questions with have got",
+      "description_md_form": "Para preguntar si alguien tiene algo, usamos **have got** al inicio de la pregunta. La estructura es: **Have** + sujeto + **got** + objeto.\n\n- **Have you got** a brother? = ¿Tienes un hermano?\n- **Has she got** children? = ¿Ella tiene hijos?\n\nLa respuesta corta es:\n- Yes, I **have**. / No, I **haven't**.\n- Yes, she **has**. / No, she **hasn't**.\n\nRecuerda: **have** con I, you, we, they; **has** con he, she, it.",
+      "description_md_target": "To ask if someone has something, we use **have got** at the start of the question. The structure is: **Have** + subject + **got** + object.\n\n- **Have you got** a brother?\n- **Has she got** children?\n\nThe short answers are:\n- Yes, I **have**. / No, I **haven't**.\n- Yes, she **has**. / No, she **hasn't**.\n\nRemember: **have** with I, you, we, they; **has** with he, she, it.",
+      "grammar_structure": "Have/Has + subject + got + object?",
+      "conjugation_table": {
+        "name": "have_got_questions",
+        "headers": [
+          "Pronombre",
+          "Pregunta",
+          "Respuesta corta sí",
+          "Respuesta corta no"
+        ],
+        "rows": [
+          [
+            "I",
+            "Have I got ...?",
+            "Yes, I have.",
+            "No, I haven't."
+          ],
+          [
+            "you",
+            "Have you got ...?",
+            "Yes, you have.",
+            "No, you haven't."
+          ],
+          [
+            "he/she/it",
+            "Has he/she/it got ...?",
+            "Yes, he/she/it has.",
+            "No, he/she/it hasn't."
+          ],
+          [
+            "we",
+            "Have we got ...?",
+            "Yes, we have.",
+            "No, we haven't."
+          ],
+          [
+            "they",
+            "Have they got ...?",
+            "Yes, they have.",
+            "No, they haven't."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "have got: questions (Have you got ...?)",
+          "text_target": "Have you got a cousin?",
+          "translation_form": "¿Tienes un primo?",
+          "highlight_words": [
+            "have",
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "have got: questions (Have you got ...?)",
+          "text_target": "Has she got a husband?",
+          "translation_form": "¿Ella tiene esposo?",
+          "highlight_words": [
+            "has",
+            "got"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip**: En inglés británico, *have got* es muy común para preguntar. En inglés americano, a veces usan solo *do you have*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: No digas *Do you have got?*. La forma correcta es *Have you got?*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'Do you have got a brother?' en lugar de 'Have you got a brother?'.",
+        "Olvidar cambiar 'have' por 'has' con he, she, it: 'Has she got children?' no 'Have she got children?'.",
+        "Responder 'Yes, I have got' en lugar de la respuesta corta 'Yes, I have'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'grandmother'?",
+      "options": [
+        "abuela",
+        "madre",
+        "hermana",
+        "tía"
+      ],
+      "correct_answer": "abuela",
+      "explanation_md": "'Grandmother' significa 'abuela'.",
+      "related_lexeme_ids": [
+        "grandmother"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'husband'?",
+      "options": [
+        "esposo",
+        "hermano",
+        "padre",
+        "tío"
+      ],
+      "correct_answer": "esposo",
+      "explanation_md": "'Husband' significa 'esposo'.",
+      "related_lexeme_ids": [
+        "husband"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "wife",
+        "esposa",
+        "uncle",
+        "tío",
+        "cousin",
+        "primo",
+        "baby",
+        "bebé"
+      ],
+      "correct_answer": [
+        "wife=esposa",
+        "uncle=tío",
+        "cousin=primo",
+        "baby=bebé"
+      ],
+      "explanation_md": "Estas son las palabras para miembros de la familia.",
+      "related_lexeme_ids": [
+        "wife",
+        "uncle",
+        "cousin",
+        "baby"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué palabra completa la oración? 'My mother and my father are my ____.'",
+      "options": [
+        "children",
+        "parents",
+        "cousins",
+        "uncles"
+      ],
+      "correct_answer": "parents",
+      "explanation_md": "'Parents' significa 'padres'.",
+      "related_lexeme_ids": [
+        "mother",
+        "father"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la palabra correcta: 'My ____ is my mother's mother.'",
+      "options": null,
+      "correct_answer": "mother",
+      "explanation_md": "La madre de tu madre es tu abuela, pero aquí la palabra correcta es 'mother'.",
+      "related_lexeme_ids": [
+        "mother"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Nuestros hijos están con el bebé.'",
+      "options": null,
+      "correct_answer": "Our children are with the baby.",
+      "explanation_md": "Usa 'our' para 'nuestros', 'children' para 'hijos' y 'baby' para 'bebé'.",
+      "related_lexeme_ids": [
+        "our_det",
+        "children",
+        "baby"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Their cousin is a student.'",
+      "options": null,
+      "correct_answer": "Su primo es un estudiante.",
+      "explanation_md": "'Their' significa 'su' (de ellos).",
+      "related_lexeme_ids": [
+        "their_det",
+        "cousin"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué significa 'Are you single?'",
+      "options": [
+        "¿Estás cansado?",
+        "¿Eres soltero?",
+        "¿Tienes hijos?",
+        "¿Estás en casa?"
+      ],
+      "correct_answer": "¿Eres soltero?",
+      "explanation_md": "'Single' significa 'soltero'.",
+      "related_lexeme_ids": [
+        "single_adj_2"
+      ],
+      "related_chunk_ids": [
+        "chunk_a1_are_you_single"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la pregunta: '____ you got a brother?'",
+      "options": null,
+      "correct_answer": "Have",
+      "explanation_md": "Para preguntar con 'have got', empieza con 'Have'.",
+      "related_lexeme_ids": [
+        "have_got_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿cuántos hijos tiene Ana?",
+      "options": [
+        "uno",
+        "dos",
+        "tres",
+        "ninguno"
+      ],
+      "correct_answer": "dos",
+      "explanation_md": "Ana tiene dos hijos.",
+      "related_lexeme_ids": [
+        "children",
+        "husband"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Ana is my sister. She has got two children. Her husband is a teacher. They live with our parents.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿quién es el esposo de María?",
+      "options": [
+        "mi padre",
+        "mi tío",
+        "mi abuelo",
+        "mi primo"
+      ],
+      "correct_answer": "mi padre",
+      "explanation_md": "El esposo de María es mi padre.",
+      "related_lexeme_ids": [
+        "grandmother",
+        "grandfather",
+        "husband",
+        "uncle",
+        "cousin"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "This is my family. My grandmother is old. My grandfather is old too. My mother is Maria. Her husband is my father. My uncle is my father's brother. My cousin is my uncle's son. We are a big family.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu familia. Usa 'have got' y palabras de la familia.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'have got' y vocabulario de la familia.",
+      "related_lexeme_ids": [
+        "family",
+        "brother",
+        "sister",
+        "grandmother",
+        "cousin"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I have got a brother and a sister.",
+        "My grandmother lives with us.",
+        "My cousin is a student."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "grandmother",
+      "back": "abuela",
+      "hint": "la madre de tu madre o de tu padre",
+      "lexeme_id": "grandmother",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "grandfather",
+      "back": "abuelo",
+      "hint": "el padre de tu madre o de tu padre",
+      "lexeme_id": "grandfather",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "husband",
+      "back": "esposo",
+      "hint": "el hombre con quien alguien está casado",
+      "lexeme_id": "husband",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "wife",
+      "back": "esposa",
+      "hint": "la mujer con quien alguien está casado",
+      "lexeme_id": "wife",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "children",
+      "back": "niños / hijos",
+      "hint": "plural de child",
+      "lexeme_id": "children",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "baby",
+      "back": "bebé",
+      "hint": "un niño muy pequeño",
+      "lexeme_id": "baby",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "uncle",
+      "back": "tío",
+      "hint": "el hermano de tu madre o de tu padre",
+      "lexeme_id": "uncle",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "cousin",
+      "back": "primo",
+      "hint": "el hijo de tu tío o de tu tía",
+      "lexeme_id": "cousin",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "our",
+      "back": "nuestro",
+      "hint": "posesivo: de nosotros",
+      "lexeme_id": "our_det",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "their",
+      "back": "su (de ellos)",
+      "hint": "posesivo: de ellos o de ellas",
+      "lexeme_id": "their_det",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "family"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "single",
+      "back": "individual / soltero",
+      "hint": "estado civil: no casado",
+      "lexeme_id": "single_adj_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "Are you single?",
+      "back": "¿Estás soltero?",
+      "hint": "preguntar por el estado civil",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a1_are_you_single",
+      "target_term": null,
+      "tags": [
+        "lesson_009",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "grandmother",
+      "reading": "",
+      "translation": "abuela",
+      "pos": "noun",
+      "example": "My grandmother and grandfather live with us.",
+      "example_translation": "Mi abuela y mi abuelo viven con nosotros.",
+      "lexeme_id": "grandmother",
+      "chunk_id": null
+    },
+    {
+      "target_word": "grandfather",
+      "reading": "",
+      "translation": "abuelo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "grandfather",
+      "chunk_id": null
+    },
+    {
+      "target_word": "husband",
+      "reading": "",
+      "translation": "esposo",
+      "pos": "noun",
+      "example": "Her husband is my uncle.",
+      "example_translation": "Su esposo es mi tío.",
+      "lexeme_id": "husband",
+      "chunk_id": null
+    },
+    {
+      "target_word": "wife",
+      "reading": "",
+      "translation": "esposa",
+      "pos": "noun",
+      "example": "His wife is my mother's sister.",
+      "example_translation": "Su esposa es la hermana de mi madre.",
+      "lexeme_id": "wife",
+      "chunk_id": null
+    },
+    {
+      "target_word": "children",
+      "reading": "",
+      "translation": "niños / hijos",
+      "pos": "noun",
+      "example": "Our children are with the baby.",
+      "example_translation": "Nuestros hijos están con el bebé.",
+      "lexeme_id": "children",
+      "chunk_id": null
+    },
+    {
+      "target_word": "baby",
+      "reading": "",
+      "translation": "bebé",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "baby",
+      "chunk_id": null
+    },
+    {
+      "target_word": "uncle",
+      "reading": "",
+      "translation": "tío",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "uncle",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cousin",
+      "reading": "",
+      "translation": "primo",
+      "pos": "noun",
+      "example": "Their cousin is a student.",
+      "example_translation": "Su primo es un estudiante.",
+      "lexeme_id": "cousin",
+      "chunk_id": null
+    },
+    {
+      "target_word": "our",
+      "reading": "",
+      "translation": "nuestro",
+      "pos": "determiner",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "our_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "their",
+      "reading": "",
+      "translation": "su (de ellos)",
+      "pos": "determiner",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "their_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "single",
+      "reading": "",
+      "translation": "individual",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "single_adj_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Are you single?",
+      "reading": "",
+      "translation": "Preguntar por el estado civil.",
+      "pos": "chunk",
+      "example": "Are you single? My brother is single too.",
+      "example_translation": "¿Eres soltero? Mi hermano también es soltero.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a1_are_you_single"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "grandmother",
+      "role": "support",
+      "status": "practiced",
+      "translation": "abuela",
+      "lexeme_id": "grandmother",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "grandfather",
+      "role": "support",
+      "status": "practiced",
+      "translation": "abuelo",
+      "lexeme_id": "grandfather",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "husband",
+      "role": "support",
+      "status": "practiced",
+      "translation": "esposo",
+      "lexeme_id": "husband",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_010",
+        "ex_011",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "wife",
+      "role": "support",
+      "status": "practiced",
+      "translation": "esposa",
+      "lexeme_id": "wife",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "children",
+      "role": "support",
+      "status": "practiced",
+      "translation": "niños / hijos",
+      "lexeme_id": "children",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_006",
+        "ex_010",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "baby",
+      "role": "support",
+      "status": "practiced",
+      "translation": "bebé",
+      "lexeme_id": "baby",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_006",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "uncle",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tío",
+      "lexeme_id": "uncle",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "cousin",
+      "role": "support",
+      "status": "practiced",
+      "translation": "primo",
+      "lexeme_id": "cousin",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_007",
+        "ex_011",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "our",
+      "role": "support",
+      "status": "practiced",
+      "translation": "nuestro",
+      "lexeme_id": "our_det",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "their",
+      "role": "support",
+      "status": "practiced",
+      "translation": "su (de ellos)",
+      "lexeme_id": "their_det",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "single",
+      "role": "support",
+      "status": "practiced",
+      "translation": "individual",
+      "lexeme_id": "single_adj_2",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "Are you single?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Preguntar por el estado civil.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a1_are_you_single",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_008",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "mother",
+      "role": "support",
+      "status": "review",
+      "translation": "madre",
+      "lexeme_id": "mother",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_004",
+        "ex_005"
+      ]
+    },
+    {
+      "term": "single",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "fc_011",
+        "fc_012",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "brother",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hermano",
+      "lexeme_id": "brother",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_003",
+        "quiz_001:q_008",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "sister",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hermana",
+      "lexeme_id": "sister",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "live",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vivir",
+      "lexeme_id": "live_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "too",
+      "role": "support",
+      "status": "emergent",
+      "translation": "también; demasiado",
+      "lexeme_id": "too_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "have got",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tener",
+      "lexeme_id": "have_got_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "father",
+      "role": "support",
+      "status": "emergent",
+      "translation": "padre",
+      "lexeme_id": "father",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "son",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hijo",
+      "lexeme_id": "son",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 12,
+    "review_support_count": 1,
+    "emergent_count": 13,
+    "emergent_terms": [
+      "single",
+      "brother",
+      "sister",
+      "live",
+      "too",
+      "student",
+      "family",
+      "have got",
+      "father",
+      "old",
+      "word",
+      "teacher",
+      "son"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Familia extendida",
+      "title_target": "Quiz: Extended Family",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'grandmother'?",
+          "prompt_target": "What does 'grandmother' mean?",
+          "options": [
+            "abuela",
+            "abuelo",
+            "madre",
+            "tía"
+          ],
+          "correct_answer": "abuela",
+          "explanation_form": "'Grandmother' es la abuela, la madre de tu padre o de tu madre.",
+          "explanation_target": "'Grandmother' is the mother of your father or your mother.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "grandmother"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'husband'?",
+          "prompt_target": "What does 'husband' mean?",
+          "options": [
+            "esposo",
+            "esposa",
+            "hermano",
+            "hijo"
+          ],
+          "correct_answer": "esposo",
+          "explanation_form": "'Husband' es el esposo, el hombre con quien alguien está casado.",
+          "explanation_target": "'Husband' is the man someone is married to.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "husband"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ you got a brother?'",
+          "prompt_target": "Complete the question: '____ you got a brother?'",
+          "options": null,
+          "correct_answer": "Have",
+          "explanation_form": "Para preguntar con 'have got' usamos 'Have' al inicio: 'Have you got...?'",
+          "explanation_target": "To ask with 'have got' we use 'Have' at the start: 'Have you got...?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_verb",
+            "brother"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'Are you single?'",
+          "prompt_target": "What does 'Are you single?' mean?",
+          "options": [
+            "¿Estás soltero/a?",
+            "¿Tienes hijos?",
+            "¿Estás casado/a?",
+            "¿Tienes hermanos?"
+          ],
+          "correct_answer": "¿Estás soltero/a?",
+          "explanation_form": "'Single' significa soltero/a, es decir, sin pareja o esposo/a.",
+          "explanation_target": "'Single' means not married or in a relationship.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a1_are_you_single",
+            "single_adj_2"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'This is my uncle and this is ____ wife.'",
+          "prompt_target": "Complete: 'This is my uncle and this is ____ wife.'",
+          "options": null,
+          "correct_answer": "his",
+          "explanation_form": "Usamos 'his' para hablar de algo que pertenece a un hombre. Aquí, la esposa del tío.",
+          "explanation_target": "We use 'his' for something that belongs to a man. Here, the uncle's wife.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "uncle",
+            "wife"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'their children'?",
+          "prompt_target": "What does 'their children' mean?",
+          "options": [
+            "sus hijos (de ellos)",
+            "nuestros hijos",
+            "tus hijos",
+            "mis hijos"
+          ],
+          "correct_answer": "sus hijos (de ellos)",
+          "explanation_form": "'Their' significa 'su/sus' cuando hablamos de varias personas. 'Their children' son los hijos de ellos.",
+          "explanation_target": "'Their' means 'their' when talking about several people. 'Their children' are the children of them.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "their_det",
+            "children"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'our family'?",
+          "prompt_target": "What does 'our family' mean?",
+          "options": [
+            "nuestra familia",
+            "su familia",
+            "mi familia",
+            "tu familia"
+          ],
+          "correct_answer": "nuestra familia",
+          "explanation_form": "'Our' significa 'nuestro/nuestra'. 'Our family' es nuestra familia.",
+          "explanation_target": "'Our' means 'our'. 'Our family' is our family.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "our_det",
+            "family"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Cuántos hijos tiene la hermana de Tom?",
+          "prompt_target": "Listen and answer: How many children does Tom's sister have?",
+          "options": [
+            "two",
+            "one",
+            "three",
+            "four"
+          ],
+          "correct_answer": "two",
+          "explanation_form": "Tom dice: 'Anna has two children'. La hermana de Tom tiene dos hijos.",
+          "explanation_target": "Tom says: 'Anna has two children'. Tom's sister has two children.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "children",
+            "baby",
+            "brother",
+            "sister"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "My name is Tom. I have a sister. Her name is Anna. Anna has two children, a boy and a baby girl. My brother has one son.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Quién es Laura?",
+          "prompt_target": "Read the text and answer: Who is Laura?",
+          "options": [
+            "la esposa de mi tío",
+            "mi hermana",
+            "mi madre",
+            "mi abuela"
+          ],
+          "correct_answer": "la esposa de mi tío",
+          "explanation_form": "El texto dice: 'My uncle is married. His wife is Laura.' Laura es la esposa del tío.",
+          "explanation_target": "The text says: 'My uncle is married. His wife is Laura.' Laura is the uncle's wife.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "grandfather",
+            "grandmother",
+            "father",
+            "mother",
+            "uncle",
+            "wife",
+            "baby",
+            "cousin"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "This is my family. My grandfather is old and my grandmother is kind. My father is a teacher and my mother is a doctor. My uncle is married. His wife is Laura. They have a baby. My cousin is ten years old.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "grandfather",
+            "abuelo",
+            "cousin",
+            "primo",
+            "uncle",
+            "tío",
+            "wife",
+            "esposa"
+          ],
+          "correct_answer": [
+            "grandfather=abuelo",
+            "cousin=primo",
+            "uncle=tío",
+            "wife=esposa"
+          ],
+          "explanation_form": "Estas son las palabras para miembros de la familia extendida.",
+          "explanation_target": "These are the words for extended family members.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "grandfather",
+            "cousin",
+            "uncle",
+            "wife"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "you",
+            "Have",
+            "got",
+            "a",
+            "cousin",
+            "?"
+          ],
+          "correct_answer": "Have you got a cousin?",
+          "explanation_form": "La estructura de la pregunta con 'have got' es: Have + sujeto + got + objeto.",
+          "explanation_target": "The structure of the question with 'have got' is: Have + subject + got + object.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_verb",
+            "cousin"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la respuesta: 'Yes, I ____. I have two brothers.'",
+          "prompt_target": "Complete the answer: 'Yes, I ____. I have two brothers.'",
+          "options": null,
+          "correct_answer": "have",
+          "explanation_form": "La respuesta corta afirmativa a 'Have you got...?' es 'Yes, I have.'",
+          "explanation_target": "The short affirmative answer to 'Have you got...?' is 'Yes, I have.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have_got_verb",
+            "brother"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Preguntas con Have you got...?\n\nPara preguntar por la familia, usa **Have you got...?** (¿Tienes...?). La respuesta corta es **Yes, I have** o **No, I haven't**. Recuerda: **a** o **an** antes del miembro de la familia (Have you got **a** brother?). No digas *Have you a brother?*.\n\n## Errores comunes\n\n- **Husband** es para hombres, **wife** para mujeres. No los confundas.\n- **Children** ya es plural (hijos). No digas *childrens*.\n- **Grandmother** y **grandfather** son los padres de tus padres. **Uncle** y **cousin** son para la familia extendida.\n- **Our** y **their** no llevan **s**: *our family*, *their children*.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:30:39Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

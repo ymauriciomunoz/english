@@ -1,0 +1,1603 @@
+{
+  "id": "lesson_018",
+  "position": 18,
+  "unit_id": 6,
+  "course_id": "en.B1",
+  "title_form": "Aclarar informacion en un evento",
+  "title_target": "Clarifying information at a community event",
+  "theme_focus": "culture and community",
+  "learning_objectives": [
+    "Can relay straightforward information and check that another person has understood it."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_017"
+  ],
+  "grammar_focus": [
+    "Because, so, however and in addition for clear connected explanations."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "audience"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "inform_verb",
+        "event"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "community event",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the culture and community situation."
+      },
+      {
+        "term": "volunteer",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the culture and community situation."
+      },
+      {
+        "term": "explain clearly",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "check understanding",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "because",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "so",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Marcos trabaja como voluntario en un evento comunitario local. Su función principal es informar a los asistentes sobre las actividades del día y responder a sus preguntas. Durante la jornada, debe dar explicaciones claras a la audiencia y confirmar que todos hayan comprendido los horarios.",
+  "introduction_md": "¡Bienvenido a esta lección! En los eventos comunitarios, saber transmitir información de manera clara es fundamental para ayudar a las personas y resolver sus dudas. Hoy aprenderás a comunicar detalles importantes sobre una actividad y a comprobar si la audiencia ha comprendido tu mensaje.\n\nEn esta lección practicarás:\n- Vocabulario clave para eventos, incluyendo la palabra *audience* y el uso del verbo *inform*.\n- Conectores de discurso como *because*, *so*, *however* e *in addition* para estructurar tus explicaciones.\n- Frases útiles para verificar la comprensión de los asistentes de forma afable y eficaz.\n\nAl finalizar, tendrás las herramientas necesarias para guiar a los asistentes, explicar cambios de horario y responder preguntas con confianza. ¡Comencemos a practicar!",
+  "intro_target": "Welcome to this lesson! At community events, knowing how to share information clearly is essential to help people and answer their questions. Today you will learn to communicate important details about an activity and check if the audience has understood your message.\n\nIn this lesson, you will practice:\n- Key vocabulary for events, including the word *audience* and the verb *inform*.\n- Discourse connectors like *because*, *so*, *however*, and *in addition* to structure your explanations.\n- Useful phrases to check understanding with attendees in a friendly and effective way.\n\nBy the end, you will have the tools needed to guide attendees, explain schedule changes, and answer questions with confidence. Let's start practicing!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "audience",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We must inform the audience that the schedule changed because the leader arrived late.",
+      "translation_form": "Debemos informar a la audiencia de que el horario cambió porque el líder llegó tarde.",
+      "highlight_words": [
+        "inform",
+        "audience",
+        "that",
+        "schedule",
+        "because"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The volunteer decided to check understanding, so he asked the team a few clear questions.",
+      "translation_form": "El voluntario decidió comprobar la comprensión, así que le hizo al equipo algunas preguntas claras.",
+      "highlight_words": [
+        "volunteer",
+        "check",
+        "understanding",
+        "so"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The volunteers explained the project clearly; however, they did not inform the audience about the final cost.",
+      "translation_form": "Los voluntarios explicaron el proyecto claramente; sin embargo, no informaron a la audiencia sobre el costo final.",
+      "highlight_words": [
+        "volunteers",
+        "explained",
+        "clearly",
+        "however",
+        "inform",
+        "audience"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We will invite the audience inside; in addition, we must inform them that the community event rules have changed and explain clearly what to do.",
+      "translation_form": "Invitaremos a la audiencia a entrar; además, debemos informarles de que las reglas del evento comunitario han cambiado y explicar claramente qué hacer.",
+      "highlight_words": [
+        "audience",
+        "in addition",
+        "inform",
+        "that",
+        "event",
+        "explain clearly"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Because, so, however and in addition for clear connected explanations.",
+      "title_form": "Conectores para dar explicaciones claras: because, so, however, in addition",
+      "title_target": "Connectors for clear connected explanations: because, so, however, in addition",
+      "description_md_form": "Para conectar ideas de forma clara y estructurada en inglés, especialmente al dar avisos o explicaciones en eventos, utilizamos conectores según la relación lógica entre las oraciones:\n\n- **because** (causa o razón): explica el motivo de una situación. Va seguido de una oración completa.\n- **so** (consecuencia o resultado): indica el efecto o resultado de una acción previa.\n- **however** (contraste u oposición): expresa una idea contraria. Entre dos oraciones independientes, usa punto o punto y coma antes de **however** y una coma después: *The plan changed; however, the event continued.*\n- **in addition** (información adicional): agrega datos extra o complementarios para enriquecer el mensaje.\n\nPara transmitir un aviso, usa **inform + persona + that + oración** (*We informed the audience that the schedule had changed*).\n\n**Ejemplos prácticos:**\n- Causa: *We must inform the audience that the schedule changed because the leader arrived late.*\n- Resultado: *He checked understanding, **so** he asked questions.*\n- Contraste: *They explained the plan; **however**, they omitted the cost.*\n- Adición: *We invited the team; **in addition**, we shared the rules.*",
+      "description_md_target": "To connect ideas clearly and logically in English, especially when giving explanations at events, we use specific connectors depending on the relationship between sentences:\n\n- **because** (cause or reason): explains the motive behind a situation. It is followed by a clause.\n- **so** (consequence or result): indicates the effect or outcome of a previous action.\n- **however** (contrast or opposition): introduces an opposing idea. Between two independent clauses, use a period or semicolon before **however** and a comma after it: *The plan changed; however, the event continued.*\n- **in addition** (further information): adds extra or complementary facts to enrich the explanation.\n\nTo pass on an announcement, use **inform + person + that + clause** (*We informed the audience that the schedule had changed*).\n\n**Practical examples:**\n- Cause: *We must inform the audience that the schedule changed because the leader arrived late.*\n- Result: *He checked understanding, **so** he asked questions.*\n- Contrast: *They explained the plan; **however**, they omitted the cost.*\n- Addition: *We invited the team; **in addition**, we shared the rules.*",
+      "grammar_structure": "Clause + connector + Clause / Sentence; however/in addition, Sentence / inform + person + that + clause",
+      "conjugation_table": {
+        "name": "connectors_summary",
+        "headers": [
+          "Conector",
+          "Función",
+          "Uso sintáctico"
+        ],
+        "rows": [
+          [
+            "because",
+            "Causa / Razón",
+            "Une dos cláusulas directamente."
+          ],
+          [
+            "so",
+            "Consecuencia / Resultado",
+            "Suele ir precedido de coma."
+          ],
+          [
+            "however",
+            "Contraste / Oposición",
+            "Inicia oración o va tras punto y coma (con coma posterior)."
+          ],
+          [
+            "in addition",
+            "Información adicional",
+            "Inicia oración o frase complementaria (con coma posterior)."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Because, so, however and in addition for clear connected explanations.",
+          "text_target": "We must inform the audience that the schedule changed because the leader arrived late.",
+          "translation_form": "Debemos informar a la audiencia de que el horario cambió porque el líder llegó tarde.",
+          "highlight_words": [
+            "because"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Because, so, however and in addition for clear connected explanations.",
+          "text_target": "The volunteers explained the project clearly; however, they did not inform the audience about the final cost.",
+          "translation_form": "Los voluntarios explicaron el proyecto claramente; sin embargo, no informaron a la audiencia sobre el costo final.",
+          "highlight_words": [
+            "however"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "No confundas **because** (razón) con **so** (resultado). Usa **because** para responder '¿por qué?' y **so** para indicar 'por lo tanto'. Con dos oraciones independientes, no unas solo con una coma antes de **however**: escribe punto o punto y coma antes y una coma después."
+        },
+        {
+          "type": "tip",
+          "text_md": "Recuerda colocar una coma después de **however** e **in addition** cuando los utilizas al comienzo de una oración independiente."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'because' para expresar el resultado en lugar de la causa.",
+        "Unir dos oraciones independientes con una sola coma antes de 'however' o olvidar la coma después de 'however' o 'in addition'.",
+        "Confundir la posición de 'so' poniéndolo al principio de la oración sin contexto previo."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa '**audience**' en español?",
+      "options": [
+        "Audiencia / Público",
+        "Equipo de trabajo",
+        "Organizador del evento",
+        "Escenario principal"
+      ],
+      "correct_answer": "Audiencia / Público",
+      "explanation_md": "'Audience' se refiere al público o la audiencia presente en un evento o presentación.",
+      "related_lexeme_ids": [
+        "audience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra o conector en inglés con su traducción al español:",
+      "options": [
+        "audience",
+        "público",
+        "however",
+        "sin embargo",
+        "in addition",
+        "además",
+        "so",
+        "por lo tanto"
+      ],
+      "correct_answer": [
+        "audience=público",
+        "however=sin embargo",
+        "in addition=además",
+        "so=por lo tanto"
+      ],
+      "explanation_md": "Conectores como 'however' (sin embargo), 'in addition' (además) y 'so' (por lo tanto) ayudan a estructurar aclaraciones para la audiencia.",
+      "related_lexeme_ids": [
+        "audience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige el conector adecuado para indicar la causa de la demora en la siguiente oración:\n\n'The start of the event was delayed ____ the leader arrived late.'",
+      "options": [
+        "because",
+        "so",
+        "however",
+        "in addition"
+      ],
+      "correct_answer": "because",
+      "explanation_md": "Usamos 'because' para explicar la razón o causa de una situación.",
+      "related_lexeme_ids": [
+        "audience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la palabra en inglés adecuada para referirte al público del evento:\n\nWe must inform the ____ about the new schedule.",
+      "options": null,
+      "correct_answer": "audience",
+      "explanation_md": "'Audience' es la palabra en inglés para referirse al público o a los asistentes de un evento.",
+      "related_lexeme_ids": [
+        "audience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce la siguiente oración al inglés:\n\n'Debemos informar a la audiencia claramente.'",
+      "options": null,
+      "correct_answer": "We must inform the audience clearly.",
+      "explanation_md": "'Inform' significa informar y 'audience' se refiere a la audiencia o público.",
+      "related_lexeme_ids": [
+        "audience",
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce la siguiente oración al español:\n\n'The team arrived early; however, the audience was delayed.'",
+      "options": null,
+      "correct_answer": "El equipo llegó temprano; sin embargo, la audiencia se retrasó.",
+      "explanation_md": "'However' introduce un contraste entre la llegada del equipo y el retraso de la audiencia.",
+      "related_lexeme_ids": [
+        "audience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la forma verbal adecuada para decir 'informar':\n\nWe will ____ the audience about the event rules.",
+      "options": null,
+      "correct_answer": "inform",
+      "explanation_md": "'Inform' es el verbo principal para transmitir información o avisar al público.",
+      "related_lexeme_ids": [
+        "inform_verb",
+        "audience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce esta oración utilizando el conector 'in addition':\n\n'Invitaremos al público; además, debemos explicar el plan.'",
+      "options": null,
+      "correct_answer": "We will invite the audience; in addition, we must explain the plan.",
+      "explanation_md": "'In addition' se usa al inicio o centro de una cláusula para añadir información adicional.",
+      "related_lexeme_ids": [
+        "audience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto sobre la organización del evento comunitario y responde a la pregunta:\n\n¿Por qué el equipo tuvo que informar inmediatamente a la audiencia?",
+      "options": [
+        "Porque el líder llegó tarde debido al tráfico y el horario cambió.",
+        "Porque la audiencia no quería asistir al evento.",
+        "Porque el lugar del evento estaba cerrado.",
+        "Porque el equipo canceló la presentación."
+      ],
+      "correct_answer": "Porque el líder llegó tarde debido al tráfico y el horario cambió.",
+      "explanation_md": "El texto explica que el líder llegó tarde por el tráfico ('because traffic was heavy'), lo que obligó al equipo a informar al público sobre el nuevo horario.",
+      "related_lexeme_ids": [
+        "audience",
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Welcome to our community event. We wanted to start the meeting at five o'clock; however, the leader arrived late because traffic was heavy. So, the team decided to inform the audience about the new schedule immediately. In addition, we answered questions to check understanding.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha la sugerencia del organizador y responde: ¿Qué debe hacer el equipo después de explicar los cambios?",
+      "options": [
+        "Comprobar la comprensión del público después de la charla.",
+        "Terminar el evento de inmediato sin responder preguntas.",
+        "Enviar un correo a todos los asistentes.",
+        "Iniciar una nueva presentación sin previo aviso."
+      ],
+      "correct_answer": "Comprobar la comprensión del público después de la charla.",
+      "explanation_md": "En el audio se pide explicar todo claramente y comprobar la comprensión ('check understanding after the talk').",
+      "related_lexeme_ids": [
+        "audience",
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "We must inform the audience about the change right now. The schedule is different today, so please explain everything clearly and check understanding after the talk.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el conector adecuado para expresar la consecuencia de haber organizado bien la información:\n\nThe team explained the rules clearly, ____ the audience understood everything easily.",
+      "options": null,
+      "correct_answer": "so",
+      "explanation_md": "'So' conecta la causa (explicar claramente) con el resultado o consecuencia (la audiencia entendió fácilmente).",
+      "related_lexeme_ids": [
+        "audience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribe un diálogo breve de 4–6 intervenciones entre un organizador y un asistente para aclarar un cambio en un evento comunitario. Utiliza al menos dos conectores (because, so, however, in addition), la palabra 'audience' o 'inform' y termina con una pregunta de confirmación como 'Is everything clear?' o 'Does that make sense?'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa un diálogo claro y natural: debe transmitir el cambio, conectar causa, resultado, contraste o información adicional, usar 'audience' o 'inform' y comprobar la comprensión con una pregunta como 'Is everything clear?' o 'Does that make sense?'.",
+      "related_lexeme_ids": [
+        "audience",
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Organizer: We must inform the audience that the talk starts at six because the speaker is late.\nAttendee: Does that mean the workshop also starts at six?\nOrganizer: No, the workshop starts on time. In addition, we have posted the new schedule. Is everything clear?\nAttendee: Yes, I understand the change. Thank you.",
+        "Volunteer: The entrance has changed, so I will inform the audience clearly.\nVisitor: Where should we go?\nVolunteer: Please go to Hall B; however, the registration desk stays here. Does that make sense?\nVisitor: Yes, thank you."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Por qué la película inaugural empezó a las 6:30? / Read the short story and answer: Why did the opening film start at 6:30?",
+      "options": [
+        "Because the director's train was delayed.",
+        "Because the audience arrived early.",
+        "Because the doors were closed all evening.",
+        "Because the film was cancelled."
+      ],
+      "correct_answer": "Because the director's train was delayed.",
+      "explanation_md": "La narradora informó al público que la película empezaría a las 6:30 porque el tren del director se había retrasado. / The narrator informed the audience that the film would start at 6:30 because the director's train was delayed.",
+      "related_lexeme_ids": [
+        "audience",
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I was a volunteer at our community film festival. I informed the audience that the opening film would start at 6:30 because the director's train was delayed. Some visitors had expected a 6:00 start, so I explained the new schedule clearly. However, the doors opened on time. In addition, I checked that everyone understood the change before the film began.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Adónde se trasladó el taller infantil? / Listen to the short story and answer: Where was the children's workshop moved?",
+      "options": [
+        "To the library",
+        "To the main square",
+        "To the railway station",
+        "To the community kitchen"
+      ],
+      "correct_answer": "To the library",
+      "explanation_md": "El audio explica que el taller infantil se trasladó a la biblioteca porque se esperaba lluvia. / The audio explains that the children's workshop was moved to the library because rain was expected.",
+      "related_lexeme_ids": [
+        "audience",
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "At our neighborhood art fair, I was responsible for the information desk. The children's workshop moved to the library because rain was expected, so I informed the audience about the new location. However, the music show stayed in the square. In addition, I asked visitors, 'Does that make sense?' Most people understood and went to the library.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "audience",
+      "back": "audiencia / público",
+      "hint": "el grupo de personas que asiste a una presentación o evento",
+      "lexeme_id": "audience",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "B1",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "to inform",
+      "back": "informar",
+      "hint": "dar noticias o datos a una persona o al público",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "B1",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "event",
+      "back": "evento / actividad",
+      "hint": "una actividad planificada, como una reunión, charla o celebración",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "tags": [
+        "lesson_018",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "Can you tell me how to ...?",
+      "back": "¿Puedes decirme cómo ...?",
+      "hint": "pedir que alguien explique cómo hacer algo",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "tags": [
+        "lesson_018",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "What do you think?",
+      "back": "¿Qué piensas?",
+      "hint": "pedir la opinión de otra persona",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_what_do_you_think",
+      "tags": [
+        "lesson_018",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "audience",
+      "reading": "",
+      "translation": "audiencia",
+      "pos": "noun",
+      "example": "We must inform the audience that the schedule changed because the leader arrived late.",
+      "example_translation": "Debemos informar a la audiencia de que el horario cambió porque el líder llegó tarde.",
+      "lexeme_id": "audience",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "community event",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "volunteer",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "voluntario",
+      "lexeme_id": "volunteer",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_002",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "explain clearly",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "check understanding",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "because",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "porque",
+      "lexeme_id": "because_conj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "Because, so, however and in addition for clear connected explanations.",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "so",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "así que / entonces",
+      "lexeme_id": "so_conj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "Because, so, however and in addition for clear connected explanations.",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "audience",
+      "role": "support",
+      "status": "practiced",
+      "translation": "audiencia",
+      "lexeme_id": "audience",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_002",
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_006",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "inform",
+      "role": "support",
+      "status": "review",
+      "translation": "avisar / advertir / anunciar",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_005",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "event",
+      "role": "support",
+      "status": "review",
+      "translation": "evento",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "Can you tell me how to ...?",
+      "role": "support",
+      "status": "review",
+      "translation": "¿Puedes decirme cómo ...?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "What do you think?",
+      "role": "support",
+      "status": "review",
+      "translation": "¿Qué piensas?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_what_do_you_think",
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "addition",
+      "role": "support",
+      "status": "emergent",
+      "translation": "adición / aumento / añadidura",
+      "lexeme_id": "addition",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "schedule",
+      "role": "support",
+      "status": "emergent",
+      "translation": "horario",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "late",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tarde",
+      "lexeme_id": "late_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "arrive",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llegar",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "tell",
+      "role": "support",
+      "status": "emergent",
+      "translation": "decir / contar",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "leader",
+      "role": "support",
+      "status": "emergent",
+      "translation": "líder",
+      "lexeme_id": "leader",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "think",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pensar / creer",
+      "lexeme_id": "think_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "cost",
+      "role": "support",
+      "status": "emergent",
+      "translation": "costar",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "rule",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gobernar / regla",
+      "lexeme_id": "rule_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "invite",
+      "role": "support",
+      "status": "emergent",
+      "translation": "invitar",
+      "lexeme_id": "invite_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "final",
+      "role": "support",
+      "status": "emergent",
+      "translation": "final",
+      "lexeme_id": "final_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "connect",
+      "role": "support",
+      "status": "emergent",
+      "translation": "atar / unir / ligar",
+      "lexeme_id": "connect_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "explanation",
+      "role": "support",
+      "status": "emergent",
+      "translation": "explicación",
+      "lexeme_id": "explanation",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "make",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer / fabricar",
+      "lexeme_id": "make_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_006",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "visitor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "visitante",
+      "lexeme_id": "visitor",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "make sense",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tener sentido",
+      "lexeme_id": "make_sense_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "sense",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sentido",
+      "lexeme_id": "sense",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "information",
+      "role": "support",
+      "status": "emergent",
+      "translation": "información",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "expect",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar / prever",
+      "lexeme_id": "expect_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "room",
+      "role": "support",
+      "status": "emergent",
+      "translation": "habitación / cuarto",
+      "lexeme_id": "room",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "still",
+      "role": "support",
+      "status": "emergent",
+      "translation": "todavía / aún",
+      "lexeme_id": "still_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "order",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ordenar / pedir",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "rain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lluvia",
+      "lexeme_id": "rain",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "delayed",
+      "role": "support",
+      "status": "emergent",
+      "translation": "retrasado / demorado",
+      "lexeme_id": "delayed_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "on time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "a tiempo / puntual",
+      "lexeme_id": "on_time_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 4,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "addition",
+      "schedule",
+      "ask",
+      "late",
+      "arrive",
+      "tell",
+      "team",
+      "leader",
+      "think",
+      "cost",
+      "rule",
+      "invite",
+      "final",
+      "project",
+      "connect",
+      "explanation",
+      "make",
+      "visitor",
+      "make sense",
+      "time",
+      "sense",
+      "information",
+      "expect",
+      "now",
+      "room",
+      "talk",
+      "still",
+      "meet",
+      "order",
+      "rain",
+      "delayed",
+      "on time"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Aclarar informacion en un evento",
+      "title_target": "Quiz: Clarifying information at an event",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Por qué el público entendió finalmente los cambios en el evento?",
+          "prompt_target": "Why did the audience finally understand the changes to the event?",
+          "options": [
+            "Because the manager sent extra help and explained the topic again.",
+            "Because nobody asked questions about the schedule.",
+            "Because the event was cancelled.",
+            "Because the audience did not listen to the manager."
+          ],
+          "correct_answer": "Because the manager sent extra help and explained the topic again.",
+          "explanation_form": "El texto menciona que gracias a la ayuda extra y la explicación del tema, el público entendió los cambios.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "audience",
+            "Because, so, however and in addition for clear connected explanations."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "The manager was ready to inform the audience about the new event schedule. However, some details were not clear, so many people asked questions. The manager explained the main topic again. In addition, a short message was sent to everybody. Because of this extra help, the audience understood the changes.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué información se debe transmitir al público?",
+          "prompt_target": "What information must be given to the audience?",
+          "options": [
+            "That the meeting is delayed.",
+            "That the event is starting now.",
+            "That the manager is sick.",
+            "That the topic is cancelled."
+          ],
+          "correct_answer": "That the meeting is delayed.",
+          "explanation_form": "En el audio se aclara que la reunión se retrasó y se debe informar al público.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "audience",
+            "inform_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "We need to inform the audience about the new time. The meeting is delayed. However, we have a clear plan for everybody.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué debe comunicar el organizador al público?",
+          "prompt_target": "What must the organizer tell the audience?",
+          "options": [
+            "That they should take their seats quickly.",
+            "To leave the building immediately.",
+            "To ask more questions.",
+            "To cancel the event."
+          ],
+          "correct_answer": "That they should take their seats quickly.",
+          "explanation_form": "El audio dice expresamente 'inform the audience that they should take their seats quickly'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "audience",
+            "inform_verb",
+            "Because, so, however and in addition for clear connected explanations."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The room is full. In addition, more people are arriving now, so we must inform the audience that they should take their seats quickly.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "matching",
+          "prompt_form": "Empareja cada conector o palabra con su significado en español:",
+          "prompt_target": null,
+          "options": [
+            "however",
+            "sin embargo",
+            "in addition",
+            "además",
+            "audience",
+            "público",
+            "inform",
+            "informar"
+          ],
+          "correct_answer": [
+            "however=sin embargo",
+            "in addition=además",
+            "audience=público",
+            "inform=informar"
+          ],
+          "explanation_form": "Relacionamos cada palabra clave de la lección con su traducción exacta.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "audience",
+            "inform_verb",
+            "Because, so, however and in addition for clear connected explanations."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración correcta:",
+          "prompt_target": null,
+          "options": [
+            "The",
+            "manager",
+            "will",
+            "inform",
+            "the",
+            "audience",
+            "clearly."
+          ],
+          "correct_answer": "The manager will inform the audience clearly.",
+          "explanation_form": "El orden estándar es Sujeto (The manager) + Auxiliar (will) + Verbo (inform) + Objeto (the audience) + Adverbio (clearly).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "audience",
+            "inform_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración conectada con 'however':",
+          "prompt_target": "Put the words in order to make a correctly punctuated sentence with 'however'.",
+          "options": [
+            "The",
+            "event",
+            "was",
+            "late;",
+            "however,",
+            "the",
+            "audience",
+            "stayed."
+          ],
+          "correct_answer": "The event was late; however, the audience stayed.",
+          "explanation_form": "'However' contrasta dos ideas independientes: usa punto y coma antes de 'however' y coma después.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Because, so, however and in addition for clear connected explanations.",
+            "audience"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa el espacio con el conector de causa: 'We stayed at home ____ it was raining.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "because",
+          "explanation_form": "Usamos 'because' para explicar la razón o causa de una acción.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "Because, so, however and in addition for clear connected explanations."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué conector utilizamos para agregar información adicional a una frase?",
+          "prompt_target": "Which connector do we use to add extra information to a sentence?",
+          "options": [
+            "in addition",
+            "because",
+            "so",
+            "however"
+          ],
+          "correct_answer": "in addition",
+          "explanation_form": "'In addition' significa 'además' y se emplea para añadir datos.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "Because, so, however and in addition for clear connected explanations."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce al español la siguiente oración: 'The audience was very quiet.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "El público estaba muy callado.",
+          "explanation_form": "'The audience' se traduce como 'el público' o 'la audiencia'.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "audience"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Qué cambió?",
+          "prompt_target": "Read the story and answer: What changed?",
+          "options": [
+            "The craft workshop moved to another room.",
+            "The guided tour was cancelled.",
+            "The event ended at ten.",
+            "The volunteer left without explaining anything."
+          ],
+          "correct_answer": "The craft workshop moved to another room.",
+          "explanation_form": "El relato dice que el taller de manualidades cambió de sala, aunque la visita guiada empezó más tarde. / The story says that the craft workshop moved to another room, although the guided tour started later.",
+          "explanation_target": "El taller de manualidades cambió de sala, aunque la visita guiada empezó más tarde. / The craft workshop moved to another room, although the guided tour started later.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "audience",
+            "inform_verb",
+            "Because, so, however and in addition for clear connected explanations."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I arrived at a local cultural event with my friend. A volunteer informed the audience that the guided tour would begin at 11 because the speaker was late. The craft workshop still started at ten; however, the room had changed. In addition, the volunteer showed us the new timetable and asked, 'Is everything clear?' I thanked her because the explanation was easy to follow.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Dónde actuaría la cantante principal?",
+          "prompt_target": "Listen to the story and answer: Where would the lead singer perform?",
+          "options": [
+            "In the library",
+            "In the main square",
+            "At the train station",
+            "At the information desk"
+          ],
+          "correct_answer": "In the library",
+          "explanation_form": "El audio dice que la cantante principal actuaría en la biblioteca porque se esperaba lluvia intensa. / The audio says that the lead singer would perform in the library because heavy rain was expected.",
+          "explanation_target": "La cantante principal actuaría en la biblioteca porque se esperaba lluvia intensa. / The lead singer would perform in the library because heavy rain was expected.",
+          "references_exercise_id": "ex_014",
+          "references_lesson_topics": [
+            "audience",
+            "inform_verb",
+            "Because, so, however and in addition for clear connected explanations."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Yesterday, I helped organize a community concert. I informed the audience that the lead singer would perform in the library because heavy rain was expected. The food stalls stayed outside, so I explained the change clearly. However, some visitors still looked confused. In addition, I repeated the new plan and asked, 'Does that make sense?' They nodded and moved to the library.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Conectores y puntuación\nUsa **because** para la causa y **so** para el resultado. Para contrastar dos oraciones independientes, escribe punto o punto y coma antes de **however** y coma después: *The event was late; however, the audience stayed.* **In addition** añade información: *In addition, we shared the rules.*\n\n## Informar y confirmar\nPara comunicar un cambio, usa **inform + persona + that + oración**: *We informed the audience that the schedule had changed.* No uses *inform the audience to take their seats*. Para dar una instrucción, usa *tell the audience to take their seats* o informa del consejo: *inform the audience that they should take their seats*. Termina comprobando la comprensión: *Is everything clear?* o *Does that make sense?*.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:31:13Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

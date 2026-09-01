@@ -1,0 +1,1974 @@
+{
+  "id": "lesson_012",
+  "position": 12,
+  "unit_id": 4,
+  "course_id": "en.B2",
+  "title_form": "Hedging claims in media reports",
+  "title_target": "Hedging claims in media reports",
+  "theme_focus": "media",
+  "learning_objectives": [
+    "Can discuss the certainty of claims in a news report using hedging language.",
+    "Can evaluate the strength of evidence presented in a media report."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_011"
+  ],
+  "grammar_focus": [
+    "hedging: it seems that, apparently, it could be argued that"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "broadcast",
+        "headline_verb",
+        "evaluate_verb",
+        "coverage"
+      ],
+      "chunk_ids": [
+        "chunk_b2_apparently_distancing"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "journalist",
+        "source",
+        "reliable_adj"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "news report",
+        "role": "topic",
+        "rationale": "Core text type for the media context."
+      },
+      {
+        "term": "claim",
+        "role": "topic",
+        "rationale": "Noun/verb for a statement that may be uncertain."
+      },
+      {
+        "term": "evidence",
+        "role": "topic",
+        "rationale": "Noun for information that supports or refutes a claim."
+      },
+      {
+        "term": "journalist",
+        "role": "topic",
+        "rationale": "Media professional whose report presents the claims."
+      },
+      {
+        "term": "coverage",
+        "role": "topic",
+        "rationale": "The way a news event or claim is presented by the media."
+      },
+      {
+        "term": "source",
+        "role": "topic",
+        "rationale": "Origin of the information used to support a media claim."
+      },
+      {
+        "term": "evaluate",
+        "role": "functional",
+        "rationale": "Core action for assessing the reliability of a media source."
+      },
+      {
+        "term": "apparently",
+        "role": "functional",
+        "rationale": "Hedging adverb to distance from a claim."
+      },
+      {
+        "term": "it seems that",
+        "role": "grammar_support",
+        "rationale": "Hedging structure to express uncertainty."
+      },
+      {
+        "term": "it could be argued that",
+        "role": "grammar_support",
+        "rationale": "Hedging structure to present a claim cautiously."
+      },
+      {
+        "term": "uncertain",
+        "role": "functional",
+        "rationale": "Adjective to describe the status of information."
+      },
+      {
+        "term": "reliable",
+        "role": "functional",
+        "rationale": "Adjective for evaluating the reliability of a source or coverage."
+      }
+    ]
+  },
+  "scenario": "Marta is reading the news on her phone. She sees a headline about a new technology and wants to know if it is true. She reads the article, evaluates the sources, and discusses the coverage with her friend Leo, who is a journalist. Together they decide how reliable the claims are.",
+  "introduction_md": "## Hedging claims in media reports\n\nCuando lees o escuchas una noticia, no toda la información es 100% segura. Los periodistas usan **hedging** (lenguaje de cautela) para mostrar cuánta certeza hay detrás de una afirmación. Palabras como *apparently* o frases como *it seems that* te ayudan a **evaluate** la fuerza de la **evidence** y a decidir si una **source** es **reliable**.\n\nEn esta lección vas a:\n\n- Aprender a **evaluate** la certeza de una **claim** en un **news report**.\n- Usar **hedging** para distanciarte de afirmaciones no confirmadas.\n- Analizar la **coverage** de un evento y la calidad de sus **sources**.\n\nEste lenguaje es clave para leer entre líneas y no creer todo lo que ves. ¡Vamos a ello!",
+  "intro_target": "## Hedging claims in media reports\n\nWhen you read or hear a news story, not all the information is 100% certain. Journalists use **hedging** (cautious language) to show how much certainty is behind a claim. Words like *apparently* or phrases like *it seems that* help you **evaluate** the strength of the **evidence** and decide if a **source** is **reliable**.\n\nIn this lesson you will:\n\n- Learn to **evaluate** the certainty of a **claim** in a **news report**.\n- Use **hedging** to distance yourself from unconfirmed statements.\n- Analyze the **coverage** of an event and the quality of its **sources**.\n\nThis language is key to reading between the lines and not believing everything you see. Let's get to it!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "broadcast",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The journalist's broadcast about the election included several claims that seemed uncertain.",
+      "translation_form": "La transmisión del periodista sobre las elecciones incluyó varias afirmaciones que parecían inciertas.",
+      "highlight_words": [
+        "broadcast",
+        "journalist",
+        "claims",
+        "uncertain"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "coverage",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The newspaper's coverage of the event was based on a single source, so I decided to evaluate it carefully.",
+      "translation_form": "La cobertura del periódico del evento se basó en una sola fuente, así que decidí evaluarla con cuidado.",
+      "highlight_words": [
+        "coverage",
+        "source",
+        "evaluate"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "headline_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The article headlines the story as a major discovery, but the evidence is still weak.",
+      "translation_form": "El artículo titula la historia como un gran descubrimiento, pero la evidencia aún es débil.",
+      "highlight_words": [
+        "headline",
+        "evidence"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_apparently_distancing",
+      "grammar_slug": null,
+      "text_target": "Apparently, the journalist had a reliable source for that report, but I cannot confirm it.",
+      "translation_form": "Por lo visto, el periodista tenía una fuente confiable para ese informe, pero no puedo confirmarlo.",
+      "highlight_words": [
+        "apparently",
+        "journalist",
+        "reliable",
+        "source"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "evaluate_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Before sharing the news, we should evaluate whether the source is reliable enough for a broadcast.",
+      "translation_form": "Antes de compartir la noticia, deberíamos evaluar si la fuente es lo suficientemente confiable para una transmisión.",
+      "highlight_words": [
+        "evaluate",
+        "source",
+        "reliable",
+        "broadcast"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "coverage",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It seems that the coverage of the accident was exaggerated by the media, according to the journalist.",
+      "translation_form": "Parece que la cobertura del accidente fue exagerada por los medios, según el periodista.",
+      "highlight_words": [
+        "coverage",
+        "journalist"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "broadcast",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The live broadcast from the studio was interrupted, but the journalist continued the report later.",
+      "translation_form": "La transmisión en vivo desde el estudio fue interrumpida, pero el periodista continuó el informe más tarde.",
+      "highlight_words": [
+        "broadcast",
+        "journalist"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "headline_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The newspaper headlines the story about the storm, but the evidence for the damage is still unclear.",
+      "translation_form": "El periódico titula la historia sobre la tormenta, pero la evidencia del daño aún no está clara.",
+      "highlight_words": [
+        "headline",
+        "evidence"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "hedging: it seems that, apparently, it could be argued that",
+      "title_form": "Hedging: cómo expresar incertidumbre en inglés",
+      "title_target": "Hedging: How to Express Uncertainty in English",
+      "description_md_form": "En inglés, a veces necesitamos **suavizar** una afirmación para mostrar que no estamos 100% seguros. Esto se llama **hedging** (matizar). Es muy útil en contextos académicos y periodísticos, donde la precisión es clave.\n\nAquí tienes tres estructuras básicas para matizar:\n\n1. **`It seems that` + oración** — \"Parece que...\"\n   - *It seems that the evidence is weak.* (Parece que la evidencia es débil.)\n\n2. **`Apparently` + oración** — \"Por lo visto...\" / \"Según se dice...\"\n   - *Apparently, the source is reliable.* (Por lo visto, la fuente es confiable.)\n\n3. **`It could be argued that` + oración** — \"Se podría argumentar que...\"\n   - *It could be argued that the coverage is biased.* (Se podría argumentar que la cobertura está sesgada.)\n\nEstas estructuras te permiten **evaluar** una afirmación sin comprometerte del todo. Son perfectas para hablar de noticias, reportajes o cualquier tema donde la información no sea definitiva.",
+      "description_md_target": "In English, sometimes we need to **soften** a statement to show we are not 100% sure. This is called **hedging**. It is very useful in academic and journalistic contexts, where precision is key.\n\nHere are three basic structures for hedging:\n\n1. **`It seems that` + clause** — \"It appears that...\"\n   - *It seems that the evidence is weak.*\n\n2. **`Apparently` + clause** — \"According to what is said...\"\n   - *Apparently, the source is reliable.*\n\n3. **`It could be argued that` + clause** — \"One could argue that...\"\n   - *It could be argued that the coverage is biased.*\n\nThese structures allow you to **evaluate** a claim without fully committing. They are perfect for discussing news, reports, or any topic where information is not definitive.",
+      "grammar_structure": "It seems that + [clause] / Apparently + [clause] / It could be argued that + [clause]",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_b2_apparently_distancing",
+          "grammar_slug": null,
+          "text_target": "Apparently, the journalist had a reliable source for that report, but I cannot confirm it.",
+          "translation_form": "Por lo visto, el periodista tenía una fuente confiable para ese informe, pero no puedo confirmarlo.",
+          "highlight_words": [
+            "apparently"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "hedging: it seems that, apparently, it could be argued that",
+          "text_target": "It seems that the coverage of the event was based on a single source.",
+          "translation_form": "Parece que la cobertura del evento se basó en una sola fuente.",
+          "highlight_words": [
+            "it seems that"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Usa `it could be argued that` para presentar una opinión de forma más formal y objetiva. Es ideal para ensayos o debates."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas `It seems that` + *to* + verbo. La estructura correcta es `It seems that` + **sujeto** + verbo. Ejemplo: *It seems that the evidence is weak.* (No: *It seems that to be weak.*)"
+        }
+      ],
+      "common_errors_es": [
+        "Confundir `apparently` con `evidently`. `Apparently` implica que algo se dice pero no se confirma; `evidently` implica que es obvio por la evidencia.",
+        "Olvidar que `it could be argued that` requiere un sujeto y verbo después de `that`, no un infinitivo.",
+        "Usar `it seems that` con un verbo en infinitivo en lugar de una oración completa."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'broadcast'?",
+      "options": [
+        "transmisión",
+        "periódico",
+        "entrevista",
+        "artículo"
+      ],
+      "correct_answer": "transmisión",
+      "explanation_md": "'Broadcast' se refiere a una transmisión, como un programa de radio o televisión.",
+      "related_lexeme_ids": [
+        "broadcast"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'coverage'?",
+      "options": [
+        "cobertura",
+        "evidencia",
+        "fuente",
+        "noticia"
+      ],
+      "correct_answer": "cobertura",
+      "explanation_md": "'Coverage' es la cobertura mediática de un evento o tema.",
+      "related_lexeme_ids": [
+        "coverage"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'The journalist needs to ______ the evidence before publishing the report.'",
+      "options": [
+        "broadcast",
+        "evaluate",
+        "headline",
+        "cover"
+      ],
+      "correct_answer": "evaluate",
+      "explanation_md": "'Evaluate' significa evaluar, que es lo que debe hacer el periodista con la evidencia.",
+      "related_lexeme_ids": [
+        "evaluate_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración con la palabra correcta: 'The newspaper ______ the story as a major discovery, but the evidence is weak.'",
+      "options": null,
+      "correct_answer": "headlines",
+      "explanation_md": "'Headlines' se usa como verbo para indicar que el periódico titula la historia de cierta manera.",
+      "related_lexeme_ids": [
+        "headline_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "broadcast",
+        "transmisión",
+        "coverage",
+        "cobertura",
+        "source",
+        "fuente",
+        "journalist",
+        "periodista"
+      ],
+      "correct_answer": [
+        "broadcast=transmisión",
+        "coverage=cobertura",
+        "source=fuente",
+        "journalist=periodista"
+      ],
+      "explanation_md": "Estas son palabras clave del vocabulario mediático.",
+      "related_lexeme_ids": [
+        "broadcast",
+        "coverage",
+        "source",
+        "journalist"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Aparentemente, la fuente es confiable.'",
+      "options": null,
+      "correct_answer": "Apparently, the source is reliable.",
+      "explanation_md": "Usamos 'apparently' para distanciarnos de la afirmación, indicando que no estamos completamente seguros.",
+      "related_lexeme_ids": [
+        "source"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_apparently_distancing"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'It seems that the coverage of the event was based on a single source.'",
+      "options": null,
+      "correct_answer": "Parece que la cobertura del evento se basó en una sola fuente.",
+      "explanation_md": "'It seems that' es una estructura para expresar incertidumbre sobre lo que se dice.",
+      "related_lexeme_ids": [
+        "coverage",
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la mejor manera de expresar incertidumbre sobre una afirmación?",
+      "options": [
+        "The evidence is clear.",
+        "It could be argued that the evidence is weak.",
+        "The source is reliable.",
+        "The broadcast was excellent."
+      ],
+      "correct_answer": "It could be argued that the evidence is weak.",
+      "explanation_md": "'It could be argued that' es una estructura de hedging que presenta una afirmación con cautela.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué el periodista decidió no publicar la historia?",
+      "options": null,
+      "correct_answer": "Because the evidence was uncertain and based on a single source.",
+      "explanation_md": "El texto indica que la información era incierta y se basaba en una sola fuente, por lo que el periodista decidió no publicar.",
+      "related_lexeme_ids": [
+        "journalist",
+        "source",
+        "evaluate_verb",
+        "broadcast",
+        "coverage"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_apparently_distancing"
+      ],
+      "difficulty": "medium",
+      "passage_md": "A local journalist received a tip about a major discovery in the city. The source seemed reliable, but the journalist decided to evaluate the evidence carefully before making any broadcast. The coverage of the event was based on a single source, and the journalist felt that the information was uncertain. It could be argued that the story was important, but without more evidence, publishing it would be risky. The journalist decided to wait and investigate further. Apparently, the source had made similar claims before, and those claims had not been confirmed. The journalist wanted to avoid spreading false information.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué opina el autor sobre la cobertura del evento?",
+      "options": null,
+      "correct_answer": "The author thinks the coverage was extensive but of questionable quality, focusing on dramatic claims.",
+      "explanation_md": "El autor critica la cobertura por basarse en afirmaciones dramáticas y evidencia débil.",
+      "related_lexeme_ids": [
+        "coverage",
+        "headline_verb",
+        "source",
+        "evaluate_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "The coverage of the annual science fair was extensive, but the quality of the reporting was questionable. The main headline claimed that a new technology would change the world, but the evidence presented was thin. It seems that the journalist relied heavily on a single source, which may not be reliable. It could be argued that the fair deserved more attention, but the coverage focused on the most dramatic claims rather than the most important ones. The public should evaluate the information critically before accepting it as true.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué hizo la periodista después de recibir la información?",
+      "options": null,
+      "correct_answer": "She evaluated the evidence and contacted other sources to confirm the story before writing.",
+      "explanation_md": "El texto describe el proceso de verificación de la periodista antes de publicar.",
+      "related_lexeme_ids": [
+        "journalist",
+        "source",
+        "evaluate_verb",
+        "broadcast"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "A journalist received information about a possible scandal in the local government. The source was a former employee who claimed to have seen evidence of corruption. The journalist was excited but cautious. She decided to evaluate the evidence before writing anything. She contacted other sources to confirm the story. After several days of investigation, she found that the claims were partly true. She then wrote a balanced report that presented the facts without exaggerating. The broadcast was well received, and the journalist was praised for her careful work.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué dice el periodista sobre la fuente?",
+      "options": [
+        "La fuente es completamente confiable.",
+        "La fuente parece confiable, pero necesita evaluar la evidencia.",
+        "La fuente no es confiable.",
+        "La fuente es un periodista famoso."
+      ],
+      "correct_answer": "La fuente parece confiable, pero necesita evaluar la evidencia.",
+      "explanation_md": "El periodista dice que la fuente parece confiable, pero necesita evaluar la evidencia antes de continuar.",
+      "related_lexeme_ids": [
+        "source",
+        "evaluate_verb",
+        "coverage",
+        "broadcast"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_apparently_distancing"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I received a tip about a new discovery. The source seems reliable, but I need to evaluate the evidence. It could be argued that the story is important. However, the coverage of the event is still uncertain. I will wait before making a broadcast.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Por qué la periodista no está segura de la historia?",
+      "options": [
+        "Porque la evidencia era débil y la cobertura parecía pagada.",
+        "Porque no le gustaba el producto.",
+        "Porque no tenía tiempo.",
+        "Porque la fuente era desconocida."
+      ],
+      "correct_answer": "Porque la evidencia era débil y la cobertura parecía pagada.",
+      "explanation_md": "La periodista duda porque la evidencia era débil y aparentemente la cobertura positiva fue pagada.",
+      "related_lexeme_ids": [
+        "journalist",
+        "coverage"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_apparently_distancing"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "The journalist received a report about a new product. The coverage of the launch was positive, but the evidence was weak. Apparently, the company paid for the positive reviews. The journalist decided to investigate further before publishing anything. She wanted to be sure the information was reliable.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué opina el editor sobre la historia?",
+      "options": [
+        "El editor piensa que la historia es aburrida.",
+        "El editor piensa que la historia es interesante pero necesita más evidencia.",
+        "El editor no quiere publicar la historia.",
+        "El editor confía completamente en la fuente."
+      ],
+      "correct_answer": "El editor piensa que la historia es interesante pero necesita más evidencia.",
+      "explanation_md": "El editor encuentra la historia interesante, pero pide más evidencia porque la fuente no es segura.",
+      "related_lexeme_ids": [
+        "journalist",
+        "source",
+        "broadcast"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The editor read the journalist's report. He thought the story was interesting, but he was not sure about the source. It seems that the information came from an anonymous email. The editor asked the journalist to find more evidence. He said that a good broadcast needs reliable sources.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre una noticia que viste recientemente. Usá 'apparently' o 'it seems that' para expresar incertidumbre sobre la información.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de las estructuras de hedging para expresar incertidumbre.",
+      "related_lexeme_ids": [
+        "coverage",
+        "source",
+        "journalist"
+      ],
+      "related_chunk_ids": [
+        "chunk_b2_apparently_distancing"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Apparently, the new policy will affect many workers, but the details are unclear.",
+        "It seems that the coverage of the event was biased, so I decided to check other sources.",
+        "Apparently, the journalist had a reliable source, but I cannot confirm the story."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_016",
+      "kind": "free_production",
+      "prompt_md": "Imaginá que sos un periodista. Escribí 2-3 oraciones sobre un descubrimiento científico, usando 'it could be argued that' para presentar una opinión con cautela.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'it could be argued that' para presentar argumentos de manera cautelosa.",
+      "related_lexeme_ids": [
+        "coverage"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "It could be argued that the discovery is important, but the evidence is still limited.",
+        "It could be argued that the research needs more funding to be reliable.",
+        "It could be argued that the coverage of the discovery was exaggerated by the media."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_017",
+      "kind": "free_production",
+      "prompt_md": "Respondé en 2-3 oraciones: ¿Cómo evaluás la confiabilidad de una fuente de noticias? Usá 'evaluate' y 'reliable'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'evaluate' y 'reliable' en un contexto de análisis de medios.",
+      "related_lexeme_ids": [
+        "evaluate_verb",
+        "source",
+        "coverage"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I evaluate the source by checking if it has a good reputation.",
+        "A reliable source usually provides evidence for its claims.",
+        "I evaluate the coverage by comparing it with other reports."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "broadcast",
+      "back": "transmisión",
+      "hint": "programa de radio o televisión",
+      "lexeme_id": "broadcast",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_012",
+        "B2",
+        "media"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "headline",
+      "back": "titular",
+      "hint": "título de una noticia",
+      "lexeme_id": "headline_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_012",
+        "B2",
+        "media"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "evaluate",
+      "back": "evaluar",
+      "hint": "juzgar el valor o la calidad",
+      "lexeme_id": "evaluate_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_012",
+        "B2",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "coverage",
+      "back": "cobertura",
+      "hint": "la forma en que los medios presentan un evento",
+      "lexeme_id": "coverage",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_012",
+        "B2",
+        "media"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "Apparently, he is tired today.",
+      "back": "Por lo visto, hoy está cansado.",
+      "hint": "frase de distanciamiento",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_apparently_distancing",
+      "target_term": null,
+      "tags": [
+        "lesson_012",
+        "B2",
+        "hedging"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "journalist",
+      "back": "periodista",
+      "hint": "profesional de los medios",
+      "lexeme_id": "journalist",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_012",
+        "B2",
+        "media"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "source",
+      "back": "fuente",
+      "hint": "origen de la información",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_012",
+        "B2",
+        "media"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "broadcast",
+      "reading": "",
+      "translation": "transmisión",
+      "pos": "noun",
+      "example": "The journalist's broadcast about the election included several claims that seemed uncertain.",
+      "example_translation": "La transmisión del periodista sobre las elecciones incluyó varias afirmaciones que parecían inciertas.",
+      "lexeme_id": "broadcast",
+      "chunk_id": null
+    },
+    {
+      "target_word": "headline",
+      "reading": "",
+      "translation": "titular",
+      "pos": "verb",
+      "example": "The article headlines the story as a major discovery, but the evidence is still weak.",
+      "example_translation": "El artículo titula la historia como un gran descubrimiento, pero la evidencia aún es débil.",
+      "lexeme_id": "headline_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "evaluate",
+      "reading": "",
+      "translation": "evaluar",
+      "pos": "verb",
+      "example": "Before sharing the news, we should evaluate whether the source is reliable enough for a broadcast.",
+      "example_translation": "Antes de compartir la noticia, deberíamos evaluar si la fuente es lo suficientemente confiable para una transmisión.",
+      "lexeme_id": "evaluate_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "coverage",
+      "reading": "",
+      "translation": "cobertura",
+      "pos": "noun",
+      "example": "The newspaper's coverage of the event was based on a single source, so I decided to evaluate it carefully.",
+      "example_translation": "La cobertura del periódico del evento se basó en una sola fuente, así que decidí evaluarla con cuidado.",
+      "lexeme_id": "coverage",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Apparently, he is tired today.",
+      "reading": "",
+      "translation": "Frase de distanciamiento: 'Apparently' (= 'por lo visto', segun se dice).",
+      "pos": "chunk",
+      "example": "Apparently, the journalist had a reliable source for that report, but I cannot confirm it.",
+      "example_translation": "Por lo visto, el periodista tenía una fuente confiable para ese informe, pero no puedo confirmarlo.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_apparently_distancing"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "news report",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction"
+      ]
+    },
+    {
+      "term": "claim",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "reclamación",
+      "lexeme_id": "claim",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "hedging: it seems that, apparently, it could be argued that"
+      ]
+    },
+    {
+      "term": "evidence",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "evidencia",
+      "lexeme_id": "evidence",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "exm_008",
+        "hedging: it seems that, apparently, it could be argued that",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_016",
+        "ex_017"
+      ]
+    },
+    {
+      "term": "journalist",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "periodista",
+      "lexeme_id": "journalist",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "exm_006",
+        "exm_007",
+        "hedging: it seems that, apparently, it could be argued that",
+        "ex_005",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "fc_006",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "coverage",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "cobertura",
+      "lexeme_id": "coverage",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_006",
+        "hedging: it seems that, apparently, it could be argued that",
+        "ex_002",
+        "ex_005",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "source",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "fuente",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "exm_005",
+        "hedging: it seems that, apparently, it could be argued that",
+        "ex_005",
+        "ex_006",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "ex_015",
+        "ex_017",
+        "fc_007",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "evaluate",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "evaluar",
+      "lexeme_id": "evaluate_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_005",
+        "hedging: it seems that, apparently, it could be argued that",
+        "ex_003",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_017",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "apparently",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "aparentemente",
+      "lexeme_id": "apparently_adv_2",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "hedging: it seems that, apparently, it could be argued that",
+        "ex_009",
+        "ex_013",
+        "ex_015",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "it seems that",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_006",
+        "hedging: it seems that, apparently, it could be argued that",
+        "ex_010",
+        "ex_014",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "it could be argued that",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "hedging: it seems that, apparently, it could be argued that",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "uncertain",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "reliable",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "fiable",
+      "lexeme_id": "reliable_adj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "exm_005",
+        "hedging: it seems that, apparently, it could be argued that",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "broadcast",
+      "role": "support",
+      "status": "practiced",
+      "translation": "transmisión",
+      "lexeme_id": "broadcast",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_007",
+        "ex_001",
+        "ex_005",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "headline",
+      "role": "support",
+      "status": "practiced",
+      "translation": "titular",
+      "lexeme_id": "headline_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "exm_008",
+        "ex_004",
+        "ex_010",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "Apparently, he is tired today.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Frase de distanciamiento: 'Apparently' (= 'por lo visto', segun se dice).",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_apparently_distancing",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_006",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "still",
+      "role": "support",
+      "status": "emergent",
+      "translation": "todavía / aún",
+      "lexeme_id": "still_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_008",
+        "ex_012",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "single",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "base",
+      "role": "support",
+      "status": "emergent",
+      "translation": "basar",
+      "lexeme_id": "base_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "discovery",
+      "role": "support",
+      "status": "emergent",
+      "translation": "descubrimiento",
+      "lexeme_id": "discovery",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_012",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "event",
+      "role": "support",
+      "status": "emergent",
+      "translation": "evento",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_012",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "carefully",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cuidadosamente / precavidamente",
+      "lexeme_id": "carefully_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "later",
+      "role": "support",
+      "status": "emergent",
+      "translation": "luego / más tarde",
+      "lexeme_id": "later_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "exaggerate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "exagerar",
+      "lexeme_id": "exaggerate_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_011",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "confirm",
+      "role": "support",
+      "status": "emergent",
+      "translation": "confirmar",
+      "lexeme_id": "confirm",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "article",
+      "role": "support",
+      "status": "emergent",
+      "translation": "artículo",
+      "lexeme_id": "article",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "cannot",
+      "role": "support",
+      "status": "emergent",
+      "translation": "no poder",
+      "lexeme_id": "cannot",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "major",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mayor / principal",
+      "lexeme_id": "major_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "according",
+      "role": "support",
+      "status": "emergent",
+      "translation": "según",
+      "lexeme_id": "according",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "several",
+      "role": "support",
+      "status": "emergent",
+      "translation": "varios",
+      "lexeme_id": "several_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "weak",
+      "role": "support",
+      "status": "emergent",
+      "translation": "débil",
+      "lexeme_id": "weak_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "live",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vivir",
+      "lexeme_id": "live_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "accident",
+      "role": "support",
+      "status": "emergent",
+      "translation": "accidente",
+      "lexeme_id": "accident",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "continue",
+      "role": "support",
+      "status": "emergent",
+      "translation": "continuar",
+      "lexeme_id": "continue_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "include",
+      "role": "support",
+      "status": "emergent",
+      "translation": "incluir",
+      "lexeme_id": "include_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "election",
+      "role": "support",
+      "status": "emergent",
+      "translation": "elección",
+      "lexeme_id": "election",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "damage",
+      "role": "support",
+      "status": "emergent",
+      "translation": "daño",
+      "lexeme_id": "damage",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "storm",
+      "role": "support",
+      "status": "emergent",
+      "translation": "asalto / borrasca / temporal",
+      "lexeme_id": "storm",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "studio",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudio",
+      "lexeme_id": "studio",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "information",
+      "role": "support",
+      "status": "emergent",
+      "translation": "información",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "important",
+      "role": "support",
+      "status": "emergent",
+      "translation": "importante",
+      "lexeme_id": "important_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_016",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_015",
+        "ex_017",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014",
+        "ex_016",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "receive",
+      "role": "support",
+      "status": "emergent",
+      "translation": "recibir",
+      "lexeme_id": "receive_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "publish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "publicar",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 12,
+    "lexical_target_count": 10,
+    "covered_lexical_target_count": 10,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 3,
+    "review_support_count": 0,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "still",
+      "single",
+      "base",
+      "discovery",
+      "event",
+      "carefully",
+      "later",
+      "exaggerate",
+      "confirm",
+      "article",
+      "cannot",
+      "major",
+      "according",
+      "several",
+      "weak",
+      "today",
+      "tire",
+      "live",
+      "tired",
+      "accident",
+      "continue",
+      "include",
+      "election",
+      "damage",
+      "storm",
+      "studio",
+      "information",
+      "important",
+      "check",
+      "need",
+      "receive",
+      "publish"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Hedging claims in media reports",
+      "title_target": "Quiz: Hedging claims in media reports",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el artículo y responde: ¿Qué dice el periodista sobre la fuente?",
+          "prompt_target": "Read the article and answer: What does the journalist say about the source?",
+          "options": [
+            "He said the source was not reliable.",
+            "He said the source was a friend of the mayor.",
+            "He said the source was a journalist.",
+            "He said the source was the mayor."
+          ],
+          "correct_answer": "He said the source was a friend of the mayor.",
+          "explanation_form": "El texto dice: 'That source was a friend of the mayor.' Las otras opciones no aparecen en el artículo.",
+          "explanation_target": "The text says: 'That source was a friend of the mayor.' The other options do not appear in the article.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "journalist",
+            "source",
+            "coverage",
+            "hedging_it_seems_that"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "A local newspaper published a story about a new park in the city. The journalist wrote that the park would open in June. However, the journalist did not visit the park. He based his story on a single source. That source was a friend of the mayor. The journalist said, \"It seems that the park is almost ready.\" He also wrote, \"Apparently, the opening will happen next month.\" Some readers were not happy. They said the journalist should evaluate the information more carefully. The newspaper later added more coverage of the park. They interviewed other people and found new details. The final report was more reliable. The journalist learned an important lesson about checking his sources.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "reading_comprehension",
+          "prompt_form": "Según el artículo, ¿qué hizo el periodista después de las quejas?",
+          "prompt_target": "According to the article, what did the journalist do after the complaints?",
+          "options": [
+            "He stopped writing about the park.",
+            "He added more coverage of the park.",
+            "He visited the mayor.",
+            "He wrote a new headline."
+          ],
+          "correct_answer": "He added more coverage of the park.",
+          "explanation_form": "El texto dice: 'The newspaper later added more coverage of the park.'",
+          "explanation_target": "The text says: 'The newspaper later added more coverage of the park.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "coverage",
+            "journalist",
+            "evaluate_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "A local newspaper published a story about a new park in the city. The journalist wrote that the park would open in June. However, the journalist did not visit the park. He based his story on a single source. That source was a friend of the mayor. The journalist said, \"It seems that the park is almost ready.\" He also wrote, \"Apparently, the opening will happen next month.\" Some readers were not happy. They said the journalist should evaluate the information more carefully. The newspaper later added more coverage of the park. They interviewed other people and found new details. The final report was more reliable. The journalist learned an important lesson about checking his sources.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué dice el periodista sobre la noticia?",
+          "prompt_target": "Listen and answer: What does the journalist say about the news?",
+          "options": [
+            "He says the restaurant is definitely the best.",
+            "He says it seems the restaurant is popular.",
+            "He says the restaurant is closed.",
+            "He says the food was terrible."
+          ],
+          "correct_answer": "He says it seems the restaurant is popular.",
+          "explanation_form": "El periodista usa 'It seems that' para mostrar incertidumbre, no certeza absoluta.",
+          "explanation_target": "The journalist uses 'It seems that' to show uncertainty, not absolute certainty.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "journalist",
+            "hedging_it_seems_that",
+            "headline_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I am a journalist for a local newspaper. I received a report about a new restaurant. The report said the food was excellent. However, I did not visit the restaurant. I only talked to one person. It seems that the restaurant is very popular. Apparently, the chef is from France. But I need more information before I write the headline.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué opina el editor sobre la fuente?",
+          "prompt_target": "Listen and answer: What does the editor think about the source?",
+          "options": [
+            "He thinks the source is reliable.",
+            "He thinks the source is not reliable.",
+            "He thinks the source is a journalist.",
+            "He thinks the source is the mayor."
+          ],
+          "correct_answer": "He thinks the source is not reliable.",
+          "explanation_form": "El editor dice: 'my source was not reliable'.",
+          "explanation_target": "The editor says: 'my source was not reliable'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "source",
+            "reliable_adj",
+            "evaluate_verb",
+            "chunk_b2_apparently_distancing"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The editor called me this morning. He was not happy with my report. He said my source was not reliable. He told me to evaluate the information again. He said, \"Apparently, you did not check the facts.\" I felt bad, but he was right. I need to be more careful with my coverage.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta.",
+          "prompt_target": "Order the words to form a correct sentence.",
+          "options": [
+            "It",
+            "seems",
+            "that",
+            "the",
+            "report",
+            "is",
+            "true."
+          ],
+          "correct_answer": "It seems that the report is true.",
+          "explanation_form": "La estructura es: It seems that + sujeto + verbo.",
+          "explanation_target": "The structure is: It seems that + subject + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hedging_it_seems_that"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta.",
+          "prompt_target": "Order the words to form a correct sentence.",
+          "options": [
+            "Apparently,",
+            "the",
+            "source",
+            "is",
+            "not",
+            "reliable."
+          ],
+          "correct_answer": "Apparently, the source is not reliable.",
+          "explanation_form": "'Apparently' va al inicio para mostrar que la información no está confirmada.",
+          "explanation_target": "'Apparently' goes at the beginning to show the information is not confirmed.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_b2_apparently_distancing",
+            "source",
+            "reliable_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____, the journalist did not check the facts.'",
+          "prompt_target": "Complete the sentence: '____, the journalist did not check the facts.'",
+          "options": null,
+          "correct_answer": "Apparently",
+          "explanation_form": "Usamos 'Apparently' para mostrar que algo parece cierto pero no está confirmado.",
+          "explanation_target": "We use 'Apparently' to show something seems true but is not confirmed.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_b2_apparently_distancing",
+            "journalist"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'It ____ that the coverage was very good.'",
+          "prompt_target": "Complete the sentence: 'It ____ that the coverage was very good.'",
+          "options": null,
+          "correct_answer": "seems",
+          "explanation_form": "La estructura es 'It seems that...' para expresar una opinión con cautela.",
+          "explanation_target": "The structure is 'It seems that...' to express an opinion with caution.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hedging_it_seems_that",
+            "coverage"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la mejor traducción de 'evaluate'?",
+          "prompt_target": "What is the best translation of 'evaluate'?",
+          "options": [
+            "evaluar",
+            "publicar",
+            "entrevistar",
+            "escribir"
+          ],
+          "correct_answer": "evaluar",
+          "explanation_form": "'Evaluate' significa 'evaluar' o 'valorar'.",
+          "explanation_target": "'Evaluate' means 'evaluar' or 'valorar'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "evaluate_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'coverage' en el contexto de un periódico?",
+          "prompt_target": "What does 'coverage' mean in the context of a newspaper?",
+          "options": [
+            "la cobertura de una noticia",
+            "la portada del periódico",
+            "el precio del periódico",
+            "el editor del periódico"
+          ],
+          "correct_answer": "la cobertura de una noticia",
+          "explanation_form": "'Coverage' se refiere a la cobertura o tratamiento de una noticia.",
+          "explanation_target": "'Coverage' refers to the coverage or treatment of a news story.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "coverage"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "broadcast",
+            "transmitir",
+            "headline",
+            "titular",
+            "source",
+            "fuente"
+          ],
+          "correct_answer": [
+            "broadcast=transmitir",
+            "headline=titular",
+            "source=fuente"
+          ],
+          "explanation_form": "Estas son las palabras clave de la lección sobre medios de comunicación.",
+          "explanation_target": "These are the key words of the lesson about media.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "broadcast",
+            "headline_verb",
+            "source"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma más adecuada de expresar una opinión con cautela?",
+          "prompt_target": "What is the most appropriate way to express an opinion with caution?",
+          "options": [
+            "It could be argued that the report is wrong.",
+            "The report is wrong.",
+            "The report is definitely wrong.",
+            "The report is not wrong."
+          ],
+          "correct_answer": "It could be argued that the report is wrong.",
+          "explanation_form": "Esta estructura expresa una opinión de forma cautelosa, mostrando que es una posibilidad, no un hecho.",
+          "explanation_target": "This structure expresses an opinion cautiously, showing it is a possibility, not a fact.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hedging_it_could_be_argued"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El arte de matizar: hedging en inglés\n\nEn español tendemos a afirmar con seguridad: \"El informe dice que...\". En inglés, los hablantes nativos matizan mucho más sus afirmaciones, sobre todo al hablar de noticias o informes. Usar **hedging** (it seems that, apparently, it could be argued that) no es ser indeciso, es ser preciso y mostrar que estás evaluando la evidencia.\n\n- **it seems that** = \"parece que\" (basado en lo que ves o lees).\n- **apparently** = \"al parecer\" (lo has oído o leído, pero no lo has comprobado).\n- **it could be argued that** = \"se podría argumentar que\" (presenta una opinión como posible, no como un hecho).\n\n## Errores comunes de hispanohablantes\n\n1. **No uses \"it seems that\" con evidencia directa.** Si viste el accidente, no digas \"It seems that the car crashed\". Di \"The car crashed\". El hedging es para cuando NO tienes certeza total.\n2. **No confundas \"apparently\" con \"obviously\".** \"Apparently\" expresa duda (al parecer), mientras que \"obviously\" expresa certeza (obviamente). Son opuestos.\n3. **No traduzcas literalmente \"se podría decir\".** En inglés formal, \"it could be argued that\" es la forma natural, no \"it could be said\" (aunque existe, es menos común en contextos de análisis).\n\n**Tip mnemotécnico:** Piensa en el hedging como un \"freno de mano\" para tus afirmaciones. Lo usas cuando no quieres que tu frase salga a toda velocidad sin verificar los datos.",
+  "metadata": {
+    "generated_at": "2026-08-31T02:00:36Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

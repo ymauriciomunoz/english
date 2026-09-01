@@ -1,0 +1,1454 @@
+{
+  "id": "lesson_017",
+  "position": 17,
+  "unit_id": 6,
+  "course_id": "en.B1",
+  "title_form": "Relatar preguntas y peticiones",
+  "title_target": "Reporting questions and requests",
+  "theme_focus": "news and media",
+  "learning_objectives": [
+    "Can relay a straightforward question or request accurately to another person."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_016"
+  ],
+  "grammar_focus": [
+    "Reported yes/no and wh-questions, plus reported requests with to-infinitive."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "inform_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": []
+    },
+    "target_vocabulary": [
+      {
+        "term": "question",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the news and media situation."
+      },
+      {
+        "term": "request",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the news and media situation."
+      },
+      {
+        "term": "asked whether",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "told me to",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "asked if",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "asked where",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "En la redacción de un periódico local, la periodista Elena entrevista a testigos y colegas sobre una noticia reciente. Luego, le informa a su editor qué le preguntaron y qué le pidieron hacer durante las entrevistas.",
+  "introduction_md": "¡Bienvenido/a! En el mundo del periodismo y la comunicación diaria, a menudo necesitamos transmitir lo que otras personas dijeron, preguntaron o pidieron. En esta lección aprenderás a relatar preguntas directas e indirectas y peticiones en inglés.\n\nAprenderás a:\n- Usar *asked if* y *asked whether* para preguntas de sí o no.\n- Relatar preguntas con palabras interrogativas como *where* o *what*.\n- Transmitir peticiones u órdenes con *told me to* o *asked me to*.\n- Utilizar el verbo *inform* para comunicar noticias o datos oficiales.\n\n¡Comenzamos a transformar entrevistas en noticias relativas!",
+  "intro_target": "Welcome! In journalism and daily communication, we often need to report what other people said, asked, or requested. In this lesson, you will learn how to report direct and indirect questions and requests in English.\n\nYou will learn to:\n- Use *asked if* and *asked whether* for yes/no questions.\n- Report wh-questions using words like *where* or *what*.\n- Pass on requests or commands using *told me to* or *asked me to*.\n- Use the verb *inform* to share news or official facts.\n\nLet's start turning interviews into reported news!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The reporter called to inform me about the news and said that the office was closed.",
+      "translation_form": "El reportero llamó para informarme sobre la noticia y dijo que la oficina estaba cerrada.",
+      "highlight_words": [
+        "inform",
+        "said"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My colleague asked if I saw the important news after the company informed the team about the new project.",
+      "translation_form": "Mi colega preguntó si vi la noticia importante después de que la empresa informó al equipo sobre el nuevo proyecto.",
+      "highlight_words": [
+        "asked",
+        "if",
+        "informed the team"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She asked where the meeting was, but nobody could answer her question about the agenda.",
+      "translation_form": "Ella preguntó dónde estaba la reunión, pero nadie pudo responder a su pregunta sobre la agenda.",
+      "highlight_words": [
+        "asked",
+        "where",
+        "question"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The receptionist asked whether I had a request before the manager informed the team of the final decision.",
+      "translation_form": "La recepcionista preguntó si tenía una petición antes de que el gerente informara al equipo de la decisión final.",
+      "highlight_words": [
+        "asked",
+        "whether",
+        "request",
+        "informed the team"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The doctor asked if I felt better and told me to rest at home for a week.",
+      "translation_form": "El médico preguntó si me sentía mejor y me dijo que descansara en casa durante una semana.",
+      "highlight_words": [
+        "asked",
+        "if",
+        "told"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+      "title_form": "Estilo indirecto: preguntas y peticiones",
+      "title_target": "Reported questions and requests",
+      "description_md_form": "Para reportar lo que alguien preguntó o pidió en el pasado, adaptamos la estructura según el tipo de oración:\n\n- **Preguntas de Sí/No (Yes/No questions)**: Usamos **asked if** o **asked whether** seguidos de orden afirmativo (Sujeto + Verbo), sin auxiliares como *do/did*.\n- **Preguntas abiertas (Wh- questions)**: Usamos **asked where**, *asked what*, etc., manteniendo el orden declarativo sin invertir sujeto y verbo.\n- **Peticiones u órdenes (Requests)**: Usamos **told me to** (o *asked me to*) seguido del verbo en infinitivo con *to*.\n- **Backshift y referencias temporales**: si el verbo introductor está en pasado, normalmente retrocedemos un tiempo verbal y ajustamos la expresión temporal. **Línea de tiempo:** ayer: *“Are you ready today?”* → más tarde: *She asked if I was ready that day.* La pareja mínima es **am → was** y **today → that day**; si la situación sigue vigente, también es posible *She asked if I am ready.*\n\nEn el contexto del periodismo y los medios, estas estructuras permiten transmitir información clara sobre entrevistas, preguntas e instrucciones recibidas.",
+      "description_md_target": "To report what someone asked or requested in the past, adjust the sentence structure based on the statement type:\n\n- **Yes/No questions**: Use **asked if** or **asked whether** followed by statement word order (Subject + Verb), without auxiliary verbs like *do/did*.\n- **Wh- questions**: Use **asked where**, *asked what*, etc., keeping affirmative word order without subject-verb inversion.\n- **Requests or commands**: Use **told me to** (or *asked me to*) followed by the verb in infinitive form with *to*.\n- **Backshift and time references**: when the reporting verb is in the past, the tense usually moves one step back and the time expression changes. **Timeline:** yesterday: *“Are you ready today?”* → later: *She asked if I was ready that day.* The minimal pair is **am → was** and **today → that day**; if the situation is still true, *She asked if I am ready* is also possible.\n\nIn news and media contexts, these structures help report interviews, questions, and instructions clearly.",
+      "grammar_structure": "Subject + asked/told + (if / whether / wh-word / to-infinitive) + clause; backshift tense and time references when needed",
+      "conjugation_table": {
+        "name": "reported_questions_requests_structure",
+        "headers": [
+          "Tipo de oración",
+          "Verbo / Conector",
+          "Estructura posterior",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Pregunta Yes/No",
+            "asked if / whether",
+            "Sujeto + Verbo",
+            "She asked if I saw the news."
+          ],
+          [
+            "Pregunta Wh-",
+            "asked where / what",
+            "Sujeto + Verbo",
+            "She asked where the meeting was."
+          ],
+          [
+            "Petición / Orden",
+            "told / asked + objeto",
+            "to + Infinitivo",
+            "He told me to inform the team."
+          ],
+          [
+            "Backshift y tiempo",
+            "asked if",
+            "am → was; today → that day",
+            "Direct: ‘Are you ready today?’ → She asked if I was ready that day."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+          "text_target": "The reporter asked if I saw the news before the company sent the project details.",
+          "translation_form": "El reportero preguntó si vi la noticia antes de que la empresa enviara los detalles del proyecto.",
+          "highlight_words": [
+            "asked",
+            "if"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+          "text_target": "The manager told me to inform the team after she asked where the meeting was.",
+          "translation_form": "La gerenta me dijo que informara al equipo después de preguntar dónde era la reunión.",
+          "highlight_words": [
+            "told me to",
+            "asked where"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "En preguntas indirectas no se invierte el sujeto y el verbo. Di *'She asked where the meeting was'*, no *'She asked where was the meeting'*."
+        },
+        {
+          "type": "tip",
+          "text_md": "Para peticiones y órdenes en estilo indirecto, usa la estructura `told me to` + infinitivo en lugar de repetir la instrucción como una pregunta directa."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Línea de tiempo:** si ayer alguien preguntó *“Are you ready today?”*, al contarlo más tarde decimos *She asked if I was ready that day.* La pareja mínima muestra el backshift **am → was** y el cambio **today → that day**."
+        }
+      ],
+      "common_errors_es": [
+        "Usar auxiliares de pregunta como *did* o *do* en estilo indirecto (ej. *asked if did I see* en lugar de *asked if I saw*).",
+        "Invertir el sujeto y el verbo en preguntas indirectas con *wh-* (ej. *asked where was the office* en lugar de *asked where the office was*).",
+        "Olvidar incluir *to* antes del infinitivo en órdenes o peticiones indirectas (ej. *told me inform* en lugar de *told me to inform*)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa el verbo 'inform' en español?",
+      "options": [
+        "Informar",
+        "Cancelar",
+        "Preguntar",
+        "Llegar"
+      ],
+      "correct_answer": "Informar",
+      "explanation_md": "'Inform' significa informar o dar a conocer una noticia o dato.",
+      "related_lexeme_ids": [
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra o expresión con su traducción correspondiente:",
+      "options": [
+        "inform",
+        "informar",
+        "request",
+        "petición",
+        "question",
+        "pregunta"
+      ],
+      "correct_answer": [
+        "inform=informar",
+        "request=petición",
+        "question=pregunta"
+      ],
+      "explanation_md": "Relacionamos correctamente el verbo y los sustantivos clave de la lección con su significado.",
+      "related_lexeme_ids": [
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la palabra correcta para completar la pregunta reportada: 'The manager asked ______ I was ready.'",
+      "options": [
+        "if",
+        "to",
+        "what if",
+        "that if"
+      ],
+      "correct_answer": "if",
+      "explanation_md": "Para reportar preguntas de tipo sí/no se utiliza 'if' o 'whether'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el verbo adecuado en inglés: 'She called to ______ us about the new schedule.'",
+      "options": null,
+      "correct_answer": "inform",
+      "explanation_md": "Usamos el verbo 'inform' para indicar la acción de dar información sobre un cambio o reunión.",
+      "related_lexeme_ids": [
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Mi jefe me dijo que llamara al cliente.'",
+      "options": null,
+      "correct_answer": "My boss told me to call the client.",
+      "explanation_md": "Para reportar peticiones u órdenes se usa la estructura: subject + told + object + to + infinitive ('told me to call').",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'The journalist asked whether the company had finished the project.'",
+      "options": null,
+      "correct_answer": "El periodista preguntó si la empresa había terminado el proyecto.",
+      "explanation_md": "'Asked whether' se traduce como 'preguntó si' para dar reporte de una pregunta indirecta.",
+      "related_lexeme_ids": [
+        "finish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto y responde: ¿Qué le pidió el gerente a la secretaria?",
+      "options": [
+        "Le pidió que enviara el documento a los clientes antes del mediodía.",
+        "Le pidió que llamara a los clientes por teléfono.",
+        "Le pidió que cambiara el horario de trabajo.",
+        "Le pidió que escribiera un nuevo informe."
+      ],
+      "correct_answer": "Le pidió que enviara el documento a los clientes antes del mediodía.",
+      "explanation_md": "La frase 'he also told the secretary to send the document to all clients before noon' explica la petición realizada.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Yesterday, the manager called a short meeting in the morning. He wanted to inform everyone about the new work schedule. Afterwards, he asked whether the team had any questions about the report. He also told the secretary to send the document to all clients before noon.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el audio y elige la opción correcta: ¿Qué preguntó la gerenta en la entrevista?",
+      "options": [
+        "Preguntó dónde había trabajado antes.",
+        "Preguntó cuándo podía empezar a trabajar.",
+        "Preguntó si tenía auto propio.",
+        "Preguntó cuántos idiomas hablaba."
+      ],
+      "correct_answer": "Preguntó dónde había trabajado antes.",
+      "explanation_md": "En la grabación se escucha 'The manager asked where I worked before', lo que equivale a preguntar dónde trabajó anteriormente.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "My interview was very good yesterday. The manager asked where I worked before. Then, she told me to send my details by email today.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración indirecta con la palabra correspondiente: 'The doctor asked if I felt sick and told me ______ rest at home.'",
+      "options": null,
+      "correct_answer": "to",
+      "explanation_md": "Las instrucciones o peticiones reportadas requieren la partícula 'to' antes del verbo en infinitivo ('told me to rest').",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ella me preguntó dónde estaba la reunión.'",
+      "options": null,
+      "correct_answer": "She asked me where the meeting was.",
+      "explanation_md": "En preguntas indirectas con 'wh-', el orden de la frase cambia a sujeto + verbo ('where the meeting was').",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribe 2 oraciones en inglés contando qué te preguntó alguien y qué te pidió hacer. Usa las estructuras 'asked if/where' y 'told me to'. Para mostrar el cambio temporal, convierte 'Are you ready today?' en 'She asked if I was ready that day.'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la correcta aplicación de preguntas reportadas ('asked if/where'), el backshift temporal y las peticiones ('told me to').",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "My friend asked if I was free that day. He told me to call him later.",
+        "The teacher asked where my book was and told me to read page ten."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato bilingüe en primera persona y responde: ¿Qué pidió la visitante que hiciera la narradora?\n\nRead the first-person story and answer: What did the visitor ask the narrator to do?",
+      "options": [
+        "She told me to inform the other visitors about the press briefing.",
+        "She asked me to cancel the media event the next morning.",
+        "She informed me that the organiser had left the city.",
+        "She asked me to interview the organiser last week."
+      ],
+      "correct_answer": "She told me to inform the other visitors about the press briefing.",
+      "explanation_md": "La petición se relata con 'told me to inform'. La pregunta anterior 'Am I meeting...?' aparece con backshift como 'if I was meeting...'. / The request is reported with 'told me to inform'. The earlier 'Am I meeting...?' question appears with backshift as 'if I was meeting...'.",
+      "related_lexeme_ids": [
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I am helping at a local media event tomorrow. During an interview, a visitor asked if I was meeting the organiser the next morning. I said I was. She then told me to inform the other visitors about the press briefing. I wrote the question and the request in my relay note.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el diálogo bilingüe en primera persona y responde: ¿Qué preguntó la visitante sobre la sesión informativa?\n\nListen to the first-person dialogue and answer: What did the visitor ask about the briefing?",
+      "options": [
+        "She asked where we were holding the briefing.",
+        "She asked if I was cancelling the event next week.",
+        "She told me to interview the organiser yesterday.",
+        "She informed us that the briefing was online."
+      ],
+      "correct_answer": "She asked where we were holding the briefing.",
+      "explanation_md": "La pregunta con 'where' conserva el interrogativo, pero usa orden afirmativo: 'where we were holding'. La forma 'were holding' muestra backshift desde el plan 'are holding'. / A 'where' question keeps the wh-word but uses statement word order: 'where we were holding'. 'Were holding' shows backshift from the plan 'are holding'.",
+      "related_lexeme_ids": [
+        "inform_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "A: I am meeting the organiser tomorrow. B: A visitor asked if you were meeting the organiser the next day. A: I said I was. She also asked where we were holding the briefing. B: What did she request? A: She told me to inform the visitors about the new room.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "inform",
+      "back": "informar / avisar",
+      "hint": "dar información o notificar a alguien",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "inform someone that...",
+      "back": "informar a alguien de que...",
+      "hint": "dar un dato o una noticia a una persona concreta",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "inform someone about something",
+      "back": "informar a alguien sobre algo",
+      "hint": "estructura habitual para dar detalles de un tema",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "keep someone informed",
+      "back": "mantener informado a alguien",
+      "hint": "pedir que te sigan dando noticias o novedades",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "inform the team of a decision",
+      "back": "informar al equipo de una decisión",
+      "hint": "comunicar una decisión a un grupo concreto",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_017",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "inform",
+      "reading": "",
+      "translation": "avisar / advertir / anunciar",
+      "pos": "verb",
+      "example": "The reporter called to inform me about the news and said that the office was closed.",
+      "example_translation": "El reportero llamó para informarme sobre la noticia y dijo que la oficina estaba cerrada.",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "question",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "request",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "solicitud",
+      "lexeme_id": "request",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "asked whether",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "told me to",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_005",
+        "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_005",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "asked if",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_005",
+        "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "asked where",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+        "ex_008",
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "inform",
+      "role": "support",
+      "status": "practiced",
+      "translation": "avisar / advertir / anunciar",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_004",
+        "ex_001",
+        "ex_002",
+        "ex_004",
+        "ex_012",
+        "ex_013",
+        "fc_001",
+        "fc_002",
+        "fc_003",
+        "fc_004",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_003",
+        "exm_004",
+        "exm_005",
+        "ex_007",
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "ex_007",
+        "fc_005",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "news",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noticias",
+      "lexeme_id": "news",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "decision",
+      "role": "support",
+      "status": "emergent",
+      "translation": "decisión",
+      "lexeme_id": "decision",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_007",
+        "ex_008",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "office",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oficina",
+      "lexeme_id": "office",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "close",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cerrar",
+      "lexeme_id": "close_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "better",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mejor",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "receptionist",
+      "role": "support",
+      "status": "emergent",
+      "translation": "recepcionista",
+      "lexeme_id": "receptionist",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "rest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "descansar",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "company",
+      "role": "support",
+      "status": "emergent",
+      "translation": "empresa / compañía",
+      "lexeme_id": "company",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "important",
+      "role": "support",
+      "status": "emergent",
+      "translation": "importante",
+      "lexeme_id": "important_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "colleague",
+      "role": "support",
+      "status": "emergent",
+      "translation": "colega",
+      "lexeme_id": "colleague",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "agenda",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agenda / agendum / horario",
+      "lexeme_id": "agenda",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "final",
+      "role": "support",
+      "status": "emergent",
+      "translation": "final",
+      "lexeme_id": "final_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "reporter",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reportero",
+      "lexeme_id": "reporter",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "plus",
+      "role": "support",
+      "status": "emergent",
+      "translation": "baza / bien / suma",
+      "lexeme_id": "plus",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "send",
+      "role": "support",
+      "status": "emergent",
+      "translation": "enviar",
+      "lexeme_id": "send_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_012",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_008",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "interview",
+      "role": "support",
+      "status": "emergent",
+      "translation": "entrevista",
+      "lexeme_id": "interview",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_012",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "later",
+      "role": "support",
+      "status": "emergent",
+      "translation": "luego / más tarde",
+      "lexeme_id": "later_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "read",
+      "role": "support",
+      "status": "emergent",
+      "translation": "leer",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "email",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_003"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 0,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "ask",
+      "team",
+      "news",
+      "decision",
+      "call",
+      "manager",
+      "doctor",
+      "home",
+      "office",
+      "close",
+      "project",
+      "better",
+      "week",
+      "receptionist",
+      "rest",
+      "company",
+      "important",
+      "colleague",
+      "agenda",
+      "final",
+      "reporter",
+      "plus",
+      "day",
+      "send",
+      "morning",
+      "yesterday",
+      "interview",
+      "work",
+      "want",
+      "later",
+      "read",
+      "email"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Relatar preguntas y peticiones",
+      "title_target": "Quiz: Reporting questions and requests",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado del verbo 'inform'?",
+          "prompt_target": "What is the meaning of the verb 'inform'?",
+          "options": [
+            "informar",
+            "preguntar",
+            "anunciar",
+            "responder"
+          ],
+          "correct_answer": "informar",
+          "explanation_form": "'Inform' significa informar o comunicar datos a alguien.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "inform_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la oración relatada (petición): 'She asked me ____ (ayudar) her.'",
+          "prompt_target": "Complete the reported request: 'She asked me ____ (to help) her.'",
+          "options": null,
+          "correct_answer": "to help",
+          "explanation_form": "Para relatar peticiones u órdenes se utiliza 'ask/tell someone + to-infinitive'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported yes/no and wh-questions, plus reported requests with to-infinitive."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Qué preguntó la gerenta durante la reunión?",
+          "prompt_target": "What did the manager ask during the meeting?",
+          "options": [
+            "Si todos estaban listos para comenzar.",
+            "Si querían trabajar el viernes.",
+            "Si habían enviado los correos.",
+            "Si la oficina estaba abierta."
+          ],
+          "correct_answer": "Si todos estaban listos para comenzar.",
+          "explanation_form": "En el texto dice 'She asked if everyone was ready to start', reportando una pregunta de sí/no.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+            "inform_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Yesterday, the manager called a meeting to inform us about the new project. She asked if everyone was ready to start. She also asked us to check our emails for details. Later, she informed the team that the office would close early on Friday.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué le pidió la profesora al estudiante?",
+          "prompt_target": "What did the teacher ask the student to do?",
+          "options": [
+            "Que trajera la tarea mañana.",
+            "Que hiciera la tarea en clase.",
+            "Que llamara a sus padres.",
+            "Que leyera el libro en casa."
+          ],
+          "correct_answer": "Que trajera la tarea mañana.",
+          "explanation_form": "La profesora usó una petición relatada: 'she asked me to bring it tomorrow'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported yes/no and wh-questions, plus reported requests with to-infinitive."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "My teacher asked me where my homework was. I told her that I left it at home. Then she asked me to bring it tomorrow.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué preguntó el doctor?",
+          "prompt_target": "What did the doctor ask?",
+          "options": [
+            "Si tenía algún dolor.",
+            "Si quería una cita nueva.",
+            "Si la clínica estaba cerrada.",
+            "Si había tomado la medicina."
+          ],
+          "correct_answer": "Si tenía algún dolor.",
+          "explanation_form": "El doctor usó una pregunta relatada de sí/no: 'He asked if I had any pain'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+            "inform_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The doctor informed me that the clinic was open. He asked if I had any pain. He also told me to take the medicine.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una pregunta relatada (wh-question):",
+          "prompt_target": "Put the words in order to form a reported wh-question:",
+          "options": [
+            "He",
+            "asked",
+            "where",
+            "I",
+            "lived."
+          ],
+          "correct_answer": "He asked where I lived.",
+          "explanation_form": "En las preguntas relatadas con 'wh-', la estructura sigue el orden afirmación: sujeto + verbo.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported yes/no and wh-questions, plus reported requests with to-infinitive."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la pregunta indirecta relatada: 'They asked ____ we wanted coffee.'",
+          "prompt_target": "Complete the reported indirect question: 'They asked ____ we wanted coffee.'",
+          "options": null,
+          "correct_answer": "if",
+          "explanation_form": "Las preguntas relatadas de sí/no usan 'if' (o 'whether') para conectar con la oración principal.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "Reported yes/no and wh-questions, plus reported requests with to-infinitive."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "Elige la oración que usa 'inform' de forma correcta para transmitir información:",
+          "prompt_target": "Choose the sentence that correctly uses 'inform' to pass on information:",
+          "options": [
+            "She informed us that the train was delayed.",
+            "She asked us that the train was delayed.",
+            "She ordered if the train was delayed.",
+            "She wanted that the train was delayed."
+          ],
+          "correct_answer": "She informed us that the train was delayed.",
+          "explanation_form": "'Inform [someone] that...' es el patrón adecuado para reportar información factual.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_005",
+          "references_lesson_topics": [
+            "inform_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato en primera persona: ¿Qué preguntó el editor sobre la mañana siguiente?",
+          "prompt_target": "Read the first-person story: What did the editor ask about the next morning?",
+          "options": [
+            "He asked if I was interviewing the organiser the next morning.",
+            "He asked where was I interviewing the organiser tomorrow.",
+            "He told me to inform the witnesses last week.",
+            "He informed me that the interview had been cancelled."
+          ],
+          "correct_answer": "He asked if I was interviewing the organiser the next morning.",
+          "explanation_form": "La pregunta de sí/no usa 'asked if' y hace backshift de 'am interviewing' a 'was interviewing'; 'tomorrow' cambia a 'the next morning'.",
+          "explanation_target": "The yes/no question uses 'asked if' and backshifts 'am interviewing' to 'was interviewing'; 'tomorrow' changes to 'the next morning'.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "Reported yes/no and wh-questions, plus reported requests with to-infinitive."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I am covering a local news event tomorrow. My editor asked if I was interviewing the organiser the next morning. I said yes. He also asked where I was meeting the witnesses and told me to inform him after the interview.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el diálogo en primera persona: ¿Qué pidió la editora que hiciera la persona?",
+          "prompt_target": "Listen to the first-person dialogue: What did the editor ask the speaker to do?",
+          "options": [
+            "She told the speaker to send the report by noon.",
+            "She asked the speaker to cancel the interview next week.",
+            "She informed the speaker that the witness had left yesterday.",
+            "She asked the speaker where the organiser lived."
+          ],
+          "correct_answer": "She told the speaker to send the report by noon.",
+          "explanation_form": "La petición se relata con 'told + objeto + to-infinitive': 'She told me to send the report by noon'.",
+          "explanation_target": "The request is reported with 'told + object + to-infinitive': 'She told me to send the report by noon'.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "Reported yes/no and wh-questions, plus reported requests with to-infinitive."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "A: I am recording a short report tomorrow. B: The editor asked if you were recording it the next day. A: Yes, and she asked where I was meeting the witness. She told me to send the report by noon. B: Did you agree? A: I said I would.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Preguntas indirectas: ¡cuidado con el orden!\n\nAl reportar una pregunta (*reported questions*), la oración deja de ser una interrogación directa y pasa a ser una afirmación. Por eso, el sujeto se coloca **antes** del verbo y los auxiliares como *do* o *did* desaparecen.\n\n- **Preguntas de sí/no:** Usa **if** o **whether** para conectar las oraciones.\n  - Directa: *\"Are you ready?\"*\n  - Reportada: *She asked if I was ready.*\n- **Preguntas con Wh-:** Conserva la palabra interrogativa (*where, what, why*), pero cambia el orden a sujeto + verbo.\n  - Directa: *\"Where do you live?\"*\n  - Reportada: *He asked where I lived.*\n\n### Línea de tiempo y pareja mínima\n\nSi ayer alguien preguntó *\"Are you ready today?\"*, al contarlo más tarde decimos *She asked if I was ready that day.* El backshift cambia **am → was** y la referencia temporal **today → that day**. Si la situación sigue vigente, también es posible *She asked if I am ready.*\n\n## Peticiones y el uso de \"inform\"\n\nPara transmitir peticiones u órdenes (*reported requests*), la estructura más común es **verbo + objeto + to + infinitivo** (*She asked me to call the editor*).\n\nAl usar el verbo **inform** (informar), ten en cuenta este detalle clave:\n- **Requiere objeto personal:** En inglés debes especificar a quién informas. Di *\"They informed us that...\"* en lugar de *\"They informed that...\"*.\n- Para un aviso público, es natural usar una expresión nominal como *\"The station made an announcement.\"*; **inform** se usa para comunicar datos a una persona o grupo específico.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:29:53Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

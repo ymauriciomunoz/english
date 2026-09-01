@@ -1,0 +1,1775 @@
+{
+  "id": "lesson_030",
+  "position": 30,
+  "unit_id": 4,
+  "course_id": "en.A2",
+  "title_form": "Flight delays and cancellations",
+  "title_target": "Demoras y cancelaciones de vuelos",
+  "theme_focus": "travel",
+  "learning_objectives": [
+    "Can understand and communicate simple information about flight delays and cancellations."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_029"
+  ],
+  "grammar_focus": [
+    "past simple: questions with did (review)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "delay",
+        "delayed_adj",
+        "cancellation",
+        "cancelled_adj",
+        "on_time_phrase",
+        "take_off_verb",
+        "catch_verb",
+        "arrive_verb"
+      ],
+      "chunk_ids": [
+        "chunk_a2_my_flight_is_delayed"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "flight",
+        "airport",
+        "passenger",
+        "passport"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana está en el aeropuerto esperando su vuelo a Madrid. De repente, escucha un anuncio: su vuelo está demorado. Ella habla con un empleado para entender la situación y luego llama a su amigo para contarle que su vuelo fue cancelado y que tomará otro vuelo más tarde.",
+  "introduction_md": "## Demoras y cancelaciones de vuelos\n\nViajar es emocionante, pero a veces los vuelos no salen a tiempo. En esta lección vas a aprender a entender y comunicar información simple sobre demoras y cancelaciones.\n\n**¿Qué vas a lograr?**\n\n- Entender anuncios sobre vuelos demorados o cancelados.\n- Preguntar y responder sobre horarios de vuelos.\n- Explicar si tu vuelo salió a tiempo o llegó tarde.\n\nEste tema es muy útil para viajar con confianza. ¡Vamos a practicar con situaciones reales de aeropuerto!",
+  "intro_target": "## Flight delays and cancellations\n\nTraveling is exciting, but sometimes flights do not leave on time. In this lesson, you will learn to understand and communicate simple information about delays and cancellations.\n\n**What will you achieve?**\n\n- Understand announcements about delayed or cancelled flights.\n- Ask and answer questions about flight times.\n- Explain if your flight left on time or arrived late.\n\nThis topic is very useful for traveling with confidence. Let's practice with real airport situations!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "delay",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The delay is two hours, so we can have a coffee.",
+      "translation_form": "El retraso es de dos horas, así que podemos tomar un café.",
+      "highlight_words": [
+        "delay"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "cancellation",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Did you hear about the cancellation of the morning flight?",
+      "translation_form": "¿Escuchaste sobre la cancelación del vuelo de la mañana?",
+      "highlight_words": [
+        "cancellation",
+        "flight"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "cancelled_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The flight is cancelled, so we need to book a new one.",
+      "translation_form": "El vuelo está cancelado, así que necesitamos reservar uno nuevo.",
+      "highlight_words": [
+        "cancelled",
+        "flight"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "take_off_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The plane takes off at noon, so we have time for lunch.",
+      "translation_form": "El avión despega al mediodía, así que tenemos tiempo para almorzar.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "catch_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Did you catch the bus to the airport, or did you take a taxi?",
+      "translation_form": "¿Tomaste el bus al aeropuerto, o tomaste un taxi?",
+      "highlight_words": [
+        "catch",
+        "airport"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We arrived at the airport early, but the flight was delayed.",
+      "translation_form": "Llegamos al aeropuerto temprano, pero el vuelo estaba retrasado.",
+      "highlight_words": [
+        "arrived",
+        "airport",
+        "delayed"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "on_time_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The passenger asked if the train was on time, and it was.",
+      "translation_form": "El pasajero preguntó si el tren estaba a tiempo, y lo estaba.",
+      "highlight_words": [
+        "on time",
+        "passenger"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "past simple: questions with did (review)",
+      "title_form": "Pasado simple: preguntas con did (repaso)",
+      "title_target": "Past simple: questions with did (review)",
+      "description_md_form": "Para preguntar sobre **acciones pasadas** en inglés, usamos el auxiliar **did** + el **verbo en forma base** (sin -ed ni cambios).\n\n**Estructura:**\n\n`Did + sujeto + verbo base + ...?`\n\n**Ejemplos:**\n\n- `Did you catch the bus?` (¿Tomaste el bus?)\n- `Did the plane take off on time?` (¿Despegó el avión a tiempo?)\n\n**Importante:** el verbo principal **no cambia** cuando usamos *did*. Decimos *Did you **arrive**?*, NO *Did you **arrived**?*.\n\n**Respuestas cortas:**\n\n- Yes, I **did**. / No, I **didn't**.\n\n**Preguntas con *wh-*:**\n\n`What time + did + sujeto + verbo base?`\n\n- `What time did the flight arrive?` (¿A qué hora llegó el vuelo?)",
+      "description_md_target": "To ask about **past actions** in English, we use the auxiliary **did** + the **base form of the verb** (without -ed or changes).\n\n**Structure:**\n\n`Did + subject + base verb + ...?`\n\n**Examples:**\n\n- `Did you catch the bus?`\n- `Did the plane take off on time?`\n\n**Important:** the main verb **does not change** when we use *did*. We say *Did you **arrive**?*, NOT *Did you **arrived**?*.\n\n**Short answers:**\n\n- Yes, I **did**. / No, I **didn't**.\n\n**Wh- questions:**\n\n`What time + did + subject + base verb?`\n\n- `What time did the flight arrive?`",
+      "grammar_structure": "Did + subject + base verb + ...? / Wh- + did + subject + base verb?",
+      "conjugation_table": {
+        "name": "past_simple_questions_did",
+        "headers": [
+          "Pregunta",
+          "Respuesta corta"
+        ],
+        "rows": [
+          [
+            "Did I arrive?",
+            "Yes, I did. / No, I didn't."
+          ],
+          [
+            "Did you catch the bus?",
+            "Yes, I did. / No, I didn't."
+          ],
+          [
+            "Did he/she take off?",
+            "Yes, he/she did. / No, he/she didn't."
+          ],
+          [
+            "Did we arrive on time?",
+            "Yes, we did. / No, we didn't."
+          ],
+          [
+            "Did they cancel the flight?",
+            "Yes, they did. / No, they didn't."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: questions with did (review)",
+          "text_target": "Did you hear about the cancellation of the morning flight?",
+          "translation_form": "¿Escuchaste sobre la cancelación del vuelo de la mañana?",
+          "highlight_words": [
+            "did",
+            "hear"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: questions with did (review)",
+          "text_target": "Did the plane take off on time, or was it delayed?",
+          "translation_form": "¿Despegó el avión a tiempo, o estaba retrasado?",
+          "highlight_words": [
+            "did",
+            "take",
+            "off"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** con *did*, el verbo principal va en **forma base**. No digas *Did you arrived?* — di *Did you arrive?*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** *Did you **cancelled** the flight?* → Correcto: *Did you **cancel** the flight?*"
+        }
+      ],
+      "common_errors_es": [
+        "Usar el verbo en pasado con did: *Did you arrived?* → Correcto: *Did you arrive?*",
+        "Olvidar el auxiliar did: *You catch the bus?* → Correcto: *Did you catch the bus?*",
+        "Confundir did con was/were: *Did you at the airport?* → Correcto: *Were you at the airport?*"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa '<delay>'?",
+      "options": [
+        "retraso",
+        "cancelación",
+        "llegada",
+        "despegue"
+      ],
+      "correct_answer": "retraso",
+      "explanation_md": "Delay significa retraso, es el tiempo de espera extra.",
+      "related_lexeme_ids": [
+        "delay"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa '<cancelled>'?",
+      "options": [
+        "cancelado",
+        "retrasado",
+        "a tiempo",
+        "despegado"
+      ],
+      "correct_answer": "cancelado",
+      "explanation_md": "Cancelled significa cancelado, que ya no va a ocurrir.",
+      "related_lexeme_ids": [
+        "cancelled_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "take off",
+        "despegar",
+        "arrive",
+        "llegar",
+        "catch",
+        "tomar (un medio de transporte)"
+      ],
+      "correct_answer": [
+        "take off=despegar",
+        "arrive=llegar",
+        "catch=tomar (un medio de transporte)"
+      ],
+      "explanation_md": "Estas son acciones clave en un viaje en avión.",
+      "related_lexeme_ids": [
+        "take_off_verb",
+        "arrive_verb",
+        "catch_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "El vuelo de las 9 está cancelado. ¿Qué opción describe la situación?",
+      "options": [
+        "The flight is on time.",
+        "The flight is cancelled.",
+        "The flight is delayed.",
+        "The flight takes off now."
+      ],
+      "correct_answer": "The flight is cancelled.",
+      "explanation_md": "Cancelled describe un vuelo que ya no va a salir.",
+      "related_lexeme_ids": [
+        "cancelled_adj",
+        "cancellation"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'The plane ____ at noon.' (despega)",
+      "options": null,
+      "correct_answer": "takes off",
+      "explanation_md": "Take off significa despegar, cuando el avión sale al aire.",
+      "related_lexeme_ids": [
+        "take_off_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la pregunta correcta en pasado simple?",
+      "options": [
+        "Did you catch the bus?",
+        "Did you caught the bus?",
+        "Do you catch the bus?",
+        "Did you catch the bus yesterday?"
+      ],
+      "correct_answer": "Did you catch the bus?",
+      "explanation_md": "En preguntas con did, el verbo va en su forma base: catch.",
+      "related_lexeme_ids": [
+        "catch_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'El vuelo está retrasado.'",
+      "options": null,
+      "correct_answer": "The flight is delayed.",
+      "explanation_md": "Delayed describe un vuelo que llega tarde.",
+      "related_lexeme_ids": [
+        "delayed_adj",
+        "flight"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_my_flight_is_delayed"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Did you arrive on time?'",
+      "options": null,
+      "correct_answer": "¿Llegaste a tiempo?",
+      "explanation_md": "On time significa a tiempo, puntual.",
+      "related_lexeme_ids": [
+        "arrive_verb",
+        "on_time_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'The ____ is two hours, so we can have a coffee.'",
+      "options": null,
+      "correct_answer": "delay",
+      "explanation_md": "Delay es el retraso, el tiempo de espera.",
+      "related_lexeme_ids": [
+        "delay"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué está enojada Ana?",
+      "options": [
+        "Because her flight is cancelled.",
+        "Because her flight is delayed.",
+        "Because she lost her passport.",
+        "Because she missed the train."
+      ],
+      "correct_answer": "Because her flight is delayed.",
+      "explanation_md": "El texto dice que el vuelo de Ana está retrasado (delayed) y por eso está enojada.",
+      "related_lexeme_ids": [
+        "delayed_adj",
+        "delay",
+        "catch_verb",
+        "passport"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_my_flight_is_delayed"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is at the airport. Her flight to Madrid is delayed. The delay is three hours. She is not happy. She calls her friend and says, 'My flight is delayed. I can't arrive on time.' Her friend says, 'Don't worry. You can take a later flight.' Ana says, 'But I need to catch the train at the station!'",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cuándo despega el avión?",
+      "options": [
+        "In the morning.",
+        "At noon.",
+        "In the evening.",
+        "At midnight."
+      ],
+      "correct_answer": "At noon.",
+      "explanation_md": "El audio dice que el avión despega al mediodía (at noon).",
+      "related_lexeme_ids": [
+        "take_off_verb",
+        "on_time_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The plane takes off at noon. The flight is on time. We can have lunch at the airport. After lunch, we can go to the gate.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Imagina que estás en el aeropuerto y tu vuelo está retrasado. Escribí 2-3 oraciones en inglés explicando la situación y qué vas a hacer.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'delayed', 'delay' y vocabulario de viajes.",
+      "related_lexeme_ids": [
+        "delayed_adj",
+        "delay",
+        "flight",
+        "airport"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_my_flight_is_delayed"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "My flight is delayed. The delay is two hours. I can have a coffee and read a book.",
+        "The flight is delayed, so I can't arrive on time. I will call my friend and wait at the airport."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "delay",
+      "back": "retraso",
+      "hint": "sustantivo, problema de viaje",
+      "lexeme_id": "delay",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "delayed",
+      "back": "retrasado / demorado",
+      "hint": "adjetivo, el vuelo está...",
+      "lexeme_id": "delayed_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "cancellation",
+      "back": "cancelación",
+      "hint": "sustantivo, problema de viaje",
+      "lexeme_id": "cancellation",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "cancelled",
+      "back": "cancelado",
+      "hint": "adjetivo, el vuelo está...",
+      "lexeme_id": "cancelled_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "on time",
+      "back": "a tiempo / puntual",
+      "hint": "frase, el tren llegó...",
+      "lexeme_id": "on_time_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "take off",
+      "back": "despegar (avión) / quitarse (ropa)",
+      "hint": "verbo, el avión...",
+      "lexeme_id": "take_off_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "catch",
+      "back": "tomar (un tren, un bus) / atrapar",
+      "hint": "verbo, ... el tren de las 5",
+      "lexeme_id": "catch_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "arrive",
+      "back": "llegar",
+      "hint": "verbo, ... al aeropuerto",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "My flight is delayed.",
+      "back": "Mi vuelo está retrasado.",
+      "hint": "frase útil en el aeropuerto",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_my_flight_is_delayed",
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "flight",
+      "back": "vuelo",
+      "hint": "sustantivo, viajas en...",
+      "lexeme_id": "flight",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "airport",
+      "back": "aeropuerto",
+      "hint": "lugar, llegas antes del vuelo",
+      "lexeme_id": "airport",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "passenger",
+      "back": "pasajero",
+      "hint": "persona que viaja",
+      "lexeme_id": "passenger",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_030",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "delay",
+      "reading": "",
+      "translation": "retraso",
+      "pos": "noun",
+      "example": "The delay is two hours, so we can have a coffee.",
+      "example_translation": "El retraso es de dos horas, así que podemos tomar un café.",
+      "lexeme_id": "delay",
+      "chunk_id": null
+    },
+    {
+      "target_word": "delayed",
+      "reading": "",
+      "translation": "retrasado / demorado",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "delayed_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cancellation",
+      "reading": "",
+      "translation": "cancelacion",
+      "pos": "noun",
+      "example": "Did you hear about the cancellation of the morning flight?",
+      "example_translation": "¿Escuchaste sobre la cancelación del vuelo de la mañana?",
+      "lexeme_id": "cancellation",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cancelled",
+      "reading": "",
+      "translation": "cancelado",
+      "pos": "adjective",
+      "example": "The flight is cancelled, so we need to book a new one.",
+      "example_translation": "El vuelo está cancelado, así que necesitamos reservar uno nuevo.",
+      "lexeme_id": "cancelled_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "on time",
+      "reading": "",
+      "translation": "a tiempo / puntual",
+      "pos": "phrase",
+      "example": "The passenger asked if the train was on time, and it was.",
+      "example_translation": "El pasajero preguntó si el tren estaba a tiempo, y lo estaba.",
+      "lexeme_id": "on_time_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "take off",
+      "reading": "",
+      "translation": "quitarse (ropa) / despegar",
+      "pos": "verb",
+      "example": "The plane takes off at noon, so we have time for lunch.",
+      "example_translation": "El avión despega al mediodía, así que tenemos tiempo para almorzar.",
+      "lexeme_id": "take_off_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "catch",
+      "reading": "",
+      "translation": "atrapar / tomar (un tren, un bus)",
+      "pos": "verb",
+      "example": "Did you catch the bus to the airport, or did you take a taxi?",
+      "example_translation": "¿Tomaste el bus al aeropuerto, o tomaste un taxi?",
+      "lexeme_id": "catch_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "arrive",
+      "reading": "",
+      "translation": "llegar",
+      "pos": "verb",
+      "example": "We arrived at the airport early, but the flight was delayed.",
+      "example_translation": "Llegamos al aeropuerto temprano, pero el vuelo estaba retrasado.",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "My flight is delayed.",
+      "reading": "",
+      "translation": "Mi vuelo está retrasado.",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_my_flight_is_delayed"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "delay",
+      "role": "support",
+      "status": "practiced",
+      "translation": "retraso",
+      "lexeme_id": "delay",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "delayed",
+      "role": "support",
+      "status": "practiced",
+      "translation": "retrasado / demorado",
+      "lexeme_id": "delayed_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "cancellation",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cancelacion",
+      "lexeme_id": "cancellation",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_004",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "cancelled",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cancelado",
+      "lexeme_id": "cancelled_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_004",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "on time",
+      "role": "support",
+      "status": "practiced",
+      "translation": "a tiempo / puntual",
+      "lexeme_id": "on_time_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_008",
+        "ex_011",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "take off",
+      "role": "support",
+      "status": "practiced",
+      "translation": "quitarse (ropa) / despegar",
+      "lexeme_id": "take_off_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_005",
+        "ex_011",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "catch",
+      "role": "support",
+      "status": "practiced",
+      "translation": "atrapar / tomar (un tren, un bus)",
+      "lexeme_id": "catch_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_003",
+        "ex_006",
+        "ex_010",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "arrive",
+      "role": "support",
+      "status": "practiced",
+      "translation": "llegar",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_003",
+        "ex_008",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "My flight is delayed.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Mi vuelo está retrasado.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_my_flight_is_delayed",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "flight",
+      "role": "support",
+      "status": "review",
+      "translation": "vuelo",
+      "lexeme_id": "flight",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_012",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "airport",
+      "role": "support",
+      "status": "review",
+      "translation": "aeropuerto",
+      "lexeme_id": "airport",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "passenger",
+      "role": "support",
+      "status": "review",
+      "translation": "pasajero",
+      "lexeme_id": "passenger",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "exm_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "exm_006",
+        "ex_010",
+        "ex_011",
+        "fc_006",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "delay",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "emergent",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011",
+        "fc_006",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "quiz_001:q_003",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "hour",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "plane",
+      "role": "support",
+      "status": "emergent",
+      "translation": "avión",
+      "lexeme_id": "plane",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "train",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tren",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "lunch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "almuerzo",
+      "lexeme_id": "lunch",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "noon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mediodía",
+      "lexeme_id": "noon",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "early",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "bus",
+      "role": "support",
+      "status": "emergent",
+      "translation": "autobús",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "hear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oír / escuchar",
+      "lexeme_id": "hear_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "taxi",
+      "role": "support",
+      "status": "emergent",
+      "translation": "taxi",
+      "lexeme_id": "taxi",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "wait",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "o'clock",
+      "role": "support",
+      "status": "emergent",
+      "translation": "en punto",
+      "lexeme_id": "oclock_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "clock",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reloj",
+      "lexeme_id": "clock",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "listen to",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuchar",
+      "lexeme_id": "listen_to_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "read",
+      "role": "support",
+      "status": "emergent",
+      "translation": "leer",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "sorry",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lo siento",
+      "lexeme_id": "sorry_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "order",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ordenar / pedir",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "fill",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llenar",
+      "lexeme_id": "fill",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "fill in",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rellenar",
+      "lexeme_id": "fill_in_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "departure",
+      "role": "support",
+      "status": "emergent",
+      "translation": "salida",
+      "lexeme_id": "departure",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 9,
+    "review_support_count": 3,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "time",
+      "take",
+      "delay",
+      "off",
+      "book",
+      "ask",
+      "hour",
+      "plane",
+      "need",
+      "coffee",
+      "train",
+      "lunch",
+      "noon",
+      "early",
+      "morning",
+      "bus",
+      "hear",
+      "taxi",
+      "wait",
+      "word",
+      "o'clock",
+      "clock",
+      "say",
+      "listen to",
+      "call",
+      "read",
+      "friend",
+      "sorry",
+      "order",
+      "fill",
+      "fill in",
+      "departure"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Demoras y cancelaciones de vuelos",
+      "title_target": "Quiz: Flight delays and cancellations",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el anuncio y elige la respuesta correcta:",
+          "prompt_target": "Listen to the announcement and choose the correct answer:",
+          "options": [
+            "The flight is on time.",
+            "The flight is delayed.",
+            "The flight is cancelled.",
+            "The flight is early."
+          ],
+          "correct_answer": "The flight is delayed.",
+          "explanation_form": "El anuncio dice 'Flight 207 to Madrid is delayed', así que el vuelo está demorado.",
+          "explanation_target": "The announcement says 'Flight 207 to Madrid is delayed', so the flight is delayed.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "delay",
+            "delayed_adj",
+            "chunk_a2_my_flight_is_delayed",
+            "flight",
+            "airport",
+            "passenger"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "Attention passengers. Flight 207 to Madrid is delayed. The new departure time is at 8 o'clock. We are sorry for the delay. Please wait at the airport.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha la conversación y elige la respuesta correcta:",
+          "prompt_target": "Listen to the conversation and choose the correct answer:",
+          "options": [
+            "The flight is delayed.",
+            "The flight is on time.",
+            "The flight is cancelled.",
+            "The flight is early."
+          ],
+          "correct_answer": "The flight is cancelled.",
+          "explanation_form": "La persona del mostrador dice 'your flight is cancelled', así que el vuelo está cancelado.",
+          "explanation_target": "The person at the desk says 'your flight is cancelled', so the flight is cancelled.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cancellation",
+            "cancelled_adj",
+            "chunk_a2_my_flight_is_delayed",
+            "flight",
+            "passport"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "Excuse me. Is my flight to Paris on time? I am sorry, but your flight is cancelled. Did you say cancelled? Yes, I did. Please go to the service desk.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y elige la respuesta correcta:",
+          "prompt_target": "Read the text and choose the correct answer:",
+          "options": [
+            "Anna's flight is cancelled.",
+            "Anna's flight is on time.",
+            "Anna's flight is delayed.",
+            "Anna's flight is early."
+          ],
+          "correct_answer": "Anna's flight is delayed.",
+          "explanation_form": "El texto dice 'But the flight is delayed', así que el vuelo de Anna está demorado.",
+          "explanation_target": "The text says 'But the flight is delayed', so Anna's flight is delayed.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "delay",
+            "delayed_adj",
+            "catch_verb",
+            "flight",
+            "airport",
+            "passenger"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Anna is at the airport. She wants to catch her flight to London. But the flight is delayed. She is nervous. She asks a worker, 'When is the new departure time?' The worker says, 'At 10 o'clock. Please wait.' Anna waits and reads a book.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'The flight is ____. It arrives at 8 o'clock.'",
+          "prompt_target": "Fill in the blank: 'The flight is ____. It arrives at 8 o'clock.'",
+          "options": null,
+          "correct_answer": "on time",
+          "explanation_form": "La frase 'on time' significa 'a tiempo'. El vuelo llega a las 8, así que está a tiempo.",
+          "explanation_target": "The phrase 'on time' means 'a tiempo'. The flight arrives at 8, so it is on time.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "on_time_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "my",
+            "flight",
+            "is",
+            "delayed"
+          ],
+          "correct_answer": "my flight is delayed",
+          "explanation_form": "La frase correcta es 'My flight is delayed' (Mi vuelo está demorado).",
+          "explanation_target": "The correct sentence is 'My flight is delayed'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "delayed_adj",
+            "chunk_a2_my_flight_is_delayed"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "did",
+            "you",
+            "catch",
+            "your",
+            "flight"
+          ],
+          "correct_answer": "did you catch your flight",
+          "explanation_form": "La pregunta correcta es 'Did you catch your flight?' (¿Alcanzaste tu vuelo?).",
+          "explanation_target": "The correct question is 'Did you catch your flight?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "catch_verb",
+            "past_simple"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'cancellation'?",
+          "prompt_target": "What does 'cancellation' mean?",
+          "options": [
+            "Demora",
+            "Cancelación",
+            "Llegada",
+            "Salida"
+          ],
+          "correct_answer": "Cancelación",
+          "explanation_form": "'Cancellation' significa 'cancelación'.",
+          "explanation_target": "'Cancellation' means 'cancelación'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cancellation"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice 'llegar' en inglés?",
+          "prompt_target": "How do you say 'llegar' in English?",
+          "options": [
+            "delay",
+            "arrive",
+            "catch",
+            "cancel"
+          ],
+          "correct_answer": "arrive",
+          "explanation_form": "'Llegar' se dice 'arrive' en inglés.",
+          "explanation_target": "'Llegar' is 'arrive' in English.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "arrive_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ you arrive on time?'",
+          "prompt_target": "Fill in the blank: '____ you arrive on time?'",
+          "options": null,
+          "correct_answer": "Did",
+          "explanation_form": "Para preguntar en pasado simple usamos 'Did' al inicio de la pregunta.",
+          "explanation_target": "To ask in the past simple we use 'Did' at the beginning of the question.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "arrive_verb",
+            "past_simple"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "delay",
+            "demora",
+            "passport",
+            "pasaporte",
+            "take off",
+            "despegar",
+            "cancelled",
+            "cancelado"
+          ],
+          "correct_answer": [
+            "delay=demora",
+            "passport=pasaporte",
+            "take off=despegar",
+            "cancelled=cancelado"
+          ],
+          "explanation_form": "Estas son las palabras clave de la lección sobre vuelos.",
+          "explanation_target": "These are the key words from the lesson about flights.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "delay",
+            "take_off_verb",
+            "cancelled_adj",
+            "passport"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'take off'?",
+          "prompt_target": "What does 'take off' mean?",
+          "options": [
+            "Aterrizar",
+            "Despegar",
+            "Cancelar",
+            "Demorar"
+          ],
+          "correct_answer": "Despegar",
+          "explanation_form": "'Take off' significa 'despegar' (cuando el avión sale del suelo).",
+          "explanation_target": "'Take off' means 'despegar' (when the plane leaves the ground).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "take_off_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta?",
+          "prompt_target": "Which is the correct form?",
+          "options": [
+            "The flight is cancel.",
+            "The flight is cancelled.",
+            "The flight is cancelling.",
+            "The flight cancel."
+          ],
+          "correct_answer": "The flight is cancelled.",
+          "explanation_form": "Usamos 'cancelled' (adjetivo) para describir el vuelo: 'The flight is cancelled'.",
+          "explanation_target": "We use 'cancelled' (adjective) to describe the flight: 'The flight is cancelled'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cancelled_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Errores comunes con 'delay' y 'cancel'\n\n- **'Delay' es un sustantivo y un verbo.** Decimos *\"The flight has a delay\"* (sustantivo) o *\"The flight is delayed\"* (adjetivo). No digas *\"The flight is delay\"*.\n- **'Cancel' es el verbo, 'cancelled' el adjetivo.** *\"They cancelled the flight\"* (verbo) → *\"The flight is cancelled\"* (adjetivo).\n- **'On time' vs 'in time':** *\"On time\"* significa a la hora prevista (el vuelo sale a las 10:00 y sale a las 10:00). *\"In time\"* significa con margen antes de algo (llegar al aeropuerto antes de que cierre el check-in).\n\n## Preguntas con 'did' para hablar de vuelos\n\n- Para preguntar por el pasado, usa **'Did' + verbo en infinitivo**: *\"Did the flight arrive on time?\"* (no *\"Did the flight arrived?\"*).\n- **'Take off'** (despegar) y **'catch'** (tomar/atrapar) son verbos irregulares: *take off → took off*, *catch → caught*. Úsalos con 'did' en preguntas: *\"Did you catch your flight?\"*.\n- En conversaciones reales, combina todo: *\"My flight was delayed, but I caught it. Did yours arrive on time?\"*",
+  "metadata": {
+    "generated_at": "2026-08-31T18:54:34Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

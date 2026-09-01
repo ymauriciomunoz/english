@@ -1,0 +1,1864 @@
+{
+  "id": "lesson_019",
+  "position": 19,
+  "unit_id": 6,
+  "course_id": "en.B2",
+  "title_form": "Reporting what the doctor asked me",
+  "title_target": "Reporting what the doctor asked me",
+  "theme_focus": "health",
+  "learning_objectives": [
+    "Can report yes/no questions a doctor asked using 'if'.",
+    "Can report wh-questions a doctor asked using question words like 'where'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_002"
+  ],
+  "grammar_focus": [
+    "reported questions: he asked me if, he asked me where"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "surgery",
+        "wound_verb",
+        "get_over_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "factor_2"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "surgery",
+        "role": "topic",
+        "rationale": "The place where the consultation happens."
+      },
+      {
+        "term": "wound",
+        "role": "topic",
+        "rationale": "A common medical issue the doctor might ask about."
+      },
+      {
+        "term": "get over",
+        "role": "topic",
+        "rationale": "A phrasal verb for recovering from an illness."
+      },
+      {
+        "term": "symptom",
+        "role": "topic",
+        "rationale": "A key term for describing health problems."
+      },
+      {
+        "term": "prescription",
+        "role": "topic",
+        "rationale": "What the doctor might ask about or provide."
+      },
+      {
+        "term": "ask",
+        "role": "functional",
+        "rationale": "The verb needed to form reported questions."
+      },
+      {
+        "term": "explain",
+        "role": "functional",
+        "rationale": "Verb for explaining the doctor's questions or the patient's answers."
+      },
+      {
+        "term": "if",
+        "role": "grammar_support",
+        "rationale": "Used to report yes/no questions."
+      },
+      {
+        "term": "where",
+        "role": "grammar_support",
+        "rationale": "A question word used to report wh-questions."
+      }
+    ]
+  },
+  "scenario": "Carlos tuvo una pequeña cirugía y ahora va al doctor para una revisión. El doctor le pregunta sobre su herida, sus síntomas y su recuperación. Después, Carlos le cuenta a su amiga Laura lo que el doctor le preguntó, usando reported questions.",
+  "introduction_md": "## Reporting what the doctor asked me\n\nEn esta lección vas a aprender a **reportar preguntas que te hizo el doctor** usando *if* y palabras como *where*. Esto es muy útil cuando le cuentas a otra persona, como un amigo o un familiar, lo que el médico te preguntó durante una consulta.\n\n### ¿Qué vas a lograr?\n\n- **Reportar preguntas de sí/no** que el doctor te hizo, usando *if*.\n- **Reportar preguntas con *wh-*** (como *where*, *when*, *why*) que el doctor te hizo.\n\n### ¿Por qué es importante?\n\n- Te ayuda a **explicar** con precisión lo que pasó en una consulta médica.\n- Es una habilidad clave para **conversaciones cotidianas** y para **contar experiencias**.\n- Mejora tu capacidad de **mediar información** entre el doctor y otras personas.\n\nVamos a practicar con un escenario real: una visita al médico por una herida. ¡Empecemos!",
+  "intro_target": "## Reporting what the doctor asked me\n\nIn this lesson, you will learn how to **report questions the doctor asked you** using *if* and words like *where*. This is very useful when you tell someone else, like a friend or a family member, what the doctor asked you during a consultation.\n\n### What will you achieve?\n\n- **Report yes/no questions** the doctor asked you, using *if*.\n- **Report wh-questions** (like *where*, *when*, *why*) the doctor asked you.\n\n### Why is it important?\n\n- It helps you **explain** accurately what happened in a medical consultation.\n- It is a key skill for **everyday conversations** and for **telling experiences**.\n- It improves your ability to **mediate information** between the doctor and other people.\n\nLet's practice with a real scenario: a visit to the doctor for a wound. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "surgery",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The doctor asked me if I had been to the surgery before my appointment.",
+      "translation_form": "El doctor me preguntó si había ido a la consulta antes de mi cita.",
+      "highlight_words": [
+        "surgery"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "wound_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He asked me where I had wounded my arm and how long it had been bleeding.",
+      "translation_form": "Él me preguntó dónde me había herido el brazo y cuánto tiempo había estado sangrando.",
+      "highlight_words": [
+        "wound"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "get_over_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The nurse asked me if I had managed to get over the flu completely.",
+      "translation_form": "La enfermera me preguntó si había logrado recuperarme por completo de la gripe.",
+      "highlight_words": [
+        "get over"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "surgery",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She asked me where the nearest surgery was, so I gave her the address.",
+      "translation_form": "Ella me preguntó dónde estaba la consulta más cercana, así que le di la dirección.",
+      "highlight_words": [
+        "surgery"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "wound_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My friend asked me if the wound had healed, and I said it was much better now.",
+      "translation_form": "Mi amigo me preguntó si la herida había sanado, y le dije que ahora estaba mucho mejor.",
+      "highlight_words": [
+        "wound"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "get_over_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He asked me how I had managed to get over the surgery so quickly.",
+      "translation_form": "Él me preguntó cómo había logrado recuperarme de la cirugía tan rápido.",
+      "highlight_words": [
+        "get over",
+        "surgery"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "reported questions: he asked me if, he asked me where",
+      "title_form": "Preguntas reportadas: he asked me if, he asked me where",
+      "title_target": "Reported questions: he asked me if, he asked me where",
+      "description_md_form": "Cuando contamos lo que alguien nos preguntó, usamos **preguntas reportadas**. En inglés, la estructura cambia: ya no es una pregunta directa, sino una afirmación que empieza con el verbo *ask*.\n\n**Para preguntas de sí/no** (respuesta *yes* o *no*), usamos **if** después de *asked me*:\n\n- *He asked me if I had been to the surgery.* → Él me preguntó si había ido a la consulta.\n\n**Para preguntas con *wh-*** (where, when, why...), mantenemos la palabra interrogativa:\n\n- *He asked me where I had wounded my arm.* → Él me preguntó dónde me había herido el brazo.\n\n**Regla clave:** en la pregunta reportada, el verbo va **después del sujeto** (no invertido como en la pregunta directa). Además, el tiempo verbal retrocede un paso: *present* → *past*, *past* → *past perfect*.\n\n**Estructura general:**\n\n- *Subject + asked me + if + subject + verb (past perfect)*\n- *Subject + asked me + question word + subject + verb (past perfect)*\n\nEsta estructura es muy común en contextos médicos, cuando relatamos la conversación con el doctor o la enfermera.",
+      "description_md_target": "When we report what someone asked us, we use **reported questions**. In English, the structure changes: it is no longer a direct question, but a statement that starts with the verb *ask*.\n\n**For yes/no questions** (answer *yes* or *no*), we use **if** after *asked me*:\n\n- *He asked me if I had been to the surgery.* → He asked me whether I had been to the surgery.\n\n**For wh-questions** (where, when, why...), we keep the question word:\n\n- *He asked me where I had wounded my arm.* → He asked me where I had wounded my arm.\n\n**Key rule:** in the reported question, the verb goes **after the subject** (not inverted as in the direct question). Also, the tense moves back one step: *present* → *past*, *past* → *past perfect*.\n\n**General structure:**\n\n- *Subject + asked me + if + subject + verb (past perfect)*\n- *Subject + asked me + question word + subject + verb (past perfect)*\n\nThis structure is very common in medical contexts, when we relate the conversation with the doctor or the nurse.",
+      "grammar_structure": "Subject + asked me + (if / question word) + subject + verb (past perfect)",
+      "conjugation_table": {
+        "name": "reported_questions_structure",
+        "headers": [
+          "Tipo de pregunta",
+          "Pregunta directa",
+          "Pregunta reportada"
+        ],
+        "rows": [
+          [
+            "Yes/No",
+            "Did you go to the surgery?",
+            "He asked me if I had gone to the surgery."
+          ],
+          [
+            "Wh-",
+            "Where did you wound your arm?",
+            "He asked me where I had wounded my arm."
+          ],
+          [
+            "Yes/No",
+            "Did you get over the flu?",
+            "He asked me if I had got over the flu."
+          ],
+          [
+            "Wh-",
+            "How long was it bleeding?",
+            "He asked me how long it had been bleeding."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "reported questions: he asked me if, he asked me where",
+          "text_target": "The doctor asked me if I had been to the surgery before my appointment.",
+          "translation_form": "El doctor me preguntó si había ido a la consulta antes de mi cita.",
+          "highlight_words": [
+            "asked",
+            "if",
+            "had been"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "reported questions: he asked me if, he asked me where",
+          "text_target": "He asked me where I had wounded my arm and how long it had been bleeding.",
+          "translation_form": "Él me preguntó dónde me había herido el brazo y cuánto tiempo había estado sangrando.",
+          "highlight_words": [
+            "where",
+            "had wounded",
+            "had been bleeding"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda el retroceso temporal:** en la pregunta reportada, el *past simple* se convierte en *past perfect*. Por ejemplo: *Did you get over the flu?* → *He asked me if I had got over the flu.*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No inviertas el sujeto y el verbo** en la pregunta reportada. Decimos *He asked me where I had wounded my arm*, NO *He asked me where had I wounded my arm*."
+        },
+        {
+          "type": "warning",
+          "text_md": "**No uses *do/does/did* en la pregunta reportada.** La estructura ya no es interrogativa: *He asked me if I had been to the surgery*, NO *He asked me if did I go to the surgery*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar la estructura de pregunta directa: *He asked me where had I wounded my arm* en lugar de *He asked me where I had wounded my arm*.",
+        "Olvidar el retroceso temporal: *He asked me if I went to the surgery* en lugar de *He asked me if I had been to the surgery*.",
+        "Usar *do/does/did* en la pregunta reportada: *He asked me if did I get over the flu* en lugar de *He asked me if I had got over the flu*.",
+        "Confundir *if* con *whether* en preguntas de sí/no: ambos son correctos, pero *if* es más común en contextos informales."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'surgery'?",
+      "options": [
+        "La consulta del médico",
+        "La farmacia",
+        "El hospital",
+        "La sala de espera"
+      ],
+      "correct_answer": "La consulta del médico",
+      "explanation_md": "'Surgery' se refiere al consultorio o la consulta del médico, no al hospital completo.",
+      "related_lexeme_ids": [
+        "surgery"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'wound'?",
+      "options": [
+        "La herida",
+        "El dolor",
+        "La fiebre",
+        "La tos"
+      ],
+      "correct_answer": "La herida",
+      "explanation_md": "'Wound' es una herida, como un corte o una lesión en la piel.",
+      "related_lexeme_ids": [
+        "wound_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'get over'?",
+      "options": [
+        "Recuperarse de una enfermedad",
+        "Empeorar una enfermedad",
+        "Ir al médico",
+        "Tomar medicinas"
+      ],
+      "correct_answer": "Recuperarse de una enfermedad",
+      "explanation_md": "'Get over' es un phrasal verb que significa recuperarse o superar una enfermedad.",
+      "related_lexeme_ids": [
+        "get_over_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración con la forma correcta: 'The doctor asked me ___ I had been to the surgery before.'",
+      "options": [
+        "if",
+        "where",
+        "what",
+        "when"
+      ],
+      "correct_answer": "if",
+      "explanation_md": "Para reportar una pregunta de sí/no, usamos 'if' después de 'asked me'.",
+      "related_lexeme_ids": [
+        "surgery"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta de reportar la pregunta 'Where did you wound your arm?'",
+      "options": [
+        "He asked me where I had wounded my arm.",
+        "He asked me if I had wounded my arm.",
+        "He asked me where I wound my arm.",
+        "He asked me if where I had wounded my arm."
+      ],
+      "correct_answer": "He asked me where I had wounded my arm.",
+      "explanation_md": "Para preguntas con 'where', usamos 'asked me where' y cambiamos el tiempo al pasado perfecto.",
+      "related_lexeme_ids": [
+        "wound_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la palabra correcta: 'She asked me ___ I had managed to get over the flu.'",
+      "options": null,
+      "correct_answer": "if",
+      "explanation_md": "La pregunta original era 'Did you get over the flu?', que es una pregunta de sí/no, así que usamos 'if'.",
+      "related_lexeme_ids": [
+        "get_over_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la palabra correcta: 'He asked me ___ the nearest surgery was.'",
+      "options": null,
+      "correct_answer": "where",
+      "explanation_md": "La pregunta original era 'Where is the nearest surgery?', que es una pregunta con 'where'.",
+      "related_lexeme_ids": [
+        "surgery"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Él me preguntó si me había recuperado de la gripe.'",
+      "options": null,
+      "correct_answer": "He asked me if I had got over the flu.",
+      "explanation_md": "Usamos 'asked me if' para reportar la pregunta 'Did you get over the flu?' y cambiamos al pasado perfecto.",
+      "related_lexeme_ids": [
+        "get_over_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'She asked me where I had wounded my leg.'",
+      "options": null,
+      "correct_answer": "Ella me preguntó dónde me había herido la pierna.",
+      "explanation_md": "La estructura 'asked me where' se traduce como 'me preguntó dónde'.",
+      "related_lexeme_ids": [
+        "wound_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "surgery",
+        "wound",
+        "get over",
+        "la consulta del médico",
+        "la herida",
+        "recuperarse"
+      ],
+      "correct_answer": [
+        "surgery=la consulta del médico",
+        "wound=la herida",
+        "get over=recuperarse"
+      ],
+      "explanation_md": "Estas son las tres palabras nuevas de la lección y sus significados.",
+      "related_lexeme_ids": [
+        "surgery",
+        "wound_verb",
+        "get_over_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué le preguntó el médico a Tom?",
+      "options": [
+        "Le preguntó dónde se había herido el brazo y si se había recuperado de la gripe.",
+        "Le preguntó si le dolía el brazo y si había tomado medicina.",
+        "Le preguntó dónde vivía y si tenía seguro médico.",
+        "Le preguntó si había ido al hospital y si había visto a otro médico."
+      ],
+      "correct_answer": "Le preguntó dónde se había herido el brazo y si se había recuperado de la gripe.",
+      "explanation_md": "El texto dice que el médico le preguntó dónde se había herido el brazo y si se había recuperado de la gripe.",
+      "related_lexeme_ids": [
+        "surgery",
+        "wound_verb",
+        "get_over_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom went to the surgery because he had a bad wound on his arm. The doctor asked him where he had wounded his arm. Tom explained that he had fallen while playing football. The doctor also asked him if he had managed to get over the flu from last month. Tom said he had, but he still felt a little tired. The doctor cleaned the wound and gave him a prescription. He told Tom to rest for a few days and to come back if the wound did not heal.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué le preguntó la enfermera a Ana?",
+      "options": [
+        "Le preguntó si había dormido bien y dónde sentía el dolor.",
+        "Le preguntó si tenía fiebre y si había comido.",
+        "Le preguntó si había tomado medicina y si había ido al hospital.",
+        "Le preguntó si tenía seguro médico y dónde vivía."
+      ],
+      "correct_answer": "Le preguntó si había dormido bien y dónde sentía el dolor.",
+      "explanation_md": "El texto dice que la enfermera le preguntó si había dormido bien y dónde sentía el dolor.",
+      "related_lexeme_ids": [
+        "surgery"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana went to the surgery for a check-up. The nurse asked her if she had been sleeping well. Ana said she had not, because she was worried about her new job. The nurse also asked her where she felt the pain. Ana explained that she had a headache every morning. The nurse told her to drink more water and to rest. She also asked Ana if she had any allergies. Ana said she did not have any. The nurse wrote everything in her file and told her to see the doctor.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué le preguntó el médico a Luis sobre su herida?",
+      "options": [
+        "Le preguntó dónde se había herido la mano y si la había limpiado.",
+        "Le preguntó si tenía fiebre y si había ido al hospital.",
+        "Le preguntó si había tomado medicina y si había descansado.",
+        "Le preguntó si tenía dolor y si había visto a otro médico."
+      ],
+      "correct_answer": "Le preguntó dónde se había herido la mano y si la había limpiado.",
+      "explanation_md": "El texto dice que el médico le preguntó dónde se había herido la mano y si la había limpiado con jabón y agua.",
+      "related_lexeme_ids": [
+        "wound_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Luis had a wound on his hand. He went to the surgery because it was not healing. The doctor asked him where he had wounded his hand. Luis said he had cut it while cooking. The doctor asked him if he had cleaned the wound with soap and water. Luis said he had, but it still looked bad. The doctor also asked him if he had any other symptoms, like fever. Luis said he did not have a fever. The doctor gave him a prescription and told him to keep the wound clean and dry.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué le preguntó la doctora a María?",
+      "options": [
+        "Le preguntó si había fumado y dónde sentía el dolor.",
+        "Le preguntó si había tomado medicina y si había descansado.",
+        "Le preguntó si tenía fiebre y si había ido al hospital.",
+        "Le preguntó si tenía alergias y si había comido."
+      ],
+      "correct_answer": "Le preguntó si había fumado y dónde sentía el dolor.",
+      "explanation_md": "La doctora preguntó si María había fumado y dónde sentía el dolor.",
+      "related_lexeme_ids": [
+        "surgery"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Maria went to the surgery because she had a bad cough. The doctor asked her if she had been smoking. Maria said she had not. The doctor also asked her where she felt the pain. Maria explained that her chest hurt when she coughed. The doctor told her to rest and drink warm tea.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué le preguntó el médico a Pedro?",
+      "options": [
+        "Le preguntó dónde se había herido la pierna y si la había limpiado.",
+        "Le preguntó si tenía fiebre y si había tomado medicina.",
+        "Le preguntó si había ido al hospital y si había visto a otro médico.",
+        "Le preguntó si tenía dolor y si había descansado."
+      ],
+      "correct_answer": "Le preguntó dónde se había herido la pierna y si la había limpiado.",
+      "explanation_md": "El médico preguntó dónde se había herido la pierna y si la había limpiado.",
+      "related_lexeme_ids": [
+        "wound_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Pedro had a wound on his leg. He went to the surgery. The doctor asked him where he had wounded his leg. Pedro said he had fallen from his bike. The doctor asked him if he had cleaned the wound. Pedro said he had not. The doctor cleaned it and gave him a prescription.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_016",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué le preguntó la enfermera a Sofía?",
+      "options": [
+        "Le preguntó si había dormido bien y si se había recuperado de la gripe.",
+        "Le preguntó si tenía fiebre y si había comido.",
+        "Le preguntó si había tomado medicina y si había ido al hospital.",
+        "Le preguntó si tenía alergias y dónde sentía el dolor."
+      ],
+      "correct_answer": "Le preguntó si había dormido bien y si se había recuperado de la gripe.",
+      "explanation_md": "La enfermera preguntó si Sofía había dormido bien y si se había recuperado de la gripe.",
+      "related_lexeme_ids": [
+        "get_over_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Sofia was at the surgery for a check-up. The nurse asked her if she had been sleeping well. Sofia said she had not. The nurse also asked her if she had managed to get over the flu. Sofia said she had, but she still felt tired. The nurse told her to rest and drink more water.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_017",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones reportando lo que un médico te preguntó en una consulta. Usá 'asked me if' o 'asked me where'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'asked me if' y 'asked me where' con el cambio de tiempo al pasado perfecto.",
+      "related_lexeme_ids": [
+        "surgery",
+        "wound_verb",
+        "get_over_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "The doctor asked me if I had been sleeping well. He also asked me where I felt the pain.",
+        "The nurse asked me if I had any allergies. She also asked me where I had wounded my arm."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_018",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones reportando lo que un amigo te preguntó sobre tu salud. Usá 'asked me if' o 'asked me where'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'asked me if' y 'asked me where' en un contexto informal.",
+      "related_lexeme_ids": [
+        "get_over_verb",
+        "wound_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "My friend asked me if I had got over the flu. He also asked me where I had gone to the surgery.",
+        "My friend asked me if my wound had healed. He also asked me where I had hurt my leg."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "surgery",
+      "back": "cirugía",
+      "hint": "lugar donde se realiza la operación",
+      "lexeme_id": "surgery",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_019",
+        "B2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "wound",
+      "back": "herir",
+      "hint": "causar una lesión",
+      "lexeme_id": "wound_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_019",
+        "B2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "get over",
+      "back": "superar / reponerse",
+      "hint": "recuperarse de una enfermedad",
+      "lexeme_id": "get_over_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_019",
+        "B2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "symptom",
+      "back": "síntoma",
+      "hint": "señal de una enfermedad",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "symptom",
+      "tags": [
+        "lesson_019",
+        "B2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "prescription",
+      "back": "receta médica",
+      "hint": "lo que el doctor te da",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "prescription",
+      "tags": [
+        "lesson_019",
+        "B2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "ask",
+      "back": "preguntar",
+      "hint": "verbo para preguntar",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "ask",
+      "tags": [
+        "lesson_019",
+        "B2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "explain",
+      "back": "explicar",
+      "hint": "hacer algo claro",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "explain",
+      "tags": [
+        "lesson_019",
+        "B2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "if",
+      "back": "si",
+      "hint": "para preguntas de sí/no",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "if",
+      "tags": [
+        "lesson_019",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "where",
+      "back": "dónde",
+      "hint": "palabra para preguntar lugar",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "where",
+      "tags": [
+        "lesson_019",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "factor",
+      "back": "factor",
+      "hint": "elemento que influye",
+      "lexeme_id": "factor_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_019",
+        "B2",
+        "health"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "surgery",
+      "reading": "",
+      "translation": "cirugía",
+      "pos": "noun",
+      "example": "The doctor asked me if I had been to the surgery before my appointment.",
+      "example_translation": "El doctor me preguntó si había ido a la consulta antes de mi cita.",
+      "lexeme_id": "surgery",
+      "chunk_id": null
+    },
+    {
+      "target_word": "wound",
+      "reading": "",
+      "translation": "herir",
+      "pos": "verb",
+      "example": "He asked me where I had wounded my arm and how long it had been bleeding.",
+      "example_translation": "Él me preguntó dónde me había herido el brazo y cuánto tiempo había estado sangrando.",
+      "lexeme_id": "wound_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "get over",
+      "reading": "",
+      "translation": "superar / reponerse",
+      "pos": "verb",
+      "example": "The nurse asked me if I had managed to get over the flu completely.",
+      "example_translation": "La enfermera me preguntó si había logrado recuperarme por completo de la gripe.",
+      "lexeme_id": "get_over_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "surgery",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "cirugía",
+      "lexeme_id": "surgery",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "exm_006",
+        "reported questions: he asked me if, he asked me where",
+        "ex_001",
+        "ex_004",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "ex_018",
+        "fc_001",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "wound",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "herir",
+      "lexeme_id": "wound_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_005",
+        "ex_002",
+        "ex_005",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_015",
+        "ex_017",
+        "ex_018",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "get over",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "superar / reponerse",
+      "lexeme_id": "get_over_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "exm_006",
+        "ex_003",
+        "ex_006",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_016",
+        "ex_017",
+        "ex_018",
+        "fc_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "symptom",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "síntoma",
+      "lexeme_id": "symptom",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "prescription",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "receta",
+      "lexeme_id": "prescription",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013",
+        "ex_015",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "reported questions: he asked me if, he asked me where",
+        "fc_006",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "explicar",
+      "lexeme_id": "explain_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "if",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "si (condicional)",
+      "lexeme_id": "if_conj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "exm_005",
+        "reported questions: he asked me if, he asked me where",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "ex_018",
+        "fc_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "where",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "dónde",
+      "lexeme_id": "where_wh",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "reported questions: he asked me if, he asked me where",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_017",
+        "ex_018",
+        "fc_009",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "factor",
+      "role": "support",
+      "status": "review",
+      "translation": "factor",
+      "lexeme_id": "factor_2",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_017",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "arm",
+      "role": "support",
+      "status": "emergent",
+      "translation": "brazo",
+      "lexeme_id": "arm",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_017",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "nurse",
+      "role": "support",
+      "status": "emergent",
+      "translation": "enfermero/a",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "ex_016",
+        "ex_017"
+      ]
+    },
+    {
+      "term": "flu",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gripe",
+      "lexeme_id": "flu",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_016",
+        "ex_018"
+      ]
+    },
+    {
+      "term": "better",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mejor",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_018"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "completely",
+      "role": "support",
+      "status": "emergent",
+      "translation": "completamente",
+      "lexeme_id": "completely_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "address",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dirección / dirigir",
+      "lexeme_id": "address",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "quickly",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rápidamente",
+      "lexeme_id": "quickly_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "nearest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más cercano",
+      "lexeme_id": "nearest",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "bleed",
+      "role": "support",
+      "status": "emergent",
+      "translation": "drenar / purgar / sangrar",
+      "lexeme_id": "bleed_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "appointment",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cita / hora / citado",
+      "lexeme_id": "appointment",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "rest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "descansar",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "ex_016",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "pain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dolor",
+      "lexeme_id": "pain",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014",
+        "ex_017",
+        "quiz_001:q_002",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "come back",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "come",
+      "role": "support",
+      "status": "emergent",
+      "translation": "venir",
+      "lexeme_id": "come_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "back",
+      "role": "support",
+      "status": "emergent",
+      "translation": "espalda",
+      "lexeme_id": "back",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "bad",
+      "role": "support",
+      "status": "emergent",
+      "translation": "malo",
+      "lexeme_id": "bad_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "clean",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013",
+        "ex_015",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "well",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_016",
+        "ex_017"
+      ]
+    },
+    {
+      "term": "water",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agua",
+      "lexeme_id": "water",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "still",
+      "role": "support",
+      "status": "emergent",
+      "translation": "todavía / aún",
+      "lexeme_id": "still_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_013",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_016",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "drink",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "leg",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pierna",
+      "lexeme_id": "leg",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_015",
+        "ex_018",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "sleep",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dormir",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_016",
+        "ex_017"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_016",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "look",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar",
+      "lexeme_id": "look_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 9,
+    "lexical_target_count": 7,
+    "covered_lexical_target_count": 7,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 1,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "doctor",
+      "arm",
+      "nurse",
+      "flu",
+      "better",
+      "friend",
+      "now",
+      "completely",
+      "address",
+      "quickly",
+      "nearest",
+      "bleed",
+      "appointment",
+      "rest",
+      "pain",
+      "come back",
+      "come",
+      "back",
+      "bad",
+      "clean",
+      "well",
+      "water",
+      "still",
+      "tire",
+      "drink",
+      "leg",
+      "sleep",
+      "tired",
+      "take",
+      "look",
+      "home",
+      "work"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Reporting what the doctor asked me",
+      "title_target": "Quiz: Reporting what the doctor asked me",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué le preguntó el doctor a Sarah sobre su herida?",
+          "prompt_target": "Read the text and answer: What did the doctor ask Sarah about her wound?",
+          "options": [
+            "He asked her where the accident happened and if she had a fever.",
+            "He asked her to go home immediately.",
+            "He asked her to have surgery.",
+            "He asked her to take a long trip."
+          ],
+          "correct_answer": "He asked her where the accident happened and if she had a fever.",
+          "explanation_form": "El doctor preguntó dónde ocurrió el accidente y si tenía fiebre. Las otras opciones no aparecen en el texto.",
+          "explanation_target": "The doctor asked where the accident happened and if she had a fever. The other options do not appear in the text.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wound_verb",
+            "reported questions: he asked me if",
+            "reported questions: he asked me where"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Sarah had a small wound on her leg after a bike accident. She went to the hospital because the wound was painful and she felt worried. The doctor looked at her leg carefully and asked her several questions. He asked her where the accident happened and how long she had the wound. He also asked her if she had a fever. Sarah answered that she did not have a fever, but she felt tired. The doctor cleaned the wound and gave her some medicine. He told her to rest at home for a few days. He also said that she should come back if the wound got worse. Sarah thanked the doctor and left the hospital. She felt much better after the visit.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué le preguntó el doctor a Tom?",
+          "prompt_target": "Listen and answer: What did the doctor ask Tom?",
+          "options": [
+            "He asked him if he felt a lot of pain and where he got the wound.",
+            "He asked him to have surgery immediately.",
+            "He asked him to go to the hospital.",
+            "He asked him to take medicine."
+          ],
+          "correct_answer": "He asked him if he felt a lot of pain and where he got the wound.",
+          "explanation_form": "El doctor preguntó si sentía mucho dolor y dónde se hizo la herida.",
+          "explanation_target": "The doctor asked if he felt a lot of pain and where he got the wound.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wound_verb",
+            "reported questions: he asked me if",
+            "reported questions: he asked me where"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Tom went to the doctor because he had a bad wound on his arm. The doctor asked him if he felt a lot of pain. Tom said yes. Then the doctor asked him where he got the wound. Tom explained that he got it at work. The doctor told him to rest and to come back in a week.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué dijo el doctor sobre la cirugía?",
+          "prompt_target": "Listen and answer: What did the doctor say about the surgery?",
+          "options": [
+            "He said the surgery would take about two hours.",
+            "He said the surgery was not necessary.",
+            "He said the surgery would take a week.",
+            "He said he would do the surgery at home."
+          ],
+          "correct_answer": "He said the surgery would take about two hours.",
+          "explanation_form": "El doctor dijo que la cirugía tomaría aproximadamente dos horas.",
+          "explanation_target": "The doctor said the surgery would take about two hours.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "surgery",
+            "reported questions: he asked me if"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The doctor told me that I needed surgery on my knee. He asked me if I had any questions. I asked him how long the surgery would take. He said it would take about two hours. He also told me that I would need to rest for a month after the surgery.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una pregunta indirecta correcta:",
+          "prompt_target": "Order the words to form a correct reported question:",
+          "options": [
+            "He",
+            "asked",
+            "me",
+            "if",
+            "I",
+            "felt",
+            "pain"
+          ],
+          "correct_answer": "He asked me if I felt pain",
+          "explanation_form": "En las preguntas indirectas, usamos 'if' para preguntas de sí/no y el orden de la oración afirmativa.",
+          "explanation_target": "In reported questions, we use 'if' for yes/no questions and the word order of a statement.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reported questions: he asked me if"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una pregunta indirecta correcta:",
+          "prompt_target": "Order the words to form a correct reported question:",
+          "options": [
+            "She",
+            "asked",
+            "me",
+            "where",
+            "the",
+            "wound",
+            "was"
+          ],
+          "correct_answer": "She asked me where the wound was",
+          "explanation_form": "En las preguntas indirectas con 'where', el verbo va al final de la oración.",
+          "explanation_target": "In reported questions with 'where', the verb goes at the end of the sentence.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reported questions: he asked me where",
+            "wound_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Él me preguntó si necesitaba cirugía.'",
+          "prompt_target": "Translate to English: 'He asked me if I needed surgery.'",
+          "options": null,
+          "correct_answer": "He asked me if I needed surgery",
+          "explanation_form": "Usamos 'asked me if' para reportar preguntas de sí/no.",
+          "explanation_target": "We use 'asked me if' to report yes/no questions.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "surgery",
+            "reported questions: he asked me if"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_target_to_form",
+          "prompt_form": "¿Qué significa 'He asked me where I got the wound'?",
+          "prompt_target": "What does 'He asked me where I got the wound' mean?",
+          "options": null,
+          "correct_answer": "Él me preguntó dónde me hice la herida",
+          "explanation_form": "'Where I got the wound' significa 'dónde me hice la herida'.",
+          "explanation_target": "'Where I got the wound' means 'where I got the wound'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wound_verb",
+            "reported questions: he asked me where"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de reportar la pregunta 'Do you feel pain?'",
+          "prompt_target": "Which is the correct way to report the question 'Do you feel pain?'",
+          "options": [
+            "He asked me if I felt pain.",
+            "He asked me where I felt pain.",
+            "He asked me if I feel pain.",
+            "He asked me that I felt pain."
+          ],
+          "correct_answer": "He asked me if I felt pain.",
+          "explanation_form": "Para reportar preguntas de sí/no, usamos 'if' y cambiamos el tiempo verbal al pasado.",
+          "explanation_target": "To report yes/no questions, we use 'if' and change the tense to the past.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reported questions: he asked me if"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de reportar la pregunta 'Where is the wound?'",
+          "prompt_target": "Which is the correct way to report the question 'Where is the wound?'",
+          "options": [
+            "He asked me where the wound was.",
+            "He asked me where was the wound.",
+            "He asked me if the wound was.",
+            "He asked me where the wound is."
+          ],
+          "correct_answer": "He asked me where the wound was.",
+          "explanation_form": "En preguntas indirectas con 'where', el verbo va después del sujeto.",
+          "explanation_target": "In reported questions with 'where', the verb goes after the subject.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wound_verb",
+            "reported questions: he asked me where"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué le preguntó el doctor a Mike?",
+          "prompt_target": "Read the text and answer: What did the doctor ask Mike?",
+          "options": [
+            "He asked him if the pain was getting better and where the pain was.",
+            "He asked him to have another surgery.",
+            "He asked him to go home and rest.",
+            "He asked him to stop taking medicine."
+          ],
+          "correct_answer": "He asked him if the pain was getting better and where the pain was.",
+          "explanation_form": "El doctor preguntó si el dolor estaba mejorando y dónde estaba el dolor.",
+          "explanation_target": "The doctor asked if the pain was getting better and where the pain was.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "surgery",
+            "get_over_verb",
+            "reported questions: he asked me if",
+            "reported questions: he asked me where"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": "Mike had surgery on his back last month. After the surgery, he had to rest at home for two weeks. He felt a lot of pain, so he went back to the hospital. The doctor asked him if the pain was getting better. Mike said it was not. The doctor also asked him where the pain was. Mike pointed to his back. The doctor told him to take more medicine and to come back in a week. Mike hoped he would get over the pain soon. He wanted to return to work and to his normal life.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'She asked me ____ I had surgery before.' (si)",
+          "prompt_target": "Complete the sentence: 'She asked me ____ I had surgery before.' (if)",
+          "options": null,
+          "correct_answer": "if",
+          "explanation_form": "Usamos 'if' para reportar preguntas de sí/no.",
+          "explanation_target": "We use 'if' to report yes/no questions.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "surgery",
+            "reported questions: he asked me if"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase: 'He asked me ____ I got the wound.' (dónde)",
+          "prompt_target": "Complete the sentence: 'He asked me ____ I got the wound.' (where)",
+          "options": null,
+          "correct_answer": "where",
+          "explanation_form": "Usamos 'where' para reportar preguntas sobre lugar.",
+          "explanation_target": "We use 'where' to report questions about place.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wound_verb",
+            "reported questions: he asked me where"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Reported questions: el truco del 'if'\n\nCuando el doctor te hace una pregunta de sí/no, en inglés la reportas con **if**: *He asked me if I felt pain*. Ojo: el orden cambia, ya no es pregunta (*Did I feel pain?*), sino afirmación (*I felt pain*). Para preguntas con *where*, *when*, *why*, usas la misma palabra: *He asked me where the pain was*.\n\n## Errores comunes\n\n- No digas *He asked me if did I feel pain*. Después de *if* va el orden normal: *if I felt pain*.\n- No confundas *wound* (herida, sustantivo o verbo) con *wound* (pasado de *wind*). En esta lección, siempre es la herida.\n- *Get over* significa recuperarse: *I got over the surgery in two weeks*. Es un phrasal verb, no lo separes.",
+  "metadata": {
+    "generated_at": "2026-08-31T01:35:49Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

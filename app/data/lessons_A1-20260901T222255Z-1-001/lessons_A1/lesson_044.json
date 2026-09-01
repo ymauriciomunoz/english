@@ -1,0 +1,1257 @@
+{
+  "id": "lesson_044",
+  "position": 44,
+  "unit_id": 8,
+  "course_id": "en.A1",
+  "title_form": "Comprar ropa",
+  "title_target": "Shopping for Clothes",
+  "theme_focus": "Comprar ropa: preguntar precio, talla y probarse.",
+  "learning_objectives": [
+    "Can ask the price of an item of clothing.",
+    "Can ask to try on clothes."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_043"
+  ],
+  "grammar_focus": [
+    "wh-questions: how much with be (How much is it?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "customer",
+        "market",
+        "size",
+        "cheap",
+        "store"
+      ],
+      "chunk_ids": [
+        "chunk_im_looking_for",
+        "chunk_ill_take_it"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "shirt",
+        "t_shirt",
+        "trousers",
+        "jeans",
+        "coat",
+        "dress",
+        "try_verb",
+        "cost_verb",
+        "pay_verb",
+        "buy_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana entra a una tienda de ropa en el mercado. Saluda al vendedor, le dice que está buscando una camisa y pregunta el precio. El vendedor le muestra varias opciones, ella pregunta por una talla, se prueba una prenda y finalmente decide comprarla.",
+  "introduction_md": "En esta lección vas a aprender a comprar ropa en inglés. Vas a poder preguntar el precio de una prenda, hablar de tallas y decir que te la llevas. También vas a conocer palabras útiles como *customer*, *market*, *store*, *size* y *cheap*.\n\n**¿Qué vas a lograr?**\n\n- Preguntar cuánto cuesta algo: *How much is it?*\n- Decir que estás buscando algo: *I am looking for...*\n- Decidir comprarlo: *I will take it.*\n\nTodo esto en situaciones simples y naturales, como en una tienda o un mercado. ¡Vamos a practicar!",
+  "intro_target": "In this lesson, you will learn to shop for clothes in English. You will be able to ask the price of an item, talk about sizes, and say you will take it. You will also learn useful words like *customer*, *market*, *store*, *size*, and *cheap*.\n\n**What will you achieve?**\n\n- Ask how much something costs: *How much is it?*\n- Say you are looking for something: *I am looking for...*\n- Decide to buy it: *I will take it.*\n\nAll in simple, natural situations, like in a store or a market. Let's practice!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "customer",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The customer is in the store.",
+      "translation_form": "El cliente está en la tienda.",
+      "highlight_words": [
+        "customer",
+        "store"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "market",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The market is cheap and big.",
+      "translation_form": "El mercado es barato y grande.",
+      "highlight_words": [
+        "market",
+        "cheap"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "size",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What size is this shirt?",
+      "translation_form": "¿Qué talla es esta camisa?",
+      "highlight_words": [
+        "size",
+        "shirt"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": "chunk_ill_take_it",
+      "grammar_slug": null,
+      "text_target": "This dress is cheap. I'll take it.",
+      "translation_form": "Este vestido es barato. Me lo llevo.",
+      "highlight_words": [
+        "dress",
+        "cheap",
+        "take"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "cheap",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "How much is this coat? It's cheap.",
+      "translation_form": "¿Cuánto cuesta este abrigo? Es barato.",
+      "highlight_words": [
+        "cheap",
+        "coat"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "wh-questions: how much with be (How much is it?)",
+      "title_form": "Preguntas con How much + be",
+      "title_target": "Questions with How much + be",
+      "description_md_form": "Para preguntar el **precio** de algo, usamos **How much** + el verbo **be**.\n\nLa estructura es simple:\n\n- **How much + is + it?** → ¿Cuánto cuesta?\n- **How much + is + this/that + [sustantivo]?** → ¿Cuánto cuesta este/ese [sustantivo]?\n\nEjemplos:\n\n- `How much is this shirt?` → ¿Cuánto cuesta esta camisa?\n- `How much is it?` → ¿Cuánto cuesta?\n\n**Importante:** En inglés, **How much** es fijo. No cambia con el sustantivo. Usamos **is** para singular (it, this, that) y **are** para plural (they, these, those).\n\nCon **be**, la respuesta corta es: `It's [precio].` o `It's [adjetivo].`",
+      "description_md_target": "To ask the **price** of something, we use **How much** + the verb **be**.\n\nThe structure is simple:\n\n- **How much + is + it?** → How much does it cost?\n- **How much + is + this/that + [noun]?** → How much does this/that [noun] cost?\n\nExamples:\n\n- `How much is this shirt?` → How much does this shirt cost?\n- `How much is it?` → How much does it cost?\n\n**Important:** In English, **How much** is fixed. It does not change with the noun. We use **is** for singular (it, this, that) and **are** for plural (they, these, those).\n\nWith **be**, the short answer is: `It's [price].` or `It's [adjective].`",
+      "grammar_structure": "How much + be + subject?",
+      "conjugation_table": {
+        "name": "how_much_with_be",
+        "headers": [
+          "Sujeto",
+          "Forma de be",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "it",
+            "is",
+            "How much is it?"
+          ],
+          [
+            "this/that + noun",
+            "is",
+            "How much is this shirt?"
+          ],
+          [
+            "they",
+            "are",
+            "How much are they?"
+          ],
+          [
+            "these/those + noun",
+            "are",
+            "How much are these jeans?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh-questions: how much with be (How much is it?)",
+          "text_target": "How much is this shirt?",
+          "translation_form": "¿Cuánto cuesta esta camisa?",
+          "highlight_words": [
+            "how",
+            "much",
+            "is"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh-questions: how much with be (How much is it?)",
+          "text_target": "How much is it? It's cheap.",
+          "translation_form": "¿Cuánto cuesta? Es barato.",
+          "highlight_words": [
+            "how",
+            "much",
+            "is"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**How much** es para precios. Para cantidades contables (¿cuántos?), usamos **How many**. En esta lección, solo necesitas **How much**."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No digas **How much is the price?** Es redundante. Solo di **How much is it?** o **How much is this shirt?**"
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'How much cost?' en lugar de 'How much is it?' — el verbo 'cost' no se usa con 'how much' en esta estructura.",
+        "Olvidar el verbo 'be': 'How much this shirt?' en lugar de 'How much is this shirt?'.",
+        "Usar 'How many' para precios: 'How many is it?' es incorrecto; siempre es 'How much is it?'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'customer'?",
+      "options": [
+        "cliente",
+        "tienda",
+        "mercado",
+        "precio"
+      ],
+      "correct_answer": "cliente",
+      "explanation_md": "'Customer' significa 'cliente', la persona que compra en una tienda.",
+      "related_lexeme_ids": [
+        "customer"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la pregunta: 'How much ____ this coat?'",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "be"
+      ],
+      "correct_answer": "is",
+      "explanation_md": "Con 'how much' usamos 'is' para preguntar por el precio de una cosa.",
+      "related_lexeme_ids": [
+        "coat"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la frase: 'I like this shirt. ____ take it.'",
+      "options": null,
+      "correct_answer": "I'll",
+      "explanation_md": "Usamos 'I'll take it' para decir que vamos a comprar algo.",
+      "related_lexeme_ids": [
+        "shirt"
+      ],
+      "related_chunk_ids": [
+        "chunk_ill_take_it"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Estoy buscando unos jeans.'",
+      "options": null,
+      "correct_answer": "I'm looking for jeans.",
+      "explanation_md": "Usamos 'I'm looking for' para decir que buscamos algo.",
+      "related_lexeme_ids": [
+        "jeans"
+      ],
+      "related_chunk_ids": [
+        "chunk_im_looking_for"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'The customer is in the store.'",
+      "options": null,
+      "correct_answer": "El cliente está en la tienda.",
+      "explanation_md": "La frase describe dónde está el cliente.",
+      "related_lexeme_ids": [
+        "customer",
+        "store"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "customer",
+        "cliente",
+        "market",
+        "mercado",
+        "size",
+        "talla",
+        "cheap",
+        "barato",
+        "store",
+        "tienda"
+      ],
+      "correct_answer": [
+        "customer=cliente",
+        "market=mercado",
+        "size=talla",
+        "cheap=barato",
+        "store=tienda"
+      ],
+      "explanation_md": "Estas son las palabras nuevas de la lección sobre comprar ropa.",
+      "related_lexeme_ids": [
+        "customer",
+        "market",
+        "size",
+        "cheap",
+        "store"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿qué quiere comprar Ana?",
+      "options": [
+        "A shirt",
+        "A dress",
+        "Jeans",
+        "A coat"
+      ],
+      "correct_answer": "A dress",
+      "explanation_md": "Ana busca un vestido ('a dress') y lo compra porque es barato.",
+      "related_lexeme_ids": [
+        "store",
+        "dress",
+        "cheap"
+      ],
+      "related_chunk_ids": [
+        "chunk_im_looking_for",
+        "chunk_ill_take_it"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is in the store. She is looking for a dress. She sees a red dress. She asks, 'How much is this dress?' The dress is cheap. Ana says, 'I'll take it.'",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿cuánto cuesta la camisa?",
+      "options": [
+        "It's expensive.",
+        "It's cheap.",
+        "It's big.",
+        "It's small."
+      ],
+      "correct_answer": "It's cheap.",
+      "explanation_md": "El texto dice que la camisa es barata ('cheap').",
+      "related_lexeme_ids": [
+        "customer",
+        "store",
+        "shirt",
+        "cheap"
+      ],
+      "related_chunk_ids": [
+        "chunk_ill_take_it"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "A customer is in the store. He sees a shirt. He asks, 'How much is this shirt?' The shirt is cheap. The customer says, 'I'll take it.'",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre comprar ropa. Usa 'I'm looking for' y 'How much'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de los chunks 'I'm looking for' e 'I'll take it' y la pregunta 'How much'.",
+      "related_lexeme_ids": [
+        "coat",
+        "jeans",
+        "cheap"
+      ],
+      "related_chunk_ids": [
+        "chunk_im_looking_for",
+        "chunk_ill_take_it"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I'm looking for a coat. How much is this coat? It's cheap. I'll take it.",
+        "I'm looking for jeans. How much are these jeans? They're cheap."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'market'?",
+      "options": [
+        "mercado",
+        "tienda",
+        "talla",
+        "barato"
+      ],
+      "correct_answer": "mercado",
+      "explanation_md": "'Market' significa 'mercado', un lugar donde se compra y se vende.",
+      "related_lexeme_ids": [
+        "market"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'size'?",
+      "options": [
+        "talla",
+        "precio",
+        "color",
+        "tienda"
+      ],
+      "correct_answer": "talla",
+      "explanation_md": "'Size' significa 'talla', el tamaño de la ropa.",
+      "related_lexeme_ids": [
+        "size"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'cheap'?",
+      "options": [
+        "barato",
+        "caro",
+        "grande",
+        "nuevo"
+      ],
+      "correct_answer": "barato",
+      "explanation_md": "'Cheap' significa 'barato', que cuesta poco dinero.",
+      "related_lexeme_ids": [
+        "cheap"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "customer",
+      "back": "cliente",
+      "hint": "la persona que compra en una tienda",
+      "lexeme_id": "customer",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "market",
+      "back": "mercado",
+      "hint": "lugar donde se compra fruta, ropa, etc.",
+      "lexeme_id": "market",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "size",
+      "back": "tamaño",
+      "hint": "¿qué talla usas?",
+      "lexeme_id": "size",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "cheap",
+      "back": "barato / barata",
+      "hint": "lo contrario de caro",
+      "lexeme_id": "cheap",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "store",
+      "back": "tienda",
+      "hint": "lugar donde compras cosas",
+      "lexeme_id": "store",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "I'm looking for ...",
+      "back": "Estoy buscando ...",
+      "hint": "frase para decir lo que quieres comprar",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_looking_for",
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "I'll take it.",
+      "back": "Me lo/la llevo.",
+      "hint": "frase para decidir comprar algo",
+      "lexeme_id": null,
+      "chunk_id": "chunk_ill_take_it",
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "shirt",
+      "back": "camisa",
+      "hint": "ropa para la parte de arriba",
+      "lexeme_id": "shirt",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "clothes"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "trousers",
+      "back": "pantalones",
+      "hint": "ropa para las piernas",
+      "lexeme_id": "trousers",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "clothes"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "try",
+      "back": "probar",
+      "hint": "probarse ropa",
+      "lexeme_id": "try_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_044",
+        "A1",
+        "shopping"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "customer",
+      "reading": "",
+      "translation": "cliente",
+      "pos": "noun",
+      "example": "The customer is in the store.",
+      "example_translation": "El cliente está en la tienda.",
+      "lexeme_id": "customer",
+      "chunk_id": null
+    },
+    {
+      "target_word": "market",
+      "reading": "",
+      "translation": "mercado",
+      "pos": "noun",
+      "example": "The market is cheap and big.",
+      "example_translation": "El mercado es barato y grande.",
+      "lexeme_id": "market",
+      "chunk_id": null
+    },
+    {
+      "target_word": "size",
+      "reading": "",
+      "translation": "tamaño",
+      "pos": "noun",
+      "example": "What size is this shirt?",
+      "example_translation": "¿Qué talla es esta camisa?",
+      "lexeme_id": "size",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cheap",
+      "reading": "",
+      "translation": "malo / barata / barato",
+      "pos": "noun",
+      "example": "How much is this coat? It's cheap.",
+      "example_translation": "¿Cuánto cuesta este abrigo? Es barato.",
+      "lexeme_id": "cheap",
+      "chunk_id": null
+    },
+    {
+      "target_word": "store",
+      "reading": "",
+      "translation": "tienda",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "store",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I'm looking for ...",
+      "reading": "",
+      "translation": "Estoy buscando ...",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_looking_for"
+    },
+    {
+      "target_word": "I'll take it.",
+      "reading": "",
+      "translation": "Me lo/la llevo.",
+      "pos": "chunk",
+      "example": "This dress is cheap. I'll take it.",
+      "example_translation": "Este vestido es barato. Me lo llevo.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_ill_take_it"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "customer",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cliente",
+      "lexeme_id": "customer",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "market",
+      "role": "support",
+      "status": "practiced",
+      "translation": "mercado",
+      "lexeme_id": "market",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_002",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "size",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tamaño",
+      "lexeme_id": "size",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_003",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "cheap",
+      "role": "support",
+      "status": "practiced",
+      "translation": "malo / barata / barato",
+      "lexeme_id": "cheap",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_004",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "store",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tienda",
+      "lexeme_id": "store",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "I'm looking for ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Estoy buscando ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_looking_for",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "ex_014",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "I'll take it.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Me lo/la llevo.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_ill_take_it",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "coat",
+      "role": "support",
+      "status": "review",
+      "translation": "abrigo",
+      "lexeme_id": "coat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_006",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "shirt",
+      "role": "support",
+      "status": "review",
+      "translation": "camisa",
+      "lexeme_id": "shirt",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_013",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "jeans",
+      "role": "support",
+      "status": "review",
+      "translation": "jeans / vaqueros",
+      "lexeme_id": "jeans",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "trousers",
+      "role": "support",
+      "status": "review",
+      "translation": "pantalones",
+      "lexeme_id": "trousers",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "try",
+      "role": "support",
+      "status": "review",
+      "translation": "intentar / probar",
+      "lexeme_id": "try_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_007",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "look",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar",
+      "lexeme_id": "look_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014",
+        "fc_006",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "dress",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "trouser",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pantalón",
+      "lexeme_id": "trouser",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "phrase",
+      "role": "support",
+      "status": "emergent",
+      "translation": "frase",
+      "lexeme_id": "phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "expensive",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caro / costoso",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 7,
+    "review_support_count": 5,
+    "emergent_count": 9,
+    "emergent_terms": [
+      "take",
+      "look",
+      "dress",
+      "big",
+      "trouser",
+      "see",
+      "ask",
+      "phrase",
+      "expensive"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Comprar ropa",
+      "title_target": "Quiz: Shopping for Clothes",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "Escucha y elige la respuesta correcta: 'How much is this shirt?'",
+          "prompt_target": "Listen and choose the correct answer: 'How much is this shirt?'",
+          "options": [
+            "It is cheap.",
+            "It is a store.",
+            "It is a customer.",
+            "It is a market."
+          ],
+          "correct_answer": "It is cheap.",
+          "explanation_form": "La pregunta 'How much is this shirt?' pregunta por el precio. 'Cheap' significa barato.",
+          "explanation_target": "The question 'How much is this shirt?' asks about the price. 'Cheap' means inexpensive.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cheap",
+            "shirt",
+            "wh-questions: how much with be"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I am looking for a ____.' (una tienda)",
+          "prompt_target": "Fill in the blank: 'I am looking for a ____.' (a store)",
+          "options": null,
+          "correct_answer": "store",
+          "explanation_form": "La frase 'I am looking for a store' significa 'Estoy buscando una tienda'. 'Store' es tienda.",
+          "explanation_target": "The phrase 'I am looking for a store' means 'I am looking for a store'. 'Store' is a shop.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "store",
+            "chunk_im_looking_for"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "much",
+            "is",
+            "it",
+            "How",
+            "?"
+          ],
+          "correct_answer": "How much is it?",
+          "explanation_form": "La pregunta correcta es 'How much is it?' que significa '¿Cuánto cuesta?'",
+          "explanation_target": "The correct question is 'How much is it?' which means 'How much does it cost?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wh-questions: how much with be"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "The coat is expensive.",
+            "The coat is cheap.",
+            "The coat is big.",
+            "The coat is small."
+          ],
+          "correct_answer": "The coat is cheap.",
+          "explanation_form": "El texto dice 'It is not expensive', lo que significa que es barato (cheap).",
+          "explanation_target": "The text says 'It is not expensive', which means it is cheap.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "market",
+            "coat",
+            "chunk_ill_take_it",
+            "cheap"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I am at the market. I see a nice coat. It is not expensive. I will take it.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": null,
+          "options": [
+            "customer",
+            "cliente",
+            "size",
+            "talla",
+            "market",
+            "mercado",
+            "store",
+            "tienda"
+          ],
+          "correct_answer": [
+            "customer=cliente",
+            "size=talla",
+            "market=mercado",
+            "store=tienda"
+          ],
+          "explanation_form": "Estas son palabras clave para comprar ropa: customer (cliente), size (talla), market (mercado) y store (tienda).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "customer",
+            "size",
+            "market",
+            "store"
+          ],
+          "points": 20,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y elige la respuesta correcta:",
+          "prompt_target": "Read the text and choose the correct answer:",
+          "options": [
+            "Maria buys the dress.",
+            "Maria buys the shirt.",
+            "Maria buys a coat.",
+            "Maria buys jeans."
+          ],
+          "correct_answer": "Maria buys the shirt.",
+          "explanation_form": "El texto dice 'She buys the shirt' (Ella compra la camisa).",
+          "explanation_target": "The text says 'She buys the shirt'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "customer",
+            "store",
+            "dress",
+            "shirt",
+            "cheap"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Maria is a customer at a store. She sees a dress and a shirt. The dress is expensive, but the shirt is cheap. She buys the shirt. She is happy.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce al español: 'I will take it.'",
+          "prompt_target": "Translate to Spanish: 'I will take it.'",
+          "options": null,
+          "correct_answer": "Me lo llevo.",
+          "explanation_form": "'I will take it' es una frase común al comprar, significa 'Me lo llevo'.",
+          "explanation_target": "'I will take it' is a common phrase when buying, it means 'I will take it'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_ill_take_it"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El truco de \"How much is it?\"\n\nPara preguntar el precio de una prenda, usa **How much is it?** (¿Cuánto cuesta?). Es una pregunta fija: no cambia el orden de las palabras. Si hablas de varias prendas, di **How much are they?**. Recuerda: en inglés no se dice \"How much costs?\" — el verbo **be** (is/are) hace el trabajo.\n\n## Errores comunes al comprar\n\n- **\"I looking for\"** → siempre con **am**: *I am looking for a shirt.*\n- **\"It is cheap?\"** → para preguntar, invierte: *Is it cheap?*\n- **Size** significa talla, no tamaño general. Para decir \"talla M\", usa *size M*.\n- En el mercado (market) o la tienda (store), **try on** es probarse la ropa. ¡Úsalo antes de comprar!",
+  "metadata": {
+    "generated_at": "2026-08-31T21:40:11Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

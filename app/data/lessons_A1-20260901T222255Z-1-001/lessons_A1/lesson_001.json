@@ -1,0 +1,1803 @@
+{
+  "id": "lesson_001",
+  "position": 1,
+  "unit_id": 1,
+  "course_id": "en.A1",
+  "title_form": "Saludos y presentaciones",
+  "title_target": "Greeting and Introducing Yourself",
+  "theme_focus": "Saludos formales e informales, presentación básica con nombre.",
+  "learning_objectives": [
+    "Can greet someone using basic greetings.",
+    "Can introduce him/herself using name."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [],
+  "grammar_focus": [
+    "present simple: be (am/is/are) with names"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "hello_interj",
+        "hi_interj",
+        "good_morning_interj",
+        "good_afternoon_interj",
+        "good_evening_interj",
+        "bye_interj",
+        "name",
+        "my_det",
+        "i_pronoun",
+        "meet_verb",
+        "you_pronoun",
+        "a_det",
+        "the_det",
+        "to_prep",
+        "nice_adj"
+      ],
+      "chunk_ids": [
+        "chunk_my_name_is",
+        "chunk_whats_your_name",
+        "chunk_nice_to_meet_you"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": []
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana llega a una escuela de idiomas en Londres. Saluda a la recepcionista, se presenta con su nombre y conoce a un compañero de clase. A lo largo de la lección, practica los saludos y las presentaciones en estos encuentros.",
+  "introduction_md": "¡Hola! En esta lección vas a aprender a saludar y a presentarte en inglés. Es el primer paso para conversar con personas de todo el mundo.\n\nVas a practicar:\n\n- **Saludos formales e informales** (hello, hi, good morning).\n- **Decir tu nombre** (My name is...).\n- **Preguntar el nombre** (What's your name?).\n- **Responder con cortesía** (Nice to meet you).\n\nTodo esto en situaciones simples y reales. ¡Vamos a empezar!",
+  "intro_target": "Hello! In this lesson, you are going to learn how to greet and introduce yourself in English. It is the first step to talking with people around the world.\n\nYou are going to practice:\n\n- **Formal and informal greetings** (hello, hi, good morning).\n- **Saying your name** (My name is...).\n- **Asking for a name** (What's your name?).\n- **Responding politely** (Nice to meet you).\n\nAll of this in simple, real situations. Let's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Hello, my name is Anna.",
+      "translation_form": "Hola, me llamo Anna.",
+      "highlight_words": [
+        "hello",
+        "my",
+        "name"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_whats_your_name",
+      "grammar_slug": null,
+      "text_target": "Hi! What's your name?",
+      "translation_form": "¡Hola! ¿Cómo te llamas?",
+      "highlight_words": [
+        "hi",
+        "what's",
+        "your",
+        "name"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "nice_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Nice to meet you, Mr. Smith.",
+      "translation_form": "Mucho gusto, señor Smith.",
+      "highlight_words": [
+        "nice",
+        "to",
+        "meet",
+        "you"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "good_morning_interj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Good morning, teacher! I am a student.",
+      "translation_form": "¡Buenos días, profesor! Soy un estudiante.",
+      "highlight_words": [
+        "good",
+        "morning",
+        "i",
+        "am",
+        "a",
+        "student"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "bye_interj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Good evening, Anna. Bye!",
+      "translation_form": "Buenas noches, Anna. ¡Adiós!",
+      "highlight_words": [
+        "good",
+        "evening",
+        "bye"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I meet my friend at the school.",
+      "translation_form": "Conozco a mi amigo en la escuela.",
+      "highlight_words": [
+        "meet",
+        "my",
+        "friend",
+        "the",
+        "school"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: be (am/is/are) with names",
+      "title_form": "El verbo ser/estar con nombres",
+      "title_target": "The verb to be with names",
+      "description_md_form": "En inglés, para presentarte usamos el verbo **to be** (ser/estar). Con nombres, lo usamos así: **My name is Anna** (Me llamo Anna). La forma cambia según la persona:\n\n- **I am** → *I am Anna.*\n- **You are** → *You are a student.*\n- **He/She/It is** → *She is my teacher.*\n\nEn conversación, **am**, **is** y **are** se contraen: **I'm**, **you're**, **she's**. Por ejemplo: *I'm Anna* o *What's your name?* (What **is** your name?).\n\nPara preguntar el nombre de alguien, usamos **What's your name?** y respondemos con **My name is...** o **I am...**.",
+      "description_md_target": "In English, to introduce yourself we use the verb **to be**. With names, we use it like this: **My name is Anna**. The form changes with the person:\n\n- **I am** → *I am Anna.*\n- **You are** → *You are a student.*\n- **He/She/It is** → *She is my teacher.*\n\nIn conversation, **am**, **is** and **are** contract: **I'm**, **you're**, **she's**. For example: *I'm Anna* or *What's your name?* (What **is** your name?).\n\nTo ask someone's name, we use **What's your name?** and we answer with **My name is...** or **I am...**.",
+      "grammar_structure": "Subject + to be (am/is/are) + complement",
+      "conjugation_table": {
+        "name": "present_simple_be",
+        "headers": [
+          "Pronombre",
+          "Forma",
+          "Contracción"
+        ],
+        "rows": [
+          [
+            "I",
+            "am",
+            "I'm"
+          ],
+          [
+            "You",
+            "are",
+            "You're"
+          ],
+          [
+            "He/She/It",
+            "is",
+            "He's/She's/It's"
+          ],
+          [
+            "We",
+            "are",
+            "We're"
+          ],
+          [
+            "They",
+            "are",
+            "They're"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: be (am/is/are) with names",
+          "text_target": "My name is Anna.",
+          "translation_form": "Me llamo Anna.",
+          "highlight_words": [
+            "name",
+            "is"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: be (am/is/are) with names",
+          "text_target": "I am a student.",
+          "translation_form": "Soy un estudiante.",
+          "highlight_words": [
+            "i",
+            "am"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**My name is** y **I am** significan lo mismo al presentarte. Usa el que prefieras: *My name is Anna* o *I am Anna*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "En español decimos *me llamo*, pero en inglés NO se dice *I call me*. Usa **My name is** o **I am**."
+        },
+        {
+          "type": "tip",
+          "text_md": "**What's your name?** es la forma natural de preguntar el nombre. *What is your name?* es correcto pero más formal."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I name is Anna* en vez de *My name is Anna* (confundir *my* con *I*).",
+        "Usar *is* con *I*: *I is Anna* en lugar de *I am Anna*.",
+        "Olvidar el verbo: *My name Anna* en lugar de *My name is Anna*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'hello'?",
+      "options": [
+        "hola",
+        "adiós",
+        "gracias",
+        "por favor"
+      ],
+      "correct_answer": "hola",
+      "explanation_md": "'Hello' es la forma más común de saludar en inglés.",
+      "related_lexeme_ids": [
+        "hello_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'nice to meet you'?",
+      "options": [
+        "buenos días",
+        "mucho gusto",
+        "hasta luego",
+        "buenas noches"
+      ],
+      "correct_answer": "mucho gusto",
+      "explanation_md": "'Nice to meet you' se usa cuando conocés a alguien por primera vez.",
+      "related_lexeme_ids": [
+        "nice_adj",
+        "meet_verb",
+        "you_pronoun",
+        "to_prep"
+      ],
+      "related_chunk_ids": [
+        "chunk_nice_to_meet_you"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada saludo con su significado:",
+      "options": [
+        "good morning",
+        "buenas tardes",
+        "good afternoon",
+        "buenos días",
+        "good evening",
+        "buenas noches"
+      ],
+      "correct_answer": [
+        "good morning=buenos días",
+        "good afternoon=buenas tardes",
+        "good evening=buenas noches"
+      ],
+      "explanation_md": "Cada saludo se usa en un momento diferente del día.",
+      "related_lexeme_ids": [
+        "good_morning_interj",
+        "good_afternoon_interj",
+        "good_evening_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la conversación: A: 'Hi! What's your name?' B: '____ name is Tom.'",
+      "options": [
+        "My",
+        "Your",
+        "The",
+        "A"
+      ],
+      "correct_answer": "My",
+      "explanation_md": "Usamos 'my' para hablar de nuestro propio nombre.",
+      "related_lexeme_ids": [
+        "my_det",
+        "name"
+      ],
+      "related_chunk_ids": [
+        "chunk_whats_your_name",
+        "chunk_my_name_is"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la palabra correcta: 'Good ____, teacher! I am a student.'",
+      "options": null,
+      "correct_answer": "morning",
+      "explanation_md": "'Good morning' se usa para saludar por la mañana.",
+      "related_lexeme_ids": [
+        "good_morning_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Hola, me llamo Anna.'",
+      "options": null,
+      "correct_answer": "Hello, my name is Anna.",
+      "explanation_md": "Usamos 'my name is' para presentarnos.",
+      "related_lexeme_ids": [
+        "hello_interj",
+        "my_det",
+        "name"
+      ],
+      "related_chunk_ids": [
+        "chunk_my_name_is"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "¿Cómo se dice en español 'Nice to meet you, Mr. Smith.'?",
+      "options": null,
+      "correct_answer": "Mucho gusto, señor Smith.",
+      "explanation_md": "'Nice to meet you' se traduce como 'mucho gusto'.",
+      "related_lexeme_ids": [
+        "nice_adj",
+        "meet_verb",
+        "you_pronoun",
+        "to_prep"
+      ],
+      "related_chunk_ids": [
+        "chunk_nice_to_meet_you"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué saludo usás por la tarde?",
+      "options": [
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Bye"
+      ],
+      "correct_answer": "Good afternoon",
+      "explanation_md": "'Good afternoon' se usa desde el mediodía hasta la tarde.",
+      "related_lexeme_ids": [
+        "good_afternoon_interj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿cómo se llama la persona?",
+      "options": [
+        "Anna",
+        "Lucy",
+        "Tom",
+        "Smith"
+      ],
+      "correct_answer": "Lucy",
+      "explanation_md": "El texto dice 'My name is Lucy'.",
+          "related_lexeme_ids": [
+            "name",
+            "my_det",
+            "i_pronoun"
+      ],
+      "related_chunk_ids": [
+        "chunk_my_name_is",
+        "chunk_nice_to_meet_you"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Hello! My name is Lucy. I am a student. I am at school. Good morning, teacher! Nice to meet you. I have a cat and a dog. Bye!",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿qué saludo usa la persona?",
+      "options": [
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Hello"
+      ],
+      "correct_answer": "Good evening",
+      "explanation_md": "La persona dice 'Good evening, Anna' al principio.",
+          "related_lexeme_ids": [
+            "good_evening_interj",
+            "name",
+            "bye_interj"
+      ],
+      "related_chunk_ids": [
+        "chunk_my_name_is",
+        "chunk_nice_to_meet_you"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Good evening, Anna. My name is Peter. I am a teacher. Nice to meet you. Bye!",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿qué pregunta hace la persona?",
+      "options": [
+        "What's your name?",
+        "How are you?",
+        "Where are you?",
+        "What's this?"
+      ],
+      "correct_answer": "What's your name?",
+      "explanation_md": "La persona pregunta 'What's your name?' para saber el nombre.",
+      "related_lexeme_ids": [
+        "hi_interj",
+        "i_pronoun",
+        "name",
+        "you_pronoun"
+      ],
+      "related_chunk_ids": [
+        "chunk_whats_your_name",
+        "chunk_nice_to_meet_you"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Hi! I am Anna. What's your name? Nice to meet you!",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones presentándote: saludá, decí tu nombre y despedite.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de saludos, 'my name is' y despedidas.",
+      "related_lexeme_ids": [
+        "hello_interj",
+        "hi_interj",
+        "my_det",
+        "name",
+        "bye_interj"
+      ],
+      "related_chunk_ids": [
+        "chunk_my_name_is",
+        "chunk_nice_to_meet_you"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Hello, my name is Ana. Bye!",
+        "Hi! My name is John. Nice to meet you. Goodbye!"
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "hello",
+      "back": "hola",
+      "hint": "saludo formal",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "hi",
+      "back": "hola (informal)",
+      "hint": "saludo informal",
+      "lexeme_id": "hi_interj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "good morning",
+      "back": "buenos días",
+      "hint": "saludo por la mañana",
+      "lexeme_id": "good_morning_interj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "good afternoon",
+      "back": "buenas tardes",
+      "hint": "saludo por la tarde",
+      "lexeme_id": "good_afternoon_interj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "good evening",
+      "back": "buenas noches (al llegar)",
+      "hint": "saludo por la noche",
+      "lexeme_id": "good_evening_interj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "bye",
+      "back": "adiós (informal)",
+      "hint": "despedida",
+      "lexeme_id": "bye_interj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "name",
+      "back": "nombre",
+      "hint": "información personal",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "my",
+      "back": "mi",
+      "hint": "posesivo",
+      "lexeme_id": "my_det",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "I",
+      "back": "yo",
+      "hint": "pronombre",
+      "lexeme_id": "i_pronoun",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "meet",
+      "back": "conocer / encontrar a alguien",
+      "hint": "verbo",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "you",
+      "back": "tú / usted / ustedes",
+      "hint": "pronombre",
+      "lexeme_id": "you_pronoun",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "a",
+      "back": "un / una",
+      "hint": "artículo indefinido",
+      "lexeme_id": "a_det",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "the",
+      "back": "el / la / los / las",
+      "hint": "artículo definido",
+      "lexeme_id": "the_det",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "to",
+      "back": "a / hacia",
+      "hint": "preposición",
+      "lexeme_id": "to_prep",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "prepositions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "nice",
+      "back": "agradable / simpático",
+      "hint": "adjetivo",
+      "lexeme_id": "nice_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_016",
+      "front": "My name is ...",
+      "back": "Me llamo ...",
+      "hint": "presentación",
+      "lexeme_id": null,
+      "chunk_id": "chunk_my_name_is",
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_017",
+      "front": "What's your name?",
+      "back": "¿Cómo te llamas?",
+      "hint": "pregunta",
+      "lexeme_id": null,
+      "chunk_id": "chunk_whats_your_name",
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_018",
+      "front": "Nice to meet you.",
+      "back": "Mucho gusto.",
+      "hint": "cortesía",
+      "lexeme_id": null,
+      "chunk_id": "chunk_nice_to_meet_you",
+      "target_term": null,
+      "tags": [
+        "lesson_001",
+        "A1",
+        "greetings"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "hello",
+      "reading": "",
+      "translation": "hola",
+      "pos": "interjection",
+      "example": "Hello, my name is Anna.",
+      "example_translation": "Hola, me llamo Anna.",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hi",
+      "reading": "",
+      "translation": "hola (informal)",
+      "pos": "interjection",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "hi_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "good morning",
+      "reading": "",
+      "translation": "buenos días",
+      "pos": "interjection",
+      "example": "Good morning, teacher! I am a student.",
+      "example_translation": "¡Buenos días, profesor! Soy un estudiante.",
+      "lexeme_id": "good_morning_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "good afternoon",
+      "reading": "",
+      "translation": "buenas tardes",
+      "pos": "interjection",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "good_afternoon_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "good evening",
+      "reading": "",
+      "translation": "buenas noches (al llegar)",
+      "pos": "interjection",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "good_evening_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bye",
+      "reading": "",
+      "translation": "adiós (informal)",
+      "pos": "interjection",
+      "example": "Good evening, Anna. Bye!",
+      "example_translation": "Buenas noches, Anna. ¡Adiós!",
+      "lexeme_id": "bye_interj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "name",
+      "reading": "",
+      "translation": "nombre",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "name",
+      "chunk_id": null
+    },
+    {
+      "target_word": "my",
+      "reading": "",
+      "translation": "mi",
+      "pos": "determiner",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "my_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I",
+      "reading": "",
+      "translation": "yo",
+      "pos": "pronoun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "i_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "meet",
+      "reading": "",
+      "translation": "conocer / encontrar a alguien",
+      "pos": "verb",
+      "example": "I meet my friend at the school.",
+      "example_translation": "Conozco a mi amigo en la escuela.",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "you",
+      "reading": "",
+      "translation": "tú / usted / ustedes",
+      "pos": "pronoun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "you_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "a",
+      "reading": "",
+      "translation": "uno / una (artículo indefinido)",
+      "pos": "determiner",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "a_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "the",
+      "reading": "",
+      "translation": "el / la / los / las",
+      "pos": "determiner",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "the_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "to",
+      "reading": "",
+      "translation": "a / hacia",
+      "pos": "preposition",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "to_prep",
+      "chunk_id": null
+    },
+    {
+      "target_word": "nice",
+      "reading": "",
+      "translation": "agradable / simpático",
+      "pos": "adjective",
+      "example": "Nice to meet you, Mr. Smith.",
+      "example_translation": "Mucho gusto, señor Smith.",
+      "lexeme_id": "nice_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "My name is ...",
+      "reading": "",
+      "translation": "Me llamo ...",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_my_name_is"
+    },
+    {
+      "target_word": "What's your name?",
+      "reading": "",
+      "translation": "¿Cómo te llamas?",
+      "pos": "chunk",
+      "example": "Hi! What's your name?",
+      "example_translation": "¡Hola! ¿Cómo te llamas?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_whats_your_name"
+    },
+    {
+      "target_word": "Nice to meet you.",
+      "reading": "",
+      "translation": "Mucho gusto.",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_nice_to_meet_you"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "hello",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hola",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_006",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "hi",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hola (informal)",
+      "lexeme_id": "hi_interj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "good morning",
+      "role": "support",
+      "status": "practiced",
+      "translation": "buenos días",
+      "lexeme_id": "good_morning_interj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_005",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "good afternoon",
+      "role": "support",
+      "status": "practiced",
+      "translation": "buenas tardes",
+      "lexeme_id": "good_afternoon_interj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_008",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "good evening",
+      "role": "support",
+      "status": "practiced",
+      "translation": "buenas noches (al llegar)",
+      "lexeme_id": "good_evening_interj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_010",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "bye",
+      "role": "support",
+      "status": "practiced",
+      "translation": "adiós (informal)",
+      "lexeme_id": "bye_interj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "name",
+      "role": "support",
+      "status": "practiced",
+      "translation": "nombre",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_006",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "my",
+      "role": "support",
+      "status": "practiced",
+      "translation": "mi",
+      "lexeme_id": "my_det",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_006",
+        "ex_009",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "I",
+      "role": "support",
+      "status": "practiced",
+      "translation": "yo",
+      "lexeme_id": "i_pronoun",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "practiced",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_002",
+        "ex_007",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "you",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tú / usted / ustedes",
+      "lexeme_id": "you_pronoun",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_007",
+        "ex_011",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "a",
+      "role": "support",
+      "status": "introduced",
+      "translation": "uno / una (artículo indefinido)",
+      "lexeme_id": "a_det",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "the",
+      "role": "support",
+      "status": "introduced",
+      "translation": "el / la / los / las",
+      "lexeme_id": "the_det",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_013"
+      ]
+    },
+    {
+      "term": "to",
+      "role": "support",
+      "status": "practiced",
+      "translation": "a / hacia",
+      "lexeme_id": "to_prep",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_007",
+        "fc_014"
+      ]
+    },
+    {
+      "term": "nice",
+      "role": "support",
+      "status": "practiced",
+      "translation": "agradable / simpático",
+      "lexeme_id": "nice_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_002",
+        "ex_007",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "My name is ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Me llamo ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_my_name_is",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_006",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_016"
+      ]
+    },
+    {
+      "term": "What's your name?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Cómo te llamas?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_whats_your_name",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_004",
+        "ex_011",
+        "fc_017"
+      ]
+    },
+    {
+      "term": "Nice to meet you.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Mucho gusto.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_nice_to_meet_you",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_018"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "review",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "exm_005",
+        "ex_009",
+        "ex_010",
+        "fc_003",
+        "fc_004",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "evening",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noche (al atardecer)",
+      "lexeme_id": "evening",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "quiz_001:q_004",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "afternoon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tarde",
+      "lexeme_id": "afternoon",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "present",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actual",
+      "lexeme_id": "present_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "night",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noche",
+      "lexeme_id": "night",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "cat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gato",
+      "lexeme_id": "cat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "goodbye",
+      "role": "support",
+      "status": "emergent",
+      "translation": "adiós",
+      "lexeme_id": "goodbye_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "lucy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lucía",
+      "lexeme_id": "lucy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 18,
+    "review_support_count": 1,
+    "emergent_count": 14,
+    "emergent_terms": [
+      "good",
+      "morning",
+      "evening",
+      "student",
+      "afternoon",
+      "school",
+      "friend",
+      "present",
+      "say",
+      "time",
+      "night",
+      "cat",
+      "goodbye",
+      "lucy"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Saludos y presentaciones",
+      "title_target": "Quiz: Greetings and Introductions",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué saludo usás por la mañana?",
+          "prompt_target": "Which greeting do you use in the morning?",
+          "options": [
+            "Good morning",
+            "Good afternoon",
+            "Good evening",
+            "Bye"
+          ],
+          "correct_answer": "Good morning",
+          "explanation_form": "Good morning se usa por la mañana. Good afternoon es por la tarde y Good evening por la noche.",
+          "explanation_target": "Good morning is used in the morning. Good afternoon is in the afternoon and Good evening is at night.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "good_morning_interj",
+            "good_afternoon_interj",
+            "good_evening_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta:",
+          "prompt_target": "Order the words to form a question:",
+          "options": [
+            "your",
+            "name",
+            "What's",
+            "?"
+          ],
+          "correct_answer": "What's your name?",
+          "explanation_form": "La pregunta correcta es 'What's your name?' (¿Cómo te llamas?).",
+          "explanation_target": "The correct question is 'What's your name?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_whats_your_name",
+            "name",
+            "your_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la respuesta: 'My ____ is Anna.'",
+          "prompt_target": "Complete the answer: 'My ____ is Anna.'",
+          "options": null,
+          "correct_answer": "name",
+          "explanation_form": "Para presentarte decís 'My name is Anna' (Mi nombre es Anna).",
+          "explanation_target": "To introduce yourself you say 'My name is Anna'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_my_name_is",
+            "name",
+            "my_det",
+            "present simple: be (am/is/are) with names"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "Tom is a student",
+            "Tom is a teacher",
+            "Tom is a dog",
+            "Tom is a cat"
+          ],
+          "correct_answer": "Tom is a student",
+          "explanation_form": "En el audio, Tom dice 'I am a student' (soy estudiante).",
+          "explanation_target": "In the audio, Tom says 'I am a student'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hello_interj",
+            "i_pronoun",
+            "student",
+            "present simple: be (am/is/are) with names",
+            "nice_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Hello. My name is Tom. I am a student. Nice to meet you.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué decís cuando conocés a alguien por primera vez?",
+          "prompt_target": "What do you say when you meet someone for the first time?",
+          "options": [
+            "Nice to meet you",
+            "Good morning",
+            "Bye",
+            "Good evening"
+          ],
+          "correct_answer": "Nice to meet you",
+          "explanation_form": "Cuando conocés a alguien por primera vez, decís 'Nice to meet you' (Mucho gusto).",
+          "explanation_target": "When you meet someone for the first time, you say 'Nice to meet you'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_nice_to_meet_you",
+            "meet_verb",
+            "nice_adj",
+            "to_prep",
+            "you_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué saludo escuchás?",
+          "prompt_target": "Listen and answer: What greeting do you hear?",
+          "options": [
+            "Good morning",
+            "Good afternoon",
+            "Good evening",
+            "Hello"
+          ],
+          "correct_answer": "Good afternoon",
+          "explanation_form": "El audio dice 'Good afternoon' (buenas tardes).",
+          "explanation_target": "The audio says 'Good afternoon'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "good_afternoon_interj",
+            "mr",
+            "smith",
+            "teacher",
+            "present simple: be (am/is/are) with names"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Good afternoon. I am Mr Smith. I am a teacher.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Emparejá cada saludo con su momento del día:",
+          "prompt_target": "Match each greeting with the time of day:",
+          "options": [
+            "Good morning",
+            "Mañana",
+            "Good evening",
+            "Noche",
+            "Good afternoon",
+            "Tarde"
+          ],
+          "correct_answer": [
+            "Good morning=Mañana",
+            "Good evening=Noche",
+            "Good afternoon=Tarde"
+          ],
+          "explanation_form": "Good morning es por la mañana, Good afternoon por la tarde y Good evening por la noche.",
+          "explanation_target": "Good morning is in the morning, Good afternoon in the afternoon and Good evening at night.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "good_morning_interj",
+            "good_afternoon_interj",
+            "good_evening_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con el saludo informal: '____, how are you?'",
+          "prompt_target": "Complete with the informal greeting: '____, how are you?'",
+          "options": null,
+          "correct_answer": "Hi",
+          "explanation_form": "Hi es un saludo informal (hola). Hello es más formal.",
+          "explanation_target": "Hi is an informal greeting. Hello is more formal.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hi_interj",
+            "hello_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de despedirse?",
+          "prompt_target": "Which is the correct way to say goodbye?",
+          "options": [
+            "Bye",
+            "Hello",
+            "Hi",
+            "Good morning"
+          ],
+          "correct_answer": "Bye",
+          "explanation_form": "Bye significa 'adiós' y se usa para despedirse.",
+          "explanation_target": "Bye means 'goodbye' and is used to say farewell.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "bye_interj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y elegí la respuesta correcta:",
+          "prompt_target": "Read the text and choose the correct answer:",
+          "options": [
+            "Lucy is a teacher",
+            "Lucy has a dog",
+            "Lucy has a cat",
+            "Lucy is a dog"
+          ],
+          "correct_answer": "Lucy has a cat",
+          "explanation_form": "El texto dice 'This is my cat' (este es mi gato), así que Lucy tiene un gato.",
+          "explanation_target": "The text says 'This is my cat', so Lucy has a cat.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hello_interj",
+            "cat",
+            "the_det",
+            "a_det",
+            "present simple: be (am/is/are) with names",
+            "i_pronoun",
+            "nice_adj"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": "Hello! My name is Lucy. I am a student. This is my cat. The cat is on the chair. Nice to meet you!",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Saludos y presentaciones\n\n- **\"Hi\" es informal** y \"Hello\" es más neutro. Usa \"Good morning\" (mañana), \"Good afternoon\" (tarde) y \"Good evening\" (noche) para saludar de forma educada.\n- **\"My name is...\"** es la forma más común de presentarse. En inglés no se dice \"me llamo\" literalmente; se usa \"my\" (mi) + \"name\" (nombre) + \"is\" (es).\n\n## Errores comunes\n\n- **No digas \"I name is\"** — el pronombre \"I\" no lleva \"my\". La forma correcta es: **\"My name is Ana\"**.\n- **\"Nice to meet you\"** se usa solo cuando conoces a alguien por primera vez. Si ya te presentaste antes, no lo repitas.\n- **Pregunta \"What's your name?\"** es la forma natural de preguntar el nombre. No uses \"What is your name?\" en conversación casual; suena muy formal.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:28:15Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

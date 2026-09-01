@@ -1,10 +1,10 @@
 "use client";
 
-import { useMemo, useState, type FormEvent } from "react";
-import { a1Roadmap } from "../../../a1-expanded-course";
+import { useMemo, useRef, useState, type FormEvent } from "react";
+import { loadCourseEntry, type CourseEntry } from "../../../course-content";
 import { allLessons, courseByLevel, levels, validLessonIds } from "../course-data";
 import { getLevelLessons } from "../course-utils";
-import type { AppView, Feedback, LegacyLevel, Lesson, Level } from "../types";
+import type { AppView, CourseContentLevel, Feedback, LegacyLevel, Lesson, Level } from "../types";
 import { usePersistentState } from "./use-persistent-state";
 
 function parseCompleted(value: unknown) {
@@ -17,7 +17,11 @@ function parseName(value: unknown) {
 }
 
 function isLegacyLevel(level: Level): level is LegacyLevel {
-  return level !== "A1";
+  return level === "C1";
+}
+
+function isCourseContentLevel(level: Level): level is CourseContentLevel {
+  return level !== "C1";
 }
 
 export function useAcademyState() {
@@ -25,6 +29,9 @@ export function useAcademyState() {
   const [studentName, setStudentName] = usePersistentState<string>("brightup-student-name", "Explorador", parseName);
   const [selectedLevel, setSelectedLevel] = useState<Level>("A1");
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null);
+  const [activeCourseEntry, setActiveCourseEntry] = useState<CourseEntry | null>(null);
+  const [courseLessonError, setCourseLessonError] = useState("");
+  const lessonRequest = useRef(0);
   const [lessonStep, setLessonStep] = useState(0);
   const [selectedAnswer, setSelectedAnswer] = useState("");
   const [feedback, setFeedback] = useState<Feedback>("idle");
@@ -35,7 +42,6 @@ export function useAcademyState() {
 
   const courseCompleted = allLessons.every((lesson) => completed.includes(lesson.id));
   const totalProgress = Math.round((completed.length / allLessons.length) * 100);
-  const activeA1Entry = activeLesson?.level === "A1" ? a1Roadmap[activeLesson.number - 1] : null;
   const activeContent = activeLesson && isLegacyLevel(activeLesson.level)
     ? courseByLevel[activeLesson.level][activeLesson.number - 1]
     : null;
@@ -47,21 +53,39 @@ export function useAcademyState() {
   }, [activeActivity, activeLesson, lessonStep]);
 
   const openLesson = (lesson: Lesson) => {
+    const requestId = lessonRequest.current + 1;
+    lessonRequest.current = requestId;
     setActiveLesson(lesson);
+    setActiveCourseEntry(null);
+    setCourseLessonError("");
     setLessonStep(0);
     setSelectedAnswer("");
     setFeedback("idle");
+    if (isCourseContentLevel(lesson.level) && lesson.sourceId) {
+      void loadCourseEntry(lesson.level, lesson.sourceId)
+        .then((entry) => {
+          if (lessonRequest.current === requestId) setActiveCourseEntry(entry);
+        })
+        .catch(() => {
+          if (lessonRequest.current === requestId) setCourseLessonError("No pudimos cargar esta lección. Vuelve a la ruta e inténtalo de nuevo.");
+        });
+    }
   };
 
-  const closeLesson = () => setActiveLesson(null);
+  const closeLesson = () => {
+    lessonRequest.current += 1;
+    setActiveLesson(null);
+    setActiveCourseEntry(null);
+    setCourseLessonError("");
+  };
 
-  const completeA1Lesson = () => {
+  const completeCourseLesson = () => {
     if (!activeLesson) return;
     setCompleted((current) => current.includes(activeLesson.id) ? current : [...current, activeLesson.id]);
   };
 
-  const exitA1Lesson = () => {
-    setActiveLesson(null);
+  const exitCourseLesson = () => {
+    closeLesson();
     setActiveView("route");
     window.history.replaceState(null, "", "#ruta");
   };
@@ -135,18 +159,18 @@ export function useAcademyState() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  const nextA1Lesson = () => {
+  const nextCourseLesson = () => {
     if (!activeLesson) return;
-    const following = getLevelLessons("A1")[activeLesson.number];
+    const following = getLevelLessons(activeLesson.level)[activeLesson.number];
     if (following) openLesson(following);
-    else setActiveLesson(null);
+    else closeLesson();
   };
 
   return {
-    completed, selectedLevel, setSelectedLevel, activeLesson, activeA1Entry, activeContent, activeActivity,
+    completed, selectedLevel, setSelectedLevel, activeLesson, activeCourseEntry, courseLessonError, activeContent, activeActivity,
     lessonStep, selectedAnswer, setSelectedAnswer, feedback, setFeedback, displayedOptions,
     menuOpen, setMenuOpen, activeView, studentName, nameDraft, setNameDraft, editingName,
-    courseCompleted, totalProgress, openLesson, closeLesson, completeA1Lesson, exitA1Lesson, nextA1Lesson,
+    courseCompleted, totalProgress, openLesson, closeLesson, completeCourseLesson, exitCourseLesson, nextCourseLesson,
     checkLegacyAnswer, continueLegacyLesson, saveStudentName, startEditingName, cancelEditingName,
     showHome, showRoute, showPractice,
   };

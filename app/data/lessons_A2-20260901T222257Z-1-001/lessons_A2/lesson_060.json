@@ -1,0 +1,1326 @@
+{
+  "id": "lesson_060",
+  "position": 60,
+  "unit_id": 8,
+  "course_id": "en.A2",
+  "title_form": "Giving advice about recycling",
+  "title_target": "Dando consejos sobre el reciclaje",
+  "theme_focus": "environment",
+  "learning_objectives": [
+    "Can give simple advice about recycling using 'should'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_057",
+    "lesson_058"
+  ],
+  "grammar_focus": [
+    "should: advice (review)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "cardboard",
+        "bin"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "recycling",
+        "reuse_verb",
+        "throw_away_verb",
+        "rubbish",
+        "plastic_adj",
+        "switch_off_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "María y su amigo Tomás están en la cocina de su casa después de una comida. Tomás quiere tirar todo a la basura, pero María le explica cómo reciclar mejor. Ella le da consejos sobre qué hacer con el cartón, el plástico y la basura, y Tomás hace preguntas para aprender.",
+  "introduction_md": "## Dando consejos sobre el reciclaje\n\nEn esta lección vas a aprender a dar consejos simples sobre el reciclaje usando **should** (deberías).\n\n- **should** es una palabra muy útil para dar consejos y sugerencias.\n- Vamos a practicar con vocabulario del medio ambiente: **cardboard** (cartón) y **bin** (contenedor).\n- También repasaremos palabras como **recycling**, **rubbish** y **plastic**.\n\nImagina que un amigo te pregunta cómo reciclar mejor. ¿Qué le aconsejas? Al final de la lección, podrás responder con frases como:\n\n> You **should** put the cardboard in the bin.\n\n¡Vamos a practicar!",
+  "intro_target": "## Giving advice about recycling\n\nIn this lesson, you are going to learn how to give simple advice about recycling using **should**.\n\n- **should** is a very useful word for giving advice and suggestions.\n- We are going to practice with environment vocabulary: **cardboard** and **bin**.\n- We will also review words like **recycling**, **rubbish** and **plastic**.\n\nImagine a friend asks you how to recycle better. What do you advise? At the end of the lesson, you will be able to answer with sentences like:\n\n> You **should** put the cardboard in the bin.\n\nLet's practice!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "cardboard",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You should put the cardboard in the recycling bin.",
+      "translation_form": "Deberías poner el cartón en el contenedor de reciclaje.",
+      "highlight_words": [
+        "cardboard",
+        "bin",
+        "recycling"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "bin",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Please throw the plastic bottle in the bin.",
+      "translation_form": "Por favor, tira la botella de plástico al bote.",
+      "highlight_words": [
+        "bin",
+        "plastic",
+        "throw"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You should reuse the cardboard box for your books.",
+      "translation_form": "Deberías reutilizar la caja de cartón para tus libros.",
+      "highlight_words": [
+        "cardboard",
+        "reuse"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "cardboard",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Don't throw away the cardboard; put it in the bin.",
+      "translation_form": "No tires el cartón; ponlo en el contenedor.",
+      "highlight_words": [
+        "cardboard",
+        "bin",
+        "throw"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "bin",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You should switch off the lights and use the recycling bin.",
+      "translation_form": "Deberías apagar las luces y usar el contenedor de reciclaje.",
+      "highlight_words": [
+        "bin",
+        "recycling",
+        "switch"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The rubbish goes in the bin, not on the street.",
+      "translation_form": "La basura va en el contenedor, no en la calle.",
+      "highlight_words": [
+        "bin",
+        "rubbish"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "should: advice (review)",
+      "title_form": "Deberías...: dando consejos con should",
+      "title_target": "You should...: giving advice with should",
+      "description_md_form": "Usamos **should** para dar consejos o sugerencias. Es como decir *deberías* en español. La estructura es simple: **sujeto + should + verbo base**. El verbo no cambia con *he*, *she* o *it*.\n\n- `You should put the cardboard in the bin.` = Deberías poner el cartón en el bote.\n- `You should reuse the plastic bottle.` = Deberías reutilizar la botella de plástico.\n\nPara la forma negativa, usamos **shouldn't** (should not):\n\n- `You shouldn't throw away the cardboard.` = No deberías tirar el cartón.\n\n**Importante**: *should* no necesita *to* después. Decimos *should put*, no *should to put*. Tampoco usamos *do/does* para preguntas: *Should I...?*",
+      "description_md_target": "We use **should** to give advice or suggestions. It's like saying *deberías* in Spanish. The structure is simple: **subject + should + base verb**. The verb doesn't change with *he*, *she*, or *it*.\n\n- `You should put the cardboard in the bin.`\n- `You should reuse the plastic bottle.`\n\nFor the negative form, we use **shouldn't** (should not):\n\n- `You shouldn't throw away the cardboard.`\n\n**Important**: *should* doesn't need *to* after it. We say *should put*, not *should to put*. We also don't use *do/does* for questions: *Should I...?*",
+      "grammar_structure": "Subject + should + base verb",
+      "conjugation_table": {
+        "name": "should_advice",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo"
+        ],
+        "rows": [
+          [
+            "I",
+            "I should put",
+            "I shouldn't put"
+          ],
+          [
+            "you",
+            "you should put",
+            "you shouldn't put"
+          ],
+          [
+            "he/she/it",
+            "he should put",
+            "he shouldn't put"
+          ],
+          [
+            "we",
+            "we should put",
+            "we shouldn't put"
+          ],
+          [
+            "they",
+            "they should put",
+            "they shouldn't put"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "should: advice (review)",
+          "text_target": "You should put the cardboard in the bin.",
+          "translation_form": "Deberías poner el cartón en el bote.",
+          "highlight_words": [
+            "should",
+            "put"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "should: advice (review)",
+          "text_target": "You shouldn't throw away the plastic bottle.",
+          "translation_form": "No deberías tirar la botella de plástico.",
+          "highlight_words": [
+            "shouldn't",
+            "throw"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Consejo**: *should* es igual para todas las personas. No digas *he shoulds* — siempre es *he should*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: No digas *should to put*. *Should* va seguido del verbo base sin *to*."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'you should to put' en lugar de 'you should put' (no usamos 'to' después de 'should').",
+        "Decir 'he shoulds' en lugar de 'he should' (el verbo no cambia con 'he', 'she' o 'it').",
+        "Usar 'do' en preguntas: 'Do you should...?' es incorrecto. La forma correcta es 'Should you...?'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'cardboard'?",
+      "options": [
+        "Cartón",
+        "Plástico",
+        "Papel",
+        "Vidrio"
+      ],
+      "correct_answer": "Cartón",
+      "explanation_md": "'Cardboard' es el material grueso de las cajas, es decir, cartón.",
+      "related_lexeme_ids": [
+        "cardboard"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'bin'?",
+      "options": [
+        "Contenedor / bote de basura",
+        "Botella",
+        "Caja",
+        "Bolsa"
+      ],
+      "correct_answer": "Contenedor / bote de basura",
+      "explanation_md": "'Bin' es el contenedor donde ponemos la basura o el reciclaje.",
+      "related_lexeme_ids": [
+        "bin"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "cardboard",
+        "Cartón",
+        "bin",
+        "Contenedor",
+        "rubbish",
+        "Basura",
+        "reuse",
+        "Reutilizar"
+      ],
+      "correct_answer": [
+        "cardboard=Cartón",
+        "bin=Contenedor",
+        "rubbish=Basura",
+        "reuse=Reutilizar"
+      ],
+      "explanation_md": "Estas palabras son clave para hablar de reciclaje en inglés.",
+      "related_lexeme_ids": [
+        "cardboard",
+        "bin"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la frase: 'You should put the cardboard in the ____ bin.'",
+      "options": [
+        "plastic",
+        "recycling",
+        "paper",
+        "glass"
+      ],
+      "correct_answer": "recycling",
+      "explanation_md": "Usamos 'recycling bin' para hablar del contenedor de reciclaje.",
+      "related_lexeme_ids": [
+        "cardboard",
+        "bin"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con la palabra correcta: 'Don't throw away the ____; put it in the bin.'",
+      "options": null,
+      "correct_answer": "cardboard",
+      "explanation_md": "La frase habla de no tirar el cartón, así que la palabra correcta es 'cardboard'.",
+      "related_lexeme_ids": [
+        "cardboard",
+        "bin"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Deberías reutilizar la caja de cartón.'",
+      "options": null,
+      "correct_answer": "You should reuse the cardboard box.",
+      "explanation_md": "Usamos 'should' para dar consejos y 'reuse' para reutilizar.",
+      "related_lexeme_ids": [
+        "cardboard"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Please throw the plastic bottle in the bin.'",
+      "options": null,
+      "correct_answer": "Por favor, tira la botella de plástico al contenedor.",
+      "explanation_md": "La frase pide tirar la botella de plástico en el contenedor.",
+      "related_lexeme_ids": [
+        "bin"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la mejor respuesta para dar un consejo?",
+      "options": [
+        "You should switch off the lights.",
+        "You should eating vegetables.",
+        "You should to recycle.",
+        "You should recycling the paper."
+      ],
+      "correct_answer": "You should switch off the lights.",
+      "explanation_md": "Después de 'should' usamos el verbo en forma base: 'switch off'.",
+      "related_lexeme_ids": [
+        "switch_off_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué debe hacer Tom con el cartón?",
+      "options": [
+        "Debe tirarlo a la basura.",
+        "Debe ponerlo en el contenedor de reciclaje.",
+        "Debe guardarlo en la cocina.",
+        "Debe quemarlo."
+      ],
+      "correct_answer": "Debe ponerlo en el contenedor de reciclaje.",
+      "explanation_md": "Anna le aconseja a Tom poner el cartón en el contenedor de reciclaje.",
+      "related_lexeme_ids": [
+        "cardboard",
+        "bin",
+        "throw_away_verb",
+        "rubbish"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom has a big cardboard box in his kitchen. He doesn't want to throw it away. His friend Anna says, 'You should put the cardboard in the recycling bin. Don't put it with the rubbish.' Tom thinks it's a good idea. He takes the box to the recycling bin outside.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué debe hacer la persona con las botellas de plástico?",
+      "options": [
+        "Debe tirarlas a la basura.",
+        "Debe ponerlas en el contenedor de reciclaje.",
+        "Debe guardarlas en la cocina.",
+        "Debe venderlas."
+      ],
+      "correct_answer": "Debe ponerlas en el contenedor de reciclaje.",
+      "explanation_md": "El audio aconseja poner las botellas de plástico en el contenedor de reciclaje.",
+      "related_lexeme_ids": [
+        "bin",
+        "plastic_adj",
+        "throw_away_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "You have some plastic bottles in your kitchen. You should not throw them away. Please put them in the recycling bin. It is good for the environment.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones dando consejos sobre cómo reciclar en tu casa. Usa 'should' y palabras como 'cardboard', 'bin', 'plastic', 'reuse'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'should' + verbo base y el vocabulario de reciclaje.",
+      "related_lexeme_ids": [
+        "cardboard",
+        "bin",
+        "reuse_verb",
+        "plastic_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "You should put the cardboard in the recycling bin.",
+        "You should reuse plastic bottles.",
+        "Don't throw away the rubbish; put it in the bin."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con la palabra correcta: 'You should ____ the cardboard box for your books.'",
+      "options": null,
+      "correct_answer": "reuse",
+      "explanation_md": "El consejo es reutilizar la caja de cartón, así que usamos 'reuse'.",
+      "related_lexeme_ids": [
+        "cardboard",
+        "reuse_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "cardboard",
+      "back": "cartón",
+      "hint": "material para cajas",
+      "lexeme_id": "cardboard",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_060",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "bin",
+      "back": "bote / cubo / balde",
+      "hint": "para tirar cosas",
+      "lexeme_id": "bin",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_060",
+        "A2",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "recycling",
+      "back": "reciclaje",
+      "hint": "acción de reciclar",
+      "lexeme_id": "recycling",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_060",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "reuse",
+      "back": "reutilizar",
+      "hint": "usar de nuevo",
+      "lexeme_id": "reuse_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_060",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "throw away",
+      "back": "tirar / desechar",
+      "hint": "poner en la basura",
+      "lexeme_id": "throw_away_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_060",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "rubbish",
+      "back": "basura",
+      "hint": "cosas que no sirven",
+      "lexeme_id": "rubbish",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_060",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "plastic",
+      "back": "plástico",
+      "hint": "material de botellas",
+      "lexeme_id": "plastic_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_060",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "switch off",
+      "back": "apagar",
+      "hint": "apagar la luz",
+      "lexeme_id": "switch_off_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_060",
+        "A2",
+        "environment"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "cardboard",
+      "reading": "",
+      "translation": "carton",
+      "pos": "noun",
+      "example": "You should put the cardboard in the recycling bin.",
+      "example_translation": "Deberías poner el cartón en el contenedor de reciclaje.",
+      "lexeme_id": "cardboard",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bin",
+      "reading": "",
+      "translation": "bote / cubo / balde",
+      "pos": "noun",
+      "example": "Please throw the plastic bottle in the bin.",
+      "example_translation": "Por favor, tira la botella de plástico al bote.",
+      "lexeme_id": "bin",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "cardboard",
+      "role": "support",
+      "status": "practiced",
+      "translation": "carton",
+      "lexeme_id": "cardboard",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_001",
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_006",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "bin",
+      "role": "support",
+      "status": "practiced",
+      "translation": "bote / cubo / balde",
+      "lexeme_id": "bin",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_005",
+        "ex_002",
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "switch off",
+      "role": "support",
+      "status": "review",
+      "translation": "apagar (interruptor)",
+      "lexeme_id": "switch_off_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "rubbish",
+      "role": "support",
+      "status": "review",
+      "translation": "basura",
+      "lexeme_id": "rubbish",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "throw away",
+      "role": "support",
+      "status": "review",
+      "translation": "tirar / desechar",
+      "lexeme_id": "throw_away_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "plastic",
+      "role": "support",
+      "status": "review",
+      "translation": "plástico",
+      "lexeme_id": "plastic_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "reuse",
+      "role": "support",
+      "status": "review",
+      "translation": "reutilizar",
+      "lexeme_id": "reuse_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "recycling",
+      "role": "support",
+      "status": "review",
+      "translation": "reciclaje",
+      "lexeme_id": "recycling",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "recycle",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reusar / reciclar / reutilizar",
+      "lexeme_id": "recycle_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_005",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_003",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "put",
+      "role": "support",
+      "status": "emergent",
+      "translation": "poner",
+      "lexeme_id": "put_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "rubbish",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "ex_011",
+        "fc_006",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "switch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "interruptor",
+      "lexeme_id": "switch",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "fc_008",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "emergent",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "fc_008",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "recycling bin",
+      "role": "support",
+      "status": "emergent",
+      "translation": "contenedor de reciclaje",
+      "lexeme_id": "recycling_bin",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_005",
+        "ex_009",
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "box",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caja",
+      "lexeme_id": "box",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "bottle",
+      "role": "support",
+      "status": "emergent",
+      "translation": "botella",
+      "lexeme_id": "bottle",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "street",
+      "role": "support",
+      "status": "emergent",
+      "translation": "calle",
+      "lexeme_id": "street",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "plastic bottle",
+      "role": "support",
+      "status": "emergent",
+      "translation": "botella de plástico",
+      "lexeme_id": "plastic_bottle",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "advice",
+      "role": "support",
+      "status": "emergent",
+      "translation": "consejo",
+      "lexeme_id": "advice",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "review",
+      "role": "support",
+      "status": "emergent",
+      "translation": "revisión",
+      "lexeme_id": "review",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "bag",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bolsa",
+      "lexeme_id": "bag",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "save",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahorrar / salvar",
+      "lexeme_id": "save_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "energy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "kitchen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cocina",
+      "lexeme_id": "kitchen",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "environment",
+      "role": "support",
+      "status": "emergent",
+      "translation": "entorno",
+      "lexeme_id": "environment",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 2,
+    "review_support_count": 6,
+    "emergent_count": 20,
+    "emergent_terms": [
+      "recycle",
+      "put",
+      "rubbish",
+      "switch",
+      "off",
+      "recycling bin",
+      "box",
+      "bottle",
+      "street",
+      "book",
+      "plastic bottle",
+      "advice",
+      "review",
+      "good",
+      "word",
+      "bag",
+      "save",
+      "energy",
+      "kitchen",
+      "environment"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Giving advice about recycling",
+      "title_target": "Quiz: Giving advice about recycling",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'cardboard'?",
+          "prompt_target": "What does 'cardboard' mean?",
+          "options": [
+            "Cartón",
+            "Plástico",
+            "Vidrio",
+            "Papel"
+          ],
+          "correct_answer": "Cartón",
+          "explanation_form": "'Cardboard' es cartón, el material de las cajas.",
+          "explanation_target": "'Cardboard' is the material of boxes.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cardboard"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué objeto usamos para tirar la basura?",
+          "prompt_target": "What object do we use to throw away rubbish?",
+          "options": [
+            "A bin",
+            "A box",
+            "A bag",
+            "A bottle"
+          ],
+          "correct_answer": "A bin",
+          "explanation_form": "Un 'bin' es un contenedor de basura.",
+          "explanation_target": "A 'bin' is a container for rubbish.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "bin"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'You ____ recycle cardboard.' (consejo)",
+          "prompt_target": "Complete the sentence: 'You ____ recycle cardboard.' (advice)",
+          "options": null,
+          "correct_answer": "should",
+          "explanation_form": "Usamos 'should' para dar consejos.",
+          "explanation_target": "We use 'should' to give advice.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "should: advice (review)"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "Put cardboard in the bin",
+            "Throw cardboard away",
+            "Burn the cardboard",
+            "Put plastic in the bin"
+          ],
+          "correct_answer": "Put cardboard in the bin",
+          "explanation_form": "El audio dice que debes poner el cartón en el contenedor.",
+          "explanation_target": "The audio says you should put the cardboard in the bin.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cardboard",
+            "bin",
+            "should: advice (review)"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "You should put the cardboard in the bin. Do not throw it away. Reuse the plastic bags. Switch off the lights.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "Reuse plastic",
+            "Throw away plastic",
+            "Burn plastic",
+            "Buy plastic"
+          ],
+          "correct_answer": "Reuse plastic",
+          "explanation_form": "El audio dice que no debes tirar el plástico, puedes reutilizarlo.",
+          "explanation_target": "The audio says you should not throw away plastic, you can reuse it.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "plastic_adj",
+            "reuse_verb",
+            "throw_away_verb",
+            "should: advice (review)"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "You should not throw away plastic. You can reuse it. Switch off the lights to save energy.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé:",
+          "prompt_target": "Read the text and answer:",
+          "options": [
+            "Put rubbish on the street",
+            "Reuse plastic bags",
+            "Burn cardboard",
+            "Switch on the lights"
+          ],
+          "correct_answer": "Reuse plastic bags",
+          "explanation_form": "El texto dice que puedes reutilizar las bolsas de plástico.",
+          "explanation_target": "The text says you can reuse plastic bags.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cardboard",
+            "bin",
+            "plastic_adj",
+            "reuse_verb",
+            "rubbish",
+            "switch_off_verb",
+            "throw_away_verb",
+            "should: advice (review)"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Recycling is good for the environment. You should put cardboard and plastic in the bin. Do not throw away rubbish on the street. You can reuse plastic bags. Switch off the lights to save energy. This is a good habit.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "bin",
+            "contenedor",
+            "cardboard",
+            "cartón",
+            "rubbish",
+            "basura",
+            "reuse",
+            "reutilizar"
+          ],
+          "correct_answer": [
+            "bin=contenedor",
+            "cardboard=cartón",
+            "rubbish=basura",
+            "reuse=reutilizar"
+          ],
+          "explanation_form": "Estas son las palabras clave del reciclaje.",
+          "explanation_target": "These are the key recycling words.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "bin",
+            "cardboard",
+            "rubbish",
+            "reuse_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase:",
+          "prompt_target": "Order the words to form a sentence:",
+          "options": [
+            "should",
+            "You",
+            "recycle",
+            "cardboard"
+          ],
+          "correct_answer": "You should recycle cardboard",
+          "explanation_form": "La frase correcta es 'You should recycle cardboard'.",
+          "explanation_target": "The correct sentence is 'You should recycle cardboard'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cardboard",
+            "should: advice (review)"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Consejos para dar advice con 'should'\n\nEn esta lección usaste **should** para dar consejos sobre reciclaje. Recuerda la estructura: **should + verbo base** (sin 'to'). Por ejemplo: *You should put the cardboard in the bin*. Para negar, usa **shouldn't**: *You shouldn't throw away plastic*.\n\n## Errores comunes\n\n- **No digas** *You should to recycle*. El 'to' sobra: *You should recycle*.\n- **No confundas** *bin* (el contenedor de basura) con *can* (la lata). El cartón (*cardboard*) va en el *bin* de reciclaje.\n- Para preguntar, invierte: *Should I put this here?*",
+  "metadata": {
+    "generated_at": "2026-08-31T19:00:29Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

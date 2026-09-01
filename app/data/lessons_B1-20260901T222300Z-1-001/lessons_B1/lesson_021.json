@@ -1,0 +1,1491 @@
+{
+  "id": "lesson_021",
+  "position": 21,
+  "unit_id": 7,
+  "course_id": "en.B1",
+  "title_form": "Describir tecnología cotidiana",
+  "title_target": "Describing everyday technology",
+  "theme_focus": "technology and media",
+  "learning_objectives": [
+    "Can understand a straightforward product description and identify the people or things it refers to."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_020"
+  ],
+  "grammar_focus": [
+    "Defining relative clauses with who, which and that."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "smartphone",
+        "website"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "device",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the technology and media situation."
+      },
+      {
+        "term": "website",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the technology and media situation."
+      },
+      {
+        "term": "which helps users",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "that connects",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "who",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "which",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos trabaja en una tienda de tecnología y le muestra un nuevo smartphone a una clienta. Él explica las características del dispositivo y recomienda un sitio web que ayuda a los usuarios a configurar sus aplicaciones. La clienta le hace preguntas sobre el desarrollador que diseñó la aplicación.",
+  "introduction_md": "¡Bienvenidos a esta lección sobre tecnología cotidiana! En el mundo de hoy, usamos diferentes dispositivos y herramientas digitales a diario. Saber describirlos y explicar para qué sirven es esencial para comunicarte de manera clara y precisa en inglés.\n\nEn esta lección aprenderás a:\n- Describir tecnología cotidiana usando vocabulario específico como *device* o *website*.\n- Conectar ideas de forma fluida mediante las cláusulas relativas explicativas (*who*, *which*, *that*).\n- Utilizar expresiones útiles como *which helps users* y *that connects* para detallar la función de cada herramienta.\n\nAl finalizar, serás capaz de entender la descripción de un producto o sitio web y explicar con confianza qué hace cada dispositivo. ¡Empecemos a explorar el lenguaje de la tecnología!",
+  "intro_target": "Welcome to this lesson on everyday technology! In today's world, we use different devices and digital tools every day. Knowing how to describe them and explain what they do is essential for communicating clearly and accurately in English.\n\nIn this lesson, you will learn to:\n- Describe everyday technology using specific vocabulary such as *device* or *website*.\n- Connect ideas smoothly using defining relative clauses (*who*, *which*, *that*).\n- Use helpful phrases like *which helps users* and *that connects* to detail the function of each tool.\n\nBy the end of this lesson, you will be able to understand product descriptions for a device or website and confidently explain what each technology does. Let's start exploring the language of technology!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "A smartphone is a smart device which helps users complete daily tasks and connect with friends online.",
+      "translation_form": "Un teléfono inteligente es un dispositivo inteligente que ayuda a los usuarios a completar tareas diarias y conectarse con amigos en línea.",
+      "highlight_words": [
+        "smartphone",
+        "device",
+        "which",
+        "helps",
+        "users"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I want to buy a fast smartphone that connects to the internet quickly when I work at home.",
+      "translation_form": "Quiero comprar un teléfono inteligente rápido que se conecte a internet rápidamente cuando trabajo en casa.",
+      "highlight_words": [
+        "smartphone",
+        "that",
+        "connects"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is the engineer who created a popular website for people learning languages.",
+      "translation_form": "Ella es la ingeniera que creó un sitio web popular para personas que aprenden idiomas.",
+      "highlight_words": [
+        "who",
+        "website"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This is a useful device which helps users organize their schedules on a smartphone.",
+      "translation_form": "Este es un dispositivo útil que ayuda a los usuarios a organizar sus horarios en un teléfono inteligente.",
+      "highlight_words": [
+        "device",
+        "which",
+        "helps",
+        "users",
+        "smartphone"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We found a helpful website that connects students with experienced teachers around the world.",
+      "translation_form": "Encontramos un sitio web útil que conecta a estudiantes con profesores experimentados en todo el mundo.",
+      "highlight_words": [
+        "website",
+        "that",
+        "connects"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Defining relative clauses with who, which and that.",
+      "title_form": "Oraciones relativas especificativas con who, which y that",
+      "title_target": "Defining relative clauses with who, which and that",
+      "description_md_form": "Las **oraciones relativas especificativas** (*defining relative clauses*) proporcionan información esencial para identificar a una persona o cosa. Sin esta información, la frase principal quedaría incompleta o sería demasiado ambigua.\n\nPara formar estas oraciones utilizamos los siguientes pronombres relativos:\n- **who**: se utiliza exclusivamente para personas.\n- **which**: se utiliza para objetos, cosas o animales.\n- **that**: es más informal y puede reemplazar tanto a *who* como a *which* en la conversación cotidiana.\n\nEn este tipo de oraciones **no se usan comas**, ya que la cláusula es indispensable para definir de qué o de quién estamos hablando exactamente.",
+      "description_md_target": "**Defining relative clauses** provide essential information to identify a person or a thing. Without this clause, the main sentence would be incomplete or too vague.\n\nWe use the following relative pronouns to introduce these clauses:\n- **who**: used exclusively for people.\n- **which**: used for objects, things, or animals.\n- **that**: more informal, used for both people and things in everyday spoken English.\n\nIn defining relative clauses, **no commas are used** because the information is necessary to specify the noun.",
+      "grammar_structure": "Noun (person/thing) + relative pronoun (who / which / that) + clause",
+      "conjugation_table": {
+        "name": "relative_pronouns_usage",
+        "headers": [
+          "Antecedente",
+          "Pronombres permitidos",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Personas",
+            "who / that",
+            "the engineer who created the website"
+          ],
+          [
+            "Cosas o tecnología",
+            "which / that",
+            "a device which helps users"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Defining relative clauses with who, which and that.",
+          "text_target": "This is a useful device which helps users organize their daily schedules.",
+          "translation_form": "Este es un dispositivo útil que ayuda a los usuarios a organizar sus horarios diarios.",
+          "highlight_words": [
+            "device",
+            "which",
+            "helps"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Defining relative clauses with who, which and that.",
+          "text_target": "We found a helpful website that connects students with experienced teachers around the world.",
+          "translation_form": "Encontramos un sitio web útil que conecta a estudiantes con profesores experimentados en todo el mundo.",
+          "highlight_words": [
+            "website",
+            "that",
+            "connects"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "Recuerda que en las oraciones especificativas **nunca debemos poner comas** antes del pronombre relativo."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No repitas el pronombre sujeto u objeto después del pronombre relativo. Di *a website that connects users*, no *a website that it connects users*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'which' para referirse a personas en lugar de 'who'.",
+        "Repetir el pronombre sujeto u objeto dentro de la cláusula relativa (ej. 'the device that it helps me').",
+        "Escribir comas alrededor de la cláusula relativa especificativa."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'device' en español?",
+      "options": [
+        "dispositivo",
+        "sitio web",
+        "pantalla",
+        "aplicación"
+      ],
+      "correct_answer": "dispositivo",
+      "explanation_md": "'Device' significa 'dispositivo', un objeto o aparato tecnológico como un teléfono o una computadora.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona el pronombre relativo correcto para completar la oración:\n\n'A smartphone is a device _____ helps people communicate.'",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "correct_answer": "which",
+      "explanation_md": "Usamos 'which' (o 'that') para referirnos a objetos o cosas como 'a device'.",
+      "related_lexeme_ids": [
+        "smartphone"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada término con su traducción o función:",
+      "options": [
+        "device",
+        "dispositivo",
+        "website",
+        "sitio web",
+        "who",
+        "quien / que (para personas)",
+        "which",
+        "el cual / que (para cosas)"
+      ],
+      "correct_answer": [
+        "device=dispositivo",
+        "website=sitio web",
+        "who=quien / que (para personas)",
+        "which=el cual / que (para cosas)"
+      ],
+      "explanation_md": "'who' se utiliza para personas, 'which' para cosas u objetos, 'device' es dispositivo y 'website' es sitio web.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el pronombre relativo adecuado para personas ('who'):\n\n'She is the teacher _____ created a helpful website.'",
+      "options": null,
+      "correct_answer": "who",
+      "explanation_md": "Para hacer referencia a una persona ('the teacher'), utilizamos el pronombre relativo 'who'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Este es un sitio web que conecta a los estudiantes.'",
+      "options": null,
+      "correct_answer": "This is a website that connects students.",
+      "explanation_md": "'that connects' se traduce como 'que conecta', haciendo referencia al sustantivo 'website'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la siguiente oración:\n\n'I have a useful smartphone which helps me every day.'",
+      "options": null,
+      "correct_answer": "Tengo un teléfono inteligente útil que me ayuda todos los días.",
+      "explanation_md": "'which helps me' introduce una cláusula relativa que describe a 'smartphone'.",
+      "related_lexeme_ids": [
+        "smartphone"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto y responde la pregunta:\n\n¿Qué creó Marco y qué función cumple su plataforma?",
+      "options": [
+        "Un sitio web que conecta a estudiantes con profesores de idiomas.",
+        "Una tienda en línea que vende teléfonos inteligentes.",
+        "Un programa para reparar computadoras y laptops.",
+        "Un juego para descargar en el teléfono."
+      ],
+      "correct_answer": "Un sitio web que conecta a estudiantes con profesores de idiomas.",
+      "explanation_md": "El texto menciona expresamente que Marco creó un sitio web ('website') que conecta a estudiantes con profesores de idiomas ('connects students with language teachers').",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Marco is a computer student who created a new website. It is a smart platform that connects students with language teachers. Many people use a smartphone or laptop to access the website. Marco wanted to design a device or tool which helps friends learn together online. Today, many students use his website every day.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el audio y responde: ¿Qué tipo de dispositivo busca la persona?",
+      "options": [
+        "Un dispositivo sencillo que se conecte a internet rápidamente.",
+        "Un sitio web para comprar un teléfono antiguo.",
+        "Una computadora rápida para la oficina.",
+        "Un curso de idiomas en línea."
+      ],
+      "correct_answer": "Un dispositivo sencillo que se conecte a internet rápidamente.",
+      "explanation_md": "La persona menciona que busca 'a simple device which connects to the internet quickly'.",
+      "related_lexeme_ids": [
+        "smartphone"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I am looking for a simple device which connects to the internet quickly. My smartphone is old and very slow.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con el pronombre relativo adecuado para cosas ('which'):\n\n'This is a modern device _____ helps users organize their work.'",
+      "options": null,
+      "correct_answer": "which",
+      "explanation_md": "Usamos 'which' para enlazar una cláusula que describe un objeto o aparato ('a modern device').",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "free_production",
+      "prompt_md": "Escribe 2 oraciones en inglés describiendo un dispositivo o sitio web que utilices a diario. Usa los pronombres relativos 'who', 'which' o 'that'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Demuestra el uso de 'which', 'that' o 'who' para describir la función de una herramienta tecnológica ('device' o 'website').",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I use a smartphone which helps me study English.",
+        "This is a website that connects me with my friends."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Quién creó la guía digital? / Read the short story and answer: Who created the digital guide?",
+      "options": [
+        "Ana, the volunteer who created the guide.",
+        "The neighbours who use the smartphone.",
+        "The website that lists local services.",
+        "The visitors who joined the project."
+      ],
+      "correct_answer": "Ana, the volunteer who created the guide.",
+      "explanation_md": "Ana es la voluntaria que creó la guía: 'the volunteer who created the guide'. / Ana is the volunteer who created the guide.",
+      "related_lexeme_ids": [
+        "smartphone",
+        "website"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Last month, I joined a community project that teaches older neighbours how to use technology. I brought a smartphone which has a simple screen and showed them a website that connects them with local services. Ana is the volunteer who created the guide. She explained that the website helps users find events and report problems. Now I use the device that I bought for the project every Saturday.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Qué herramienta ayuda a los residentes a encontrar eventos locales? / Listen to the short story and answer: Which tool helps residents find local events?",
+      "options": [
+        "A website which helps residents find local events.",
+        "A smartphone that checks every volunteer.",
+        "A guide who teaches the digital lessons.",
+        "A community centre that repairs laptops."
+      ],
+      "correct_answer": "A website which helps residents find local events.",
+      "explanation_md": "El sitio web ayuda a los residentes a encontrar eventos locales: 'a website which helps residents find local events'. / The website helps residents find local events.",
+      "related_lexeme_ids": [
+        "smartphone",
+        "website"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I volunteer at a community centre that offers free digital lessons. We use a website which helps residents find local events, and I show them a smartphone that connects to the centre's Wi-Fi. Leo is the volunteer who checks the devices before each class. I use the phone that I repaired yesterday to demonstrate how to send a message.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "smartphone",
+      "back": "teléfono inteligente",
+      "hint": "teléfono móvil con funciones avanzadas",
+      "lexeme_id": "smartphone",
+      "chunk_id": null,
+      "tags": [
+        "lesson_021",
+        "B1",
+        "technology"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "website",
+      "back": "sitio web / página web",
+      "hint": "página en internet que ofrece información o servicios",
+      "lexeme_id": "website",
+      "chunk_id": null,
+      "tags": [
+        "lesson_021",
+        "B1",
+        "technology"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "the smartphone that I use",
+      "back": "el teléfono inteligente que uso",
+      "hint": "ejemplo de un dispositivo identificado con una cláusula relativa",
+      "lexeme_id": "smartphone",
+      "chunk_id": null,
+      "tags": [
+        "lesson_021",
+        "B1",
+        "technology"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "Can you tell me which device you use?",
+      "back": "¿Puedes decirme qué dispositivo usas?",
+      "hint": "pregunta natural para pedir una descripción de tecnología cotidiana",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "tags": [
+        "lesson_021",
+        "B1",
+        "technology"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "What do you think about this smartphone?",
+      "back": "¿Qué piensas de este teléfono inteligente?",
+      "hint": "pregunta para pedir una opinión sobre un dispositivo",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_what_do_you_think",
+      "tags": [
+        "lesson_021",
+        "B1",
+        "technology"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [],
+  "lesson_vocabulary": [
+    {
+      "term": "device",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "dispositivo",
+      "lexeme_id": "device",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "Defining relative clauses with who, which and that.",
+        "ex_007",
+        "ex_008",
+        "ex_011",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "website",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "sitio web / página web",
+      "lexeme_id": "website",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "exm_005",
+        "Defining relative clauses with who, which and that.",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "which helps users",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "Defining relative clauses with who, which and that."
+      ]
+    },
+    {
+      "term": "that connects",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_005",
+        "Defining relative clauses with who, which and that.",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "who",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "quién",
+      "lexeme_id": "who_wh",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Defining relative clauses with who, which and that.",
+        "ex_007",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "which",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "Defining relative clauses with who, which and that.",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "smartphone",
+      "role": "support",
+      "status": "review",
+      "translation": "teléfono inteligente / smartphone",
+      "lexeme_id": "smartphone",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_002",
+        "ex_006",
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "Can you tell me how to ...?",
+      "role": "support",
+      "status": "review",
+      "translation": "¿Puedes decirme cómo ...?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "What do you think?",
+      "role": "support",
+      "status": "review",
+      "translation": "¿Qué piensas?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_what_do_you_think",
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_010",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_007",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_007",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "smart",
+      "role": "support",
+      "status": "emergent",
+      "translation": "inteligente",
+      "lexeme_id": "smart",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "create",
+      "role": "support",
+      "status": "emergent",
+      "translation": "crear",
+      "lexeme_id": "create",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "online",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "internet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "internet",
+      "lexeme_id": "internet",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "quickly",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rápidamente",
+      "lexeme_id": "quickly_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "found",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fundar",
+      "lexeme_id": "found_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "language",
+      "role": "support",
+      "status": "emergent",
+      "translation": "idioma",
+      "lexeme_id": "language",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "think about",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pensar en",
+      "lexeme_id": "think_about_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "think",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pensar / creer",
+      "lexeme_id": "think_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "tell",
+      "role": "support",
+      "status": "emergent",
+      "translation": "decir / contar",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "world",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mundo",
+      "lexeme_id": "world",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "fast",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "buy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comprar",
+      "lexeme_id": "buy_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "schedule",
+      "role": "support",
+      "status": "emergent",
+      "translation": "horario",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "engineer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ingeniero/a",
+      "lexeme_id": "engineer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "task",
+      "role": "support",
+      "status": "emergent",
+      "translation": "faena / labor / tarea",
+      "lexeme_id": "task",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "useful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "útil",
+      "lexeme_id": "useful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "helpful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "útil",
+      "lexeme_id": "helpful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "organize",
+      "role": "support",
+      "status": "emergent",
+      "translation": "organizar",
+      "lexeme_id": "organize_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "daily",
+      "role": "support",
+      "status": "emergent",
+      "translation": "diario / diariamente / cotidianamente",
+      "lexeme_id": "daily_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "relative",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pariente",
+      "lexeme_id": "relative",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "community",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comunidad",
+      "lexeme_id": "community",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_004",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "event",
+      "role": "support",
+      "status": "emergent",
+      "translation": "evento",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "volunteer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "voluntario",
+      "lexeme_id": "volunteer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "technology",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ingeniería / tecnología",
+      "lexeme_id": "technology",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 3,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "friend",
+      "student",
+      "teacher",
+      "smart",
+      "create",
+      "online",
+      "work",
+      "want",
+      "internet",
+      "quickly",
+      "found",
+      "language",
+      "think about",
+      "think",
+      "home",
+      "tell",
+      "world",
+      "fast",
+      "buy",
+      "schedule",
+      "engineer",
+      "task",
+      "useful",
+      "helpful",
+      "organize",
+      "daily",
+      "relative",
+      "community",
+      "check",
+      "event",
+      "volunteer",
+      "technology"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describir tecnología cotidiana",
+      "title_target": "Quiz: Describing everyday technology",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "Elige la opción correcta para completar la oración sobre un aparato.",
+          "prompt_target": "Choose the correct option to complete the sentence about a device.",
+          "options": [
+            "This is a new device which helps me at work.",
+            "This is a new device who helps me at work.",
+            "This is a new device where helps me at work."
+          ],
+          "correct_answer": "This is a new device which helps me at work.",
+          "explanation_form": "Usamos el pronombre relativo 'which' para referirnos a objetos o cosas como 'device', mientras que 'who' se utiliza para personas.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "device",
+            "which",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase con el pronombre relativo adecuado ('who' o 'which'): 'I have a friend ____ sells smartphones.'",
+          "prompt_target": "Fill in the blank with the correct relative pronoun ('who' or 'which'): 'I have a friend ____ sells smartphones.'",
+          "options": null,
+          "correct_answer": "who",
+          "explanation_form": "Se utiliza 'who' porque el antecedente es una persona ('a friend').",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "smartphone",
+            "who",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración correcta sobre un sitio web.",
+          "prompt_target": "Order the words to form a correct sentence about a website.",
+          "options": [
+            "I",
+            "know",
+            "a",
+            "website",
+            "which",
+            "is",
+            "very",
+            "useful."
+          ],
+          "correct_answer": "I know a website which is very useful.",
+          "explanation_form": "La oración relativa explicativa describe el sitio web usando el pronombre 'which'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "website",
+            "which",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Qué aparato utiliza Mary para revisar las tareas de los estudiantes?",
+          "prompt_target": null,
+          "options": [
+            "A smart device which helps her check homework.",
+            "A smartphone to call parents.",
+            "A computer at school.",
+            "A book from the library."
+          ],
+          "correct_answer": "A smart device which helps her check homework.",
+          "explanation_form": "El texto indica explícitamente que Mary tiene un 'smart device' que le ayuda a revisar las tareas.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "device",
+            "smartphone",
+            "website",
+            "which",
+            "who",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Mary is a teacher who uses technology every day. She has a smart device which helps her check student homework. She also has a smartphone which she uses to call parents. Last week, she found a website that has free online books for children.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Quién compró un nuevo teléfono inteligente según el audio?",
+          "prompt_target": null,
+          "options": [
+            "My brother",
+            "My teacher",
+            "My sister",
+            "My friend"
+          ],
+          "correct_answer": "My brother",
+          "explanation_form": "El audio menciona que su hermano ('my brother') es la persona que compra tecnología y adquirió el teléfono.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "smartphone",
+            "who",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "My brother is a person who buys new technology. He got a new smartphone yesterday. It has a great camera.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué características tiene el sitio web mencionado en la grabación?",
+          "prompt_target": null,
+          "options": [
+            "It has many good lessons and is free.",
+            "It is very expensive to use.",
+            "It only has videos and music.",
+            "It is difficult to read."
+          ],
+          "correct_answer": "It has many good lessons and is free.",
+          "explanation_form": "El hablante dice que visita un sitio web con buenas lecciones y que es gratuito y fácil de usar.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "website",
+            "which",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I visit a website which has many good lessons. The website is free and easy to use. I read it every morning.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada término o pronombre con su definición o uso:",
+          "prompt_target": null,
+          "options": [
+            "smartphone",
+            "a device for calls",
+            "website",
+            "a page on the internet",
+            "who",
+            "used for a person",
+            "which",
+            "used for a thing"
+          ],
+          "correct_answer": [
+            "smartphone=a device for calls",
+            "website=a page on the internet",
+            "who=used for a person",
+            "which=used for a thing"
+          ],
+          "explanation_form": "'smartphone' y 'website' corresponden a objetos/sitios, 'who' se usa con personas y 'which' con cosas.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "device",
+            "smartphone",
+            "website",
+            "who",
+            "which",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'Conozco a una persona que utiliza este aparato.'",
+          "prompt_target": "Translate to English: 'Conozco a una persona que utiliza este aparato.'",
+          "options": null,
+          "correct_answer": "I know a person who uses this device.",
+          "explanation_form": "Usamos 'who' para conectar la proposición relativa referida a una persona ('a person').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "device",
+            "who",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Quién actualiza la página web?",
+          "prompt_target": "Read the story and answer: Who updates the website?",
+          "options": [
+            "Maria, the volunteer who updates the page.",
+            "The visitors who use the large screen.",
+            "The smartphone which scans the code.",
+            "The library that offers free classes."
+          ],
+          "correct_answer": "Maria, the volunteer who updates the page.",
+          "explanation_form": "Maria es la voluntaria que actualiza la página: 'the volunteer who updates the page'. / Maria is the volunteer who updates the page.",
+          "explanation_target": "Maria is the volunteer who updates the page.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "website",
+            "who",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "At our community library, I help visitors use a website that lists free classes. Maria is the volunteer who updates the page. I also show visitors a smartphone which can scan the QR code. The device that I use has a large screen, so older visitors can read the instructions.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Qué ofrece la página web?",
+          "prompt_target": "Listen to the story and answer: What does the website offer?",
+          "options": [
+            "It lists local events.",
+            "It repairs every smartphone.",
+            "It checks each technician.",
+            "It lends the community centre."
+          ],
+          "correct_answer": "It lists local events.",
+          "explanation_form": "La página web que usan enumera eventos locales: 'The website that we use lists local events'. / The website they use lists local events.",
+          "explanation_target": "The website they use lists local events.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "website",
+            "which",
+            "that",
+            "Defining relative clauses with who, which and that."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I help at a community centre that lends devices. Today I am showing a visitor a smartphone which connects to our secure network. The website that we use lists local events. A technician who works with us checks each phone before it leaves the centre. I explain how the device works and answer questions.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cómo conectar ideas sobre tecnología\n\nCuando describes dispositivos como tu *smartphone* o herramientas digitales, las cláusulas relativas te permiten añadir detalles clave en una sola oración. Usa **who** para personas, **which** para objetos o tecnología, y **that** como alternativa práctica para ambos en conversaciones cotidianas:\n\n- *The app **that** I use every day is free.* (La aplicación que uso todos los días es gratuita.)\n- *The technician **who** fixed my phone was very fast.* (El técnico que arregló mi teléfono fue muy rápido.)\n\n## Error común: el pronombre redundante\n\nEn español es frecuente duplicar el objeto al hablar (\"El teléfono que lo compré ayer\"). En inglés, **nunca repitas el pronombre objeto** dentro de la cláusula relativa:\n\n- ✗ *The smartphone that I bought **it** is great.*\n- ✓ *The smartphone that I bought is great.*\n\nRecuerda: el pronombre relativo (*that*, *which* o *who*) ya cumple la función de conectar ambas ideas.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:32:07Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

@@ -1,30 +1,14 @@
-import { a1Roadmap } from "../../a1-expanded-course";
-import { a2Course } from "../../a2-course";
-import { b1Course } from "../../b1-course";
-import { b2Course } from "../../b2-course";
+import { courseRoadmaps } from "../../course-content";
 import { c1Course } from "../../c1-course";
-import type { LegacyLevel, Lesson, Level, LevelInfo, LevelVisual } from "./types";
+import type { CourseContentLevel, Lesson, Level, LevelInfo, LevelVisual } from "./types";
+
+const courseLevels: CourseContentLevel[] = ["A1", "A2", "B1", "B2"];
 
 export const levelData: Record<Level, LevelInfo> = {
-  A1: { label: "Primeros pasos", color: "#6c5ce7", topics: a1Roadmap.map((lesson) => lesson.title_target) },
-  A2: { label: "Explorador", color: "#00a896", topics: [
-    "Mi último viaje", "Una historia divertida", "Compras inteligentes", "Direcciones en la ciudad", "Planes futuros",
-    "Mis mejores amigos", "Deportes y movimiento", "Salud y bienestar", "Tecnología cotidiana", "En el restaurante",
-    "Música y artistas", "El mundo natural", "Comparar y elegir", "Normas y consejos", "Experiencias geniales",
-    "En el aeropuerto", "Celebraciones", "Trabajos del futuro", "Historias del pasado", "Misión A2",
-  ] },
-  B1: { label: "Aventurero", color: "#f59e0b", topics: [
-    "Cuenta tu historia", "Noticias sorprendentes", "Sueños y objetivos", "Cuidemos el planeta", "Cine y personajes",
-    "Problemas y soluciones", "Viajar con confianza", "Una vida saludable", "El poder de internet", "Cultura alrededor del mundo",
-    "Expresar opiniones", "Tomar decisiones", "Relatos de misterio", "Ciencia en acción", "Aprender a aprender",
-    "Trabajo en equipo", "Inventos que cambiaron todo", "Debates amistosos", "Proyecto: mi podcast", "Misión B1",
-  ] },
-  B2: { label: "Comunicador", color: "#ef476f", topics: [
-    "Ideas que inspiran", "Comunicación sin fronteras", "El futuro de las ciudades", "Historias entre líneas", "Decisiones difíciles",
-    "Arte que provoca", "Medios y mensajes", "Hábitos sostenibles", "Liderazgo positivo", "Ciencia ficción",
-    "Defender una postura", "Humor en inglés", "Cambios sociales", "Mitos y leyendas", "Pensamiento crítico",
-    "Presentaciones memorables", "Escritura creativa", "Entrevistas y reportajes", "Proyecto: charla TED", "Misión B2",
-  ] },
+  A1: { label: "Primeros pasos", color: "#6c5ce7", topics: courseRoadmaps.A1.map((lesson) => lesson.title_target) },
+  A2: { label: "Explorador", color: "#00a896", topics: courseRoadmaps.A2.map((lesson) => lesson.title_target) },
+  B1: { label: "Aventurero", color: "#f59e0b", topics: courseRoadmaps.B1.map((lesson) => lesson.title_target) },
+  B2: { label: "Comunicador", color: "#ef476f", topics: courseRoadmaps.B2.map((lesson) => lesson.title_target) },
   C1: { label: "Maestro del inglés", color: "#118ab2", topics: [
     "Matices del lenguaje", "Persuadir con ideas", "Voces de la literatura", "Retos globales", "Innovación y ética",
     "Lenguaje de los medios", "Historias complejas", "Debate avanzado", "Comunicación intercultural", "Argumentos sólidos",
@@ -53,35 +37,33 @@ export const levelSummaries: Record<Level, string> = {
 
 const lessonIcons = ["👋", "🎧", "🎨", "⚡", "🌟", "🧩", "🎯", "🚀"];
 
-export const a1Lessons: Lesson[] = a1Roadmap.map((entry, index) => ({
-  id: `a1-${entry.id}`,
-  level: "A1",
+export const contentLessons: Lesson[] = courseLevels.flatMap((level) => courseRoadmaps[level].map((entry, index) => ({
+  id: `${level.toLowerCase()}-${entry.id}`,
+  level,
   number: index + 1,
   title: entry.title_target,
-  summary: entry.can_do,
+  summary: entry.learning_objectives[0] ?? entry.theme_focus,
   icon: lessonIcons[index % lessonIcons.length],
-  unit: entry.unit,
+  unit: entry.unit_id,
+  unitTitle: entry.unit_title,
   duration: entry.estimated_minutes,
   sourceId: entry.id,
+})));
+
+export const a1Lessons = contentLessons.filter((lesson) => lesson.level === "A1");
+
+const c1Lessons: Lesson[] = levelData.C1.topics.map((title, index) => ({
+  id: `c1-${index + 1}`,
+  level: "C1",
+  number: index + 1,
+  title,
+  summary: levelSummaries.C1,
+  icon: lessonIcons[index % lessonIcons.length],
 }));
 
-const legacyLessons: Lesson[] = levels
-  .filter((level): level is LegacyLevel => level !== "A1")
-  .flatMap((level) => levelData[level].topics.map((title, index) => ({
-    id: `${level.toLowerCase()}-${index + 1}`,
-    level,
-    number: index + 1,
-    title,
-    summary: levelSummaries[level],
-    icon: lessonIcons[index % lessonIcons.length],
-  })));
-
-export const allLessons: Lesson[] = [...a1Lessons, ...legacyLessons];
+export const allLessons: Lesson[] = [...contentLessons, ...c1Lessons];
 export const validLessonIds = new Set(allLessons.map((lesson) => lesson.id));
 
 export const courseByLevel = {
-  A2: a2Course,
-  B1: b1Course,
-  B2: b2Course,
   C1: c1Course,
 };

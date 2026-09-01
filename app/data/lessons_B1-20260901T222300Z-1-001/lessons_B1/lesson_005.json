@@ -1,0 +1,1553 @@
+{
+  "id": "lesson_005",
+  "position": 5,
+  "unit_id": 2,
+  "course_id": "en.B1",
+  "title_form": "Relatar un problema de viaje",
+  "title_target": "Relating an unexpected travel problem",
+  "theme_focus": "travel and transport",
+  "learning_objectives": [
+    "Can describe a straightforward travel problem and explain what happened in sequence."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_004"
+  ],
+  "grammar_focus": [
+    "Narrative tenses and sequence language for a travel incident."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "trip"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "then_adv"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "trip",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the travel and transport situation."
+      },
+      {
+        "term": "travel problem",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the travel and transport situation."
+      },
+      {
+        "term": "miss a connection",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "tell the story",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "while",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "as soon as",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Carlos está en el aeropuerto durante un viaje largo y pierde su vuelo de conexión debido a un retraso. Él explica detalladamente lo que sucedió al personal del aeropuerto para encontrar una solución rápida. A lo largo de la lección, seguimos a Carlos mientras relata la secuencia de eventos de su problema de viaje.",
+  "introduction_md": "Viajar es una experiencia increíble, pero a veces ocurren imprevistos en el camino. Saber explicar un problema de viaje en inglés de manera clara y secuencial es una habilidad fundamental para cualquier persona que viaja.\n\nEn esta lección, aprenderás a estructurar un relato sobre contratiempos durante tu itinerario. Descubrirás cómo organizar tus ideas y conectar eventos usando palabras de secuencia clave como *while*, *then* y *as soon as*.\n\nAl finalizar esta lección, serás capaz de:\n- Explicar un problema de viaje con claridad y secuencia lógica.\n- Describir acciones en progreso cuando ocurre un contratiempo.\n- Relatar qué sucedió exactamente para pedir ayuda o información.\n\n¡Prepárate para contar tus historias de viaje con precisión y seguridad!",
+  "intro_target": "Travelling is an amazing experience, but sometimes unexpected problems happen on the way. Knowing how to explain a travel problem in English clearly and in sequence is an essential skill for every traveller.\n\nIn this lesson, you will learn how to structure a story about unexpected events during your trip. You will discover how to organise your ideas and connect events using key sequence words such as *while*, *then*, and *as soon as*.\n\nBy the end of this lesson, you will be able to:\n- Explain a travel problem clearly and in a logical sequence.\n- Describe actions in progress when an unexpected event happens.\n- Tell what happened clearly to ask for help or information.\n\nGet ready to tell your travel stories with confidence and clarity!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "While I was checking my trip plans at the airport, I realised I had a big travel problem.",
+      "translation_form": "Mientras revisaba mis planes de viaje en el aeropuerto, me di cuenta de que tenía un gran problema de viaje.",
+      "highlight_words": [
+        "while",
+        "trip",
+        "travel",
+        "problem"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "As soon as the train arrived late, I knew I might miss a connection, and then I called the hotel receptionist.",
+      "translation_form": "Tan pronto como el tren llegó tarde, supe que podía perder una conexión y luego llamé a la recepcionista del hotel.",
+      "highlight_words": [
+        "as soon as",
+        "miss a connection",
+        "then"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I will tell the story of my trip, and then you will understand my travel problem.",
+      "translation_form": "Contaré la historia de mi viaje y luego entenderás mi problema de viaje.",
+      "highlight_words": [
+        "tell",
+        "story",
+        "then",
+        "travel",
+        "problem"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "While we were waiting at the station, our train was delayed, and then we missed our connection.",
+      "translation_form": "Mientras esperábamos en la estación, nuestro tren se retrasó y luego perdimos nuestra conexión.",
+      "highlight_words": [
+        "while",
+        "delayed",
+        "then",
+        "missed",
+        "connection"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Narrative tenses and sequence language for a travel incident.",
+      "title_form": "Tiempos narrativos y conectores de secuencia para problemas de viaje",
+      "title_target": "Narrative tenses and sequence language for a travel incident",
+      "description_md_form": "Para contar un incidente o problema de viaje (**travel problem**), combinamos tiempos verbales del pasado con conectores de secuencia (**sequence language**).\n\n- **Past Continuous** (`while + sujeto + was/were + -ing`): Describe una acción en desarrollo en el pasado (ej. *While I was checking my trip plans...*).\n- **Past Simple**: Describe una acción puntual que ocurre o interrumpe (ej. *I missed a connection*).\n- **Conectores de secuencia**:\n  - **While**: introduce una acción simultánea o continua.\n  - **As soon as**: indica que algo ocurrió inmediatamente después de otra acción.\n  - **And then**: marca la siguiente acción cronológica en el relato.\n\nUsar esta estructura te permite organizar el relato de tu viaje (**trip**) de forma clara y lógica.",
+      "description_md_target": "To tell a travel incident or **travel problem**, we combine past tenses with sequence connectors.\n\n- **Past Continuous** (`while + subject + was/were + -ing`): Describes an action in progress in the past (e.g., *While I was checking my trip plans...*).\n- **Past Simple**: Describes a completed action that interrupts or happens next (e.g., *I missed a connection*).\n- **Sequence connectors**:\n  - **While**: introduces a simultaneous or background action.\n  - **As soon as**: shows that an action happened immediately after another.\n  - **And then**: marks the next chronological action in the story.\n\nUsing this structure helps you organize your **trip** story clearly and logically.",
+      "grammar_structure": "While + Past Continuous, Past Simple + and then + Past Simple",
+      "conjugation_table": {
+        "name": "sequence_connectors_and_tenses",
+        "headers": [
+          "Conector",
+          "Tiempo verbal típico",
+          "Función en la historia"
+        ],
+        "rows": [
+          [
+            "While",
+            "Past Continuous",
+            "Acción continua o de fondo"
+          ],
+          [
+            "As soon as",
+            "Past Simple",
+            "Evento inmediato posterior"
+          ],
+          [
+            "And then",
+            "Past Simple",
+            "Siguiente acción cronológica"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Narrative tenses and sequence language for a travel incident.",
+          "text_target": "While I was checking my trip plans at the airport, I realised I had a big travel problem.",
+          "translation_form": "Mientras revisaba mis planes de viaje en el aeropuerto, me di cuenta de que tenía un gran problema de viaje.",
+          "highlight_words": [
+            "while",
+            "was checking",
+            "realised"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "trip",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "As soon as the train arrived late, I missed a connection, and then I called the hotel receptionist.",
+          "translation_form": "Tan pronto como el tren llegó tarde, perdí una conexión y luego llamé a la recepcionista del hotel.",
+          "highlight_words": [
+            "as soon as",
+            "missed a connection",
+            "and then"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "Usa **while** para la acción larga de fondo (*While I was waiting...*) y el **Past Simple** para el evento puntual (*I missed my train*)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No uses **while** para eventos instantáneos. Para acciones que suceden inmediatamente una tras otra, usa **as soon as** o **and then**."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'while' con Past Simple para acciones puntuales consecutivas.",
+        "Olvidar usar el Past Continuous para describir la situación de fondo.",
+        "Confundir el orden temporal al colocar 'and then'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra en inglés 'trip'?",
+      "options": [
+        "del viaje / de la travesía",
+        "del billete / del boleto",
+        "del equipaje",
+        "del horario"
+      ],
+      "correct_answer": "del viaje / de la travesía",
+      "explanation_md": "'Trip' es un sustantivo que se refiere a un viaje o desplazamiento específico.",
+      "related_lexeme_ids": [
+        "trip"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la palabra adecuada para completar la oración: 'While I was checking my ____ details, my train arrived.'",
+      "options": [
+        "trip",
+        "dinner",
+        "kitchen",
+        "apartment"
+      ],
+      "correct_answer": "trip",
+      "explanation_md": "'Trip details' se refiere a la información o los detalles del viaje.",
+      "related_lexeme_ids": [
+        "trip"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja los términos en inglés con sus traducciones correspondientes al español:",
+      "options": [
+        "trip",
+        "viaje",
+        "then",
+        "luego",
+        "flight",
+        "vuelo",
+        "delay",
+        "retraso"
+      ],
+      "correct_answer": [
+        "trip=viaje",
+        "then=luego",
+        "flight=vuelo",
+        "delay=retraso"
+      ],
+      "explanation_md": "Emparejamiento de vocabulario sobre viajes y conectores de secuencia.",
+      "related_lexeme_ids": [
+        "trip",
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el conector de secuencia adecuado: 'As soon as the train arrived, ____ I called the station officer.'",
+      "options": null,
+      "correct_answer": "then",
+      "explanation_md": "Usamos 'then' para indicar el siguiente paso en una serie de acontecimientos pasados.",
+      "related_lexeme_ids": [
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente oración: 'Mientras esperaba en la estación, perdí una conexión.'",
+      "options": null,
+      "correct_answer": "While I was waiting at the station, I missed a connection.",
+      "explanation_md": "Para una acción en progreso se usa el pasado continuo ('was waiting') precedido por 'while', seguido de la acción puntual en pasado simple ('missed a connection').",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la siguiente oración: 'I will tell the story of my travel problem.'",
+      "options": null,
+      "correct_answer": "Contaré la historia de mi problema de viaje.",
+      "explanation_md": "'Tell the story' se traduce como 'contar la historia' y 'travel problem' como 'problema de viaje'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto sobre un problema de transporte y responde a la pregunta:\n\n¿Por qué el viajero perdió su conexión de vuelo?",
+      "options": [
+        "Porque el autobús se detuvo en la ruta.",
+        "Porque se olvidó del horario en el hotel.",
+        "Porque perdió su pasaporte antes de salir.",
+        "Porque decidió tomar otro autobús."
+      ],
+      "correct_answer": "Porque el autobús se detuvo en la ruta.",
+      "explanation_md": "El texto explica que mientras viajaba en autobús al aeropuerto, este se detuvo en la ruta ('the bus stopped on the route'), ocasionando la pérdida del vuelo de conexión.",
+      "related_lexeme_ids": [
+        "trip",
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Last week I had a big travel problem. While I was traveling to the airport by bus, the bus stopped on the route. As soon as I arrived at the airport, I realised I missed my flight connection. Then I walked to the reception desk and talked to an officer. He helped me book another flight for my trip.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el audio y responde a la pregunta: ¿Qué hicieron tan pronto como perdieron la conexión?",
+      "options": [
+        "Llamaron al hotel.",
+        "Compraron comida en la estación.",
+        "Tomaron un taxi a la ciudad.",
+        "Esperaron dos horas más."
+      ],
+      "correct_answer": "Llamaron al hotel.",
+      "explanation_md": "En la grabación se escucha claramente la secuencia de acciones: 'Then we called the hotel' después de perder la conexión.",
+      "related_lexeme_ids": [
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "While we were waiting at the station, our train was delayed. As soon as the train arrived, we missed our connection. Then we called the hotel.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la palabra en inglés adecuada para hablar del itinerario de viaje: 'Please check your ____ details before leaving.'",
+      "options": null,
+      "correct_answer": "trip",
+      "explanation_md": "'Trip details' se usa para pedir la revisión de la información correspondiente al viaje.",
+      "related_lexeme_ids": [
+        "trip"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "free_production",
+      "prompt_md": "Escribe 2 o 3 oraciones en inglés relatando un problema de viaje. Utiliza conectores narrativos como 'while', 'as soon as' o 'then'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se valora la combinación correcta del pasado continuo y el pasado simple con conectores temporales ('while', 'as soon as', 'then') para secuenciar un incidente de viaje.",
+      "related_lexeme_ids": [
+        "trip",
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "While I was traveling by train, the train stopped. As soon as I arrived, I missed my connection. Then I called my family.",
+        "While we were at the airport, our flight was delayed. As soon as we landed, we talked to an officer. Then we got our luggage."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Qué hizo la empleada tan pronto como le conté el problema? / Read the short story and answer: What did the employee do as soon as I told her about the problem?",
+      "options": [
+        "Revisó la oficina de objetos perdidos.",
+        "Subió al tren sin mí.",
+        "Llamó a mi familia para cancelar la boda.",
+        "Me pidió comprar una maleta nueva."
+      ],
+      "correct_answer": "Revisó la oficina de objetos perdidos.",
+      "explanation_md": "Tan pronto como le conté el problema, la empleada revisó la oficina de objetos perdidos. / As soon as I told her about the problem, the employee checked the lost-and-found office.",
+      "related_lexeme_ids": [
+        "trip",
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Last Friday, I was on a trip to a family wedding by train. While I was waiting on the platform, I suddenly noticed that my suitcase was missing. I felt worried because I had packed my formal clothes inside it. As soon as I told a station employee, she checked the lost-and-found office. Then she called another platform and found the suitcase beside a bench. I was relieved, and I reached the train just before it left.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Qué hizo la narradora después de entender el nuevo número de puerta? / Listen to the short story and answer: What did the narrator do after understanding the new gate number?",
+      "options": [
+        "Llamó a su hermana.",
+        "Regresó a casa.",
+        "Compró otro billete.",
+        "Se durmió en la sala de espera."
+      ],
+      "correct_answer": "Llamó a su hermana.",
+      "explanation_md": "Después de entender el nuevo número, la narradora llamó a su hermana y luego caminó hasta la puerta. / After understanding the new number, the narrator called her sister and then walked to the gate.",
+      "related_lexeme_ids": [
+        "trip",
+        "then_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Yesterday, I was flying home after a short trip. While I was looking for my gate, I suddenly heard an announcement about a gate change. I felt confused because the message was very fast. As soon as I understood the new number, I called my sister to tell her. Then, I walked quickly to the new gate and arrived before boarding started. I was tired but happy because I did not miss the flight.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "trip",
+      "back": "viaje",
+      "hint": "sustantivo para un viaje o desplazamiento específico",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "B1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "then",
+      "back": "luego / entonces",
+      "hint": "conector para ordenar eventos narrativos",
+      "lexeme_id": "then_adv",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "B1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "occurred",
+      "back": "ocurrió / sucedió",
+      "hint": "forma en pasado de occur para contar un incidente",
+      "lexeme_id": "occur_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "B1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "discovered",
+      "back": "descubrió / descubrí",
+      "hint": "forma en pasado de discover al encontrar la causa de un problema",
+      "lexeme_id": "discover_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "B1",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "confused",
+      "back": "confundió / desorientó",
+      "hint": "forma en pasado de confuse cuando una situación de viaje no está clara",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_005",
+        "B1",
+        "travel"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "trip",
+      "reading": "",
+      "translation": "viaje",
+      "pos": "noun",
+      "example": "While I was checking my trip plans at the airport, I realised I had a big travel problem.",
+      "example_translation": "Mientras revisaba mis planes de viaje en el aeropuerto, me di cuenta de que tenía un gran problema de viaje.",
+      "lexeme_id": "trip",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "trip",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "viaje",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "Narrative tenses and sequence language for a travel incident.",
+        "ex_001",
+        "ex_002",
+        "ex_003",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "travel problem",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "Narrative tenses and sequence language for a travel incident.",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "miss a connection",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "tell the story",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "while",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "mientras",
+      "lexeme_id": "while_conj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "Narrative tenses and sequence language for a travel incident.",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_006",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "as soon as",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "tan pronto como",
+      "lexeme_id": "as_soon_as_conj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "Narrative tenses and sequence language for a travel incident.",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "journey",
+      "role": "support",
+      "status": "planned",
+      "translation": "de viaje",
+      "lexeme_id": "journey_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": []
+    },
+    {
+      "term": "then",
+      "role": "support",
+      "status": "review",
+      "translation": "entonces / luego",
+      "lexeme_id": "then_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_003",
+        "ex_004",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "occur",
+      "role": "support",
+      "status": "review",
+      "translation": "pasar / acaecer / ocurrir",
+      "lexeme_id": "occur_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "discover",
+      "role": "support",
+      "status": "review",
+      "translation": "descubrir",
+      "lexeme_id": "discover_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "confuse",
+      "role": "support",
+      "status": "review",
+      "translation": "confundir",
+      "lexeme_id": "confuse_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "train",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tren",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "station",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estación",
+      "lexeme_id": "station",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "delayed",
+      "role": "support",
+      "status": "emergent",
+      "translation": "retrasado / demorado",
+      "lexeme_id": "delayed_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "wait",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "late",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tarde",
+      "lexeme_id": "late_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "hotel",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hotel",
+      "lexeme_id": "hotel",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "receptionist",
+      "role": "support",
+      "status": "emergent",
+      "translation": "recepcionista",
+      "lexeme_id": "receptionist",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "realise",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ganar / hacer / cobrar",
+      "lexeme_id": "realise_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "understand",
+      "role": "support",
+      "status": "emergent",
+      "translation": "entender / comprender",
+      "lexeme_id": "understand_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "plan",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planear",
+      "lexeme_id": "plan_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "tense",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tiempo",
+      "lexeme_id": "tense",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "sequence",
+      "role": "support",
+      "status": "emergent",
+      "translation": "secuencia",
+      "lexeme_id": "sequence",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "language",
+      "role": "support",
+      "status": "emergent",
+      "translation": "idioma",
+      "lexeme_id": "language",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "incident",
+      "role": "support",
+      "status": "emergent",
+      "translation": "incidente",
+      "lexeme_id": "incident",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "bus",
+      "role": "support",
+      "status": "emergent",
+      "translation": "autobús",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "quiz_001:q_003",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "flight",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vuelo",
+      "lexeme_id": "flight",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "walk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caminar",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_012",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "officer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oficial / agente",
+      "lexeme_id": "officer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "family",
+      "role": "support",
+      "status": "emergent",
+      "translation": "familia",
+      "lexeme_id": "family",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "left",
+      "role": "support",
+      "status": "emergent",
+      "translation": "izquierda",
+      "lexeme_id": "left",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "reach",
+      "role": "support",
+      "status": "emergent",
+      "translation": "alcanzar",
+      "lexeme_id": "reach_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "worried",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preocupado",
+      "lexeme_id": "worried_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "ticket",
+      "role": "support",
+      "status": "emergent",
+      "translation": "boleto / billete / ticket",
+      "lexeme_id": "ticket",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "platform",
+      "role": "support",
+      "status": "emergent",
+      "translation": "andén",
+      "lexeme_id": "platform",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "suddenly",
+      "role": "support",
+      "status": "emergent",
+      "translation": "de repente",
+      "lexeme_id": "suddenly_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "narrator",
+      "role": "support",
+      "status": "emergent",
+      "translation": "narrador",
+      "lexeme_id": "narrator",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "found",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fundar",
+      "lexeme_id": "found_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 4,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "train",
+      "call",
+      "station",
+      "delayed",
+      "wait",
+      "check",
+      "late",
+      "big",
+      "hotel",
+      "receptionist",
+      "realise",
+      "understand",
+      "plan",
+      "tense",
+      "sequence",
+      "language",
+      "incident",
+      "bus",
+      "flight",
+      "walk",
+      "officer",
+      "talk",
+      "family",
+      "left",
+      "reach",
+      "worried",
+      "ticket",
+      "book",
+      "platform",
+      "suddenly",
+      "narrator",
+      "found"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Relatar un problema de viaje",
+      "title_target": "Quiz: Relating a travel problem",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué sucedió después de esperar tres horas en el aeropuerto?",
+          "prompt_target": "What happened after waiting for three hours at the airport?",
+          "options": [
+            "Abordaron finalmente el avión.",
+            "Perdieron el vuelo.",
+            "Cancelaron el viaje.",
+            "Compraron un nuevo boleto."
+          ],
+          "correct_answer": "Abordaron finalmente el avión.",
+          "explanation_form": "En el audio se menciona que esperaron tres horas y luego ('then') finalmente abordaron el avión.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "trip",
+            "Narrative tenses and sequence language for a travel incident."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "We arrived at the airport early, but our flight was delayed. We waited for three hours and then we finally boarded the plane.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál de los siguientes sustantivos se utiliza para referirse a un viaje o desplazamiento específico?",
+          "prompt_target": "Which noun refers to a specific trip between places?",
+          "options": [
+            "trip",
+            "hungry",
+            "green",
+            "heavy"
+          ],
+          "correct_answer": "trip",
+          "explanation_form": "'Trip' es un sustantivo para un viaje o desplazamiento específico entre lugares.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "trip"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Por qué Paul no pudo tomar el tren que tenía planeado?",
+          "prompt_target": "Why couldn't Paul take the planned train?",
+          "options": [
+            "Porque el tren ya se había ido debido a un cambio de horario.",
+            "Porque el autobús era más rápido.",
+            "Porque no encontró su boleto en la estación.",
+            "Porque decidió cancelar su viaje a Londres."
+          ],
+          "correct_answer": "Porque el tren ya se había ido debido a un cambio de horario.",
+          "explanation_form": "El texto aclara que al llegar a la estación el tren ya había salido ('had already left') por un cambio en el horario.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Narrative tenses and sequence language for a travel incident.",
+            "trip"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Last month, Paul planned a trip to London. First, he booked a train ticket online. However, when he arrived at the station, the train had already left because of a timetable change. Then, he decided to take a bus instead. Unfortunately, the bus trip was very long and delayed by bad weather.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés usando el conector adecuado: 'Primero empacamos las maletas y luego fuimos al aeropuerto.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "First we packed the bags and then we went to the airport.",
+          "explanation_form": "Usamos 'then' para indicar el siguiente paso en una secuencia temporal narrada.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "then_adv",
+            "Narrative tenses and sequence language for a travel incident."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración correcta sobre una secuencia de hechos en el pasado:",
+          "prompt_target": null,
+          "options": [
+            "had",
+            "when",
+            "the",
+            "flight",
+            "left",
+            "arrived",
+            "already",
+            "they"
+          ],
+          "correct_answer": "When they arrived the flight had already left.",
+          "explanation_form": "En relatos de viaje, la acción previa en el pasado utiliza el pasado perfecto ('had already left').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Narrative tenses and sequence language for a travel incident."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué ocurrió justo después de que la persona reportara el problema del pasaporte?",
+          "prompt_target": "What happened right after reporting the passport issue?",
+          "options": [
+            "Un trabajador lo encontró cerca del café.",
+            "Compró un nuevo boleto de avión.",
+            "Perdió su maleta en el autobús.",
+            "El vuelo fue cancelado por seguridad."
+          ],
+          "correct_answer": "Un trabajador lo encontró cerca del café.",
+          "explanation_form": "En la grabación se explica que luego ('then') un trabajador encontró el pasaporte cerca de la cafetería.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "then_adv",
+            "Narrative tenses and sequence language for a travel incident."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I lost my passport while I was walking to the gate. I reported the problem immediately and then a worker found it near the cafe.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la oración con la forma narrativa correcta en pasado: 'When we arrived at the bus stop, the bus ____ (already / leave).'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "had already left",
+          "explanation_form": "Se utiliza 'had already left' (pasado perfecto) para expresar que la partida del autobús ocurrió antes de la llegada.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Narrative tenses and sequence language for a travel incident."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada conector narrativo con su traducción al español:",
+          "prompt_target": null,
+          "options": [
+            "then",
+            "luego / después",
+            "first",
+            "primero",
+            "suddenly",
+            "de repente",
+            "finally",
+            "finalmente"
+          ],
+          "correct_answer": [
+            "then=luego / después",
+            "first=primero",
+            "suddenly=de repente",
+            "finally=finalmente"
+          ],
+          "explanation_form": "Estos conectores ayudan a estructurar y ordenar la narración de un incidente de viaje.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "then_adv",
+            "Narrative tenses and sequence language for a travel incident."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "Selecciona la oración que describe correctamente una acción en progreso interrumpida por un incidente:",
+          "prompt_target": "Select the correct sentence describing an action in progress interrupted by an event:",
+          "options": [
+            "We were waiting for the train when suddenly the lights went out.",
+            "We waiting for the train when suddenly the lights had gone out.",
+            "We had waited for the train when suddenly the lights going out.",
+            "We wait for the train when suddenly the lights went out."
+          ],
+          "correct_answer": "We were waiting for the train when suddenly the lights went out.",
+          "explanation_form": "La combinación de pasado continuo ('were waiting') y pasado simple ('went out') expresa una acción en desarrollo interrumpida por un suceso.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "Narrative tenses and sequence language for a travel incident."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Por qué se sintió avergonzada la narradora?",
+          "prompt_target": "Read the story and answer: Why did the narrator feel embarrassed?",
+          "options": [
+            "Porque había leído mal la hora de salida.",
+            "Porque había perdido su pasaporte.",
+            "Porque había cancelado el viaje.",
+            "Porque había llegado una hora antes."
+          ],
+          "correct_answer": "Porque había leído mal la hora de salida.",
+          "explanation_form": "La narradora se sintió avergonzada porque había leído mal la hora de salida antes de comprobar su billete.",
+          "explanation_target": "The narrator felt embarrassed because she had read the departure time incorrectly before checking her ticket.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "trip",
+            "Narrative tenses and sequence language for a travel incident."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Last month, I planned a weekend trip by bus. While I was checking my ticket, I noticed that I had read the departure time incorrectly. I felt embarrassed, but I called the station immediately. As soon as the officer answered, she told me that another bus would leave in twenty minutes. I bought a new ticket and reached the platform just in time. Afterwards, I felt relieved because I did not miss the trip.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Por qué llamó la narradora al lugar del concierto?",
+          "prompt_target": "Listen to the story and answer: Why did the narrator call the concert venue?",
+          "options": [
+            "Porque el autobús se había detenido y estaba preocupada por la hora.",
+            "Porque había perdido las entradas.",
+            "Porque quería cambiar la música.",
+            "Porque el concierto ya había terminado."
+          ],
+          "correct_answer": "Porque el autobús se había detenido y estaba preocupada por la hora.",
+          "explanation_form": "La narradora llamó al lugar porque el autobús se detuvo y le preocupaba llegar tarde al concierto.",
+          "explanation_target": "The narrator called the venue because the bus stopped and she was worried about arriving late to the concert.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "trip",
+            "Narrative tenses and sequence language for a travel incident."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I was traveling to a concert by bus last Saturday. First, I checked the route on my phone. However, the bus stopped because of a mechanical problem. I felt nervous because the concert would start soon. As a result, I called the venue. The receptionist said the concert would start late. Afterwards, I took a taxi and arrived before the music began.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cómo ordenar un incidente de viaje\n\nAl contar un problema durante un viaje, la secuencia de los hechos es clave para que te entiendan con claridad. Usa conectores de secuencia como *then*, *after that* o *suddenly* para conectar lo que sucedió paso a paso. Recuerda usar el pasado simple (*past simple*) para narrar las acciones principales en orden cronológico.\n\n## Diferencia importante: trip vs. travel\n\nUn error frecuente entre hispanohablantes es confundir *trip* con el verbo *travel*.\n- Usa *trip* como sustantivo para referirte a un viaje o desplazamiento específico entre dos lugares (*a long trip*).\n- Usa *travel* para hablar de la actividad de viajar. Mantén las acciones en tiempos de pasado cuando expliques un retraso o la pérdida de equipaje para mantener una narración clara y coherente.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:19:18Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

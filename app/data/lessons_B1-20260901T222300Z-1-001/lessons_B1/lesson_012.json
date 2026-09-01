@@ -1,0 +1,1541 @@
+{
+  "id": "lesson_012",
+  "position": 12,
+  "unit_id": 4,
+  "course_id": "en.B1",
+  "title_form": "Pedir informacion con cortesia",
+  "title_target": "Making polite requests for information",
+  "theme_focus": "shopping, services and communication",
+  "learning_objectives": [
+    "Can make polite requests and ask indirect questions in a familiar service situation."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_011"
+  ],
+  "grammar_focus": [
+    "Polite requests and indirect questions with can, could and would."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "guarantee"
+      ],
+      "chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "expensive_adj"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "service desk",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the shopping, services and communication situation."
+      },
+      {
+        "term": "information",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the shopping, services and communication situation."
+      },
+      {
+        "term": "Could you tell me ...?",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "Do you know how to ...?",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "could you",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "would you mind",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "David visita el centro de atención al cliente de una tienda departamental para consultar sobre la garantía de un producto costoso. Aprende a realizar preguntas indirectas y peticiones corteses para obtener información clara sin sonar demasiado directo o brusco.",
+  "introduction_md": "¿Sabías que en inglés hacer preguntas muy directas a veces puede sonar algo brusco? Cuando pides información en una tienda o te acercas al *service desk*, usar frases corteses te ayuda a comunicarte con mayor empatía y efectividad.\n\nEn esta lección aprenderás a:\n- Formular peticiones amables utilizando estructuras con **could you** y **would you mind**.\n- Hacer preguntas indirectas como **Can you tell me...?** o **Could you tell me...?** para solicitar **information** detallada.\n- Consultar sobre la **guarantee** (garantía) de productos cuando realizas compras de artículos valiosos o **expensive**.\n\nAl finalizar, tendrás las herramientas para interactuar en mostradores de servicio con confianza, fluidez y el nivel de cortesía adecuado.",
+  "intro_target": "Did you know that asking direct questions in English can sometimes sound a bit rude? When you ask for information at a store or approach a service desk, using polite expressions helps you communicate more effectively and kindly.\n\nIn this lesson, you will learn to:\n- Make polite requests using structures with **could you** and **would you mind**.\n- Use indirect questions like **Can you tell me...?** or **Could you tell me...?** to ask for detailed **information**.\n- Inquire about the **guarantee** on products when purchasing valuable or **expensive** items.\n\nBy the end, you will have the tools to interact at customer service desks with confidence, fluency, and proper politeness.",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "grammar_slug": null,
+      "text_target": "Excuse me, can you tell me how to find the service desk? This expensive phone has a problem.",
+      "translation_form": "Disculpe, ¿puede decirme cómo encontrar el mostrador de servicio? Este teléfono costoso tiene un problema.",
+      "highlight_words": [
+        "can",
+        "you",
+        "tell",
+        "expensive",
+        "service",
+        "desk"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "guarantee",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Does this expensive laptop have a two year guarantee from the store?",
+      "translation_form": "¿Este portátil costoso tiene una garantía de dos años de la tienda?",
+      "highlight_words": [
+        "expensive",
+        "guarantee"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Could you tell me where I can find more information about the flight schedule?",
+      "translation_form": "¿Podría decirme dónde puedo encontrar más información sobre el horario del vuelo?",
+      "highlight_words": [
+        "information"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Do you know how to contact the customer service desk after office hours?",
+      "translation_form": "¿Sabe usted cómo contactar al mostrador de servicio al cliente después del horario de oficina?",
+      "highlight_words": [
+        "service",
+        "desk"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Polite requests and indirect questions with can, could and would.",
+      "title_form": "Peticiones corteses y preguntas indirectas con can, could y would",
+      "title_target": "Polite requests and indirect questions with can, could, and would",
+      "description_md_form": "Para hacer peticiones de forma educada en inglés, utilizamos los verbos modales **can**, **could** y **would**.\n\n- **Can you...?** se usa en situaciones cotidianas o informales (*¿Puedes...?*).\n- **Could you...?** expresa mayor cortesía y formalidad (*¿Podrías...?*).\n- **Would you mind + verbo -ing...?** es una fórmula muy cortés para pedir que alguien haga algo (*Would you mind checking whether this item is covered by the guarantee?*).\n\nCuando realizas una **pregunta indirecta** comenzando con una frase de cortesía como *Can you tell me...* o *Could you tell me...*, el orden de las palabras en la segunda parte de la oración cambia: sigue la estructura de una oración afirmativa (**sujeto + verbo**), sin invertir el verbo auxiliar.\n\nPor ejemplo:\n- Correcto: *Could you tell me where **I can find** information?*\n- Incorrecto: *Could you tell me where **can I find** information?*\n\nUtilizar estas estructuras te permitirá comunicarte de manera clara, amable y respetuosa al solicitar servicios o información.",
+      "description_md_target": "To make polite requests in English, we use the modal verbs **can**, **could**, and **would**.\n\n- **Can you...?** is used in casual or everyday situations (*Can you...?*).\n- **Could you...?** expresses greater politeness and formality (*Could you...?*).\n- **Would you mind + verb-ing...?** is a very polite way to ask someone to do something (*Would you mind checking whether this item is covered by the guarantee?*).\n\nWhen you ask an **indirect question** starting with a polite phrase like *Can you tell me...* or *Could you tell me...*, the word order in the second part of the sentence changes: it follows standard statement word order (**subject + verb**), without inverting the auxiliary verb.\n\nFor example:\n- Correct: *Could you tell me where **I can find** information?*\n- Incorrect: *Could you tell me where **can I find** information?*\n\nUsing these structures helps you communicate clearly and politely when asking for services or information.",
+      "grammar_structure": "Could/Can you + verb ...? | Would you mind + verb-ing ...? | polite phrase + question word + subject + verb",
+      "conjugation_table": {
+        "name": "polite_request_forms",
+        "headers": [
+          "Verbo modal",
+          "Nivel de cortesía",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Can you...",
+            "Informal / Directo",
+            "Can you tell me how to find the desk?"
+          ],
+          [
+            "Could you...",
+            "Formal / Cortesía media",
+            "Could you tell me where I can find information?"
+          ],
+          [
+            "Would you mind + verb-ing...?",
+            "Muy cortés / Petición formal",
+            "Would you mind checking whether this item is covered by the guarantee?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Polite requests and indirect questions with can, could and would.",
+          "text_target": "Would you mind checking whether this item is covered by the guarantee?",
+          "translation_form": "¿Le importaría comprobar si este artículo está cubierto por la garantía?",
+          "highlight_words": [
+            "would",
+            "you",
+            "mind",
+            "checking",
+            "guarantee"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": "chunk_b1_can_you_tell",
+          "grammar_slug": null,
+          "text_target": "Can you tell me how to find the service desk?",
+          "translation_form": "¿Puedes decirme cómo encontrar el mostrador de servicio?",
+          "highlight_words": [
+            "can",
+            "you",
+            "tell",
+            "me",
+            "how",
+            "to"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "En preguntas indirectas, NO inviertas el sujeto y el verbo tras la palabra interrogativa. Di **Could you tell me where I can find...** en lugar de **where can I find...**."
+        },
+        {
+          "type": "tip",
+          "text_md": "Usar **could** o **would** en lugar de **can** hace que tus solicitudes en tiendas o atención al cliente suenen mucho más amables."
+        }
+      ],
+      "common_errors_es": [
+        "Invertir el sujeto y el verbo en la pregunta indirecta (ej. decir 'where can I find' en lugar de 'where I can find').",
+        "Usar 'to' inmediatamente después de 'can' o 'could' (ej. decir 'Can you to help me' en lugar de 'Can you help me').",
+        "Olvidar que la estructura 'Would you mind...' requiere el verbo posterior en gerundio (-ing)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'guarantee' en español?",
+      "options": [
+        "Garantía",
+        "Información",
+        "Servicio",
+        "Descuento"
+      ],
+      "correct_answer": "Garantía",
+      "explanation_md": "'Guarantee' se traduce como garantía.",
+      "related_lexeme_ids": [
+        "guarantee"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada expresión en inglés con su traducción:",
+      "options": [
+        "Can you tell me...",
+        "¿Puede decirme...",
+        "guarantee",
+        "garantía",
+        "expensive",
+        "costoso",
+        "service desk",
+        "mostrador de servicio"
+      ],
+      "correct_answer": [
+        "Can you tell me...=¿Puede decirme...",
+        "guarantee=garantía",
+        "expensive=costoso",
+        "service desk=mostrador de servicio"
+      ],
+      "explanation_md": "Relaciona las frases de solicitud cortés y el vocabulario de atención al cliente.",
+      "related_lexeme_ids": [
+        "guarantee",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la opción adecuada para pedir información con cortesía: 'Excuse me, ___ you tell me where the exit is?'",
+      "options": [
+        "can",
+        "do",
+        "are",
+        "have"
+      ],
+      "correct_answer": "can",
+      "explanation_md": "Usamos 'can' o 'could' al inicio de la frase para hacer peticiones corteses.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el sustantivo correcto:",
+      "options": null,
+      "correct_answer": "guarantee",
+      "explanation_md": "'Guarantee' es el término adecuado para la garantía de un producto.",
+      "related_lexeme_ids": [
+        "guarantee"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Does this expensive phone have a two year ____?",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Puede decirme dónde está el mostrador de servicio?'",
+      "options": null,
+      "correct_answer": "Can you tell me where the service desk is?",
+      "explanation_md": "'Can you tell me' introduce la pregunta indirecta de forma amable.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Could you tell me how to get more information?'",
+      "options": null,
+      "correct_answer": "¿Podría decirme cómo obtener más información?",
+      "explanation_md": "'Could you tell me' equivale a '¿Podría decirme...?' en español.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha la grabación y responde: ¿Qué consulta el cliente?",
+      "options": [
+        "Pregunta dónde está el mostrador de servicio.",
+        "Pregunta el precio de un teléfono nuevo.",
+        "Solicita un descuento para su compra.",
+        "Pregunta el horario de cierre de la tienda."
+      ],
+      "correct_answer": "Pregunta dónde está el mostrador de servicio.",
+      "explanation_md": "El cliente dice 'can you tell me where the service desk is?'.",
+      "related_lexeme_ids": [
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Excuse me, can you tell me where the service desk is? I need information about this expensive phone.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto y responde a la pregunta de comprensión:",
+      "options": [
+        "Tiene un problema con su computadora y busca información sobre la garantía.",
+        "Quiere comprar una computadora nueva en la tienda.",
+        "Viene a pagar una factura pendiente de servicio.",
+        "Busca trabajo en el mostrador de atención al cliente."
+      ],
+      "correct_answer": "Tiene un problema con su computadora y busca información sobre la garantía.",
+      "explanation_md": "El texto menciona que la computadora no funciona y la persona pregunta por la garantía ('guarantee') en el mostrador de servicio.",
+      "related_lexeme_ids": [
+        "guarantee",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Hello. I bought an expensive computer yesterday at your store. Today the screen is black and it does not work. Can you tell me if this computer has a two year guarantee? I am at the service desk now and I need information about a repair.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase con la estructura de cortesía estudiada:",
+      "options": null,
+      "correct_answer": "can you tell me",
+      "explanation_md": "Usamos 'can you tell me' para hacer peticiones indirectas y educadas.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "hard",
+      "passage_md": "Excuse me, ____ where I can find the information desk?",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Podría decirme si este producto tiene garantía?'",
+      "options": null,
+      "correct_answer": "Could you tell me if this product has a guarantee?",
+      "explanation_md": "'Could you tell me if...' sirve para preguntar educadamente si un producto cuenta con garantía.",
+      "related_lexeme_ids": [
+        "guarantee"
+      ],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la opción más cortés para pedir ayuda al personal de atención:",
+      "options": [
+        "Could you tell me where the manager is?",
+        "Where is manager now?",
+        "Tell me where is manager.",
+        "I want manager location."
+      ],
+      "correct_answer": "Could you tell me where the manager is?",
+      "explanation_md": "'Could you tell me...' convierte la pregunta en una solicitud formal y educada.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Representa un diálogo breve de atención al cliente con tres solicitudes corteses y sus respuestas. El cliente debe preguntar: (1) si un portátil costoso está cubierto por la garantía usando 'Could you tell me if ...?'; (2) cómo devolver el producto y a qué hora cierra el mostrador usando 'Do you know how to ...?'; y (3) dónde está el mostrador de devoluciones usando 'Would you mind showing me where ...?'. Escribe las tres preguntas y las tres respuestas en inglés.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la construcción de tres solicitudes corteses: una pregunta indirecta sobre la garantía, una petición sobre devoluciones y horario, y una petición con 'Would you mind + verbo -ing'. Cada solicitud debe tener una respuesta natural del personal.",
+      "related_lexeme_ids": [
+        "guarantee",
+        "expensive_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Customer: Could you tell me if this expensive laptop is covered by the guarantee?\nStaff: Yes, it is covered for two years.\nCustomer: Do you know how to return it, and what time the returns desk closes?\nStaff: You can return it there before six o'clock.\nCustomer: Would you mind showing me where the returns desk is?\nStaff: Of course. It is next to the service desk."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el diálogo breve y responde: ¿Qué le pidió el cliente al personal que hiciera? / Read the short dialogue and answer: What did the customer ask the staff member to do?",
+      "options": [
+        "Test the headphones.",
+        "Print a new receipt.",
+        "Close the service desk.",
+        "Send the replacement on Monday."
+      ],
+      "correct_answer": "Test the headphones.",
+      "explanation_md": "El cliente pidió: 'Would you mind testing the headphones?' / The customer asked: 'Would you mind testing the headphones?'",
+      "related_lexeme_ids": [
+        "guarantee"
+      ],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Yesterday, I went to the service desk because my new headphones stopped working. I said, 'Could you tell me if the guarantee covers this problem?' The assistant checked my receipt and explained the options. I then asked, 'Would you mind testing the headphones?' She tested them and offered a replacement. Before I left, I asked, 'Could you tell me when the replacement would arrive?' She said it would arrive on Friday.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el diálogo breve y responde: ¿Qué le pidió el viajero al empleado que hiciera? / Listen to the short dialogue and answer: What did the traveler ask the clerk to do?",
+      "options": [
+        "Print the new ticket.",
+        "Move the information desk.",
+        "Cancel the later train.",
+        "Check the traveler's passport."
+      ],
+      "correct_answer": "Print the new ticket.",
+      "explanation_md": "El viajero pidió: 'Would you mind printing the new ticket?' / The traveler asked: 'Would you mind printing the new ticket?'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_b1_can_you_tell"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Hello, I'm at the information desk in the train station. I would like to change my ticket. I ask, 'Could you tell me whether I can travel on the later train?' The assistant checks the schedule. Then I say, 'Would you mind printing the new ticket?' She prints it and tells me the new train leaves at six. I thank her and leave.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "guarantee",
+      "back": "garantía",
+      "hint": "promesa formal de calidad de un producto",
+      "lexeme_id": "guarantee",
+      "chunk_id": null,
+      "tags": [
+        "lesson_012",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "Can you tell me how to...?",
+      "back": "¿Puedes decirme cómo...?",
+      "hint": "expresión para pedir instrucciones de manera educada",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "tags": [
+        "lesson_012",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "expensive",
+      "back": "caro / costoso",
+      "hint": "que tiene un precio elevado",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "tags": [
+        "lesson_012",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "under guarantee",
+      "back": "en garantía",
+      "hint": "que cuenta con protección de reparación o cambio",
+      "lexeme_id": "guarantee",
+      "chunk_id": null,
+      "tags": [
+        "lesson_012",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "Can you tell me how to get to the store?",
+      "back": "¿Puedes decirme cómo llegar a la tienda?",
+      "hint": "pregunta para pedir una dirección",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "tags": [
+        "lesson_012",
+        "B1",
+        "shopping"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "guarantee",
+      "reading": "",
+      "translation": "garantía",
+      "pos": "noun",
+      "example": "Does this expensive laptop have a two year guarantee from the store?",
+      "example_translation": "¿Este portátil costoso tiene una garantía de dos años de la tienda?",
+      "lexeme_id": "guarantee",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Can you tell me how to ...?",
+      "reading": "",
+      "translation": "¿Puedes decirme cómo ...?",
+      "pos": "chunk",
+      "example": "Excuse me, can you tell me how to find the service desk? This expensive phone has a problem.",
+      "example_translation": "Disculpe, ¿puede decirme cómo encontrar el mostrador de servicio? Este teléfono costoso tiene un problema.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "service desk",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "Polite requests and indirect questions with can, could and would.",
+        "ex_007",
+        "ex_008",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "information",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "información",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Polite requests and indirect questions with can, could and would.",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_014",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "Could you tell me ...?",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Polite requests and indirect questions with can, could and would.",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "Do you know how to ...?",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "¿Sabes cómo ...?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_do_you_know",
+      "source": "target",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "could you",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Polite requests and indirect questions with can, could and would.",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_005",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "would you mind",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "Polite requests and indirect questions with can, could and would.",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "guarantee",
+      "role": "support",
+      "status": "practiced",
+      "translation": "garantía",
+      "lexeme_id": "guarantee",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_001",
+        "ex_002",
+        "ex_004",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "fc_001",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "Can you tell me how to ...?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Puedes decirme cómo ...?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_002",
+        "ex_003",
+        "ex_005",
+        "ex_006",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_002",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "expensive",
+      "role": "support",
+      "status": "review",
+      "translation": "caro / costoso",
+      "lexeme_id": "expensive_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_002",
+        "ex_007",
+        "ex_008",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "store",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tienda",
+      "lexeme_id": "store",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "fc_005",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "find",
+      "role": "support",
+      "status": "emergent",
+      "translation": "encontrar",
+      "lexeme_id": "find_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_004",
+        "ex_008",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "excuse me",
+      "role": "support",
+      "status": "emergent",
+      "translation": "disculpe",
+      "lexeme_id": "excuse_me_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_009",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "phone",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_004",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "laptop",
+      "role": "support",
+      "status": "emergent",
+      "translation": "laptop / portátil",
+      "lexeme_id": "laptop",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "get",
+      "role": "support",
+      "status": "emergent",
+      "translation": "obtener / conseguir / llegar",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "schedule",
+      "role": "support",
+      "status": "emergent",
+      "translation": "horario",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "customer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cliente",
+      "lexeme_id": "customer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "office",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oficina",
+      "lexeme_id": "office",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "hour",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "contact",
+      "role": "support",
+      "status": "emergent",
+      "translation": "contacto / contactar",
+      "lexeme_id": "contact",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "flight",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vuelo",
+      "lexeme_id": "flight",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "polite",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "request",
+      "role": "support",
+      "status": "emergent",
+      "translation": "solicitud",
+      "lexeme_id": "request",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "hello",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hola",
+      "lexeme_id": "hello_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_014",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "cover",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cubrir / portada",
+      "lexeme_id": "cover_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_013",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "ticket",
+      "role": "support",
+      "status": "emergent",
+      "translation": "boleto / billete / ticket",
+      "lexeme_id": "ticket",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "assistant",
+      "role": "support",
+      "status": "emergent",
+      "translation": "asistente",
+      "lexeme_id": "assistant",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "screen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pantalla",
+      "lexeme_id": "screen_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "leave",
+      "role": "support",
+      "status": "emergent",
+      "translation": "irse / salir / dejar",
+      "lexeme_id": "leave_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "later",
+      "role": "support",
+      "status": "emergent",
+      "translation": "luego / más tarde",
+      "lexeme_id": "later_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "train",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tren",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "station",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estación",
+      "lexeme_id": "station",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "thank",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agradecer",
+      "lexeme_id": "thank_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "receipt",
+      "role": "support",
+      "status": "emergent",
+      "translation": "recibo",
+      "lexeme_id": "receipt",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_008"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 2,
+    "review_support_count": 1,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "store",
+      "find",
+      "year",
+      "excuse me",
+      "phone",
+      "laptop",
+      "get",
+      "schedule",
+      "customer",
+      "office",
+      "hour",
+      "contact",
+      "flight",
+      "polite",
+      "request",
+      "ask",
+      "check",
+      "need",
+      "hello",
+      "cover",
+      "yesterday",
+      "ticket",
+      "assistant",
+      "screen",
+      "say",
+      "work",
+      "leave",
+      "later",
+      "train",
+      "station",
+      "thank",
+      "receipt"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Pedir información con cortesía",
+      "title_target": "Quiz: Making polite requests for information",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Qué incluye la garantía del producto según el texto?",
+          "prompt_target": null,
+          "options": [
+            "Un servicio gratuito si hay algún problema durante dos años.",
+            "Un descuento inmediato en la compra del producto.",
+            "Un producto nuevo gratis si es muy costoso.",
+            "Devolución del dinero sin presentar el recibo."
+          ],
+          "correct_answer": "Un servicio gratuito si hay algún problema durante dos años.",
+          "explanation_form": "El texto menciona que cada ordenador viene con dos años de garantía para obtener servicio gratuito si hay un problema.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "guarantee",
+            "Polite requests and indirect questions with can, could and would."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Excuse me, could you tell me if this product has a guarantee? I would like to buy a new laptop, but it is expensive. The store manager said that every laptop comes with a two year guarantee, so you can get free service if there is any problem.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué información está pidiendo la persona?",
+          "prompt_target": null,
+          "options": [
+            "La ubicación del museo de la ciudad.",
+            "El precio de la entrada al museo.",
+            "El horario de atención de la tienda.",
+            "La garantía de los billetes de transporte."
+          ],
+          "correct_answer": "La ubicación del museo de la ciudad.",
+          "explanation_form": "La persona pregunta 'where the city museum is?' para saber la ubicación del museo.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_b1_can_you_tell",
+            "Polite requests and indirect questions with can, could and would."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "Hello! Can you tell me where the city museum is? I would like to visit it today with my family.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase con la palabra correcta: 'Does this expensive phone come with a 1-year ____?'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "guarantee",
+          "explanation_form": "'Guarantee' significa garantía. La expresión 'come with a guarantee' es muy común al comprar productos.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "guarantee"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una pregunta indirecta cortés:",
+          "prompt_target": null,
+          "options": [
+            "Can",
+            "you",
+            "tell",
+            "me",
+            "where",
+            "the",
+            "bank",
+            "is?"
+          ],
+          "correct_answer": "Can you tell me where the bank is?",
+          "explanation_form": "La estructura cortés indirecta comienza con 'Can you tell me...' seguida del orden de oración afirmativa (sujeto + verbo).",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "chunk_b1_can_you_tell",
+            "Polite requests and indirect questions with can, could and would."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué desea saber la persona al hacer la pregunta?",
+          "prompt_target": null,
+          "options": [
+            "El costo del billete.",
+            "La duración del viaje.",
+            "La garantía del billete.",
+            "El horario de salida del tren."
+          ],
+          "correct_answer": "El costo del billete.",
+          "explanation_form": "Pregunta 'how much this ticket costs' para conocer el precio del billete.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Polite requests and indirect questions with can, could and would."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Could you please tell me how much this ticket costs? I want to make sure it is not too expensive.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál oración usa correctamente la estructura 'Would you mind...?'?",
+          "prompt_target": "Which sentence uses the structure 'Would you mind...?' correctly?",
+          "options": [
+            "Would you mind checking whether this item is covered by the guarantee?",
+            "Would you mind to check whether this item is covered by the guarantee?",
+            "Would you mind check whether this item is covered by the guarantee?",
+            "Would you mind checked whether this item is covered by the guarantee?"
+          ],
+          "correct_answer": "Would you mind checking whether this item is covered by the guarantee?",
+          "explanation_form": "Después de 'Would you mind' usamos un verbo en gerundio (-ing): 'Would you mind checking...?'. La pregunta indirecta dentro de la petición mantiene el orden sujeto + verbo ('this item is covered').",
+          "explanation_target": null,
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "guarantee",
+            "Polite requests and indirect questions with can, could and would."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada expresión en inglés con su traducción o equivalente en español:",
+          "prompt_target": null,
+          "options": [
+            "guarantee",
+            "garantía",
+            "Can you tell me?",
+            "¿Me puede decir?",
+            "expensive",
+            "costoso",
+            "Could you help me?",
+            "¿Podría ayudarme?"
+          ],
+          "correct_answer": [
+            "guarantee=garantía",
+            "Can you tell me?=¿Me puede decir?",
+            "expensive=costoso",
+            "Could you help me?=¿Podría ayudarme?"
+          ],
+          "explanation_form": "Relaciona cada término o patrón cortés con su traducción adecuada.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "guarantee",
+            "chunk_b1_can_you_tell",
+            "expensive_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Cuál petición usa correctamente 'Would you mind + verbo-ing'?",
+          "prompt_target": "Read the story and answer: Which request correctly uses 'Would you mind + verb-ing'?",
+          "options": [
+            "Would you mind checking the camera?",
+            "Would you mind to check the camera?",
+            "Would you mind check the camera?",
+            "Would you mind checked the camera?"
+          ],
+          "correct_answer": "Would you mind checking the camera?",
+          "explanation_form": "Después de 'Would you mind' usamos el verbo en gerundio: 'checking'. / After 'Would you mind' we use the verb in the -ing form: 'checking'.",
+          "explanation_target": "After 'Would you mind' we use the verb in the -ing form: 'checking'.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "Polite requests and indirect questions with can, could and would."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I bought an expensive camera yesterday, but its screen is blank. I go to the service desk and ask, 'Could you tell me if the guarantee covers this problem?' The assistant reads my receipt. I add, 'Would you mind checking the camera?' She checks it and says a replacement is available. I ask when I can collect it.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el diálogo y responde: ¿Qué le pidió el viajero al empleado que hiciera?",
+          "prompt_target": "Listen to the dialogue and answer: What did the traveler ask the clerk to do?",
+          "options": [
+            "Print the new ticket.",
+            "Change the station schedule.",
+            "Cancel the later train.",
+            "Find a different information desk."
+          ],
+          "correct_answer": "Print the new ticket.",
+          "explanation_form": "El viajero usa 'Would you mind printing the new ticket?' para pedir que impriman el nuevo billete. / The traveler uses 'Would you mind printing the new ticket?' to ask the clerk to print the new ticket.",
+          "explanation_target": "The traveler uses 'Would you mind printing the new ticket?' to ask the clerk to print the new ticket.",
+          "references_exercise_id": "ex_014",
+          "references_lesson_topics": [
+            "Polite requests and indirect questions with can, could and would."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I am at the train station because I need information about my ticket. I ask, 'Could you tell me whether the later train is available?' The clerk checks the screen. I then say, 'Would you mind printing the new ticket?' She prints it and tells me that the train leaves at six. I thank her.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cortesía al pedir información\n\nAl solicitar información en tiendas o servicios, las preguntas directas pueden sonar bruscas. En inglés es muy común suavizar tus peticiones usando expresiones indirectas como **Can you tell me...?** o **Could you tell me...?**.\n\nPresta especial atención al orden de las palabras: en una pregunta indirecta, la oración subordinada recupera el orden de una afirmación (sujeto + verbo).\n- ✗ *Can you tell me where is the product?*\n- ✓ *Can you tell me where the product is?*\n\n## Preguntar por garantías (*guarantee*)\n\nCuando compras un artículo costoso (*expensive*), pedir detalles sobre la garantía es indispensable. Puedes combinar la estructura indirecta con el léxico de la lección:\n- *Could you tell me if this item comes with a guarantee?*\n\nRecuerda que usar **Could** o **Would** aporta un tono aún más respetuoso y adecuado para situaciones de atención al cliente.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:26:22Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

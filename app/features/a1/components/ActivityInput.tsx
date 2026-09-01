@@ -1,12 +1,12 @@
 "use client";
 
 import { useState } from "react";
-import type { A1Activity, A1QuizQuestion } from "../../../a1-expanded-course";
+import type { LessonActivity, LessonQuizQuestion } from "../../../course-content";
 import { distributeCorrectOption, normalizeAnswer, orderingOptions, uniqueOptions } from "../lesson-utils";
 import type { LessonFeedback } from "../types";
 
 type ActivityInputProps = {
-  item: A1Activity | A1QuizQuestion;
+  item: LessonActivity | LessonQuizQuestion;
   answer: string;
   feedback: LessonFeedback;
   onAnswer: (answer: string) => void;
@@ -58,6 +58,8 @@ export function ActivityInput({ item, answer, feedback, onAnswer, onFeedback }: 
     const correct = normalizeAnswer(option) === normalizeAnswer(item.correct_answer);
     return <button key={`${option}-${index}`} onClick={() => { onAnswer(option); resetFeedback(); }} className={(answer === option ? "selected " : "") + (feedback !== "idle" && correct ? "right" : "")}><span>{index + 1}</span>{option}</button>;
   })}</div>;
+
+  if (item.kind === "free_production") return <label className="a1-text-answer a1-production-answer"><span>Escribe tu producción en inglés</span><textarea value={answer} onChange={(event) => { onAnswer(event.target.value); resetFeedback(); }} placeholder="Escribe dos o más palabras para desarrollar tu idea…" rows={5} /></label>;
 
   return <label className="a1-text-answer"><span>Escribe tu respuesta</span><input value={answer} onChange={(event) => { onAnswer(event.target.value); resetFeedback(); }} placeholder="Tu respuesta…" autoComplete="off" /></label>;
 }

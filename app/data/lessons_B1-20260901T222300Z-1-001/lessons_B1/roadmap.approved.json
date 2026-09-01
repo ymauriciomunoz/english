@@ -1,0 +1,4125 @@
+{
+  "schema_version": 2,
+  "course_id": "en.B1",
+  "units": [
+    {
+      "id": 1,
+      "title_form": "Puente y narracion",
+      "title_target": "Bridge and narrative",
+      "lesson_ids": [
+        "lesson_001",
+        "lesson_002",
+        "lesson_003"
+      ]
+    },
+    {
+      "id": 2,
+      "title_form": "Narraciones conectadas y viajes",
+      "title_target": "Connected narratives and travel",
+      "lesson_ids": [
+        "lesson_004",
+        "lesson_005",
+        "lesson_006"
+      ]
+    },
+    {
+      "id": 3,
+      "title_form": "Planes y preferencias",
+      "title_target": "Plans and preferences",
+      "lesson_ids": [
+        "lesson_007",
+        "lesson_008",
+        "lesson_009"
+      ]
+    },
+    {
+      "id": 4,
+      "title_form": "Consejos, comparaciones y servicios",
+      "title_target": "Advice, comparisons and services",
+      "lesson_ids": [
+        "lesson_010",
+        "lesson_011",
+        "lesson_012"
+      ]
+    },
+    {
+      "id": 5,
+      "title_form": "Trabajo, servicios y aprendizaje",
+      "title_target": "Work, services and learning",
+      "lesson_ids": [
+        "lesson_013",
+        "lesson_014",
+        "lesson_015"
+      ]
+    },
+    {
+      "id": 6,
+      "title_form": "Noticias y mediacion",
+      "title_target": "News and mediation",
+      "lesson_ids": [
+        "lesson_016",
+        "lesson_017",
+        "lesson_018"
+      ]
+    },
+    {
+      "id": 7,
+      "title_form": "Entorno, proyectos y tecnologia",
+      "title_target": "Environment, projects and technology",
+      "lesson_ids": [
+        "lesson_019",
+        "lesson_020",
+        "lesson_021"
+      ]
+    },
+    {
+      "id": 8,
+      "title_form": "Comunidad y opiniones",
+      "title_target": "Community and opinions",
+      "lesson_ids": [
+        "lesson_022",
+        "lesson_023",
+        "lesson_024"
+      ]
+    },
+    {
+      "id": 9,
+      "title_form": "Dinero, entregas y salud",
+      "title_target": "Money, deliveries and health",
+      "lesson_ids": [
+        "lesson_025",
+        "lesson_026",
+        "lesson_027"
+      ]
+    },
+    {
+      "id": 10,
+      "title_form": "Medios, investigacion y carrera",
+      "title_target": "Media, research and career",
+      "lesson_ids": [
+        "lesson_028",
+        "lesson_029",
+        "lesson_030"
+      ]
+    },
+    {
+      "id": 11,
+      "title_form": "Reparacion e integracion",
+      "title_target": "Repair and integration",
+      "lesson_ids": [
+        "lesson_031",
+        "lesson_032",
+        "lesson_033"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson_001",
+      "position": 1,
+      "unit_id": 1,
+      "title_form": "Contar una historia de ayer",
+      "title_target": "Telling a story about yesterday",
+      "theme_focus": "stories and narrative",
+      "lesson_brief": {
+        "situation": "A friend asks what happened during an unexpected evening at home.",
+        "can_do": "Can narrate a short past event and set the scene for the listener.",
+        "central_grammar": "Past simple and past continuous for main events and background.",
+        "output": "A two-minute spoken story with a clear beginning, middle and ending.",
+        "activity": "Learners arrange picture cards, tell the story to a partner, and ask one follow-up question.",
+        "target_vocabulary": [
+          {
+            "term": "short story",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "setting",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "set the scene",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "in the end",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "past simple",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "past continuous",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "spoken_production"
+      ],
+      "learning_objectives": [
+        "Can narrate a short past event and set the scene for the listener."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "occur_verb",
+            "finish_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "short story",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "setting",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "set the scene",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "in the end",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "past simple",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "past continuous",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Past simple and past continuous for main events and background."
+      ],
+      "grammar_ids": [
+        "discourse_and_narrative"
+      ],
+      "functional_domain_ids": [
+        "stories_and_narrative"
+      ],
+      "prerequisites": [],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_5a2c583b3c9fa4a7",
+        "b1_cando_c6ea369ff8d8e8af",
+        "b1_cando_d4eea4d5fada89d3",
+        "b1_cando_f078edbf2ba98ae7",
+        "b1_cando_f72ff50a6cc09434"
+      ]
+    },
+    {
+      "id": "lesson_002",
+      "position": 2,
+      "unit_id": 1,
+      "title_form": "Hablar de experiencias",
+      "title_target": "Talking about life experiences",
+      "theme_focus": "stories and narrative",
+      "lesson_brief": {
+        "situation": "Two classmates compare travel and learning experiences before choosing a story to share.",
+        "can_do": "Can understand and exchange clear information about experiences and finished past events.",
+        "central_grammar": "Present perfect for experience and past simple for a finished time.",
+        "output": "A short experience profile with one follow-up question.",
+        "activity": "Learners listen to three profiles, complete an experience grid, and interview a partner.",
+        "target_vocabulary": [
+          {
+            "term": "life experience",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "finished event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "Have you ever ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "so far",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "have you ever",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "I went",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "listening_comprehension"
+      ],
+      "learning_objectives": [
+        "Can understand and exchange clear information about experiences and finished past events."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "discover_verb"
+          ],
+          "chunk_ids": [
+            "chunk_b1_i_have_just"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "life experience",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "finished event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "Have you ever ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "so far",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "have you ever",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "I went",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Present perfect for experience and past simple for a finished time."
+      ],
+      "grammar_ids": [
+        "present_perfect_and_experience"
+      ],
+      "functional_domain_ids": [
+        "stories_and_narrative"
+      ],
+      "prerequisites": [
+        "lesson_001"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_02e65e0baa005f06",
+        "b1_cando_131552aeac8abcb8",
+        "b1_cando_3b33a80985e855c9",
+        "b1_cando_4bf4636ce64002ef",
+        "b1_cando_8125738715a7489d",
+        "b1_cando_9c96e83cbbdda240",
+        "b1_cando_a64fbdd3856adb7d",
+        "b1_cando_aa7f9d8f9df1fd4c",
+        "b1_cando_d6c4b377deb9bb7c"
+      ]
+    },
+    {
+      "id": "lesson_003",
+      "position": 3,
+      "unit_id": 1,
+      "title_form": "Ordenar eventos pasados",
+      "title_target": "Ordering events in a past story",
+      "theme_focus": "stories and narrative",
+      "lesson_brief": {
+        "situation": "A travel blog describes a missed connection and the events that caused it.",
+        "can_do": "Can describe a straightforward narrative and identify which event happened first.",
+        "central_grammar": "Past perfect with past simple to show an earlier past event.",
+        "output": "A completed event timeline and a six-sentence retelling.",
+        "activity": "Pairs highlight time signals in a short blog, sequence event cards, and retell the incident.",
+        "target_vocabulary": [
+          {
+            "term": "timeline",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "earlier event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "by the time",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "before that",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "had already",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "when",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "reading_comprehension"
+      ],
+      "learning_objectives": [
+        "Can describe a straightforward narrative and identify which event happened first."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "realise_verb",
+            "confuse_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "timeline",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "earlier event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "by the time",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "before that",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "had already",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "when",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Past perfect with past simple to show an earlier past event."
+      ],
+      "grammar_ids": [
+        "past_perfect_sequence"
+      ],
+      "functional_domain_ids": [
+        "stories_and_narrative"
+      ],
+      "prerequisites": [
+        "lesson_002"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_19dfac7e22501961",
+        "b1_cando_52d3a04fc83266d0",
+        "b1_cando_540bc9549644459f",
+        "b1_cando_6888892189754503",
+        "b1_cando_7bce6162699c70ef",
+        "b1_cando_91a9e92c2b4c70b9",
+        "b1_cando_933b37734571ffc2",
+        "b1_cando_b492f08b823b2bd8",
+        "b1_cando_bcb2e96458c3a520"
+      ]
+    },
+    {
+      "id": "lesson_004",
+      "position": 4,
+      "unit_id": 2,
+      "title_form": "Conectar una narracion",
+      "title_target": "Connecting a narrative clearly",
+      "theme_focus": "stories and narrative",
+      "lesson_brief": {
+        "situation": "A local magazine asks for a short account of a recent community event.",
+        "can_do": "Can write a connected account of an experience using simple time and cause connectors.",
+        "central_grammar": "Time, addition, contrast and result connectors in a connected account.",
+        "output": "A connected account of 120 to 150 words.",
+        "activity": "Learners combine sentence strips, draft an account, and peer-edit the order and connectors.",
+        "target_vocabulary": [
+          {
+            "term": "timeline",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "meanwhile",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "afterwards",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "however",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "as a result",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "writing"
+      ],
+      "learning_objectives": [
+        "Can write a connected account of an experience using simple time and cause connectors."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+        "then_adv"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "timeline",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the stories and narrative situation."
+          },
+          {
+            "term": "meanwhile",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "afterwards",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "however",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "as a result",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Time, addition, contrast and result connectors in a connected account."
+      ],
+      "grammar_ids": [
+        "connectors_and_cohesion"
+      ],
+      "functional_domain_ids": [
+        "stories_and_narrative"
+      ],
+      "prerequisites": [
+        "lesson_003"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_064c37077ef9fbff",
+        "b1_cando_0e9f4413a90f2a8c",
+        "b1_cando_3a8123a02d9e3115",
+        "b1_cando_799f6985872b0d28",
+        "b1_cando_ec7535f89835ae6c",
+        "b1_cando_fcba176181b299b8"
+      ]
+    },
+    {
+      "id": "lesson_005",
+      "position": 5,
+      "unit_id": 2,
+      "title_form": "Relatar un problema de viaje",
+      "title_target": "Relating an unexpected travel problem",
+      "theme_focus": "travel and transport",
+      "lesson_brief": {
+        "situation": "A traveller explains a delay to a friend after arriving late at a destination.",
+        "can_do": "Can describe a straightforward travel problem and explain what happened in sequence.",
+        "central_grammar": "Narrative tenses and sequence language for a travel incident.",
+        "output": "A clear account of the problem and its solution.",
+        "activity": "Groups use a transport map and incident cards to prepare and tell different travel stories.",
+        "target_vocabulary": [
+          {
+            "term": "journey",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the travel and transport situation."
+          },
+          {
+            "term": "travel problem",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the travel and transport situation."
+          },
+          {
+            "term": "miss a connection",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "tell the story",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "while",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "as soon as",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "spoken_production"
+      ],
+      "learning_objectives": [
+        "Can describe a straightforward travel problem and explain what happened in sequence."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "journey_adj"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "journey",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the travel and transport situation."
+          },
+          {
+            "term": "travel problem",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the travel and transport situation."
+          },
+          {
+            "term": "miss a connection",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "tell the story",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "while",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "as soon as",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Narrative tenses and sequence language for a travel incident."
+      ],
+      "grammar_ids": [
+        "discourse_and_narrative"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_004"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_2fa2c2c71ecdcce1",
+        "b1_cando_6ef0d146e567ad81",
+        "b1_cando_9c4266fd4b7b78a7",
+        "b1_cando_a85f4551e5eb695b",
+        "b1_cando_adf4213b3fe88106",
+        "b1_cando_d9a7a92bb5d58764",
+        "b1_cando_d9e8e8a625cd91ff"
+      ]
+    },
+    {
+      "id": "lesson_006",
+      "position": 6,
+      "unit_id": 2,
+      "title_form": "Hablar de posibilidades cotidianas",
+      "title_target": "Talking about everyday possibilities",
+      "theme_focus": "daily life and routines",
+      "lesson_brief": {
+        "situation": "Roommates decide what to do if the weather changes their weekend routine.",
+        "can_do": "Can discuss what will happen in a familiar situation and respond to a possible problem.",
+        "central_grammar": "First conditional for real future possibilities and unless for conditions.",
+        "output": "A spoken plan with two conditional responses.",
+        "activity": "Pairs draw weather and transport cards, negotiate a plan, and explain their choices.",
+        "target_vocabulary": [
+          {
+            "term": "daily routine",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the daily life and routines situation."
+          },
+          {
+            "term": "weather",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the daily life and routines situation."
+          },
+          {
+            "term": "if it rains",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "unless",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "if + present",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "will + verb",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "independent_interaction"
+      ],
+      "learning_objectives": [
+        "Can discuss what will happen in a familiar situation and respond to a possible problem."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "concern_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "daily routine",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the daily life and routines situation."
+          },
+          {
+            "term": "weather",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the daily life and routines situation."
+          },
+          {
+            "term": "if it rains",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "unless",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "if + present",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "will + verb",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "First conditional for real future possibilities and unless for conditions."
+      ],
+      "grammar_ids": [
+        "conditionals"
+      ],
+      "functional_domain_ids": [
+        "daily_life"
+      ],
+      "prerequisites": [
+        "lesson_005"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_6622d66f62e588a4",
+        "b1_cando_c4013552b0cec1d8",
+        "b1_cando_d18065146562aa17",
+        "b1_cando_e234bfafdcdc8c5d",
+        "b1_cando_e83a0e9c997d3bdc"
+      ]
+    },
+    {
+      "id": "lesson_007",
+      "position": 7,
+      "unit_id": 3,
+      "title_form": "Organizar planes sociales",
+      "title_target": "Arranging social plans",
+      "theme_focus": "social communication and plans",
+      "lesson_brief": {
+        "situation": "Friends organise a day out while checking everyone's availability.",
+        "can_do": "Can make and change arrangements for a familiar social activity.",
+        "central_grammar": "Going to, present continuous and will for plans, arrangements and offers.",
+        "output": "A confirmed plan with times, places and one alternative.",
+        "activity": "Learners exchange personal calendars, solve a scheduling conflict, and confirm the final plan.",
+        "target_vocabulary": [
+          {
+            "term": "weekend plan",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "arrangement",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "be going to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "arrange to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "present continuous for future",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "will for offers",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "independent_interaction"
+      ],
+      "learning_objectives": [
+        "Can make and change arrangements for a familiar social activity."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "arrange_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "weekend plan",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "arrangement",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "be going to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "arrange to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "present continuous for future",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "will for offers",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Going to, present continuous and will for plans, arrangements and offers."
+      ],
+      "grammar_ids": [
+        "future_forms"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_006"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_719746bf368971d7",
+        "b1_cando_818473337422d29d",
+        "b1_cando_9d18c0d66e03ec2b",
+        "b1_cando_a989e5f32421529d",
+        "b1_cando_d00bbf877a9d16e7"
+      ]
+    },
+    {
+      "id": "lesson_008",
+      "position": 8,
+      "unit_id": 3,
+      "title_form": "Expresar intenciones y cambios",
+      "title_target": "Expressing intentions and changed plans",
+      "theme_focus": "social communication and plans",
+      "lesson_brief": {
+        "situation": "A group chat changes a planned visit because one person is unavailable.",
+        "can_do": "Can exchange messages about an intended activity and explain a change of plan.",
+        "central_grammar": "Going to and present continuous for intentions and fixed arrangements.",
+        "output": "A short message thread that confirms the new arrangement.",
+        "activity": "Groups receive different availability cards, negotiate in a chat simulation, and post the final plan.",
+        "target_vocabulary": [
+          {
+            "term": "appointment",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "intention",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "plan to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "look forward to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "going to",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "present continuous",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "online_interaction"
+      ],
+      "learning_objectives": [
+        "Can exchange messages about an intended activity and explain a change of plan."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "meet_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "appointment",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "intention",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "plan to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "look forward to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "going to",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "present continuous",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Going to and present continuous for intentions and fixed arrangements."
+      ],
+      "grammar_ids": [
+        "future_forms"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_007"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_4fd960e4b05b9f05",
+        "b1_cando_758e1c88101b3054",
+        "b1_cando_beb861660aa9ff25",
+        "b1_cando_e8aa8117a7b444e5",
+        "b1_cando_ef602301827a0aa4"
+      ]
+    },
+    {
+      "id": "lesson_009",
+      "position": 9,
+      "unit_id": 3,
+      "title_form": "Elegir actividades de tiempo libre",
+      "title_target": "Choosing a leisure activity",
+      "theme_focus": "social communication and plans",
+      "lesson_brief": {
+        "situation": "Friends choose an unusual activity for a free afternoon with no budget limit.",
+        "can_do": "Can discuss preferences and make a simple hypothetical suggestion for free time.",
+        "central_grammar": "Second conditional for unlikely or imaginary choices.",
+        "output": "A spoken recommendation with two reasons.",
+        "activity": "Learners rank activity cards, ask what-if questions, and agree on one group choice.",
+        "target_vocabulary": [
+          {
+            "term": "choice",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "free time",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "I'd love to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "I'd prefer to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "if I had",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "I would",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "online_interaction"
+      ],
+      "learning_objectives": [
+        "Can discuss preferences and make a simple hypothetical suggestion for free time."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "prefer_2"
+          ],
+          "chunk_ids": [
+            "chunk_b1_what_do_you_think"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "choice",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "free time",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the social communication and plans situation."
+          },
+          {
+            "term": "I'd love to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "I'd prefer to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "if I had",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "I would",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Second conditional for unlikely or imaginary choices."
+      ],
+      "grammar_ids": [
+        "conditionals"
+      ],
+      "functional_domain_ids": [
+        "social_plans"
+      ],
+      "prerequisites": [
+        "lesson_008"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_517f313192e7e917",
+        "b1_cando_60320b8400a92113",
+        "b1_cando_9d140b385e6b04b6",
+        "b1_cando_ae60201380cd8538",
+        "b1_cando_caf5159e308d0fc7"
+      ]
+    },
+    {
+      "id": "lesson_010",
+      "position": 10,
+      "unit_id": 4,
+      "title_form": "Dar consejos sobre bienestar",
+      "title_target": "Giving advice about wellbeing",
+      "theme_focus": "health and wellbeing",
+      "lesson_brief": {
+        "situation": "A community centre asks for practical advice to improve members' daily wellbeing.",
+        "can_do": "Can give and respond to straightforward advice about a familiar health habit.",
+        "central_grammar": "Should, ought to, must and might for advice, obligation and possibility.",
+        "output": "A short advice exchange with three useful suggestions.",
+        "activity": "Pairs match everyday problems to advice cards, role-play a consultation, and compare solutions.",
+        "target_vocabulary": [
+          {
+            "term": "health habit",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the health and wellbeing situation."
+          },
+          {
+            "term": "wellbeing",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the health and wellbeing situation."
+          },
+          {
+            "term": "you should",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "if I were you",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "should",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "might",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "independent_interaction"
+      ],
+      "learning_objectives": [
+        "Can give and respond to straightforward advice about a familiar health habit."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "recommendation"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "health habit",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the health and wellbeing situation."
+          },
+          {
+            "term": "wellbeing",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the health and wellbeing situation."
+          },
+          {
+            "term": "you should",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "if I were you",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "should",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "might",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Should, ought to, must and might for advice, obligation and possibility."
+      ],
+      "grammar_ids": [
+        "modals_and_advice"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_009"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_0b99c0c3aea15985",
+        "b1_cando_51fb8aeddc6a0c15",
+        "b1_cando_6e6438aad934d7d9",
+        "b1_cando_8c7b1893bacc4478",
+        "b1_cando_b261b5838929b1fa"
+      ]
+    },
+    {
+      "id": "lesson_011",
+      "position": 11,
+      "unit_id": 4,
+      "title_form": "Comparar productos y precios",
+      "title_target": "Comparing products and prices",
+      "theme_focus": "finance and consumption",
+      "lesson_brief": {
+        "situation": "A shopper compares three phones for a limited budget and a specific need.",
+        "can_do": "Can compare familiar products and explain which option offers better value.",
+        "central_grammar": "Comparatives, superlatives, too/enough and quantity expressions.",
+        "output": "A short spoken comparison and final choice.",
+        "activity": "Teams use product cards, ask about priorities, and justify a purchase in a mini-shop.",
+        "target_vocabulary": [
+          {
+            "term": "product",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the finance and consumption situation."
+          },
+          {
+            "term": "price",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the finance and consumption situation."
+          },
+          {
+            "term": "more affordable",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "the most useful",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "more than",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "enough",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "independent_interaction"
+      ],
+      "learning_objectives": [
+        "Can compare familiar products and explain which option offers better value."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "afford",
+            "affordable_adj",
+            "expensive_adj"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "product",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the finance and consumption situation."
+          },
+          {
+            "term": "price",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the finance and consumption situation."
+          },
+          {
+            "term": "more affordable",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "the most useful",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "more than",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "enough",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Comparatives, superlatives, too/enough and quantity expressions."
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "finance_and_consumption"
+      ],
+      "prerequisites": [
+        "lesson_010"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_33da19eccdac035f",
+        "b1_cando_42962fc9b5912666",
+        "b1_cando_dd5ecb9e26944138",
+        "b1_cando_e50d923030ce3e4f"
+      ]
+    },
+    {
+      "id": "lesson_012",
+      "position": 12,
+      "unit_id": 4,
+      "title_form": "Pedir informacion con cortesia",
+      "title_target": "Making polite requests for information",
+      "theme_focus": "shopping, services and communication",
+      "lesson_brief": {
+        "situation": "A customer needs information about a service, opening hours and a return policy.",
+        "can_do": "Can make polite requests and ask indirect questions in a familiar service situation.",
+        "central_grammar": "Polite requests and indirect questions with can, could and would.",
+        "output": "A short service dialogue with three polite questions.",
+        "activity": "Learners use information-gap cards at different service desks and complete a polite request checklist.",
+        "target_vocabulary": [
+          {
+            "term": "service desk",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping, services and communication situation."
+          },
+          {
+            "term": "information",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping, services and communication situation."
+          },
+          {
+            "term": "Could you tell me ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "Do you know how to ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "could you",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "would you mind",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "independent_interaction"
+      ],
+      "learning_objectives": [
+        "Can make polite requests and ask indirect questions in a familiar service situation."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "guarantee"
+          ],
+          "chunk_ids": [
+            "chunk_b1_can_you_tell"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "service desk",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping, services and communication situation."
+          },
+          {
+            "term": "information",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping, services and communication situation."
+          },
+          {
+            "term": "Could you tell me ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "Do you know how to ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "could you",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "would you mind",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Polite requests and indirect questions with can, could and would."
+      ],
+      "grammar_ids": [
+        "polite_requests_and_questions"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_011"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_38f778a765dc7f99",
+        "b1_cando_544ac5fd8991d50b",
+        "b1_cando_552301081889e265",
+        "b1_cando_9dec471c1dd096c4"
+      ]
+    },
+    {
+      "id": "lesson_013",
+      "position": 13,
+      "unit_id": 5,
+      "title_form": "Describir procesos de trabajo",
+      "title_target": "Describing workplace processes",
+      "theme_focus": "work and study",
+      "lesson_brief": {
+        "situation": "A new colleague asks how a small workplace task is completed.",
+        "can_do": "Can describe a familiar workplace process and explain what is done at each stage.",
+        "central_grammar": "Present and past simple passive for processes and completed work.",
+        "output": "A two-minute process explanation with ordered steps.",
+        "activity": "Learners sequence process pictures, convert active notes to passive sentences, and explain the process.",
+        "target_vocabulary": [
+          {
+            "term": "profession",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "workplace",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "is made",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "was completed",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "be + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "by",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "spoken_production"
+      ],
+      "learning_objectives": [
+        "Can describe a familiar workplace process and explain what is done at each stage."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "profession",
+            "work_verb",
+            "operate_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "profession",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "workplace",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "is made",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "was completed",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "be + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "by",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Present and past simple passive for processes and completed work."
+      ],
+      "grammar_ids": [
+        "passive_voice"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_012"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_b2f29fc017848beb",
+        "b1_cando_bfe6c85484a60000",
+        "b1_cando_e0c53c6b91c3d665",
+        "b1_cando_ee6358528e277ae0"
+      ]
+    },
+    {
+      "id": "lesson_014",
+      "position": 14,
+      "unit_id": 5,
+      "title_form": "Gestionar un servicio",
+      "title_target": "Arranging a repair service",
+      "theme_focus": "shopping and services",
+      "lesson_brief": {
+        "situation": "A tenant arranges repairs before moving into a rented apartment.",
+        "can_do": "Can explain what service needs to be arranged and what must be done next.",
+        "central_grammar": "Causative have/get and simple modal passive in service arrangements.",
+        "output": "A clear service request with tasks and deadlines.",
+        "activity": "Pairs call a repair company, fill a service form, and check whether each task is assigned.",
+        "target_vocabulary": [
+          {
+            "term": "service",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping and services situation."
+          },
+          {
+            "term": "requirement",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping and services situation."
+          },
+          {
+            "term": "have it repaired",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "must be completed",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "have something done",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "must be + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "writing"
+      ],
+      "learning_objectives": [
+        "Can explain what service needs to be arranged and what must be done next."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "require_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "service",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping and services situation."
+          },
+          {
+            "term": "requirement",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping and services situation."
+          },
+          {
+            "term": "have it repaired",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "must be completed",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "have something done",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "must be + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Causative have/get and simple modal passive in service arrangements."
+      ],
+      "grammar_ids": [
+        "passive_and_causative"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_013"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_0f881233343bf02c",
+        "b1_cando_2187c687bdadae7a",
+        "b1_cando_7cc2d475b231f1bc",
+        "b1_cando_91bb422630e8feaf"
+      ]
+    },
+    {
+      "id": "lesson_015",
+      "position": 15,
+      "unit_id": 5,
+      "title_form": "Hablar de aprendizaje y progreso",
+      "title_target": "Talking about learning and progress",
+      "theme_focus": "education and lifelong learning",
+      "lesson_brief": {
+        "situation": "A learner writes to a tutor about a course and the next study goal.",
+        "can_do": "Can write a short connected update about a course, a skill and progress made.",
+        "central_grammar": "Gerunds after prepositions and infinitives after common verbs.",
+        "output": "A 120-word progress update.",
+        "activity": "Learners match goals to study actions, draft an update, and exchange one practical suggestion.",
+        "target_vocabulary": [
+          {
+            "term": "course",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+          },
+          {
+            "term": "progress",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+          },
+          {
+            "term": "interested in",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "decide to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "learning by",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "to improve",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "writing"
+      ],
+      "learning_objectives": [
+        "Can write a short connected update about a course, a skill and progress made."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "education"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "course",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+          },
+          {
+            "term": "progress",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+          },
+          {
+            "term": "interested in",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "decide to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "learning by",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "to improve",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Gerunds after prepositions and infinitives after common verbs."
+      ],
+      "grammar_ids": [
+        "nonfinite_clauses"
+      ],
+      "functional_domain_ids": [
+        "education_and_learning"
+      ],
+      "prerequisites": [
+        "lesson_014"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_14121a890224baea",
+        "b1_cando_1e0bba0ce5e77352",
+        "b1_cando_4806ea2b32a56c52",
+        "b1_cando_726875e2980b78b2",
+        "b1_cando_7acfcbb40d942aca"
+      ]
+    },
+    {
+      "id": "lesson_016",
+      "position": 16,
+      "unit_id": 6,
+      "title_form": "Resumir un anuncio",
+      "title_target": "Summarising an announcement",
+      "theme_focus": "news and media",
+      "lesson_brief": {
+        "situation": "A community radio station announces changes to a public event.",
+        "can_do": "Can understand the main points of a clear announcement and report its essential information.",
+        "central_grammar": "Reported statements with said, told and explained.",
+        "output": "A short oral summary that keeps the key facts.",
+        "activity": "Learners listen twice, mark who said what, and relay the announcement to a partner.",
+        "target_vocabulary": [
+          {
+            "term": "announcement",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "said that",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "reported that",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "told someone that",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "explained that",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "listening_comprehension"
+      ],
+      "learning_objectives": [
+        "Can understand the main points of a clear announcement and report its essential information."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "announce"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "announcement",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "said that",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "reported that",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "told someone that",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "explained that",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Reported statements with said, told and explained."
+      ],
+      "grammar_ids": [
+        "reported_speech"
+      ],
+      "functional_domain_ids": [
+        "news_and_media"
+      ],
+      "prerequisites": [
+        "lesson_015"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_13b0671aa20c3aea",
+        "b1_cando_22780b29c4f7c0e5",
+        "b1_cando_3c45720e8c8db929",
+        "b1_cando_4913edf088747983",
+        "b1_cando_50f822e874c9b571",
+        "b1_cando_7b315c30257ea4d4",
+        "b1_cando_8edd5358923db6ab",
+        "b1_cando_95b525eb8f6f6a44",
+        "b1_cando_b14703f17ef6a044",
+        "b1_cando_b8bc23321843d0ae",
+        "b1_cando_b9172d2c7446dbc4",
+        "b1_cando_bbe00b1a13e69411",
+        "b1_cando_cf5ea14f17a53113",
+        "b1_cando_d19e7841c6996ae6"
+      ]
+    },
+    {
+      "id": "lesson_017",
+      "position": 17,
+      "unit_id": 6,
+      "title_form": "Relatar preguntas y peticiones",
+      "title_target": "Reporting questions and requests",
+      "theme_focus": "news and media",
+      "lesson_brief": {
+        "situation": "A volunteer passes questions and requests between visitors and an event organiser.",
+        "can_do": "Can relay a straightforward question or request accurately to another person.",
+        "central_grammar": "Reported yes/no and wh-questions, plus reported requests with to-infinitive.",
+        "output": "A relay note and a spoken handover.",
+        "activity": "A three-person information-gap task requires each learner to report one question and one request.",
+        "target_vocabulary": [
+          {
+            "term": "question",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "request",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "asked whether",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "told me to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "asked if",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "asked where",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "mediation"
+      ],
+      "learning_objectives": [
+        "Can relay a straightforward question or request accurately to another person."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "inform_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "question",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "request",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "asked whether",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "told me to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "asked if",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "asked where",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Reported yes/no and wh-questions, plus reported requests with to-infinitive."
+      ],
+      "grammar_ids": [
+        "reported_speech"
+      ],
+      "functional_domain_ids": [
+        "news_and_media"
+      ],
+      "prerequisites": [
+        "lesson_016"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_30a2dfb4e96137ab",
+        "b1_cando_60cd64aa815864a9",
+        "b1_cando_6e888468bdb31ddc",
+        "b1_cando_a6d0aba681577032",
+        "b1_cando_aae978425a90d8dc",
+        "b1_cando_bc53f44fc026c5ef",
+        "b1_cando_c6e6a84947ebb9e2",
+        "b1_cando_db35300c2ed2b028",
+        "b1_cando_f18b996b953372f9"
+      ]
+    },
+    {
+      "id": "lesson_018",
+      "position": 18,
+      "unit_id": 6,
+      "title_form": "Aclarar informacion en un evento",
+      "title_target": "Clarifying information at a community event",
+      "theme_focus": "culture and community",
+      "lesson_brief": {
+        "situation": "A visitor needs help understanding the schedule and rules of a local cultural event.",
+        "can_do": "Can relay straightforward information and check that another person has understood it.",
+        "central_grammar": "Because, so, however and in addition for clear connected explanations.",
+        "output": "A clear spoken explanation with a confirmation question.",
+        "activity": "Learners circulate with different event timetables, explain missing details, and repair one misunderstanding.",
+        "target_vocabulary": [
+          {
+            "term": "community event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the culture and community situation."
+          },
+          {
+            "term": "volunteer",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the culture and community situation."
+          },
+          {
+            "term": "explain clearly",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "check understanding",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "because",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "so",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "mediation"
+      ],
+      "learning_objectives": [
+        "Can relay straightforward information and check that another person has understood it."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "audience"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "community event",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the culture and community situation."
+          },
+          {
+            "term": "volunteer",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the culture and community situation."
+          },
+          {
+            "term": "explain clearly",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "check understanding",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "because",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "so",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Because, so, however and in addition for clear connected explanations."
+      ],
+      "grammar_ids": [
+        "connectors_and_cohesion"
+      ],
+      "functional_domain_ids": [
+        "culture_and_community"
+      ],
+      "prerequisites": [
+        "lesson_017"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_3c242536b93f370a",
+        "b1_cando_44aa303e5a77c235",
+        "b1_cando_45a1bfe7fd95e050",
+        "b1_cando_47cc8ade7863bc4c",
+        "b1_cando_77e1edbe2977fdaa",
+        "b1_cando_7dc2cbf49e7fb6b6",
+        "b1_cando_931583fa1cddd386",
+        "b1_cando_a17ae27b3740c23b"
+      ]
+    },
+    {
+      "id": "lesson_019",
+      "position": 19,
+      "unit_id": 7,
+      "title_form": "Explicar cambios en el medioambiente",
+      "title_target": "Explaining environmental changes",
+      "theme_focus": "environment and everyday technology",
+      "lesson_brief": {
+        "situation": "A town report describes a recycling project and its results over time.",
+        "can_do": "Can explain a clear factual text and identify the order of environmental actions and results.",
+        "central_grammar": "Present perfect and time clauses with when, after and before.",
+        "output": "A short ordered summary of the project.",
+        "activity": "Learners scan a report, build a before-and-after timeline, and explain the changes in pairs.",
+        "target_vocabulary": [
+          {
+            "term": "environment",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the environment and everyday technology situation."
+          },
+          {
+            "term": "project",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the environment and everyday technology situation."
+          },
+          {
+            "term": "once ...",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "after ...",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "has changed",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "after we have",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "reading_comprehension"
+      ],
+      "learning_objectives": [
+        "Can explain a clear factual text and identify the order of environmental actions and results."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "pollution"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "environment",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the environment and everyday technology situation."
+          },
+          {
+            "term": "project",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the environment and everyday technology situation."
+          },
+          {
+            "term": "once ...",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "after ...",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "has changed",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "after we have",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Present perfect and time clauses with when, after and before."
+      ],
+      "grammar_ids": [
+        "perfect_aspect_and_time_clauses"
+      ],
+      "functional_domain_ids": [
+        "environment_and_technology"
+      ],
+      "prerequisites": [
+        "lesson_018"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_5a5ab9e9ebc2fe80",
+        "b1_cando_732976a9f51a3725",
+        "b1_cando_7d8fd4a2437d41b1",
+        "b1_cando_9dd38f2bf61592ce",
+        "b1_cando_fd55957838dcc77e"
+      ]
+    },
+    {
+      "id": "lesson_020",
+      "position": 20,
+      "unit_id": 7,
+      "title_form": "Hablar de metas futuras",
+      "title_target": "Talking about future milestones",
+      "theme_focus": "work and study",
+      "lesson_brief": {
+        "situation": "A project team updates colleagues about a training programme and its deadlines.",
+      "can_do": "Can write a clear update about what will have been completed by a future deadline.",
+        "central_grammar": "Future perfect for milestones and time clauses for project updates.",
+        "output": "A concise future milestone update.",
+      "activity": "Teams arrange milestone cards, write an update, and peer-check milestones and completed actions.",
+        "target_vocabulary": [
+          {
+            "term": "deadline",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "plan",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "by next month",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "will have finished",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "will have + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "by the time",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "writing"
+      ],
+      "learning_objectives": [
+      "Can write a clear update about what will have been completed by a future deadline."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "develop_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "deadline",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "plan",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "by next month",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "will have finished",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "will have + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "by the time",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Future perfect for milestones and time clauses for project updates."
+      ],
+      "grammar_ids": [
+        "perfect_aspect_and_time_clauses"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_019"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_0960b61fc490ba58",
+        "b1_cando_1f95033276861cc3",
+        "b1_cando_20115816770de676",
+        "b1_cando_6c1feac3f1117b18",
+        "b1_cando_c717fa524f548a6c"
+      ]
+    },
+    {
+      "id": "lesson_021",
+      "position": 21,
+      "unit_id": 7,
+      "title_form": "Describir tecnologia cotidiana",
+      "title_target": "Describing everyday technology",
+      "theme_focus": "technology and media",
+      "lesson_brief": {
+        "situation": "A consumer magazine describes a device and the website that supports it.",
+        "can_do": "Can understand a straightforward product description and identify the people or things it refers to.",
+        "central_grammar": "Defining relative clauses with who, which and that.",
+        "output": "A labelled product description with defining details.",
+        "activity": "Learners match product features to clauses, then write and read a short description.",
+        "target_vocabulary": [
+          {
+            "term": "device",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the technology and media situation."
+          },
+          {
+            "term": "website",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the technology and media situation."
+          },
+          {
+            "term": "which helps users",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "that connects",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "who",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "which",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "reading_comprehension"
+      ],
+      "learning_objectives": [
+        "Can understand a straightforward product description and identify the people or things it refers to."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "smartphone"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "device",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the technology and media situation."
+          },
+          {
+            "term": "website",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the technology and media situation."
+          },
+          {
+            "term": "which helps users",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "that connects",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "who",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "which",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Defining relative clauses with who, which and that."
+      ],
+      "grammar_ids": [
+        "relative_clauses"
+      ],
+      "functional_domain_ids": [
+        "technology_and_media"
+      ],
+      "prerequisites": [
+        "lesson_020"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_2d7893aa54b2d3ee",
+        "b1_cando_3fdcfb0762586efd",
+        "b1_cando_4af2df982c6e443a",
+        "b1_cando_c2905f344d1dd33c",
+        "b1_cando_fd264959aab780e3"
+      ]
+    },
+    {
+      "id": "lesson_022",
+      "position": 22,
+      "unit_id": 8,
+      "title_form": "Describir el vecindario",
+      "title_target": "Describing a neighbourhood",
+      "theme_focus": "relationships and community",
+      "lesson_brief": {
+        "situation": "A visitor asks a resident about a neighbourhood and its community spaces.",
+        "can_do": "Can give a connected description of a familiar place and the people who use it.",
+        "central_grammar": "Non-defining relative clauses with who and which for added information.",
+        "output": "A two-minute neighbourhood description.",
+        "activity": "Pairs use a simple map, add relative-clause details, and give a guided description.",
+        "target_vocabulary": [
+          {
+            "term": "neighbourhood",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the relationships and community situation."
+          },
+      {
+        "term": "resident",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the relationships and community situation."
+      },
+      {
+        "term": "facility",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for a community space in the neighbourhood."
+      },
+      {
+        "term": "shop",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for a local place in the neighbourhood."
+      },
+          {
+            "term": "who lives there",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "which has",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "who",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "which",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "spoken_production"
+      ],
+      "learning_objectives": [
+        "Can give a connected description of a familiar place and the people who use it."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+        "community"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "neighbourhood",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the relationships and community situation."
+          },
+      {
+        "term": "resident",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the relationships and community situation."
+      },
+      {
+        "term": "facility",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for a community space in the neighbourhood."
+      },
+      {
+        "term": "shop",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for a local place in the neighbourhood."
+      },
+          {
+            "term": "who lives there",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "which has",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "who",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "which",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Non-defining relative clauses with who and which for added information."
+      ],
+      "grammar_ids": [
+        "relative_clauses"
+      ],
+      "functional_domain_ids": [
+        "relationships_and_community"
+      ],
+      "prerequisites": [
+        "lesson_021"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_86657602ecdae2c8",
+        "b1_cando_8e3dbf3b08f5ca36",
+        "b1_cando_a8f2133f40b0de84",
+        "b1_cando_c310da127fcd4d31"
+      ]
+    },
+    {
+      "id": "lesson_023",
+      "position": 23,
+      "unit_id": 8,
+      "title_form": "Discutir actitudes y opiniones",
+      "title_target": "Discussing attitudes and opinions",
+      "theme_focus": "culture and community",
+      "lesson_brief": {
+        "situation": "A community group discusses whether a local tradition should change.",
+        "can_do": "Can express and respond to a clear opinion about a familiar social or cultural question.",
+        "central_grammar": "Contrast and addition connectors for a balanced opinion.",
+        "output": "A one-minute opinion with one contrast and one reason.",
+        "activity": "Learners position themselves on an opinion line, ask follow-up questions, and summarise another view.",
+        "target_vocabulary": [
+          {
+            "term": "attitude",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the culture and community situation."
+          },
+          {
+            "term": "opinion",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the culture and community situation."
+          },
+          {
+            "term": "on the other hand",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "in my view",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "however",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "in addition",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "independent_interaction"
+      ],
+      "learning_objectives": [
+        "Can express and respond to a clear opinion about a familiar social or cultural question."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "attitude"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "attitude",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the culture and community situation."
+          },
+          {
+            "term": "opinion",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the culture and community situation."
+          },
+          {
+            "term": "on the other hand",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "in my view",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "however",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "in addition",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Contrast and addition connectors for a balanced opinion."
+      ],
+      "grammar_ids": [
+        "connectors_and_cohesion"
+      ],
+      "functional_domain_ids": [
+        "culture_and_community"
+      ],
+      "prerequisites": [
+        "lesson_022"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_46fa95a9f13976a5",
+        "b1_cando_6ecbe85a62c7cc40",
+        "b1_cando_84df308e7d448fab",
+        "b1_cando_9490ca15f166fc83",
+        "b1_cando_c7d88059cc8288d2"
+      ]
+    },
+    {
+      "id": "lesson_024",
+      "position": 24,
+      "unit_id": 8,
+      "title_form": "Explorar opciones y consecuencias",
+      "title_target": "Exploring options and consequences",
+      "theme_focus": "relationships and community",
+      "lesson_brief": {
+        "situation": "Neighbours consider different ways to use an empty community space.",
+        "can_do": "Can discuss possible consequences of a familiar choice and respond to another suggestion.",
+        "central_grammar": "May, might, could and should for possibility and tentative advice.",
+        "output": "A short comparison of two options and likely effects.",
+        "activity": "Groups rank proposals, use possibility cards, and negotiate one practical recommendation.",
+        "target_vocabulary": [
+          {
+            "term": "advantage",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the relationships and community situation."
+          },
+          {
+            "term": "option",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the relationships and community situation."
+          },
+          {
+            "term": "could",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "could be better",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "may",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "might",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "independent_interaction"
+      ],
+      "learning_objectives": [
+        "Can discuss possible consequences of a familiar choice and respond to another suggestion."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "advantage"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "advantage",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the relationships and community situation."
+          },
+          {
+            "term": "option",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the relationships and community situation."
+          },
+          {
+            "term": "could",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "could be better",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "may",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "might",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "May, might, could and should for possibility and tentative advice."
+      ],
+      "grammar_ids": [
+        "modals_and_advice"
+      ],
+      "functional_domain_ids": [
+        "relationships_and_community"
+      ],
+      "prerequisites": [
+        "lesson_023"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_1fc8f2b0bdf01de2",
+        "b1_cando_2c7f5fdc01f5bf75",
+        "b1_cando_5bebfa6198e8a931",
+        "b1_cando_925b39742102e0f4"
+      ]
+    },
+    {
+      "id": "lesson_025",
+      "position": 25,
+      "unit_id": 9,
+      "title_form": "Resolver un problema de entrega",
+      "title_target": "Resolving a delivery problem",
+      "theme_focus": "shopping and services",
+      "lesson_brief": {
+        "situation": "A customer contacts a delivery service because an order has not arrived.",
+        "can_do": "Can explain a familiar service problem and make a polite request for a solution.",
+        "central_grammar": "Indirect questions and polite requests in a customer-service exchange.",
+        "output": "A service call that identifies the problem and requests a solution.",
+        "activity": "Pairs role-play customer and agent with different order records, then swap roles.",
+        "target_vocabulary": [
+          {
+            "term": "delivery",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping and services situation."
+          },
+          {
+            "term": "customer",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping and services situation."
+          },
+          {
+            "term": "Could you tell me ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "I'd like to ...",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "could",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "would",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "independent_interaction"
+      ],
+      "learning_objectives": [
+        "Can explain a familiar service problem and make a polite request for a solution."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "delivery"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "delivery",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping and services situation."
+          },
+          {
+            "term": "customer",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the shopping and services situation."
+          },
+          {
+            "term": "Could you tell me ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "I'd like to ...",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "could",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "would",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Indirect questions and polite requests in a customer-service exchange."
+      ],
+      "grammar_ids": [
+        "polite_requests_and_questions"
+      ],
+      "functional_domain_ids": [
+        "shopping_and_services"
+      ],
+      "prerequisites": [
+        "lesson_024"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_6af94e9f54e72c3b",
+        "b1_cando_a7651a07f8d1543d",
+        "b1_cando_b637fc380622e48b",
+        "b1_cando_de8123759b7840cc"
+      ]
+    },
+    {
+      "id": "lesson_026",
+      "position": 26,
+      "unit_id": 9,
+      "title_form": "Hablar de un presupuesto",
+      "title_target": "Discussing a household budget",
+      "theme_focus": "finance and consumption",
+      "lesson_brief": {
+        "situation": "A household must choose essential purchases without exceeding its monthly budget.",
+        "can_do": "Can compare spending choices and write a simple recommendation for staying within a budget.",
+        "central_grammar": "Comparatives, superlatives and enough/too much in budget decisions.",
+        "output": "A short written budget recommendation.",
+        "activity": "Learners sort needs and wants, calculate with price cards, and write a recommendation.",
+        "target_vocabulary": [
+          {
+            "term": "budget",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the finance and consumption situation."
+          },
+          {
+            "term": "purchase",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the finance and consumption situation."
+          },
+          {
+            "term": "too much",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "enough for",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "more economical",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "the cheapest",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "writing"
+      ],
+      "learning_objectives": [
+        "Can compare spending choices and write a simple recommendation for staying within a budget."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "spend_money_phrase",
+            "cheap",
+            "safe_adj"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "budget",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the finance and consumption situation."
+          },
+          {
+            "term": "purchase",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the finance and consumption situation."
+          },
+          {
+            "term": "too much",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "enough for",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "more economical",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "the cheapest",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Comparatives, superlatives and enough/too much in budget decisions."
+      ],
+      "grammar_ids": [
+        "comparison_and_quantity"
+      ],
+      "functional_domain_ids": [
+        "finance_and_consumption"
+      ],
+      "prerequisites": [
+        "lesson_025"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_5ec615b2d9d647c2",
+        "b1_cando_6b34d5102ce0a720",
+        "b1_cando_e501a1226f27751d",
+        "b1_cando_f749172a03c6ed52"
+      ]
+    },
+    {
+      "id": "lesson_027",
+      "position": 27,
+      "unit_id": 9,
+      "title_form": "Dar recomendaciones de salud",
+      "title_target": "Giving health recommendations",
+      "theme_focus": "health and wellbeing",
+      "lesson_brief": {
+        "situation": "A clinic explains a simple treatment plan and safety rules to a patient.",
+        "can_do": "Can explain simple health advice and state what is necessary or not necessary.",
+        "central_grammar": "Must, mustn't, have to and don't have to for health rules.",
+        "output": "A clear set of spoken health instructions.",
+        "activity": "Learners match patient profiles to advice, role-play the consultation, and check understanding.",
+        "target_vocabulary": [
+          {
+            "term": "treatment",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the health and wellbeing situation."
+          },
+          {
+            "term": "health plan",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the health and wellbeing situation."
+          },
+          {
+            "term": "must",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "don't have to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "mustn't",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "have to",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "independent_interaction"
+      ],
+      "learning_objectives": [
+        "Can explain simple health advice and state what is necessary or not necessary."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "treatment"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "treatment",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the health and wellbeing situation."
+          },
+          {
+            "term": "health plan",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the health and wellbeing situation."
+          },
+          {
+            "term": "must",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "don't have to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "mustn't",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "have to",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Must, mustn't, have to and don't have to for health rules."
+      ],
+      "grammar_ids": [
+        "modals_and_advice"
+      ],
+      "functional_domain_ids": [
+        "health_and_advice"
+      ],
+      "prerequisites": [
+        "lesson_026"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_394f46bec12adb9e",
+        "b1_cando_4a7290690f7d73e8",
+        "b1_cando_8055c5450655a2db",
+        "b1_cando_95af91a5c18e7947"
+      ]
+    },
+    {
+      "id": "lesson_028",
+      "position": 28,
+      "unit_id": 10,
+      "title_form": "Leer y resumir una noticia",
+      "title_target": "Reading and summarising a news report",
+      "theme_focus": "news and media",
+      "lesson_brief": {
+        "situation": "A local news article presents different views about a public decision.",
+        "can_do": "Can identify the main claims in a straightforward news report and summarise who said them.",
+        "central_grammar": "Reporting verbs for statements, claims and denials in a factual summary.",
+        "output": "A neutral six-sentence summary with source labels.",
+        "activity": "Groups mark each source and claim, then produce a short summary without adding opinion.",
+        "target_vocabulary": [
+          {
+            "term": "article",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "source",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "claimed that",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "according to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "said",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "claimed",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "reading_comprehension"
+      ],
+      "learning_objectives": [
+        "Can identify the main claims in a straightforward news report and summarise who said them."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "publish_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "article",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "source",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the news and media situation."
+          },
+          {
+            "term": "claimed that",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "according to",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "said",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "claimed",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Reporting verbs for statements, claims and denials in a factual summary."
+      ],
+      "grammar_ids": [
+        "reported_speech"
+      ],
+      "functional_domain_ids": [
+        "news_and_media"
+      ],
+      "prerequisites": [
+        "lesson_027"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_0d7c103655001fc3",
+        "b1_cando_17b8dff83b444658",
+        "b1_cando_17d0d071fed62d57",
+        "b1_cando_300144698db489b4",
+        "b1_cando_6423260cab773d08",
+        "b1_cando_6d894eb279d0674b",
+        "b1_cando_8b17ada20d0f494e",
+        "b1_cando_97e8ed9fb7550ba4",
+        "b1_cando_b42369aea3e87a4f",
+        "b1_cando_bc04ba850d8ee99a",
+        "b1_cando_c09d2b736b31b15a",
+        "b1_cando_d3a43ed4d271559f",
+        "b1_cando_ed0f1127aea4d533"
+      ]
+    },
+    {
+      "id": "lesson_029",
+      "position": 29,
+      "unit_id": 10,
+      "title_form": "Explicar un proyecto de investigacion",
+      "title_target": "Explaining a small research project",
+      "theme_focus": "education and lifelong learning",
+      "lesson_brief": {
+        "situation": "A student explains a small class project about everyday study habits.",
+        "can_do": "Can describe the purpose and steps of a small research project in connected language.",
+        "central_grammar": "Gerunds for activities and infinitives for aims and plans.",
+        "output": "A short project explanation with purpose and method.",
+        "activity": "Learners match research questions to methods, prepare an explanation, and ask one clarification question.",
+        "target_vocabulary": [
+          {
+            "term": "research",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+          },
+          {
+            "term": "class",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+          },
+          {
+            "term": "by collecting",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "to find out",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "by + -ing",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "to + infinitive",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "reading_comprehension"
+      ],
+      "learning_objectives": [
+        "Can describe the purpose and steps of a small research project in connected language."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "do_research_phrase"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "research",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+          },
+          {
+            "term": "class",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+          },
+          {
+            "term": "by collecting",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "to find out",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "by + -ing",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "to + infinitive",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Gerunds for activities and infinitives for aims and plans."
+      ],
+      "grammar_ids": [
+        "nonfinite_clauses"
+      ],
+      "functional_domain_ids": [
+        "education_and_learning"
+      ],
+      "prerequisites": [
+        "lesson_028"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_16938abbf361edfc",
+        "b1_cando_68d36d72fb1fe378",
+        "b1_cando_db2200a71e2e1d0a",
+        "b1_cando_dc248650e39d2a06"
+      ]
+    },
+    {
+      "id": "lesson_030",
+      "position": 30,
+      "unit_id": 10,
+      "title_form": "Presentar un plan profesional",
+      "title_target": "Presenting a professional plan",
+      "theme_focus": "work and study",
+      "lesson_brief": {
+        "situation": "A careers workshop asks learners to present a realistic professional development plan.",
+        "can_do": "Can give a clear connected presentation about a familiar career or work plan.",
+        "central_grammar": "Simple passive forms in formal project and career presentations.",
+        "output": "A three-minute presentation with a visual timeline.",
+        "activity": "Learners prepare a timeline, present to a small group, and give one listener question.",
+        "target_vocabulary": [
+          {
+            "term": "career",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "presentation",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "will be completed",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "is expected",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "will be + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "is + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "spoken_production"
+      ],
+      "learning_objectives": [
+        "Can give a clear connected presentation about a familiar career or work plan."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "career"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "career",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "presentation",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "will be completed",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "is expected",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "will be + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "is + past participle",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Simple passive forms in formal project and career presentations."
+      ],
+      "grammar_ids": [
+        "passive_voice"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_029"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_17d5e8ef37283309",
+        "b1_cando_25f767ad8c99167d",
+        "b1_cando_9e195ecbd8da21e9",
+        "b1_cando_b0a58b09d8a7c6e1"
+      ]
+    },
+    {
+      "id": "lesson_031",
+      "position": 31,
+      "unit_id": 11,
+      "title_form": "Reparar malentendidos",
+      "title_target": "Repairing a misunderstanding",
+      "theme_focus": "travel and transport",
+      "lesson_brief": {
+        "situation": "A traveller and an information officer misunderstand a platform change.",
+        "can_do": "Can explain a straightforward misunderstanding and restate the information in another way.",
+        "central_grammar": "Clarification questions and polite indirect questions.",
+        "output": "A repaired dialogue that confirms the correct information.",
+        "activity": "Pairs use conflicting travel notices, ask for clarification, and reformulate the message.",
+        "target_vocabulary": [
+          {
+            "term": "information",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the travel and transport situation."
+          },
+          {
+            "term": "traveller",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the travel and transport situation."
+          },
+          {
+            "term": "Could you clarify ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "What I mean is ...",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "could you",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "do you mean",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "mediation"
+      ],
+      "learning_objectives": [
+        "Can explain a straightforward misunderstanding and restate the information in another way."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "source",
+            "ask_verb",
+            "repeat_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "information",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the travel and transport situation."
+          },
+          {
+            "term": "traveller",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the travel and transport situation."
+          },
+          {
+            "term": "Could you clarify ...?",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "What I mean is ...",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "could you",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "do you mean",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Clarification questions and polite indirect questions."
+      ],
+      "grammar_ids": [
+        "polite_requests_and_questions"
+      ],
+      "functional_domain_ids": [
+        "travel_and_transport"
+      ],
+      "prerequisites": [
+        "lesson_030"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_01dabcfec301a242",
+        "b1_cando_0f8eff6c010c10b4",
+        "b1_cando_36c5b6fdb04b1054",
+        "b1_cando_a6e4692891f96cbd"
+      ]
+    },
+    {
+      "id": "lesson_032",
+      "position": 32,
+      "unit_id": 11,
+      "title_form": "Participar en una discusion en linea",
+      "title_target": "Joining an online discussion",
+      "theme_focus": "technology and media",
+      "lesson_brief": {
+        "situation": "A class forum discusses whether a school should change one digital rule.",
+        "can_do": "Can write a connected opinion online and respond politely to another familiar viewpoint.",
+        "central_grammar": "Connectors for sequencing reasons, contrast and result in an online post.",
+        "output": "A 100-word post and a respectful reply.",
+        "activity": "Learners read three short posts, write their own position, and reply using a contrast connector.",
+        "target_vocabulary": [
+          {
+            "term": "online post",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the technology and media situation."
+          },
+          {
+            "term": "discussion",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the technology and media situation."
+          },
+          {
+            "term": "in my opinion",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "as a result",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "however",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "because",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "online_interaction"
+      ],
+      "learning_objectives": [
+        "Can write a connected opinion online and respond politely to another familiar viewpoint."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "post"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "online post",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the technology and media situation."
+          },
+          {
+            "term": "discussion",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the technology and media situation."
+          },
+          {
+            "term": "in my opinion",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "as a result",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "however",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "because",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Connectors for sequencing reasons, contrast and result in an online post."
+      ],
+      "grammar_ids": [
+        "discourse_and_narrative"
+      ],
+      "functional_domain_ids": [
+        "technology_and_media"
+      ],
+      "prerequisites": [
+        "lesson_031"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_44eb271ef84dc14b",
+        "b1_cando_534c10eba4c8930d",
+        "b1_cando_62d70f90e1704641",
+        "b1_cando_9270e128a62dd24e",
+        "b1_cando_ca3631c4659e9a7a",
+        "b1_cando_ed7ee5ee7bc373db",
+        "b1_cando_ef356cd0115d9bb9",
+        "b1_cando_f9c38ce63f6096be"
+      ]
+    },
+    {
+      "id": "lesson_033",
+      "position": 33,
+      "unit_id": 11,
+      "title_form": "Integrar ideas en una presentacion",
+      "title_target": "Integrating ideas in a final presentation",
+      "theme_focus": "work and study",
+      "lesson_brief": {
+        "situation": "A small team proposes an improvement for a familiar school, work or community situation.",
+        "can_do": "Can present a clear connected proposal and respond to familiar questions about it.",
+        "central_grammar": "Organising a short proposal with sequence, reason, contrast and conclusion markers.",
+        "output": "A three-minute proposal plus a short written summary.",
+        "activity": "Teams choose a problem, prepare a visual proposal, present it, and answer two audience questions.",
+        "target_vocabulary": [
+          {
+            "term": "purpose",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "final proposal",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "firstly",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "to sum up",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "therefore",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "on the other hand",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "can_do_ids": [
+        "mediation"
+      ],
+      "learning_objectives": [
+        "Can present a clear connected proposal and respond to familiar questions about it."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "purpose"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        },
+        "bridge_vocabulary": {
+          "lexeme_ids": []
+        },
+        "target_vocabulary": [
+          {
+            "term": "purpose",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "final proposal",
+            "role": "topic",
+            "rationale": "Concrete vocabulary for the work and study situation."
+          },
+          {
+            "term": "firstly",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "to sum up",
+            "role": "functional",
+            "rationale": "Language needed to complete the communicative task."
+          },
+          {
+            "term": "therefore",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          },
+          {
+            "term": "on the other hand",
+            "role": "grammar_support",
+            "rationale": "Controlled language for the central B1 grammar pattern."
+          }
+        ]
+      },
+      "grammar_focus": [
+        "Organising a short proposal with sequence, reason, contrast and conclusion markers."
+      ],
+      "grammar_ids": [
+        "connectors_and_cohesion"
+      ],
+      "functional_domain_ids": [
+        "work_and_study"
+      ],
+      "prerequisites": [
+        "lesson_032"
+      ],
+      "estimated_minutes": 40,
+      "can_do_descriptor_ids": [
+        "b1_cando_05b2941242d98a86",
+        "b1_cando_253a61b4618e3995",
+        "b1_cando_3ed5f94ddac05423",
+        "b1_cando_490726f989c4347e",
+        "b1_cando_a5b4ffd84956cabe",
+        "b1_cando_c1e04a13147da93e",
+        "b1_cando_c8ae4a30bc6f9ad2",
+        "b1_cando_c9236218aa4e235c"
+      ]
+    }
+  ],
+  "metadata": {
+    "course_id": "en.B1",
+    "generated_at": "2026-08-29T15:53:12Z",
+    "provider": "manual_blueprint",
+    "model": "luna-5.6-max-manual",
+    "cost_usd": 0.0,
+    "schema_version": 2,
+    "fingerprints": {
+      "chunks": "dc63c8a7af7a40337373b501c6a4dcf2f3cb569f811e05948c24893e9a5abd1d",
+      "contract": "12459bf92531fbc18a7f9e01345551487f3ffde6f128c955a001f59aafeacae9",
+      "lexemes": "ec6262216b38ee740a690a8df31961a4a5814c35639d1963ed1f54d0b39236e8",
+      "profile": "3ca942d864fd1b47554db2b9399537273059910b5e2a4650f55f8048941080e0",
+      "roadmap": "5e886166435552645d86cd0292599ad2b2142ce9c39eaa4798929752bee56c49",
+      "spec": "7501f3ee6278b9caa639787cb729083f70fcab95d2706461ec421a89fa028792"
+    },
+    "strategy": "b1_target_ledger_with_required_lesson_briefs"
+  }
+}

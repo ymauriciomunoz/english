@@ -1,0 +1,1463 @@
+{
+  "id": "lesson_052",
+  "position": 52,
+  "unit_id": 7,
+  "course_id": "en.A2",
+  "title_form": "Describing your skills and qualifications",
+  "title_target": "Describiendo tus habilidades y cualificaciones",
+  "theme_focus": "work",
+  "learning_objectives": [
+    "Can describe their skills and qualifications using simple sentences.",
+    "Can state their work experience and abilities."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_050",
+    "lesson_051"
+  ],
+  "grammar_focus": [
+    "present simple: affirmative with have"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "skills",
+        "qualifications",
+        "helpful_adj",
+        "creative_adj",
+        "practice",
+        "expert",
+        "success"
+      ],
+      "chunk_ids": [
+        "chunk_a2_i_have_experience_in"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "organize_verb",
+        "write_down_verb",
+        "job",
+        "company",
+        "boss_verb",
+        "skill",
+        "experience",
+        "manager",
+        "team",
+        "business"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana is preparing for a job interview at a small company. She talks with her friend about her skills, her experience, and what she can do. She practices describing herself with words like helpful and creative, and she thinks about her qualifications and her success in past jobs.",
+  "introduction_md": "## Describiendo tus habilidades y cualificaciones\n\nEn esta lección vas a aprender a hablar sobre tus **skills** (habilidades) y **qualifications** (cualificaciones) en inglés. Esto es muy útil para entrevistas de trabajo, para hablar con tu jefe o para conocer gente nueva.\n\nVas a practicar:\n\n- Cómo decir **I have experience in...** (Tengo experiencia en...)\n- Adjetivos para describirte: **helpful** (servicial), **creative** (creativo/a)\n- Palabras clave como **practice** (práctica), **expert** (experto/a) y **success** (éxito)\n\nCon estas herramientas podrás presentarte mejor y contar qué sabes hacer. ¡Vamos a empezar!",
+  "intro_target": "## Describing your skills and qualifications\n\nIn this lesson, you will learn to talk about your **skills** and **qualifications** in English. This is very useful for job interviews, to talk with your boss, or to meet new people.\n\nYou will practice:\n\n- How to say **I have experience in...**\n- Adjectives to describe yourself: **helpful**, **creative**\n- Key words like **practice**, **expert**, and **success**\n\nWith these tools, you can present yourself better and say what you know how to do. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_have_experience_in",
+      "grammar_slug": null,
+      "text_target": "I have experience in sales, and I have good skills with people.",
+      "translation_form": "Tengo experiencia en ventas y tengo buenas habilidades con la gente.",
+      "highlight_words": [
+        "experience",
+        "skills"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "qualifications",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My qualifications are important for this job at the company.",
+      "translation_form": "Mis títulos son importantes para este trabajo en la empresa.",
+      "highlight_words": [
+        "qualifications",
+        "job",
+        "company"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "helpful_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My manager is helpful, and she is very creative with new ideas.",
+      "translation_form": "Mi gerente es útil y es muy creativa con ideas nuevas.",
+      "highlight_words": [
+        "helpful",
+        "creative",
+        "manager"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "practice",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I practice my skills every day, and I write down my progress.",
+      "translation_form": "Practico mis habilidades todos los días y anoto mi progreso.",
+      "highlight_words": [
+        "practice",
+        "skills"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "expert",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She is an expert in business, and her team has great success.",
+      "translation_form": "Ella es una experta en negocios y su equipo tiene un gran éxito.",
+      "highlight_words": [
+        "expert",
+        "business",
+        "team",
+        "success"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "success",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have experience in organizing events, and that is my success.",
+      "translation_form": "Tengo experiencia en organizar eventos y ese es mi éxito.",
+      "highlight_words": [
+        "experience",
+        "organizing",
+        "success"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: affirmative with have",
+      "title_form": "Presente simple: afirmativo con have",
+      "title_target": "Present simple: affirmative with have",
+      "description_md_form": "El verbo **have** (tener) se usa para hablar de posesiones, habilidades y experiencia. En presente simple afirmativo, la forma cambia según el sujeto:\n\n- **I / you / we / they** → **have**\n- **He / she / it** → **has**\n\nEjemplos:\n- `I have experience in sales.`\n- `She has good skills with people.`\n\n**Importante:** En inglés, **have** ya incluye la idea de posesión. No necesitas agregar otra palabra como *tengo*.\n\nPara hablar de experiencia en un área, usa el chunk: `I have experience in + área`.\n\n**Recuerda:** Con **he / she / it**, la forma es **has**, no *have*. Este es el error más común para hispanohablantes.",
+      "description_md_target": "The verb **have** is used to talk about possessions, skills, and experience. In the present simple affirmative, the form changes with the subject:\n\n- **I / you / we / they** → **have**\n- **He / she / it** → **has**\n\nExamples:\n- `I have experience in sales.`\n- `She has good skills with people.`\n\n**Important:** In English, **have** already includes the idea of possession. You don't need to add another word like *tengo*.\n\nTo talk about experience in an area, use the chunk: `I have experience in + area`.\n\n**Remember:** With **he / she / it**, the form is **has**, not *have*. This is the most common mistake for Spanish speakers.",
+      "grammar_structure": "Subject + have/has + (experience in + noun) / (noun)",
+      "conjugation_table": {
+        "name": "present_simple_have",
+        "headers": [
+          "Pronombre",
+          "Forma",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "have",
+            "I have skills."
+          ],
+          [
+            "You",
+            "have",
+            "You have experience."
+          ],
+          [
+            "He / She / It",
+            "has",
+            "She has qualifications."
+          ],
+          [
+            "We",
+            "have",
+            "We have a team."
+          ],
+          [
+            "They",
+            "have",
+            "They have success."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_a2_i_have_experience_in",
+          "grammar_slug": null,
+          "text_target": "I have experience in sales, and I have good skills with people.",
+          "translation_form": "Tengo experiencia en ventas y tengo buenas habilidades con la gente.",
+          "highlight_words": [
+            "have",
+            "experience",
+            "skills"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "expert",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "She is an expert in business, and her team has great success.",
+          "translation_form": "Ella es una experta en negocios y su equipo tiene un gran éxito.",
+          "highlight_words": [
+            "expert",
+            "has",
+            "success"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas:** *She have experience.* → **Di:** *She has experience.* Con **he / she / it**, siempre usa **has**."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Usa `I have experience in + área` para hablar de tu trabajo. Es una frase muy común en entrevistas y CVs."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado:** No traduzcas literalmente *tengo* como *I have got* en contextos formales. En inglés profesional, `I have` es suficiente y más natural."
+        }
+      ],
+      "common_errors_es": [
+        "Usar *have* con he/she/it: *She have skills* → correcto: *She has skills*.",
+        "Olvidar la -s en *has*: *He have experience* → correcto: *He has experience*.",
+        "Agregar *got* innecesariamente: *I have got experience* → en contextos formales, mejor *I have experience*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'skills'?",
+      "options": [
+        "habilidades",
+        "títulos",
+        "experiencia",
+        "trabajo"
+      ],
+      "correct_answer": "habilidades",
+      "explanation_md": "'Skills' son las habilidades o destrezas que una persona tiene.",
+      "related_lexeme_ids": [
+        "skills"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'qualifications'?",
+      "options": [
+        "habilidades",
+        "títulos",
+        "experiencia",
+        "trabajo"
+      ],
+      "correct_answer": "títulos",
+      "explanation_md": "'Qualifications' son los títulos o certificados que muestran tu formación.",
+      "related_lexeme_ids": [
+        "qualifications"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "helpful",
+        "útil",
+        "creative",
+        "creativo",
+        "expert",
+        "experto"
+      ],
+      "correct_answer": [
+        "helpful=útil",
+        "creative=creativo",
+        "expert=experto"
+      ],
+      "explanation_md": "Estas palabras describen cualidades positivas de una persona.",
+      "related_lexeme_ids": [
+        "helpful_adj",
+        "creative_adj",
+        "expert"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración: 'She is an ____ in business.'",
+      "options": [
+        "expert",
+        "skills",
+        "success",
+        "practice"
+      ],
+      "correct_answer": "expert",
+      "explanation_md": "Usamos 'expert' para hablar de una persona con mucho conocimiento en un área.",
+      "related_lexeme_ids": [
+        "expert"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I ____ experience in sales.' (tengo)",
+      "options": null,
+      "correct_answer": "have",
+      "explanation_md": "Usamos 'have' con 'I' para decir 'yo tengo'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_a2_i_have_experience_in"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Tengo experiencia en ventas.'",
+      "options": null,
+      "correct_answer": "I have experience in sales.",
+      "explanation_md": "Usamos el chunk 'I have experience in' para hablar de nuestra experiencia laboral.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_a2_i_have_experience_in"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'My manager is helpful and creative.'",
+      "options": null,
+      "correct_answer": "Mi gerente es útil y creativo.",
+      "explanation_md": "Repasamos los adjetivos 'helpful' y 'creative' para describir a una persona.",
+      "related_lexeme_ids": [
+        "helpful_adj",
+        "creative_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la mejor respuesta? 'What do you do at work?'",
+      "options": [
+        "I practice my skills every day.",
+        "I have a coffee.",
+        "I like the weather.",
+        "I am tired."
+      ],
+      "correct_answer": "I practice my skills every day.",
+      "explanation_md": "La pregunta habla del trabajo, así que la respuesta sobre practicar habilidades es la más lógica.",
+      "related_lexeme_ids": [
+        "practice",
+        "skills"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'Her team has great ____.' (éxito)",
+      "options": null,
+      "correct_answer": "success",
+      "explanation_md": "'Success' significa éxito. Lo usamos para hablar de buenos resultados.",
+      "related_lexeme_ids": [
+        "success"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué hace Ana para mejorar sus habilidades?",
+      "options": null,
+      "correct_answer": "She practices her skills every day and writes down her progress.",
+      "explanation_md": "El texto dice que Ana practica sus habilidades todos los días y anota su progreso.",
+      "related_lexeme_ids": [
+        "practice",
+        "skills",
+        "success",
+        "expert"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana works at a company. She has good skills with people. Her manager is helpful and creative. Ana wants to be an expert in business. She practices her skills every day and writes down her progress. Her team has great success this year. Ana is happy with her job.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué dice la persona sobre su experiencia?",
+      "options": [
+        "Tiene experiencia en ventas.",
+        "No tiene experiencia.",
+        "Es gerente.",
+        "No le gusta su trabajo."
+      ],
+      "correct_answer": "Tiene experiencia en ventas.",
+      "explanation_md": "La persona dice 'I have experience in sales', que significa que tiene experiencia en ventas.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_a2_i_have_experience_in"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I have experience in sales. My qualifications are important for this job. I practice my skills every day. My manager says I am creative.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tus habilidades y experiencia laboral. Usa 'I have experience in' y palabras como 'skills', 'helpful' o 'creative'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto del chunk 'I have experience in' y el vocabulario de habilidades.",
+      "related_lexeme_ids": [
+        "skills",
+        "helpful_adj",
+        "creative_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_i_have_experience_in"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I have experience in sales. I have good skills with people. I am helpful and creative."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "skills",
+      "back": "habilidades / destrezas",
+      "hint": "lo que sabes hacer bien",
+      "lexeme_id": "skills",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "qualifications",
+      "back": "títulos / cualificaciones",
+      "hint": "documentos que muestran tu formación",
+      "lexeme_id": "qualifications",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "helpful",
+      "back": "útil",
+      "hint": "que ayuda",
+      "lexeme_id": "helpful_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "creative",
+      "back": "creativo",
+      "hint": "con muchas ideas nuevas",
+      "lexeme_id": "creative_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "practice",
+      "back": "práctica / practicar",
+      "hint": "hacer algo muchas veces para mejorar",
+      "lexeme_id": "practice",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "expert",
+      "back": "experto",
+      "hint": "persona que sabe mucho de un tema",
+      "lexeme_id": "expert",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "ability"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "success",
+      "back": "éxito",
+      "hint": "cuando logras lo que quieres",
+      "lexeme_id": "success",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "ability"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "I have experience in ...",
+      "back": "Tengo experiencia en ...",
+      "hint": "para hablar de tu experiencia laboral",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_have_experience_in",
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "experience",
+      "back": "experiencia",
+      "hint": "lo que has vivido o hecho",
+      "lexeme_id": "experience",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "organize",
+      "back": "organizar",
+      "hint": "poner en orden",
+      "lexeme_id": "organize_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_052",
+        "A2",
+        "work"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "skills",
+      "reading": "",
+      "translation": "habilidades / destrezas",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "skills",
+      "chunk_id": null
+    },
+    {
+      "target_word": "qualifications",
+      "reading": "",
+      "translation": "títulos / cualificaciones",
+      "pos": "noun",
+      "example": "My qualifications are important for this job at the company.",
+      "example_translation": "Mis títulos son importantes para este trabajo en la empresa.",
+      "lexeme_id": "qualifications",
+      "chunk_id": null
+    },
+    {
+      "target_word": "helpful",
+      "reading": "",
+      "translation": "útil",
+      "pos": "adjective",
+      "example": "My manager is helpful, and she is very creative with new ideas.",
+      "example_translation": "Mi gerente es útil y es muy creativa con ideas nuevas.",
+      "lexeme_id": "helpful_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "creative",
+      "reading": "",
+      "translation": "creativo",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "creative_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "practice",
+      "reading": "",
+      "translation": "práctica / practicar",
+      "pos": "noun",
+      "example": "I practice my skills every day, and I write down my progress.",
+      "example_translation": "Practico mis habilidades todos los días y anoto mi progreso.",
+      "lexeme_id": "practice",
+      "chunk_id": null
+    },
+    {
+      "target_word": "expert",
+      "reading": "",
+      "translation": "experto",
+      "pos": "noun",
+      "example": "She is an expert in business, and her team has great success.",
+      "example_translation": "Ella es una experta en negocios y su equipo tiene un gran éxito.",
+      "lexeme_id": "expert",
+      "chunk_id": null
+    },
+    {
+      "target_word": "success",
+      "reading": "",
+      "translation": "éxito",
+      "pos": "noun",
+      "example": "I have experience in organizing events, and that is my success.",
+      "example_translation": "Tengo experiencia en organizar eventos y ese es mi éxito.",
+      "lexeme_id": "success",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I have experience in ...",
+      "reading": "",
+      "translation": "Tengo experiencia en ...",
+      "pos": "chunk",
+      "example": "I have experience in sales, and I have good skills with people.",
+      "example_translation": "Tengo experiencia en ventas y tengo buenas habilidades con la gente.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_have_experience_in"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "skills",
+      "role": "support",
+      "status": "practiced",
+      "translation": "habilidades / destrezas",
+      "lexeme_id": "skills",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "qualifications",
+      "role": "support",
+      "status": "practiced",
+      "translation": "títulos / cualificaciones",
+      "lexeme_id": "qualifications",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "helpful",
+      "role": "support",
+      "status": "practiced",
+      "translation": "útil",
+      "lexeme_id": "helpful_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_007",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "creative",
+      "role": "support",
+      "status": "practiced",
+      "translation": "creativo",
+      "lexeme_id": "creative_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_007",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "practice",
+      "role": "support",
+      "status": "practiced",
+      "translation": "práctica / practicar",
+      "lexeme_id": "practice",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_010",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "expert",
+      "role": "support",
+      "status": "practiced",
+      "translation": "experto",
+      "lexeme_id": "expert",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_004",
+        "ex_010",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "success",
+      "role": "support",
+      "status": "practiced",
+      "translation": "éxito",
+      "lexeme_id": "success",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "ex_010",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "I have experience in ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Tengo experiencia en ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_i_have_experience_in",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_005",
+        "ex_006",
+        "ex_011",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "experience",
+      "role": "support",
+      "status": "review",
+      "translation": "experiencia",
+      "lexeme_id": "experience",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "organize",
+      "role": "support",
+      "status": "review",
+      "translation": "organizar",
+      "lexeme_id": "organize_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "skill",
+      "role": "support",
+      "status": "emergent",
+      "translation": "habilidad",
+      "lexeme_id": "skill",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "sale",
+      "role": "support",
+      "status": "emergent",
+      "translation": "venta",
+      "lexeme_id": "sale",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "job",
+      "role": "support",
+      "status": "emergent",
+      "translation": "trabajo / empleo",
+      "lexeme_id": "job",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "business",
+      "role": "support",
+      "status": "emergent",
+      "translation": "negocio / empresa",
+      "lexeme_id": "business",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "great",
+      "role": "support",
+      "status": "emergent",
+      "translation": "genial / estupendo",
+      "lexeme_id": "great_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "write",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escribir",
+      "lexeme_id": "write_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "company",
+      "role": "support",
+      "status": "emergent",
+      "translation": "empresa / compañía",
+      "lexeme_id": "company",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "important",
+      "role": "support",
+      "status": "emergent",
+      "translation": "importante",
+      "lexeme_id": "important_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "progress",
+      "role": "support",
+      "status": "emergent",
+      "translation": "progreso",
+      "lexeme_id": "progress",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "write down",
+      "role": "support",
+      "status": "emergent",
+      "translation": "anotar / escribir",
+      "lexeme_id": "write_down_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "idea",
+      "role": "support",
+      "status": "emergent",
+      "translation": "idea",
+      "lexeme_id": "idea",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "event",
+      "role": "support",
+      "status": "emergent",
+      "translation": "evento",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "field",
+      "role": "support",
+      "status": "emergent",
+      "translation": "campo",
+      "lexeme_id": "field",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "present",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actual",
+      "lexeme_id": "present_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "affirmative",
+      "role": "support",
+      "status": "emergent",
+      "translation": "afirmativo",
+      "lexeme_id": "affirmative_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 8,
+    "review_support_count": 2,
+    "emergent_count": 23,
+    "emergent_terms": [
+      "skill",
+      "sale",
+      "good",
+      "day",
+      "job",
+      "manager",
+      "business",
+      "team",
+      "great",
+      "write",
+      "company",
+      "important",
+      "progress",
+      "write down",
+      "idea",
+      "event",
+      "want",
+      "say",
+      "work",
+      "year",
+      "field",
+      "present",
+      "affirmative"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describing your skills and qualifications",
+      "title_target": "Quiz: Describing your skills and qualifications",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": null,
+          "options": [
+            "skill",
+            "habilidad",
+            "qualifications",
+            "cualificaciones",
+            "helpful",
+            "útil",
+            "creative",
+            "creativo"
+          ],
+          "correct_answer": [
+            "skill=habilidad",
+            "qualifications=cualificaciones",
+            "helpful=útil",
+            "creative=creativo"
+          ],
+          "explanation_form": "Estas son las palabras clave para describir tus habilidades y cualificaciones.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "skills",
+            "qualifications",
+            "helpful_adj",
+            "creative_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'I ____ experience in sales.' (Tengo experiencia en ventas.)",
+          "prompt_target": "Complete the sentence: 'I ____ experience in sales.'",
+          "options": null,
+          "correct_answer": "have",
+          "explanation_form": "Usamos 'have' para decir que tenemos algo, como experiencia.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "present simple: affirmative with have",
+            "chunk_a2_i_have_experience_in"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de 'practice' en pasado?",
+          "prompt_target": "What is the past form of 'practice'?",
+          "options": [
+            "practiced",
+            "practicing",
+            "practices",
+            "practice"
+          ],
+          "correct_answer": "practiced",
+          "explanation_form": "El pasado de 'practice' es 'practiced'. Se usa para hablar de práctica en el pasado.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "practice"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué dice Ana sobre su experiencia?",
+          "prompt_target": "Read the text and answer: What does Ana say about her experience?",
+          "options": [
+            "She has five years of experience.",
+            "She has no experience.",
+            "She is a teacher.",
+            "She wants to leave her job."
+          ],
+          "correct_answer": "She has five years of experience.",
+          "explanation_form": "El texto dice que Ana tiene cinco años de experiencia en diseño.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "experience",
+            "expert",
+            "creative_adj",
+            "helpful_adj",
+            "skills"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Ana is a designer. She has five years of experience in design. She is very creative and helpful. Her team loves her work. She wants to be an expert in her field. She practices every day to improve her skills.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué dice el hablante sobre sus cualificaciones?",
+          "prompt_target": "Listen and answer: What does the speaker say about their qualifications?",
+          "options": [
+            "He has a degree in business.",
+            "He has a degree in art.",
+            "He has no experience.",
+            "He wants to travel."
+          ],
+          "correct_answer": "He has a degree in business.",
+          "explanation_form": "El hablante dice que tiene un título en negocios.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "qualifications",
+            "chunk_a2_i_have_experience_in",
+            "job"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I have a degree in business. I also have experience in sales. I am good with people. I want to find a new job.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "have",
+            "experience",
+            "in",
+            "marketing."
+          ],
+          "correct_answer": "I have experience in marketing.",
+          "explanation_form": "La estructura correcta es: Sujeto + have + experiencia + in + área.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_i_have_experience_in",
+            "present simple: affirmative with have"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'success'?",
+          "prompt_target": "What is the meaning of 'success'?",
+          "options": [
+            "éxito",
+            "fracaso",
+            "trabajo",
+            "suerte"
+          ],
+          "correct_answer": "éxito",
+          "explanation_form": "'Success' significa 'éxito' en español.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "success"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'She is an ____ in her field.' (Ella es una experta en su campo.)",
+          "prompt_target": "Complete the sentence: 'She is an ____ in her field.'",
+          "options": null,
+          "correct_answer": "expert",
+          "explanation_form": "Usamos 'expert' para referirnos a una persona con mucho conocimiento en un área.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "expert"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Tu perfil profesional en ingles\n\nPara hablar de tus **skills** y **qualifications**, usa el verbo **have** en presente: *I have good skills with computers* o *I have experience in sales*. Recuerda que en afirmativo no necesitas auxiliar: solo *I have*, *She has*.\n\n> **Ojo hispanohablante:** no digas *I have 5 years of experience* si aun estas estudiando. Usa *I have experience in...* para hablar de practica real, y *I am a creative person* para describir tu personalidad.\n\n## Errores comunes y trucos\n\n- **No confundas** *practice* (practica, sustantivo) con *practise* (practicar, verbo). En esta leccion solo usamos el sustantivo: *I need more practice*.\n- **Expert** se usa como adjetivo y sustantivo: *She is an expert* o *He is expert at organizing*.\n- Para sonar natural, combina **have** con el chunk *I have experience in* + area: *I have experience in business*.\n- **Success** es un sustantivo incontable: *Success comes with practice*, no *a success*.\n\n**Tip mnemotecnico:** *skills* suena como \"esquilas\" (habilidad para esquilar ovejas). Si tienes *skills*, eres util y **helpful** en cualquier **team**.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:59:11Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

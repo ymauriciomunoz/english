@@ -1,0 +1,1842 @@
+{
+  "id": "lesson_028",
+  "position": 28,
+  "unit_id": 9,
+  "course_id": "en.B2",
+  "title_form": "Debating climate change: causes and consequences",
+  "title_target": "Debating climate change: causes and consequences",
+  "theme_focus": "environment",
+  "learning_objectives": [
+    "Can analyze the causes and current consequences of climate change.",
+    "Can use mixed conditionals to link past actions to present results."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_004",
+    "lesson_005",
+    "lesson_018",
+    "lesson_027"
+  ],
+  "grammar_focus": [
+    "mixed conditionals: past condition, present result"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "carbon"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "energy",
+        "flood",
+        "reduce_verb",
+        "consume_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "climate_change",
+        "role": "topic",
+        "rationale": "Core topic noun for the discussion."
+      },
+      {
+        "term": "carbon",
+        "role": "topic",
+        "rationale": "Key noun for discussing emissions and causes."
+      },
+      {
+        "term": "energy",
+        "role": "topic",
+        "rationale": "Noun for discussing past energy choices that contributed to climate change."
+      },
+      {
+        "term": "pollution",
+        "role": "topic",
+        "rationale": "Central concept for environmental consequences."
+      },
+      {
+        "term": "species",
+        "role": "topic",
+        "rationale": "Noun for discussing impact on biodiversity."
+      },
+      {
+        "term": "habitat",
+        "role": "topic",
+        "rationale": "Noun for discussing the places affected by climate change."
+      },
+      {
+        "term": "flood",
+        "role": "topic",
+        "rationale": "Concrete present consequence used in the cause-and-effect analysis."
+      },
+      {
+        "term": "argue",
+        "role": "functional",
+        "rationale": "Verb to present a point of view in the debate."
+      },
+      {
+        "term": "reduce",
+        "role": "functional",
+        "rationale": "Verb for describing a past action whose absence or presence affects current results."
+      },
+      {
+        "term": "consume",
+        "role": "functional",
+        "rationale": "Verb for discussing past energy use as a cause in a mixed conditional."
+      },
+      {
+        "term": "consequence",
+        "role": "functional",
+        "rationale": "Noun to structure the cause-effect analysis."
+      },
+      {
+        "term": "would",
+        "role": "grammar_support",
+        "rationale": "Modal verb essential for the mixed conditional structure."
+      },
+      {
+        "term": "had",
+        "role": "grammar_support",
+        "rationale": "Auxiliary verb for the past perfect part of the mixed conditional."
+      }
+    ]
+  },
+  "scenario": "Un grupo de estudiantes universitarios participa en un debate académico sobre el cambio climático. Cada uno presenta argumentos sobre las causas históricas (como el consumo de energía y las emisiones de carbono) y las consecuencias actuales (como inundaciones y pérdida de hábitats). A lo largo de la lección, los estudiantes analizan datos, escuchan opiniones y practican cómo expresar sus propias ideas usando condicionales mixtos.",
+  "introduction_md": "## Debatiendo el cambio climático: causas y consecuencias\n\nEn esta lección vas a participar en un debate sobre el cambio climático. Vas a analizar sus causas y sus consecuencias actuales, y vas a aprender a usar los **condicionales mixtos** para conectar acciones del pasado con resultados del presente.\n\n### ¿Qué vas a lograr?\n\n- **Analizar** las causas del cambio climático y sus efectos actuales.\n- **Usar** condicionales mixtos (condición pasada + resultado presente) para expresar ideas como: *\"If we had reduced carbon emissions, the planet would be healthier now.\"*\n- **Argumentar** tu punto de vista en un debate, usando vocabulario clave como *carbon*, *energy*, *pollution*, *flood* y *consequence*.\n\n### ¿Por qué es importante?\n\nEl cambio climático es uno de los temas más relevantes de nuestro tiempo. Poder debatirlo en inglés te permitirá participar en conversaciones globales, entender noticias y expresar tus opiniones con claridad.\n\n¡Vamos a empezar! Primero, piensa en una consecuencia del cambio climático que hayas visto o escuchado. ¿Qué la causó?",
+  "intro_target": "## Debating climate change: causes and consequences\n\nIn this lesson, you will take part in a debate about climate change. You will analyze its causes and its current consequences, and you will learn to use **mixed conditionals** to connect past actions with present results.\n\n### What will you achieve?\n\n- **Analyze** the causes of climate change and its current effects.\n- **Use** mixed conditionals (past condition + present result) to express ideas like: *\"If we had reduced carbon emissions, the planet would be healthier now.\"*\n- **Argue** your point of view in a debate, using key vocabulary such as *carbon*, *energy*, *pollution*, *flood*, and *consequence*.\n\n### Why is it important?\n\nClimate change is one of the most relevant topics of our time. Being able to debate it in English will allow you to participate in global conversations, understand the news, and express your opinions clearly.\n\nLet's get started! First, think of a consequence of climate change that you have seen or heard about. What caused it?",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "carbon",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If we had reduced our carbon emissions twenty years ago, the planet would not be so hot today.",
+      "translation_form": "Si hubiéramos reducido nuestras emisiones de carbono hace veinte años, el planeta no estaría tan caliente hoy.",
+      "highlight_words": [
+        "carbon",
+        "reduced"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "energy",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If the government had invested in clean energy earlier, we would not depend on coal now.",
+      "translation_form": "Si el gobierno hubiera invertido en energía limpia antes, no dependeríamos del carbón ahora.",
+      "highlight_words": [
+        "energy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "flood",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If we had consumed less energy in the past, the floods would not be so frequent in this region.",
+      "translation_form": "Si hubiéramos consumido menos energía en el pasado, las inundaciones no serían tan frecuentes en esta región.",
+      "highlight_words": [
+        "flood",
+        "consumed",
+        "energy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If the factory had reduced its pollution, the air would be cleaner and the species would be safer.",
+      "translation_form": "Si la fábrica hubiera reducido su contaminación, el aire sería más limpio y las especies estarían más seguras.",
+      "highlight_words": [
+        "reduced",
+        "pollution",
+        "species"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "consume_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If we had consumed less meat, the habitat of many animals would not be in danger now.",
+      "translation_form": "Si hubiéramos consumido menos carne, el hábitat de muchos animales no estaría en peligro ahora.",
+      "highlight_words": [
+        "consumed",
+        "habitat"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If the company had not argued about the cost, they would have a better plan to reduce emissions today.",
+      "translation_form": "Si la empresa no hubiera discutido sobre el costo, hoy tendrían un mejor plan para reducir las emisiones.",
+      "highlight_words": [
+        "argued",
+        "reduce"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "mixed conditionals: past condition, present result",
+      "title_form": "Condicionales mixtos: condición pasada, resultado presente",
+      "title_target": "Mixed conditionals: past condition, present result",
+      "description_md_form": "Los **condicionales mixtos** conectan una acción pasada con un resultado presente. Usamos esta estructura para hablar de cómo una decisión (o falta de decisión) en el pasado afecta la situación actual.\n\n**Estructura:**\n\n`If + past perfect (had + participio) + would + verbo base`\n\n**Ejemplo:**\n\n- *If we had reduced our carbon emissions, the planet would not be so hot today.*\n\n**¿Cuándo usarlo?**\n\n- Para analizar **causas** de problemas actuales (como el cambio climático).\n- Para expresar **arrepentimiento** o **crítica** sobre acciones pasadas.\n- Para conectar **decisiones históricas** con **consecuencias presentes**.\n\n**Partes de la oración:**\n\n| Parte | Función | Ejemplo |\n|-------|---------|---------|\n| `If + had + participio` | Condición pasada (no real) | *If we had consumed less energy* |\n| `would + verbo base` | Resultado presente (imaginario) | *the floods would not be so frequent* |\n\n**Nota:** La condición es **imposible** porque el pasado no se puede cambiar. El resultado es **hipotético** en el presente.",
+      "description_md_target": "**Mixed conditionals** connect a past action with a present result. We use this structure to talk about how a decision (or lack of decision) in the past affects the current situation.\n\n**Structure:**\n\n`If + past perfect (had + participle) + would + base verb`\n\n**Example:**\n\n- *If we had reduced our carbon emissions, the planet would not be so hot today.*\n\n**When to use it:**\n\n- To analyze **causes** of current problems (like climate change).\n- To express **regret** or **criticism** about past actions.\n- To connect **historical decisions** with **present consequences**.\n\n**Parts of the sentence:**\n\n| Part | Function | Example |\n|-------|---------|---------|\n| `If + had + participle` | Past condition (not real) | *If we had consumed less energy* |\n| `would + base verb` | Present result (imaginary) | *the floods would not be so frequent* |\n\n**Note:** The condition is **impossible** because the past cannot be changed. The result is **hypothetical** in the present.",
+      "grammar_structure": "If + subject + had + past participle, subject + would + base verb",
+      "conjugation_table": {
+        "name": "mixed_conditional_structure",
+        "headers": [
+          "Parte",
+          "Estructura",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Condición (pasado)",
+            "If + had + participio",
+            "If we had reduced"
+          ],
+          [
+            "Resultado (presente)",
+            "would + verbo base",
+            "the planet would not be so hot"
+          ],
+          [
+            "Resultado negativo",
+            "would not + verbo base",
+            "the species would not be in danger"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "mixed conditionals: past condition, present result",
+          "text_target": "If we had reduced our carbon emissions, the planet would not be so hot today.",
+          "translation_form": "Si hubiéramos reducido nuestras emisiones de carbono, el planeta no estaría tan caliente hoy.",
+          "highlight_words": [
+            "had",
+            "reduced",
+            "would"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "mixed conditionals: past condition, present result",
+          "text_target": "If the government had invested in clean energy earlier, we would not depend on coal now.",
+          "translation_form": "Si el gobierno hubiera invertido en energía limpia antes, no dependeríamos del carbón ahora.",
+          "highlight_words": [
+            "had",
+            "invested",
+            "would"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Piensa en causa y efecto:** la primera parte (If + had) es la **causa pasada**; la segunda parte (would) es el **efecto presente**. Si la causa no ocurrió, el efecto es imaginario."
+        },
+        {
+          "type": "warning",
+          "text_md": "**No uses 'would' en la parte del 'If'.** Decimos *If we had reduced*, NO *If we would have reduced*. Esta es una confusión muy común."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No confundas con el tercer condicional.** El tercer condicional usa *would have + participio* para resultados pasados. El mixto usa *would + verbo base* para resultados presentes."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'would' en la cláusula con 'If': *If we would have reduced* → correcto: *If we had reduced*.",
+        "Confundir con el tercer condicional: *we would have been* (pasado) vs. *we would be* (presente).",
+        "Olvidar el participio pasado después de 'had': *If we had reduce* → correcto: *If we had reduced*.",
+        "Usar el presente en la condición: *If we reduce* → correcto: *If we had reduced*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'carbon'?",
+      "options": [
+        "carbono",
+        "energía",
+        "contaminación",
+        "inundación"
+      ],
+      "correct_answer": "carbono",
+      "explanation_md": "'Carbon' se refiere al elemento químico, clave en el debate sobre emisiones y cambio climático.",
+      "related_lexeme_ids": [
+        "carbon"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "carbon",
+        "carbono",
+        "flood",
+        "inundación",
+        "energy",
+        "energía",
+        "reduce",
+        "reducir"
+      ],
+      "correct_answer": [
+        "carbon=carbono",
+        "flood=inundación",
+        "energy=energía",
+        "reduce=reducir"
+      ],
+      "explanation_md": "Estas palabras son esenciales para hablar de las causas y consecuencias del cambio climático.",
+      "related_lexeme_ids": [
+        "carbon",
+        "flood",
+        "energy",
+        "reduce_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración con la forma correcta del condicional mixto: 'If we ___ less energy in the past, the planet would be cooler now.'",
+      "options": [
+        "had consumed",
+        "consumed",
+        "would consume",
+        "have consumed"
+      ],
+      "correct_answer": "had consumed",
+      "explanation_md": "En el condicional mixto, la condición pasada usa 'had + participio pasado' (had consumed).",
+      "related_lexeme_ids": [
+        "consume_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración con la palabra correcta: 'If the factory had reduced its ___, the air would be cleaner now.'",
+      "options": null,
+      "correct_answer": "pollution",
+      "explanation_md": "'Pollution' (contaminación) es la consecuencia directa de las emisiones de la fábrica.",
+      "related_lexeme_ids": [
+        "carbon"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Si hubiéramos reducido nuestras emisiones de carbono, el planeta no estaría tan caliente hoy.'",
+      "options": null,
+      "correct_answer": "If we had reduced our carbon emissions, the planet would not be so hot today.",
+      "explanation_md": "Usa 'had reduced' para la condición pasada y 'would not be' para el resultado presente.",
+      "related_lexeme_ids": [
+        "carbon",
+        "reduce_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'If we had consumed less meat, the habitat of many animals would not be in danger now.'",
+      "options": null,
+      "correct_answer": "Si hubiéramos consumido menos carne, el hábitat de muchos animales no estaría en peligro ahora.",
+      "explanation_md": "La condición pasada 'had consumed' se traduce como 'hubiéramos consumido' y el resultado presente como 'no estaría'.",
+      "related_lexeme_ids": [
+        "consume_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuál es la consecuencia actual de no haber reducido las emisiones?",
+      "options": null,
+      "correct_answer": "The planet is hotter now and there are more floods.",
+      "explanation_md": "El texto menciona que el planeta está más caliente y que las inundaciones son más frecuentes como consecuencias actuales.",
+      "related_lexeme_ids": [
+        "carbon",
+        "flood",
+        "energy",
+        "consume_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Climate change is a serious problem today. Scientists say that if we had reduced our carbon emissions twenty years ago, the planet would not be so hot now. Many factories still use coal and produce a lot of pollution. Because of this, the ice in the mountains is melting and the sea is rising. In some regions, floods are more frequent than before. Also, many species are losing their habitat because the temperature is changing. If we had consumed less energy in the past, the situation would be better today. Now, governments are trying to find solutions, but the consequences of our past actions are already visible.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué habría pasado si la fábrica hubiera reducido su contaminación?",
+      "options": null,
+      "correct_answer": "The air would be cleaner and the species would be safer.",
+      "explanation_md": "El texto dice que si la fábrica hubiera reducido su contaminación, el aire sería más limpio y las especies estarían más seguras.",
+      "related_lexeme_ids": [
+        "carbon",
+        "reduce_verb",
+        "energy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "A local factory has been producing pollution for many years. The air in the town is not clean, and some people have health problems. If the factory had reduced its pollution, the air would be cleaner and the species in the nearby forest would be safer. The factory also consumes a lot of energy from coal. If it had used clean energy, the habitat of many animals would not be in danger now. The manager argues that change is expensive, but the community believes that the cost of pollution is higher. They want the factory to find a better solution for the future.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué el autor cree que deberíamos haber consumido menos energía?",
+      "options": null,
+      "correct_answer": "Because if we had consumed less energy, the floods would not be so frequent.",
+      "explanation_md": "El autor conecta directamente el consumo de energía pasado con la frecuencia actual de las inundaciones.",
+      "related_lexeme_ids": [
+        "consume_verb",
+        "energy",
+        "flood"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "In my opinion, we are responsible for the current state of the planet. If we had consumed less energy in the past, the floods would not be so frequent in this region. Our dependence on coal and oil has created a lot of pollution. Now, we see the consequences: the climate is changing, and many species are losing their habitat. Some people argue that it is not our fault, but I disagree. We all use energy every day. If we had made better choices, the situation would be different today. We need to act now to protect the environment for future generations.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué habría pasado si hubiéramos invertido en energía limpia?",
+      "options": [
+        "We would not depend on coal now.",
+        "We would have more floods.",
+        "The species would be in danger.",
+        "The air would be more polluted."
+      ],
+      "correct_answer": "We would not depend on coal now.",
+      "explanation_md": "El audio dice que si el gobierno hubiera invertido en energía limpia, no dependeríamos del carbón ahora.",
+      "related_lexeme_ids": [
+        "energy",
+        "carbon"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "If the government had invested in clean energy earlier, we would not depend on coal now. Many people argue that this change is necessary. The pollution from coal is very bad for our health and for the planet. We need to think about the future.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cuál es la consecuencia de no haber reducido las emisiones?",
+      "options": [
+        "The planet is cooler.",
+        "There are more floods.",
+        "The species are safer.",
+        "The air is cleaner."
+      ],
+      "correct_answer": "There are more floods.",
+      "explanation_md": "El audio menciona que ahora vemos más inundaciones como consecuencia de no haber reducido las emisiones.",
+      "related_lexeme_ids": [
+        "carbon",
+        "reduce_verb",
+        "flood"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "If we had reduced our carbon emissions twenty years ago, the planet would not be so hot today. Now we see more floods and the habitat of many species is in danger. We need to find a solution to reduce pollution and protect our environment.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué habría pasado si hubiéramos consumido menos carne?",
+      "options": [
+        "The habitat would be in danger.",
+        "The pollution would be higher.",
+        "The habitat would not be in danger.",
+        "The energy would be more expensive."
+      ],
+      "correct_answer": "The habitat would not be in danger.",
+      "explanation_md": "El audio dice que si hubiéramos consumido menos carne, el hábitat de muchos animales no estaría en peligro ahora.",
+      "related_lexeme_ids": [
+        "consume_verb",
+        "energy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "If we had consumed less meat, the habitat of many animals would not be in danger now. The production of meat consumes a lot of energy and creates pollution. Scientists argue that we need to change our habits to protect the planet.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones usando el condicional mixto para explicar cómo una acción pasada (o la falta de ella) afecta el presente. Usá palabras como 'carbon', 'energy', 'flood' o 'habitat'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto del condicional mixto (had + participio para la condición pasada y would + verbo para el resultado presente).",
+      "related_lexeme_ids": [
+        "carbon",
+        "energy",
+        "flood",
+        "consume_verb",
+        "reduce_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "If we had reduced our carbon emissions, the floods would not be so frequent now.",
+        "If the factory had used clean energy, the habitat of many species would be safer today.",
+        "If we had consumed less energy, the planet would not be so hot now."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "carbon",
+      "back": "carbono",
+      "hint": "elemento químico, clave en el cambio climático",
+      "lexeme_id": "carbon",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_028",
+        "B2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "climate change",
+      "back": "cambio climático",
+      "hint": "tema central de la lección",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "climate_change",
+      "tags": [
+        "lesson_028",
+        "B2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "energy",
+      "back": "energía",
+      "hint": "recurso que consumimos",
+      "lexeme_id": "energy",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_028",
+        "B2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "pollution",
+      "back": "contaminación",
+      "hint": "consecuencia ambiental",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "pollution",
+      "tags": [
+        "lesson_028",
+        "B2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "species",
+      "back": "especies",
+      "hint": "animales o plantas en peligro",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "species",
+      "tags": [
+        "lesson_028",
+        "B2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "habitat",
+      "back": "hábitat",
+      "hint": "lugar donde viven los seres vivos",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "habitat",
+      "tags": [
+        "lesson_028",
+        "B2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "flood",
+      "back": "inundación",
+      "hint": "consecuencia concreta del cambio climático",
+      "lexeme_id": "flood",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_028",
+        "B2",
+        "environment"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "argue",
+      "back": "argumentar, discutir",
+      "hint": "presentar un punto de vista",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "argue",
+      "tags": [
+        "lesson_028",
+        "B2",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "reduce",
+      "back": "reducir",
+      "hint": "disminuir algo",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_028",
+        "B2",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "consume",
+      "back": "consumir",
+      "hint": "usar o gastar recursos",
+      "lexeme_id": "consume_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_028",
+        "B2",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "consequence",
+      "back": "consecuencia",
+      "hint": "resultado de una acción",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "consequence",
+      "tags": [
+        "lesson_028",
+        "B2",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "would",
+      "back": "condicional (sería, estaría)",
+      "hint": "verbo modal para condicionales",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "would",
+      "tags": [
+        "lesson_028",
+        "B2",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "had",
+      "back": "había / hubiera (pasado perfecto)",
+      "hint": "auxiliar para el pasado perfecto",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "had",
+      "tags": [
+        "lesson_028",
+        "B2",
+        "grammar_support"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "carbon",
+      "reading": "",
+      "translation": "carbono",
+      "pos": "noun",
+      "example": "If we had reduced our carbon emissions twenty years ago, the planet would not be so hot today.",
+      "example_translation": "Si hubiéramos reducido nuestras emisiones de carbono hace veinte años, el planeta no estaría tan caliente hoy.",
+      "lexeme_id": "carbon",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "climate_change",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_002"
+      ]
+    },
+    {
+      "term": "carbon",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "carbono",
+      "lexeme_id": "carbon",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "mixed conditionals: past condition, present result",
+        "ex_001",
+        "ex_002",
+        "ex_004",
+        "ex_005",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_007",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "energy",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "energía",
+      "lexeme_id": "energy",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_003",
+        "mixed conditionals: past condition, present result",
+        "ex_002",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "pollution",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "contaminacion",
+      "lexeme_id": "pollution",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_004",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "species",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "especie",
+      "lexeme_id": "species",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_004",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_013",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "habitat",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "hábitat",
+      "lexeme_id": "habitat",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_005",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "flood",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "inundación",
+      "lexeme_id": "flood",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "ex_002",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "ex_013",
+        "fc_007",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "argue",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "reñir / argúir / apuntar",
+      "lexeme_id": "argue",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "reduce",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "reducir",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_004",
+        "exm_006",
+        "ex_002",
+        "ex_005",
+        "ex_008",
+        "ex_011",
+        "ex_013",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "consume",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "comer / tomar / agotar",
+      "lexeme_id": "consume_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_006",
+        "ex_007",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "fc_010",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "consequence",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "consecuencia",
+      "lexeme_id": "consequence",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "fc_011",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "would",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "auxiliar de cortesía ('d)",
+      "lexeme_id": "would_modal",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_002",
+        "exm_003",
+        "exm_004",
+        "exm_005",
+        "exm_006",
+        "mixed conditionals: past condition, present result",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "had",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_002",
+        "exm_003",
+        "exm_004",
+        "exm_005",
+        "exm_006",
+        "mixed conditionals: past condition, present result",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_005",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_006",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "planet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planeta",
+      "lexeme_id": "planet",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "better",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mejor",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "air",
+      "role": "support",
+      "status": "emergent",
+      "translation": "aire",
+      "lexeme_id": "air",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "company",
+      "role": "support",
+      "status": "emergent",
+      "translation": "empresa / compañía",
+      "lexeme_id": "company",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "cleaner",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lavandero / limpiador / tintorero",
+      "lexeme_id": "cleaner",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "coal",
+      "role": "support",
+      "status": "emergent",
+      "translation": "carbón",
+      "lexeme_id": "coal",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "hot",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caliente",
+      "lexeme_id": "hot_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_011",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "clean",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "ex_010",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "danger",
+      "role": "support",
+      "status": "emergent",
+      "translation": "peligro",
+      "lexeme_id": "danger",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "depend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "depender",
+      "lexeme_id": "depend_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "earlier",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más temprano",
+      "lexeme_id": "earlier",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "frequent",
+      "role": "support",
+      "status": "emergent",
+      "translation": "frecuente",
+      "lexeme_id": "frequent",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_009",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "factory",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fábrica",
+      "lexeme_id": "factory",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_007",
+        "ex_008",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "ago",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hace (tiempo)",
+      "lexeme_id": "ago_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "safer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caja fuerte",
+      "lexeme_id": "safer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "region",
+      "role": "support",
+      "status": "emergent",
+      "translation": "región",
+      "lexeme_id": "region",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "twenty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_007",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "animal",
+      "role": "support",
+      "status": "emergent",
+      "translation": "animal",
+      "lexeme_id": "animal",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "cost",
+      "role": "support",
+      "status": "emergent",
+      "translation": "costar",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "meat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "carne",
+      "lexeme_id": "meat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "climate change",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cambio climático",
+      "lexeme_id": "climate_change",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "depend on",
+      "role": "support",
+      "status": "emergent",
+      "translation": "depender de",
+      "lexeme_id": "depend_on_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "plan",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planear",
+      "lexeme_id": "plan_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "condition",
+      "role": "support",
+      "status": "emergent",
+      "translation": "condición",
+      "lexeme_id": "condition",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "present",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actual",
+      "lexeme_id": "present_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "result",
+      "role": "support",
+      "status": "emergent",
+      "translation": "resultar",
+      "lexeme_id": "result_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "mix",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fundir / mezclar / combinar",
+      "lexeme_id": "mix_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "future",
+      "role": "support",
+      "status": "emergent",
+      "translation": "futuro",
+      "lexeme_id": "future_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 13,
+    "lexical_target_count": 11,
+    "covered_lexical_target_count": 11,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 0,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "now",
+      "today",
+      "planet",
+      "better",
+      "air",
+      "year",
+      "company",
+      "cleaner",
+      "coal",
+      "hot",
+      "clean",
+      "danger",
+      "depend",
+      "earlier",
+      "frequent",
+      "factory",
+      "ago",
+      "safer",
+      "region",
+      "twenty",
+      "animal",
+      "cost",
+      "meat",
+      "climate change",
+      "depend on",
+      "plan",
+      "condition",
+      "present",
+      "result",
+      "mix",
+      "need",
+      "future"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Debating climate change: causes and consequences",
+      "title_target": "Quiz: Debating climate change: causes and consequences",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Cuál es la consecuencia principal del aumento de la temperatura global?",
+          "prompt_target": "Read the text and answer: What is the main consequence of global temperature rise?",
+          "options": [
+            "The sea level rises because the ice melts.",
+            "The economy grows faster.",
+            "People move to coastal cities.",
+            "The air becomes cleaner."
+          ],
+          "correct_answer": "The sea level rises because the ice melts.",
+          "explanation_form": "El texto dice que el derretimiento del hielo causa que el nivel del mar suba, lo cual es un problema serio para las ciudades costeras.",
+          "explanation_target": "The text says that melting ice causes the sea level to rise, which is a serious problem for coastal cities.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "carbon",
+            "mixed conditionals: past condition, present result"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Scientists have studied the climate for decades. They have found that human activity is the main cause of the changes we see today. When we burn fossil fuels, we release carbon dioxide into the air. This gas traps heat and makes the planet warmer. As a result, the ice at the poles is melting. This melting causes the sea level to rise, which is a serious problem for coastal cities. Many people believe that individual actions can help, but others argue that governments must take the lead. They say that without strong laws, companies will continue to pollute. The debate is complex because the economy depends on energy. However, most experts agree that we need to act now. If we had started earlier, the situation would be better today. The future of our planet depends on the choices we make.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "reading_comprehension",
+          "prompt_form": "Según el texto, ¿qué habría pasado si hubiéramos actuado antes?",
+          "prompt_target": "According to the text, what would have happened if we had acted earlier?",
+          "options": [
+            "The situation would be better today.",
+            "The economy would be worse.",
+            "The ice would melt faster.",
+            "The sea level would rise more."
+          ],
+          "correct_answer": "The situation would be better today.",
+          "explanation_form": "El texto dice 'If we had started earlier, the situation would be better today', lo que significa que la situación sería mejor hoy.",
+          "explanation_target": "The text says 'If we had started earlier, the situation would be better today', which means the situation would be better today.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "mixed conditionals: past condition, present result"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Scientists have studied the climate for decades. They have found that human activity is the main cause of the changes we see today. When we burn fossil fuels, we release carbon dioxide into the air. This gas traps heat and makes the planet warmer. As a result, the ice at the poles is melting. This melting causes the sea level to rise, which is a serious problem for coastal cities. Many people believe that individual actions can help, but others argue that governments must take the lead. They say that without strong laws, companies will continue to pollute. The debate is complex because the economy depends on energy. However, most experts agree that we need to act now. If we had started earlier, the situation would be better today. The future of our planet depends on the choices we make.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué habría pasado si la empresa hubiera reducido sus emisiones?",
+          "prompt_target": "Listen and answer: What would have happened if the company had reduced its emissions?",
+          "options": [
+            "The air would be cleaner now.",
+            "The company would have more money.",
+            "The workers would lose their jobs.",
+            "The office would be bigger."
+          ],
+          "correct_answer": "The air would be cleaner now.",
+          "explanation_form": "El gerente dijo que si hubieran reducido las emisiones, el aire sería más limpio ahora.",
+          "explanation_target": "The manager said that if they had reduced emissions, the air would be cleaner now.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "carbon",
+            "reduce_verb",
+            "mixed conditionals: past condition, present result"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The company had a meeting about the environment. The manager said that they had produced too much carbon last year. He explained that if they had reduced their emissions, the air would be cleaner now. The workers agreed to change their habits. They decided to use less energy in the office.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué habría pasado si la ciudad hubiera tenido un mejor sistema de transporte?",
+          "prompt_target": "Listen and answer: What would have happened if the city had had a better transport system?",
+          "options": [
+            "The air would be cleaner.",
+            "The cars would be faster.",
+            "The flood would be worse.",
+            "The city would be smaller."
+          ],
+          "correct_answer": "The air would be cleaner.",
+          "explanation_form": "La alcaldesa dijo que si la ciudad hubiera tenido un mejor sistema de transporte, el aire sería más limpio.",
+          "explanation_target": "The mayor said that if the city had had a better transport system, the air would be cleaner.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "energy",
+            "flood",
+            "mixed conditionals: past condition, present result"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The city had a serious problem with pollution. Many people drove their cars every day. The mayor said that if the city had had a better transport system, the air would be cleaner. She also said that the flood last year would not have been so bad if the city had built better drains. The citizens agreed to support the new plan.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'If we had reduced our carbon footprint, the planet ____ (be) healthier now.'",
+          "prompt_target": "Complete the sentence: 'If we had reduced our carbon footprint, the planet ____ (be) healthier now.'",
+          "options": null,
+          "correct_answer": "would be",
+          "explanation_form": "En condicionales mixtos, la condición pasada (had reduced) se combina con un resultado presente usando 'would + verbo base'.",
+          "explanation_target": "In mixed conditionals, a past condition (had reduced) combines with a present result using 'would + base verb'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "carbon",
+            "reduce_verb",
+            "mixed conditionals: past condition, present result"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'If the company ____ (consume) less energy, the air would be cleaner now.'",
+          "prompt_target": "Complete the sentence: 'If the company ____ (consume) less energy, the air would be cleaner now.'",
+          "options": null,
+          "correct_answer": "had consumed",
+          "explanation_form": "La condición en pasado se forma con 'had + participio pasado' (had consumed).",
+          "explanation_target": "The past condition is formed with 'had + past participle' (had consumed).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "consume_verb",
+            "energy",
+            "mixed conditionals: past condition, present result"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la traducción correcta de 'Si hubiéramos reducido las emisiones, el aire sería más limpio'?",
+          "prompt_target": "What is the correct translation of 'Si hubiéramos reducido las emisiones, el aire sería más limpio'?",
+          "options": [
+            "If we had reduced the emissions, the air would be cleaner.",
+            "If we reduce the emissions, the air will be cleaner.",
+            "If we reduced the emissions, the air would be cleaner.",
+            "If we had reduced the emissions, the air was cleaner."
+          ],
+          "correct_answer": "If we had reduced the emissions, the air would be cleaner.",
+          "explanation_form": "La oración usa un condicional mixto: 'had reduced' (pasado) + 'would be' (presente).",
+          "explanation_target": "The sentence uses a mixed conditional: 'had reduced' (past) + 'would be' (present).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reduce_verb",
+            "mixed conditionals: past condition, present result"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'carbon footprint' en español?",
+          "prompt_target": "What does 'carbon footprint' mean in Spanish?",
+          "options": [
+            "Huella de carbono",
+            "Energía limpia",
+            "Cambio climático",
+            "Nivel del mar"
+          ],
+          "correct_answer": "Huella de carbono",
+          "explanation_form": "'Carbon footprint' se refiere a la cantidad de carbono que una persona o empresa produce.",
+          "explanation_target": "'Carbon footprint' refers to the amount of carbon that a person or company produces.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "carbon"
+          ],
+          "points": 5,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Mixed conditionals: pasado que explica el presente\n\nCuando mezclas **if + pasado perfecto** con **would + presente**, conectas una causa pasada con un resultado actual. Piensa en ello como una cadena: *si no hubiera pasado X, ahora no pasaría Y*.\n\n- **If I hadn't consumed so much energy, my carbon footprint would be smaller.** (Si no hubiera consumido tanta energía, mi huella de carbono sería más pequeña).\n- **If the flood hadn't happened, the city wouldn't need so much help.** (Si la inundación no hubiera ocurrido, la ciudad no necesitaría tanta ayuda).\n\n**Truco para hispanohablantes:** en español usamos el pluscuamperfecto de subjuntivo (*hubiera + participio*) + condicional (*sería*). En inglés, la estructura es paralela: *had + participio* + *would + verbo*. ¡No olvides el *would* en la segunda parte!\n\n## Errores comunes y cómo evitarlos\n\n- **No digas:** *If I would have reduced...* → **Di:** *If I had reduced...* (nunca uses *would* en la parte del *if*).\n- **No digas:** *If I had consumed less, my footprint is smaller.* → **Di:** *...my footprint would be smaller.* (el resultado presente necesita *would*).\n- **Recuerda:** *carbon* es un sustantivo incontable. No digas *a carbon* ni *carbons*; úsalo como *carbon emissions* (emisiones de carbono) o *carbon footprint* (huella de carbono).\n\n**Conexión real:** usa esta estructura para hablar de decisiones pasadas que afectan tu vida hoy, como *If I had studied more, I would have a better job now.* ¡Es muy común en conversaciones sobre clima y también en la vida diaria!",
+  "metadata": {
+    "generated_at": "2026-08-31T01:40:02Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

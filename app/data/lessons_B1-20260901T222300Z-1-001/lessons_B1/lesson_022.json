@@ -1,0 +1,1584 @@
+{
+  "id": "lesson_022",
+  "position": 22,
+  "unit_id": 8,
+  "course_id": "en.B1",
+  "title_form": "Describir el vecindario",
+  "title_target": "Describing a neighbourhood",
+  "theme_focus": "relationships and community",
+  "learning_objectives": [
+    "Can give a connected description of a familiar place and the people who use it."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_021"
+  ],
+  "grammar_focus": [
+    "Non-defining relative clauses with who and which for added information."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "community"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "neighbourhood",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the relationships and community situation."
+      },
+      {
+        "term": "resident",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the relationships and community situation."
+      },
+      {
+        "term": "facility",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for a community space in the neighbourhood."
+      },
+      {
+        "term": "shop",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for a local place in the neighbourhood."
+      },
+      {
+        "term": "who lives there",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "which has",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "who",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "which",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Elena presenta su barrio a un nuevo compañero de trabajo durante el almuerzo. Le describe a los vecinos que viven allí y las instalaciones o tiendas cercanas agregando información útil para mostrar el espíritu de su comunidad.",
+  "introduction_md": "¡Bienvenido a esta lección! En esta sesión aprenderás a describir tu vecindario y dar información adicional sobre los lugares y las personas que forman parte de tu comunidad.\n\nA través de las cláusulas relativas explicativas (non-defining relative clauses) con **who** y **which**, podrás añadir detalles interesantes sin complicar la estructura principal de tus oraciones. Por ejemplo, aprenderás a describir a un vecino o mencionar una instalación local agregando datos útiles.\n\nEn esta lección practicarás cómo:\n- Identificar y describir a un **resident** en tu **neighbourhood**.\n- Mencionar un **shop** o **facility** local destacando sus características.\n- Utilizar **who** y **which** para unir ideas y hacer tus descripciones más fluidas.\n\n¡Prepárate para compartir detalles sobre el lugar donde vives y conectar con otros al hablar de tu entorno!",
+  "intro_target": "Welcome to this lesson! In this session, you will learn how to describe your neighbourhood and provide extra information about the places and people that make up your community.\n\nBy using non-defining relative clauses with **who** and **which**, you will be able to add interesting details without making your main sentences complicated. For example, you will learn how to describe a neighbour or mention a local facility while adding extra facts.\n\nIn this lesson, you will practice how to:\n- Identify and describe a **resident** in your **neighbourhood**.\n- Mention a local **shop** or **facility** and highlight its main features.\n- Use **who** and **which** to connect your ideas and make your descriptions flow naturally.\n\nGet ready to share details about where you live and talk comfortably about your local community!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Our small community, which has a large park, is very safe at night.",
+      "translation_form": "Nuestra pequeña comunidad, que tiene un parque grande, es muy segura por la noche.",
+      "highlight_words": [
+        "community",
+        "which",
+        "has"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Mr. Green, who lives near the old shop, helps everyone in the area.",
+      "translation_form": "El señor Green, que vive cerca de la tienda vieja, ayuda a todos en el área.",
+      "highlight_words": [
+        "who",
+        "lives",
+        "shop"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The main library, which has many books, is open for the community every weekend.",
+      "translation_form": "La biblioteca principal, que tiene muchos libros, está abierta para la comunidad todos los fines de semana.",
+      "highlight_words": [
+        "which",
+        "has",
+        "community"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My friend, who lives there, likes the clean streets of our area.",
+      "translation_form": "A mi amigo, que vive allí, le gustan las calles limpias de nuestra zona.",
+      "highlight_words": [
+        "who",
+        "lives",
+        "there"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This new restaurant, which has delicious food, brings many people to the community.",
+      "translation_form": "Este nuevo restaurante, que tiene comida deliciosa, atrae a mucha gente a la comunidad.",
+      "highlight_words": [
+        "which",
+        "has",
+        "community"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Non-defining relative clauses with who and which for added information.",
+      "title_form": "Cláusulas relativas no explicativas con who y which",
+      "title_target": "Non-defining relative clauses with who and which",
+      "description_md_form": "Las **non-defining relative clauses** (cláusulas relativas no explicativas) sirven para añadir información extra sobre una persona, lugar o cosa en el vecindario. Esta información no es esencial para comprender la oración principal.\n\n* Usa **who** cuando agregues datos sobre personas (como *residents* o *neighbors*).\n* Usa **which** cuando agregues datos sobre lugares o cosas (como *facilities* o *shops*).\n\n**Reglas clave de puntuación y uso:**\n1. Estas cláusulas siempre van entre **comas** (`,`).\n2. Si eliminas la información entre comas, la oración principal mantiene su sentido completo.\n3. En este tipo de cláusulas **nunca** debes usar *that* en reemplazo de *who* o *which*.\n\nPor ejemplo: *Our main library, which has many books, is open today.* (La biblioteca principal, que tiene muchos libros, está abierta hoy).",
+      "description_md_target": "**Non-defining relative clauses** are used to add extra information about a person, place, or thing in the neighbourhood. This information is not essential to understand the main sentence.\n\n* Use **who** when adding details about people (such as *residents* or *neighbors*).\n* Use **which** when adding details about places or objects (such as *facilities* or *shops*).\n\n**Key rules for punctuation and usage:**\n1. These clauses are always enclosed in **commas** (`,`).\n2. If you remove the information between commas, the main sentence still makes complete sense.\n3. In these non-defining clauses, you must **never** use *that* instead of *who* or *which*.\n\nFor example: *Our main library, which has many books, is open today.*",
+      "grammar_structure": "[Subject] + , who / which + [extra information] , + [verb] + [complement]",
+      "conjugation_table": {
+        "name": "relative_pronouns_usage",
+        "headers": [
+          "Pronombre relativo",
+          "Se refiere a",
+          "Ejemplo en el vecindario"
+        ],
+        "rows": [
+          [
+            "who",
+            "Personas (residents, neighbors)",
+            "Mr. Green, who lives near the shop..."
+          ],
+          [
+            "which",
+            "Lugares y cosas (facilities, shops)",
+            "The main library, which has many books..."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Non-defining relative clauses with who and which for added information.",
+          "text_target": "Mr. Green, who lives near the old shop, helps everyone in the area.",
+          "translation_form": "El señor Green, que vive cerca de la tienda vieja, ayuda a todos en el área.",
+          "highlight_words": [
+            "who",
+            "lives",
+            "near"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Non-defining relative clauses with who and which for added information.",
+          "text_target": "The main library, which has many books, is open for the community every weekend.",
+          "translation_form": "La biblioteca principal, que tiene muchos libros, está abierta para la comunidad todos los fines de semana.",
+          "highlight_words": [
+            "which",
+            "has"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "text_md": "A diferencia de las cláusulas explicativas, las no explicativas **siempre llevan comas** y **nunca permiten usar *that***."
+        },
+        {
+          "type": "tip",
+          "text_md": "Para comprobar si la cláusula es no explicativa, intenta leer la oración sin la parte entre comas. Si la frase original sigue teniendo sentido pleno, vas por buen camino."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'that' en lugar de 'who' o 'which' cuando la información adicional está entre comas.",
+        "Olvidar colocar las comas que separan la cláusula relativa del resto de la oración.",
+        "Usar 'which' para describir personas o residentes del vecindario."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona el pronombre relativo adecuado para referirte a una persona en una cláusula relativa no explicativa:",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "when"
+      ],
+      "correct_answer": "who",
+      "explanation_md": "Usamos 'who' para dar información adicional sobre una persona.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja los pronombres relativos y expresiones con su significado en español:",
+      "options": [
+        "who",
+        "quien / que (para personas)",
+        "which",
+        "que / el cual (para cosas o lugares)",
+        "who lives there",
+        "que vive allí",
+        "which has",
+        "que tiene"
+      ],
+      "correct_answer": [
+        "who=quien / que (para personas)",
+        "which=que / el cual (para cosas o lugares)",
+        "who lives there=que vive allí",
+        "which has=que tiene"
+      ],
+      "explanation_md": "'Who' se refiere a personas y 'which' a cosas o lugares.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'community'?",
+      "options": [
+        "comunidad",
+        "edificio",
+        "restaurante",
+        "biblioteca"
+      ],
+      "correct_answer": "comunidad",
+      "explanation_md": "'Community' se refiere a la comunidad o grupo de personas que viven en un área.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con 'who' o 'which':\n\nMr. Green, _____ lives near the shop, helps everyone.",
+      "options": null,
+      "correct_answer": "who",
+      "explanation_md": "Usamos 'who' porque nos referimos a una persona (Mr. Green).",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce la siguiente oración al inglés:\n\n'La biblioteca principal, que tiene muchos libros, está abierta.'",
+      "options": null,
+      "correct_answer": "The main library, which has many books, is open.",
+      "explanation_md": "Usamos 'which has' en una cláusula entre comas para describir una instalación de la comunidad.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce la siguiente oración al español:\n\n'My friend, who lives in that modern building, likes the area.'",
+      "options": null,
+      "correct_answer": "A mi amigo, que vive en ese edificio moderno, le gusta la zona.",
+      "explanation_md": "'who lives in that modern building' añade información sobre la persona entre comas. En español, 'likes the area' se expresa con 'A mi amigo le gusta la zona'.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige la opción correcta para completar la oración:\n\n'This new restaurant, _____ delicious food, brings many people.'",
+      "options": [
+        "which has",
+        "who lives",
+        "who has",
+        "which is"
+      ],
+      "correct_answer": "which has",
+      "explanation_md": "Usamos 'which has' para referirnos a un lugar (el restaurante) y describir lo que tiene.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con 'who' o 'which':\n\nOur local park, _____ is very big, is clean and safe.",
+      "options": null,
+      "correct_answer": "which",
+      "explanation_md": "Usamos 'which' para dar información adicional sobre un lugar (el parque).",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el audio y responde: ¿dónde vive el señor Green?",
+      "options": [
+        "Cerca de la tienda",
+        "En el parque",
+        "En la escuela",
+        "En el hospital"
+      ],
+      "correct_answer": "Cerca de la tienda",
+      "explanation_md": "El audio menciona: 'Mr. Green, who lives near the shop...'.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Mr. Green, who lives near the shop, is a very helpful person. He helps everyone in our community every day.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto y responde: ¿qué instalaciones tiene el edificio principal?",
+      "options": [
+        "Una gran biblioteca y un pequeño café",
+        "Un parque grande y un hospital",
+        "Una tienda de ropa y un restaurante",
+        "Una escuela y una piscina"
+      ],
+      "correct_answer": "Una gran biblioteca y un pequeño café",
+      "explanation_md": "El texto especifica: 'The main building, which has a large library and a small cafe...'.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Our small community has a new place for everyone. The main building, which has a large library and a small cafe, is open every day. Mrs. Smith, who lives near the park, works there. She helps the young residents and older people. The place, which is very clean, is famous in our area.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés:\n\n'Esta pequeña comunidad, que tiene un parque grande, es muy segura.'",
+      "options": null,
+      "correct_answer": "This small community, which has a large park, is very safe.",
+      "explanation_md": "Usamos 'which has' entre comas para describir una característica de la comunidad.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribe una descripción conectada de 4–6 oraciones en inglés sobre una persona, instalación o tienda de tu vecindario. Usa al menos dos cláusulas relativas no explicativas con 'who' o 'which' y coloca las comas correctamente. Incluye al menos dos detalles sobre la comunidad y explica por qué el lugar es útil o importante.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa una descripción conectada de 4–6 oraciones con al menos dos cláusulas relativas no explicativas. Usa 'who' para personas y 'which' para lugares o cosas, siempre entre comas, y añade detalles que expliquen la importancia del lugar o la comunidad.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I live in a friendly neighbourhood. Our community centre, which has a small library, offers activities every weekend. The park, which is near the main street, is a safe place for residents. My neighbour, who works at the local shop, helps visitors find what they need. I like the area because people support one another.",
+        "My neighbourhood has a busy main street. The local shop, which opens early, sells fresh food for residents. The park, which is behind the library, is clean and safe. My friend Ana, who lives nearby, often meets me there. The community is quiet at night, so it is a comfortable place to live."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Qué tiene el centro comunitario? / Read the short story and answer: What does the community centre have?",
+      "options": [
+        "A small library",
+        "A large swimming pool",
+        "A busy supermarket",
+        "A medical clinic"
+      ],
+      "correct_answer": "A small library",
+      "explanation_md": "El relato dice que el centro comunitario tiene una pequeña biblioteca. / The story says that the community centre has a small library.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I live in a friendly neighbourhood. Our community centre, which has a small library, offers free classes every Saturday. My neighbour Rosa, who teaches art, welcomes new residents. I often visit the park, which is next to the centre, because it is a safe place to meet people. Last weekend, I joined a clean-up with residents who care about our streets.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Quién organiza el huerto comunitario? / Listen to the short story and answer: Who organizes the community garden?",
+      "options": [
+        "Daniel",
+        "The bakery owner",
+        "An older resident",
+        "The bus driver"
+      ],
+      "correct_answer": "Daniel",
+      "explanation_md": "El audio dice que Daniel, quien organiza el huerto comunitario, se reunió con la narradora. / The audio says that Daniel, who organizes the community garden, met the narrator.",
+      "related_lexeme_ids": [
+        "community"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Every Saturday, I visit the local market in my neighbourhood. The bakery, which opens before sunrise, sells fresh bread. I know a shop owner who helps older residents, and she often gives them directions. Last Saturday, I met Daniel, who organizes our community garden. The market, which is next to the bus stop, was busy, but everyone was friendly.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "community",
+      "back": "comunidad",
+      "hint": "grupo de personas que comparten intereses o un lugar",
+      "lexeme_id": "community",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "B1",
+        "community"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "my local community",
+      "back": "mi comunidad local",
+      "hint": "entorno cercano de vecinos y residentes",
+      "lexeme_id": "community",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "B1",
+        "community"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "the community center",
+      "back": "el centro comunitario",
+      "hint": "lugar público de reunión para los vecinos",
+      "lexeme_id": "community",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "B1",
+        "community"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "develop",
+      "back": "desarrollar",
+      "hint": "hacer que una idea, lugar o proyecto crezca",
+      "lexeme_id": "develop_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_022",
+        "B1",
+        "community"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "Can you tell me how to ...?",
+      "back": "¿Puedes decirme cómo ...?",
+      "hint": "pedir información sobre un lugar o servicio",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "tags": [
+        "lesson_022",
+        "B1",
+        "community"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [],
+  "lesson_vocabulary": [
+    {
+      "term": "neighbourhood",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "vecindario / barrio",
+      "lexeme_id": "neighbourhood",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "Non-defining relative clauses with who and which for added information.",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "resident",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "residente",
+      "lexeme_id": "resident",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction"
+      ]
+    },
+    {
+      "term": "facility",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "instalación",
+      "lexeme_id": "facility",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction"
+      ]
+    },
+    {
+      "term": "shop",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "tienda",
+      "lexeme_id": "shop",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "Non-defining relative clauses with who and which for added information.",
+        "ex_009",
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "who lives there",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "which has",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "exm_005",
+        "Non-defining relative clauses with who and which for added information.",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "who",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "quién",
+      "lexeme_id": "who_wh",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "Non-defining relative clauses with who and which for added information.",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "which",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "exm_005",
+        "Non-defining relative clauses with who and which for added information.",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "community",
+      "role": "support",
+      "status": "review",
+      "translation": "comunidad",
+      "lexeme_id": "community",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_001",
+        "ex_002",
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_006",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_001",
+        "fc_002",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "develop",
+      "role": "support",
+      "status": "review",
+      "translation": "desarrollar",
+      "lexeme_id": "develop_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "Can you tell me how to ...?",
+      "role": "support",
+      "status": "review",
+      "translation": "¿Puedes decirme cómo ...?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b1_can_you_tell",
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "area",
+      "role": "support",
+      "status": "emergent",
+      "translation": "área",
+      "lexeme_id": "area",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "near",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "street",
+      "role": "support",
+      "status": "emergent",
+      "translation": "calle",
+      "lexeme_id": "street",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "park",
+      "role": "support",
+      "status": "emergent",
+      "translation": "parque",
+      "lexeme_id": "park",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "library",
+      "role": "support",
+      "status": "emergent",
+      "translation": "biblioteca",
+      "lexeme_id": "library_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_002",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "open",
+      "role": "support",
+      "status": "emergent",
+      "translation": "abrir",
+      "lexeme_id": "open_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "clean",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "safe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "seguro",
+      "lexeme_id": "safe_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "food",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comida",
+      "lexeme_id": "food",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "night",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noche",
+      "lexeme_id": "night",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "green",
+      "role": "support",
+      "status": "emergent",
+      "translation": "verde",
+      "lexeme_id": "green_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "large",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gran / grande",
+      "lexeme_id": "large_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "tell",
+      "role": "support",
+      "status": "emergent",
+      "translation": "decir / contar",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_005"
+      ]
+    },
+    {
+      "term": "bring",
+      "role": "support",
+      "status": "emergent",
+      "translation": "traer",
+      "lexeme_id": "bring_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "restaurant",
+      "role": "support",
+      "status": "emergent",
+      "translation": "restaurante",
+      "lexeme_id": "restaurant",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "center",
+      "role": "support",
+      "status": "emergent",
+      "translation": "centro",
+      "lexeme_id": "center",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "delicious",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rico / delicia / gustoso",
+      "lexeme_id": "delicious_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "centre",
+      "role": "support",
+      "status": "emergent",
+      "translation": "centro",
+      "lexeme_id": "centre",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "visit",
+      "role": "support",
+      "status": "emergent",
+      "translation": "visitar",
+      "lexeme_id": "visit_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "often",
+      "role": "support",
+      "status": "emergent",
+      "translation": "a menudo",
+      "lexeme_id": "often_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "place",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lugar",
+      "lexeme_id": "place",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "fresh",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fresco",
+      "lexeme_id": "fresh_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "helpful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "útil",
+      "lexeme_id": "helpful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 8,
+    "lexical_target_count": 6,
+    "covered_lexical_target_count": 6,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 3,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "area",
+      "near",
+      "street",
+      "small",
+      "park",
+      "library",
+      "open",
+      "clean",
+      "weekend",
+      "main",
+      "friend",
+      "safe",
+      "book",
+      "food",
+      "night",
+      "green",
+      "large",
+      "tell",
+      "bring",
+      "old",
+      "restaurant",
+      "center",
+      "delicious",
+      "centre",
+      "day",
+      "work",
+      "meet",
+      "visit",
+      "often",
+      "place",
+      "fresh",
+      "helpful"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describir el vecindario",
+      "title_target": "Quiz: Describing a neighbourhood",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Qué información adicional se da sobre Mr. Smith en el texto?",
+          "prompt_target": null,
+          "options": [
+            "Que es un médico amable",
+            "Que trabaja en el centro comunitario",
+            "Que vive lejos de la casa",
+            "Que visita el parque todos los días"
+          ],
+          "correct_answer": "Que es un médico amable",
+          "explanation_form": "La cláusula relativa 'who is a helpful doctor' añade información adicional sobre Mr. Smith entre comas.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": "I live in a small area. The local park, which is very big, is near my house. Mr. Smith, who is a helpful doctor, lives in our street. Our community centre, which opens every day, has activities for everyone.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Según el audio, ¿qué información extra se da sobre la biblioteca local?",
+          "prompt_target": null,
+          "options": [
+            "Tiene muchos libros",
+            "Abre solo los fines de semana",
+            "Es muy ruidosa",
+            "Está lejos de la ciudad"
+          ],
+          "correct_answer": "Tiene muchos libros",
+          "explanation_form": "El audio usa la cláusula explicativa 'which has many books' para describir la biblioteca.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "My local library, which has many books, is very quiet. The secretary, who is very helpful, works there every weekend.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Dónde vive el dueño del café según la información del audio?",
+          "prompt_target": null,
+          "options": [
+            "Upstairs",
+            "Near the station",
+            "In a small village",
+            "Inside the library"
+          ],
+          "correct_answer": "Upstairs",
+          "explanation_form": "El hablante menciona 'The owner, who lives upstairs...', añadiendo un dato sobre el dueño.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Our main street, which is near the station, has a wonderful cafe. The owner, who lives upstairs, makes fresh bread every morning.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "Elige la oración que usa correctamente una 'non-defining relative clause' para dar información adicional sobre una persona:",
+          "prompt_target": null,
+          "options": [
+            "My uncle, who is a teacher, lives in this street.",
+            "My uncle, which is a teacher, lives in this street.",
+            "My uncle who live in this street is a teacher.",
+            "My uncle, that are a teacher, lives in this street."
+          ],
+          "correct_answer": "My uncle, who is a teacher, lives in this street.",
+          "explanation_form": "Usamos 'who' entre comas para referirnos a personas en cláusulas relativas no especificativas.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la oración con el pronombre relativo adecuado para dar información sobre un lugar u objeto: 'The new supermarket, ____ opened last week, is very large.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "which",
+          "explanation_form": "'which' es el pronombre relativo adecuado para objetos y lugares en cláusulas explicativas.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración correcta con una cláusula explicativa entre comas:",
+          "prompt_target": null,
+          "options": [
+            "This",
+            "park,",
+            "which",
+            "is",
+            "very",
+            "clean,",
+            "is",
+            "famous."
+          ],
+          "correct_answer": "This park, which is very clean, is famous.",
+          "explanation_form": "La cláusula explicativa ', which is very clean,' va entre comas justo después del sustantivo que describe.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja los pronombres relativos con el tipo de información adicional que introducen:",
+          "prompt_target": null,
+          "options": [
+            "who",
+            "Información sobre personas",
+            "which",
+            "Información sobre cosas o lugares"
+          ],
+          "correct_answer": [
+            "who=Información sobre personas",
+            "which=Información sobre cosas o lugares"
+          ],
+          "explanation_form": "Usamos 'who' para personas y 'which' para cosas o lugares al añadir datos extra.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce la siguiente oración al español: 'The old hospital, which is in the centre, is closed.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "El hospital viejo, que está en el centro, está cerrado.",
+          "explanation_form": "'which is in the centre' se traduce como 'que está en el centro', rodeado de comas por ser información suplementaria.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál de las siguientes oraciones describe un elemento de la comunidad usando correctamente 'which' entre comas?",
+          "prompt_target": null,
+          "options": [
+            "The local museum, which is free, has many old paintings.",
+            "The local museum, who is free, has many old paintings.",
+            "The local museum, which are free, have many old paintings.",
+            "The local museum who is free has many old paintings."
+          ],
+          "correct_answer": "The local museum, which is free, has many old paintings.",
+          "explanation_form": "'museum' es un lugar, por lo que requiere 'which', y la información extra va entre comas con el verbo en singular 'is'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "non_defining_relative_clauses",
+            "community"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Qué queda cerca del piso de la narradora?",
+          "prompt_target": "Read the story and answer: What is near the narrator's flat?",
+          "options": [
+            "The community centre",
+            "The main hospital",
+            "The local supermarket",
+            "The railway station"
+          ],
+          "correct_answer": "The community centre",
+          "explanation_form": "El relato dice que el centro comunitario, que tiene una sala de ordenadores, está cerca del piso de la narradora. / The story says that the community centre, which has a computer room, is near the narrator's flat.",
+          "explanation_target": "El centro comunitario, que tiene una sala de ordenadores, está cerca del piso de la narradora. / The community centre, which has a computer room, is near the narrator's flat.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "community",
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I moved to a new neighbourhood two months ago. The community centre, which has a computer room, is near my flat. I met Lina, who volunteers there, on my first visit. She showed me the park, which is behind the building, and introduced me to residents. I now attend a weekly class, which is free for everyone. I feel at home because people are welcoming.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Cuándo se reúne el grupo de lectura?",
+          "prompt_target": "Listen to the story and answer: When does the reading group meet?",
+          "options": [
+            "On Fridays",
+            "Every Monday morning",
+            "On Saturday afternoons",
+            "Once a month"
+          ],
+          "correct_answer": "On Fridays",
+          "explanation_form": "El audio dice que la librería organiza el grupo de lectura los viernes. / The audio says that the bookshop hosts the reading group on Fridays.",
+          "explanation_target": "La librería organiza el grupo de lectura los viernes. / The bookshop hosts the reading group on Fridays.",
+          "references_exercise_id": "ex_014",
+          "references_lesson_topics": [
+            "community",
+            "non_defining_relative_clauses"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I live near a small shopping street. The bookshop, which is beside the library, hosts a reading group on Fridays. My neighbour Omar, who runs the group, invited me last week. We met residents who enjoy local stories, and I made two new friends. The shop, which is usually quiet, was full that evening.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Información adicional con comas\n\nEn esta lección aprendiste a usar las cláusulas relativas explicativas (*non-defining relative clauses*) con **who** y **which** para añadir detalles sobre personas y lugares de tu vecindario. Recuerda que estas cláusulas van entre comas y aportan información extra que se puede omitir sin alterar el sentido principal de la oración.\n\n* Usa **who** para personas: *My neighbor, who lives next door, is very friendly.*\n* Usa **which** para lugares o cosas: *The local park, which is near my house, brings the community together.*\n\n## No utilices \"that\" entre comas\n\nUn error muy común al traducir desde el español es usar *that* en este tipo de oraciones explicativas. Cuando la información va entre comas, **nunca** debes usar *that*.\n\n* **Correcto:** *Our community center, which opened last month, is great.*\n* **Incorrecto:** *Our community center, that opened last month, is great.*",
+  "metadata": {
+    "generated_at": "2026-08-29T18:34:47Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

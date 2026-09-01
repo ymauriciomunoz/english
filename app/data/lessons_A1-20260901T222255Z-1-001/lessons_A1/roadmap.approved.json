@@ -1,0 +1,3609 @@
+{
+  "schema_version": 2,
+  "course_id": "en.A1",
+  "units": [
+    {
+      "id": 1,
+      "title_form": "Saludos y presentaciones",
+      "lesson_ids": [
+        "lesson_001",
+        "lesson_002",
+        "lesson_003",
+        "lesson_004",
+        "lesson_005",
+        "lesson_006"
+      ]
+    },
+    {
+      "id": 2,
+      "title_form": "Información personal y familia",
+      "lesson_ids": [
+        "lesson_007",
+        "lesson_008",
+        "lesson_009",
+        "lesson_010",
+        "lesson_011",
+        "lesson_012"
+      ]
+    },
+    {
+      "id": 3,
+      "title_form": "Tiempo, fechas y rutinas",
+      "lesson_ids": [
+        "lesson_013",
+        "lesson_014",
+        "lesson_015",
+        "lesson_016",
+        "lesson_017",
+        "lesson_018",
+        "lesson_019",
+        "lesson_020"
+      ]
+    },
+    {
+      "id": 4,
+      "title_form": "Comida y transacciones",
+      "lesson_ids": [
+        "lesson_021",
+        "lesson_022",
+        "lesson_023",
+        "lesson_024",
+        "lesson_025",
+        "lesson_026"
+      ]
+    },
+    {
+      "id": 5,
+      "title_form": "Lugares, direcciones, transporte y naturaleza",
+      "lesson_ids": [
+        "lesson_027",
+        "lesson_028",
+        "lesson_029",
+        "lesson_030",
+        "lesson_031",
+        "lesson_032"
+      ]
+    },
+    {
+      "id": 6,
+      "title_form": "Tiempo libre, opiniones y planes",
+      "lesson_ids": [
+        "lesson_033",
+        "lesson_034",
+        "lesson_035",
+        "lesson_036",
+        "lesson_037"
+      ]
+    },
+    {
+      "id": 7,
+      "title_form": "Salud, cuerpo y emociones",
+      "lesson_ids": [
+        "lesson_038",
+        "lesson_039",
+        "lesson_040",
+        "lesson_041"
+      ]
+    },
+    {
+      "id": 8,
+      "title_form": "Compras, ropa y servicios",
+      "lesson_ids": [
+        "lesson_042",
+        "lesson_043",
+        "lesson_044",
+        "lesson_045",
+        "lesson_046"
+      ]
+    },
+    {
+      "id": 9,
+      "title_form": "Viajes, clima y tiempo",
+      "lesson_ids": [
+        "lesson_047",
+        "lesson_048",
+        "lesson_049",
+        "lesson_050"
+      ]
+    },
+    {
+      "id": 10,
+      "title_form": "Repaso y consolidación",
+      "lesson_ids": [
+        "lesson_051",
+        "lesson_052",
+        "lesson_053",
+        "lesson_054",
+        "lesson_055"
+      ]
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson_001",
+      "position": 1,
+      "unit_id": 1,
+      "title_form": "Saludos y presentaciones",
+      "title_target": "Greeting and Introducing Yourself",
+      "theme_focus": "Saludos formales e informales, presentación básica con nombre.",
+      "can_do_ids": [
+        "basic_social_interaction"
+      ],
+      "learning_objectives": [
+        "Can greet someone using basic greetings.",
+        "Can introduce him/herself using name."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "hello_interj",
+            "hi_interj",
+            "good_morning_interj",
+            "good_afternoon_interj",
+            "good_evening_interj",
+            "bye_interj",
+            "name",
+            "my_det",
+            "i_pronoun",
+            "meet_verb",
+            "you_pronoun",
+            "a_det",
+            "the_det",
+            "to_prep",
+            "nice_adj"
+          ],
+          "chunk_ids": [
+            "chunk_my_name_is",
+            "chunk_whats_your_name",
+            "chunk_nice_to_meet_you"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        }
+      },
+      "grammar_focus": [
+        "present simple: be (am/is/are) with names"
+      ],
+      "grammar_ids": [
+        "present_be"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_12b0a0e22d3b2ccd",
+        "a1_cando_8831e2a202677188",
+        "a1_cando_dd1a90ddd7c2139b",
+        "a1_cando_f77a3673c3240567"
+      ]
+    },
+    {
+      "id": "lesson_002",
+      "position": 2,
+      "unit_id": 1,
+      "title_form": "Preguntar cómo estás",
+      "title_target": "Asking How Someone Is",
+      "theme_focus": "Preguntar y responder sobre el estado de ánimo y bienestar.",
+      "can_do_ids": [
+        "basic_social_interaction"
+      ],
+      "learning_objectives": [
+        "Can ask how someone is.",
+        "Can respond to 'How are you?' using basic expressions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "fine_adj",
+            "ok_interj",
+            "happy_adj",
+            "sad_adj",
+            "tired_adj",
+            "good_adj",
+            "bad_adj",
+            "thanks_interj"
+          ],
+          "chunk_ids": [
+            "chunk_how_are_you",
+            "chunk_im_fine_thanks"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "hello_interj",
+            "bye_interj",
+            "name"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: be (am/is/are) with adjectives"
+      ],
+      "grammar_ids": [
+        "present_be"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_001"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_be8c2f175f635b47"
+      ]
+    },
+    {
+      "id": "lesson_003",
+      "position": 3,
+      "unit_id": 1,
+      "title_form": "Despedidas y cortesía",
+      "title_target": "Saying Goodbye and Using Politeness Formulas",
+      "theme_focus": "Expresiones de despedida y fórmulas de cortesía básicas.",
+      "can_do_ids": [
+        "basic_social_interaction"
+      ],
+      "learning_objectives": [
+        "Can say goodbye using basic expressions.",
+        "Can use basic politeness formulas."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "friend",
+            "birthday",
+            "later_adv",
+            "thank_you_interj",
+            "please_interj",
+            "sorry_interj",
+            "excuse_me_interj",
+            "youre_welcome_interj",
+            "have_verb",
+            "see_verb",
+            "day"
+          ],
+          "chunk_ids": [
+            "chunk_see_you_later",
+            "chunk_have_a_nice_day",
+            "chunk_youre_welcome"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "hello_interj",
+            "bye_interj"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "imperative: affirmative (Have a nice day!)"
+      ],
+      "grammar_ids": [
+        "present_be"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_001",
+        "lesson_002"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_894c49d407802c3f"
+      ]
+    },
+    {
+      "id": "lesson_004",
+      "position": 4,
+      "unit_id": 1,
+      "title_form": "Números del 1 al 10",
+      "title_target": "Counting from 1 to 10",
+      "theme_focus": "Números cardinales del 1 al 10 para edad y cantidades básicas.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can count from 1 to 10.",
+        "Can state his/her age using numbers."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "one_num",
+            "two_num",
+            "three_num",
+            "four_num",
+            "five_num",
+            "six_num",
+            "seven_num",
+            "eight_num",
+            "nine_num",
+            "ten_num",
+            "age",
+            "how_old_wh",
+            "old_adj",
+            "count_verb",
+            "year"
+          ],
+          "chunk_ids": [
+            "chunk_how_old_are_you",
+            "chunk_years_old",
+            "chunk_count_from_1_to_20"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "name",
+            "i_pronoun"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: be (am/is/are) with age"
+      ],
+      "grammar_ids": [
+        "present_be",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_001"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_5f490462158fa6cc",
+        "a1_cando_da1583790eba31d8"
+      ]
+    },
+    {
+      "id": "lesson_005",
+      "position": 5,
+      "unit_id": 1,
+      "title_form": "Números del 11 al 20",
+      "title_target": "Counting from 11 to 20",
+      "theme_focus": "Números cardinales del 11 al 20 y su uso en contextos simples.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can count from 11 to 20.",
+        "Can use numbers 11-20 in simple contexts."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "eleven_num",
+            "twelve_num",
+            "thirteen_num",
+            "fourteen_num",
+            "fifteen_num",
+            "sixteen_num",
+            "seventeen_num",
+            "eighteen_num",
+            "nineteen_num",
+            "twenty_num",
+            "let_verb"
+          ],
+          "chunk_ids": [
+            "chunk_lets_count"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "one_num",
+            "two_num",
+            "three_num",
+            "four_num",
+            "five_num"
+          ]
+        }
+      },
+      "grammar_focus": [],
+      "grammar_ids": [
+        "present_be"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_004"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_d78aaa6bd3eebd64"
+      ]
+    },
+    {
+      "id": "lesson_006",
+      "position": 6,
+      "unit_id": 1,
+      "title_form": "Contar del 21 al 100",
+      "title_target": "Counting from 21 to 100",
+      "theme_focus": "Números del 21 al 100: repaso de twenty y de las unidades, introducción de las decenas y composición de números compuestos (twenty-one, thirty-two, fifty-five). La generación de contenido debe modelar la composición con guion y practicarla en ejemplos, ejercicios y quiz.",
+      "learning_objectives": [
+        "Can count from 21 to 100 using reviewed ones/twenty and new tens, form compound numbers like fifty-five, and state ages using numbers."
+      ],
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "can_do_descriptor_ids": [
+        "a1_cando_d78aaa6bd3eebd64",
+        "a1_cando_da1583790eba31d8",
+        "a1_cando_f5a0a5d73878fefd"
+      ],
+      "grammar_ids": [],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "grammar_focus": [],
+      "prerequisites": [
+        "lesson_005"
+      ],
+      "estimated_minutes": 30,
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "thirty_num",
+            "forty_num",
+            "fifty_num",
+            "sixty_num",
+            "seventy_num",
+            "eighty_num",
+            "ninety_num",
+            "hundred_num",
+            "apple",
+            "book",
+            "student"
+          ],
+          "chunk_ids": [
+            "chunk_compound_numbers_21_to_100",
+            "chunk_i_am_number_years_old"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "one_num",
+            "two_num",
+            "three_num",
+            "four_num",
+            "five_num",
+            "six_num",
+            "seven_num",
+            "eight_num",
+            "nine_num",
+            "twenty_num",
+            "friend",
+            "birthday",
+            "name"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lesson_007",
+      "position": 7,
+      "unit_id": 2,
+      "title_form": "Información personal básica",
+      "title_target": "Exchanging Basic Personal Information",
+      "theme_focus": "Intercambio de información personal: nombre, edad, origen, residencia.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can ask and answer questions about name, age, and origin.",
+        "Can state where he/she lives."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "country",
+            "live_verb",
+            "where_wh",
+            "what_wh",
+            "from_prep",
+            "in_prep",
+            "your_det",
+            "be_verb_2",
+            "be_verb_3",
+            "be_verb_4",
+            "it_pronoun",
+            "who_wh",
+            "when_wh",
+            "why_wh"
+          ],
+          "chunk_ids": [
+            "chunk_where_are_you_from",
+            "chunk_im_from"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "name",
+            "age",
+            "how_old_wh",
+            "i_pronoun",
+            "my_det"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "wh-questions: where/what with be"
+      ],
+      "grammar_ids": [
+        "present_be",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_001",
+        "lesson_004"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_8497ff5114fac626",
+        "a1_cando_d30945dda61bfb5e",
+        "a1_cando_f5a0a5d73878fefd"
+      ]
+    },
+    {
+      "id": "lesson_008",
+      "position": 8,
+      "unit_id": 2,
+      "title_form": "Familia inmediata",
+      "title_target": "Describing Immediate Family",
+      "theme_focus": "Miembros de la familia inmediata y presentación de los mismos.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can name immediate family members.",
+        "Can describe his/her immediate family using 'have got'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "mother",
+            "father",
+            "parents",
+            "brother",
+            "sister",
+            "son",
+            "daughter",
+            "family",
+            "have_got_verb",
+            "his_det",
+            "her_det"
+          ],
+          "chunk_ids": [
+            "chunk_i_have_got",
+            "chunk_have_you_got"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "name",
+            "live_verb",
+            "my_det",
+            "i_pronoun"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "have got: affirmative (I have got ...)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_007"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_f6730f30c303aac3"
+      ]
+    },
+    {
+      "id": "lesson_009",
+      "position": 9,
+      "unit_id": 2,
+      "title_form": "Familia extendida",
+      "title_target": "Describing Extended Family",
+      "theme_focus": "Miembros de la familia extendida y preguntas sobre la familia.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can name extended family members.",
+        "Can ask and answer questions about family members."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "grandmother",
+            "grandfather",
+            "husband",
+            "wife",
+            "children",
+            "baby",
+            "uncle",
+            "cousin",
+            "our_det",
+            "their_det",
+            "single_adj_2"
+          ],
+          "chunk_ids": [
+            "chunk_a1_are_you_single"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "mother",
+            "father",
+            "brother",
+            "sister",
+            "family",
+            "have_got_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "have got: questions (Have you got ...?)"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_008"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_4a446759476e5392",
+        "a1_cando_954411ffa1c8c52c"
+      ]
+    },
+    {
+      "id": "lesson_010",
+      "position": 10,
+      "unit_id": 2,
+      "title_form": "Profesiones y ocupaciones",
+      "title_target": "Talking About Jobs and Occupations",
+      "theme_focus": "Nombres de profesiones y cómo hablar del trabajo propio.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can name common jobs and occupations.",
+        "Can state what he/she does for a living."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "doctor",
+            "nurse",
+            "teacher",
+            "waiter",
+            "scientist",
+            "writer",
+            "work_verb",
+            "work",
+            "office",
+            "as_prep",
+            "school",
+            "start_verb",
+            "finish_verb",
+            "do_verb",
+            "do_verb_2"
+          ],
+          "chunk_ids": [
+            "chunk_i_work_as",
+            "chunk_i_start_finish_work",
+            "chunk_what_do_you_do"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "live_verb",
+            "where_wh",
+            "what_wh",
+            "i_pronoun"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative (I work as ...) and questions with do (What do you do?)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_007"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_510c45cad8ff94d1"
+      ]
+    },
+    {
+      "id": "lesson_011",
+      "position": 11,
+      "unit_id": 2,
+      "title_form": "Preguntas con do/does",
+      "title_target": "Asking Questions with Do/Does",
+      "theme_focus": "Formación de preguntas y respuestas cortas con do/does.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can ask yes/no questions using do/does.",
+        "Can answer yes/no questions using short answers."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "ask_verb",
+            "answer_verb",
+            "yes_interj",
+            "no_interj",
+            "not_adv",
+            "use_verb",
+            "dog",
+            "cat",
+            "bread",
+            "milk",
+            "he_pronoun",
+            "she_pronoun"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "do_verb",
+            "do_verb_2",
+            "from_prep",
+            "name",
+            "age",
+            "country",
+            "live_verb",
+            "where_wh",
+            "what_wh",
+            "work_verb",
+            "school",
+            "student"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: questions with do/does"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_010"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_d6dafa16fc7219cf"
+      ]
+    },
+    {
+      "id": "lesson_012",
+      "position": 12,
+      "unit_id": 2,
+      "title_form": "Negación con don't/doesn't",
+      "title_target": "Negating with Don't/Doesn't",
+      "theme_focus": "Formación de oraciones negativas con don't y doesn't.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can form negative sentences using don't/doesn't.",
+        "Can state what he/she does not do."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "understand_verb",
+            "know_verb_2",
+            "think_verb",
+            "want_verb",
+            "need_verb",
+            "like_verb",
+            "love_verb",
+            "hate_verb",
+            "enjoy_verb"
+          ],
+          "chunk_ids": [
+            "chunk_i_dont_like"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "do_verb",
+            "do_verb_2",
+            "work_verb",
+            "live_verb",
+            "not_adv"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: negative with don't/doesn't"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_011"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_52aea29ab5e655e9",
+        "a1_cando_7559408ee6fd55de",
+        "a1_cando_94ba871d035754b8",
+        "a1_cando_b41cb4ad77ac9a13",
+        "a1_cando_ea2d37804f0e6f02"
+      ]
+    },
+    {
+      "id": "lesson_013",
+      "position": 13,
+      "unit_id": 3,
+      "title_form": "Rutina diaria",
+      "title_target": "Describing Daily Routine",
+      "theme_focus": "Acciones de la rutina diaria y la hora a la que se realizan.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can describe daily routine using present simple.",
+        "Can state the time of daily activities."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "get_up_verb",
+            "wake_up_verb_2",
+            "have_breakfast_phrase",
+            "go_verb",
+            "come_verb",
+            "morning",
+            "afternoon",
+            "evening",
+            "night",
+            "breakfast",
+            "lunch",
+            "dinner",
+            "have_lunch_phrase",
+            "have_dinner_phrase",
+            "drink_coffee_phrase"
+          ],
+          "chunk_ids": [
+            "chunk_i_get_up",
+            "chunk_i_have_breakfast_at",
+            "chunk_in_the_morning"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "work_verb",
+            "live_verb",
+            "i_pronoun"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative (I get up at ...)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_routines"
+      ],
+      "prerequisites": [
+        "lesson_010"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_659cb0d46bed48d9"
+      ]
+    },
+    {
+      "id": "lesson_014",
+      "position": 14,
+      "unit_id": 3,
+      "title_form": "La hora",
+      "title_target": "Telling the Time",
+      "theme_focus": "Decir la hora en punto y con minutos.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can tell the time using o'clock and half past.",
+        "Can ask what time it is."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "clock",
+            "hour",
+            "half",
+            "oclock_adv",
+            "time",
+            "now",
+            "today",
+            "tomorrow",
+            "yesterday",
+            "past_prep"
+          ],
+          "chunk_ids": [
+            "chunk_what_time_is_it",
+            "chunk_its_oclock",
+            "chunk_its_half_past"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "morning",
+            "afternoon",
+            "evening",
+            "night"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: be (it is + time)"
+      ],
+      "grammar_ids": [
+        "present_be",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "daily_routines"
+      ],
+      "prerequisites": [
+        "lesson_013"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_8ec3dc3bb9b1b0f0"
+      ]
+    },
+    {
+      "id": "lesson_015",
+      "position": 15,
+      "unit_id": 3,
+      "title_form": "Hablar de los días de la semana",
+      "title_target": "Talking About the Days of the Week",
+      "theme_focus": "Los días de la semana y hablar de qué día es hoy.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can name the days of the week.",
+        "Can ask and answer what day it is."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "week",
+            "weekend",
+            "last_adj",
+            "next_adv",
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday",
+            "saturday",
+            "sunday"
+          ],
+          "chunk_ids": [
+            "chunk_what_day_is_it",
+            "chunk_on_monday_weekend"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "today",
+            "tomorrow",
+            "yesterday",
+            "morning",
+            "afternoon",
+            "evening"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "prepositions of time: on/at/in"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "daily_routines"
+      ],
+      "prerequisites": [
+        "lesson_014"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_360e8e3c1597c03a"
+      ]
+    },
+    {
+      "id": "lesson_016",
+      "position": 16,
+      "unit_id": 3,
+      "title_form": "Hablar de los meses del año",
+      "title_target": "Talking About the Months of the Year",
+      "theme_focus": "Los doce meses del año y su uso para hablar de fechas",
+      "learning_objectives": [
+        "Can name the months of the year.",
+        "Can say in which month an event happens."
+      ],
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "can_do_descriptor_ids": [
+        "a1_cando_360e8e3c1597c03a"
+      ],
+      "grammar_ids": [],
+      "functional_domain_ids": [
+        "daily_routines"
+      ],
+      "grammar_focus": [],
+      "prerequisites": [
+        "lesson_015"
+      ],
+      "estimated_minutes": 30,
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "month",
+            "january",
+            "february",
+            "march",
+            "april",
+            "may",
+            "june",
+            "july",
+            "august",
+            "september",
+            "october",
+            "november",
+            "december"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "monday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "friday",
+            "saturday",
+            "sunday",
+            "week",
+            "weekend",
+            "day",
+            "year"
+          ]
+        }
+      }
+    },
+    {
+      "id": "lesson_017",
+      "position": 17,
+      "unit_id": 3,
+      "title_form": "Fechas, cumpleaños y ordinales",
+      "title_target": "Talking About Dates, Birthdays, and Ordinal Numbers",
+      "theme_focus": "Decir y escribir fechas completas (día, mes y año), hablar del cumpleaños y practicar ordinales hasta thirty-first. La lección debe practicar las formas 'the 21st of July 2026' y 'July 21st, 2026'. La explicación debe presentar el sistema completo de ordinales: first, second y third; cambios de escritura como fifth, eighth, ninth y twelfth; y la regla regular -th. El generador debe incluir los ordinales en la explicación, ejemplos, ejercicios, flashcards y quiz cuando corresponda, sin inventar IDs de lexemas.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can say and write a complete date using the day, month, and year, and talk about his/her birthday using ordinal numbers.",
+        "Can use ordinal numbers for dates, including first, second, third, fifth, eighth, ninth, twelfth, twentieth, and thirtieth.",
+        "Can explain and apply the regular -th pattern and spelling changes to form ordinal dates through thirty-first."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "first_ord",
+            "second_ord",
+            "third_ord",
+            "fourth_ord",
+            "fifth_ord",
+            "eighth_ord",
+            "ninth_ord",
+            "twelfth_ord",
+            "twentieth_ord",
+            "thirtieth_ord",
+            "date",
+            "celebrate_verb",
+            "gift",
+            "card"
+          ],
+          "chunk_ids": [
+            "chunk_yesterday_today_tomorrow",
+            "chunk_what_date_is_it",
+            "chunk_when_is_your_birthday"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "may",
+            "birthday",
+            "year",
+            "day",
+            "week",
+            "weekend",
+            "today",
+            "tomorrow",
+            "yesterday",
+            "january",
+            "june",
+            "july",
+            "december"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "complete dates: the + ordinal + of + month + year (The 21st of July 2026) and month + ordinal + year (July 21st, 2026)",
+        "ordinal numbers for dates: first, second, third, spelling changes in fifth/eighth/ninth/twelfth, and regular -th forms through thirty-first"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_015",
+        "lesson_016"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_11def74e39892c0a",
+        "a1_cando_819d45788ae023b2"
+      ]
+    },
+    {
+      "id": "lesson_018",
+      "position": 18,
+      "unit_id": 3,
+      "title_form": "Adverbios de frecuencia",
+      "title_target": "Using Adverbs of Frequency",
+      "theme_focus": "Adverbios de frecuencia para describir hábitos.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can use adverbs of frequency to describe habits.",
+        "Can ask how often someone does something."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "always_adv",
+            "usually_adv",
+            "often_adv",
+            "sometimes_adv",
+            "never_adv",
+            "walk_verb",
+            "clean_verb",
+            "read_verb",
+            "write_verb",
+            "study_verb",
+            "learn_verb"
+          ],
+          "chunk_ids": [
+            "chunk_how_often"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "get_up_verb",
+            "go_verb",
+            "work_verb",
+            "breakfast",
+            "lunch",
+            "dinner"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: adverbs of frequency (always/usually/never)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_routines"
+      ],
+      "prerequisites": [
+        "lesson_013"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_f2f2ab3ff0dc0851"
+      ]
+    },
+    {
+      "id": "lesson_019",
+      "position": 19,
+      "unit_id": 3,
+      "title_form": "Transporte y cómo ir al trabajo",
+      "title_target": "Talking About Transport to Work",
+      "theme_focus": "Medios de transporte y cómo llegar al trabajo o escuela.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can name common means of transport.",
+        "Can state how he/she goes to work or school."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "car",
+            "bus",
+            "train",
+            "taxi",
+            "bicycle",
+            "bike",
+            "boat",
+            "drive_verb",
+            "by_prep",
+            "stop",
+            "station",
+            "ticket"
+          ],
+          "chunk_ids": [
+            "chunk_i_go_to_work_by"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "go_verb",
+            "work_verb",
+            "school",
+            "morning"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "prepositions: by + transport"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_013"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_af86b71d6f7cc3be"
+      ]
+    },
+    {
+      "id": "lesson_020",
+      "position": 20,
+      "unit_id": 3,
+      "title_form": "Rutina de otros",
+      "title_target": "Describing Others' Routines",
+      "theme_focus": "Describir la rutina de otra persona usando la tercera persona.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can describe someone else's daily routine using present simple 3rd person.",
+        "Can ask about someone else's routine."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "we_pronoun",
+            "they_pronoun",
+            "sit_verb",
+            "stand_verb",
+            "sleep_verb",
+            "put_verb",
+            "take_verb",
+            "get_verb",
+            "give_verb",
+            "find_verb"
+          ],
+          "chunk_ids": [
+            "chunk_in_the_morning_i",
+            "chunk_does_he_she_work"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "he_pronoun",
+            "she_pronoun",
+            "get_up_verb",
+            "go_verb",
+            "work_verb",
+            "breakfast",
+            "lunch",
+            "dinner",
+            "always_adv",
+            "usually_adv"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: 3rd person -s and questions with does (Does he/she ...?)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "daily_routines"
+      ],
+      "prerequisites": [
+        "lesson_013",
+        "lesson_018"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_83d2473ace72fb2b"
+      ]
+    },
+    {
+      "id": "lesson_021",
+      "position": 21,
+      "unit_id": 4,
+      "title_form": "Comida y bebida",
+      "title_target": "Naming Food and Drinks",
+      "theme_focus": "Vocabulario de alimentos y bebidas comunes.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can name common foods and drinks in simple contexts.",
+        "Can identify food and drink items when choosing what to have."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "food",
+            "drink",
+            "water",
+            "coffee",
+            "tea",
+            "juice",
+            "meat",
+            "chicken",
+            "fish",
+            "cheese",
+            "salad",
+            "vegetable",
+            "cake",
+            "soup",
+            "can_modal"
+          ],
+          "chunk_ids": [
+            "chunk_can_i_have"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "breakfast",
+            "lunch",
+            "dinner",
+            "apple"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "articles: a/an with countable food items (an apple, a salad)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_013"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_2238465e12fbd5c9"
+      ]
+    },
+    {
+      "id": "lesson_022",
+      "position": 22,
+      "unit_id": 4,
+      "title_form": "En el restaurante",
+      "title_target": "Ordering Food in a Restaurant",
+      "theme_focus": "Pedir comida y bebida en un restaurante o café.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can order food and drinks in a restaurant.",
+        "Can ask for the bill."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "restaurant",
+            "menu",
+            "bill",
+            "order_verb",
+            "table",
+            "check",
+            "help_verb_2",
+            "will_modal"
+          ],
+          "chunk_ids": [
+            "chunk_ill_have",
+            "chunk_the_bill_please",
+            "chunk_can_i_help_you"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "food",
+            "drink",
+            "water",
+            "coffee",
+            "tea",
+            "juice",
+            "chicken",
+            "fish",
+            "salad",
+            "waiter"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "imperative: polite requests (Can I have ...?)"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_021"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_c3f26b05cdf82f19"
+      ]
+    },
+    {
+      "id": "lesson_023",
+      "position": 23,
+      "unit_id": 4,
+      "title_form": "Precios y dinero",
+      "title_target": "Asking About Prices",
+      "theme_focus": "Preguntar y decir precios, manejo de dinero.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can ask how much something costs.",
+        "Can state the price of an item."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "how_much_wh",
+            "cost_verb",
+            "pay_verb",
+            "buy_verb",
+            "sell_verb",
+            "price",
+            "expensive_adj",
+            "dollar",
+            "cash",
+            "change_noun",
+            "receipt"
+          ],
+          "chunk_ids": [
+            "chunk_how_much_is_it",
+            "chunk_do_you_have"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "one_num",
+            "two_num",
+            "three_num",
+            "four_num",
+            "five_num",
+            "six_num",
+            "seven_num",
+            "eight_num",
+            "nine_num",
+            "ten_num"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "wh-questions: how much with be"
+      ],
+      "grammar_ids": [
+        "present_be",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_004",
+        "lesson_022"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_2e6b3f40de08f152"
+      ]
+    },
+    {
+      "id": "lesson_024",
+      "position": 24,
+      "unit_id": 4,
+      "title_form": "Cuantificadores some/any",
+      "title_target": "Using Some and Any",
+      "theme_focus": "Uso de some y any con sustantivos contables e incontables.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can use 'some' and 'any' with countable and uncountable nouns.",
+        "Can ask for things using 'some' and 'any'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "some_det_pron",
+            "any_det_pron",
+            "much_det_pron",
+            "many_det_pron",
+            "all_det_pron",
+            "glass",
+            "bottle",
+            "cup",
+            "sugar",
+            "information"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "water",
+            "coffee",
+            "tea",
+            "juice",
+            "food",
+            "vegetable"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "some/any: affirmative and questions"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_021"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_853b9b462d08795d"
+      ]
+    },
+    {
+      "id": "lesson_025",
+      "position": 25,
+      "unit_id": 4,
+      "title_form": "Verbos de acción comunes",
+      "title_target": "Using Common Action Verbs",
+      "theme_focus": "Verbos de acción de alta frecuencia para describir actividades.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can use common action verbs in present simple.",
+        "Can describe simple actions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "make_verb",
+            "open_verb",
+            "close_verb",
+            "bring_verb",
+            "carry_verb",
+            "try_verb",
+            "help_verb",
+            "call_verb",
+            "send_verb",
+            "say_verb_2"
+          ],
+          "chunk_ids": [
+            "chunk_can_you"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "go_verb",
+            "come_verb",
+            "work_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: affirmative (common verbs)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_012"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_d4a20f2c129bb8e3",
+        "a1_cando_fe7a5da1e7d48c1e"
+      ]
+    },
+    {
+      "id": "lesson_026",
+      "position": 26,
+      "unit_id": 4,
+      "title_form": "Imperativos e instrucciones",
+      "title_target": "Giving Instructions with Imperatives",
+      "theme_focus": "Dar instrucciones simples usando el imperativo afirmativo y negativo.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can give simple instructions using imperatives.",
+        "Can follow simple instructions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "listen_verb",
+            "look_verb",
+            "watch_verb",
+            "follow_verb",
+            "check_verb",
+            "stop_verb",
+            "turn_verb",
+            "left",
+            "right",
+            "straight_adv"
+          ],
+          "chunk_ids": [
+            "chunk_go_straight",
+            "chunk_turn_left_right"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "open_verb",
+            "close_verb",
+            "sit_verb",
+            "stand_verb",
+            "walk_verb",
+            "start_verb",
+            "finish_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "imperative: affirmative and negative (Open/Don't run)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_025"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_79f374c7e215149b",
+        "a1_cando_dca79cf755065787"
+      ]
+    },
+    {
+      "id": "lesson_027",
+      "position": 27,
+      "unit_id": 5,
+      "title_form": "Lugares en la ciudad",
+      "title_target": "Naming Places in Town",
+      "theme_focus": "Nombres de lugares comunes en una ciudad.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can name common places in a town.",
+        "Can ask where a place is."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "home",
+            "house",
+            "hotel",
+            "bank",
+            "hospital",
+            "park",
+            "street",
+            "city",
+            "road",
+            "university",
+            "world",
+            "supermarket",
+            "shop"
+          ],
+          "chunk_ids": [
+            "chunk_where_is"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "restaurant",
+            "work",
+            "live_verb",
+            "school",
+            "office",
+            "station"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "wh-questions: where with be"
+      ],
+      "grammar_ids": [
+        "present_be",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_007"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_d0e307aa601b1f4b"
+      ]
+    },
+    {
+      "id": "lesson_028",
+      "position": 28,
+      "unit_id": 5,
+      "title_form": "Preposiciones de lugar",
+      "title_target": "Using Prepositions of Place",
+      "theme_focus": "Preposiciones de lugar para describir la ubicación de objetos y lugares.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can use prepositions of place to describe location.",
+        "Can describe where objects are."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "under_prep",
+            "next_to_prep",
+            "between_prep",
+            "behind_prep",
+            "in_front_of_prep",
+            "near_prep",
+            "on_prep",
+            "at_prep",
+            "here_adv",
+            "there_is_verb",
+            "there_are_verb"
+          ],
+          "chunk_ids": [
+            "chunk_its_next_to",
+            "chunk_there_is_there_are"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "house",
+            "school",
+            "park",
+            "street",
+            "table"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "there is/there are: affirmative with prepositions"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_027"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_9773ac040db5058c"
+      ]
+    },
+    {
+      "id": "lesson_029",
+      "position": 29,
+      "unit_id": 5,
+      "title_form": "Pedir direcciones",
+      "title_target": "Asking for Directions",
+      "theme_focus": "Pedir y dar direcciones simples usando lugares, verbos de movimiento y expresiones de dirección.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can ask for directions to a place.",
+        "Can give simple directions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "map",
+            "sign",
+            "way",
+            "bridge",
+            "traffic_light",
+            "place",
+            "then_adv"
+          ],
+          "chunk_ids": [
+            "chunk_how_do_i_get_to"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "street",
+            "road",
+            "station",
+            "bank",
+            "hospital",
+            "park",
+            "next_to_prep",
+            "between_prep",
+            "where_wh",
+            "find_verb",
+            "near_prep"
+          ]
+        },
+        "complementary_chunk_ids": [
+          "chunk_go_straight",
+          "chunk_turn_left_right"
+        ]
+      },
+      "grammar_focus": [
+        "imperative: affirmative for directions (Go straight/Turn left)"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_026",
+        "lesson_028"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_0825bc2488d5a23b",
+        "a1_cando_0bef3d44e30a3839",
+        "a1_cando_64ba1b2142839c6d"
+      ]
+    },
+    {
+      "id": "lesson_030",
+      "position": 30,
+      "unit_id": 5,
+      "title_form": "En el hotel y la casa",
+      "title_target": "Checking into a Hotel and Describing a Home",
+      "theme_focus": "Vocabulario y frases para registrarse en un hotel y describir espacios y objetos básicos de una casa.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can check into a hotel using basic expressions.",
+        "Can ask for the key and breakfast time.",
+        "Can identify common rooms and household objects."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "key",
+            "booking",
+            "floor",
+            "room",
+            "reservation",
+            "flat",
+            "kitchen",
+            "bathroom",
+            "bedroom",
+            "chair",
+            "window"
+          ],
+          "chunk_ids": [
+            "chunk_i_have_a_reservation",
+            "chunk_can_i_have_the_key",
+            "chunk_what_time_is_breakfast"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "breakfast",
+            "morning",
+            "night",
+            "hotel"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: questions (What time is ...?)"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_027"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_59ed97d9ba62ad07"
+      ]
+    },
+    {
+      "id": "lesson_031",
+      "position": 31,
+      "unit_id": 5,
+      "title_form": "En la ciudad: there is/are",
+      "title_target": "Describing a Town with There Is/Are",
+      "theme_focus": "Describir qué hay en una ciudad usando there is/are.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can describe what there is in a town using 'there is/there are'.",
+        "Can ask if there is a place near here."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "cafe_3",
+            "city_2",
+            "country_2",
+            "island",
+            "village",
+            "farm",
+            "garden",
+            "museum",
+            "cinema",
+            "centre",
+            "clean_adj",
+            "big_adj"
+          ],
+          "chunk_ids": [
+            "chunk_is_there"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "park",
+            "bank",
+            "hospital",
+            "school",
+            "supermarket",
+            "restaurant",
+            "hotel",
+            "station",
+            "there_is_verb",
+            "there_are_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "there is/there are: affirmative descriptions and questions (Is there ...?)"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_028"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_75600900fc935cae",
+        "a1_cando_ae81425c275e5192"
+      ]
+    },
+    {
+      "id": "lesson_032",
+      "position": 32,
+      "unit_id": 5,
+      "title_form": "Animales y naturaleza",
+      "title_target": "Talking About Animals and Nature",
+      "theme_focus": "Identificar animales y describir paisajes naturales sencillos.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can identify and name common animals and natural places.",
+        "Can describe a simple natural scene using there is/there are and basic adjectives."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "animal",
+            "bird",
+            "horse",
+            "cow",
+            "pig",
+            "sheep",
+            "elephant",
+            "mountain",
+            "river",
+            "tree",
+            "sea",
+            "small_adj",
+            "mouse",
+            "lion"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "dog",
+            "cat",
+            "park",
+            "farm",
+            "garden",
+            "island",
+            "there_is_verb",
+            "there_are_verb",
+            "big_adj",
+            "in_prep",
+            "near_prep",
+            "on_prep",
+            "under_prep",
+            "next_to_prep"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "there is/there are: affirmative descriptions with prepositions of place",
+        "singular and plural regular nouns"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_031"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_75600900fc935cae",
+        "a1_cando_ae81425c275e5192"
+      ]
+    },
+    {
+      "id": "lesson_033",
+      "position": 33,
+      "unit_id": 6,
+      "title_form": "Pasatiempos y tiempo libre",
+      "title_target": "Talking About Hobbies and Free Time",
+      "theme_focus": "Actividades de tiempo libre y pasatiempos.",
+      "can_do_ids": [
+        "basic_social_interaction"
+      ],
+      "learning_objectives": [
+        "Can name common hobbies and free time activities.",
+        "Can talk about what he/she does in free time."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "play_verb",
+            "sport",
+            "football",
+            "tennis",
+            "music",
+            "film",
+            "swim_verb",
+            "dancing",
+            "game",
+            "movie",
+            "running",
+            "singing"
+          ],
+          "chunk_ids": [
+            "chunk_i_like"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "read_verb",
+            "listen_verb",
+            "watch_verb",
+            "enjoy_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "like + noun: affirmative (I like football); distinguish noun objects from -ing activity forms"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_012"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_cefdc33a33510447"
+      ]
+    },
+    {
+      "id": "lesson_034",
+      "position": 34,
+      "unit_id": 6,
+      "title_form": "Gustos y preferencias",
+      "title_target": "Expressing Likes and Dislikes",
+      "theme_focus": "Expresar gustos y preferencias con like, love, hate.",
+      "can_do_ids": [
+        "basic_social_interaction"
+      ],
+      "learning_objectives": [
+        "Can express likes and dislikes using like/love/hate.",
+        "Can ask someone about their likes."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "favourite_adj",
+            "favourite_2",
+            "great_adj",
+            "wonderful_adj",
+            "reading",
+            "prefer_verb"
+          ],
+          "chunk_ids": [
+            "chunk_i_love_i_hate",
+            "chunk_i_prefer_to",
+            "chunk_my_favourite"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "football",
+            "tennis",
+            "music",
+            "film",
+            "book",
+            "like_verb",
+            "love_verb",
+            "hate_verb",
+            "enjoy_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "like + -ing: affirmative (I like reading) and questions (Do you like ...?)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_033"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_c9a8abfe41afe8d0",
+        "a1_cando_ee627b252ede07c5"
+      ]
+    },
+    {
+      "id": "lesson_035",
+      "position": 35,
+      "unit_id": 6,
+      "title_form": "Preguntar por gustos",
+      "title_target": "Asking About Likes and Dislikes",
+      "theme_focus": "Preguntar y responder sobre gustos y preferencias.",
+      "can_do_ids": [
+        "basic_social_interaction"
+      ],
+      "learning_objectives": [
+        "Can ask yes/no questions about likes.",
+        "Can answer yes/no questions about likes using short answers."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "sports",
+            "films",
+            "games",
+            "movies",
+            "travelling",
+            "cooking"
+          ],
+          "chunk_ids": [
+            "chunk_yes_i_do",
+            "chunk_no_i_dont",
+            "chunk_do_you_like"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "like_verb",
+            "love_verb",
+            "hate_verb",
+            "football",
+            "tennis",
+            "music",
+            "book"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: yes/no questions with do/does"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_011",
+        "lesson_034"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_72dbbcb0c778caca",
+        "a1_cando_b8e3a572a4615fcf"
+      ]
+    },
+    {
+      "id": "lesson_036",
+      "position": 36,
+      "unit_id": 6,
+      "title_form": "Planes futuros con going to",
+      "title_target": "Talking About Future Plans with Going To",
+      "theme_focus": "Expresar planes futuros inmediatos usando going to.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can talk about future plans using going to.",
+        "Can use going to for simple plans and will for simple predictions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "going_to_verb",
+            "travel_verb",
+            "visit_verb",
+            "stay_verb",
+            "leave_verb",
+            "return_verb",
+            "trip",
+            "holiday",
+            "tourist"
+          ],
+          "chunk_ids": [
+            "chunk_im_going_to",
+            "chunk_i_think_it_will"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "go_verb",
+            "come_verb",
+            "buy_verb",
+            "play_verb",
+            "work_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "going to: affirmative for plans",
+        "will: affirmative for simple predictions"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_012"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_037",
+      "position": 37,
+      "unit_id": 6,
+      "title_form": "Deseos con want to",
+      "title_target": "Expressing Wishes with Want To",
+      "theme_focus": "Expresar deseos y necesidades usando want to.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can express wishes using 'want to'.",
+        "Can ask about someone's wishes."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "eat_verb",
+            "drink_verb",
+            "talk_verb",
+            "wash_verb",
+            "dress_verb",
+            "choose_verb",
+            "wait_verb",
+            "hope_verb"
+          ],
+          "chunk_ids": [
+            "chunk_i_want_to",
+            "chunk_a1_i_hope_to_see_you_soon",
+            "chunk_do_you_want_to"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "go_verb",
+            "come_verb",
+            "buy_verb",
+            "travel_verb",
+            "visit_verb",
+            "want_verb",
+            "need_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "want + infinitive: affirmative (I want to ...) and questions (Do you want to ...?)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_036"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_b45012f9c8268148"
+      ]
+    },
+    {
+      "id": "lesson_038",
+      "position": 38,
+      "unit_id": 7,
+      "title_form": "Partes del cuerpo",
+      "title_target": "Naming Parts of the Body",
+      "theme_focus": "Partes del cuerpo humano.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can name basic parts of the body.",
+        "Can point to and name body parts."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "head",
+            "face",
+            "eye",
+            "hand",
+            "foot",
+            "back",
+            "tooth",
+            "feet",
+            "teeth_2",
+            "body",
+            "hair",
+            "this_det_pron",
+            "these_det_pron"
+          ],
+          "chunk_ids": [
+            "chunk_this_is_my_body_part",
+            "chunk_these_are_my_body_parts"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": []
+        }
+      },
+      "grammar_focus": [
+        "plural nouns: regular and irregular (foot/feet, tooth/teeth)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_004"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_039",
+      "position": 39,
+      "unit_id": 7,
+      "title_form": "Síntomas y salud",
+      "title_target": "Describing Symptoms and Health",
+      "theme_focus": "Describir síntomas y problemas de salud comunes.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can describe common symptoms using 'I have'.",
+        "Can say where it hurts."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "sick_adj",
+            "hurt_verb",
+            "better_adj",
+            "well_adv",
+            "feel_verb",
+            "cold_adj",
+            "headache"
+          ],
+          "chunk_ids": [
+            "chunk_i_have_a_headache",
+            "chunk_where_does_it_hurt",
+            "chunk_i_need_a_doctor"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "head",
+            "back",
+            "tooth",
+            "feet",
+            "body",
+            "doctor",
+            "hospital",
+            "sleep_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "have: affirmative with symptoms (I have a headache)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_038"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_f7596eafec166b27"
+      ]
+    },
+    {
+      "id": "lesson_040",
+      "position": 40,
+      "unit_id": 7,
+      "title_form": "Emociones y estados",
+      "title_target": "Expressing Emotions and States",
+      "theme_focus": "Adjetivos para expresar emociones y estados de ánimo.",
+      "can_do_ids": [
+        "basic_social_interaction"
+      ],
+      "learning_objectives": [
+        "Can express basic emotions and states.",
+        "Can ask how someone feels."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "hungry_adj",
+            "thirsty_adj",
+            "bored_adj",
+            "excited_adj"
+          ],
+          "chunk_ids": [
+            "chunk_are_you_ok",
+            "chunk_i_dont_feel_well",
+            "chunk_i_feel_better_now"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "fine_adj",
+            "good_adj",
+            "bad_adj",
+            "great_adj",
+            "feel_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: be with adjectives (I'm happy)"
+      ],
+      "grammar_ids": [
+        "present_be"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_002"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_041",
+      "position": 41,
+      "unit_id": 7,
+      "title_form": "Habilidad con can/can't",
+      "title_target": "Talking About Abilities with Can/Can't",
+      "theme_focus": "Expresar habilidad y permiso usando can y can't.",
+      "can_do_ids": [
+        "basic_social_interaction"
+      ],
+      "learning_objectives": [
+        "Can talk about abilities using 'can' and 'can't'.",
+        "Can ask for permission using 'can'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "paint_verb",
+            "draw_verb",
+            "jump_verb",
+            "guitar",
+            "dance_verb",
+            "sing_verb",
+            "run_verb",
+            "cook_verb",
+            "speak_verb"
+          ],
+          "chunk_ids": [
+            "chunk_i_can",
+            "chunk_i_cant",
+            "chunk_can_i"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "football",
+            "tennis",
+            "music",
+            "book",
+            "swim_verb",
+            "drive_verb",
+            "play_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "can/can't: ability and permission"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_033"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_042",
+      "position": 42,
+      "unit_id": 8,
+      "title_form": "Colores y apariencia",
+      "title_target": "Describing Colors and Appearance",
+      "theme_focus": "Colores y adjetivos para describir la apariencia física.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can name basic colors.",
+        "Can describe physical appearance using basic adjectives."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "black_adj",
+            "white_adj",
+            "brown_adj",
+            "grey_adj",
+            "purple_adj",
+            "pink_2",
+            "red_adj",
+            "blue_adj",
+            "green_adj",
+            "yellow_adj",
+            "orange_adj",
+            "young_adj",
+            "tall_adj",
+            "short_adj",
+            "colour"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "eye",
+            "face",
+            "head",
+            "hair"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: be with adjectives (It's red)"
+      ],
+      "grammar_ids": [
+        "present_be"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_041"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_e2d8c00e24e33988"
+      ]
+    },
+    {
+      "id": "lesson_043",
+      "position": 43,
+      "unit_id": 8,
+      "title_form": "Ropa",
+      "title_target": "Naming Clothes",
+      "theme_focus": "Prendas de vestir y colores.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can name common items of clothing.",
+        "Can describe what someone is wearing."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "shirt",
+            "t_shirt",
+            "trousers",
+            "jeans",
+            "coat",
+            "dress",
+            "hat",
+            "jacket",
+            "skirt",
+            "sweater",
+            "fit_verb",
+            "wear_verb"
+          ],
+          "chunk_ids": [
+            "chunk_can_i_try_it_on",
+            "chunk_it_fits"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "black_adj",
+            "white_adj",
+            "brown_adj",
+            "grey_adj",
+            "purple_adj",
+            "pink_2",
+            "colour"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present continuous: affirmative (I'm wearing ...)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_042"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_2716199c30f31191"
+      ]
+    },
+    {
+      "id": "lesson_044",
+      "position": 44,
+      "unit_id": 8,
+      "title_form": "Comprar ropa",
+      "title_target": "Shopping for Clothes",
+      "theme_focus": "Comprar ropa: preguntar precio, talla y probarse.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can ask the price of an item of clothing.",
+        "Can ask to try on clothes."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "customer",
+            "market",
+            "size",
+            "cheap",
+            "store"
+          ],
+          "chunk_ids": [
+            "chunk_im_looking_for",
+            "chunk_ill_take_it"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "shirt",
+            "t_shirt",
+            "trousers",
+            "jeans",
+            "coat",
+            "dress",
+            "hat",
+            "jacket",
+            "skirt",
+            "sweater",
+            "shop",
+            "try_verb",
+            "cost_verb",
+            "pay_verb",
+            "buy_verb",
+            "sell_verb",
+            "price",
+            "expensive_adj"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "wh-questions: how much with be (How much is it?)"
+      ],
+      "grammar_ids": [
+        "present_be",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_043"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_daf4f3367fd17ff0"
+      ]
+    },
+    {
+      "id": "lesson_045",
+      "position": 45,
+      "unit_id": 8,
+      "title_form": "En la tienda: artículos cotidianos",
+      "title_target": "Shopping for Everyday Items",
+      "theme_focus": "Pedir ayuda y preguntar por artículos cotidianos en una tienda.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can ask for help in a store.",
+        "Can ask if a store has an item."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "smartphone",
+            "laptop",
+            "computer",
+            "camera",
+            "phone",
+            "pen",
+            "umbrella",
+            "bag",
+            "medicine",
+            "newspaper"
+          ],
+          "chunk_ids": [
+            "chunk_can_you_help"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "shop",
+            "supermarket",
+            "market",
+            "buy_verb",
+            "sell_verb",
+            "pay_verb",
+            "ask_verb",
+            "find_verb",
+            "look_verb",
+            "need_verb",
+            "want_verb",
+            "ticket",
+            "price",
+            "customer",
+            "bread",
+            "milk",
+            "hat"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: questions with do/does (Do you have ...?)"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_011",
+        "lesson_041",
+        "lesson_044"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_a5a98313891a7886"
+      ]
+    },
+    {
+      "id": "lesson_046",
+      "position": 46,
+      "unit_id": 8,
+      "title_form": "Servicios y emergencias",
+      "title_target": "Using Basic Services and Emergencies",
+      "theme_focus": "Pedir ayuda y describir situaciones de emergencia.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can name basic services and emergency contacts.",
+        "Can ask for help in an emergency."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "police",
+            "fire",
+            "dangerous_adj",
+            "ambulance",
+            "emergency",
+            "accident"
+          ],
+          "chunk_ids": [
+            "chunk_excuse_me",
+            "chunk_i_need_help"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "hospital",
+            "doctor",
+            "nurse",
+            "help_verb",
+            "call_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "imperative: affirmative for requests (Call/Help)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_039"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_171485b9b053ac14"
+      ]
+    },
+    {
+      "id": "lesson_047",
+      "position": 47,
+      "unit_id": 9,
+      "title_form": "El clima",
+      "title_target": "Talking About the Weather",
+      "theme_focus": "Vocabulario del clima y cómo describir el tiempo.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can describe the weather using basic adjectives.",
+        "Can ask what the weather is like."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "weather",
+            "sun",
+            "rain",
+            "snow",
+            "hot_adj",
+            "warm_adj",
+            "cool_adj",
+            "sunny_adj",
+            "raining_verb"
+          ],
+          "chunk_ids": [
+            "chunk_whats_the_weather_like",
+            "chunk_its_sunny",
+            "chunk_its_raining"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "today",
+            "morning",
+            "afternoon",
+            "evening",
+            "cold_adj"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: be with weather adjectives (It's sunny)"
+      ],
+      "grammar_ids": [
+        "present_be"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_015"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_66308edae0744a8b"
+      ]
+    },
+    {
+      "id": "lesson_048",
+      "position": 48,
+      "unit_id": 9,
+      "title_form": "Estaciones del año",
+      "title_target": "Talking About Seasons",
+      "theme_focus": "Estaciones del año y actividades asociadas.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can name the four seasons.",
+        "Can talk about activities in different seasons."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "spring",
+            "autumn",
+            "winter",
+            "summer",
+            "beach",
+            "vacation",
+            "swimming",
+            "cycling"
+          ],
+          "chunk_ids": [
+            "chunk_we_go_to_the_beach_in_summer",
+            "chunk_we_go_cycling_in_spring"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "weather",
+            "sun",
+            "rain",
+            "snow",
+            "hot_adj",
+            "cold_adj",
+            "warm_adj",
+            "cool_adj"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "prepositions of time: in + season/month"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_047"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_f8402516d55bba80"
+      ]
+    },
+    {
+      "id": "lesson_049",
+      "position": 49,
+      "unit_id": 9,
+      "title_form": "Viajes y vacaciones",
+      "title_target": "Talking About Travel and Vacations",
+      "theme_focus": "Vocabulario de viajes y vacaciones.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can talk about travel and vacations using basic vocabulary.",
+        "Can describe simple travel plans using going to."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "flight",
+            "airport",
+            "suitcase",
+            "passport",
+            "arrive_verb",
+            "book_verb"
+          ],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "go_verb",
+            "come_verb",
+            "buy_verb",
+            "travel_verb",
+            "visit_verb",
+            "stay_verb",
+            "leave_verb",
+            "return_verb",
+            "trip",
+            "vacation",
+            "holiday",
+            "tourist",
+            "map",
+            "beach",
+            "hotel",
+            "key",
+            "booking",
+            "ticket"
+          ]
+        },
+        "complementary_chunk_ids": [
+          "chunk_im_going_to"
+        ]
+      },
+      "grammar_focus": [
+        "going to future: travel plans (I'm going to ...)"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_036",
+        "lesson_030"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_77a1ec54bca667f2"
+      ]
+    },
+    {
+      "id": "lesson_050",
+      "position": 50,
+      "unit_id": 9,
+      "title_form": "Conectores y adverbios básicos",
+      "title_target": "Using Basic Connectors and Adverbs",
+      "theme_focus": "Conectores básicos para unir ideas y adverbios frecuentes para añadir, intensificar o matizar mensajes: and, but, or, because, so, also, too, very, really, just, maybe. El generador debe practicar estas palabras con el vocabulario complementario de gustos, opiniones y emociones para producir ejemplos y ejercicios comunicativos variados.",
+      "can_do_ids": [
+        "basic_social_interaction"
+      ],
+      "learning_objectives": [
+        "Can use basic connectors and common adverbs to join, add, intensify, or modify simple ideas.",
+        "Can express reason using 'because'."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [
+            "and_conj",
+            "but_conj",
+            "or_conj",
+            "because_conj",
+            "so_conj",
+            "if_conj",
+            "while_conj",
+            "also_adv",
+            "too_adv",
+            "very_adv",
+            "really_adv",
+            "just_adv",
+            "maybe_adv"
+          ],
+          "chunk_ids": [
+            "chunk_i_think",
+            "chunk_i_like_it_because"
+          ]
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "like_verb",
+            "love_verb",
+            "hate_verb",
+            "good_adj",
+            "bad_adj",
+            "happy_adj",
+            "sad_adj",
+            "when_wh"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "conjunctions: and/but/or/because/so",
+        "common adverbs: also/too/very/really/just/maybe"
+      ],
+      "grammar_ids": [
+        "present_simple"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_012",
+        "lesson_034"
+      ],
+      "estimated_minutes": 30
+    },
+    {
+      "id": "lesson_051",
+      "position": 51,
+      "unit_id": 10,
+      "title_form": "Repaso: presentación personal",
+      "title_target": "Reviewing Self-Presentation",
+      "theme_focus": "Repaso integral de presentación personal: nombre, edad, origen, familia, trabajo.",
+      "can_do_ids": [
+        "personal_information"
+      ],
+      "learning_objectives": [
+        "Can present him/herself using personal information, family and work vocabulary.",
+        "Can answer simple questions about personal information."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "name",
+            "age",
+            "country",
+            "live_verb",
+            "work_verb",
+            "family",
+            "mother",
+            "father",
+            "brother",
+            "sister",
+            "way",
+            "friend",
+            "teacher",
+            "student"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: review (be, have got, common verbs)"
+      ],
+      "grammar_ids": [
+        "present_be",
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_001",
+        "lesson_004",
+        "lesson_007",
+        "lesson_008",
+        "lesson_010"
+      ],
+      "estimated_minutes": 30,
+      "can_do_descriptor_ids": [
+        "a1_cando_3aa5636083b62707",
+        "a1_cando_a14db3dc2c54bcd4"
+      ]
+    },
+    {
+      "id": "lesson_052",
+      "position": 52,
+      "unit_id": 10,
+      "title_form": "Repaso: rutinas y tiempo libre",
+      "title_target": "Reviewing Routines and Free Time",
+      "theme_focus": "Repaso de rutinas diarias, hora, gustos y tiempo libre.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can describe daily routines and free time activities.",
+        "Can talk about likes and dislikes."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "morning",
+            "afternoon",
+            "evening",
+            "night",
+            "breakfast",
+            "lunch",
+            "dinner",
+            "always_adv",
+            "get_up_verb",
+            "work_verb",
+            "study_verb",
+            "play_verb",
+            "read_verb",
+            "like_verb",
+            "love_verb",
+            "hate_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: review (affirmative, negative, questions)"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "daily_routines",
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_013",
+        "lesson_018",
+        "lesson_033",
+        "lesson_034",
+        "lesson_035"
+      ],
+      "estimated_minutes": 15
+    },
+    {
+      "id": "lesson_053",
+      "position": 53,
+      "unit_id": 10,
+      "title_form": "Repaso: rutinas y tiempo libre (parte 2)",
+      "title_target": "Reviewing Routines and Free Time (part 2)",
+      "theme_focus": "Repasar el vocabulario de rutinas y tiempo libre.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can review vocabulary related to routines and free time.",
+        "Can use previously learned vocabulary in simple present sentences."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "morning",
+            "afternoon",
+            "evening",
+            "night",
+            "breakfast",
+            "lunch",
+            "dinner",
+            "always_adv",
+            "usually_adv",
+            "often_adv",
+            "sometimes_adv",
+            "never_adv",
+            "sport",
+            "football",
+            "tennis",
+            "music",
+            "get_up_verb",
+            "work_verb",
+            "study_verb",
+            "play_verb",
+            "read_verb",
+            "watch_verb",
+            "cook_verb",
+            "swim_verb"
+          ]
+        }
+      },
+      "grammar_focus": [
+        "present simple: review (affirmative, negative, questions)"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "daily_routines",
+        "self_and_social"
+      ],
+      "prerequisites": [
+        "lesson_052"
+      ],
+      "estimated_minutes": 15
+    },
+    {
+      "id": "lesson_054",
+      "position": 54,
+      "unit_id": 10,
+      "title_form": "Repaso: necesidades cotidianas",
+      "title_target": "Reviewing Everyday Needs",
+      "theme_focus": "Repaso de compras, restaurante y direcciones; la salud se trabajará con más profundidad en la siguiente lección.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can handle basic transactions in shops and restaurants.",
+        "Can ask for and give directions."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "food",
+            "drink",
+            "water",
+            "coffee",
+            "tea",
+            "juice",
+            "shop",
+            "supermarket",
+            "restaurant",
+            "menu",
+            "left",
+            "right",
+            "turn_verb",
+            "map",
+            "street",
+            "road",
+            "price",
+            "buy_verb",
+            "straight_adv",
+            "order_verb"
+          ]
+        },
+        "complementary_chunk_ids": [
+          "chunk_how_much_is_it",
+          "chunk_do_you_have",
+          "chunk_how_do_i_get_to",
+          "chunk_go_straight",
+          "chunk_turn_left_right"
+        ]
+      },
+      "grammar_focus": [
+        "review: imperatives, questions, there is/are"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_022",
+        "lesson_023",
+        "lesson_029",
+        "lesson_039",
+        "lesson_044"
+      ],
+      "estimated_minutes": 15
+    },
+    {
+      "id": "lesson_055",
+      "position": 55,
+      "unit_id": 10,
+      "title_form": "Repaso: necesidades cotidianas (parte 2)",
+      "title_target": "Reviewing Everyday Needs (part 2)",
+      "theme_focus": "Repasar síntomas de salud y direcciones en situaciones cotidianas, como continuación especializada de la lección 054.",
+      "can_do_ids": [
+        "everyday_needs"
+      ],
+      "learning_objectives": [
+        "Can describe basic health symptoms and ask for simple help.",
+        "Can review directions and use health vocabulary in simple sentences."
+      ],
+      "vocabulary_focus": {
+        "new_vocabulary": {
+          "lexeme_ids": [],
+          "chunk_ids": []
+        },
+        "complementary_vocabulary": {
+          "lexeme_ids": [
+            "street",
+            "road",
+            "map",
+            "hospital",
+            "doctor",
+            "nurse",
+            "sick_adj",
+            "hurt_verb",
+            "better_adj",
+            "medicine",
+            "headache",
+            "left",
+            "right",
+            "turn_verb",
+            "straight_adv",
+            "near_prep",
+            "price",
+            "cost_verb",
+            "head",
+            "body"
+          ]
+        },
+        "complementary_chunk_ids": [
+          "chunk_how_do_i_get_to",
+          "chunk_go_straight",
+          "chunk_turn_left_right",
+          "chunk_i_have_a_headache",
+          "chunk_i_dont_feel_well"
+        ]
+      },
+      "grammar_focus": [
+        "review: imperatives, questions, there is/are"
+      ],
+      "grammar_ids": [
+        "present_simple",
+        "basic_questions"
+      ],
+      "functional_domain_ids": [
+        "everyday_needs"
+      ],
+      "prerequisites": [
+        "lesson_054"
+      ],
+      "estimated_minutes": 15
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-08-20T05:05:53Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "mode": "full",
+    "level_spec": "CEFR_A1.md",
+    "schema_version": 2,
+    "approved_at": "2026-08-24T01:37:49Z",
+    "fingerprints": {
+      "roadmap": "8bfd716a7599194dcfa6e799e30ff6bf292058fe1f23d7313a3846d402482414",
+      "contract": "9159b029c1e4616b5f70a3908d1873c2c7a81a6ea425090d987ec9f1db4c2067",
+      "profile": "32ae94831444973c1ed3c44e96248c4861d456695dae9b61e50891254c1935f7",
+      "spec": "e486599f633e11d0d8278fde862b8463c59651ef096bc256067b6f441eb0cfe1",
+      "lexemes": "04a033625aba22e62614ed9a679670107b60522142643ad5c4519219fd2a8924",
+      "chunks": "2e03c55374c929fcbc6e4b05df6c8caf22f42f632b7169732437a42304f10a31"
+    }
+  }
+}

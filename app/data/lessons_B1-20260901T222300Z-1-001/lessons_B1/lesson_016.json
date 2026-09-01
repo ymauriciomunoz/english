@@ -1,0 +1,1507 @@
+{
+  "id": "lesson_016",
+  "position": 16,
+  "unit_id": 6,
+  "course_id": "en.B1",
+  "title_form": "Resumir un mensaje",
+  "title_target": "Summarising a message",
+  "theme_focus": "news and media",
+  "learning_objectives": [
+    "Can understand the main points of a clear message and report its essential information."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_015"
+  ],
+  "grammar_focus": [
+    "Reported statements with said, told and explained."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "education",
+        "message",
+        "say_verb",
+        "tell_verb",
+        "explain_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "message",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the news and media situation."
+      },
+      {
+        "term": "event",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the news and media situation."
+      },
+      {
+        "term": "said that",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "reported that",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "told someone that",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "explained that",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "En esta lección acompañarás a David en su trabajo en una estación de radio local. Su tarea es escuchar mensajes oficiales sobre eventos comunitarios y educativos para luego transmitir un resumen claro a los oyentes. Aprenderás a reportar lo que los organizadores dijeron o explicaron de forma precisa.",
+  "introduction_md": "En la vida diaria y en los medios de comunicación, constantemente escuchamos avisos, noticias y mensajes públicos. Poder resumir un mensaje y transmitir la información principal a otras personas es una habilidad clave en el nivel B1.\n\nEn esta lección aprenderás a:\n- Reportar declaraciones usando estructuras como *said that*, *told us that* y *explained that*.\n- Resumir los puntos clave de un mensaje público o un evento educativo (*message* / *event*).\n- Mantener las relaciones temporales al resumir lo que otra persona dijo.\n\nCon estos recursos podrás explicar fácilmente lo que escuchaste en una conferencia, un aviso de transporte o un boletín de noticias sin necesidad de repetir cada palabra exactamente. ¡Empecemos a practicar!",
+  "intro_target": "In daily life and media, we constantly hear notices, news, and public messages. Being able to summarise a message and pass on its main information to other people is a key B1 skill.\n\nIn this lesson, you will learn how to:\n- Report statements using structures like *said that*, *told us that*, and *explained that*.\n- Summarise key points from a public message or educational event.\n- Keep the time relationships clear when you report what someone said.\n\nWith these tools, you will easily explain what you heard in a presentation, a transit notice, or a news bulletin without repeating every word exactly. Let us get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "say_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The teacher said that the main event about education would start that weekend.",
+      "translation_form": "El profesor dijo que el evento principal sobre educación comenzaría ese fin de semana.",
+      "highlight_words": [
+        "said",
+        "event",
+        "education"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She told me that the company planned a big event for adult education.",
+      "translation_form": "Ella me dijo que la compañía planeó un gran evento para la educación de adultos.",
+      "highlight_words": [
+        "told",
+        "event",
+        "education"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The manager explained that the team had planned a major event for the university and reported that the students would attend.",
+      "translation_form": "El gerente explicó que el equipo había planeado un evento importante para la universidad e informó que los estudiantes asistirían.",
+      "highlight_words": [
+        "explained",
+        "event",
+        "reported that"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "say_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The teacher said that the competition would end that night.",
+      "translation_form": "El profesor dijo que la competición terminaría esa noche.",
+      "highlight_words": [
+        "said",
+        "competition"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Reported statements with said, told and explained.",
+      "title_form": "Estilo indirecto con said, told y explained",
+      "title_target": "Reported statements with said, told and explained",
+      "description_md_form": "Para reportar lo que alguien dijo o explicó en el estilo indirecto (*reported speech*), utilizamos principalmente tres verbos de reporte: **said**, **told** y **explained**.\n\nCada uno sigue una estructura específica:\n\n- **said (that)**: Se utiliza para reportar un mensaje sin mencionar directamente a la persona que escucha.\n- **told + persona + (that)**: Requiere siempre indicar el objeto indirecto (a quién se le habla) justo después del verbo.\n- **explained (that)**: Se emplea para presentar razones o aclarar detalles sobre una situación.\n\nCuando el verbo de reporte está en pasado, normalmente hacemos *backshift*: el presente pasa a pasado, **will** pasa a **would** y un pasado anterior puede pasar a **past perfect**. Mantenemos el presente o el futuro solo si el hecho sigue siendo válido o está pendiente, y debemos dejar claro el anclaje temporal. La conjunción **that** es opcional en la comunicación cotidiana.",
+      "description_md_target": "To report what someone said or explained in reported speech, we mainly use three reporting verbs: **said**, **told**, and **explained**.\n\nEach verb follows a specific structure:\n\n- **said (that)**: Used to report information without mentioning the listener directly.\n- **told + person + (that)**: Always requires an indirect object (the listener) right after the verb.\n- **explained (that)**: Used to clarify details or give explanations about a situation.\n\nWhen the reporting verb is in the past, we normally use *backshift*: present becomes past, **will** becomes **would**, and an earlier past event may become **past perfect**. Keep the present or future only when the fact is still valid or pending, and make the time anchor clear. The conjunction **that** is optional in informal communication.",
+      "grammar_structure": "Subject + said / told + (person) / explained + (that) + reported clause",
+      "conjugation_table": {
+        "name": "reporting_verbs_usage",
+        "headers": [
+          "Verbo",
+          "Estructura requerida",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "said",
+            "said + (that) + cláusula",
+            "She said that the event would start that weekend."
+          ],
+          [
+            "told",
+            "told + persona + (that) + cláusula",
+            "She told me that the company planned an event."
+          ],
+          [
+            "explained",
+            "explained + (that) + cláusula",
+            "The manager explained that they had planned an event."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Reported statements with said, told and explained.",
+          "text_target": "She told me that the company planned a big event for adult education.",
+          "translation_form": "Ella me dijo que la compañía planeó un gran evento para la educación de adultos.",
+          "highlight_words": [
+            "told",
+            "me",
+            "that"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Reported statements with said, told and explained.",
+          "text_target": "The manager explained that the team had planned a major event for the university.",
+          "translation_form": "El gerente explicó que el equipo había planeado un evento importante para la universidad.",
+          "highlight_words": [
+            "explained",
+            "that"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "No agregues una persona directamente después de **said** (*She said me...* ✗). Si mencionas al oyente, usa **told** (*She told me...* ✓)."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'said me' en lugar de 'told me'.",
+        "Omitir el objeto indirecto (persona) inmediatamente después del verbo 'told'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'say' en una oración de estilo indirecto?",
+      "options": [
+        "Decir",
+        "Aceptar",
+        "Aprender",
+        "Responder"
+      ],
+      "correct_answer": "Decir",
+      "explanation_md": "'Say' significa decir y se usa para introducir un mensaje sin mencionar directamente al receptor.",
+      "related_lexeme_ids": [
+        "say_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra o expresión con su significado correspondiente:",
+      "options": [
+        "say",
+        "decir",
+        "said that",
+        "dijo que",
+        "explained that",
+        "explicó que",
+        "event",
+        "evento"
+      ],
+      "correct_answer": [
+        "say=decir",
+        "said that=dijo que",
+        "explained that=explicó que",
+        "event=evento"
+      ],
+      "explanation_md": "Relacionamos cada verbo de reporte y sustantivo con su traducción exacta al español.",
+      "related_lexeme_ids": [
+        "say_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la opción correcta para completar la oración en estilo indirecto:\n\nThe manager ____ that the office would close early that day.",
+      "options": [
+        "said",
+        "arrived",
+        "accepted",
+        "answered"
+      ],
+      "correct_answer": "said",
+      "explanation_md": "'Said' introduce el mensaje reportado y 'would close' mantiene el futuro visto desde un momento pasado.",
+      "related_lexeme_ids": [
+        "say_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la conjunción correcta para introducir la información reportada:\n\nThe teacher told us ____ the event was cancelled.",
+      "options": null,
+      "correct_answer": "that",
+      "explanation_md": "Usamos 'that' después de verbos como 'told' o 'said' para estructurar el estilo indirecto.",
+      "related_lexeme_ids": [
+        "tell_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce la siguiente oración al inglés manteniendo el *backshift*:\n'Ella explicó que la clase sobre educación comenzaría al día siguiente.'",
+      "options": null,
+      "correct_answer": "She explained that the education class would start the following day.",
+      "explanation_md": "Después de 'explained' en pasado, 'would start' mantiene el futuro visto desde ese momento y 'the following day' conserva el anclaje temporal.",
+      "related_lexeme_ids": [
+        "explain_verb",
+        "education"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": "She explained that the education class would start the following day."
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce la siguiente oración al español:\n'The reporter said that the event was a success.'",
+      "options": null,
+      "correct_answer": "El reportero dijo que el evento fue un éxito.",
+      "explanation_md": "'The reporter said that...' se traduce como 'El reportero dijo que...'.",
+      "related_lexeme_ids": [
+        "say_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el siguiente audio y responde a la pregunta:\n¿Qué explicó el profesor?",
+      "options": [
+        "Explicó que el proyecto sobre educación comenzaría el viernes siguiente.",
+        "Explicó que la clase de educación se había cancelado definitivamente.",
+        "Explicó que habría un examen de historia al día siguiente."
+      ],
+      "correct_answer": "Explicó que el proyecto sobre educación comenzaría el viernes siguiente.",
+      "explanation_md": "En el audio, el profesor explica: 'The teacher explained that our class project about education would start the following Friday'.",
+      "related_lexeme_ids": [
+        "explain_verb",
+        "education"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "The teacher explained that our class project about education would start the following Friday. She told us that we had to complete our work on time.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el siguiente texto y responde a la pregunta:\n¿En qué se centrará la reunión según explicó la gerente?",
+      "options": [
+        "En la educación de adultos y nuevas habilidades para el equipo.",
+        "En la cancelación de los eventos de la compañía.",
+        "En la contratación de nuevos empleados para el salón principal."
+      ],
+      "correct_answer": "En la educación de adultos y nuevas habilidades para el equipo.",
+      "explanation_md": "El texto indica expresamente: 'The manager explained that the meeting would focus on adult education and new skills for the team'.",
+      "related_lexeme_ids": [
+        "explain_verb",
+        "tell_verb",
+        "education"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Yesterday, the company sent a message about an important event for all employees. The manager explained that the meeting would focus on adult education and new skills for the team. She also told us that the event would take place in the main hall the following week.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Escribe la forma en pasado del verbo 'say' y aplica el *backshift*:\n\nThey ____ that the new university program would start in August.",
+      "options": null,
+      "correct_answer": "said",
+      "explanation_md": "La forma en pasado de 'say' es 'said'; 'would start' expresa el futuro visto desde el momento pasado del reporte.",
+      "related_lexeme_ids": [
+        "say_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "free_production",
+      "prompt_md": "Escribe 1 o 2 oraciones en inglés en las que resumas un mensaje usando 'said that', 'told us that' o 'explained that', con un anclaje temporal claro.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la capacidad de resumir un mensaje utilizando verbos de reporte (said, told, explained) seguidos de 'that' y manteniendo el *backshift* cuando corresponde.",
+      "related_lexeme_ids": [
+        "say_verb",
+        "tell_verb",
+        "explain_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "The teacher said that the test would take place the following week.",
+        "My boss told us that the event would start the next day."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Qué dijo la organizadora sobre el evento? / Read the short story and answer: What did the organiser say about the event?",
+      "options": [
+        "The event would start at six.",
+        "The event had been cancelled.",
+        "The event would move to another city.",
+        "The event started at noon that day."
+      ],
+      "correct_answer": "The event would start at six.",
+      "explanation_md": "La organizadora dijo que el evento comenzaría a las seis: 'said that the event would start at six'. / The organiser said that the event would start at six.",
+      "related_lexeme_ids": [
+        "message",
+        "say_verb",
+        "tell_verb",
+        "explain_verb",
+        "education"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Yesterday, I received a message from the community radio station about an education event. The organiser said that the event would start at six. She told me that volunteers had prepared the room and explained that the main talk would focus on adult education. I later reported the message to my colleague: I said that the talk would start at six and told her that the room was ready.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Qué le dijo el director al narrador sobre los organizadores? / Listen to the short story and answer: What did the director tell the speaker about the organisers?",
+      "options": [
+        "They had prepared a programme for families.",
+        "They would cancel the education workshop.",
+        "They had moved the radio station.",
+        "They would report the news themselves."
+      ],
+      "correct_answer": "They had prepared a programme for families.",
+      "explanation_md": "El director dijo que los organizadores habían preparado un programa para familias. / The director told the speaker that the organisers had prepared a programme for families.",
+      "related_lexeme_ids": [
+        "message",
+        "say_verb",
+        "tell_verb",
+        "explain_verb",
+        "education"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I work at a local radio station. This morning, the director sent me a message. He said that a community event would take place on Saturday. He told me that the organisers had prepared a programme for families. Later, I explained the news to our presenter and said that the programme would include an education workshop. She asked me to report the details during the afternoon show.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "say",
+      "back": "decir",
+      "hint": "verbo para reportar un mensaje",
+      "lexeme_id": "say_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_016",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "education",
+      "back": "educación",
+      "hint": "proceso de enseñanza y aprendizaje",
+      "lexeme_id": "education",
+      "chunk_id": null,
+      "tags": [
+        "lesson_016",
+        "B1",
+        "education"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "tell someone that",
+      "back": "decirle a alguien que",
+      "hint": "reportar información a un receptor",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_016",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "higher education",
+      "back": "educación superior",
+      "hint": "estudios universitarios",
+      "lexeme_id": "education",
+      "chunk_id": null,
+      "tags": [
+        "lesson_016",
+        "B1",
+        "education"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "explained",
+      "back": "explicó",
+      "hint": "forma de reporte para aclarar detalles",
+      "lexeme_id": "explain_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_016",
+        "B1",
+        "communication"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "message",
+      "reading": "",
+      "translation": "mensaje",
+      "pos": "noun",
+      "example": "The teacher sent a message about the main event.",
+      "example_translation": "El profesor envió un mensaje sobre el evento principal.",
+      "lexeme_id": "message",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "message",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "mensaje",
+      "lexeme_id": "message",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "event",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "evento",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_002",
+        "exm_003",
+        "Reported statements with said, told and explained.",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "said that",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "Reported statements with said, told and explained.",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "reported that",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "told someone that",
+      "role": "grammar_support",
+      "status": "planned",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": []
+    },
+    {
+      "term": "explained that",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "Reported statements with said, told and explained.",
+        "ex_005",
+        "ex_007",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "announce",
+      "role": "support",
+      "status": "planned",
+      "translation": "anunciar / declarar / notificar",
+      "lexeme_id": "announce",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": []
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "review",
+      "translation": "leer / decir / alegar",
+      "lexeme_id": "say_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_001",
+        "ex_002",
+        "ex_003",
+        "ex_006",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "tell",
+      "role": "support",
+      "status": "review",
+      "translation": "decir / contar",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_004",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "education",
+      "role": "support",
+      "status": "review",
+      "translation": "educación",
+      "lexeme_id": "education",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_005",
+        "ex_007",
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "fc_002",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "support",
+      "status": "review",
+      "translation": "explicar",
+      "lexeme_id": "explain_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_005",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_007",
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "adult",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mayor / adulta / adulto",
+      "lexeme_id": "adult",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "company",
+      "role": "support",
+      "status": "emergent",
+      "translation": "empresa / compañía",
+      "lexeme_id": "company",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "attend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "asistir",
+      "lexeme_id": "attend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "university",
+      "role": "support",
+      "status": "emergent",
+      "translation": "universidad",
+      "lexeme_id": "university",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "night",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noche",
+      "lexeme_id": "night",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "major",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mayor / principal",
+      "lexeme_id": "major_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "higher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más alto",
+      "lexeme_id": "higher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_004"
+      ]
+    },
+    {
+      "term": "competition",
+      "role": "support",
+      "status": "emergent",
+      "translation": "competición",
+      "lexeme_id": "competition",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "statement",
+      "role": "support",
+      "status": "emergent",
+      "translation": "declaración",
+      "lexeme_id": "statement",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "follow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "seguir",
+      "lexeme_id": "follow_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_005",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_005",
+        "ex_010",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_002",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "place",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lugar",
+      "lexeme_id": "place",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_002",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "radio",
+      "role": "support",
+      "status": "emergent",
+      "translation": "radio",
+      "lexeme_id": "radio",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "room",
+      "role": "support",
+      "status": "emergent",
+      "translation": "habitación / cuarto",
+      "lexeme_id": "room",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "later",
+      "role": "support",
+      "status": "emergent",
+      "translation": "luego / más tarde",
+      "lexeme_id": "later_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 4,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "teacher",
+      "main",
+      "manager",
+      "adult",
+      "say",
+      "student",
+      "company",
+      "team",
+      "attend",
+      "big",
+      "university",
+      "night",
+      "major",
+      "weekend",
+      "higher",
+      "competition",
+      "statement",
+      "follow",
+      "take",
+      "yesterday",
+      "day",
+      "meet",
+      "place",
+      "meeting",
+      "radio",
+      "time",
+      "work",
+      "room",
+      "later",
+      "talk",
+      "week",
+      "school"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Resumir un mensaje",
+      "title_target": "Quiz: Summarising a message",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Qué explicó la profesora según el mensaje leído?",
+          "prompt_target": null,
+          "options": [
+            "Que el examen se había aplazado para el lunes siguiente.",
+            "Que el examen quedaba cancelado definitivamente.",
+            "Que el examen se realizaba ese mismo día.",
+            "Que no habría más tiempo de estudio."
+          ],
+          "correct_answer": "Que el examen se había aplazado para el lunes siguiente.",
+          "explanation_form": "En el texto, la profesora explicó que el examen se había aplazado y que la prueba sería el lunes siguiente ('the test would be the following Monday').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported statements with said, told and explained.",
+            "education"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "The school sent an important message yesterday. The teacher said that the English exam had been delayed. She told the students that the test would be the following Monday. She also explained that the school had decided to give them extra study time. Everybody listened carefully to the message.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué dijo el gerente que había programado para el día siguiente?",
+          "prompt_target": null,
+          "options": [
+            "Una nueva reunión sobre la seguridad en la oficina.",
+            "Un viaje de trabajo para todo el equipo.",
+            "Un cambio de horario a partir de la próxima semana.",
+            "Una fiesta para celebrar los resultados del mes."
+          ],
+          "correct_answer": "Una nueva reunión sobre la seguridad en la oficina.",
+          "explanation_form": "El audio indica que el gerente dijo que había programado una nueva reunión para el día siguiente ('had scheduled a new meeting for the next day') sobre la seguridad en la oficina.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "message",
+            "Reported statements with said, told and explained."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "The manager said that he had scheduled a new meeting for the next day. He told us that all workers had to attend. He explained that the main topic was office safety.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué regla explicó la guía durante la visita?",
+          "prompt_target": null,
+          "options": [
+            "Que todos debían mantenerse juntos y que se permitían fotos.",
+            "Que estaba estrictamente prohibido tomar fotografías.",
+            "Que el recorrido terminaría antes del mediodía.",
+            "Que las personas podían separarse libremente."
+          ],
+          "correct_answer": "Que todos debían mantenerse juntos y que se permitían fotos.",
+          "explanation_form": "La guía explicó que se permitía tomar fotos ('taking photos was allowed') y que todos debían permanecer juntos ('everybody had to stay together').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported statements with said, told and explained."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The guide explained the rules of the tour. She told the group that taking photos was allowed. She said that everybody had to stay together during the visit.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase en estilo indirecto con la palabra adecuada: 'He ____ that the course was difficult.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "said",
+          "explanation_form": "Usamos 'said' cuando no mencionamos directamente a la persona a la que se le habla (sin objeto indirecto).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported statements with said, told and explained.",
+            "education"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la oración con la forma correcta del verbo: 'She ____ us about the new schedule.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "told",
+          "explanation_form": "Usamos 'told' cuando indicamos a quién se dirige el mensaje (en este caso, 'us').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported statements with said, told and explained."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración correcta en estilo indirecto:",
+          "prompt_target": null,
+          "options": [
+            "The",
+            "teacher",
+            "explained",
+            "that",
+            "the",
+            "lesson",
+            "was",
+            "important."
+          ],
+          "correct_answer": "The teacher explained that the lesson was important.",
+          "explanation_form": "La estructura del estilo indirecto sigue el orden: Sujeto + verbo de reporte (explained) + that + oración reportada.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reported statements with said, told and explained.",
+            "education"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo de reporte con la función o uso que le corresponde:",
+          "prompt_target": null,
+          "options": [
+            "said",
+            "para transmitir un mensaje sin mencionar directamente al receptor",
+            "explained",
+            "para dar motivos, razones o aclarar detalles",
+            "told",
+            "para señalar que se dijo algo a una persona específica"
+          ],
+          "correct_answer": [
+            "said=para transmitir un mensaje sin mencionar directamente al receptor",
+            "explained=para dar motivos, razones o aclarar detalles",
+            "told=para señalar que se dijo algo a una persona específica"
+          ],
+          "explanation_form": "'Said' transmite un mensaje sin objeto indirecto, 'explain' aclara razones o detalles y 'told' requiere señalar a la persona que recibe la información.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "say_verb",
+            "Reported statements with said, told and explained."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué verbo se usa para introducir un mensaje reportado sin mencionar al receptor?",
+          "prompt_target": "Which verb introduces a reported message without naming the listener?",
+          "options": [
+            "say",
+            "tell",
+            "explain",
+            "ask"
+          ],
+          "correct_answer": "say",
+          "explanation_form": "Usamos 'say' para introducir un mensaje reportado sin mencionar directamente al receptor; 'tell' requiere una persona después del verbo.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "say_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Qué explicó la coordinadora?",
+          "prompt_target": "Read the story and answer: What did the coordinator explain?",
+          "options": [
+            "People should enter through the side door.",
+            "The workshop would begin at midnight.",
+            "The meeting had been cancelled for a month.",
+            "The school would close the education room."
+          ],
+          "correct_answer": "People should enter through the side door.",
+          "explanation_form": "La coordinadora explicó que debíamos entrar por la puerta lateral. / The coordinator explained that people should enter through the side door.",
+          "explanation_target": "The coordinator explained that people should enter through the side door.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "Reported statements with said, told and explained.",
+            "message"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I attended a short education meeting yesterday. The coordinator said that the workshop would begin at nine. She told us that the room had changed, and she explained that we should enter through the side door. I wrote the message for our school newsletter.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Qué dijo la organizadora sobre la charla?",
+          "prompt_target": "Listen to the story and answer: What did the organiser say about the talk?",
+          "options": [
+            "It would start at seven.",
+            "It had already finished.",
+            "It would take place on Sunday morning.",
+            "It was cancelled by the radio station."
+          ],
+          "correct_answer": "It would start at seven.",
+          "explanation_form": "La organizadora dijo que la charla comenzaría a las siete. / The organiser said that the talk would start at seven.",
+          "explanation_target": "The organiser said that the talk would start at seven.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "Reported statements with said, told and explained.",
+            "message"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I called the event organiser after hearing a change on the radio. She said that the evening talk would start at seven. She told me that the speaker had arrived early and explained that the doors would open at six thirty. I reported the details to my colleague.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Estructura del discurso indirecto: \"said\", \"told\" y \"explained\"\n\nAl reportar mensajes o noticias en inglés, la elección entre *said*, *told* y *explained* depende de cómo organizas la oración:\n\n- **Said**: Se usa sin mencionar explícitamente al receptor. Ejemplo: *He said that the train was delayed.*\n- **Told**: Siempre requiere un objeto indirecto para indicar a quién se le habla. Ejemplo: *She told us that the train was delayed.*\n- **Explained**: Se utiliza para dar razones o explicaciones detalladas (*explained that...* o *explained to us that...*).\n\n**Error común:** Evita decir *\"He told that...\"*. En inglés siempre debes incluir a la persona que recibe el mensaje (*told me*, *told us*).\n\n## Backshift y anclaje temporal\n\nCuando el verbo de reporte está en pasado, normalmente hacemos *backshift*: *is* pasa a *was*, *will* a *would* y un pasado anterior puede pasar a *had + participio*. Por ejemplo: *The teacher said that the event would start that weekend.* Usa el presente solo cuando el hecho sigue siendo válido y deja claro el momento del mensaje.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:28:39Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

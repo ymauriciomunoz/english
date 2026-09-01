@@ -1,0 +1,1457 @@
+{
+  "id": "lesson_039",
+  "position": 39,
+  "unit_id": 7,
+  "course_id": "en.A1",
+  "title_form": "Síntomas y salud",
+  "title_target": "Describing Symptoms and Health",
+  "theme_focus": "Describir síntomas y problemas de salud comunes.",
+  "learning_objectives": [
+    "Can describe common symptoms using 'I have'.",
+    "Can say where it hurts."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_038"
+  ],
+  "grammar_focus": [
+    "have: affirmative with symptoms (I have a headache)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "sick_adj",
+        "hurt_verb",
+        "better_adj",
+        "well_adv",
+        "feel_verb",
+        "cold_adj",
+        "headache"
+      ],
+      "chunk_ids": [
+        "chunk_i_have_a_headache",
+        "chunk_where_does_it_hurt",
+        "chunk_i_need_a_doctor"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "head",
+        "back",
+        "tooth",
+        "feet",
+        "body",
+        "doctor",
+        "hospital",
+        "sleep_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tom está en su casa y no se siente bien. Llama a su amiga Ana para decirle que está enfermo. Ana le pregunta dónde le duele y Tom le explica sus síntomas. Al final, Tom decide que necesita ver a un doctor.",
+  "introduction_md": "## Síntomas y salud\n\nEn esta lección vas a aprender a describir cómo te sientes cuando estás enfermo. Es muy útil para ir al doctor o para hablar con amigos.\n\nVas a practicar:\n\n- Decir **I have a headache** (tengo dolor de cabeza).\n- Preguntar **Where does it hurt?** (¿dónde te duele?).\n- Decir **I need a doctor** (necesito un doctor).\n\nCon estas frases, podrás explicar tus síntomas y entender a los demás. ¡Vamos a empezar!",
+  "intro_target": "## Symptoms and Health\n\nIn this lesson, you will learn to describe how you feel when you are sick. It is very useful for going to the doctor or for talking with friends.\n\nYou will practice:\n\n- Saying **I have a headache**.\n- Asking **Where does it hurt?**.\n- Saying **I need a doctor**.\n\nWith these phrases, you can explain your symptoms and understand others. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "sick_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I feel sick today.",
+      "translation_form": "Me siento enfermo hoy.",
+      "highlight_words": [
+        "feel",
+        "sick"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "hurt_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My head hurts.",
+      "translation_form": "Me duele la cabeza.",
+      "highlight_words": [
+        "hurt"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "cold_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I feel cold and sick.",
+      "translation_form": "Siento frío y estoy enfermo.",
+      "highlight_words": [
+        "feel",
+        "cold",
+        "sick"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I feel better now, thank you.",
+      "translation_form": "Me siento mejor ahora, gracias.",
+      "highlight_words": [
+        "feel",
+        "better"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": "chunk_where_does_it_hurt",
+      "grammar_slug": null,
+      "text_target": "Where does it hurt?",
+      "translation_form": "¿Dónde te duele?",
+      "highlight_words": [
+        "hurt"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "have: affirmative with symptoms (I have a headache)",
+      "title_form": "Have para síntomas: I have a headache",
+      "title_target": "Have for symptoms: I have a headache",
+      "description_md_form": "Para decir que tienes un síntoma, usa **have** (tener) + el síntoma. Es una forma fija y muy común en inglés.\n\n- **I have** a headache. = Tengo dolor de cabeza.\n- **I have** a cold. = Tengo frío (resfriado).\n\n**Importante:** en inglés no se dice *I am headache*. Usa **have**, no **be**. La estructura es simple:\n\n**I have + síntoma**\n\nCon otras personas: **you have**, **he/she has**. Para A1, practica con **I have** y **you have**.",
+      "description_md_target": "To say you have a symptom, use **have** + the symptom. It is a fixed and very common form in English.\n\n- **I have** a headache. = I have a headache.\n- **I have** a cold. = I have a cold.\n\n**Important:** in English we do not say *I am headache*. Use **have**, not **be**. The structure is simple:\n\n**I have + symptom**\n\nWith other people: **you have**, **he/she has**. For A1, practice with **I have** and **you have**.",
+      "grammar_structure": "Subject + have + symptom",
+      "conjugation_table": {
+        "name": "present_simple_have",
+        "headers": [
+          "Pronombre",
+          "Forma",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "have",
+            "I have a headache."
+          ],
+          [
+            "You",
+            "have",
+            "You have a cold."
+          ],
+          [
+            "He/She/It",
+            "has",
+            "He has a headache."
+          ],
+          [
+            "We",
+            "have",
+            "We have a cold."
+          ],
+          [
+            "They",
+            "have",
+            "They have a headache."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_i_have_a_headache",
+          "grammar_slug": null,
+          "text_target": "I have a headache.",
+          "translation_form": "Tengo dolor de cabeza.",
+          "highlight_words": [
+            "have",
+            "headache"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "have: affirmative with symptoms (I have a headache)",
+          "text_target": "I have a cold.",
+          "translation_form": "Tengo frío (resfriado).",
+          "highlight_words": [
+            "have",
+            "cold"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas *I am headache*.** En inglés, para síntomas se usa **have**, no **be**. Di **I have a headache**."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda el artículo *a*:** se dice **I have a headache** y **I have a cold**. No lo omitas."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I am headache* en lugar de *I have a headache*.",
+        "Olvidar el artículo *a*: *I have headache* (incorrecto) → *I have a headache* (correcto).",
+        "Confundir *have* con *feel*: *I have a headache* (tener) vs. *I feel sick* (sentirse)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'sick'?",
+      "options": [
+        "enfermo",
+        "cansado",
+        "feliz",
+        "triste"
+      ],
+      "correct_answer": "enfermo",
+      "explanation_md": "'Sick' significa enfermo o con malestar.",
+      "related_lexeme_ids": [
+        "sick_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la palabra 'headache'?",
+      "options": [
+        "dolor de cabeza",
+        "dolor de espalda",
+        "dolor de muela",
+        "dolor de pies"
+      ],
+      "correct_answer": "dolor de cabeza",
+      "explanation_md": "'Headache' es dolor de cabeza.",
+      "related_lexeme_ids": [
+        "headache"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "hurt",
+        "doler",
+        "better",
+        "mejor",
+        "well",
+        "bien",
+        "cold",
+        "frío"
+      ],
+      "correct_answer": [
+        "hurt=doler",
+        "better=mejor",
+        "well=bien",
+        "cold=frío"
+      ],
+      "explanation_md": "Estas son las palabras clave de la lección sobre salud.",
+      "related_lexeme_ids": [
+        "hurt_verb",
+        "better_adj",
+        "well_adv",
+        "cold_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la frase: 'I ___ a headache.'",
+      "options": [
+        "have",
+        "am",
+        "feel",
+        "hurt"
+      ],
+      "correct_answer": "have",
+      "explanation_md": "Usamos 'have' para hablar de síntomas: I have a headache.",
+      "related_lexeme_ids": [
+        "headache"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_have_a_headache"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué pregunta hace el doctor para saber dónde te duele?",
+      "options": [
+        "Where does it hurt?",
+        "What is your name?",
+        "How are you?",
+        "Do you feel cold?"
+      ],
+      "correct_answer": "Where does it hurt?",
+      "explanation_md": "El doctor pregunta 'Where does it hurt?' para saber la ubicación del dolor.",
+      "related_lexeme_ids": [
+        "hurt_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_where_does_it_hurt"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase con la palabra correcta: 'I feel ___ now, thank you.' (mejor)",
+      "options": null,
+      "correct_answer": "better",
+      "explanation_md": "'Better' significa mejor.",
+      "related_lexeme_ids": [
+        "better_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase con la palabra correcta: 'My head ___.' (duele)",
+      "options": null,
+      "correct_answer": "hurts",
+      "explanation_md": "Usamos 'hurt' para hablar de dolor: My head hurts.",
+      "related_lexeme_ids": [
+        "hurt_verb",
+        "head"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Me siento enfermo hoy.'",
+      "options": null,
+      "correct_answer": "I feel sick today.",
+      "explanation_md": "Usamos 'feel' + adjetivo para hablar de cómo nos sentimos.",
+      "related_lexeme_ids": [
+        "feel_verb",
+        "sick_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I need a doctor.'",
+      "options": null,
+      "correct_answer": "Necesito un doctor.",
+      "explanation_md": "Usamos 'need' para expresar necesidad.",
+      "related_lexeme_ids": [
+        "doctor"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_need_a_doctor"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿qué tiene Ana?",
+      "options": null,
+      "correct_answer": "She has a headache.",
+      "explanation_md": "El texto dice que Ana tiene dolor de cabeza.",
+      "related_lexeme_ids": [
+        "sick_adj",
+        "headache",
+        "cold_adj",
+        "hurt_verb",
+        "head"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_have_a_headache",
+        "chunk_i_need_a_doctor",
+        "chunk_where_does_it_hurt"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is at home today. She feels sick. She has a headache and she feels cold. She says, 'I need a doctor.' Her mother calls the doctor. The doctor asks, 'Where does it hurt?' Ana says, 'My head hurts.'",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿cómo se siente Tom?",
+      "options": [
+        "He feels sick.",
+        "He feels better.",
+        "He feels cold.",
+        "He feels well."
+      ],
+      "correct_answer": "He feels sick.",
+      "explanation_md": "El audio dice que Tom se siente enfermo.",
+      "related_lexeme_ids": [
+        "sick_adj",
+        "feel_verb",
+        "headache"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_need_a_doctor"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom is at home. He feels sick today. He has a headache. He says, 'I need a doctor.' His friend calls the doctor.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre cómo te sientes hoy. Usa 'I feel...' o 'I have a...'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'feel' + adjetivo y 'have' + síntoma.",
+      "related_lexeme_ids": [
+        "feel_verb",
+        "sick_adj",
+        "well_adv",
+        "cold_adj",
+        "headache"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_have_a_headache"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I feel well today.",
+        "I have a headache.",
+        "I feel sick and cold."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "sick",
+      "back": "enfermo",
+      "hint": "se usa para describir a una persona que no está bien",
+      "lexeme_id": "sick_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "hurt",
+      "back": "doler / herir",
+      "hint": "se usa para hablar de dolor en el cuerpo",
+      "lexeme_id": "hurt_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "better",
+      "back": "mejor",
+      "hint": "se usa para decir que alguien ya no está enfermo",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "well",
+      "back": "bien",
+      "hint": "se usa para decir que alguien está sano",
+      "lexeme_id": "well_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "feel",
+      "back": "sentir",
+      "hint": "se usa para hablar de cómo está una persona",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "cold",
+      "back": "frío",
+      "hint": "se usa para hablar de la temperatura o de una enfermedad",
+      "lexeme_id": "cold_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "headache",
+      "back": "dolor de cabeza",
+      "hint": "se usa para hablar de un dolor en la cabeza",
+      "lexeme_id": "headache",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "I have a headache.",
+      "back": "Tengo dolor de cabeza.",
+      "hint": "frase completa para decir que te duele la cabeza",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_have_a_headache",
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "Where does it hurt?",
+      "back": "¿Dónde duele?",
+      "hint": "pregunta que hace el doctor",
+      "lexeme_id": null,
+      "chunk_id": "chunk_where_does_it_hurt",
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "I need a doctor.",
+      "back": "Necesito un médico.",
+      "hint": "frase para pedir ayuda médica",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_need_a_doctor",
+      "target_term": null,
+      "tags": [
+        "lesson_039",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "sick",
+      "reading": "",
+      "translation": "enfermo",
+      "pos": "adjective",
+      "example": "I feel sick today.",
+      "example_translation": "Me siento enfermo hoy.",
+      "lexeme_id": "sick_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hurt",
+      "reading": "",
+      "translation": "doler / herir",
+      "pos": "verb",
+      "example": "My head hurts.",
+      "example_translation": "Me duele la cabeza.",
+      "lexeme_id": "hurt_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "better",
+      "reading": "",
+      "translation": "mejor",
+      "pos": "adjective",
+      "example": "I feel better now, thank you.",
+      "example_translation": "Me siento mejor ahora, gracias.",
+      "lexeme_id": "better_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "well",
+      "reading": "",
+      "translation": "bien",
+      "pos": "adverb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "well_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "feel",
+      "reading": "",
+      "translation": "sentir",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cold",
+      "reading": "",
+      "translation": "frío",
+      "pos": "adjective",
+      "example": "I feel cold and sick.",
+      "example_translation": "Siento frío y estoy enfermo.",
+      "lexeme_id": "cold_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "headache",
+      "reading": "",
+      "translation": "dolor de cabeza",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "headache",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I have a headache.",
+      "reading": "",
+      "translation": "Tengo dolor de cabeza.",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_have_a_headache"
+    },
+    {
+      "target_word": "Where does it hurt?",
+      "reading": "",
+      "translation": "¿Dónde duele?",
+      "pos": "chunk",
+      "example": "Where does it hurt?",
+      "example_translation": "¿Dónde te duele?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_where_does_it_hurt"
+    },
+    {
+      "target_word": "I need a doctor.",
+      "reading": "",
+      "translation": "Necesito un médico.",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_need_a_doctor"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "sick",
+      "role": "support",
+      "status": "practiced",
+      "translation": "enfermo",
+      "lexeme_id": "sick_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "hurt",
+      "role": "support",
+      "status": "practiced",
+      "translation": "doler / herir",
+      "lexeme_id": "hurt_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_005",
+        "ex_007",
+        "ex_010",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "better",
+      "role": "support",
+      "status": "practiced",
+      "translation": "mejor",
+      "lexeme_id": "better_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_006",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "well",
+      "role": "support",
+      "status": "practiced",
+      "translation": "bien",
+      "lexeme_id": "well_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "feel",
+      "role": "support",
+      "status": "practiced",
+      "translation": "sentir",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "cold",
+      "role": "support",
+      "status": "practiced",
+      "translation": "frío",
+      "lexeme_id": "cold_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_010",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "headache",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dolor de cabeza",
+      "lexeme_id": "headache",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_004",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "I have a headache.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Tengo dolor de cabeza.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_have_a_headache",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_010",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "Where does it hurt?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Dónde duele?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_where_does_it_hurt",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_005",
+        "ex_010",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "I need a doctor.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Necesito un médico.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_need_a_doctor",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "head",
+      "role": "support",
+      "status": "review",
+      "translation": "cabeza",
+      "lexeme_id": "head",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "fc_010",
+        "quiz_001:q_004",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "fc_010",
+        "quiz_001:q_004",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "well",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "fc_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "feel sick",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sentirse mal",
+      "lexeme_id": "feel_sick_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_012",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "thank you",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gracias",
+      "lexeme_id": "thank_you_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "thank",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agradecer",
+      "lexeme_id": "thank_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "say",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "back",
+      "role": "support",
+      "status": "emergent",
+      "translation": "espalda",
+      "lexeme_id": "back",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "pain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dolor",
+      "lexeme_id": "pain",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "way",
+      "role": "support",
+      "status": "emergent",
+      "translation": "manera / camino",
+      "lexeme_id": "way",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 10,
+    "review_support_count": 1,
+    "emergent_count": 17,
+    "emergent_terms": [
+      "doctor",
+      "today",
+      "need",
+      "well",
+      "feel sick",
+      "now",
+      "thank you",
+      "thank",
+      "ask",
+      "home",
+      "call",
+      "person",
+      "say",
+      "back",
+      "friend",
+      "pain",
+      "way"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Síntomas y salud",
+      "title_target": "Quiz: Describing Symptoms and Health",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa la frase 'I have a headache'?",
+          "prompt_target": "What does the phrase 'I have a headache' mean?",
+          "options": [
+            "Tengo dolor de cabeza",
+            "Tengo hambre",
+            "Estoy feliz",
+            "Necesito dormir"
+          ],
+          "correct_answer": "Tengo dolor de cabeza",
+          "explanation_form": "'Headache' significa dolor de cabeza. 'I have a headache' es la forma natural de decirlo.",
+          "explanation_target": "'Headache' means head pain. 'I have a headache' is the natural way to say it.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "headache",
+            "chunk_i_have_a_headache"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'My back ____' (Me duele la espalda).",
+          "prompt_target": "Complete the sentence: 'My back ____' (My back hurts).",
+          "options": null,
+          "correct_answer": "hurts",
+          "explanation_form": "Con 'hurt' (doler), usamos 'hurts' para tercera persona singular (he, she, it). 'My back hurts' = Me duele la espalda.",
+          "explanation_target": "With 'hurt', we use 'hurts' for third person singular (he, she, it). 'My back hurts' = My back hurts.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "hurt_verb",
+            "back"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "does",
+            "it",
+            "Where",
+            "hurt",
+            "?"
+          ],
+          "correct_answer": "Where does it hurt?",
+          "explanation_form": "La pregunta 'Where does it hurt?' significa '¿Dónde te duele?'. Es la forma natural de preguntar por la ubicación del dolor.",
+          "explanation_target": "The question 'Where does it hurt?' means 'Where does it hurt?'. It's the natural way to ask about the location of pain.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_where_does_it_hurt",
+            "hurt_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué dice la persona?",
+          "prompt_target": "Listen and answer: What does the person say?",
+          "options": [
+            "Necesita un doctor",
+            "Está feliz",
+            "Quiere comer",
+            "Necesita dormir"
+          ],
+          "correct_answer": "Necesita un doctor",
+          "explanation_form": "La persona dice 'I need a doctor' (Necesito un doctor) porque se siente enferma y le duele la cabeza.",
+          "explanation_target": "The person says 'I need a doctor' because they feel sick and their head hurts.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sick_adj",
+            "chunk_i_need_a_doctor",
+            "doctor"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I feel sick today. My head hurts. I need a doctor. Can you help me?",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la respuesta correcta a 'How do you feel?'",
+          "prompt_target": "What is the correct answer to 'How do you feel?'",
+          "options": [
+            "I feel better, thank you",
+            "I am a doctor",
+            "I have a book",
+            "I feel the table"
+          ],
+          "correct_answer": "I feel better, thank you",
+          "explanation_form": "'How do you feel?' pregunta cómo te sientes. 'I feel better' (Me siento mejor) es una respuesta natural.",
+          "explanation_target": "'How do you feel?' asks how you feel. 'I feel better' is a natural response.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "feel_verb",
+            "better_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'I have a ____' (Tengo un resfriado).",
+          "prompt_target": "Complete: 'I have a ____' (I have a cold).",
+          "options": null,
+          "correct_answer": "cold",
+          "explanation_form": "'Cold' como sustantivo significa resfriado. 'I have a cold' = Tengo un resfriado.",
+          "explanation_target": "'Cold' as a noun means a cold. 'I have a cold' = I have a cold.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cold_adj",
+            "chunk_i_have_a_headache"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traducí al inglés: 'Me siento bien'.",
+          "prompt_target": "Translate to English: 'I feel well'.",
+          "options": null,
+          "correct_answer": "I feel well",
+          "explanation_form": "'Well' como adverbio significa 'bien' cuando hablamos de salud. 'I feel well' = Me siento bien.",
+          "explanation_target": "'Well' as an adverb means 'well' when talking about health. 'I feel well' = I feel well.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "well_adv",
+            "feel_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué le duele a Tom?",
+          "prompt_target": "Read the text and answer: What hurts Tom?",
+          "options": [
+            "Le duele la cabeza y la espalda",
+            "Le duele el pie",
+            "Le duele el diente",
+            "No le duele nada"
+          ],
+          "correct_answer": "Le duele la cabeza y la espalda",
+          "explanation_form": "El texto dice 'His head hurts and his back hurts too' (Le duele la cabeza y también la espalda).",
+          "explanation_target": "The text says 'His head hurts and his back hurts too' (His head hurts and his back hurts too).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "head",
+            "back",
+            "sick_adj",
+            "hurt_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Tom is at home today. He feels sick. His head hurts and his back hurts too. He says, 'I need a doctor.' His friend calls the doctor. The doctor says, 'Rest and drink water.' Tom feels better later.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I feel better now'?",
+          "prompt_target": "What does 'I feel better now' mean?",
+          "options": [
+            "Ahora me siento mejor",
+            "Ahora me siento peor",
+            "Ahora tengo hambre",
+            "Ahora estoy cansado"
+          ],
+          "correct_answer": "Ahora me siento mejor",
+          "explanation_form": "'Better' es el comparativo de 'good' y significa 'mejor'. 'I feel better now' = Ahora me siento mejor.",
+          "explanation_target": "'Better' is the comparative of 'good' and means 'better'. 'I feel better now' = I feel better now.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "better_adj",
+            "feel_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué pregunta hace la persona?",
+          "prompt_target": "Listen and answer: What question does the person ask?",
+          "options": [
+            "¿Dónde te duele?",
+            "¿Cómo te llamas?",
+            "¿Qué hora es?",
+            "¿Dónde está el hospital?"
+          ],
+          "correct_answer": "¿Dónde te duele?",
+          "explanation_form": "La persona pregunta 'Where does it hurt?' que significa '¿Dónde te duele?'.",
+          "explanation_target": "The person asks 'Where does it hurt?' which means 'Where does it hurt?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_where_does_it_hurt",
+            "tooth",
+            "hurt_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "My tooth hurts. Where does it hurt? Can you help me? I need a doctor.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El verbo \"have\" para síntomas\n\nEn inglés, para decir que te duele algo o que estás enfermo, usamos **\"I have\"** + el síntoma. No usamos el verbo \"to be\" (estar). Piensa en ello como \"tengo\" un dolor, no \"estoy\" un dolor.\n\n- **I have a headache.** (Tengo dolor de cabeza.)\n- **I feel sick.** (Me siento enfermo.)\n\n## Errores comunes\n\n- ✗ ~~I am a headache.~~ → ✓ **I have a headache.**\n- ✗ ~~I have headache.~~ → ✓ **I have a headache.** (¡No olvides el artículo \"a\"!)\n\n**Tip:** Para preguntar dónde duele, usa **\"Where does it hurt?\"** (¿Dónde te duele?). Para responder, di **\"It hurts here\"** (Me duele aquí) o señala la parte del cuerpo.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:40:41Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

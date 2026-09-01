@@ -1,0 +1,1625 @@
+{
+  "id": "lesson_020",
+  "position": 20,
+  "unit_id": 3,
+  "course_id": "en.A1",
+  "title_form": "Rutina de otros",
+  "title_target": "Describing Others' Routines",
+  "theme_focus": "Describir la rutina de otra persona usando la tercera persona.",
+  "learning_objectives": [
+    "Can describe someone else's daily routine using present simple 3rd person.",
+    "Can ask about someone else's routine."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_013",
+    "lesson_018"
+  ],
+  "grammar_focus": [
+    "present simple: 3rd person -s and questions with does (Does he/she ...?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "we_pronoun",
+        "they_pronoun",
+        "sit_verb",
+        "stand_verb",
+        "sleep_verb",
+        "put_verb",
+        "take_verb",
+        "get_verb",
+        "give_verb",
+        "find_verb"
+      ],
+      "chunk_ids": [
+        "chunk_in_the_morning_i",
+        "chunk_does_he_she_work"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "he_pronoun",
+        "she_pronoun",
+        "get_up_verb",
+        "go_verb",
+        "work_verb",
+        "breakfast",
+        "lunch",
+        "dinner",
+        "always_adv",
+        "usually_adv"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "María observa a su compañero de piso, Tom, durante un día normal. Ella le cuenta a su amiga cómo Tom se levanta, desayuna, trabaja y descansa. Al final, María le pregunta a Tom si él trabaja los fines de semana y él responde sobre su rutina.",
+  "introduction_md": "## Describir la rutina de otros\n\nEn esta lección vas a aprender a hablar de lo que hacen **otras personas** todos los días. Ya sabes decir lo que tú haces; ahora vas a describir la rutina de tu amigo, tu hermana o tu compañero de trabajo.\n\n**¿Qué vas a lograr?**\n\n- Describir la rutina diaria de otra persona (él, ella, ellos).\n- Preguntar si alguien trabaja o descansa.\n- Usar la **-s** en la tercera persona: *he works*, *she sleeps*.\n\nVas a practicar con verbos útiles como *sit*, *stand*, *sleep*, *put*, *take*, *get*, *give* y *find*. ¡Vamos a ver cómo es un día en la vida de otra persona!",
+  "intro_target": "## Describing Others' Routines\n\nIn this lesson, you will learn to talk about what **other people** do every day. You already know how to say what you do; now you will describe the routine of your friend, your sister, or your coworker.\n\n**What will you achieve?**\n\n- Describe another person's daily routine (he, she, they).\n- Ask if someone works or rests.\n- Use the **-s** in the third person: *he works*, *she sleeps*.\n\nYou will practice with useful verbs like *sit*, *stand*, *sleep*, *put*, *take*, *get*, *give*, and *find*. Let's see what a day in another person's life looks like!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "we_pronoun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We sit in the office in the morning.",
+      "translation_form": "Nosotros nos sentamos en la oficina por la mañana.",
+      "highlight_words": [
+        "we",
+        "sit"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "they_pronoun",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They stand and take the bus to work.",
+      "translation_form": "Ellos se ponen de pie y toman el bus para ir al trabajo.",
+      "highlight_words": [
+        "they",
+        "stand",
+        "take"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He sleeps after lunch.",
+      "translation_form": "Él duerme después del almuerzo.",
+      "highlight_words": [
+        "sleep"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "put_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She puts the book there.",
+      "translation_form": "Ella pone el libro sobre el escritorio.",
+      "highlight_words": [
+        "put"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I get a gift for my friend.",
+      "translation_form": "Yo consigo un regalo para mi amigo.",
+      "highlight_words": [
+        "get"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: 3rd person -s and questions with does (Does he/she ...?)",
+      "title_form": "Presente simple: la -s de la tercera persona y preguntas con does",
+      "title_target": "Present Simple: 3rd Person -s and Questions with Does",
+      "description_md_form": "En inglés, cuando hablamos de **él** (he) o **ella** (she), el verbo cambia: le añadimos una **-s** al final. Por ejemplo: *He **sits** in the office.* (Él se sienta en la oficina).\n\nPara hacer **preguntas** sobre otra persona, usamos **does** al principio y el verbo vuelve a su forma base (sin -s):\n\n- *Does she **work** in the morning?* (¿Ella trabaja por la mañana?)\n- *Does he **sleep** after lunch?* (¿Él duerme después del almuerzo?)\n\n**Recuerda**: con *does*, el verbo no lleva -s. La -s ya está en el *does*.",
+      "description_md_target": "In English, when we talk about **he** or **she**, the verb changes: we add an **-s** at the end. For example: *He **sits** in the office.*\n\nTo make **questions** about another person, we use **does** at the beginning and the verb goes back to its base form (without -s):\n\n- *Does she **work** in the morning?*\n- *Does he **sleep** after lunch?*\n\n**Remember**: with *does*, the verb does not take -s. The -s is already in the *does*.",
+      "grammar_structure": "He/She + verb + -s | Does + he/she + verb (base form)?",
+      "conjugation_table": {
+        "name": "present_simple_3rd_person",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "I sit",
+            "Do I sit?"
+          ],
+          [
+            "You",
+            "You sit",
+            "Do you sit?"
+          ],
+          [
+            "He/She",
+            "He/She sits",
+            "Does he/she sit?"
+          ],
+          [
+            "We",
+            "We sit",
+            "Do we sit?"
+          ],
+          [
+            "They",
+            "They sit",
+            "Do they sit?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: 3rd person -s and questions with does (Does he/she ...?)",
+          "text_target": "Does she work in the morning?",
+          "translation_form": "¿Ella trabaja por la mañana?",
+          "highlight_words": [
+            "does",
+            "work"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: 3rd person -s and questions with does (Does he/she ...?)",
+          "text_target": "He sits in the office and she sleeps after lunch.",
+          "translation_form": "Él se sienta en la oficina y ella duerme después del almuerzo.",
+          "highlight_words": [
+            "sits",
+            "sleeps"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Truco**: si la pregunta empieza con *Does*, el verbo va sin -s. La -s ya está en el *does*. Por ejemplo: *Does he **take** the bus?* (no *takes*)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: *He work in the office.* → Correcto: *He **works** in the office.* No olvides la -s en afirmativo con he/she."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado**: *Does he works?* es incorrecto. Con *does*, el verbo principal va en forma base: *Does he **work**?*"
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar la -s en afirmativo: *He work* en vez de *He works*.",
+        "Poner -s en el verbo después de *does*: *Does she works?* en vez de *Does she work?*",
+        "Usar *do* en lugar de *does* con he/she: *Do he sit?* en vez de *Does he sit?*"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'we'?",
+      "options": [
+        "nosotros",
+        "ellos",
+        "yo",
+        "tú"
+      ],
+      "correct_answer": "nosotros",
+      "explanation_md": "'We' significa 'nosotros' en español.",
+      "related_lexeme_ids": [
+        "we_pronoun"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'She ___ in the office.'",
+      "options": [
+        "work",
+        "works",
+        "working",
+        "worked"
+      ],
+      "correct_answer": "works",
+      "explanation_md": "Con 'she' (tercera persona), el verbo lleva -s: 'works'.",
+      "related_lexeme_ids": [
+        "work_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con 'sit' o 'stand': 'We ___ in the office in the morning.'",
+      "options": null,
+      "correct_answer": "sit",
+      "explanation_md": "En la oficina, normalmente nos sentamos: 'We sit in the office.'",
+      "related_lexeme_ids": [
+        "sit_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_in_the_morning_i"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "matching",
+      "prompt_md": "Empareja cada verbo con su significado:",
+      "options": [
+        "put",
+        "poner",
+        "take",
+        "tomar",
+        "find",
+        "encontrar",
+        "give",
+        "dar"
+      ],
+      "correct_answer": [
+        "put=poner",
+        "take=tomar",
+        "find=encontrar",
+        "give=dar"
+      ],
+      "explanation_md": "Estos son verbos comunes de acción.",
+      "related_lexeme_ids": [
+        "put_verb",
+        "take_verb",
+        "find_verb",
+        "give_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Ellos se ponen de pie y toman el bus.'",
+      "options": null,
+      "correct_answer": "They stand and take the bus.",
+      "explanation_md": "Usamos 'they' + verbo base: 'They stand and take the bus.'",
+      "related_lexeme_ids": [
+        "they_pronoun",
+        "stand_verb",
+        "take_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "¿Qué significa 'She puts the book on the desk.'?",
+      "options": null,
+      "correct_answer": "Ella pone el libro sobre el escritorio.",
+      "explanation_md": "'Puts' es la forma de 'put' con 'she' (tercera persona).",
+      "related_lexeme_ids": [
+        "put_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿qué hace Tom en la mañana?",
+      "options": [
+        "He takes the bus to school.",
+        "He works in an office.",
+        "He gives a gift."
+      ],
+      "correct_answer": "He takes the bus to school.",
+      "explanation_md": "El texto dice: 'he gets up and takes the bus to school'.",
+      "related_lexeme_ids": [
+        "take_verb",
+        "sleep_verb",
+        "put_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_in_the_morning_i"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Tom is a student. In the morning, he gets up and takes the bus to school. He sits in class and studies. After lunch, he sleeps for a short time. In the evening, he puts his books on the desk and reads. He usually goes to bed at ten o'clock.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿qué hace Ana?",
+      "options": [
+        "She works in a hospital.",
+        "She works in an office.",
+        "She is a teacher."
+      ],
+      "correct_answer": "She works in a hospital.",
+      "explanation_md": "El audio dice: 'She works in a hospital.'",
+      "related_lexeme_ids": [
+        "work_verb",
+        "take_verb",
+        "stand_verb",
+        "sit_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_in_the_morning_i"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Ana is a nurse. She works in a hospital. In the morning, she gets up and takes the bus to work. She stands and helps the doctor. After work, she sits and drinks coffee.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre la rutina de tu amigo o amiga. Usá 'he' o 'she' y verbos de la lección.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de la tercera persona (-s) y verbos de rutina.",
+      "related_lexeme_ids": [
+        "get_verb",
+        "take_verb",
+        "sit_verb",
+        "sleep_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_in_the_morning_i"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "He gets up in the morning and takes the bus to work.",
+        "She sits in the office and works.",
+        "He sleeps after lunch."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'they'?",
+      "options": [
+        "ellos",
+        "nosotros",
+        "ella",
+        "él"
+      ],
+      "correct_answer": "ellos",
+      "explanation_md": "'They' significa 'ellos' o 'ellas' en español.",
+      "related_lexeme_ids": [
+        "they_pronoun"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'sleep'?",
+      "options": [
+        "dormir",
+        "sentarse",
+        "pararse",
+        "comer"
+      ],
+      "correct_answer": "dormir",
+      "explanation_md": "'Sleep' significa 'dormir'.",
+      "related_lexeme_ids": [
+        "sleep_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la pregunta correcta?",
+      "options": [
+        "Does he work?",
+        "Do he works?",
+        "Does he works?",
+        "He does work?"
+      ],
+      "correct_answer": "Does he work?",
+      "explanation_md": "Con 'does', el verbo va sin -s: 'Does he work?'",
+      "related_lexeme_ids": [
+        "work_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_does_he_she_work"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "we",
+      "back": "nosotros",
+      "hint": "pronombre plural",
+      "lexeme_id": "we_pronoun",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "they",
+      "back": "ellos",
+      "hint": "pronombre plural",
+      "lexeme_id": "they_pronoun",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "sit",
+      "back": "sentarse",
+      "hint": "acción de tomar asiento",
+      "lexeme_id": "sit_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "stand",
+      "back": "ponerse de pie",
+      "hint": "acción de levantarse",
+      "lexeme_id": "stand_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "sleep",
+      "back": "dormir",
+      "hint": "acción de descansar",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "put",
+      "back": "poner",
+      "hint": "colocar algo en un lugar",
+      "lexeme_id": "put_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "take",
+      "back": "tomar",
+      "hint": "agarrar o tomar algo",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "get",
+      "back": "obtener / conseguir / llegar",
+      "hint": "verbo con varios usos",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "give",
+      "back": "dar",
+      "hint": "entregar algo a alguien",
+      "lexeme_id": "give_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "find",
+      "back": "encontrar",
+      "hint": "descubrir algo que buscas",
+      "lexeme_id": "find_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "In the morning, he/she ... . In the afternoon, he/she ... .",
+      "back": "Por la mañana, ... . Por la tarde, ... .",
+      "hint": "estructura para hablar de rutinas",
+      "lexeme_id": null,
+      "chunk_id": "chunk_in_the_morning_i",
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "Does he/she work in the morning?",
+      "back": "¿Él/ella trabaja por la mañana?",
+      "hint": "pregunta sobre rutina",
+      "lexeme_id": null,
+      "chunk_id": "chunk_does_he_she_work",
+      "target_term": null,
+      "tags": [
+        "lesson_020",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "we",
+      "reading": "",
+      "translation": "nosotros",
+      "pos": "pronoun",
+      "example": "We sit in the office in the morning.",
+      "example_translation": "Nosotros nos sentamos en la oficina por la mañana.",
+      "lexeme_id": "we_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "they",
+      "reading": "",
+      "translation": "ellos",
+      "pos": "pronoun",
+      "example": "They stand and take the bus to work.",
+      "example_translation": "Ellos se ponen de pie y toman el bus para ir al trabajo.",
+      "lexeme_id": "they_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sit",
+      "reading": "",
+      "translation": "sentarse",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "sit_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "stand",
+      "reading": "",
+      "translation": "ponerse de pie",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "stand_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sleep",
+      "reading": "",
+      "translation": "dormir",
+      "pos": "verb",
+      "example": "He sleeps after lunch.",
+      "example_translation": "Él duerme después del almuerzo.",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "put",
+      "reading": "",
+      "translation": "poner",
+      "pos": "verb",
+      "example": "She puts the book there.",
+      "example_translation": "Ella pone el libro sobre el escritorio.",
+      "lexeme_id": "put_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "take",
+      "reading": "",
+      "translation": "tomar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "take_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "get",
+      "reading": "",
+      "translation": "obtener / conseguir / llegar",
+      "pos": "verb",
+      "example": "I get a gift for my friend.",
+      "example_translation": "Yo consigo un regalo para mi amigo.",
+      "lexeme_id": "get_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "give",
+      "reading": "",
+      "translation": "dar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "give_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "find",
+      "reading": "",
+      "translation": "encontrar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "find_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "In the morning, he/she ... . In the afternoon, he/she ... .",
+      "reading": "",
+      "translation": "Por la mañana, ... . Por la tarde, ... .",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_in_the_morning_i"
+    },
+    {
+      "target_word": "Does he/she work in the morning?",
+      "reading": "",
+      "translation": "¿Él/ella trabaja por la mañana?",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_does_he_she_work"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "we",
+      "role": "support",
+      "status": "practiced",
+      "translation": "nosotros",
+      "lexeme_id": "we_pronoun",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "they",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ellos",
+      "lexeme_id": "they_pronoun",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_002",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "sit",
+      "role": "support",
+      "status": "practiced",
+      "translation": "sentarse",
+      "lexeme_id": "sit_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_012",
+        "ex_013",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "stand",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ponerse de pie",
+      "lexeme_id": "stand_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "sleep",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dormir",
+      "lexeme_id": "sleep_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "ex_013",
+        "ex_003",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "put",
+      "role": "support",
+      "status": "practiced",
+      "translation": "poner",
+      "lexeme_id": "put_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "get",
+      "role": "support",
+      "status": "practiced",
+      "translation": "obtener / conseguir / llegar",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_013",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "give",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dar",
+      "lexeme_id": "give_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "find",
+      "role": "support",
+      "status": "practiced",
+      "translation": "encontrar",
+      "lexeme_id": "find_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "In the morning, he/she ... . In the afternoon, he/she ... .",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Por la mañana, ... . Por la tarde, ... .",
+      "lexeme_id": null,
+      "chunk_id": "chunk_in_the_morning_i",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "Does he/she work in the morning?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Él/ella trabaja por la mañana?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_does_he_she_work",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "review",
+      "translation": "trabajar",
+      "lexeme_id": "work_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_004",
+        "ex_012",
+        "ex_005"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_011",
+        "fc_012",
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_008",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "ex_013",
+        "fc_012",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "bus",
+      "role": "support",
+      "status": "emergent",
+      "translation": "autobús",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011",
+        "quiz_001:q_009",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "lunch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "almuerzo",
+      "lexeme_id": "lunch",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "ex_013",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "office",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oficina",
+      "lexeme_id": "office",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_013",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "desk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escritorio",
+      "lexeme_id": "desk",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "gift",
+      "role": "support",
+      "status": "emergent",
+      "translation": "regalo",
+      "lexeme_id": "gift",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "afternoon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tarde",
+      "lexeme_id": "afternoon",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_005",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "add",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sumar",
+      "lexeme_id": "add",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "read",
+      "role": "support",
+      "status": "emergent",
+      "translation": "leer",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "base",
+      "role": "support",
+      "status": "emergent",
+      "translation": "basar",
+      "lexeme_id": "base_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "routine",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rutinario",
+      "lexeme_id": "routine_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_007"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 12,
+    "review_support_count": 1,
+    "emergent_count": 19,
+    "emergent_terms": [
+      "morning",
+      "work",
+      "bus",
+      "book",
+      "lunch",
+      "office",
+      "desk",
+      "friend",
+      "gift",
+      "afternoon",
+      "coffee",
+      "add",
+      "ask",
+      "school",
+      "student",
+      "read",
+      "study",
+      "base",
+      "routine"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Rutina de otros",
+      "title_target": "Quiz: Describing Others' Routines",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "Does",
+            "she",
+            "work",
+            "?"
+          ],
+          "correct_answer": "Does she work?",
+          "explanation_form": "Para preguntar sobre la rutina de otra persona, usamos 'Does' + sujeto + verbo en forma base.",
+          "explanation_target": "To ask about someone else's routine, we use 'Does' + subject + base verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_does_he_she_work",
+            "grammar_present_simple_3rd_person"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'They ____ at eight in the morning.' (levantarse)",
+          "prompt_target": "Complete the sentence: 'They ____ at eight in the morning.' (get up)",
+          "options": null,
+          "correct_answer": "get up",
+          "explanation_form": "Con 'they' usamos el verbo en forma base: 'get up'.",
+          "explanation_target": "With 'they' we use the base form of the verb: 'get up'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "they_pronoun",
+            "get_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'He ____ at the office.' (trabajar)",
+          "prompt_target": "Complete the sentence: 'He ____ at the office.' (work)",
+          "options": null,
+          "correct_answer": "works",
+          "explanation_form": "Con 'he', 'she' o 'it', agregamos -s al verbo: 'work' → 'works'.",
+          "explanation_target": "With 'he', 'she' or 'it', we add -s to the verb: 'work' → 'works'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "he_pronoun",
+            "work_verb",
+            "grammar_present_simple_3rd_person"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'They sit on the chair'?",
+          "prompt_target": "What does 'They sit on the chair' mean?",
+          "options": [
+            "Ellos se sientan en la silla.",
+            "Ellos se paran en la silla.",
+            "Ellos duermen en la silla.",
+            "Ellos comen en la silla."
+          ],
+          "correct_answer": "Ellos se sientan en la silla.",
+          "explanation_form": "'Sit' significa 'sentarse'. 'Stand' es 'pararse' y 'sleep' es 'dormir'.",
+          "explanation_target": "'Sit' means 'sentarse'. 'Stand' is 'pararse' and 'sleep' is 'dormir'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sit_verb",
+            "stand_verb",
+            "sleep_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta: ¿Qué hace ella por la mañana?",
+          "prompt_target": "Listen and choose the correct answer: What does she do in the morning?",
+          "options": [
+            "She gets up at seven.",
+            "She gets up at eight.",
+            "She gets up at nine.",
+            "She gets up at ten."
+          ],
+          "correct_answer": "She gets up at seven.",
+          "explanation_form": "El audio dice: 'She gets up at seven.'",
+          "explanation_target": "The audio says: 'She gets up at seven.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "get_verb",
+            "take_verb",
+            "chunk_in_the_morning_i"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "She gets up at seven. She takes a coffee. Then she goes to work.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta?",
+          "prompt_target": "Which is the correct form?",
+          "options": [
+            "He give a gift.",
+            "He gives a gift.",
+            "He gives a gift.",
+            "He gives a gift."
+          ],
+          "correct_answer": "He gives a gift.",
+          "explanation_form": "Con 'he', agregamos -s al verbo: 'give' → 'gives'.",
+          "explanation_target": "With 'he', we add -s to the verb: 'give' → 'gives'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "give_verb",
+            "grammar_present_simple_3rd_person"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo con su significado:",
+          "prompt_target": "Match each verb with its meaning:",
+          "options": [
+            "find",
+            "encontrar",
+            "put",
+            "poner",
+            "take",
+            "tomar"
+          ],
+          "correct_answer": [
+            "find=encontrar",
+            "put=poner",
+            "take=tomar"
+          ],
+          "explanation_form": "Estos son verbos comunes de rutina.",
+          "explanation_target": "These are common routine verbs.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "find_verb",
+            "put_verb",
+            "take_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué hace él por la noche?",
+          "prompt_target": "Read the text and answer: What does he do at night?",
+          "options": [
+            "He sleeps at ten.",
+            "He studies at ten.",
+            "He sleeps at ten.",
+            "He takes a bus at ten."
+          ],
+          "correct_answer": "He sleeps at ten.",
+          "explanation_form": "El texto dice: 'He sleeps at ten.'",
+          "explanation_target": "The text says: 'He sleeps at ten.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sleep_verb",
+            "get_verb",
+            "take_verb",
+            "student"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "He is a student. He gets up at eight. He studies in the morning. He has lunch at one. He takes a bus to school. He sleeps at ten.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ they find the book?'",
+          "prompt_target": "Complete the question: '____ they find the book?'",
+          "options": null,
+          "correct_answer": "Do",
+          "explanation_form": "Con 'they' usamos 'Do' para preguntar.",
+          "explanation_target": "With 'they' we use 'Do' to ask.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "they_pronoun",
+            "find_verb",
+            "grammar_present_simple_3rd_person"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta: ¿Qué hacen ellos?",
+          "prompt_target": "Listen and choose the correct answer: What do they do?",
+          "options": [
+            "They take a train.",
+            "They take a bus.",
+            "They take a taxi.",
+            "They take a bike."
+          ],
+          "correct_answer": "They take a train.",
+          "explanation_form": "El audio dice: 'They take a train.'",
+          "explanation_target": "The audio says: 'They take a train.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "stand_verb",
+            "take_verb",
+            "they_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "They stand at the station. They take a train. They go to work.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+            "prompt_form": "¿Qué significa 'We put the book there'?",
+            "prompt_target": "What does 'We put the book there' mean?",
+          "options": [
+              "Nosotros ponemos el libro allí.",
+              "Nosotros encontramos el libro allí.",
+              "Nosotros tomamos el libro allí.",
+              "Nosotros damos el libro allí."
+          ],
+            "correct_answer": "Nosotros ponemos el libro allí.",
+          "explanation_form": "'Put' significa 'poner'.",
+          "explanation_target": "'Put' means 'poner'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "put_verb",
+            "we_pronoun"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'She ____ a coffee in the morning.' (tomar)",
+          "prompt_target": "Complete the sentence: 'She ____ a coffee in the morning.' (take)",
+          "options": null,
+          "correct_answer": "takes",
+          "explanation_form": "Con 'she', agregamos -s al verbo: 'take' → 'takes'.",
+          "explanation_target": "With 'she', we add -s to the verb: 'take' → 'takes'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "take_verb",
+            "she_pronoun",
+            "grammar_present_simple_3rd_person"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## La -s de la tercera persona\n\nEn inglés, cuando hablamos de **he**, **she** o **it**, el verbo cambia: añadimos una **-s** al final. Por ejemplo: *He gets up*, *She works*, *It sleeps*. Es un cambio pequeño, pero muy importante. ¡No lo olvides!\n\n## Preguntas con Does\n\nPara preguntar por la rutina de otra persona, usamos **Does** al principio y el verbo vuelve a su forma base (sin -s): *Does he work?* / *Does she get up early?* Recuerda: la -s se va a **does**, no al verbo.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:35:23Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

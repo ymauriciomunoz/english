@@ -1,0 +1,1630 @@
+{
+  "id": "lesson_048",
+  "position": 48,
+  "unit_id": 6,
+  "course_id": "en.A2",
+  "title_form": "Describing a health problem in detail",
+  "title_target": "Describiendo un problema de salud en detalle",
+  "theme_focus": "health",
+  "learning_objectives": [
+    "Can describe a health problem and give a few relevant details."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_041",
+    "lesson_043",
+    "lesson_044",
+    "lesson_045",
+    "lesson_046",
+    "lesson_047"
+  ],
+  "grammar_focus": [
+    "should: advice (review)",
+    "have to: obligation (review)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "allergy",
+        "symptom",
+        "weakness",
+        "accident",
+        "weak_adj"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "headache",
+        "fever",
+        "rest_verb",
+        "heart",
+        "pain",
+        "serious_adj",
+        "condition",
+        "allergic_adj",
+        "side_effect",
+        "blood_pressure"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana se siente mal después de comer en un restaurante. Llama a su amiga Laura para contarle sus síntomas y pedirle un consejo. Laura le recomienda descansar y, si el problema continúa, ir al médico. Al final, Ana decide qué hacer y habla con su médico por teléfono.",
+  "introduction_md": "En esta lección vas a aprender a describir un problema de salud con más detalle. Ya sabes decir \"me duele la cabeza\" o \"tengo fiebre\". Ahora vas a poder explicar los síntomas, hablar de una alergia o de un accidente, y decir cómo te sientes.\n\nVas a practicar:\n\n- **Vocabulario útil**: allergy, symptom, weakness, accident, weak.\n- **Consejos y obligaciones**: usar *should* para dar consejos y *have to* para hablar de obligaciones.\n\nTodo esto en conversaciones cortas y naturales, como las que tienes con un médico o con un amigo. ¡Vamos a ello!",
+  "intro_target": "In this lesson, you will learn to describe a health problem in more detail. You already know how to say \"my head hurts\" or \"I have a fever.\" Now you will be able to explain the symptoms, talk about an allergy or an accident, and say how you feel.\n\nYou will practice:\n\n- **Useful vocabulary**: allergy, symptom, weakness, accident, weak.\n- **Advice and obligation**: using *should* to give advice and *have to* to talk about obligations.\n\nAll of this in short, natural conversations, like the ones you have with a doctor or a friend. Let's go!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "allergy",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have a serious allergy to peanuts, so I always check the menu.",
+      "translation_form": "Tengo una alergia grave a los cacahuetes, así que siempre reviso el menú.",
+      "highlight_words": [
+        "allergy",
+        "serious"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "symptom",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "A high fever and a headache are common symptoms of the flu.",
+      "translation_form": "La fiebre alta y el dolor de cabeza son síntomas comunes de la gripe.",
+      "highlight_words": [
+        "symptom",
+        "fever",
+        "headache"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "weak_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "After the accident, he felt weak and needed to rest for a week.",
+      "translation_form": "Después del accidente, se sintió débil y necesitó descansar durante una semana.",
+      "highlight_words": [
+        "weak",
+        "accident",
+        "rest"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "weakness",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The doctor said the weakness in my legs is not a serious condition.",
+      "translation_form": "El médico dijo que la debilidad en mis piernas no es una condición grave.",
+      "highlight_words": [
+        "weakness",
+        "serious",
+        "condition"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "accident",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She had a small accident at work, but she didn't hurt her heart.",
+      "translation_form": "Tuvo un pequeño accidente en el trabajo, pero no se lastimó el corazón.",
+      "highlight_words": [
+        "accident",
+        "heart"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "allergy",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You should tell the nurse about your allergy before the test.",
+      "translation_form": "Deberías informar a la enfermera sobre tu alergia antes de la prueba.",
+      "highlight_words": [
+        "allergy",
+        "nurse"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "symptom",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "If you have a cough and a sore throat, you have to see a doctor.",
+      "translation_form": "Si tienes tos y dolor de garganta, tienes que ver a un médico.",
+      "highlight_words": [
+        "cough",
+        "sore"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "weak_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You should rest today because you look weak and tired after the long trip.",
+      "translation_form": "Deberías descansar hoy porque te ves débil y cansado después del largo viaje.",
+      "highlight_words": [
+        "weak",
+        "rest",
+        "tired"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "should: advice (review)",
+      "title_form": "Should: consejos y recomendaciones",
+      "title_target": "Should: Advice and Recommendations",
+      "description_md_form": "**Should** se usa para dar **consejos** y **recomendaciones**. Es un verbo modal: siempre va seguido de otro verbo en su forma base (sin *to*).\n\n**Estructura:**\n- **Afirmativo:** *Subject + should + verb* → `You should rest.`\n- **Negativo:** *Subject + should not (shouldn't) + verb* → `You shouldn't go to work.`\n- **Pregunta:** *Should + subject + verb?* → `Should I see a doctor?`\n\n**Usos comunes en salud:**\n- Para recomendar una acción: `You should check the menu.`\n- Para advertir: `You shouldn't ignore the symptom.`\n\n**Nota:** *Should* no cambia con la persona (I, you, he, she...). Es igual para todos.",
+      "description_md_target": "**Should** is used to give **advice** and **recommendations**. It is a modal verb: it is always followed by another verb in its base form (without *to*).\n\n**Structure:**\n- **Affirmative:** *Subject + should + verb* → `You should rest.`\n- **Negative:** *Subject + should not (shouldn't) + verb* → `You shouldn't go to work.`\n- **Question:** *Should + subject + verb?* → `Should I see a doctor?`\n\n**Common uses in health:**\n- To recommend an action: `You should check the menu.`\n- To warn: `You shouldn't ignore the symptom.`\n\n**Note:** *Should* does not change with the person (I, you, he, she...). It is the same for everyone.",
+      "grammar_structure": "Subject + should + base verb",
+      "conjugation_table": {
+        "name": "should_advice",
+        "headers": [
+          "Forma",
+          "Ejemplo",
+          "Traducción"
+        ],
+        "rows": [
+          [
+            "Afirmativo",
+            "You should rest.",
+            "Deberías descansar."
+          ],
+          [
+            "Negativo",
+            "You shouldn't go.",
+            "No deberías ir."
+          ],
+          [
+            "Pregunta",
+            "Should I call?",
+            "¿Debería llamar?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "should: advice (review)",
+          "text_target": "You should rest after the accident.",
+          "translation_form": "Deberías descansar después del accidente.",
+          "highlight_words": [
+            "should",
+            "rest"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "should: advice (review)",
+          "text_target": "You shouldn't ignore the weakness in your legs.",
+          "translation_form": "No deberías ignorar la debilidad en tus piernas.",
+          "highlight_words": [
+            "shouldn't",
+            "ignore"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** *Should* es más suave que *must*. Usa *should* para dar un consejo amable, no una orden fuerte."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *You should to rest*. Después de *should*, el verbo va sin *to*: *You should rest*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'to' después de should: *You should to rest* → correcto: *You should rest*.",
+        "Olvidar que should no cambia con la persona: *He shoulds rest* → correcto: *He should rest*.",
+        "Confundir should con must: *should* es consejo, *must* es obligación."
+      ]
+    },
+    {
+      "slug": "have to: obligation (review)",
+      "title_form": "Have to: obligación (repaso)",
+      "title_target": "Have to: obligation (review)",
+      "description_md_form": "Usamos **have to** para hablar de obligaciones y cosas que son necesarias. Es una forma de expresar que algo es importante o requerido.\n\nLa estructura es: **sujeto + have/has to + verbo**.\n\n- **I/you/we/they** → **have to**\n- **He/she/it** → **has to**\n\nEjemplos:\n- `I have to check the menu.` (Tengo que revisar el menú.)\n- `She has to rest.` (Ella tiene que descansar.)\n\nPara negar, usamos **don't have to** o **doesn't have to**:\n- `You don't have to worry.` (No tienes que preocuparte.)\n\n**Have to** es similar a **must**, pero es más común en conversaciones diarias. Es una obligación que viene de una regla o necesidad, no de una opinión personal.",
+      "description_md_target": "We use **have to** to talk about obligations and things that are necessary. It is a way to say that something is important or required.\n\nThe structure is: **subject + have/has to + verb**.\n\n- **I/you/we/they** → **have to**\n- **He/she/it** → **has to**\n\nExamples:\n- `I have to check the menu.`\n- `She has to rest.`\n\nFor negation, we use **don't have to** or **doesn't have to**:\n- `You don't have to worry.`\n\n**Have to** is similar to **must**, but it is more common in daily conversation. It is an obligation that comes from a rule or need, not from a personal opinion.",
+      "grammar_structure": "Subject + have/has to + base verb",
+      "conjugation_table": {
+        "name": "have_to_present",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo"
+        ],
+        "rows": [
+          [
+            "I",
+            "have to",
+            "don't have to"
+          ],
+          [
+            "You",
+            "have to",
+            "don't have to"
+          ],
+          [
+            "He/She/It",
+            "has to",
+            "doesn't have to"
+          ],
+          [
+            "We",
+            "have to",
+            "don't have to"
+          ],
+          [
+            "They",
+            "have to",
+            "don't have to"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "have to: obligation (review)",
+          "text_target": "I have to check the menu because of my allergy.",
+          "translation_form": "Tengo que revisar el menú por mi alergia.",
+          "highlight_words": [
+            "have",
+            "to"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "have to: obligation (review)",
+          "text_target": "She has to rest after the accident.",
+          "translation_form": "Ella tiene que descansar después del accidente.",
+          "highlight_words": [
+            "has",
+            "to"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: usa **has to** solo con **he**, **she** e **it**. Con **I**, **you**, **we** y **they**, usa **have to**."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común**: no digas *\"She have to rest\"*. La forma correcta es **\"She has to rest\"**."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado**: **don't have to** significa que NO es necesario, pero no es una prohibición. Para prohibir, usa **must not**."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'have to' con he/she/it: *\"He have to rest\"* → correcto: **\"He has to rest\"**.",
+        "Olvidar el 'to' después de have/has: *\"I have rest\"* → correcto: **\"I have to rest\"**.",
+        "Confundir 'don't have to' con prohibición: *\"You don't have to go\"* significa que no es necesario, no que está prohibido."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'allergy'?",
+      "options": [
+        "alergia",
+        "dolor",
+        "fiebre",
+        "debilidad"
+      ],
+      "correct_answer": "alergia",
+      "explanation_md": "'Allergy' significa alergia, una reacción del cuerpo a algo.",
+      "related_lexeme_ids": [
+        "allergy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'weakness'?",
+      "options": [
+        "debilidad",
+        "dolor de cabeza",
+        "accidente",
+        "presión arterial"
+      ],
+      "correct_answer": "debilidad",
+      "explanation_md": "'Weakness' significa debilidad, falta de fuerza.",
+      "related_lexeme_ids": [
+        "weakness"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "symptom",
+        "accident",
+        "weak",
+        "síntoma",
+        "accidente",
+        "débil"
+      ],
+      "correct_answer": [
+        "symptom=síntoma",
+        "accident=accidente",
+        "weak=débil"
+      ],
+      "explanation_md": "Estas son las palabras nuevas de la lección sobre salud.",
+      "related_lexeme_ids": [
+        "symptom",
+        "accident",
+        "weak_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'A high fever and a headache are common ____ of the flu.'",
+      "options": [
+        "symptoms",
+        "accidents",
+        "allergies",
+        "weaknesses"
+      ],
+      "correct_answer": "symptoms",
+      "explanation_md": "Los síntomas (symptoms) son las señales de una enfermedad.",
+      "related_lexeme_ids": [
+        "symptom"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración con la palabra correcta: 'After the ____, he felt weak and needed to rest.'",
+      "options": null,
+      "correct_answer": "accident",
+      "explanation_md": "Un accidente (accident) puede causar debilidad.",
+      "related_lexeme_ids": [
+        "accident"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración con la palabra correcta: 'The doctor said the ____ in my legs is not a serious condition.'",
+      "options": null,
+      "correct_answer": "weakness",
+      "explanation_md": "La debilidad (weakness) en las piernas puede ser una condición.",
+      "related_lexeme_ids": [
+        "weakness"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué es lo correcto para dar un consejo?",
+      "options": [
+        "You should rest.",
+        "You have to rest.",
+        "You rest.",
+        "You rested."
+      ],
+      "correct_answer": "You should rest.",
+      "explanation_md": "Usamos 'should' para dar consejos y recomendaciones.",
+      "related_lexeme_ids": [
+        "rest_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué es lo correcto para expresar una obligación?",
+      "options": [
+        "You have to take the medicine.",
+        "You should take the medicine.",
+        "You take the medicine.",
+        "You took the medicine."
+      ],
+      "correct_answer": "You have to take the medicine.",
+      "explanation_md": "Usamos 'have to' para expresar una obligación.",
+      "related_lexeme_ids": [
+        "allergy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Tengo una alergia grave a los cacahuetes.'",
+      "options": null,
+      "correct_answer": "I have a serious allergy to peanuts.",
+      "explanation_md": "Usamos 'have' + 'allergy to' para hablar de alergias.",
+      "related_lexeme_ids": [
+        "allergy"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'After the accident, he felt weak.'",
+      "options": null,
+      "correct_answer": "Después del accidente, se sintió débil.",
+      "explanation_md": "La traducción correcta usa 'accidente' y 'débil'.",
+      "related_lexeme_ids": [
+        "accident",
+        "weak_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué debe hacer Ana?",
+      "options": null,
+      "correct_answer": "She has to rest and take some medicine.",
+      "explanation_md": "El doctor le dice que tiene que descansar y tomar medicina.",
+      "related_lexeme_ids": [
+        "allergy",
+        "weak_adj",
+        "rest_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana has a serious allergy to peanuts. Yesterday, she ate a sandwich with peanuts and now she has a headache and a fever. She feels weak. Her doctor says she has to rest and take some medicine. He also says she should always check the menu before she eats.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué tiene que hacer Tom?",
+      "options": [
+        "He has to rest today.",
+        "He has to go to work.",
+        "He has to run.",
+        "He has to cook."
+      ],
+      "correct_answer": "He has to rest today.",
+      "explanation_md": "La enfermera dice que Tom tiene que descansar hoy.",
+      "related_lexeme_ids": [
+        "accident",
+        "rest_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom had a small accident at work. Now his arm hurts. The nurse says he has to rest today. She also says he should see a doctor tomorrow.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre un problema de salud que tuviste. Usá 'should' o 'have to' para dar un consejo.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de vocabulario de salud y los patrones 'should' y 'have to'.",
+      "related_lexeme_ids": [
+        "headache",
+        "fever",
+        "accident",
+        "rest_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I had a headache and a fever. I should rest.",
+        "I had an accident and my leg hurt. I have to see a doctor."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "allergy",
+      "back": "alergia",
+      "hint": "reacción del cuerpo a algo",
+      "lexeme_id": "allergy",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_048",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "symptom",
+      "back": "síntoma",
+      "hint": "señal de una enfermedad",
+      "lexeme_id": "symptom",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_048",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "weakness",
+      "back": "debilidad",
+      "hint": "falta de fuerza",
+      "lexeme_id": "weakness",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_048",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "accident",
+      "back": "accidente",
+      "hint": "evento no planeado",
+      "lexeme_id": "accident",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_048",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "weak",
+      "back": "débil",
+      "hint": "sin fuerza",
+      "lexeme_id": "weak_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_048",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "headache",
+      "back": "dolor de cabeza",
+      "hint": "dolor en la cabeza",
+      "lexeme_id": "headache",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_048",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "fever",
+      "back": "fiebre",
+      "hint": "temperatura alta",
+      "lexeme_id": "fever",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_048",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "rest",
+      "back": "descansar",
+      "hint": "parar para recuperarse",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_048",
+        "A2",
+        "health"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "allergy",
+      "reading": "",
+      "translation": "alergia",
+      "pos": "noun",
+      "example": "I have a serious allergy to peanuts, so I always check the menu.",
+      "example_translation": "Tengo una alergia grave a los cacahuetes, así que siempre reviso el menú.",
+      "lexeme_id": "allergy",
+      "chunk_id": null
+    },
+    {
+      "target_word": "symptom",
+      "reading": "",
+      "translation": "síntoma",
+      "pos": "noun",
+      "example": "A high fever and a headache are common symptoms of the flu.",
+      "example_translation": "La fiebre alta y el dolor de cabeza son síntomas comunes de la gripe.",
+      "lexeme_id": "symptom",
+      "chunk_id": null
+    },
+    {
+      "target_word": "weakness",
+      "reading": "",
+      "translation": "debilidad",
+      "pos": "noun",
+      "example": "The doctor said the weakness in my legs is not a serious condition.",
+      "example_translation": "El médico dijo que la debilidad en mis piernas no es una condición grave.",
+      "lexeme_id": "weakness",
+      "chunk_id": null
+    },
+    {
+      "target_word": "accident",
+      "reading": "",
+      "translation": "accidente",
+      "pos": "noun",
+      "example": "She had a small accident at work, but she didn't hurt her heart.",
+      "example_translation": "Tuvo un pequeño accidente en el trabajo, pero no se lastimó el corazón.",
+      "lexeme_id": "accident",
+      "chunk_id": null
+    },
+    {
+      "target_word": "weak",
+      "reading": "",
+      "translation": "débil",
+      "pos": "adjective",
+      "example": "After the accident, he felt weak and needed to rest for a week.",
+      "example_translation": "Después del accidente, se sintió débil y necesitó descansar durante una semana.",
+      "lexeme_id": "weak_adj",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "allergy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "alergia",
+      "lexeme_id": "allergy",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_006",
+        "ex_001",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "symptom",
+      "role": "support",
+      "status": "practiced",
+      "translation": "síntoma",
+      "lexeme_id": "symptom",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_007",
+        "ex_003",
+        "ex_004",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "weakness",
+      "role": "support",
+      "status": "practiced",
+      "translation": "debilidad",
+      "lexeme_id": "weakness",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_006",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "accident",
+      "role": "support",
+      "status": "practiced",
+      "translation": "accidente",
+      "lexeme_id": "accident",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_005",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "weak",
+      "role": "support",
+      "status": "practiced",
+      "translation": "débil",
+      "lexeme_id": "weak_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "exm_008",
+        "ex_003",
+        "ex_010",
+        "ex_011",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "rest",
+      "role": "support",
+      "status": "review",
+      "translation": "descansar",
+      "lexeme_id": "rest_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "headache",
+      "role": "support",
+      "status": "review",
+      "translation": "dolor de cabeza",
+      "lexeme_id": "headache",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "fever",
+      "role": "support",
+      "status": "review",
+      "translation": "fiebre",
+      "lexeme_id": "fever",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "exm_007",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "serious",
+      "role": "support",
+      "status": "emergent",
+      "translation": "serio",
+      "lexeme_id": "serious_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "hurt",
+      "role": "support",
+      "status": "emergent",
+      "translation": "doler / herir",
+      "lexeme_id": "hurt_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_001",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "leg",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pierna",
+      "lexeme_id": "leg",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_013",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "always",
+      "role": "support",
+      "status": "emergent",
+      "translation": "siempre",
+      "lexeme_id": "always_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "nurse",
+      "role": "support",
+      "status": "emergent",
+      "translation": "enfermero/a",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "menu",
+      "role": "support",
+      "status": "emergent",
+      "translation": "menú / carta",
+      "lexeme_id": "menu",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "condition",
+      "role": "support",
+      "status": "emergent",
+      "translation": "condición",
+      "lexeme_id": "condition",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "peanut",
+      "role": "support",
+      "status": "emergent",
+      "translation": "maní / cacahuey / cacahuate",
+      "lexeme_id": "peanut",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "cough",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tos",
+      "lexeme_id": "cough",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "look",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar",
+      "lexeme_id": "look_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "tell",
+      "role": "support",
+      "status": "emergent",
+      "translation": "decir / contar",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "heart",
+      "role": "support",
+      "status": "emergent",
+      "translation": "corazón",
+      "lexeme_id": "heart",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "test",
+      "role": "support",
+      "status": "emergent",
+      "translation": "examen / prueba",
+      "lexeme_id": "test",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "trip",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viaje",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "sore throat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dolor de garganta",
+      "lexeme_id": "sore_throat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "flu",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gripe",
+      "lexeme_id": "flu",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "common",
+      "role": "support",
+      "status": "emergent",
+      "translation": "común / parque",
+      "lexeme_id": "common",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "throat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "garganta",
+      "lexeme_id": "throat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "sore",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dolorido",
+      "lexeme_id": "sore_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "feel",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sentir",
+      "lexeme_id": "feel_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "review",
+      "role": "support",
+      "status": "emergent",
+      "translation": "revisión",
+      "lexeme_id": "review",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 5,
+    "review_support_count": 3,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "doctor",
+      "serious",
+      "hurt",
+      "see",
+      "work",
+      "today",
+      "week",
+      "leg",
+      "always",
+      "small",
+      "nurse",
+      "check",
+      "menu",
+      "condition",
+      "peanut",
+      "cough",
+      "look",
+      "tell",
+      "heart",
+      "need",
+      "tire",
+      "test",
+      "trip",
+      "tired",
+      "sore throat",
+      "flu",
+      "common",
+      "throat",
+      "sore",
+      "now",
+      "feel",
+      "review"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describing a health problem in detail",
+      "title_target": "Quiz: Describing a health problem in detail",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta: ¿Qué dice la persona?",
+          "prompt_target": "Listen and choose the correct answer: What does the person say?",
+          "options": [
+            "The person had an accident and feels weak.",
+            "The person had a fever and feels tired.",
+            "The person had a headache and feels sick.",
+            "The person had an allergy and feels bad."
+          ],
+          "correct_answer": "The person had an accident and feels weak.",
+          "explanation_form": "La persona dice 'I had an accident' y 'I feel weak'. Las otras opciones mencionan fiebre, dolor de cabeza o alergia, que no aparecen.",
+          "explanation_target": "The person says 'I had an accident' and 'I feel weak'. The other options mention fever, headache or allergy, which do not appear.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "accident",
+            "weak_adj",
+            "symptom"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I had an accident last week. My leg hurt a lot. The doctor said it was not serious. Now I feel weak, but I am better.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'symptom'?",
+          "prompt_target": "What does 'symptom' mean?",
+          "options": [
+            "Una señal de una enfermedad",
+            "Un tipo de medicina",
+            "Una visita al doctor",
+            "Un accidente grave"
+          ],
+          "correct_answer": "Una señal de una enfermedad",
+          "explanation_form": "'Symptom' es una señal de una enfermedad, como fiebre o dolor.",
+          "explanation_target": "'Symptom' is a sign of an illness, like fever or pain.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "symptom"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'You ____ see a doctor about that cough.' (obligación)",
+          "prompt_target": "Complete the sentence: 'You ____ see a doctor about that cough.' (obligation)",
+          "options": null,
+          "correct_answer": "have to",
+          "explanation_form": "'Have to' expresa obligación: 'You have to see a doctor' significa 'Tienes que ver a un doctor'.",
+          "explanation_target": "'Have to' expresses obligation: 'You have to see a doctor' means 'You must see a doctor'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "have to: obligation (review)"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la mejor respuesta? 'I have a headache.' → 'You ____ rest.'",
+          "prompt_target": "What is the best answer? 'I have a headache.' → 'You ____ rest.'",
+          "options": [
+            "should",
+            "have to",
+            "must",
+            "can"
+          ],
+          "correct_answer": "should",
+          "explanation_form": "'Should' da un consejo: 'You should rest' significa 'Deberías descansar'.",
+          "explanation_target": "'Should' gives advice: 'You should rest' means 'You ought to rest'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "should: advice (review)",
+            "headache",
+            "rest_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "have",
+            "an",
+            "allergy",
+            "to",
+            "pollen"
+          ],
+          "correct_answer": "I have an allergy to pollen",
+          "explanation_form": "La frase correcta es 'I have an allergy to pollen' (Tengo alergia al polen).",
+          "explanation_target": "The correct sentence is 'I have an allergy to pollen'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "allergy"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y elige la respuesta correcta: ¿Qué dice el texto?",
+          "prompt_target": "Read the text and choose the correct answer: What does the text say?",
+          "options": [
+            "Maria had an accident and now takes medicine.",
+            "Maria had a fever and now goes to work.",
+            "Maria had an allergy and now feels strong.",
+            "Maria had a headache and now plays sports."
+          ],
+          "correct_answer": "Maria had an accident and now takes medicine.",
+          "explanation_form": "El texto dice que Maria tuvo un accidente, se lastimó el brazo y ahora toma medicina y descansa.",
+          "explanation_target": "The text says Maria had an accident, hurt her arm and now takes medicine and rests.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "accident",
+            "weakness",
+            "symptom"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Maria had a bad accident last week. She hurt her arm and felt very weak. The doctor said she had a serious condition. Now she takes medicine and rests at home. She hopes to recover soon.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "allergy",
+            "alergia",
+            "weakness",
+            "debilidad",
+            "accident",
+            "accidente",
+            "symptom",
+            "síntoma"
+          ],
+          "correct_answer": [
+            "allergy=alergia",
+            "weakness=debilidad",
+            "accident=accidente",
+            "symptom=síntoma"
+          ],
+          "explanation_form": "Estas son las palabras clave de la lección: allergy (alergia), weakness (debilidad), accident (accidente) y symptom (síntoma).",
+          "explanation_target": "These are the key words of the lesson: allergy, weakness, accident and symptom.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "allergy",
+            "weakness",
+            "accident",
+            "symptom"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y elige la respuesta correcta: ¿Qué consejo da la persona?",
+          "prompt_target": "Listen and choose the correct answer: What advice does the person give?",
+          "options": [
+            "The person advises to rest and drink water.",
+            "The person advises to go to work.",
+            "The person advises to take a long trip.",
+            "The person advises to eat a lot of food."
+          ],
+          "correct_answer": "The person advises to rest and drink water.",
+          "explanation_form": "La persona dice 'You should rest' y 'You should drink water'. Las otras opciones no aparecen en el audio.",
+          "explanation_target": "The person says 'You should rest' and 'You should drink water'. The other options do not appear in the audio.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "should: advice (review)",
+            "fever",
+            "weak_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "You should rest today. You have a fever and you feel weak. You should not go to work. You should drink water and sleep.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Errores comunes\n\n- **\"I have allergy\"** ✗ → **\"I have an allergy\"** ✓. En inglés, `allergy` casi siempre lleva artículo (`an allergy`) o posesivo (`my allergy`).\n- **\"I am weak\"** vs **\"I have weakness\"**: `weak` es el adjetivo (cómo te sientes), `weakness` es el sustantivo (la condición). Decimos *\"I feel weak\"* (me siento débil) y *\"I have weakness in my legs\"* (tengo debilidad en las piernas).\n\n## Consejos utiles\n\n- **`should` para consejo, `have to` para obligacion**: *\"You should rest\"* (deberias descansar) es una sugerencia; *\"You have to see a doctor\"* (tienes que ver a un medico) es una necesidad. Si el medico te dice `have to`, es importante.\n- **Describe el `symptom`, no el diagnostico**: di *\"I have a headache and weakness\"* en vez de *\"I think I have the flu\"*. Asi el medico entiende mejor tu `condition`.\n- **`accident` es un evento, no una enfermedad**: *\"I had an accident\"* (tuve un accidente) explica el origen del `pain`, pero no es un `symptom`.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:58:21Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

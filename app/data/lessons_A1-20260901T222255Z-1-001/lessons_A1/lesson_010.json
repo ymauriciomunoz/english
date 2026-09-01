@@ -1,0 +1,1757 @@
+{
+  "id": "lesson_010",
+  "position": 10,
+  "unit_id": 2,
+  "course_id": "en.A1",
+  "title_form": "Profesiones y ocupaciones",
+  "title_target": "Talking About Jobs and Occupations",
+  "theme_focus": "Nombres de profesiones y cómo hablar del trabajo propio.",
+  "learning_objectives": [
+    "Can name common jobs and occupations.",
+    "Can state what he/she does for a living."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_007"
+  ],
+  "grammar_focus": [
+    "present simple: affirmative (I work as ...) and do/does questions (What do you do?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "doctor",
+        "nurse",
+        "teacher",
+        "waiter",
+        "scientist",
+        "writer",
+        "work_verb",
+        "work",
+        "office",
+        "as_prep",
+        "school",
+        "start_verb",
+        "finish_verb",
+        "do_verb",
+        "do_verb_2"
+      ],
+      "chunk_ids": [
+        "chunk_i_work_as",
+        "chunk_i_start_finish_work",
+        "chunk_what_do_you_do"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "live_verb",
+        "where_wh",
+        "what_wh",
+        "i_pronoun",
+        "single_adj_2",
+        "their_det"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana conoce a Tom en una fiesta. Se saludan y Tom le pregunta qué hace ella para vivir. Ana dice que trabaja como enfermera en un hospital y que empieza a las ocho. Tom le cuenta que es profesor y trabaja en una escuela. Hablan de sus rutinas y de lo que les gusta de su trabajo.",
+  "introduction_md": "En esta lección vas a aprender a hablar de **profesiones y ocupaciones** en inglés. Vas a poder decir qué haces para vivir y preguntar a otros sobre su trabajo.\n\n- Aprenderás los nombres de trabajos comunes: doctor, nurse, teacher, waiter.\n- Practicarás frases útiles como **\"I work as...\"** y **\"What do you do?\"**.\n- Usarás el presente simple para hablar de tu rutina laboral.\n\nCon estas herramientas podrás conversar en situaciones cotidianas, como conocer a alguien nuevo o hablar de tu día. ¡Vamos a empezar!",
+  "intro_target": "In this lesson you will learn to talk about **jobs and occupations** in English. You will be able to say what you do for a living and ask others about their work.\n\n- You will learn the names of common jobs: doctor, nurse, teacher, waiter.\n- You will practice useful phrases like **\"I work as...\"** and **\"What do you do?\"**.\n- You will use the present simple to talk about your work routine.\n\nWith these tools you can have conversations in everyday situations, like meeting someone new or talking about your day. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_do_you_do",
+      "grammar_slug": null,
+      "text_target": "What do you do?",
+      "translation_form": "¿A qué te dedicas?",
+      "highlight_words": [
+        "do"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_work_as",
+      "grammar_slug": null,
+      "text_target": "I work as a teacher.",
+      "translation_form": "Trabajo como profesor.",
+      "highlight_words": [
+        "work",
+        "as",
+        "teacher"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "doctor",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My brother is a doctor.",
+      "translation_form": "Mi hermano es médico.",
+      "highlight_words": [
+        "doctor"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My sister is a nurse.",
+      "translation_form": "Mi hermana es enfermera.",
+      "highlight_words": [
+        "nurse"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_start_finish_work",
+      "grammar_slug": null,
+      "text_target": "I start work at eight.",
+      "translation_form": "Empiezo el trabajo a las ocho.",
+      "highlight_words": [
+        "start",
+        "work"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "waiter",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My friend is a waiter.",
+      "translation_form": "Mi amigo es camarero.",
+      "highlight_words": [
+        "waiter"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: affirmative (I work as ...) and do/does questions (What do you do?)",
+      "title_form": "Presente simple: afirmativo y preguntas con do/does",
+      "title_target": "Present Simple: Affirmative and Do/Does Questions",
+      "description_md_form": "El **presente simple** se usa para hablar de tu trabajo y rutinas. Para la **forma afirmativa**, usamos el verbo en su forma base: `I work as a teacher.` (Trabajo como profesor).\n\nPara **preguntar** sobre el trabajo de alguien, usamos el auxiliar **do** con *I, you, we, they* y **does** con *he, she, it*:\n\n- `What do you do?` (¿A qué te dedicas?)\n- `Where does she work?` (¿Dónde trabaja ella?)\n\nCon **does**, el verbo principal va en forma base (sin -s): `She works` → `Does she work?`",
+      "description_md_target": "The **present simple** is used to talk about your job and routines. For the **affirmative form**, we use the base form of the verb: `I work as a teacher.`\n\nTo **ask** about someone's job, we use the auxiliary **do** with *I, you, we, they* and **does** with *he, she, it*:\n\n- `What do you do?`\n- `Where does she work?`\n\nWith **does**, the main verb stays in base form (no -s): `She works` → `Does she work?`",
+      "grammar_structure": "Affirmative: Subject + verb (base form) + complement\nQuestions: (Question word) + do/does + subject + verb (base form)?",
+      "conjugation_table": {
+        "name": "present_simple_work",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "work",
+            "Do I work?"
+          ],
+          [
+            "you",
+            "work",
+            "Do you work?"
+          ],
+          [
+            "he/she/it",
+            "works",
+            "Does he/she/it work?"
+          ],
+          [
+            "we",
+            "work",
+            "Do we work?"
+          ],
+          [
+            "they",
+            "work",
+            "Do they work?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_i_work_as",
+          "grammar_slug": null,
+          "text_target": "I work as a teacher.",
+          "translation_form": "Trabajo como profesor.",
+          "highlight_words": [
+            "work",
+            "as"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": "chunk_what_do_you_do",
+          "grammar_slug": null,
+          "text_target": "What do you do?",
+          "translation_form": "¿A qué te dedicas?",
+          "highlight_words": [
+            "do",
+            "do"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda**: con *he, she, it* el verbo lleva **-s** en afirmativo: `She works in an office.` Pero en preguntas con **does**, el verbo vuelve a la forma base: `Does she work in an office?`"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas**: `What do you does?` ✗ — El auxiliar **do** ya indica la persona, así que el verbo principal va en forma base: `What do you do?` ✓"
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar la -s en la tercera persona: `He work` ✗ → `He works` ✓",
+        "Usar does y el verbo con -s: `Does she works?` ✗ → `Does she work?` ✓",
+        "Confundir do (auxiliar) con el verbo hacer: en preguntas, do es solo auxiliar."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'doctor'?",
+      "options": [
+        "médico",
+        "profesor",
+        "enfermero",
+        "escritor"
+      ],
+      "correct_answer": "médico",
+      "explanation_md": "'Doctor' significa 'médico' en español.",
+      "related_lexeme_ids": [
+        "doctor"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'nurse'?",
+      "options": [
+        "doctor",
+        "enfermera",
+        "maestra",
+        "científico"
+      ],
+      "correct_answer": "enfermera",
+      "explanation_md": "'Nurse' significa 'enfermera' en español.",
+      "related_lexeme_ids": [
+        "nurse"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la pregunta correcta para preguntar por la profesión de alguien?",
+      "options": [
+        "What do you do?",
+        "Where do you live?",
+        "What is your name?",
+        "How old are you?"
+      ],
+      "correct_answer": "What do you do?",
+      "explanation_md": "'What do you do?' es la forma de preguntar por la profesión u ocupación de alguien.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_what_do_you_do"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I ____ as a teacher.' (Trabajo como profesor.)",
+      "options": null,
+      "correct_answer": "work",
+      "explanation_md": "Usamos 'work' con 'as' para decir a qué nos dedicamos: 'I work as a teacher.'",
+      "related_lexeme_ids": [
+        "work_verb",
+        "as_prep"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_work_as"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "matching",
+      "prompt_md": "Empareja cada profesión con su traducción:",
+      "options": [
+        "teacher",
+        "profesor",
+        "scientist",
+        "científico",
+        "writer",
+        "escritor",
+        "waiter",
+        "camarero"
+      ],
+      "correct_answer": [
+        "teacher=profesor",
+        "scientist=científico",
+        "writer=escritor",
+        "waiter=camarero"
+      ],
+      "explanation_md": "Estas son las profesiones que aprendimos en esta lección.",
+      "related_lexeme_ids": [
+        "teacher",
+        "scientist",
+        "writer",
+        "waiter"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Trabajo como enfermera.'",
+      "options": null,
+      "correct_answer": "I work as a nurse.",
+      "explanation_md": "Usamos 'I work as' + profesión para decir a qué nos dedicamos.",
+      "related_lexeme_ids": [
+        "nurse"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_work_as"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'My brother is a doctor.'",
+      "options": null,
+      "correct_answer": "Mi hermano es médico.",
+      "explanation_md": "'My brother' es 'mi hermano' y 'doctor' es 'médico'.",
+      "related_lexeme_ids": [
+        "doctor"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué significa 'I start work at eight'?",
+      "options": [
+        "Empiezo el trabajo a las ocho.",
+        "Termino el trabajo a las ocho.",
+        "Trabajo en una oficina.",
+        "Trabajo como escritor."
+      ],
+      "correct_answer": "Empiezo el trabajo a las ocho.",
+      "explanation_md": "'Start' significa 'empezar' y 'finish' significa 'terminar'.",
+      "related_lexeme_ids": [
+        "start_verb",
+        "work"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_start_finish_work"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué hace Ana?",
+      "options": [
+        "She is a nurse.",
+        "She is a teacher.",
+        "She is a writer.",
+        "She is a scientist."
+      ],
+      "correct_answer": "She is a teacher.",
+      "explanation_md": "El texto dice 'Ana is a teacher' y que trabaja en una escuela.",
+      "related_lexeme_ids": [
+        "teacher",
+        "school",
+        "start_verb",
+        "finish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana is a teacher. She works at a school. She starts work at nine and finishes at three. She is a good teacher. Her students are happy.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Dónde trabaja Tom?",
+      "options": [
+        "At a school.",
+        "At an office.",
+        "At a hospital.",
+        "At a doctor's office."
+      ],
+      "correct_answer": "At a school.",
+      "explanation_md": "El audio dice 'He works at a school'.",
+      "related_lexeme_ids": [
+        "teacher",
+        "work_verb",
+        "start_verb",
+        "finish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom is a teacher. He works at a school. He starts work at eight. He finishes at five. He is a good teacher.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu profesión o la de un familiar. Usa 'I work as...' o 'My ... is a ...'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'work as' y las profesiones.",
+      "related_lexeme_ids": [
+        "work_verb",
+        "as_prep",
+        "doctor",
+        "nurse",
+        "teacher"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_work_as"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I work as a teacher.",
+        "My father is a doctor.",
+        "My sister is a nurse."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hace María?",
+      "options": [
+        "She is a nurse.",
+        "She is a teacher.",
+        "She is a scientist.",
+        "She is a writer."
+      ],
+      "correct_answer": "She is a scientist.",
+      "explanation_md": "El audio dice 'Maria is a scientist'.",
+      "related_lexeme_ids": [
+        "scientist",
+        "office",
+        "start_verb",
+        "finish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "Maria is a scientist. She works at an office. She starts work at nine. She finishes at four. She is very smart.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "doctor",
+      "back": "médico / doctor",
+      "hint": "profesión de salud",
+      "lexeme_id": "doctor",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "nurse",
+      "back": "enfermero/a",
+      "hint": "profesión de salud",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "teacher",
+      "back": "profesor/a",
+      "hint": "trabaja en una escuela",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "waiter",
+      "back": "camarero / mesero",
+      "hint": "trabaja en un restaurante",
+      "lexeme_id": "waiter",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "scientist",
+      "back": "científico/a",
+      "hint": "trabaja con ciencia",
+      "lexeme_id": "scientist",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "writer",
+      "back": "escritor/a",
+      "hint": "escribe libros",
+      "lexeme_id": "writer",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "work",
+      "back": "trabajar",
+      "hint": "verbo de acción",
+      "lexeme_id": "work_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "work",
+      "back": "trabajo",
+      "hint": "sustantivo",
+      "lexeme_id": "work",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "office",
+      "back": "oficina",
+      "hint": "lugar de trabajo",
+      "lexeme_id": "office",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "as",
+      "back": "como",
+      "hint": "preposición",
+      "lexeme_id": "as_prep",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "school",
+      "back": "escuela / colegio",
+      "hint": "lugar de estudio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "start",
+      "back": "empezar",
+      "hint": "verbo de rutina",
+      "lexeme_id": "start_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "finish",
+      "back": "terminar",
+      "hint": "verbo de rutina",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "do",
+      "back": "hacer / auxiliar de pregunta",
+      "hint": "verbo y auxiliar",
+      "lexeme_id": "do_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "does",
+      "back": "hace / auxiliar de pregunta (3a pers.)",
+      "hint": "forma de do para él/ella",
+      "lexeme_id": "do_verb_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_016",
+      "front": "I work as a ...",
+      "back": "Trabajo como ...",
+      "hint": "chunk para hablar de tu profesión",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_work_as",
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_017",
+      "front": "I start work at ... / I finish work at ...",
+      "back": "Empiezo / termino el trabajo a las ...",
+      "hint": "chunk para hablar de horarios",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_start_finish_work",
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_018",
+      "front": "What do you do?",
+      "back": "¿A qué te dedicas?",
+      "hint": "pregunta sobre profesión",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_do_you_do",
+      "target_term": null,
+      "tags": [
+        "lesson_010",
+        "A1",
+        "work"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "doctor",
+      "reading": "",
+      "translation": "médico / doctor",
+      "pos": "noun",
+      "example": "My brother is a doctor.",
+      "example_translation": "Mi hermano es médico.",
+      "lexeme_id": "doctor",
+      "chunk_id": null
+    },
+    {
+      "target_word": "nurse",
+      "reading": "",
+      "translation": "enfermero/a",
+      "pos": "noun",
+      "example": "My sister is a nurse.",
+      "example_translation": "Mi hermana es enfermera.",
+      "lexeme_id": "nurse",
+      "chunk_id": null
+    },
+    {
+      "target_word": "teacher",
+      "reading": "",
+      "translation": "profesor/a",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "teacher",
+      "chunk_id": null
+    },
+    {
+      "target_word": "waiter",
+      "reading": "",
+      "translation": "camarero / mesero",
+      "pos": "noun",
+      "example": "My friend is a waiter.",
+      "example_translation": "Mi amigo es camarero.",
+      "lexeme_id": "waiter",
+      "chunk_id": null
+    },
+    {
+      "target_word": "scientist",
+      "reading": "",
+      "translation": "científico / científica",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "scientist",
+      "chunk_id": null
+    },
+    {
+      "target_word": "writer",
+      "reading": "",
+      "translation": "escritor / escritora",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "writer",
+      "chunk_id": null
+    },
+    {
+      "target_word": "work",
+      "reading": "",
+      "translation": "trabajar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "work_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "work",
+      "reading": "",
+      "translation": "trabajo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "work",
+      "chunk_id": null
+    },
+    {
+      "target_word": "office",
+      "reading": "",
+      "translation": "oficina",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "office",
+      "chunk_id": null
+    },
+    {
+      "target_word": "as",
+      "reading": "",
+      "translation": "como",
+      "pos": "preposition",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "as_prep",
+      "chunk_id": null
+    },
+    {
+      "target_word": "school",
+      "reading": "",
+      "translation": "escuela / colegio",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "school",
+      "chunk_id": null
+    },
+    {
+      "target_word": "start",
+      "reading": "",
+      "translation": "empezar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "start_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "finish",
+      "reading": "",
+      "translation": "terminar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "do",
+      "reading": "",
+      "translation": "hacer / auxiliar de pregunta",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "do_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "do",
+      "reading": "",
+      "translation": "hacer / auxiliar de pregunta (3a pers.)",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "do_verb_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I work as a / at ...",
+      "reading": "",
+      "translation": "Trabajo como / en ...",
+      "pos": "chunk",
+      "example": "I work as a teacher.",
+      "example_translation": "Trabajo como profesor.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_work_as"
+    },
+    {
+      "target_word": "I start work at [time]. / I finish work at [time].",
+      "reading": "",
+      "translation": "Empiezo / termino el trabajo a las ...",
+      "pos": "chunk",
+      "example": "I start work at eight.",
+      "example_translation": "Empiezo el trabajo a las ocho.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_start_finish_work"
+    },
+    {
+      "target_word": "What do you do?",
+      "reading": "",
+      "translation": "¿A qué te dedicas?",
+      "pos": "chunk",
+      "example": "What do you do?",
+      "example_translation": "¿A qué te dedicas?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_do_you_do"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "practiced",
+      "translation": "médico / doctor",
+      "lexeme_id": "doctor",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_001",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "nurse",
+      "role": "support",
+      "status": "practiced",
+      "translation": "enfermero/a",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_006",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "practiced",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_009",
+        "ex_011",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "waiter",
+      "role": "support",
+      "status": "practiced",
+      "translation": "camarero / mesero",
+      "lexeme_id": "waiter",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_005",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "scientist",
+      "role": "support",
+      "status": "practiced",
+      "translation": "científico / científica",
+      "lexeme_id": "scientist",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "writer",
+      "role": "support",
+      "status": "practiced",
+      "translation": "escritor / escritora",
+      "lexeme_id": "writer",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "practiced",
+      "translation": "trabajar",
+      "lexeme_id": "work_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_010",
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "practiced",
+      "translation": "trabajo",
+      "lexeme_id": "work",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "office",
+      "role": "support",
+      "status": "practiced",
+      "translation": "oficina",
+      "lexeme_id": "office",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "as",
+      "role": "support",
+      "status": "practiced",
+      "translation": "como",
+      "lexeme_id": "as_prep",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_011",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "practiced",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "start",
+      "role": "support",
+      "status": "practiced",
+      "translation": "empezar",
+      "lexeme_id": "start_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "finish",
+      "role": "support",
+      "status": "practiced",
+      "translation": "terminar",
+      "lexeme_id": "finish_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "do",
+      "role": "support",
+      "status": "introduced",
+      "translation": "hacer / auxiliar de pregunta",
+      "lexeme_id": "do_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_014"
+      ]
+    },
+    {
+      "term": "do",
+      "role": "support",
+      "status": "introduced",
+      "translation": "hacer / auxiliar de pregunta (3a pers.)",
+      "lexeme_id": "do_verb_2",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_015"
+      ]
+    },
+    {
+      "term": "I work as a / at ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Trabajo como / en ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_work_as",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_004",
+        "ex_006",
+        "ex_011",
+        "fc_016"
+      ]
+    },
+    {
+      "term": "I start work at [time]. / I finish work at [time].",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Empiezo / termino el trabajo a las ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_start_finish_work",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "fc_017"
+      ]
+    },
+    {
+      "term": "What do you do?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿A qué te dedicas?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_what_do_you_do",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "fc_018"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "fc_001",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "sister",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hermana",
+      "lexeme_id": "sister",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "brother",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hermano",
+      "lexeme_id": "brother",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "place",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lugar",
+      "lexeme_id": "place",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "job",
+      "role": "support",
+      "status": "emergent",
+      "translation": "trabajo / empleo",
+      "lexeme_id": "job",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 18,
+    "review_support_count": 0,
+    "emergent_count": 7,
+    "emergent_terms": [
+      "doctor",
+      "sister",
+      "friend",
+      "brother",
+      "good",
+      "place",
+      "job"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Profesiones y ocupaciones",
+      "title_target": "Quiz: Jobs and Occupations",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a teacher'?",
+          "prompt_target": "What does 'I work as a teacher' mean?",
+          "options": [
+            "Trabajo como profesor.",
+            "Soy estudiante.",
+            "Trabajo en una oficina.",
+            "Soy doctor."
+          ],
+          "correct_answer": "Trabajo como profesor.",
+          "explanation_form": "La frase 'I work as a teacher' significa 'Trabajo como profesor'. Usamos 'work as' para decir nuestra profesión.",
+          "explanation_target": "The phrase 'I work as a teacher' means 'I work as a teacher'. We use 'work as' to say our job.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_i_work_as",
+            "teacher",
+            "work_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para preguntar por el trabajo de alguien?",
+          "prompt_target": "What is the correct question to ask about someone's work?",
+          "options": [
+            "What do you do?",
+            "What is your name?",
+            "Where do you live?",
+            "How old are you?"
+          ],
+          "correct_answer": "What do you do?",
+          "explanation_form": "Para preguntar por el trabajo de alguien, usamos 'What do you do?'. Las otras opciones preguntan por nombre, lugar de residencia o edad.",
+          "explanation_target": "To ask about someone's work, we use 'What do you do?'. The other options ask about name, place of residence, or age.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_what_do_you_do",
+            "what_wh",
+            "do_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I start work at 8'?",
+          "prompt_target": "What does 'I start work at 8' mean?",
+          "options": [
+            "Empiezo a trabajar a las 8.",
+            "Termino de trabajar a las 8.",
+            "Trabajo en una oficina.",
+            "Soy enfermero."
+          ],
+          "correct_answer": "Empiezo a trabajar a las 8.",
+          "explanation_form": "'I start work at 8' significa 'Empiezo a trabajar a las 8'. 'Start' significa 'empezar'.",
+          "explanation_target": "'I start work at 8' means 'I start work at 8'. 'Start' means 'to begin'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_i_start_finish_work",
+            "start_verb",
+            "work"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I finish work at 5'?",
+          "prompt_target": "What does 'I finish work at 5' mean?",
+          "options": [
+            "Termino de trabajar a las 5.",
+            "Empiezo a trabajar a las 5.",
+            "Trabajo en una escuela.",
+            "Soy científico."
+          ],
+          "correct_answer": "Termino de trabajar a las 5.",
+          "explanation_form": "'I finish work at 5' significa 'Termino de trabajar a las 5'. 'Finish' significa 'terminar'.",
+          "explanation_target": "'I finish work at 5' means 'I finish work at 5'. 'Finish' means 'to end'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_i_start_finish_work",
+            "finish_verb",
+            "work"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work in an office'?",
+          "prompt_target": "What does 'I work in an office' mean?",
+          "options": [
+            "Trabajo en una oficina.",
+            "Trabajo en una escuela.",
+            "Soy doctor.",
+            "Soy camarero."
+          ],
+          "correct_answer": "Trabajo en una oficina.",
+          "explanation_form": "'I work in an office' significa 'Trabajo en una oficina'. Usamos 'in' para indicar el lugar de trabajo.",
+          "explanation_target": "'I work in an office' means 'I work in an office'. We use 'in' to indicate the place of work.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "office",
+            "work_verb",
+            "as_prep"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work in a school'?",
+          "prompt_target": "What does 'I work in a school' mean?",
+          "options": [
+            "Trabajo en una escuela.",
+            "Trabajo en una oficina.",
+            "Soy enfermero.",
+            "Soy científico."
+          ],
+          "correct_answer": "Trabajo en una escuela.",
+          "explanation_form": "'I work in a school' significa 'Trabajo en una escuela'. 'School' significa 'escuela'.",
+          "explanation_target": "'I work in a school' means 'I work in a school'. 'School' means 'school'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "school",
+            "work_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a doctor'?",
+          "prompt_target": "What does 'I work as a doctor' mean?",
+          "options": [
+            "Trabajo como doctor.",
+            "Trabajo como enfermero.",
+            "Trabajo como profesor.",
+            "Trabajo como camarero."
+          ],
+          "correct_answer": "Trabajo como doctor.",
+          "explanation_form": "'I work as a doctor' significa 'Trabajo como doctor'. 'Doctor' significa 'médico'.",
+          "explanation_target": "'I work as a doctor' means 'I work as a doctor'. 'Doctor' means 'doctor'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "doctor",
+            "chunk_i_work_as"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a nurse'?",
+          "prompt_target": "What does 'I work as a nurse' mean?",
+          "options": [
+            "Trabajo como enfermero.",
+            "Trabajo como doctor.",
+            "Trabajo como profesor.",
+            "Trabajo como camarero."
+          ],
+          "correct_answer": "Trabajo como enfermero.",
+          "explanation_form": "'I work as a nurse' significa 'Trabajo como enfermero'. 'Nurse' significa 'enfermero'.",
+          "explanation_target": "'I work as a nurse' means 'I work as a nurse'. 'Nurse' means 'nurse'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "nurse",
+            "chunk_i_work_as"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a scientist'?",
+          "prompt_target": "What does 'I work as a scientist' mean?",
+          "options": [
+            "Trabajo como científico.",
+            "Trabajo como profesor.",
+            "Trabajo como camarero.",
+            "Trabajo como escritor."
+          ],
+          "correct_answer": "Trabajo como científico.",
+          "explanation_form": "'I work as a scientist' significa 'Trabajo como científico'. 'Scientist' significa 'científico'.",
+          "explanation_target": "'I work as a scientist' means 'I work as a scientist'. 'Scientist' means 'scientist'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "scientist",
+            "chunk_i_work_as"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a waiter'?",
+          "prompt_target": "What does 'I work as a waiter' mean?",
+          "options": [
+            "Trabajo como camarero.",
+            "Trabajo como doctor.",
+            "Trabajo como enfermero.",
+            "Trabajo como científico."
+          ],
+          "correct_answer": "Trabajo como camarero.",
+          "explanation_form": "'I work as a waiter' significa 'Trabajo como camarero'. 'Waiter' significa 'camarero'.",
+          "explanation_target": "'I work as a waiter' means 'I work as a waiter'. 'Waiter' means 'waiter'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "waiter",
+            "chunk_i_work_as"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a writer'?",
+          "prompt_target": "What does 'I work as a writer' mean?",
+          "options": [
+            "Trabajo como escritor.",
+            "Trabajo como profesor.",
+            "Trabajo como camarero.",
+            "Trabajo como científico."
+          ],
+          "correct_answer": "Trabajo como escritor.",
+          "explanation_form": "'I work as a writer' significa 'Trabajo como escritor'. 'Writer' significa 'escritor'.",
+          "explanation_target": "'I work as a writer' means 'I work as a writer'. 'Writer' means 'writer'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "writer",
+            "chunk_i_work_as"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a teacher'?",
+          "prompt_target": "What does 'I work as a teacher' mean?",
+          "options": [
+            "Trabajo como profesor.",
+            "Trabajo como doctor.",
+            "Trabajo como enfermero.",
+            "Trabajo como camarero."
+          ],
+          "correct_answer": "Trabajo como profesor.",
+          "explanation_form": "'I work as a teacher' significa 'Trabajo como profesor'. 'Teacher' significa 'profesor'.",
+          "explanation_target": "'I work as a teacher' means 'I work as a teacher'. 'Teacher' means 'teacher'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "teacher",
+            "chunk_i_work_as"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_013",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a nurse'?",
+          "prompt_target": "What does 'I work as a nurse' mean?",
+          "options": [
+            "Trabajo como enfermero.",
+            "Trabajo como doctor.",
+            "Trabajo como profesor.",
+            "Trabajo como camarero."
+          ],
+          "correct_answer": "Trabajo como enfermero.",
+          "explanation_form": "'I work as a nurse' significa 'Trabajo como enfermero'. 'Nurse' significa 'enfermero'.",
+          "explanation_target": "'I work as a nurse' means 'I work as a nurse'. 'Nurse' means 'nurse'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "nurse",
+            "chunk_i_work_as"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_014",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a scientist'?",
+          "prompt_target": "What does 'I work as a scientist' mean?",
+          "options": [
+            "Trabajo como científico.",
+            "Trabajo como profesor.",
+            "Trabajo como camarero.",
+            "Trabajo como escritor."
+          ],
+          "correct_answer": "Trabajo como científico.",
+          "explanation_form": "'I work as a scientist' significa 'Trabajo como científico'. 'Scientist' significa 'científico'.",
+          "explanation_target": "'I work as a scientist' means 'I work as a scientist'. 'Scientist' means 'scientist'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "scientist",
+            "chunk_i_work_as"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_015",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I work as a waiter'?",
+          "prompt_target": "What does 'I work as a waiter' mean?",
+          "options": [
+            "Trabajo como camarero.",
+            "Trabajo como doctor.",
+            "Trabajo como enfermero.",
+            "Trabajo como científico."
+          ],
+          "correct_answer": "Trabajo como camarero.",
+          "explanation_form": "'I work as a waiter' significa 'Trabajo como camarero'. 'Waiter' significa 'camarero'.",
+          "explanation_target": "'I work as a waiter' means 'I work as a waiter'. 'Waiter' means 'waiter'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "waiter",
+            "chunk_i_work_as"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El verbo 'work' y la preposicion 'as'\n\nEn ingles, para decir a que te dedicas usas **work as** + profesion: *I work as a teacher*. No digas *I am teacher* (sin articulo). Recuerda: **a** antes de la profesion.\n\n## Preguntas sobre el trabajo\n\nPara preguntar a alguien sobre su trabajo usa **What do you do?** (no *What are you doing?*, que significa 'que haces ahora mismo'). Responde con *I work as...* o *I am a...*. Practica con las profesiones nuevas: doctor, nurse, waiter, scientist, writer.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:30:50Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

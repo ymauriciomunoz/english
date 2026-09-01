@@ -1,0 +1,1627 @@
+{
+  "id": "lesson_016",
+  "position": 16,
+  "unit_id": 2,
+  "course_id": "en.A2",
+  "title_form": "Writing about a past experience",
+  "title_target": "Escribiendo sobre una experiencia pasada",
+  "theme_focus": "daily_routine",
+  "learning_objectives": [
+    "Can write a short message about a past experience using past simple."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_015"
+  ],
+  "grammar_focus": [
+    "past simple: negative didn't",
+    "past simple: questions with did"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "experience",
+        "appear_verb",
+        "lucky_adj",
+        "unhappy_adj",
+        "scared_adj"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "appointment",
+        "afterwards_adv",
+        "event",
+        "memory",
+        "celebration",
+        "busy"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana recuerda una experiencia de la semana pasada: tuvo una cita importante, pero llegó tarde y se sintió un poco asustada. Después, todo salió bien y ahora quiere escribir un mensaje a su amiga contando lo que pasó.",
+  "introduction_md": "## Escribiendo sobre una experiencia pasada\n\nEn esta lección vas a aprender a escribir un mensaje corto sobre algo que te pasó. Usaremos el **past simple** para contar experiencias, y también las formas negativas y preguntas con **did**.\n\n- **experience** (experiencia)\n- **appear** (aparecer)\n- **lucky** (con suerte)\n- **unhappy** (infeliz)\n- **scared** (asustado)\n\nVas a practicar con ejemplos de la vida diaria: una cita, un evento, un recuerdo. Al final, podrás escribir tu propio mensaje sobre una experiencia pasada. ¡Vamos a empezar!",
+  "intro_target": "## Writing about a past experience\n\nIn this lesson, you will learn to write a short message about something that happened to you. We will use the **past simple** to talk about experiences, and also the negative forms and questions with **did**.\n\n- **experience**\n- **appear**\n- **lucky**\n- **unhappy**\n- **scared**\n\nYou will practice with examples from daily life: an appointment, an event, a memory. At the end, you will write your own message about a past experience. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "experience",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I had a wonderful experience at the beach last summer.",
+      "translation_form": "Tuve una experiencia maravillosa en la playa el verano pasado.",
+      "highlight_words": [
+        "experience"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "appear_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Suddenly, a cat appeared in the garden.",
+      "translation_form": "De repente, un gato apareció en el jardín.",
+      "highlight_words": [
+        "appeared"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "lucky_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We were lucky because the train was not late.",
+      "translation_form": "Fuimos afortunados porque el tren no llegó tarde.",
+      "highlight_words": [
+        "lucky"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "unhappy_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She was unhappy about the bad news.",
+      "translation_form": "Ella estaba triste por las malas noticias.",
+      "highlight_words": [
+        "unhappy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "scared_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The little boy was scared of the dark.",
+      "translation_form": "El niño pequeño estaba asustado de la oscuridad.",
+      "highlight_words": [
+        "scared"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Did you enjoy the celebration? Yes, it was fantastic!",
+      "translation_form": "¿Disfrutaste la celebración? ¡Sí, fue fantástica!",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I didn't go to the appointment because I was busy.",
+      "translation_form": "No fui a la cita porque estaba ocupado.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Did you see the event? No, I didn't have time.",
+      "translation_form": "¿Viste el evento? No, no tuve tiempo.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "past simple: negative didn't",
+      "title_form": "Pasado simple: negativo con didn't",
+      "title_target": "Past simple: negative with didn't",
+      "description_md_form": "Para decir que **no** hiciste algo en el pasado, usamos **didn't** (did not) + el **verbo en forma base**. La forma del verbo **no cambia** con ninguna persona.\n\n**Estructura:** Sujeto + **didn't** + verbo base + complemento.\n\n| Persona | Ejemplo |\n|---------|---------|\n| I | I **didn't** appear |\n| You | You **didn't** appear |\n| He/She/It | She **didn't** appear |\n| We | We **didn't** appear |\n| They | They **didn't** appear |\n\n**Importante:** No usamos *didn't* con *was/were*. Para *be* en negativo usamos **wasn't** o **weren't**.\n\n**Ejemplo:** *I didn't feel scared.* = No me sentí asustado.",
+      "description_md_target": "To say you **did not** do something in the past, use **didn't** (did not) + the **base form of the verb**. The verb form **does not change** for any person.\n\n**Structure:** Subject + **didn't** + base verb + complement.\n\n**Important:** Do not use *didn't* with *was/were*. For *be* in the negative, use **wasn't** or **weren't**.\n\n**Example:** *I didn't feel scared.*",
+      "grammar_structure": "Subject + didn't + base verb + complement",
+      "conjugation_table": {
+        "name": "past_simple_negative",
+        "headers": [
+          "Pronombre",
+          "Negativo",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "didn't appear",
+            "I didn't appear."
+          ],
+          [
+            "You",
+            "didn't appear",
+            "You didn't appear."
+          ],
+          [
+            "He/She/It",
+            "didn't appear",
+            "She didn't appear."
+          ],
+          [
+            "We",
+            "didn't appear",
+            "We didn't appear."
+          ],
+          [
+            "They",
+            "didn't appear",
+            "They didn't appear."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: negative didn't",
+          "text_target": "I didn't feel scared during the event.",
+          "translation_form": "No me sentí asustado durante el evento.",
+          "highlight_words": [
+            "didn't",
+            "feel"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: negative didn't",
+          "text_target": "We didn't have a bad experience at the beach.",
+          "translation_form": "No tuvimos una mala experiencia en la playa.",
+          "highlight_words": [
+            "didn't",
+            "have"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas:** *I didn't went.* **Di:** *I didn't go.* Después de *didn't*, el verbo siempre va en forma base, nunca en pasado."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado con *be*:** No uses *didn't* con *was/were*. Para *be* en negativo, usa *wasn't* (singular) o *weren't* (plural). Ejemplo: *She wasn't unhappy.*"
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** *Didn't* es igual para todas las personas. No necesitas cambiar nada: *I didn't*, *he didn't*, *they didn't*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar el verbo en pasado después de didn't: *I didn't went* → *I didn't go*.",
+        "Usar didn't con was/were: *I didn't was scared* → *I wasn't scared*.",
+        "Olvidar el verbo en forma base: *She didn't appeared* → *She didn't appear*."
+      ]
+    },
+    {
+      "slug": "past simple: questions with did",
+      "title_form": "Preguntas en pasado con did",
+      "title_target": "Past simple questions with did",
+      "description_md_form": "Para hacer **preguntas** sobre el pasado, usamos el auxiliar **did** + el verbo en **forma base**. El verbo principal NO cambia a pasado; solo `did` lleva la marca de pasado.\n\n**Estructura:** `Did + sujeto + verbo (base) + ...?`\n\n- `Did you see the cat?` = ¿Viste al gato?\n- `Did she feel scared?` = ¿Ella se sintió asustada?\n\n**Respuestas cortas:**\n- Sí: `Yes, I did.` / `Yes, she did.`\n- No: `No, I didn't.` / `No, she didn't.`\n\n**Importante:** `did` es igual para todas las personas (I, you, he, she, it, we, they). No decimos `Did you saw...`, sino `Did you see...`.",
+      "description_md_target": "To make **questions** about the past, we use the auxiliary **did** + the verb in **base form**. The main verb does NOT change to past; only `did` carries the past marker.\n\n**Structure:** `Did + subject + verb (base) + ...?`\n\n- `Did you see the cat?`\n- `Did she feel scared?`\n\n**Short answers:**\n- Yes: `Yes, I did.` / `Yes, she did.`\n- No: `No, I didn't.` / `No, she didn't.`\n\n**Important:** `did` is the same for all persons (I, you, he, she, it, we, they). We don't say `Did you saw...`, we say `Did you see...`.",
+      "grammar_structure": "Did + subject + verb (base form) + ...?",
+      "conjugation_table": {
+        "name": "past_simple_questions",
+        "headers": [
+          "Pronombre",
+          "Pregunta",
+          "Respuesta corta sí",
+          "Respuesta corta no"
+        ],
+        "rows": [
+          [
+            "I",
+            "Did I appear...?",
+            "Yes, I did.",
+            "No, I didn't."
+          ],
+          [
+            "you",
+            "Did you appear...?",
+            "Yes, you did.",
+            "No, you didn't."
+          ],
+          [
+            "he/she/it",
+            "Did she appear...?",
+            "Yes, she did.",
+            "No, she didn't."
+          ],
+          [
+            "we",
+            "Did we appear...?",
+            "Yes, we did.",
+            "No, we didn't."
+          ],
+          [
+            "they",
+            "Did they appear...?",
+            "Yes, they did.",
+            "No, they didn't."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: questions with did",
+          "text_target": "Did you have a good experience at the beach?",
+          "translation_form": "¿Tuviste una buena experiencia en la playa?",
+          "highlight_words": [
+            "did",
+            "have"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "past simple: questions with did",
+          "text_target": "Did the cat appear in the garden?",
+          "translation_form": "¿Apareció el gato en el jardín?",
+          "highlight_words": [
+            "did",
+            "appear"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas:** `Did you saw the cat?` **Di:** `Did you see the cat?` Después de `did`, el verbo va en forma base, no en pasado."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** `did` ya indica pasado, así que el verbo principal no necesita cambiar. Es como si `did` \"cargara\" con el pasado por ti."
+        }
+      ],
+      "common_errors_es": [
+        "Usar el verbo en pasado después de did: `Did you went...?` → correcto: `Did you go...?`",
+        "Olvidar el auxiliar did: `You saw the cat?` → correcto: `Did you see the cat?`",
+        "Confundir la respuesta corta: `Yes, I did.` no es `Yes, I did see.` (la forma completa es opcional, la corta es más natural)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'experience'?",
+      "options": [
+        "experiencia",
+        "evento",
+        "recuerdo",
+        "celebración"
+      ],
+      "correct_answer": "experiencia",
+      "explanation_md": "'Experience' significa 'experiencia'.",
+      "related_lexeme_ids": [
+        "experience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'scared'?",
+      "options": [
+        "asustado",
+        "triste",
+        "afortunado",
+        "ocupado"
+      ],
+      "correct_answer": "asustado",
+      "explanation_md": "'Scared' significa 'asustado'.",
+      "related_lexeme_ids": [
+        "scared_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'She ___ the movie because she was scared.'",
+      "options": [
+        "didn't watch",
+        "didn't watched",
+        "didn't watches",
+        "didn't watching"
+      ],
+      "correct_answer": "didn't watch",
+      "explanation_md": "Con 'didn't' usamos la forma base del verbo: 'didn't watch'.",
+      "related_lexeme_ids": [
+        "scared_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la pregunta correcta?",
+      "options": [
+        "Did you enjoy the party?",
+        "Did you enjoyed the party?",
+        "Did you enjoy the party?",
+        "Did you enjoy the party?"
+      ],
+      "correct_answer": "Did you enjoy the party?",
+      "explanation_md": "Con 'did' usamos la forma base del verbo: 'Did you enjoy...?'",
+      "related_lexeme_ids": [
+        "experience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la forma correcta del verbo: 'I ___ (not / go) to the party.'",
+      "options": null,
+      "correct_answer": "didn't go",
+      "explanation_md": "La forma negativa del pasado simple es 'didn't' + verbo en forma base.",
+      "related_lexeme_ids": [
+        "experience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la pregunta: '___ you see the cat in the garden?'",
+      "options": null,
+      "correct_answer": "Did",
+      "explanation_md": "Las preguntas en pasado simple comienzan con 'Did'.",
+      "related_lexeme_ids": [
+        "appear_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'No vimos la película.'",
+      "options": null,
+      "correct_answer": "We didn't watch the movie.",
+      "explanation_md": "Usamos 'didn't' + verbo en forma base para el pasado negativo.",
+      "related_lexeme_ids": [
+        "experience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: '¿Estuviste en la fiesta?'",
+      "options": null,
+      "correct_answer": "Did you go to the party?",
+      "explanation_md": "Las preguntas en pasado simple usan 'Did' + sujeto + verbo en forma base.",
+      "related_lexeme_ids": [
+        "experience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "lucky",
+        "afortunado",
+        "unhappy",
+        "triste",
+        "appear",
+        "aparecer",
+        "scared",
+        "asustado"
+      ],
+      "correct_answer": [
+        "lucky=afortunado",
+        "unhappy=triste",
+        "appear=aparecer",
+        "scared=asustado"
+      ],
+      "explanation_md": "Estas son las palabras nuevas de la lección.",
+      "related_lexeme_ids": [
+        "lucky_adj",
+        "unhappy_adj",
+        "appear_verb",
+        "scared_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué no fue Tom a la fiesta?",
+      "options": [
+        "Porque estaba enfermo",
+        "Porque no tenía dinero",
+        "Porque estaba ocupado",
+        "Porque no quería"
+      ],
+      "correct_answer": "Porque estaba enfermo",
+      "explanation_md": "El texto dice 'He was sick and stayed at home'.",
+      "related_lexeme_ids": [
+        "experience",
+        "unhappy_adj",
+        "lucky_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tom had a bad experience last weekend. He was unhappy because he didn't go to his friend's party. He was sick and stayed at home. He watched a movie and slept early. He was lucky because his friend visited him the next day.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hizo Ana?",
+      "options": [
+        "Fue al jardín",
+        "Se quedó en su habitación",
+        "Fue a una fiesta",
+        "Llamó a un amigo"
+      ],
+      "correct_answer": "Se quedó en su habitación",
+      "explanation_md": "El audio dice 'She stayed in her room and read a book'.",
+      "related_lexeme_ids": [
+        "scared_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Ana was scared of the dark. She didn't go to the garden at night. She stayed in her room and read a book. She was happy because she found a new book.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre una experiencia pasada. Usá 'didn't' o una pregunta con 'Did'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto del pasado simple negativo y las preguntas con 'did'.",
+      "related_lexeme_ids": [
+        "experience"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I didn't go to the beach last summer. I was busy.",
+        "Did you see the movie? It was amazing.",
+        "I didn't eat breakfast this morning. I was late."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "experience",
+      "back": "experiencia",
+      "hint": "sustantivo",
+      "lexeme_id": "experience",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "appear",
+      "back": "aparecer",
+      "hint": "verbo",
+      "lexeme_id": "appear_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "lucky",
+      "back": "afortunado",
+      "hint": "adjetivo",
+      "lexeme_id": "lucky_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "unhappy",
+      "back": "triste / apenado / infeliz",
+      "hint": "adjetivo",
+      "lexeme_id": "unhappy_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "scared",
+      "back": "asustado",
+      "hint": "adjetivo",
+      "lexeme_id": "scared_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "A2",
+        "emotions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "appointment",
+      "back": "cita (médica, de trabajo)",
+      "hint": "sustantivo",
+      "lexeme_id": "appointment",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "A2",
+        "daily_life"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "afterwards",
+      "back": "después, más tarde",
+      "hint": "adverbio",
+      "lexeme_id": "afterwards_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "A2",
+        "daily_life"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "event",
+      "back": "evento, acontecimiento",
+      "hint": "sustantivo",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_016",
+        "A2",
+        "social_plans"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "experience",
+      "reading": "",
+      "translation": "experiencia",
+      "pos": "noun",
+      "example": "I had a wonderful experience at the beach last summer.",
+      "example_translation": "Tuve una experiencia maravillosa en la playa el verano pasado.",
+      "lexeme_id": "experience",
+      "chunk_id": null
+    },
+    {
+      "target_word": "appear",
+      "reading": "",
+      "translation": "aparecer",
+      "pos": "verb",
+      "example": "Suddenly, a cat appeared in the garden.",
+      "example_translation": "De repente, un gato apareció en el jardín.",
+      "lexeme_id": "appear_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "lucky",
+      "reading": "",
+      "translation": "afortunado",
+      "pos": "adjective",
+      "example": "We were lucky because the train was not late.",
+      "example_translation": "Fuimos afortunados porque el tren no llegó tarde.",
+      "lexeme_id": "lucky_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "unhappy",
+      "reading": "",
+      "translation": "triste / apenado / infeliz",
+      "pos": "adjective",
+      "example": "She was unhappy about the bad news.",
+      "example_translation": "Ella estaba triste por las malas noticias.",
+      "lexeme_id": "unhappy_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "scared",
+      "reading": "",
+      "translation": "asustado",
+      "pos": "adjective",
+      "example": "The little boy was scared of the dark.",
+      "example_translation": "El niño pequeño estaba asustado de la oscuridad.",
+      "lexeme_id": "scared_adj",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "experience",
+      "role": "support",
+      "status": "practiced",
+      "translation": "experiencia",
+      "lexeme_id": "experience",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_004",
+        "ex_005",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "appear",
+      "role": "support",
+      "status": "practiced",
+      "translation": "aparecer",
+      "lexeme_id": "appear_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_006",
+        "ex_009",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "lucky",
+      "role": "support",
+      "status": "practiced",
+      "translation": "afortunado",
+      "lexeme_id": "lucky_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_010",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "unhappy",
+      "role": "support",
+      "status": "practiced",
+      "translation": "triste / apenado / infeliz",
+      "lexeme_id": "unhappy_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "scared",
+      "role": "support",
+      "status": "practiced",
+      "translation": "asustado",
+      "lexeme_id": "scared_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_002",
+        "ex_003",
+        "ex_009",
+        "ex_011",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "appointment",
+      "role": "support",
+      "status": "review",
+      "translation": "cita / hora / citado",
+      "lexeme_id": "appointment",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_006"
+      ]
+    },
+    {
+      "term": "afterwards",
+      "role": "support",
+      "status": "review",
+      "translation": "despues / posteriormente",
+      "lexeme_id": "afterwards_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "event",
+      "role": "support",
+      "status": "review",
+      "translation": "evento",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_012",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "beach",
+      "role": "support",
+      "status": "emergent",
+      "translation": "playa",
+      "lexeme_id": "beach",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_012",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "suddenly",
+      "role": "support",
+      "status": "emergent",
+      "translation": "de repente",
+      "lexeme_id": "suddenly_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_003",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "late",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tarde",
+      "lexeme_id": "late_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "bad",
+      "role": "support",
+      "status": "emergent",
+      "translation": "malo",
+      "lexeme_id": "bad_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "busy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ocupado",
+      "lexeme_id": "busy",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "dark",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oscuro",
+      "lexeme_id": "dark",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "enjoy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "disfrutar",
+      "lexeme_id": "enjoy_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "wonderful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "maravilloso",
+      "lexeme_id": "wonderful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "summer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "verano",
+      "lexeme_id": "summer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "fantastic",
+      "role": "support",
+      "status": "emergent",
+      "translation": "brutal / genial / bárbaro",
+      "lexeme_id": "fantastic_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "garden",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jardín",
+      "lexeme_id": "garden",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "train",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tren",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "cat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gato",
+      "lexeme_id": "cat",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "news",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noticias",
+      "lexeme_id": "news",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "afterwards",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "celebration",
+      "role": "support",
+      "status": "emergent",
+      "translation": "celebración",
+      "lexeme_id": "celebration",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "movie",
+      "role": "support",
+      "status": "emergent",
+      "translation": "película",
+      "lexeme_id": "movie",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_002",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "happy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "feliz / contento",
+      "lexeme_id": "happy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "read",
+      "role": "support",
+      "status": "emergent",
+      "translation": "leer",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "night",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noche",
+      "lexeme_id": "night",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "base",
+      "role": "support",
+      "status": "emergent",
+      "translation": "basar",
+      "lexeme_id": "base_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "meaning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "significado",
+      "lexeme_id": "meaning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "found",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fundar",
+      "lexeme_id": "found_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "negative",
+      "role": "support",
+      "status": "emergent",
+      "translation": "negativo",
+      "lexeme_id": "negative_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_005"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 5,
+    "review_support_count": 3,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "see",
+      "beach",
+      "suddenly",
+      "late",
+      "bad",
+      "busy",
+      "dark",
+      "enjoy",
+      "wonderful",
+      "summer",
+      "fantastic",
+      "garden",
+      "time",
+      "train",
+      "cat",
+      "news",
+      "afterwards",
+      "celebration",
+      "friend",
+      "movie",
+      "day",
+      "happy",
+      "read",
+      "word",
+      "night",
+      "yesterday",
+      "person",
+      "base",
+      "weekend",
+      "meaning",
+      "found",
+      "negative"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Writing about a past experience",
+      "title_target": "Quiz: Writing about a past experience",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma negativa correcta de 'I liked the party'?",
+          "prompt_target": "What is the correct negative form of 'I liked the party'?",
+          "options": [
+            "I didn't like the party.",
+            "I don't liked the party.",
+            "I didn't liked the party.",
+            "I not liked the party."
+          ],
+          "correct_answer": "I didn't like the party.",
+          "explanation_form": "En pasado simple, la negación se forma con 'didn't' + el verbo en su forma base (sin -ed).",
+          "explanation_target": "In the past simple, the negative is formed with 'didn't' + the base form of the verb (without -ed).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: negative didn't"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ you see the movie last night?'",
+          "prompt_target": "Complete the question: '____ you see the movie last night?'",
+          "options": null,
+          "correct_answer": "Did",
+          "explanation_form": "Para preguntas en pasado simple, usamos 'Did' al inicio, seguido del sujeto y el verbo en forma base.",
+          "explanation_target": "For questions in the past simple, we use 'Did' at the beginning, followed by the subject and the base form of the verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: questions with did"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué pasó con el perro?",
+          "prompt_target": "Read the text and answer: What happened to the dog?",
+          "options": [
+            "The dog was friendly.",
+            "The dog was scared.",
+            "The dog disappeared.",
+            "The dog was unhappy."
+          ],
+          "correct_answer": "The dog was friendly.",
+          "explanation_form": "El texto dice 'the dog was friendly', así que el perro fue amigable.",
+          "explanation_target": "The text says 'the dog was friendly', so the dog was friendly.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "experience",
+            "appear_verb",
+            "scared_adj",
+            "lucky_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Last weekend, I had a strange experience. I was at the park with my friend. Suddenly, a big dog appeared. I was scared, but the dog was friendly. It was a lucky day because I found my lost keys near the tree.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Cómo se sintió la persona?",
+          "prompt_target": "Listen and answer: How did the person feel?",
+          "options": [
+            "Happy",
+            "Scared",
+            "Unhappy",
+            "Tired"
+          ],
+          "correct_answer": "Happy",
+          "explanation_form": "La persona dice 'I was very happy', así que se sintió feliz.",
+          "explanation_target": "The person says 'I was very happy', so they felt happy.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "experience"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I went to the beach yesterday. The weather was fantastic. I swam in the sea and played with my friends. I was very happy. It was a wonderful day.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "didn't",
+            "the",
+            "I",
+            "enjoy",
+            "movie"
+          ],
+          "correct_answer": "I didn't enjoy the movie",
+          "explanation_form": "La oración correcta es 'I didn't enjoy the movie' (No disfruté la película).",
+          "explanation_target": "The correct sentence is 'I didn't enjoy the movie'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: negative didn't"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'lucky'?",
+          "prompt_target": "What is the meaning of 'lucky'?",
+          "options": [
+            "Afortunado",
+            "Asustado",
+            "Triste",
+            "Enojado"
+          ],
+          "correct_answer": "Afortunado",
+          "explanation_form": "'Lucky' significa afortunado, que tiene buena suerte.",
+          "explanation_target": "'Lucky' means having good fortune.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "lucky_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la forma correcta del verbo: 'She ____ (appear) at the door suddenly.'",
+          "prompt_target": "Complete with the correct verb form: 'She ____ (appear) at the door suddenly.'",
+          "options": null,
+          "correct_answer": "appeared",
+          "explanation_form": "En pasado simple, agregamos -ed al verbo regular 'appear' → 'appeared'.",
+          "explanation_target": "In the past simple, we add -ed to the regular verb 'appear' → 'appeared'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "appear_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué pregunta hace la persona?",
+          "prompt_target": "Listen and answer: What question does the person ask?",
+          "options": [
+            "Did she forget our meeting?",
+            "Did she call me?",
+            "Did she appear?",
+            "Did she enjoy the party?"
+          ],
+          "correct_answer": "Did she forget our meeting?",
+          "explanation_form": "La persona pregunta 'Did she forget our meeting?' (¿Olvidó nuestra reunión?).",
+          "explanation_target": "The person asks 'Did she forget our meeting?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "past simple: questions with did"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I called my friend yesterday. She didn't answer. I was worried. Did she forget our meeting? I hope she is okay.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el antónimo de 'happy'?",
+          "prompt_target": "What is the antonym of 'happy'?",
+          "options": [
+            "Unhappy",
+            "Lucky",
+            "Scared",
+            "Excited"
+          ],
+          "correct_answer": "Unhappy",
+          "explanation_form": "'Unhappy' es el antónimo de 'happy' (infeliz).",
+          "explanation_target": "'Unhappy' is the antonym of 'happy'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "unhappy_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "experience",
+            "experiencia",
+            "scared",
+            "asustado",
+            "lucky",
+            "afortunado",
+            "unhappy",
+            "infeliz"
+          ],
+          "correct_answer": [
+            "experience=experiencia",
+            "scared=asustado",
+            "lucky=afortunado",
+            "unhappy=infeliz"
+          ],
+          "explanation_form": "Estas son las palabras clave de la lección y sus significados.",
+          "explanation_target": "These are the key words of the lesson and their meanings.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "experience",
+            "scared_adj",
+            "lucky_adj",
+            "unhappy_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El pasado simple: tu aliado para contar historias\n\nCuando cuentes una experiencia pasada, recuerda que **did** ya lleva la marca de pasado. Por eso, el verbo principal vuelve a su forma base: *I didn't enjoy the event* (no *didn't enjoyed*). Para preguntar, usa **Did** al inicio: *Did you feel scared?*.\n\n## Errores comunes y trucos\n\n- **No digas** *I didn't was* → lo correcto es *I wasn't* o *I didn't be* (aunque es más natural *I wasn't*).\n- **Lucky** y **unhappy** son adjetivos: *I was lucky* (no *I luckied*).\n- **Appear** es un verbo regular: *The problem appeared* (no *appeared* con doble e).\n- Para enriquecer tu mensaje, usa conectores como **afterwards** o **busy**: *I was busy, but afterwards I felt lucky*.\n\n**Mnemotécnico**: *Did* + verbo base = pasado simple. Si ves *did*, el verbo no cambia. ¡Así de fácil!",
+  "metadata": {
+    "generated_at": "2026-08-31T18:51:45Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

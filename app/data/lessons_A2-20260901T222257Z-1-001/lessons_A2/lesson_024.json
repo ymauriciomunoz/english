@@ -1,0 +1,1706 @@
+{
+  "id": "lesson_024",
+  "position": 24,
+  "unit_id": 3,
+  "course_id": "en.A2",
+  "title_form": "Discussing plans and making decisions together",
+  "title_target": "Discutiendo planes y tomando decisiones juntos",
+  "theme_focus": "communication",
+  "learning_objectives": [
+    "Can exchange information and discuss what to do next in a simple cooperative task."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_022",
+    "lesson_023"
+  ],
+  "grammar_focus": [
+    "will: decisions"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "argument",
+        "community",
+        "conference",
+        "culture",
+        "disagree_verb",
+        "go_on_verb",
+        "meaning",
+        "suggest_verb",
+        "decision",
+        "choice"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "email",
+        "activity",
+        "actually_adv",
+        "sure_adv"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Un grupo de amigos (Ana, Luis y Sam) está planeando una actividad para el fin de semana. Discuten diferentes opciones: ir a una conferencia de cultura, visitar la comunidad local o simplemente quedarse en casa. Cada uno sugiere una idea, a veces están de acuerdo y a veces no, y finalmente toman una decisión juntos.",
+  "introduction_md": "En esta lección vas a aprender a **discutir planes y tomar decisiones juntos** en inglés. Este es un tema muy útil para la vida diaria: decidir con amigos qué hacer, elegir una opción con tu familia o proponer ideas en el trabajo.\n\nVas a practicar:\n\n- **Sugerir** opciones con *will* (por ejemplo, *I will call you*).\n- **Expresar acuerdo o desacuerdo** de forma educada.\n- **Tomar decisiones** simples en grupo.\n\nTodo esto con vocabulario nuevo como *decision*, *choice*, *suggest* y *disagree*. Al final, podrás participar en una conversación corta para planear algo con otra persona. ¡Vamos a empezar!",
+  "intro_target": "In this lesson, you will learn to **discuss plans and make decisions together** in English. This is a very useful topic for daily life: deciding with friends what to do, choosing an option with your family, or proposing ideas at work.\n\nYou will practice:\n\n- **Suggesting** options with *will* (for example, *I will call you*).\n- **Agreeing or disagreeing** politely.\n- **Making simple decisions** in a group.\n\nAll this with new vocabulary like *decision*, *choice*, *suggest*, and *disagree*. At the end, you will be able to take part in a short conversation to plan something with another person. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "suggest_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I suggest we go to the new cafe after the meeting.",
+      "translation_form": "Sugiero que vayamos al nuevo cafe despues de la reunion.",
+      "highlight_words": [
+        "suggest"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "decision",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We will make the final decision about the trip tonight.",
+      "translation_form": "Tomaremos la decision final sobre el viaje esta noche.",
+      "highlight_words": [
+        "decision"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "disagree_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I disagree with your idea, but I will listen to your reasons.",
+      "translation_form": "No estoy de acuerdo con tu idea, pero escuchare tus razones.",
+      "highlight_words": [
+        "disagree"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "argument",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We had a small argument about the best place for the party.",
+      "translation_form": "Tuvimos una pequena discusion sobre el mejor lugar para la fiesta.",
+      "highlight_words": [
+        "argument"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "go_on_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Please go on with your story about the conference.",
+      "translation_form": "Por favor, continua con tu historia sobre el congreso.",
+      "highlight_words": [
+        "go on",
+        "conference"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "culture",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The community will celebrate its culture with a big festival.",
+      "translation_form": "La comunidad celebrara su cultura con un gran festival.",
+      "highlight_words": [
+        "culture",
+        "community"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "meaning",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I will check the meaning of that word in the dictionary.",
+      "translation_form": "Revisare el significado de esa palabra en el diccionario.",
+      "highlight_words": [
+        "meaning"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "choice",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You will have a choice between the red and the blue shirt.",
+      "translation_form": "Tendras una eleccion entre la camisa roja y la azul.",
+      "highlight_words": [
+        "choice"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "will: decisions",
+      "title_form": "Will para decisiones",
+      "title_target": "Will for decisions",
+      "description_md_form": "Usamos **will** para hablar de decisiones que tomamos **en el momento de hablar**. No es un plan fijo, es una decisión espontánea.\n\n**Estructura:** `sujeto + will + verbo base`\n\n- **Afirmativo:** `I will go.` (Iré.)\n- **Negativo:** `I will not go.` o `I won't go.` (No iré.)\n- **Pregunta:** `Will you go?` (¿Irás?)\n\n**Importante:** *will* no cambia con la persona. Usamos la misma forma para *I, you, he, she, it, we, they*.\n\n**Ejemplos de decisiones espontáneas:**\n- `I will make the decision now.` (Tomaré la decisión ahora.)\n- `We will go to the conference.` (Iremos al congreso.)\n\n**Diferencia clave:** *will* es para decisiones del momento. Para planes ya hechos, usamos *going to*.",
+      "description_md_target": "We use **will** to talk about decisions we make **at the moment of speaking**. It is not a fixed plan, it is a spontaneous decision.\n\n**Structure:** `subject + will + base verb`\n\n- **Affirmative:** `I will go.`\n- **Negative:** `I will not go.` or `I won't go.`\n- **Question:** `Will you go?`\n\n**Important:** *will* does not change with the person. We use the same form for *I, you, he, she, it, we, they*.\n\n**Examples of spontaneous decisions:**\n- `I will make the decision now.`\n- `We will go to the conference.`\n\n**Key difference:** *will* is for decisions at the moment. For plans already made, we use *going to*.",
+      "grammar_structure": "Subject + will + base verb",
+      "conjugation_table": {
+        "name": "will_affirmative_negative",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo"
+        ],
+        "rows": [
+          [
+            "I",
+            "I will go",
+            "I will not go"
+          ],
+          [
+            "You",
+            "You will go",
+            "You will not go"
+          ],
+          [
+            "He/She/It",
+            "He will go",
+            "He will not go"
+          ],
+          [
+            "We",
+            "We will go",
+            "We will not go"
+          ],
+          [
+            "They",
+            "They will go",
+            "They will not go"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "will: decisions",
+          "text_target": "I will make the final decision about the trip tonight.",
+          "translation_form": "Tomaré la decisión final sobre el viaje esta noche.",
+          "highlight_words": [
+            "will",
+            "make"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "will: decisions",
+          "text_target": "We will go to the new cafe after the meeting.",
+          "translation_form": "Iremos al nuevo café después de la reunión.",
+          "highlight_words": [
+            "will",
+            "go"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Will** no cambia con la persona. No digas *he wills*, siempre es *he will*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No uses *will* para planes ya hechos.** Si ya tienes un plan, usa *going to*. *Will* es para decisiones del momento."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *I will to go* en lugar de *I will go*. Después de *will* usamos el verbo base sin *to*.",
+        "Decir *he wills* en lugar de *he will*. *Will* no cambia con la persona.",
+        "Usar *will* para planes ya hechos. Para planes fijos usamos *going to*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'suggest'?",
+      "options": [
+        "sugerir",
+        "decidir",
+        "argumentar",
+        "continuar"
+      ],
+      "correct_answer": "sugerir",
+      "explanation_md": "'Suggest' significa proponer una idea o plan a alguien.",
+      "related_lexeme_ids": [
+        "suggest_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'decision'?",
+      "options": [
+        "decisión",
+        "opción",
+        "argumento",
+        "cultura"
+      ],
+      "correct_answer": "decisión",
+      "explanation_md": "'Decision' es la elección que haces después de pensar.",
+      "related_lexeme_ids": [
+        "decision"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "argument",
+        "discusión",
+        "community",
+        "comunidad",
+        "conference",
+        "conferencia",
+        "meaning",
+        "significado"
+      ],
+      "correct_answer": [
+        "argument=discusión",
+        "community=comunidad",
+        "conference=conferencia",
+        "meaning=significado"
+      ],
+      "explanation_md": "Estas palabras son sustantivos importantes para hablar de planes y decisiones.",
+      "related_lexeme_ids": [
+        "argument",
+        "community",
+        "conference",
+        "meaning"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración: 'We will make the final ______ about the trip tonight.'",
+      "options": [
+        "argument",
+        "decision",
+        "culture",
+        "meaning"
+      ],
+      "correct_answer": "decision",
+      "explanation_md": "Usamos 'decision' para hablar de la elección final sobre algo.",
+      "related_lexeme_ids": [
+        "decision"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la palabra correcta: 'I ______ with your idea, but I will listen to your reasons.'",
+      "options": null,
+      "correct_answer": "disagree",
+      "explanation_md": "'Disagree' significa no estar de acuerdo con algo.",
+      "related_lexeme_ids": [
+        "disagree_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Sugiero que vayamos al nuevo café después de la reunión.'",
+      "options": null,
+      "correct_answer": "I suggest we go to the new cafe after the meeting.",
+      "explanation_md": "Usamos 'suggest' + 'we go' para proponer un plan.",
+      "related_lexeme_ids": [
+        "suggest_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'We will make the final decision about the trip tonight.'",
+      "options": null,
+      "correct_answer": "Tomaremos la decisión final sobre el viaje esta noche.",
+      "explanation_md": "'Will make' indica una decisión futura.",
+      "related_lexeme_ids": [
+        "decision"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué significa 'go on' en la oración 'Please go on with your story about the conference.'?",
+      "options": [
+        "continuar",
+        "empezar",
+        "terminar",
+        "olvidar"
+      ],
+      "correct_answer": "continuar",
+      "explanation_md": "'Go on' significa continuar con algo que estabas haciendo.",
+      "related_lexeme_ids": [
+        "go_on_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿qué van a hacer Ana y Tom?",
+      "options": null,
+      "correct_answer": "They will make the final decision about the trip tonight.",
+      "explanation_md": "El texto dice que harán la decisión final esta noche.",
+      "related_lexeme_ids": [
+        "suggest_verb",
+        "disagree_verb",
+        "argument",
+        "decision"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana and Tom are at a cafe. They want to plan a trip for the weekend. Ana suggests going to the beach. Tom disagrees because he wants to visit a museum. They have a small argument about it. Finally, Ana says, 'We will make the final decision tonight.' Tom agrees and they continue talking about their options.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿qué sugiere María?",
+      "options": [
+        "Ir a la conferencia",
+        "Ir al cine",
+        "Quedarse en casa",
+        "Ir al supermercado"
+      ],
+      "correct_answer": "Ir a la conferencia",
+      "explanation_md": "María sugiere ir a la conferencia mañana.",
+      "related_lexeme_ids": [
+        "suggest_verb",
+        "conference",
+        "go_on_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Maria and her friend are at home. Maria says, 'I suggest we go to the new conference tomorrow.' Her friend says, 'That is a good idea. We will go on with our plans.'",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre un plan que tengas con un amigo o familiar. Usa 'I suggest' o 'We will'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'suggest' y 'will' para hablar de planes.",
+      "related_lexeme_ids": [
+        "suggest_verb",
+        "decision"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I suggest we go to the park this weekend.",
+        "We will make a decision about the movie tonight."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la mejor opción para completar la oración? 'The ______ of the word is very important.'",
+      "options": [
+        "argument",
+        "meaning",
+        "choice",
+        "culture"
+      ],
+      "correct_answer": "meaning",
+      "explanation_md": "'Meaning' se refiere al significado de una palabra.",
+      "related_lexeme_ids": [
+        "meaning"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "argument",
+      "back": "discusión",
+      "hint": "una conversación donde no estás de acuerdo",
+      "lexeme_id": "argument",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "community",
+      "back": "comunidad",
+      "hint": "un grupo de personas que viven juntas",
+      "lexeme_id": "community",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "conference",
+      "back": "congreso / conferencia",
+      "hint": "un evento grande con muchas personas",
+      "lexeme_id": "conference",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "culture",
+      "back": "cultura",
+      "hint": "las tradiciones de un lugar",
+      "lexeme_id": "culture",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "disagree",
+      "back": "no estar de acuerdo",
+      "hint": "lo opuesto de agree",
+      "lexeme_id": "disagree_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "go on",
+      "back": "continuar / seguir",
+      "hint": "se usa para decir que algo continúa",
+      "lexeme_id": "go_on_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "meaning",
+      "back": "significado",
+      "hint": "lo que una palabra quiere decir",
+      "lexeme_id": "meaning",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "suggest",
+      "back": "sugerir",
+      "hint": "dar una idea",
+      "lexeme_id": "suggest_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "opinions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "decision",
+      "back": "decisión",
+      "hint": "cuando eliges algo",
+      "lexeme_id": "decision",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "choice",
+      "back": "elección",
+      "hint": "la cosa que eliges",
+      "lexeme_id": "choice",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "email",
+      "back": "correo electrónico",
+      "hint": "un mensaje digital",
+      "lexeme_id": "email",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "activity",
+      "back": "actividad",
+      "hint": "algo que haces",
+      "lexeme_id": "activity",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "A2",
+        "daily_life"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "argument",
+      "reading": "",
+      "translation": "discusión",
+      "pos": "noun",
+      "example": "We had a small argument about the best place for the party.",
+      "example_translation": "Tuvimos una pequena discusion sobre el mejor lugar para la fiesta.",
+      "lexeme_id": "argument",
+      "chunk_id": null
+    },
+    {
+      "target_word": "community",
+      "reading": "",
+      "translation": "comunidad",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "community",
+      "chunk_id": null
+    },
+    {
+      "target_word": "conference",
+      "reading": "",
+      "translation": "congreso / conferencia",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "conference",
+      "chunk_id": null
+    },
+    {
+      "target_word": "culture",
+      "reading": "",
+      "translation": "cultura",
+      "pos": "noun",
+      "example": "The community will celebrate its culture with a big festival.",
+      "example_translation": "La comunidad celebrara su cultura con un gran festival.",
+      "lexeme_id": "culture",
+      "chunk_id": null
+    },
+    {
+      "target_word": "disagree",
+      "reading": "",
+      "translation": "no estar de acuerdo",
+      "pos": "verb",
+      "example": "I disagree with your idea, but I will listen to your reasons.",
+      "example_translation": "No estoy de acuerdo con tu idea, pero escuchare tus razones.",
+      "lexeme_id": "disagree_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "go on",
+      "reading": "",
+      "translation": "continuar / seguir",
+      "pos": "verb",
+      "example": "Please go on with your story about the conference.",
+      "example_translation": "Por favor, continua con tu historia sobre el congreso.",
+      "lexeme_id": "go_on_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "meaning",
+      "reading": "",
+      "translation": "significado",
+      "pos": "noun",
+      "example": "I will check the meaning of that word in the dictionary.",
+      "example_translation": "Revisare el significado de esa palabra en el diccionario.",
+      "lexeme_id": "meaning",
+      "chunk_id": null
+    },
+    {
+      "target_word": "suggest",
+      "reading": "",
+      "translation": "sugerir",
+      "pos": "verb",
+      "example": "I suggest we go to the new cafe after the meeting.",
+      "example_translation": "Sugiero que vayamos al nuevo cafe despues de la reunion.",
+      "lexeme_id": "suggest_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "decision",
+      "reading": "",
+      "translation": "decisión",
+      "pos": "noun",
+      "example": "We will make the final decision about the trip tonight.",
+      "example_translation": "Tomaremos la decision final sobre el viaje esta noche.",
+      "lexeme_id": "decision",
+      "chunk_id": null
+    },
+    {
+      "target_word": "choice",
+      "reading": "",
+      "translation": "elección",
+      "pos": "noun",
+      "example": "You will have a choice between the red and the blue shirt.",
+      "example_translation": "Tendras una eleccion entre la camisa roja y la azul.",
+      "lexeme_id": "choice",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "argument",
+      "role": "support",
+      "status": "practiced",
+      "translation": "discusión",
+      "lexeme_id": "argument",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_009",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "community",
+      "role": "support",
+      "status": "practiced",
+      "translation": "comunidad",
+      "lexeme_id": "community",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "conference",
+      "role": "support",
+      "status": "practiced",
+      "translation": "congreso / conferencia",
+      "lexeme_id": "conference",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_010",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "culture",
+      "role": "support",
+      "status": "introduced",
+      "translation": "cultura",
+      "lexeme_id": "culture",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "disagree",
+      "role": "support",
+      "status": "practiced",
+      "translation": "no estar de acuerdo",
+      "lexeme_id": "disagree_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_005",
+        "ex_009",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "go on",
+      "role": "support",
+      "status": "practiced",
+      "translation": "continuar / seguir",
+      "lexeme_id": "go_on_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008",
+        "ex_010",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "meaning",
+      "role": "support",
+      "status": "practiced",
+      "translation": "significado",
+      "lexeme_id": "meaning",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_003",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "suggest",
+      "role": "support",
+      "status": "practiced",
+      "translation": "sugerir",
+      "lexeme_id": "suggest_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_006",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "decision",
+      "role": "support",
+      "status": "practiced",
+      "translation": "decisión",
+      "lexeme_id": "decision",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_004",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "choice",
+      "role": "support",
+      "status": "introduced",
+      "translation": "elección",
+      "lexeme_id": "choice",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "email",
+      "role": "support",
+      "status": "review",
+      "translation": "correo electrónico",
+      "lexeme_id": "email",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "activity",
+      "role": "support",
+      "status": "review",
+      "translation": "actividad",
+      "lexeme_id": "activity",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "disagree",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "fc_005",
+        "quiz_001:q_002",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "idea",
+      "role": "support",
+      "status": "emergent",
+      "translation": "idea",
+      "lexeme_id": "idea",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "make",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer / fabricar",
+      "lexeme_id": "make_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "tonight",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esta noche",
+      "lexeme_id": "tonight_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "cafe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "trip",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viaje",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "final",
+      "role": "support",
+      "status": "emergent",
+      "translation": "final",
+      "lexeme_id": "final_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "listen to",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuchar",
+      "lexeme_id": "listen_to_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "best",
+      "role": "support",
+      "status": "emergent",
+      "translation": "el mejor (superlativo de good)",
+      "lexeme_id": "best_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "red",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rojo",
+      "lexeme_id": "red_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "blue",
+      "role": "support",
+      "status": "emergent",
+      "translation": "azul",
+      "lexeme_id": "blue_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "email",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "place",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lugar",
+      "lexeme_id": "place",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "shirt",
+      "role": "support",
+      "status": "emergent",
+      "translation": "camisa",
+      "lexeme_id": "shirt",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "reason",
+      "role": "support",
+      "status": "emergent",
+      "translation": "razon",
+      "lexeme_id": "reason",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "celebrate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "celebrar",
+      "lexeme_id": "celebrate_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "dictionary",
+      "role": "support",
+      "status": "emergent",
+      "translation": "léxico / diccionario",
+      "lexeme_id": "dictionary",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "festival",
+      "role": "support",
+      "status": "emergent",
+      "translation": "festival",
+      "lexeme_id": "festival",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "plan",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planear",
+      "lexeme_id": "plan_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "going to",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ir a (planes futuros)",
+      "lexeme_id": "going_to_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "tomorrow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "agree",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "continue",
+      "role": "support",
+      "status": "emergent",
+      "translation": "continuar",
+      "lexeme_id": "continue_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_007"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 10,
+    "review_support_count": 2,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "disagree",
+      "idea",
+      "meet",
+      "meeting",
+      "word",
+      "make",
+      "small",
+      "tonight",
+      "cafe",
+      "big",
+      "trip",
+      "final",
+      "listen to",
+      "best",
+      "red",
+      "blue",
+      "email",
+      "place",
+      "check",
+      "shirt",
+      "reason",
+      "celebrate",
+      "dictionary",
+      "festival",
+      "good",
+      "plan",
+      "going to",
+      "talk",
+      "tomorrow",
+      "agree",
+      "person",
+      "continue"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Discussing plans and making decisions together",
+      "title_target": "Quiz: Discussing plans and making decisions together",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'suggest'?",
+          "prompt_target": "What does 'suggest' mean?",
+          "options": [
+            "to give an idea",
+            "to say no",
+            "to ask a question",
+            "to wait for a person"
+          ],
+          "correct_answer": "to give an idea",
+          "explanation_form": "'Suggest' significa 'sugerir' o 'proponer una idea'.",
+          "explanation_target": "'Suggest' means to give an idea or propose something.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "suggest_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I ____ with you. Your idea is not good.'",
+          "prompt_target": "Complete the sentence: 'I ____ with you. Your idea is not good.'",
+          "options": null,
+          "correct_answer": "disagree",
+          "explanation_form": "'Disagree' significa 'no estar de acuerdo'. La frase completa: 'I disagree with you.'",
+          "explanation_target": "'Disagree' means to not agree. The full sentence: 'I disagree with you.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "disagree_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "will",
+            "go",
+            "to",
+            "the",
+            "conference"
+          ],
+          "correct_answer": "I will go to the conference",
+          "explanation_form": "'Will' se usa para decisiones espontáneas. La frase correcta es: 'I will go to the conference.'",
+          "explanation_target": "'Will' is used for spontaneous decisions. The correct sentence is: 'I will go to the conference.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "conference",
+            "will: decisions"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué va a hacer Ana?",
+          "prompt_target": "Listen and answer: What is Ana going to do?",
+          "options": [
+            "She will call the community centre.",
+            "She will prepare the list.",
+            "She will go home.",
+            "She will eat lunch."
+          ],
+          "correct_answer": "She will call the community centre.",
+          "explanation_form": "Ana dice: 'I will call the community centre.'",
+          "explanation_target": "Ana says: 'I will call the community centre.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "community",
+            "will: decisions"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Ana and Tom are at a conference. Ana says: I will call the community centre. We need a big room for the meeting. Tom says: Good idea. I will prepare the list of names.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué decide el grupo?",
+          "prompt_target": "Read the text and answer: What does the group decide?",
+          "options": [
+            "They will have a party.",
+            "They will have a dinner.",
+            "They will not meet.",
+            "They will go to a conference."
+          ],
+          "correct_answer": "They will have a dinner.",
+          "explanation_form": "El grupo decide tener una cena en el centro comunitario: 'We will have a dinner at the community centre.'",
+          "explanation_target": "The group decides to have a dinner at the community centre: 'We will have a dinner at the community centre.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "community",
+            "decision",
+            "disagree_verb",
+            "suggest_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "The community group has a meeting. They talk about a new project. One person says: I suggest a party for the neighbourhood. Another person says: I disagree. A party is expensive. We can have a small dinner. The group thinks and says: Good idea. We will have a dinner at the community centre.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traducí al español: 'What is the meaning of this word?'",
+          "prompt_target": "Translate to Spanish: 'What is the meaning of this word?'",
+          "options": null,
+          "correct_answer": "¿Cuál es el significado de esta palabra?",
+          "explanation_form": "'Meaning' significa 'significado'. La traducción correcta es: '¿Cuál es el significado de esta palabra?'",
+          "explanation_target": "'Meaning' translates to 'significado'. The correct translation is: '¿Cuál es el significado de esta palabra?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meaning"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué frase es correcta para continuar una conversación?",
+          "prompt_target": "Which sentence is correct to continue a conversation?",
+          "options": [
+            "Go on, please.",
+            "Go on, I disagree.",
+            "Go on, the meaning.",
+            "Go on, a decision."
+          ],
+          "correct_answer": "Go on, please.",
+          "explanation_form": "'Go on' significa 'continúa'. La frase correcta para pedir que alguien continúe es: 'Go on, please.'",
+          "explanation_target": "'Go on' means 'continue'. The correct sentence to ask someone to continue is: 'Go on, please.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "go_on_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "argument",
+            "discusión",
+            "choice",
+            "elección"
+          ],
+          "correct_answer": [
+            "argument=discusión",
+            "choice=elección"
+          ],
+          "explanation_form": "'Argument' significa 'discusión' y 'choice' significa 'elección'.",
+          "explanation_target": "'Argument' means 'discusión' and 'choice' means 'elección'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "argument",
+            "choice"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué sugiere la persona?",
+          "prompt_target": "Listen and answer: What does the person suggest?",
+          "options": [
+            "They suggest meeting on Friday.",
+            "They suggest going to a conference.",
+            "They suggest a party.",
+            "They suggest a dinner."
+          ],
+          "correct_answer": "They suggest meeting on Friday.",
+          "explanation_form": "La persona sugiere reunirse el viernes: 'I suggest we meet on Friday.'",
+          "explanation_target": "The person suggests meeting on Friday: 'I suggest we meet on Friday.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "suggest_verb",
+            "conference"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "We have a problem with the date. I suggest we meet on Friday. The conference is on Saturday. We can prepare everything on Friday night.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'will' o 'won't': 'We ____ have a meeting tomorrow. It is a good plan.'",
+          "prompt_target": "Complete with 'will' or 'won't': 'We ____ have a meeting tomorrow. It is a good plan.'",
+          "options": null,
+          "correct_answer": "will",
+          "explanation_form": "La frase expresa una decisión positiva: 'We will have a meeting tomorrow.'",
+          "explanation_target": "The sentence expresses a positive decision: 'We will have a meeting tomorrow.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "will: decisions"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Will para decisiones: ¡decidí en el momento!\n\nEn esta lección usamos **will** para decisiones que tomamos **en el momento de hablar**, no planes hechos antes. Si decís *\"I will go to the conference\"*, es una decisión que acabás de tomar. Para planes ya pensados, usamos *going to* (lo viste antes).\n\n- **Decisión espontánea**: *\"I will suggest a new idea.\"*\n- **Oferta**: *\"I will help you with the decision.\"*\n\n## Errores comunes\n\n- No digas *\"I will to go\"*: después de **will** va el verbo **sin** *to*.\n- *Disagree* ya significa \"no estar de acuerdo\". No digas *\"I don't disagree\"* si querés decir \"estoy de acuerdo\" — usá *\"I agree\"*.\n- *Choice* y *decision* son similares: *choice* es elegir entre opciones; *decision* es el resultado final después de pensar.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:53:11Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

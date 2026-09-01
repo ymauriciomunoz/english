@@ -1,0 +1,1575 @@
+{
+  "id": "lesson_029",
+  "position": 29,
+  "unit_id": 10,
+  "course_id": "en.B1",
+  "title_form": "Explicar un proyecto de investigacion",
+  "title_target": "Explaining a small research project",
+  "theme_focus": "education and lifelong learning",
+  "learning_objectives": [
+    "Can describe the purpose and steps of a small research project in connected language."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_028"
+  ],
+  "grammar_focus": [
+    "Gerunds for activities and infinitives for aims and plans."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "do_research_phrase"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "publish_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "research",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+      },
+      {
+        "term": "class",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the education and lifelong learning situation."
+      },
+      {
+        "term": "by collecting",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "to find out",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "by + -ing",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "to + infinitive",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "David está preparando una presentación para su clase de inglés sobre un proyecto de investigación que realizó recientemente. Habla con su compañera María sobre cómo organizó su estudio reuniendo información y qué espera descubrir para publicar sus resultados.",
+  "introduction_md": "¡Bienvenido/a a esta lección! En el ámbito académico y profesional, saber explicar proyectos de investigación es una habilidad fundamental. En esta lección aprenderás a describir los pasos y objetivos de un trabajo de investigación en inglés de manera clara y conectada.\n\nAprenderás a usar estructuras clave como:\n- **Gerundios (by + -ing)** para explicar cómo realizas una actividad o el método utilizado (por ejemplo, *by collecting data*).\n- **Infinitivos (to + infinitive)** para expresar metas, propósitos e intenciones (por ejemplo, *to find out the results*).\n\nAl finalizar la lección, serás capaz de presentar tus proyectos de clase o estudios, detallar las etapas del proceso y compartir lo que deseas descubrir o publicar. ¡Comencemos a desarrollar tu vocabulario académico!",
+  "intro_target": "Welcome to this lesson! In academic and professional settings, explaining research projects is an essential skill. In this lesson, you will learn how to describe the steps and aims of a small research project in clear, connected English.\n\nYou will practice using key patterns such as:\n- **Gerunds (by + -ing)** to explain how you do an activity or method (for example, *by collecting data*).\n- **Infinitives (to + infinitive)** to state goals and purposes (for example, *to find out the results*).\n\nBy the end of this lesson, you will be able to talk about your class projects, explain your research steps, and present what you want to publish or discover. Let's start building your academic English skills!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "do_research_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Our class is doing research to find out how students spend their free time on weekends.",
+      "translation_form": "Nuestra clase está haciendo una investigación para averiguar cómo pasan los estudiantes su tiempo libre los fines de semana.",
+      "highlight_words": [
+        "doing",
+        "research",
+        "to",
+        "find",
+        "out",
+        "class"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We started our project by collecting information from people to publish a small paper.",
+      "translation_form": "Comenzamos nuestro proyecto recopilando información de las personas para publicar un pequeño trabajo.",
+      "highlight_words": [
+        "by",
+        "collecting",
+        "to",
+        "publish"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Students learn a lot by asking questions in class to find out what their classmates think and collect ideas for the project. If a partner is unsure, they ask, \"Could you explain what you mean?\"",
+      "translation_form": "Los estudiantes aprenden mucho al preguntar en clase qué piensan sus compañeros y al reunir ideas para el proyecto. Si un compañero duda, pregunta: «¿Podrías explicar qué quieres decir?».",
+      "highlight_words": [
+        "by",
+        "asking",
+        "class",
+        "to",
+        "find",
+        "out"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "do_research_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My friend wants to do research on nature before trying to publish her work next year.",
+      "translation_form": "Mi amiga quiere hacer una investigación sobre la naturaleza antes de intentar publicar su trabajo el próximo año.",
+      "highlight_words": [
+        "do",
+        "research",
+        "to",
+        "publish"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Gerunds for activities and infinitives for aims and plans.",
+      "title_form": "Gerundios para actividades e infinitivos para objetivos y planes",
+      "title_target": "Gerunds for activities and infinitives for aims and plans",
+      "description_md_form": "Al explicar un proyecto de investigación o una actividad en inglés, combinamos dos estructuras fundamentales para expresar **cómo** realizamos una acción y **para qué** la hacemos.\n\n1. **Gerundio (`by + -ing`)**: Se utiliza para describir la actividad, el método o el medio que empleamos. Por ejemplo: *by collecting information* (recopilando información).\n2. **Infinitivo (`to + verbo`)**: Se utiliza para indicar la meta, el objetivo o el propósito de una acción. Por ejemplo: *to find out more about the topic* (para averiguar más sobre el tema).\n\nEsta combinación te permite conectar ideas de forma clara al describir procesos académicos o proyectos de trabajo. Recuerda que tras la preposición **by**, el verbo siempre debe llevar **-ing**. Si tu interlocutor no entiende un detalle, pide una aclaración con *Could you explain what you mean?* y luego reformula: *I mean that we collect answers by asking classmates.*",
+      "description_md_target": "When explaining a research project or an activity in English, we combine two key structures to express **how** we perform an action and **why** we do it.\n\n1. **Gerund (`by + -ing`)**: Used to describe the activity, method, or means. For example: *by collecting information*.\n2. **Infinitive (`to + verb`)**: Used to indicate the goal, aim, or purpose of an action. For example: *to find out more about the topic*.\n\nThis combination allows you to connect ideas clearly when describing academic processes or projects. Remember that after the preposition **by**, the verb always takes **-ing**. If your listener does not understand a detail, ask *Could you explain what you mean?* and then reformulate: *I mean that we collect answers by asking classmates.*",
+      "grammar_structure": "by + verb-ing (method) ... to + infinitive (aim/plan)",
+      "conjugation_table": {
+        "name": "gerund_and_infinitive_patterns",
+        "headers": [
+          "Uso / Función",
+          "Estructura",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Método o actividad",
+            "by + verbo-ing",
+            "by collecting information"
+          ],
+          [
+            "Objetivo o propósito",
+            "to + verbo infinitivo",
+            "to find out more about the topic"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Gerunds for activities and infinitives for aims and plans.",
+          "text_target": "We started our project by collecting information to publish a small paper.",
+          "translation_form": "Comenzamos nuestro proyecto recopilando información para publicar un pequeño trabajo.",
+          "highlight_words": [
+            "by",
+            "collecting",
+            "to",
+            "publish"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Gerunds for activities and infinitives for aims and plans.",
+          "text_target": "Students do research by asking questions to find out what their classmates think and collect ideas. If a partner is confused, they ask, \"Could you explain what you mean?\"",
+          "translation_form": "Los estudiantes hacen investigación haciendo preguntas para averiguar qué piensan sus compañeros y reunir ideas. Si un compañero está confundido, preguntan: «¿Podrías explicar qué quieres decir?».",
+          "highlight_words": [
+            "do",
+            "research",
+            "by",
+            "asking",
+            "to",
+            "find",
+            "out"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "No uses *for + infinitivo* para expresar propósito. En inglés se dice **to find out**, nunca *for find out*."
+        },
+        {
+          "type": "tip",
+          "text_md": "Después de la preposición **by**, usa siempre la forma en **-ing** (*by collecting*, *by asking*)."
+        }
+      ],
+      "common_errors_es": [
+        "Usar *for + infinitivo* (ej. *for find out*) en lugar de *to + infinitivo* (*to find out*).",
+        "Olvidar el gerundio después de la preposición *by* (ej. *by collect information* en vez de *by collecting information*)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa la frase 'do research' en español?",
+      "options": [
+        "hacer una investigación",
+        "publicar un artículo",
+        "hacer una pregunta",
+        "preparar una clase"
+      ],
+      "correct_answer": "hacer una investigación",
+      "explanation_md": "'Do research' se traduce como 'hacer una investigación' o 'realizar investigaciones'.",
+      "related_lexeme_ids": [
+        "do_research_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la opción correcta para expresar el medio o la forma en que realizamos una actividad: 'We learn a lot _____ books.'",
+      "options": [
+        "by reading",
+        "to reading",
+        "by read",
+        "to read"
+      ],
+      "correct_answer": "by reading",
+      "explanation_md": "Usamos la estructura 'by + verbo con -ing' (by reading) para explicar la forma o el método mediante el cual hacemos algo.",
+      "related_lexeme_ids": [
+        "do_research_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la forma adecuada del verbo 'find' para expresar una meta u objetivo: 'Our class is doing research ____ out new information.'",
+      "options": null,
+      "correct_answer": "to find",
+      "explanation_md": "Usamos 'to + infinitivo' (to find) para expresar la intención, propósito u objetivo de una acción.",
+      "related_lexeme_ids": [
+        "do_research_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "matching",
+      "prompt_md": "Empareja cada expresión en inglés con su traducción al español:",
+      "options": [
+        "by collecting data",
+        "recopilando datos",
+        "to find out ideas",
+        "para descubrir ideas",
+        "to publish a paper",
+        "para publicar un trabajo",
+        "do research",
+        "hacer investigación"
+      ],
+      "correct_answer": [
+        "by collecting data=recopilando datos",
+        "to find out ideas=para descubrir ideas",
+        "to publish a paper=para publicar un trabajo",
+        "do research=hacer investigación"
+      ],
+      "explanation_md": "Compara cómo usás 'by + -ing' para indicar el método y 'to + infinitivo' para los objetivos.",
+      "related_lexeme_ids": [
+        "do_research_phrase",
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente oración:",
+      "options": null,
+      "correct_answer": "Our class wants to do research.",
+      "explanation_md": "'Nuestra clase' es 'Our class', 'quiere' es 'wants', y 'hacer una investigación' se dice 'to do research'.",
+      "related_lexeme_ids": [
+        "do_research_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la siguiente oración:",
+      "options": null,
+      "correct_answer": "Empezamos nuestro proyecto recopilando información.",
+      "explanation_md": "'We started' equivale a 'Empezamos', 'our project' a 'nuestro proyecto', y 'by collecting information' expresa el medio ('recopilando información').",
+      "related_lexeme_ids": [
+        "do_research_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la expresión verbal adecuada para 'hacer investigación': 'Students _____ on climate change before presenting their work.'",
+      "options": null,
+      "correct_answer": "do research",
+      "explanation_md": "La expresión fija en inglés para realizar investigaciones académicas o escolares es 'do research'.",
+      "related_lexeme_ids": [
+        "do_research_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el texto y responde: ¿Cómo empezaron los estudiantes su proyecto?",
+      "options": [
+        "Recopilando información de los estudiantes",
+        "Publicando un trabajo el mes pasado",
+        "Haciendo un examen en la escuela",
+        "Comprando libros de idiomas"
+      ],
+      "correct_answer": "Recopilando información de los estudiantes",
+      "explanation_md": "El texto menciona explícitamente: 'We started our project by collecting information from students in our school.'",
+      "related_lexeme_ids": [
+        "do_research_phrase",
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Our class is doing research on how people learn new languages. We started our project by collecting information from students in our school. We want to find out their learning habits. When a classmate asks, \"Could you explain what you mean by learning habits?\", David answers, \"I mean how often students study and which methods they use.\" Finally, we plan to publish our small paper next month.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha la grabación y responde: ¿Cuál es el objetivo principal del grupo?",
+      "options": [
+        "Averiguar cómo practican inglés los estudiantes en casa",
+        "Publicar un libro sobre viajes",
+        "Enseñar una clase de matemáticas",
+        "Comprar computadoras nuevas"
+      ],
+      "correct_answer": "Averiguar cómo practican inglés los estudiantes en casa",
+      "explanation_md": "El audio dice: 'to find out how students practice English at home'.",
+      "related_lexeme_ids": [
+        "do_research_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "My team is doing research this week. We are collecting answers to find out how students practice English at home. My partner asks, \"Do you mean students practice alone or with a partner?\" I answer, \"I mean both.\"",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "free_production",
+      "prompt_md": "Escribe una explicación conectada de 6–8 oraciones en inglés sobre un pequeño proyecto de investigación. Explica el objetivo con 'to + infinitive' y el método con 'by + -ing'. Imagina que tu compañero no entiende un detalle: incluye una pregunta explícita de aclaración (por ejemplo, 'Could you explain what you mean?' o 'Do you mean that we should ...?') y después reformula el objetivo o el método con palabras más claras.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa una explicación conectada de 6–8 oraciones que use 'by + verbo-ing' para el método y 'to + infinitivo' para el objetivo. También debe incluir una pregunta explícita de aclaración y una reformulación natural de la idea para que el interlocutor la entienda.",
+      "related_lexeme_ids": [
+        "do_research_phrase",
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Student: Our class is doing research to find out how students use their free time. We will collect answers by asking classmates short questions. Classmate: Could you explain what you mean by 'use their free time'? Student: I mean which activities they do after school and at weekends. We will compare the answers to find common habits. Classmate: So your aim is to describe students' free-time activities? Student: Exactly. We hope to publish a short report for our class.",
+        "Student: We are doing research to find out how students practice English at home. We will collect information by using a short survey. Classmate: Do you mean that we should ask only English students? Student: No, I mean students who study English, even if they are in another class. We want to compare their methods and collect useful ideas by reading their answers. Classmate: I understand now. Student: Our final aim is to publish the results for the language department."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato bilingüe en primera persona y responde: ¿Cómo recoge información la narradora?\n\nRead the first-person story and answer: How does the narrator collect information?",
+      "options": [
+        "By asking classmates short questions.",
+        "By publishing a report before starting the project.",
+        "By travelling to another university.",
+        "By teaching a mathematics class."
+      ],
+      "correct_answer": "By asking classmates short questions.",
+      "explanation_md": "La narradora explica el método con 'by asking classmates short questions' y el objetivo con 'to find out'. La aclaración confirma qué significa 'methods'. / The narrator explains the method with 'by asking classmates short questions' and the aim with 'to find out'. The clarification confirms what 'methods' means.",
+      "related_lexeme_ids": [
+        "do_research_phrase",
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I am doing research for a class project about how adults learn languages. I am collecting answers by asking classmates short questions to find out which methods they use. One classmate asks, 'Could you explain what you mean by methods?' I say, 'I mean the activities they use to study.' Our aim is to publish a short report.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el diálogo bilingüe en primera persona y responde: ¿Cuál es el objetivo del proyecto?\n\nListen to the first-person dialogue and answer: What is the aim of the project?",
+      "options": [
+        "To publish the results in a class report.",
+        "To stop students from studying at weekends.",
+        "To ask the teacher to cancel the project.",
+        "To travel to another school for a month."
+      ],
+      "correct_answer": "To publish the results in a class report.",
+      "explanation_md": "La persona expresa el objetivo con el infinitivo 'To publish the results'. También explica el método con 'by asking students short questions'. / The speaker expresses the aim with the infinitive 'To publish the results'. The speaker also explains the method with 'by asking students short questions'.",
+      "related_lexeme_ids": [
+        "do_research_phrase",
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "A: We are doing research to find out how students use their free time. B: Could you explain what you mean by free time? A: I mean time after class and at weekends. We collect information by asking students short questions. B: What is your aim? A: To publish the results in our class report.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "do research",
+      "back": "hacer investigación / investigar",
+      "hint": "realizar un estudio o búsqueda de información",
+      "lexeme_id": "do_research_phrase",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "B1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "publish",
+      "back": "publicar",
+      "hint": "hacer público un libro, artículo o estudio",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "B1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "doing research",
+      "back": "haciendo investigación / investigar (como actividad)",
+      "hint": "forma en gerundio para referirse a la actividad",
+      "lexeme_id": "do_research_phrase",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "B1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "publish results",
+      "back": "publicar resultados",
+      "hint": "dar a conocer los hallazgos de un estudio",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "B1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "to do research",
+      "back": "para hacer investigación (objetivo)",
+      "hint": "uso del infinitivo para indicar un propósito o plan",
+      "lexeme_id": "do_research_phrase",
+      "chunk_id": null,
+      "tags": [
+        "lesson_029",
+        "B1",
+        "academic"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "do research",
+      "reading": "",
+      "translation": "hacer investigación",
+      "pos": "phrase",
+      "example": "Our class is doing research to find out how students spend their free time on weekends.",
+      "example_translation": "Nuestra clase está haciendo una investigación para averiguar cómo pasan los estudiantes su tiempo libre los fines de semana.",
+      "lexeme_id": "do_research_phrase",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "research",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "investigación",
+      "lexeme_id": "research",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "Gerunds for activities and infinitives for aims and plans.",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "fc_003",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "class",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "clase",
+      "lexeme_id": "class",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "by collecting",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "Gerunds for activities and infinitives for aims and plans.",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "to find out",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "Gerunds for activities and infinitives for aims and plans.",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "by + -ing",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "Gerunds for activities and infinitives for aims and plans.",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "to + infinitive",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "Gerunds for activities and infinitives for aims and plans.",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "do research",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hacer investigación",
+      "lexeme_id": "do_research_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_001",
+        "ex_002",
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_006",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "fc_003",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "publish",
+      "role": "support",
+      "status": "review",
+      "translation": "publicar",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_004",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_002",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "find out",
+      "role": "support",
+      "status": "emergent",
+      "translation": "descubrir / averiguar",
+      "lexeme_id": "find_out_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_003",
+        "ex_008",
+        "ex_011",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "paper",
+      "role": "support",
+      "status": "emergent",
+      "translation": "papel",
+      "lexeme_id": "paper",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "result",
+      "role": "support",
+      "status": "emergent",
+      "translation": "resultar",
+      "lexeme_id": "result_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "fc_004",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "information",
+      "role": "support",
+      "status": "emergent",
+      "translation": "información",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "partner",
+      "role": "support",
+      "status": "emergent",
+      "translation": "socio / pareja",
+      "lexeme_id": "partner",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "free time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tiempo libre",
+      "lexeme_id": "free_time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "idea",
+      "role": "support",
+      "status": "emergent",
+      "translation": "idea",
+      "lexeme_id": "idea",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "think",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pensar / creer",
+      "lexeme_id": "think_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "spend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gastar (dinero, tiempo)",
+      "lexeme_id": "spend_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "nature",
+      "role": "support",
+      "status": "emergent",
+      "translation": "naturaleza",
+      "lexeme_id": "nature",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "aim",
+      "role": "support",
+      "status": "emergent",
+      "translation": "objetivo",
+      "lexeme_id": "aim",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "plan",
+      "role": "support",
+      "status": "emergent",
+      "translation": "planear",
+      "lexeme_id": "plan_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "goal",
+      "role": "support",
+      "status": "emergent",
+      "translation": "objetivo",
+      "lexeme_id": "goal_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "short",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bajo",
+      "lexeme_id": "short_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_002",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "method",
+      "role": "support",
+      "status": "emergent",
+      "translation": "método",
+      "lexeme_id": "method",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 1,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "find out",
+      "student",
+      "project",
+      "ask",
+      "explain",
+      "paper",
+      "result",
+      "want",
+      "information",
+      "time",
+      "partner",
+      "weekend",
+      "free time",
+      "work",
+      "year",
+      "small",
+      "idea",
+      "think",
+      "friend",
+      "spend",
+      "nature",
+      "aim",
+      "plan",
+      "goal",
+      "study",
+      "short",
+      "team",
+      "method",
+      "main",
+      "home",
+      "school",
+      "person"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Explicar un proyecto de investigación",
+      "title_target": "Quiz: Explaining a research project",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Cuál es el objetivo principal del estudiante según el texto?",
+          "prompt_target": "What is the student's main goal according to the text?",
+          "options": [
+            "Publicar un artículo sobre el medio ambiente.",
+            "Enseñar ciencia en la universidad.",
+            "Viajar a otra ciudad este año.",
+            "Limpiar la universidad."
+          ],
+          "correct_answer": "Publicar un artículo sobre el medio ambiente.",
+          "explanation_form": "En el texto, el estudiante menciona: 'My main plan this year is to publish a paper about the environment'.",
+          "explanation_target": "In the text, the student says: 'My main plan this year is to publish a paper about the environment'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "do_research_phrase",
+            "publish_verb",
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Many students like doing research at university. Doing research helps us understand science better. My main plan this year is to publish a paper about the environment. We want to find clean solutions for our city. A classmate asks, \"Could you explain what you mean by clean solutions?\" The student answers, \"I mean solutions that reduce waste and use less energy.\"",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué actividad disfruta hacer la persona con su equipo?",
+          "prompt_target": "What activity does the person enjoy doing with their team?",
+          "options": [
+            "Hacer investigación.",
+            "Escribir un libro.",
+            "Diseñar un sitio web.",
+            "Viajar este mes."
+          ],
+          "correct_answer": "Hacer investigación.",
+          "explanation_form": "El hablante inicia diciendo 'I love doing research with my team' (Me encanta hacer investigación con mi equipo).",
+          "explanation_target": "The speaker opens with 'I love doing research with my team'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "do_research_phrase",
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "I love doing research with my team. Our main goal for this month is to publish our results on a website. A classmate asks, \"Do you mean that we should publish the results online?\" I answer, \"Yes, I mean that we want to share them on our class website.\"",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Cuál es el plan del hablante para la próxima semana?",
+          "prompt_target": "What is the speaker's plan for next week?",
+          "options": [
+            "Publicar el artículo final.",
+            "Empezar una nueva investigación.",
+            "Tomar un descanso largo.",
+            "Cambiar el equipo de trabajo."
+          ],
+          "correct_answer": "Publicar el artículo final.",
+          "explanation_form": "El hablante explica que su plan principal es 'to publish the final paper next week'.",
+          "explanation_target": "The speaker states that their main plan is 'to publish the final paper next week'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "publish_verb",
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Doing research takes a lot of time and work. However, my main plan is to publish the final paper next week. We are very excited. My teammate asks, \"Could you explain what you mean by the final paper?\" I answer, \"I mean the report with our results.\"",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta usando el gerundio para la actividad:",
+          "prompt_target": "Order the words to make a correct sentence using the gerund for the activity:",
+          "options": [
+            "Doing",
+            "research",
+            "is",
+            "very",
+            "important."
+          ],
+          "correct_answer": "Doing research is very important.",
+          "explanation_form": "Usamos el gerundio 'Doing research' al inicio de la oración como sujeto para referirnos a la actividad.",
+          "explanation_target": "We use the gerund 'Doing research' at the beginning of the sentence as the subject.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "do_research_phrase",
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase expresando un objetivo: 'My plan is ____ (publish) a new paper.'",
+          "prompt_target": "Complete the sentence expressing a goal: 'My plan is ____ (publish) a new paper.'",
+          "options": null,
+          "correct_answer": "to publish",
+          "explanation_form": "Para expresar un objetivo o plan con sustantivos como 'plan' o 'goal', utilizamos el infinitivo con 'to' (to publish).",
+          "explanation_target": "To express an aim or plan, use the infinitive with 'to' (to publish).",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "publish_verb",
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál de las siguientes opciones utiliza correctamente el gerundio para la actividad y el infinitivo para el objetivo?",
+          "prompt_target": "Which option correctly uses the gerund for the activity and the infinitive for the goal?",
+          "options": [
+            "Doing research is hard, but my aim is to publish the results.",
+            "To do research is hard, but my aim is publishing the results.",
+            "Do research is hard, but my aim is publish the results.",
+            "Doing research is hard, but my aim for to publish the results."
+          ],
+          "correct_answer": "Doing research is hard, but my aim is to publish the results.",
+          "explanation_form": "La estructura correcta usa gerundio ('Doing research') para la actividad e infinitivo ('to publish') para expresar el objetivo ('my aim is to...').",
+          "explanation_target": "The correct structure uses a gerund ('Doing research') for the activity and an infinitive ('to publish') for the aim.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "do_research_phrase",
+            "publish_verb",
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada concepto en inglés con su traducción al español:",
+          "prompt_target": "Match each English concept with its Spanish translation:",
+          "options": [
+            "doing research",
+            "hacer investigación",
+            "to publish",
+            "publicar",
+            "paper",
+            "artículo / trabajo académico",
+            "aim",
+            "objetivo"
+          ],
+          "correct_answer": [
+            "doing research=hacer investigación",
+            "to publish=publicar",
+            "paper=artículo / trabajo académico",
+            "aim=objetivo"
+          ],
+          "explanation_form": "'doing research' es hacer investigación, 'to publish' es publicar, 'paper' se refiere al artículo académico y 'aim' es objetivo.",
+          "explanation_target": "'doing research' means doing research, 'to publish' means to publish, 'paper' is an academic article, and 'aim' means goal/aim.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "do_research_phrase",
+            "publish_verb",
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la oración utilizando la forma en gerundio de la actividad: '____ (do) research is very interesting.'",
+          "prompt_target": "Complete the sentence using the gerund form for the activity: '____ (do) research is very interesting.'",
+          "options": null,
+          "correct_answer": "Doing",
+          "explanation_form": "Cuando una actividad funciona como sujeto de la oración, debe ir en gerundio: 'Doing research'.",
+          "explanation_target": "When an activity acts as the subject of the sentence, use the gerund form: 'Doing research'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "do_research_phrase",
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce estas dos líneas al inglés: 'Mi objetivo principal es publicar este proyecto.' / '¿Podrías explicar qué quieres decir?'",
+          "prompt_target": "Translate these two lines into English: 'Mi objetivo principal es publicar este proyecto.' / '¿Podrías explicar qué quieres decir?'",
+          "options": null,
+          "correct_answer": "My main goal is to publish this project. / Could you explain what you mean?",
+          "explanation_form": "'Mi objetivo principal' es 'My main goal', seguido del infinitivo 'is to publish' y el complemento 'this project'. Para pedir una aclaración de forma natural, usamos 'Could you explain what you mean?' ('¿Podrías explicar qué quieres decir?').",
+          "explanation_target": "'My main goal is to publish this project' uses the infinitive after 'is'. 'Could you explain what you mean?' is a natural way to ask for clarification.",
+          "references_exercise_id": "ex_010",
+          "references_lesson_topics": [
+            "publish_verb",
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato en primera persona: ¿Cómo recoge información el equipo?",
+          "prompt_target": "Read the first-person story: How does the team collect information?",
+          "options": [
+            "By reading students' study diaries.",
+            "By publishing the report before collecting data.",
+            "By asking the teacher to cancel the project.",
+            "By travelling to a different country."
+          ],
+          "correct_answer": "By reading students' study diaries.",
+          "explanation_form": "El equipo describe el método con 'by reading their study diaries'. La estructura 'by + verbo-ing' explica cómo realiza la actividad.",
+          "explanation_target": "The team describes the method with 'by reading their study diaries'. The 'by + -ing' structure explains how the activity is done.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I am studying how students prepare for exams. My team collects information by reading their study diaries. We are doing research to find out which methods help most. A partner asks, 'Could you explain what you mean by methods?' I answer, 'I mean the ways students prepare.' Our aim is to publish a clear report.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el diálogo en primera persona: ¿Qué planea hacer el equipo con los resultados?",
+          "prompt_target": "Listen to the first-person dialogue: What does the team plan to do with the results?",
+          "options": [
+            "Publish them for their teacher.",
+            "Use them to cancel the online classes.",
+            "Hide them from all the students.",
+            "Send them to a different country."
+          ],
+          "correct_answer": "Publish them for their teacher.",
+          "explanation_form": "La persona expresa el plan con 'We plan to publish them'. El infinitivo con 'to' expresa el objetivo, y la pregunta de aclaración ayuda a precisar el tema.",
+          "explanation_target": "The speaker expresses the plan with 'We plan to publish them'. The 'to' infinitive expresses the aim, and the clarification question makes the topic precise.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "Gerunds for activities and infinitives for aims and plans."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "A: I am doing research about online classes. B: Do you mean classes at home or classes at school? A: I mean both. We collect data by asking students short questions to find out their preferences. B: What do you hope to do with the results? A: We plan to publish them for our teacher.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Gerundios para actividades vs. Infinitivos para objetivos\n\nAl explicar un proyecto de investigación en inglés, la forma del verbo cambia según lo que quieras expresar:\n\n* **Gerundio (-ing)**: se usa para hablar de la actividad o del proceso en sí (ej. *Doing research takes time*).\n* **Infinitivo (to + verbo)**: se usa para expresar el propósito, la meta o el objetivo del proyecto (ej. *I started this project to publish new results*).\n\n## Aclarar y reformular\n\nSi tu interlocutor no entiende un detalle, pide una aclaración con *Could you explain what you mean?* o *Do you mean that we should ...?* Después, reformula con información más concreta: *I mean that we collect answers by asking classmates.*\n\n## Cuidado con las traducciones directas\n\nTen en cuenta dos detalles importantes para sonar natural al hablar de tus proyectos:\n\n1. **Propósito**: Para traducir \"para + verbo\" cuando indicas una meta, usa **to + infinitivo** (*to learn*), no *for + verbo*.\n2. **Hacer investigación**: En inglés la combinación correcta es **do research** (nunca *make research*).",
+  "metadata": {
+    "generated_at": "2026-08-29T18:38:32Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

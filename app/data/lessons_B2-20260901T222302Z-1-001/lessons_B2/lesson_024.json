@@ -1,0 +1,1998 @@
+{
+  "id": "lesson_024",
+  "position": 24,
+  "unit_id": 7,
+  "course_id": "en.B2",
+  "title_form": "Debating a social issue and proposing a compromise",
+  "title_target": "Debating a social issue and proposing a compromise",
+  "theme_focus": "society",
+  "learning_objectives": [
+    "Can present a clear viewpoint on a social issue using complex noun phrases with relative clauses.",
+    "Can consider an alternative viewpoint and propose a compromise, recycling familiar preference language such as 'I'd rather'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_022",
+    "lesson_023"
+  ],
+  "grammar_focus": [
+    "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "aid",
+        "reach_an_agreement_phrase",
+        "justify_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "evaluate_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "issue",
+        "role": "topic",
+        "rationale": "The central topic of the debate."
+      },
+      {
+        "term": "viewpoint",
+        "role": "topic",
+        "rationale": "Needed to present a personal perspective."
+      },
+      {
+        "term": "compromise",
+        "role": "topic",
+        "rationale": "The goal of the discussion."
+      },
+      {
+        "term": "solution",
+        "role": "topic",
+        "rationale": "What the panel is trying to find."
+      },
+      {
+        "term": "public space",
+        "role": "topic",
+        "rationale": "A concrete example of a social issue to debate."
+      },
+      {
+        "term": "I'd rather",
+        "role": "functional",
+        "rationale": "Used to propose a preferred solution."
+      },
+      {
+        "term": "It's time",
+        "role": "functional",
+        "rationale": "Used to suggest that a change is necessary."
+      },
+      {
+        "term": "on the other hand",
+        "role": "functional",
+        "rationale": "Essential for considering another viewpoint."
+      },
+      {
+        "term": "reach an agreement",
+        "role": "functional",
+        "rationale": "Phrase for the panel's negotiation goal."
+      },
+      {
+        "term": "justify",
+        "role": "functional",
+        "rationale": "Verb for supporting a viewpoint with reasons."
+      },
+      {
+        "term": "evaluate",
+        "role": "functional",
+        "rationale": "Verb for weighing alternative proposals before choosing a compromise."
+      },
+      {
+        "term": "that concerns us",
+        "role": "grammar_support",
+        "rationale": "Directly practises the target relative clause structure."
+      },
+      {
+        "term": "that we propose",
+        "role": "grammar_support",
+        "rationale": "Directly practises the target relative clause structure."
+      },
+      {
+        "term": "we took",
+        "role": "grammar_support",
+        "rationale": "Directly practises the past simple after 'It's time'."
+      }
+    ]
+  },
+  "scenario": "Un grupo de vecinos se reúne para debatir el uso de una plaza del barrio. Unos quieren construir un estacionamiento, otros prefieren mantenerla como espacio verde. A lo largo de la lección, los participantes presentan sus puntos de vista, justifican sus ideas y buscan una solución que todos puedan aceptar.",
+  "introduction_md": "## Debatiendo un tema social y proponiendo un acuerdo\n\nEn esta lección vas a participar en un debate sobre un tema social: el uso de los espacios públicos. Aprenderás a presentar tu punto de vista con frases complejas, a considerar el punto de vista opuesto y a proponer un acuerdo.\n\n**¿Qué vas a lograr?**\n\n- Presentar tu opinión sobre un tema que te preocupa.\n- Usar frases como *the issue that concerns us most* para hablar con precisión.\n- Considerar el otro punto de vista con *on the other hand*.\n- Proponer una solución con *I'd rather* y *It's time*.\n- Justificar tus ideas y evaluar las propuestas de los demás.\n\nEl objetivo no es ganar el debate, sino **llegar a un acuerdo** (*reach an agreement*). Esta es una habilidad clave en el trabajo, los estudios y la vida diaria.\n\n¡Vamos a empezar!",
+  "intro_target": "## Debating a social issue and proposing a compromise\n\nIn this lesson you will take part in a debate about a social issue: the use of public spaces. You will learn to present your viewpoint with complex phrases, to consider the opposite viewpoint, and to propose a compromise.\n\n**What will you achieve?**\n\n- Present your opinion on an issue that concerns you.\n- Use phrases like *the issue that concerns us most* to speak precisely.\n- Consider the other viewpoint with *on the other hand*.\n- Propose a solution with *I'd rather* and *It's time*.\n- Justify your ideas and evaluate other people's proposals.\n\nThe goal is not to win the debate, but to **reach an agreement**. This is a key skill at work, in your studies, and in daily life.\n\nLet's get started!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "aid",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The government should provide more aid to public spaces, but we need to justify that decision to the community.",
+      "translation_form": "El gobierno debería proporcionar más ayuda a los espacios públicos, pero necesitamos justificar esa decisión ante la comunidad.",
+      "highlight_words": [
+        "aid",
+        "justify"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "reach_an_agreement_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "After a long debate about the new park, the panel finally reached an agreement on the budget.",
+      "translation_form": "Después de un largo debate sobre el nuevo parque, el panel finalmente llegó a un acuerdo sobre el presupuesto.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "justify_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "You need to justify your viewpoint with clear evidence, or the committee will reject your proposal.",
+      "translation_form": "Necesitas justificar tu punto de vista con evidencia clara, o el comité rechazará tu propuesta.",
+      "highlight_words": [
+        "justify",
+        "viewpoint"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The issue that concerns us most is the lack of safe spaces for teenagers, so we propose a compromise.",
+      "translation_form": "El problema que más nos preocupa es la falta de espacios seguros para los adolescentes, así que proponemos un compromiso.",
+      "highlight_words": [
+        "issue",
+        "concerns",
+        "compromise"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The solution that we propose is simple: we will evaluate both options and choose the most practical one.",
+      "translation_form": "La solución que proponemos es simple: evaluaremos ambas opciones y elegiremos la más práctica.",
+      "highlight_words": [
+        "solution",
+        "propose",
+        "evaluate"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "aid",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I'd rather increase aid for education than spend more on advertising, but we need to evaluate the impact first.",
+      "translation_form": "Prefiero aumentar la ayuda para la educación que gastar más en publicidad, pero necesitamos evaluar el impacto primero.",
+      "highlight_words": [
+        "aid",
+        "evaluate"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "reach_an_agreement_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's time we reached an agreement on the public space project; on the other hand, we must consider the cost.",
+      "translation_form": "Es hora de que lleguemos a un acuerdo sobre el proyecto de espacio público; por otro lado, debemos considerar el costo.",
+      "highlight_words": [
+        "public space"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "justify_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The community asked us to justify the new policy, so we presented the evidence that supports our position.",
+      "translation_form": "La comunidad nos pidió que justificáramos la nueva política, así que presentamos la evidencia que respalda nuestra posición.",
+      "highlight_words": [
+        "justify"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+      "title_form": "Frases nominales complejas con cláusulas relativas",
+      "title_target": "Complex noun phrases with relative clauses",
+      "description_md_form": "En un debate, no solo decimos *the issue* o *the solution*: usamos **frases nominales complejas** para precisar de qué hablamos. La estructura es **sustantivo + that + cláusula relativa**.\n\n- **The issue that concerns us most** = El problema que más nos preocupa.\n- **The solution that we propose** = La solución que proponemos.\n\nLa cláusula relativa (la parte con *that*) **identifica o describe** al sustantivo. Sin ella, la frase es demasiado general.\n\n**Estructura clave:**\n\n- **The + sustantivo + that + sujeto + verbo**\n\nEjemplos:\n\n- *The **aid** that the government provides* = La ayuda que el gobierno proporciona.\n- *The **agreement** that we reached* = El acuerdo al que llegamos.\n\n**Uso en el debate:**\n\n- Para presentar tu **viewpoint**: *The issue that concerns us most is...*\n- Para proponer una **solution**: *The solution that we propose is...*\n\nEsta estructura te permite **justify** tu posición con precisión y sonar más formal y convincente en una discusión.",
+      "description_md_target": "In a debate, we don't just say *the issue* or *the solution*: we use **complex noun phrases** to specify what we mean. The structure is **noun + that + relative clause**.\n\n- **The issue that concerns us most** = The problem that worries us the most.\n- **The solution that we propose** = The solution we are proposing.\n\nThe relative clause (the part with *that*) **identifies or describes** the noun. Without it, the phrase is too general.\n\n**Key structure:**\n\n- **The + noun + that + subject + verb**\n\nExamples:\n\n- *The **aid** that the government provides*\n- *The **agreement** that we reached*\n\n**Use in debate:**\n\n- To present your **viewpoint**: *The issue that concerns us most is...*\n- To propose a **solution**: *The solution that we propose is...*\n\nThis structure lets you **justify** your position with precision and sound more formal and convincing in a discussion.",
+      "grammar_structure": "The + noun + that + subject + verb",
+      "conjugation_table": null,
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+          "text_target": "The issue that concerns us most is the lack of public spaces, so we propose a compromise.",
+          "translation_form": "El problema que más nos preocupa es la falta de espacios públicos, así que proponemos un compromiso.",
+          "highlight_words": [
+            "issue",
+            "concerns",
+            "propose"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+          "text_target": "The solution that we propose is simple: we will evaluate both options and reach an agreement.",
+          "translation_form": "La solución que proponemos es simple: evaluaremos ambas opciones y llegaremos a un acuerdo.",
+          "highlight_words": [
+            "solution",
+            "propose",
+            "evaluate"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En inglés, *that* es obligatorio en este tipo de frases formales. No lo omitas en un debate: *the issue that concerns us* suena mucho más profesional que *the issue concerns us*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No uses *what* en lugar de *that*. Decimos *the issue **that** concerns us*, NO *the issue **what** concerns us*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'what' en lugar de 'that': *the issue what concerns us* → INCORRECTO. Lo correcto es *the issue that concerns us*.",
+        "Olvidar el verbo en la cláusula relativa: *the solution that we propose* necesita el verbo *propose*; no digas *the solution that we*.",
+        "Confundir el orden: en inglés el sustantivo va primero y la cláusula relativa después: *the aid that the government provides*, no *that the government provides the aid*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'aid'?",
+      "options": [
+        "ayuda",
+        "daño",
+        "venta",
+        "pérdida"
+      ],
+      "correct_answer": "ayuda",
+      "explanation_md": "'Aid' significa ayuda o asistencia, especialmente en un contexto formal o de emergencia.",
+      "related_lexeme_ids": [
+        "aid"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'justify'?",
+      "options": [
+        "justificar",
+        "juzgar",
+        "unir",
+        "viajar"
+      ],
+      "correct_answer": "justificar",
+      "explanation_md": "'Justify' significa dar razones o evidencia para apoyar una decisión o punto de vista.",
+      "related_lexeme_ids": [
+        "justify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'reach an agreement'?",
+      "options": [
+        "llegar a un acuerdo",
+        "romper un trato",
+        "iniciar una discusión",
+        "perder una oportunidad"
+      ],
+      "correct_answer": "llegar a un acuerdo",
+      "explanation_md": "'Reach an agreement' es la frase para decir que dos o más partes finalmente se ponen de acuerdo.",
+      "related_lexeme_ids": [
+        "reach_an_agreement_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la frase con la opción correcta: 'The issue that ______ us most is the lack of safe spaces for teenagers.'",
+      "options": [
+        "concerns",
+        "concern",
+        "concerning",
+        "concerned"
+      ],
+      "correct_answer": "concerns",
+      "explanation_md": "En la cláusula relativa 'that concerns us', el verbo 'concerns' concuerda con 'the issue' (tercera persona singular).",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la frase con la forma correcta del verbo: 'The solution that we ______ is simple: we will evaluate both options.'",
+      "options": null,
+      "correct_answer": "propose",
+      "explanation_md": "El verbo 'propose' sigue al sujeto 'we' en la cláusula relativa 'that we propose'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "matching",
+      "prompt_md": "Emparejá cada palabra con su significado:",
+      "options": [
+        "aid",
+        "justify",
+        "reach an agreement",
+        "ayuda",
+        "justificar",
+        "llegar a un acuerdo"
+      ],
+      "correct_answer": [
+        "aid=ayuda",
+        "justify=justificar",
+        "reach an agreement=llegar a un acuerdo"
+      ],
+      "explanation_md": "Estas son las tres palabras nuevas de la lección. Recordá sus significados para usarlas en el debate.",
+      "related_lexeme_ids": [
+        "aid",
+        "justify_verb",
+        "reach_an_agreement_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'El gobierno debería proporcionar más ayuda a los espacios públicos.'",
+      "options": null,
+      "correct_answer": "The government should provide more aid to public spaces.",
+      "explanation_md": "Usamos 'aid' para 'ayuda' en un contexto formal y 'public spaces' para 'espacios públicos'.",
+      "related_lexeme_ids": [
+        "aid"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'You need to justify your viewpoint with clear evidence.'",
+      "options": null,
+      "correct_answer": "Necesitas justificar tu punto de vista con evidencia clara.",
+      "explanation_md": "'Justify' se traduce como 'justificar' y 'viewpoint' como 'punto de vista'.",
+      "related_lexeme_ids": [
+        "justify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuál es el problema principal que preocupa al panel?",
+      "options": null,
+      "correct_answer": "The effect on local businesses during the construction.",
+      "explanation_md": "El texto dice explícitamente: 'The issue that concerns us most... is the effect on local businesses during the construction.'",
+      "related_lexeme_ids": [
+        "reach_an_agreement_phrase",
+        "justify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "The city council is debating a proposal to build a new park in the center. Some members believe the park will attract more visitors and improve the area. However, others are worried about the cost and the lack of parking spaces. The issue that concerns us most, says one council member, is the effect on local businesses during the construction. The solution that we propose is to build the park in two phases. This way, we can evaluate the impact on the community before we finish the second part. The panel hopes to reach an agreement by the end of the month. To justify this decision, they will present a detailed report with evidence from other cities.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué propone el panel para resolver el problema?",
+      "options": null,
+      "correct_answer": "Keep half of the market for farmers and use the other half for new shops.",
+      "explanation_md": "El texto menciona: 'The solution that we propose is a compromise: we will keep half of the market for farmers and use the other half for new shops.'",
+      "related_lexeme_ids": [
+        "reach_an_agreement_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "A group of residents is meeting to discuss the future of the old market. Some people want to turn it into a modern shopping center. Others prefer to keep it as a traditional public space for local farmers. The debate is intense, and both sides have strong arguments. The issue that concerns us most is the loss of our local culture, says one resident. The solution that we propose is a compromise: we will keep half of the market for farmers and use the other half for new shops. This way, we can preserve our traditions and also attract more visitors. To justify this plan, the group will collect signatures from the community. They hope to reach an agreement with the city council next week.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué el comité rechazó la primera propuesta?",
+      "options": [
+        "It was too expensive and required too much space.",
+        "It was too small for the community.",
+        "It was in the wrong location.",
+        "It did not have enough parking."
+      ],
+      "correct_answer": "It was too expensive and required too much space.",
+      "explanation_md": "El texto dice: 'The first plan was expensive and required too much space.' Esta es la razón del rechazo.",
+      "related_lexeme_ids": [
+        "justify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "The committee met to review a proposal for a new community center. The first plan was expensive and required too much space. Some members argued that the cost was too high for the benefits. The issue that concerns us most is the budget, said the chair. The solution that we propose is to reduce the size of the building and use cheaper materials. This will lower the cost by thirty percent. To justify this change, the architect will present new plans next week. The committee hopes to reach an agreement before the summer. If they do, construction can start in the autumn. The community is waiting for a decision, and everyone wants a practical solution.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué propone María para resolver el problema?",
+      "options": [
+        "Open the library every night.",
+        "Close the library earlier.",
+        "Open the library two nights a week.",
+        "Build a new library."
+      ],
+      "correct_answer": "Open the library two nights a week.",
+      "explanation_md": "María dice: 'The solution that we propose is to open two nights a week.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "We are discussing the new library hours. Some students want it open later. Others say it is too expensive. The issue that concerns us most is access for night workers. The solution that we propose is to open two nights a week. We can evaluate the cost after three months. I think this is a fair compromise.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cuál es el punto de vista de John?",
+      "options": [
+        "He wants more parking.",
+        "He wants to protect the green areas.",
+        "He wants to build a new road.",
+        "He wants to cancel the project."
+      ],
+      "correct_answer": "He wants to protect the green areas.",
+      "explanation_md": "John dice: 'I'd rather protect the green areas.' Esto indica su preferencia.",
+      "related_lexeme_ids": [
+        "reach_an_agreement_phrase",
+        "evaluate_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I understand the need for more parking. However, I'd rather protect the green areas. On the other hand, we need to reach an agreement soon. The issue that concerns us most is the environment. I think we should evaluate all options before we decide. It's time to find a real compromise.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué decisión tomó el comité?",
+      "options": [
+        "They decided to reduce the budget.",
+        "They decided to increase the budget for public spaces.",
+        "They decided to cancel the project.",
+        "They decided to hire more staff."
+      ],
+      "correct_answer": "They decided to increase the budget for public spaces.",
+      "explanation_md": "El audio dice: 'The solution that we propose is to increase the budget for public spaces.'",
+      "related_lexeme_ids": [
+        "reach_an_agreement_phrase",
+        "justify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "After a long debate, the committee finally reached an agreement. The solution that we propose is to increase the budget for public spaces. We will also reduce spending on advertising. To justify this decision, we will show the positive effects on the community. We believe this is the best way to move forward.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "free_production",
+      "prompt_md": "Imaginá que sos parte de un panel que debate sobre un nuevo parque en tu ciudad. Escribí 2-3 oraciones expresando tu punto de vista y proponiendo una solución. Usá 'the issue that concerns us most' y 'the solution that we propose'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de las cláusulas relativas 'that concerns us most' y 'that we propose', así como la claridad del punto de vista.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "The issue that concerns us most is the lack of green spaces. The solution that we propose is to build a small park near the school. We need to justify this decision with a survey.",
+        "The issue that concerns us most is the noise from the traffic. The solution that we propose is to close the main street on weekends. I'd rather have a quiet area for families."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_016",
+      "kind": "free_production",
+      "prompt_md": "En una reunión con vecinos, debatís sobre el uso de un espacio público. Escribí 2-3 oraciones donde justifiques tu punto de vista y propongas un compromiso. Usá 'justify' y 'reach an agreement'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'justify' para apoyar un punto de vista y la frase 'reach an agreement' para el objetivo de la negociación.",
+      "related_lexeme_ids": [
+        "justify_verb",
+        "reach_an_agreement_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I think we should use the space for a community garden. To justify my viewpoint, I can show the benefits for children. We need to reach an agreement with the council.",
+        "On the other hand, some people want a parking area. I'd rather have a garden, but I accept a compromise. We can reach an agreement if we share the space."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_017",
+      "kind": "free_production",
+      "prompt_md": "El comité de tu barrio quiere mejorar un espacio público. Escribí 2-3 oraciones donde evalúes dos opciones y propongas una solución. Usá 'evaluate' y 'the solution that we propose'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'evaluate' para comparar opciones y la cláusula relativa 'that we propose' para presentar la solución.",
+      "related_lexeme_ids": [
+        "evaluate_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "We need to evaluate the cost of a new playground. The solution that we propose is to start with a small area. We can add more equipment later.",
+        "First, we should evaluate the needs of the community. The solution that we propose is a simple design. It's time to make a decision."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_018",
+      "kind": "multiple_choice",
+      "prompt_md": "Elegí la opción correcta para completar la frase: 'It's time we ______ a decision about the park.'",
+      "options": [
+        "take",
+        "took",
+        "taking",
+        "takes"
+      ],
+      "correct_answer": "took",
+      "explanation_md": "Después de 'It's time', usamos el pasado simple para sugerir que algo debería hacerse ya. 'It's time we took a decision.'",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "aid",
+      "back": "ayuda",
+      "hint": "sustantivo, ayuda o asistencia",
+      "lexeme_id": "aid",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "B2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "reach an agreement",
+      "back": "llegar a un acuerdo",
+      "hint": "frase, negociar y acordar",
+      "lexeme_id": "reach_an_agreement_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "B2",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "justify",
+      "back": "justificar",
+      "hint": "verbo, dar razones para apoyar algo",
+      "lexeme_id": "justify_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "B2",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "evaluate",
+      "back": "evaluar",
+      "hint": "verbo, considerar opciones antes de decidir",
+      "lexeme_id": "evaluate_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_024",
+        "B2",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "issue",
+      "back": "tema, asunto",
+      "hint": "el tema central de un debate",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "issue",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "viewpoint",
+      "back": "punto de vista",
+      "hint": "perspectiva personal",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "viewpoint",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "compromise",
+      "back": "compromiso, acuerdo mutuo",
+      "hint": "el objetivo de la discusión",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "compromise",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "solution",
+      "back": "solución",
+      "hint": "lo que el panel intenta encontrar",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "solution",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "public space",
+      "back": "espacio público",
+      "hint": "ejemplo concreto de un tema social",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "public space",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "social"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "I'd rather",
+      "back": "prefiero",
+      "hint": "para proponer una solución preferida",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "I'd rather",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "It's time",
+      "back": "es hora de",
+      "hint": "para sugerir que un cambio es necesario",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "It's time",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "on the other hand",
+      "back": "por otro lado",
+      "hint": "para considerar otro punto de vista",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "on the other hand",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "that concerns us",
+      "back": "que nos preocupa",
+      "hint": "estructura de cláusula relativa",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "that concerns us",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "that we propose",
+      "back": "que proponemos",
+      "hint": "estructura de cláusula relativa",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "that we propose",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "we took",
+      "back": "tomamos",
+      "hint": "pasado simple después de 'It's time'",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "we took",
+      "tags": [
+        "lesson_024",
+        "B2",
+        "grammar_support"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "aid",
+      "reading": "",
+      "translation": "ayuda",
+      "pos": "noun",
+      "example": "The government should provide more aid to public spaces, but we need to justify that decision to the community.",
+      "example_translation": "El gobierno debería proporcionar más ayuda a los espacios públicos, pero necesitamos justificar esa decisión ante la comunidad.",
+      "lexeme_id": "aid",
+      "chunk_id": null
+    },
+    {
+      "target_word": "reach an agreement",
+      "reading": "",
+      "translation": "llegar a un acuerdo",
+      "pos": "phrase",
+      "example": "After a long debate about the new park, the panel finally reached an agreement on the budget.",
+      "example_translation": "Después de un largo debate sobre el nuevo parque, el panel finalmente llegó a un acuerdo sobre el presupuesto.",
+      "lexeme_id": "reach_an_agreement_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "justify",
+      "reading": "",
+      "translation": "justificar",
+      "pos": "verb",
+      "example": "You need to justify your viewpoint with clear evidence, or the committee will reject your proposal.",
+      "example_translation": "Necesitas justificar tu punto de vista con evidencia clara, o el comité rechazará tu propuesta.",
+      "lexeme_id": "justify_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "issue",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "asunto / problema",
+      "lexeme_id": "issue",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "fc_005",
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "viewpoint",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+        "ex_016",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "compromise",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "compromiso",
+      "lexeme_id": "compromise",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_016",
+        "fc_007",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "solution",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "solución",
+      "lexeme_id": "solution",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_005",
+        "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "ex_015",
+        "ex_017",
+        "fc_008",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "public space",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_007",
+        "ex_010",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "I'd rather",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_006",
+        "ex_013",
+        "ex_015",
+        "ex_016",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "It's time",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_007",
+        "ex_013",
+        "ex_017",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "on the other hand",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_007",
+        "ex_013",
+        "ex_016",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "reach an agreement",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "llegar a un acuerdo",
+      "lexeme_id": "reach_an_agreement_phrase",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_007",
+        "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+        "ex_003",
+        "ex_006",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "ex_016",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "justify",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "justificar",
+      "lexeme_id": "justify_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "exm_008",
+        "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+        "ex_002",
+        "ex_006",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "evaluate",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "evaluar",
+      "lexeme_id": "evaluate_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_005",
+        "exm_006",
+        "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_017",
+        "fc_004",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "that concerns us",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "fc_013",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "that we propose",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_005",
+        "consolidation: complex noun phrases with relative clauses: the issue that concerns us most, the solution that we propose",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "ex_015",
+        "ex_017",
+        "fc_014",
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "we took",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_015"
+      ]
+    },
+    {
+      "term": "aid",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ayuda",
+      "lexeme_id": "aid",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_006",
+        "ex_001",
+        "ex_006",
+        "ex_007",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "exm_006",
+        "ex_013",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "community",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comunidad",
+      "lexeme_id": "community",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_014",
+        "ex_016",
+        "ex_017"
+      ]
+    },
+    {
+      "term": "evidence",
+      "role": "support",
+      "status": "emergent",
+      "translation": "evidencia",
+      "lexeme_id": "evidence",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_008",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "cost",
+      "role": "support",
+      "status": "emergent",
+      "translation": "costar",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_017",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "park",
+      "role": "support",
+      "status": "emergent",
+      "translation": "parque",
+      "lexeme_id": "park",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_015",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "budget",
+      "role": "support",
+      "status": "emergent",
+      "translation": "presupuesto",
+      "lexeme_id": "budget",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_014",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "proposal",
+      "role": "support",
+      "status": "emergent",
+      "translation": "propuesta",
+      "lexeme_id": "proposal",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "lack",
+      "role": "support",
+      "status": "emergent",
+      "translation": "falta",
+      "lexeme_id": "lack",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "committee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comité",
+      "lexeme_id": "committee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "finally",
+      "role": "support",
+      "status": "emergent",
+      "translation": "finalmente / por fin",
+      "lexeme_id": "finally_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "practical",
+      "role": "support",
+      "status": "emergent",
+      "translation": "práctico",
+      "lexeme_id": "practical_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "clear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "claro",
+      "lexeme_id": "clear_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "advertise",
+      "role": "support",
+      "status": "emergent",
+      "translation": "anunciar",
+      "lexeme_id": "advertise_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "provide",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dejar / dotar / suplir",
+      "lexeme_id": "provide",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "option",
+      "role": "support",
+      "status": "emergent",
+      "translation": "opción",
+      "lexeme_id": "option",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "education",
+      "role": "support",
+      "status": "emergent",
+      "translation": "educación",
+      "lexeme_id": "education",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "consider",
+      "role": "support",
+      "status": "emergent",
+      "translation": "considerar",
+      "lexeme_id": "consider_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "position",
+      "role": "support",
+      "status": "emergent",
+      "translation": "posición",
+      "lexeme_id": "position",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "reject",
+      "role": "support",
+      "status": "emergent",
+      "translation": "negar / denegar / rehusar",
+      "lexeme_id": "reject_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "teenager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "chica / chico / muchacho",
+      "lexeme_id": "teenager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "policy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "político",
+      "lexeme_id": "policy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_016",
+        "quiz_001:q_001",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "think",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pensar / creer",
+      "lexeme_id": "think_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "ex_016",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "area",
+      "role": "support",
+      "status": "emergent",
+      "translation": "área",
+      "lexeme_id": "area",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_013",
+        "ex_015",
+        "ex_016",
+        "ex_017"
+      ]
+    },
+    {
+      "term": "way",
+      "role": "support",
+      "status": "emergent",
+      "translation": "manera / camino",
+      "lexeme_id": "way",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_014",
+        "quiz_001:q_002",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "reduce",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reducir",
+      "lexeme_id": "reduce_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_014",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "believe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "creer",
+      "lexeme_id": "believe_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_014",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "hope",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar",
+      "lexeme_id": "hope_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "make",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer / fabricar",
+      "lexeme_id": "make_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_017",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 14,
+    "lexical_target_count": 11,
+    "covered_lexical_target_count": 11,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 0,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "need",
+      "community",
+      "evidence",
+      "cost",
+      "park",
+      "budget",
+      "proposal",
+      "lack",
+      "committee",
+      "finally",
+      "practical",
+      "clear",
+      "advertise",
+      "provide",
+      "option",
+      "education",
+      "ask",
+      "consider",
+      "position",
+      "reject",
+      "teenager",
+      "project",
+      "policy",
+      "want",
+      "think",
+      "area",
+      "way",
+      "reduce",
+      "city",
+      "believe",
+      "hope",
+      "make"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Debatiendo un tema social y proponiendo un acuerdo",
+      "title_target": "Quiz: Debating a social issue and proposing a compromise",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el audio y responde: ¿Qué propone la mujer para resolver el problema?",
+          "prompt_target": "Listen and answer: What does the woman propose to solve the problem?",
+          "options": [
+            "To plant trees on one side and build a small football field on the other",
+            "To build a large football field and remove all the trees",
+            "To cancel the park project completely",
+            "To ask the government for more money"
+          ],
+          "correct_answer": "To plant trees on one side and build a small football field on the other",
+          "explanation_form": "La mujer propone una solución equilibrada: plantar árboles en un lado y construir un campo de fútbol pequeño en el otro. Esto es un compromiso.",
+          "explanation_target": "The woman proposes a balanced solution: plant trees on one side and build a small football field on the other. This is a compromise.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reach_an_agreement_phrase",
+            "justify_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "We need to reach an agreement about the new park. Some people want more trees, but others want more space for sports. I think we can justify a compromise. We can plant trees on one side and build a small football field on the other. This solution can help everyone.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Cuál es la razón principal por la que la autora apoya la ayuda internacional?",
+          "prompt_target": "Read the text and answer: What is the main reason the author supports international aid?",
+          "options": [
+            "Because it creates stronger relationships between nations and helps people in disasters",
+            "Because it makes the country look powerful",
+            "Because it is a tradition that cannot be changed",
+            "Because it is the only way to spend the national budget"
+          ],
+          "correct_answer": "Because it creates stronger relationships between nations and helps people in disasters",
+          "explanation_form": "El texto dice que la ayuda es necesaria en desastres y que también construye relaciones más fuertes entre naciones. Esa es la razón principal que la autora da.",
+          "explanation_target": "The text says that aid is necessary in disasters and that it also builds stronger relationships between nations. That is the main reason the author gives.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "aid",
+            "complex_noun_and_relative_forms"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "International aid is a topic that concerns many people. Some argue that giving money to other countries is a waste. They believe that each nation should solve its own problems. However, I think we can justify this aid. When a disaster happens, people need help immediately. They cannot wait for a slow political process. Aid provides food, water, and medicine to those who need it most. It also builds stronger relationships between nations. The solution that we propose is simple: we should give aid with clear rules. We can evaluate the results every year. If the aid does not work, we can change our approach. This way, we help others and protect our own resources. In my opinion, this is a fair and responsible way to act.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "to",
+            "reach",
+            "need",
+            "we",
+            "an",
+            "agreement"
+          ],
+          "correct_answer": "We need to reach an agreement",
+          "explanation_form": "La estructura correcta es: Sujeto + verbo + infinitivo + objeto. 'We need to reach an agreement' significa 'Necesitamos llegar a un acuerdo'.",
+          "explanation_target": "The correct structure is: Subject + verb + infinitive + object. 'We need to reach an agreement' means 'Necesitamos llegar a un acuerdo'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reach_an_agreement_phrase"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado de 'to justify' en este contexto?",
+          "prompt_target": "What is the meaning of 'to justify' in this context?",
+          "options": [
+            "To give a good reason for something",
+            "To reject an idea completely",
+            "To ignore a problem",
+            "To spend money quickly"
+          ],
+          "correct_answer": "To give a good reason for something",
+          "explanation_form": "'To justify' significa dar una razón válida para algo. Por ejemplo: 'We can justify the cost' (Podemos justificar el costo).",
+          "explanation_target": "'To justify' means to give a valid reason for something. For example: 'We can justify the cost'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "justify_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'The issue that ____ us most is climate change.'",
+          "prompt_target": "Complete the sentence: 'The issue that ____ us most is climate change.'",
+          "options": null,
+          "correct_answer": "concerns",
+          "explanation_form": "Usamos 'concerns' (preocupa) con el pronombre relativo 'that'. La frase completa: 'The issue that concerns us most is climate change.'",
+          "explanation_target": "We use 'concerns' with the relative pronoun 'that'. The full sentence: 'The issue that concerns us most is climate change.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "complex_noun_and_relative_forms"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el audio y responde: ¿Qué opina el hombre sobre la propuesta?",
+          "prompt_target": "Listen and answer: What does the man think about the proposal?",
+          "options": [
+            "He thinks the proposal is a mistake and wants to evaluate the results first",
+            "He agrees completely with the proposal",
+            "He wants to increase the budget for sports",
+            "He thinks the proposal is too expensive"
+          ],
+          "correct_answer": "He thinks the proposal is a mistake and wants to evaluate the results first",
+          "explanation_form": "El hombre dice que reducir el presupuesto de educación es un error y que primero hay que evaluar los resultados.",
+          "explanation_target": "The man says that reducing the education budget is a mistake and that we need to evaluate the results first.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "evaluate_verb",
+            "reach_an_agreement_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I understand your point, but I disagree. You want to reduce the budget for education. I think that is a mistake. We need to evaluate the results first. If we cut the budget now, we will lose good teachers. Let's find another solution.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué solución propone el autor para el problema de la vivienda?",
+          "prompt_target": "Read the text and answer: What solution does the author propose for the housing problem?",
+          "options": [
+            "To create a program for affordable housing with government land and lower taxes",
+            "To build more luxury apartments",
+            "To stop all new construction",
+            "To increase the prices of homes"
+          ],
+          "correct_answer": "To create a program for affordable housing with government land and lower taxes",
+          "explanation_form": "El autor propone un programa de vivienda asequible: el gobierno da tierra y reduce impuestos, y los desarrolladores construyen casas a menor precio.",
+          "explanation_target": "The author proposes an affordable housing program: the government gives land and reduces taxes, and developers build homes at a lower price.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "aid",
+            "complex_noun_and_relative_forms"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": "The housing problem is a serious issue in our city. Many young people cannot afford to buy a home. The prices are too high, and salaries are not growing. Some politicians want to build more luxury apartments. But this does not help the majority. The solution that we propose is different. We want to create a program for affordable housing. The government can give land to developers. In exchange, developers must build homes at a lower price. We can also reduce taxes for families that buy their first home. This plan is not perfect, but it is a good start. We need to reach an agreement between the public and private sectors. If we work together, we can solve this problem.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada expresión con su significado:",
+          "prompt_target": "Match each expression with its meaning:",
+          "options": [
+            "reach an agreement",
+            "justify",
+            "evaluate",
+            "aid",
+            "llegar a un acuerdo",
+            "justificar",
+            "evaluar",
+            "ayuda"
+          ],
+          "correct_answer": [
+            "reach an agreement=llegar a un acuerdo",
+            "justify=justificar",
+            "evaluate=evaluar",
+            "aid=ayuda"
+          ],
+          "explanation_form": "Estas son las palabras clave de la lección. 'Reach an agreement' es llegar a un acuerdo, 'justify' es justificar, 'evaluate' es evaluar y 'aid' es ayuda.",
+          "explanation_target": "These are the key words of the lesson. 'Reach an agreement' is llegar a un acuerdo, 'justify' is justificar, 'evaluate' is evaluar and 'aid' is ayuda.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reach_an_agreement_phrase",
+            "justify_verb",
+            "evaluate_verb",
+            "aid"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'We need to ____ an agreement before the meeting ends.'",
+          "prompt_target": "Complete the sentence: 'We need to ____ an agreement before the meeting ends.'",
+          "options": null,
+          "correct_answer": "reach",
+          "explanation_form": "La expresión correcta es 'reach an agreement' (llegar a un acuerdo). No decimos 'make an agreement' en este contexto.",
+          "explanation_target": "The correct expression is 'reach an agreement'. We don't say 'make an agreement' in this context.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reach_an_agreement_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la mejor manera de justificar una decisión impopular?",
+          "prompt_target": "What is the best way to justify an unpopular decision?",
+          "options": [
+            "By explaining the reasons and showing the benefits",
+            "By ignoring the critics",
+            "By making the decision in secret",
+            "By promising to change the decision later"
+          ],
+          "correct_answer": "By explaining the reasons and showing the benefits",
+          "explanation_form": "Para justificar una decisión, es importante explicar las razones y mostrar los beneficios. Esto hace que la decisión sea más aceptable.",
+          "explanation_target": "To justify a decision, it is important to explain the reasons and show the benefits. This makes the decision more acceptable.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "justify_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Frases nominales con relativo: tu arma para debatir\n\nEn un debate, las frases nominales con relativo te permiten ser preciso y sonar natural. En vez de decir *\"the issue\"* (el tema), di *\"the issue that concerns us most\"* (el tema que más nos preocupa). En español, solemos usar \"que\" igual que en inglés, pero recuerda: en inglés el relativo **nunca se omite** cuando es el sujeto de la cláusula. No digas *\"the solution we propose\"* sin \"that\" en un registro formal; aunque es común en conversación, en un debate es mejor incluirlo.\n\n## Verbos clave para negociar\n\n*\"Reach an agreement\"* es una frase fija: no digas *\"arrive to an agreement\"* ni *\"get an agreement\"*. El verbo correcto es **reach**. Para justificar tu postura, usa *\"justify\"*: *\"I can justify my position\"*. Y para evaluar la propuesta del otro, recuerda *\"evaluate\"*: *\"We need to evaluate the solution that we propose\"*. Combínalos con *\"I'd rather\"* para proponer un compromiso: *\"I'd rather reach an agreement that works for both of us\"*.",
+  "metadata": {
+    "generated_at": "2026-08-31T01:38:40Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

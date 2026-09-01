@@ -1,0 +1,1501 @@
+{
+  "id": "lesson_003",
+  "position": 3,
+  "unit_id": 1,
+  "course_id": "en.A2",
+  "title_form": "My daily schedule",
+  "title_target": "Mi horario diario",
+  "theme_focus": "daily_routine",
+  "learning_objectives": [
+    "Can ask and answer questions about daily schedules using present simple."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_001"
+  ],
+  "grammar_focus": [
+    "present simple: questions with do/does"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "schedule",
+        "agenda",
+        "appointment",
+        "period",
+        "third_ord",
+        "past_prep"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "first_adv",
+        "afterwards_adv",
+        "shoes"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tomás es un estudiante nuevo en una escuela de idiomas. En su primera semana, necesita organizar su horario diario: tiene clases, una cita con el director y tiempo para estudiar. Durante la lección, Tomás pregunta y responde sobre su agenda, usando el presente simple para describir su rutina y coordinar actividades con su compañera de clase, Laura.",
+  "introduction_md": "## My daily schedule\n\nEn esta lección vas a aprender a hablar sobre tu **horario diario** en inglés. Vas a poder preguntar y responder sobre tus actividades del día, como un intercambio social de rutina.\n\n**¿Qué vas a lograr?**\n\n- Preguntar y responder sobre horarios con *present simple*.\n- Usar palabras clave como *schedule*, *agenda* y *appointment*.\n- Hablar de momentos del día con *past* y *third*.\n\nImagina que un compañero de trabajo te pregunta: *\"What time do you have an appointment?\"* — con esta lección, podrás responder con confianza.\n\n¡Vamos a practicar con diálogos cortos y situaciones reales!",
+  "intro_target": "## My daily schedule\n\nIn this lesson, you will learn to talk about your **daily schedule** in English. You will be able to ask and answer questions about your daily activities, like a routine social exchange.\n\n**What will you achieve?**\n\n- Ask and answer questions about schedules with *present simple*.\n- Use key words like *schedule*, *agenda*, and *appointment*.\n- Talk about times of day with *past* and *third*.\n\nImagine a coworker asks you: *\"What time do you have an appointment?\"* — with this lesson, you will be able to answer with confidence.\n\nLet's practice with short dialogues and real situations!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My schedule is full today, but I can see you tomorrow.",
+      "translation_form": "Mi horario está lleno hoy, pero puedo verte mañana.",
+      "highlight_words": [
+        "schedule"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "appointment",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Do you have an appointment with the doctor this afternoon?",
+      "translation_form": "¿Tienes una cita con el doctor esta tarde?",
+      "highlight_words": [
+        "appointment"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "agenda",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I check my agenda every morning before I go to work.",
+      "translation_form": "Reviso mi agenda cada mañana antes de ir al trabajo.",
+      "highlight_words": [
+        "agenda"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "period",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My first class is at nine, and the second period starts at ten.",
+      "translation_form": "Mi primera clase es a las nueve, y el segundo período empieza a las diez.",
+      "highlight_words": [
+        "period"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "third_ord",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The third meeting of the day is at three o'clock.",
+      "translation_form": "La tercera reunión del día es a las tres en punto.",
+      "highlight_words": [
+        "third"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "past_prep",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "It's half past seven, so we need to leave now.",
+      "translation_form": "Son las siete y media, así que tenemos que irnos ahora.",
+      "highlight_words": [
+        "past"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Does your schedule include a break after lunch?",
+      "translation_form": "¿Tu horario incluye un descanso después del almuerzo?",
+      "highlight_words": [
+        "schedule"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "appointment",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I have an appointment at the bank at noon, and afterwards I can help you.",
+      "translation_form": "Tengo una cita en el banco al mediodía, y después puedo ayudarte.",
+      "highlight_words": [
+        "appointment",
+        "afterwards"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: questions with do/does",
+      "title_form": "Preguntas en presente simple con do/does",
+      "title_target": "Present simple questions with do/does",
+      "description_md_form": "Para hacer preguntas en presente simple, usamos **do** o **does** al inicio de la oración. Usamos **do** con *I, you, we, they* y **does** con *he, she, it*.\n\nLa estructura es: **Do/Does + sujeto + verbo en forma base + ...?**\n\nEjemplos:\n- *Do you have an appointment?* (¿Tienes una cita?)\n- *Does she check her agenda?* (¿Ella revisa su agenda?)\n\n**Importante:** Cuando usamos **does**, el verbo principal NO lleva *-s*. Decimos *Does he work?* y NO *Does he works?*.\n\nPara respuestas cortas, usamos **Yes, I do** / **No, I don't** o **Yes, she does** / **No, she doesn't**.",
+      "description_md_target": "To make questions in the present simple, we use **do** or **does** at the beginning of the sentence. We use **do** with *I, you, we, they* and **does** with *he, she, it*.\n\nThe structure is: **Do/Does + subject + base verb + ...?**\n\nExamples:\n- *Do you have an appointment?*\n- *Does she check her agenda?*\n\n**Important:** When we use **does**, the main verb does NOT take *-s*. We say *Does he work?* and NOT *Does he works?*.\n\nFor short answers, we use **Yes, I do** / **No, I don't** or **Yes, she does** / **No, she doesn't**.",
+      "grammar_structure": "Do/Does + subject + base verb + ...?",
+      "conjugation_table": {
+        "name": "present_simple_questions",
+        "headers": [
+          "Pronombre",
+          "Pregunta",
+          "Respuesta corta sí",
+          "Respuesta corta no"
+        ],
+        "rows": [
+          [
+            "I",
+            "Do I...?",
+            "Yes, I do.",
+            "No, I don't."
+          ],
+          [
+            "you",
+            "Do you...?",
+            "Yes, you do.",
+            "No, you don't."
+          ],
+          [
+            "he/she/it",
+            "Does he/she/it...?",
+            "Yes, he/she/it does.",
+            "No, he/she/it doesn't."
+          ],
+          [
+            "we",
+            "Do we...?",
+            "Yes, we do.",
+            "No, we don't."
+          ],
+          [
+            "they",
+            "Do they...?",
+            "Yes, they do.",
+            "No, they don't."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: questions with do/does",
+          "text_target": "Do you have an appointment with the doctor this afternoon?",
+          "translation_form": "¿Tienes una cita con el doctor esta tarde?",
+          "highlight_words": [
+            "do",
+            "have"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: questions with do/does",
+          "text_target": "Does your first class start at nine?",
+          "translation_form": "¿Tu primera clase empieza a las nueve?",
+          "highlight_words": [
+            "does",
+            "start"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas:** *Does he works?* — Con **does**, el verbo va en forma base: *Does he work?*"
+        },
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** *Do* se usa con *I, you, we, they*; *Does* se usa con *he, she, it*. ¡Es como el *-s* de la tercera persona, pero al revés!"
+        }
+      ],
+      "common_errors_es": [
+        "Agregar -s al verbo después de does: *Does she works?* → correcto: *Does she work?*",
+        "Olvidar el auxiliar: *You have an appointment?* → correcto: *Do you have an appointment?*",
+        "Usar does con I/you: *Does you have...?* → correcto: *Do you have...?*"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'schedule'?",
+      "options": [
+        "horario",
+        "agenda",
+        "cita",
+        "reunión"
+      ],
+      "correct_answer": "horario",
+      "explanation_md": "'Schedule' se refiere al horario o plan de actividades.",
+      "related_lexeme_ids": [
+        "schedule"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'appointment'?",
+      "options": [
+        "cita",
+        "horario",
+        "período",
+        "agenda"
+      ],
+      "correct_answer": "cita",
+      "explanation_md": "'Appointment' es una cita, especialmente con un profesional.",
+      "related_lexeme_ids": [
+        "appointment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "agenda",
+        "period",
+        "third",
+        "past",
+        "agenda",
+        "período",
+        "tercero",
+        "pasado"
+      ],
+      "correct_answer": [
+        "agenda=agenda",
+        "period=período",
+        "third=tercero",
+        "past=pasado"
+      ],
+      "explanation_md": "Estas son las palabras nuevas de la lección.",
+      "related_lexeme_ids": [
+        "agenda",
+        "period",
+        "third_ord",
+        "past_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la pregunta: '___ you have an appointment today?'",
+      "options": [
+        "Do",
+        "Does",
+        "Are",
+        "Is"
+      ],
+      "correct_answer": "Do",
+      "explanation_md": "Usamos 'do' para preguntas con 'you' en presente simple.",
+      "related_lexeme_ids": [
+        "appointment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la pregunta correcta para 'She works in the morning'?",
+      "options": [
+        "Do she work in the morning?",
+        "Does she work in the morning?",
+        "Does she works in the morning?",
+        "Do she works in the morning?"
+      ],
+      "correct_answer": "Does she work in the morning?",
+      "explanation_md": "Con 'she' usamos 'does' y el verbo en forma base.",
+      "related_lexeme_ids": [
+        "period"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'I check my ___ every morning.' (agenda)",
+      "options": null,
+      "correct_answer": "agenda",
+      "explanation_md": "La agenda es donde anotamos nuestras actividades.",
+      "related_lexeme_ids": [
+        "agenda"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la pregunta: '___ he work on Saturday?'",
+      "options": null,
+      "correct_answer": "Does",
+      "explanation_md": "Con 'he' usamos 'does' para formar preguntas.",
+      "related_lexeme_ids": [
+        "schedule"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Mi horario está lleno hoy.'",
+      "options": null,
+      "correct_answer": "My schedule is full today.",
+      "explanation_md": "Usamos 'schedule' para hablar del horario.",
+      "related_lexeme_ids": [
+        "schedule"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'Do you have an appointment with the doctor?'",
+      "options": null,
+      "correct_answer": "¿Tienes una cita con el doctor?",
+      "explanation_md": "La pregunta con 'do' se traduce como '¿Tienes...?'",
+      "related_lexeme_ids": [
+        "appointment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuándo es la tercera reunión?",
+      "options": [
+        "At nine",
+        "At eleven",
+        "At three o'clock",
+        "At five"
+      ],
+      "correct_answer": "At three o'clock",
+      "explanation_md": "El texto dice que la tercera reunión es a las tres.",
+      "related_lexeme_ids": [
+        "schedule",
+        "third_ord",
+        "appointment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "My schedule is full today. I have a meeting at nine, and another at eleven. The third meeting of the day is at three o'clock. After that, I have an appointment with the doctor at five. It's a busy day, but I like it.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hace ella después del trabajo?",
+      "options": [
+        "She goes to the gym",
+        "She goes home",
+        "She visits a friend",
+        "She goes to the supermarket"
+      ],
+      "correct_answer": "She goes to the gym",
+      "explanation_md": "El audio dice que después del trabajo va al gimnasio.",
+      "related_lexeme_ids": [
+        "agenda",
+        "schedule"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "She checks her agenda every morning. She has a busy schedule. After work, she goes to the gym. She likes to exercise in the evening.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu horario de hoy. Usa 'schedule', 'appointment' o 'period'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de las palabras nuevas y la estructura de las oraciones.",
+      "related_lexeme_ids": [
+        "schedule",
+        "appointment",
+        "period"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "My schedule is full today. I have a meeting at ten. My first period is at nine."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "schedule",
+      "back": "horario",
+      "hint": "se usa para hablar de tu rutina diaria",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_003",
+        "A2",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "agenda",
+      "back": "agenda / horario",
+      "hint": "una lista de cosas que tienes que hacer",
+      "lexeme_id": "agenda",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_003",
+        "A2",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "appointment",
+      "back": "cita / hora",
+      "hint": "una reunión con el doctor o el dentista",
+      "lexeme_id": "appointment",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_003",
+        "A2",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "period",
+      "back": "período",
+      "hint": "un espacio de tiempo",
+      "lexeme_id": "period",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_003",
+        "A2",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "third",
+      "back": "tercero",
+      "hint": "el número 3 en una lista",
+      "lexeme_id": "third_ord",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_003",
+        "A2",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "past",
+      "back": "y / pasadas (la hora)",
+      "hint": "se usa para decir la hora: ten past two",
+      "lexeme_id": "past_prep",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_003",
+        "A2",
+        "time"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "first",
+      "back": "primero",
+      "hint": "el número 1 en una lista",
+      "lexeme_id": "first_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_003",
+        "A2",
+        "numbers"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "afterwards",
+      "back": "después",
+      "hint": "más tarde, luego",
+      "lexeme_id": "afterwards_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_003",
+        "A2",
+        "time"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "schedule",
+      "reading": "",
+      "translation": "horario",
+      "pos": "noun",
+      "example": "My schedule is full today, but I can see you tomorrow.",
+      "example_translation": "Mi horario está lleno hoy, pero puedo verte mañana.",
+      "lexeme_id": "schedule",
+      "chunk_id": null
+    },
+    {
+      "target_word": "agenda",
+      "reading": "",
+      "translation": "agenda / agendum / horario",
+      "pos": "noun",
+      "example": "I check my agenda every morning before I go to work.",
+      "example_translation": "Reviso mi agenda cada mañana antes de ir al trabajo.",
+      "lexeme_id": "agenda",
+      "chunk_id": null
+    },
+    {
+      "target_word": "appointment",
+      "reading": "",
+      "translation": "cita / hora / citado",
+      "pos": "noun",
+      "example": "Do you have an appointment with the doctor this afternoon?",
+      "example_translation": "¿Tienes una cita con el doctor esta tarde?",
+      "lexeme_id": "appointment",
+      "chunk_id": null
+    },
+    {
+      "target_word": "period",
+      "reading": "",
+      "translation": "período",
+      "pos": "noun",
+      "example": "My first class is at nine, and the second period starts at ten.",
+      "example_translation": "Mi primera clase es a las nueve, y el segundo período empieza a las diez.",
+      "lexeme_id": "period",
+      "chunk_id": null
+    },
+    {
+      "target_word": "third",
+      "reading": "",
+      "translation": "tercero",
+      "pos": "numeral",
+      "example": "The third meeting of the day is at three o'clock.",
+      "example_translation": "La tercera reunión del día es a las tres en punto.",
+      "lexeme_id": "third_ord",
+      "chunk_id": null
+    },
+    {
+      "target_word": "past",
+      "reading": "",
+      "translation": "y / pasadas (la hora)",
+      "pos": "preposition",
+      "example": "It's half past seven, so we need to leave now.",
+      "example_translation": "Son las siete y media, así que tenemos que irnos ahora.",
+      "lexeme_id": "past_prep",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "schedule",
+      "role": "support",
+      "status": "practiced",
+      "translation": "horario",
+      "lexeme_id": "schedule",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_007",
+        "ex_001",
+        "ex_007",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "agenda",
+      "role": "support",
+      "status": "practiced",
+      "translation": "agenda / agendum / horario",
+      "lexeme_id": "agenda",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_006",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "appointment",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cita / hora / citado",
+      "lexeme_id": "appointment",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_008",
+        "ex_002",
+        "ex_004",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "period",
+      "role": "support",
+      "status": "practiced",
+      "translation": "período",
+      "lexeme_id": "period",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_005",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "third",
+      "role": "support",
+      "status": "practiced",
+      "translation": "tercero",
+      "lexeme_id": "third_ord",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_010",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "past",
+      "role": "support",
+      "status": "practiced",
+      "translation": "y / pasadas (la hora)",
+      "lexeme_id": "past_prep",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_003",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "first",
+      "role": "support",
+      "status": "review",
+      "translation": "primero",
+      "lexeme_id": "first_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "afterwards",
+      "role": "support",
+      "status": "review",
+      "translation": "despues / posteriormente",
+      "lexeme_id": "afterwards_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "afterwards",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reunión",
+      "lexeme_id": "meeting",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "class",
+      "role": "support",
+      "status": "emergent",
+      "translation": "clase",
+      "lexeme_id": "class",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_001",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "o'clock",
+      "role": "support",
+      "status": "emergent",
+      "translation": "en punto",
+      "lexeme_id": "oclock_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "clock",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reloj",
+      "lexeme_id": "clock",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "lunch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "almuerzo",
+      "lexeme_id": "lunch",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "half",
+      "role": "support",
+      "status": "emergent",
+      "translation": "y media",
+      "lexeme_id": "half",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "noon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mediodía",
+      "lexeme_id": "noon",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "leave",
+      "role": "support",
+      "status": "emergent",
+      "translation": "irse / salir / dejar",
+      "lexeme_id": "leave_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "break",
+      "role": "support",
+      "status": "emergent",
+      "translation": "romper",
+      "lexeme_id": "break_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "tomorrow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "bank",
+      "role": "support",
+      "status": "emergent",
+      "translation": "banco",
+      "lexeme_id": "bank",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "afternoon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tarde",
+      "lexeme_id": "afternoon",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "include",
+      "role": "support",
+      "status": "emergent",
+      "translation": "incluir",
+      "lexeme_id": "include_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "have a meeting",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tener una reunión",
+      "lexeme_id": "have_a_meeting_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "present",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actual",
+      "lexeme_id": "present_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "busy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ocupado",
+      "lexeme_id": "busy",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "evening",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noche (al atardecer)",
+      "lexeme_id": "evening",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "base",
+      "role": "support",
+      "status": "emergent",
+      "translation": "basar",
+      "lexeme_id": "base_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "gym",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gimnasio",
+      "lexeme_id": "gym",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_004"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 6,
+    "review_support_count": 2,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "afterwards",
+      "meet",
+      "meeting",
+      "doctor",
+      "work",
+      "today",
+      "class",
+      "o'clock",
+      "clock",
+      "day",
+      "need",
+      "morning",
+      "lunch",
+      "check",
+      "half",
+      "noon",
+      "now",
+      "see",
+      "leave",
+      "break",
+      "tomorrow",
+      "bank",
+      "afternoon",
+      "include",
+      "have a meeting",
+      "present",
+      "time",
+      "ask",
+      "busy",
+      "evening",
+      "base",
+      "gym"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: My daily schedule",
+      "title_target": "Quiz: Mi horario diario",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿A qué hora empieza la clase de inglés?",
+          "prompt_target": "Listen and answer: What time does the English class start?",
+          "options": [
+            "At nine o'clock",
+            "At seven o'clock",
+            "At noon",
+            "At three o'clock"
+          ],
+          "correct_answer": "At nine o'clock",
+          "explanation_form": "El audio dice 'My English class starts at nine o'clock' (Mi clase de inglés empieza a las nueve).",
+          "explanation_target": "The audio says 'My English class starts at nine o'clock'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "schedule",
+            "period"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "My English class starts at nine o'clock. It is in room seven. The class is on Monday and Wednesday. I like my teacher.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para saber el horario de alguien?",
+          "prompt_target": "Which is the correct question to ask about someone's schedule?",
+          "options": [
+            "Do you have a schedule?",
+            "You have a schedule?",
+            "Have you a schedule?",
+            "Do you has a schedule?"
+          ],
+          "correct_answer": "Do you have a schedule?",
+          "explanation_form": "Para preguntar en presente simple usamos 'Do' + sujeto + verbo base: 'Do you have...?'",
+          "explanation_target": "To ask in present simple we use 'Do' + subject + base verb: 'Do you have...?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "present simple: questions with do/does",
+            "schedule"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "Does",
+            "she",
+            "have",
+            "an",
+            "appointment",
+            "today"
+          ],
+          "correct_answer": "Does she have an appointment today?",
+          "explanation_form": "En preguntas con 'does', el verbo va en forma base: 'Does she have...?'",
+          "explanation_target": "In questions with 'does', the verb goes in base form: 'Does she have...?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "present simple: questions with do/does",
+            "appointment"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué hace Tom después del trabajo?",
+          "prompt_target": "Read the text and answer: What does Tom do after work?",
+          "options": [
+            "He goes to the gym",
+            "He goes to the office",
+            "He visits his family",
+            "He has lunch"
+          ],
+          "correct_answer": "He goes to the gym",
+          "explanation_form": "El texto dice 'After work, he goes to the gym' (Después del trabajo, va al gimnasio).",
+          "explanation_target": "The text says 'After work, he goes to the gym'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "schedule",
+            "afterwards_adv"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "Tom works from nine to five. He has lunch at noon. After work, he goes to the gym. He likes to exercise in the evening. On weekends, he visits his family.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ you have a meeting at three?'",
+          "prompt_target": "Fill in the blank: '____ you have a meeting at three?'",
+          "options": null,
+          "correct_answer": "Do",
+          "explanation_form": "Con 'you' usamos 'Do' para formar la pregunta en presente simple.",
+          "explanation_target": "With 'you' we use 'Do' to form the question in present simple.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "present simple: questions with do/does",
+            "agenda"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'third period'?",
+          "prompt_target": "What does 'third period' mean?",
+          "options": [
+            "El tercer período",
+            "El primer período",
+            "El último período",
+            "El segundo período"
+          ],
+          "correct_answer": "El tercer período",
+          "explanation_form": "'Third' significa 'tercero' y 'period' significa 'período'.",
+          "explanation_target": "'Third' means 'third' and 'period' means 'period'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "third_ord",
+            "period"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Cuándo tiene la cita Laura?",
+          "prompt_target": "Listen and answer: When does Laura have the appointment?",
+          "options": [
+            "On Friday at half past two",
+            "On Monday at two",
+            "On Friday at three",
+            "On Sunday at noon"
+          ],
+          "correct_answer": "On Friday at half past two",
+          "explanation_form": "El audio dice 'It is at half past two' y 'She has the appointment on Friday'.",
+          "explanation_target": "The audio says 'It is at half past two' and 'She has the appointment on Friday'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "appointment",
+            "past_prep"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Laura has an appointment at the doctor. It is at half past two. She needs to arrive early. She has the appointment on Friday.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: '¿A qué hora es tu clase?'",
+          "prompt_target": "Translate to English: 'What time is your class?'",
+          "options": null,
+          "correct_answer": "What time is your class?",
+          "explanation_form": "Para preguntar la hora usamos 'What time is...?'",
+          "explanation_target": "To ask the time we use 'What time is...?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "schedule",
+            "period"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Preguntas con do/does\n\nPara preguntar sobre la rutina diaria, usa **do** con I, you, we, they y **does** con he, she, it. El verbo principal vuelve a su forma base: *Does she have an appointment?* (no *has*).\n\n- **Do** you check your schedule in the morning?\n- **Does** he work on the third period?\n\n## Errores comunes\n\n- ✗ *Do he works?* → ✓ **Does he work?** (el verbo no lleva -s)\n- ✗ *What time you have the meeting?* → ✓ **What time do you have the meeting?**\n\nRecuerda: **past_prep** (after) y **third_ord** (third) son tus aliados para hablar de horarios. Practica con tu propia agenda: *What do you do after work?*",
+  "metadata": {
+    "generated_at": "2026-08-31T18:39:45Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

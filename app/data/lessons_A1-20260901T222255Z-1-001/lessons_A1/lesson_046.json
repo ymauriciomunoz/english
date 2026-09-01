@@ -1,0 +1,1424 @@
+{
+  "id": "lesson_046",
+  "position": 46,
+  "unit_id": 8,
+  "course_id": "en.A1",
+  "title_form": "Servicios y emergencias",
+  "title_target": "Using Basic Services and Emergencies",
+  "theme_focus": "Pedir ayuda y describir situaciones de emergencia.",
+  "learning_objectives": [
+    "Can name basic services and emergency contacts.",
+    "Can ask for help in an emergency."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_039"
+  ],
+  "grammar_focus": [
+    "imperative: affirmative for requests (Call/Help)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "police",
+        "fire",
+        "dangerous_adj",
+        "ambulance",
+        "emergency",
+        "accident"
+      ],
+      "chunk_ids": [
+        "chunk_excuse_me",
+        "chunk_i_need_help"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "hospital",
+        "doctor",
+        "nurse",
+        "help_verb",
+        "call_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tom está en la calle y ve un accidente. Una persona necesita ayuda. Tom usa frases como 'Excuse me' y 'I need help' para llamar la atención de un policía. Luego, el policía llama a una ambulancia y Tom describe la situación con palabras como 'emergency' y 'dangerous'.",
+  "introduction_md": "En esta lección vas a aprender a pedir ayuda en situaciones de emergencia. Es un tema muy importante para tu vida diaria.\n\n- Vas a aprender palabras como **police**, **fire**, **ambulance** y **emergency**.\n- Vas a practicar cómo pedir ayuda con frases como **Excuse me** y **I need help**.\n- También vas a aprender a dar órdenes simples como **Call** y **Help**.\n\nImagina que estás en la calle y ves un accidente. ¿Qué dices? ¿A quién llamas? Con esta lección, vas a poder responder con confianza. ¡Vamos a practicar!",
+  "intro_target": "In this lesson, you will learn to ask for help in emergency situations. This is a very important topic for your daily life.\n\n- You will learn words like **police**, **fire**, **ambulance**, and **emergency**.\n- You will practice asking for help with phrases like **Excuse me** and **I need help**.\n- You will also learn to give simple orders like **Call** and **Help**.\n\nImagine you are on the street and you see an accident. What do you say? Who do you call? With this lesson, you will be able to respond with confidence. Let's practice!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "police",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Excuse me, where is the police?",
+      "translation_form": "Disculpe, ¿dónde está la policía?",
+      "highlight_words": [
+        "excuse",
+        "police"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_excuse_me",
+      "grammar_slug": null,
+      "text_target": "Excuse me, I need help.",
+      "translation_form": "Disculpe, necesito ayuda.",
+      "highlight_words": [
+        "excuse",
+        "help"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "emergency",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Call the doctor in an emergency.",
+      "translation_form": "Llame al doctor en una emergencia.",
+      "highlight_words": [
+        "call",
+        "emergency",
+        "doctor"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "ambulance",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The ambulance is on the road.",
+      "translation_form": "La ambulancia está en la carretera.",
+      "highlight_words": [
+        "ambulance",
+        "road"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "fire",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There is a fire. Call the police, please.",
+      "translation_form": "Hay un incendio. Llame a la policía, por favor.",
+      "highlight_words": [
+        "call",
+        "fire"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "dangerous_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This road is dangerous at night.",
+      "translation_form": "Esta carretera es peligrosa de noche.",
+      "highlight_words": [
+        "dangerous",
+        "road"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "imperative: affirmative for requests (Call/Help)",
+      "title_form": "Imperativo afirmativo para pedir (Call/Help)",
+      "title_target": "Affirmative Imperative for Requests (Call/Help)",
+      "description_md_form": "El **imperativo afirmativo** se usa para **pedir** o **ordenar** algo directamente. Es la forma más simple del verbo: **usamos el verbo sin sujeto y sin 'to'**.\n\n- **Call** the doctor. = Llame al doctor.\n- **Help** me, please. = Ayúdeme, por favor.\n\nPara hacer un pedido más **educado**, añadimos **\"please\"** al final o usamos **\"Excuse me\"** al principio.\n\n- **Call** the police, **please**. = Llame a la policía, por favor.\n- **Excuse me**, I need help. = Disculpe, necesito ayuda.\n\nEs la misma forma para **todas las personas** (you, he, she, we, they). No cambia.",
+      "description_md_target": "The **affirmative imperative** is used to **ask** or **order** something directly. It is the simplest verb form: **we use the verb without a subject and without 'to'**.\n\n- **Call** the doctor.\n- **Help** me, please.\n\nTo make a more **polite** request, add **\"please\"** at the end or use **\"Excuse me\"** at the beginning.\n\n- **Call** the police, **please**.\n- **Excuse me**, I need help.\n\nIt is the same form for **all persons** (you, he, she, we, they). It does not change.",
+      "grammar_structure": "Verb (base form) + object + (please)",
+      "conjugation_table": {
+        "name": "imperative_affirmative",
+        "headers": [
+          "Persona",
+          "Verbo",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "you (singular)",
+            "call",
+            "Call the doctor."
+          ],
+          [
+            "you (plural)",
+            "call",
+            "Call the police."
+          ],
+          [
+            "you (singular)",
+            "help",
+            "Help me, please."
+          ],
+          [
+            "you (plural)",
+            "help",
+            "Help us, please."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "imperative: affirmative for requests (Call/Help)",
+          "text_target": "Call the police, please.",
+          "translation_form": "Llame a la policía, por favor.",
+          "highlight_words": [
+            "call",
+            "police"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "imperative: affirmative for requests (Call/Help)",
+          "text_target": "Help me, please. It is an emergency.",
+          "translation_form": "Ayúdeme, por favor. Es una emergencia.",
+          "highlight_words": [
+            "help",
+            "emergency"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** Para sonar más educado, siempre añade **\"please\"** al final de la orden: *Call the ambulance, please.*"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *\"You call the police\"* para dar una orden. En inglés, el imperativo no lleva sujeto: *Call the police.*"
+        }
+      ],
+      "common_errors_es": [
+        "Usar el sujeto 'you' en el imperativo: *You call the doctor* → **Call the doctor**.",
+        "Olvidar 'please' para sonar educado: *Help me* → **Help me, please**.",
+        "Confundir el imperativo con el presente simple: *He calls the police* (él llama) vs. **Call the police** (¡llame!)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'police'?",
+      "options": [
+        "policía",
+        "bombero",
+        "doctor",
+        "hospital"
+      ],
+      "correct_answer": "policía",
+      "explanation_md": "'Police' significa 'policía' en español.",
+      "related_lexeme_ids": [
+        "police"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'ambulance'?",
+      "options": [
+        "ambulancia",
+        "policía",
+        "fuego",
+        "accidente"
+      ],
+      "correct_answer": "ambulancia",
+      "explanation_md": "'Ambulance' significa 'ambulancia' en español.",
+      "related_lexeme_ids": [
+        "ambulance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "fire",
+        "fuego",
+        "emergency",
+        "emergencia",
+        "dangerous",
+        "peligroso"
+      ],
+      "correct_answer": [
+        "fire=fuego",
+        "emergency=emergencia",
+        "dangerous=peligroso"
+      ],
+      "explanation_md": "Estas palabras describen situaciones de riesgo y urgencia.",
+      "related_lexeme_ids": [
+        "fire",
+        "emergency",
+        "dangerous_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué decís cuando necesitás ayuda?",
+      "options": [
+        "I need help.",
+        "I am fine.",
+        "I like coffee.",
+        "I am tired."
+      ],
+      "correct_answer": "I need help.",
+      "explanation_md": "'I need help' es la forma correcta de pedir ayuda.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_i_need_help"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración: '____ me, where is the hospital?'",
+      "options": null,
+      "correct_answer": "Excuse",
+      "explanation_md": "'Excuse me' se usa para llamar la atención de alguien.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_excuse_me"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Llame al doctor en una emergencia.'",
+      "options": null,
+      "correct_answer": "Call the doctor in an emergency.",
+      "explanation_md": "El imperativo 'Call' se usa para dar una orden o pedido.",
+      "related_lexeme_ids": [
+        "emergency"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'The ambulance is on the road.'",
+      "options": null,
+      "correct_answer": "La ambulancia está en la carretera.",
+      "explanation_md": "'Ambulance' es 'ambulancia' y 'road' es 'carretera'.",
+      "related_lexeme_ids": [
+        "ambulance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué palabra describe algo que puede causar daño?",
+      "options": [
+        "dangerous",
+        "small",
+        "happy",
+        "clean"
+      ],
+      "correct_answer": "dangerous",
+      "explanation_md": "'Dangerous' significa 'peligroso'.",
+      "related_lexeme_ids": [
+        "dangerous_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Quién ayuda a las personas?",
+      "options": [
+        "The police",
+        "The ambulance",
+        "The fire",
+        "The doctor"
+      ],
+      "correct_answer": "The police",
+      "explanation_md": "El texto dice que la policía ayuda a las personas.",
+      "related_lexeme_ids": [
+        "police",
+        "ambulance",
+        "emergency",
+        "accident"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "In an emergency, you call the police or the ambulance. The police help people. The ambulance takes sick people to the hospital. Fire is dangerous. It is important to call for help when there is an accident.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hay en la carretera?",
+      "options": [
+        "an accident",
+      "a fire",
+      "the police",
+      "the ambulance"
+      ],
+      "correct_answer": "an accident",
+      "explanation_md": "El audio dice que hay un accidente en la carretera.",
+      "related_lexeme_ids": [
+        "accident",
+        "police",
+        "ambulance"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "There is an accident on the road. A man calls the police. The police come to help. The ambulance is also here. The doctor helps the people.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué dice la persona?",
+      "options": [
+        "I need help.",
+        "I am fine.",
+        "I like tea.",
+        "I am happy."
+      ],
+      "correct_answer": "I need help.",
+      "explanation_md": "La persona dice 'I need help' para pedir ayuda.",
+      "related_lexeme_ids": [
+        "fire",
+        "dangerous_adj"
+      ],
+      "related_chunk_ids": [
+        "chunk_excuse_me",
+        "chunk_i_need_help"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+        "transcript": "Excuse me. I need help. There is a fire in my house. Please call the police. It is dangerous.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre qué hacés en una emergencia. Usá 'call', 'help' y 'emergency'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'call', 'help' y 'emergency' en contexto.",
+      "related_lexeme_ids": [
+        "emergency"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_need_help"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "In an emergency, I call the police.",
+        "I call the ambulance for help.",
+        "I say 'I need help'."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "police",
+      "back": "policia",
+      "hint": "la persona que protege y ayuda",
+      "lexeme_id": "police",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "emergency"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "fire",
+      "back": "fuego",
+      "hint": "cuando algo se quema",
+      "lexeme_id": "fire",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "emergency"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "dangerous",
+      "back": "peligroso",
+      "hint": "algo que no es seguro",
+      "lexeme_id": "dangerous_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "ambulance",
+      "back": "ambulancia",
+      "hint": "el carro del hospital",
+      "lexeme_id": "ambulance",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "emergency",
+      "back": "emergencia",
+      "hint": "una situacion muy seria",
+      "lexeme_id": "emergency",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "accident",
+      "back": "accidente",
+      "hint": "cuando algo malo pasa de repente",
+      "lexeme_id": "accident",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "Excuse me, ...",
+      "back": "Disculpe, ...",
+      "hint": "para llamar la atencion de alguien",
+      "lexeme_id": null,
+      "chunk_id": "chunk_excuse_me",
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "emergency"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "I need help.",
+      "back": "Necesito ayuda.",
+      "hint": "cuando necesitas asistencia",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_need_help",
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "emergency"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "hospital",
+      "back": "hospital",
+      "hint": "el lugar donde trabajan los doctores",
+      "lexeme_id": "hospital",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "doctor",
+      "back": "doctor",
+      "hint": "la persona que ayuda con la salud",
+      "lexeme_id": "doctor",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "nurse",
+      "back": "enfermera",
+      "hint": "la persona que cuida en el hospital",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "health"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "help",
+      "back": "ayudar / ayuda",
+      "hint": "la accion de asistir a alguien",
+      "lexeme_id": "help_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_046",
+        "A1",
+        "emergency"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "police",
+      "reading": "",
+      "translation": "policia",
+      "pos": "noun",
+      "example": "Excuse me, where is the police?",
+      "example_translation": "Disculpe, ¿dónde está la policía?",
+      "lexeme_id": "police",
+      "chunk_id": null
+    },
+    {
+      "target_word": "fire",
+      "reading": "",
+      "translation": "fuego",
+      "pos": "noun",
+      "example": "Call the fire department, please.",
+      "example_translation": "Llame al departamento de bomberos, por favor.",
+      "lexeme_id": "fire",
+      "chunk_id": null
+    },
+    {
+      "target_word": "dangerous",
+      "reading": "",
+      "translation": "peligroso",
+      "pos": "adjective",
+      "example": "This road is dangerous at night.",
+      "example_translation": "Esta carretera es peligrosa de noche.",
+      "lexeme_id": "dangerous_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "ambulance",
+      "reading": "",
+      "translation": "ambulancia",
+      "pos": "noun",
+      "example": "The ambulance is on the road.",
+      "example_translation": "La ambulancia está en la carretera.",
+      "lexeme_id": "ambulance",
+      "chunk_id": null
+    },
+    {
+      "target_word": "emergency",
+      "reading": "",
+      "translation": "emergencia",
+      "pos": "noun",
+      "example": "Call the doctor in an emergency.",
+      "example_translation": "Llame al doctor en una emergencia.",
+      "lexeme_id": "emergency",
+      "chunk_id": null
+    },
+    {
+      "target_word": "accident",
+      "reading": "",
+      "translation": "accidente",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "accident",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Excuse me, ...",
+      "reading": "",
+      "translation": "Disculpe, ...",
+      "pos": "chunk",
+      "example": "Excuse me, I need help.",
+      "example_translation": "Disculpe, necesito ayuda.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_excuse_me"
+    },
+    {
+      "target_word": "I need help.",
+      "reading": "",
+      "translation": "Necesito ayuda.",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_need_help"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "police",
+      "role": "support",
+      "status": "practiced",
+      "translation": "policia",
+      "lexeme_id": "police",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_009",
+        "ex_010",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "fire",
+      "role": "support",
+      "status": "practiced",
+      "translation": "fuego",
+      "lexeme_id": "fire",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "dangerous",
+      "role": "support",
+      "status": "practiced",
+      "translation": "peligroso",
+      "lexeme_id": "dangerous_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_003",
+        "ex_008",
+        "ex_011",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "ambulance",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ambulancia",
+      "lexeme_id": "ambulance",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "emergency",
+      "role": "support",
+      "status": "practiced",
+      "translation": "emergencia",
+      "lexeme_id": "emergency",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_006",
+        "ex_009",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "accident",
+      "role": "support",
+      "status": "practiced",
+      "translation": "accidente",
+      "lexeme_id": "accident",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "Excuse me, ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Disculpe, ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_excuse_me",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_005",
+        "ex_011",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "I need help.",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Necesito ayuda.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_need_help",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_011",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "hospital",
+      "role": "support",
+      "status": "review",
+      "translation": "hospital",
+      "lexeme_id": "hospital",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "review",
+      "translation": "médico / doctor",
+      "lexeme_id": "doctor",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "nurse",
+      "role": "support",
+      "status": "review",
+      "translation": "enfermero/a",
+      "lexeme_id": "nurse",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "help",
+      "role": "support",
+      "status": "review",
+      "translation": "ayuda / ayudar / servir",
+      "lexeme_id": "help_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "excuse me",
+      "role": "support",
+      "status": "emergent",
+      "translation": "disculpe",
+      "lexeme_id": "excuse_me_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "ex_011",
+        "fc_007",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_005",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_011",
+        "ex_012",
+        "fc_008",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "road",
+      "role": "support",
+      "status": "emergent",
+      "translation": "carretera / calle",
+      "lexeme_id": "road",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "exm_006",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "department",
+      "role": "support",
+      "status": "emergent",
+      "translation": "departamento",
+      "lexeme_id": "department",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "night",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noche",
+      "lexeme_id": "night",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "there is",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hay (singular)",
+      "lexeme_id": "there_is_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "come",
+      "role": "support",
+      "status": "emergent",
+      "translation": "venir",
+      "lexeme_id": "come_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "house",
+      "role": "support",
+      "status": "emergent",
+      "translation": "casa",
+      "lexeme_id": "house",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "street",
+      "role": "support",
+      "status": "emergent",
+      "translation": "calle",
+      "lexeme_id": "street",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 8,
+    "review_support_count": 4,
+    "emergent_count": 12,
+    "emergent_terms": [
+      "excuse me",
+      "call",
+      "need",
+      "doctor",
+      "road",
+      "department",
+      "night",
+      "there is",
+      "come",
+      "word",
+      "house",
+      "street"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Servicios y emergencias",
+      "title_target": "Quiz: Services and Emergencies",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "Call",
+            "the",
+            "police",
+            "now"
+          ],
+          "correct_answer": "Call the police now",
+          "explanation_form": "La frase correcta es 'Call the police now' (Llama a la policía ahora). En imperativo, el verbo va primero.",
+          "explanation_target": "The correct sentence is 'Call the police now'. In the imperative, the verb comes first.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "police",
+            "call_verb",
+            "imperative"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué número llaman?",
+          "prompt_target": "Listen and answer: What is in the house?",
+          "options": [
+            "a fire",
+            "an accident",
+            "the police",
+            "an ambulance"
+          ],
+          "correct_answer": "a fire",
+          "explanation_form": "El hombre llama al departamento de bomberos porque hay un incendio ('fire').",
+          "explanation_target": "The audio says there is a fire in the house.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "fire",
+            "help_verb",
+            "emergency"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "There is a fire in the house. A person calls the police. They say, 'Help! There is a fire!' The police come fast.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra completa la frase? 'The street is very ____. Be careful!'",
+          "prompt_target": "Which word completes the sentence? 'The street is very ____. Be careful!'",
+          "options": [
+            "dangerous",
+            "good",
+            "clean",
+            "small"
+          ],
+          "correct_answer": "dangerous",
+          "explanation_form": "'Dangerous' significa peligroso. La frase dice: 'La calle es muy peligrosa. ¡Ten cuidado!'",
+          "explanation_target": "'Dangerous' means peligroso. The sentence says: 'The street is very dangerous. Be careful!'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "dangerous_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué pasa?",
+          "prompt_target": "Listen and answer: What is there?",
+          "options": [
+            "There is a fire",
+            "There is an accident",
+            "The police come",
+            "She is at the hospital"
+          ],
+          "correct_answer": "There is an accident",
+          "explanation_form": "Un auto golpea a una mujer, así que hay un accidente ('accident'). Llaman a una ambulancia.",
+          "explanation_target": "A car hits a woman, so there is an accident. They call an ambulance.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "accident",
+            "ambulance",
+            "hurt"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "A woman is in the street. A car hits her. She is hurt. A man calls an ambulance. The ambulance comes to help.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "police",
+            "policía",
+            "fire",
+            "incendio",
+            "ambulance",
+            "ambulancia",
+            "accident",
+            "accidente"
+          ],
+          "correct_answer": [
+            "police=policía",
+            "fire=incendio",
+            "ambulance=ambulancia",
+            "accident=accidente"
+          ],
+          "explanation_form": "Estas son las palabras clave de la lección sobre emergencias.",
+          "explanation_target": "These are the key words from the emergency lesson.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "police",
+            "fire",
+            "ambulance",
+            "accident"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____! I need help.' (¡Disculpe! Necesito ayuda.)",
+          "prompt_target": "Complete the sentence: '____! I need help.'",
+          "options": null,
+          "correct_answer": "Excuse me",
+          "explanation_form": "'Excuse me' se usa para llamar la atención de alguien de forma educada.",
+          "explanation_target": "'Excuse me' is used to get someone's attention politely.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_excuse_me",
+            "chunk_i_need_help"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué hace el hombre?",
+          "prompt_target": "Read the text and answer: What does he do?",
+          "options": [
+            "He calls the police",
+            "He calls the ambulance",
+            "He goes to the hospital",
+            "He sleeps"
+          ],
+          "correct_answer": "He calls the police",
+          "explanation_form": "El hombre ve un incendio en la cocina y llama al departamento de bomberos.",
+          "explanation_target": "The person sees a fire in the kitchen and calls the police.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "fire",
+            "police",
+            "call_verb",
+            "emergency"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "A person is at home. They see a fire in the kitchen. They are scared. They call the police. Then they call the ambulance. The ambulance comes and helps. The person is good.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'I need help'?",
+          "prompt_target": "What does 'I need help' mean?",
+          "options": [
+            "Necesito ayuda",
+            "Necesito comer",
+            "Necesito dormir",
+            "Necesito dinero"
+          ],
+          "correct_answer": "Necesito ayuda",
+          "explanation_form": "'I need help' significa 'Necesito ayuda'.",
+          "explanation_target": "'I need help' means 'Necesito ayuda'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_i_need_help",
+            "help_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la palabra correcta: 'There is an ____. Call the ambulance!'",
+          "prompt_target": "Complete with the correct word: 'There is an ____. Call the ambulance!'",
+          "options": null,
+          "correct_answer": "accident",
+          "explanation_form": "'Accident' significa accidente. La frase dice: 'Hay un accidente. ¡Llama a la ambulancia!'",
+          "explanation_target": "'Accident' means accident. The sentence says: 'There is an accident. Call the ambulance!'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "accident",
+            "ambulance"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra describe algo que puede causar daño?",
+          "prompt_target": "Which word means 'dangerous'?",
+          "options": [
+            "dangerous",
+            "clean",
+            "small",
+            "old"
+          ],
+          "correct_answer": "dangerous",
+          "explanation_form": "'Dangerous' significa peligroso, algo que puede causar daño.",
+          "explanation_target": "'Dangerous' means 'peligroso'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "dangerous_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El imperativo para pedir ayuda\n\nEn inglés, para pedir ayuda usamos el imperativo: **Call** (llama) y **Help** (ayuda). Es directo y correcto en emergencias. Ejemplo: **Call the police!** (¡Llama a la policía!). No es grosero: la situación manda.\n\n## Errores comunes\n\n- No digas \"I need the help\". Lo correcto es **I need help** (necesito ayuda), sin artículo.\n- **Police** y **fire** no llevan artículo en frases como **Call police** o **Call fire**. Pero sí decimos **the police** cuando hablamos de la institución.\n- Recuerda: **ambulance** (ambulancia) y **emergency** (emergencia) son falsos amigos fáciles de recordar, ¡se parecen al español!",
+  "metadata": {
+    "generated_at": "2026-08-31T21:42:32Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

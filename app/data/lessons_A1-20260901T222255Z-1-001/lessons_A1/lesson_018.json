@@ -1,0 +1,1664 @@
+{
+  "id": "lesson_018",
+  "position": 18,
+  "unit_id": 3,
+  "course_id": "en.A1",
+  "title_form": "Adverbios de frecuencia",
+  "title_target": "Using Adverbs of Frequency",
+  "theme_focus": "Adverbios de frecuencia para describir hábitos.",
+  "learning_objectives": [
+    "Can use adverbs of frequency to describe habits.",
+    "Can ask how often someone does something."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_013"
+  ],
+  "grammar_focus": [
+    "present simple: adverbs of frequency (always/usually/never)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "always_adv",
+        "usually_adv",
+        "often_adv",
+        "sometimes_adv",
+        "never_adv",
+        "walk_verb",
+        "clean_verb",
+        "read_verb",
+        "write_verb",
+        "study_verb",
+        "learn_verb"
+      ],
+      "chunk_ids": [
+        "chunk_how_often"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "get_up_verb",
+        "go_verb",
+        "work_verb",
+        "breakfast",
+        "lunch",
+        "dinner"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana es una estudiante que quiere mejorar su inglés. En esta lección, ella habla con su amigo Tom sobre sus hábitos diarios: con qué frecuencia estudia, lee, camina y limpia su casa. Tom le pregunta 'How often...?' y Ana responde usando adverbios de frecuencia. Al final, Ana describe su rutina semanal.",
+  "introduction_md": "En esta lección vas a aprender a hablar de tus hábitos diarios con los **adverbios de frecuencia**: *always*, *usually*, *often*, *sometimes* y *never*. Con ellos puedes decir con qué frecuencia haces cosas como estudiar, leer o caminar. También aprenderás a preguntar *How often...?* (¿Con qué frecuencia...?).\n\n- **always** = siempre\n- **usually** = normalmente\n- **often** = a menudo\n- **sometimes** = a veces\n- **never** = nunca\n\nVas a practicar con ejemplos de la vida real, ejercicios y un quiz. ¡Empecemos!",
+  "intro_target": "In this lesson, you will learn to talk about your daily habits with **adverbs of frequency**: *always*, *usually*, *often*, *sometimes*, and *never*. With them, you can say how often you do things like study, read, or walk. You will also learn to ask *How often...?*\n\n- **always** = siempre\n- **usually** = normalmente\n- **often** = a menudo\n- **sometimes** = a veces\n- **never** = nunca\n\nYou will practice with real-life examples, exercises, and a quiz. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "always_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I always drink coffee in the morning.",
+      "translation_form": "Siempre tomo café en la mañana.",
+      "highlight_words": [
+        "always"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "usually_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She usually walks to work.",
+      "translation_form": "Ella usualmente camina al trabajo.",
+      "highlight_words": [
+        "usually",
+        "walk"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "often_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We often read books on the weekend.",
+      "translation_form": "Nosotros a menudo leemos libros en el fin de semana.",
+      "highlight_words": [
+        "often",
+        "read"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "sometimes_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He sometimes writes to his grandmother.",
+      "translation_form": "Él a veces escribe a su abuela.",
+      "highlight_words": [
+        "sometimes",
+        "write"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "never_adv",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "They never have breakfast.",
+      "translation_form": "Ellos nunca desayunan.",
+      "highlight_words": [
+        "never"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: adverbs of frequency (always/usually/never)",
+      "title_form": "Adverbios de frecuencia",
+      "title_target": "Adverbs of Frequency",
+      "description_md_form": "Los **adverbios de frecuencia** nos dicen **con qué frecuencia** hacemos algo. En inglés, van **antes del verbo principal**.\n\n- **always** = siempre (100%)\n- **usually** = usualmente (80%)\n- **often** = a menudo (60%)\n- **sometimes** = a veces (40%)\n- **never** = nunca (0%)\n\n**Estructura:** `Sujeto + adverbio + verbo`\n\nEjemplos:\n- `I always drink coffee.` = Siempre tomo café.\n- `She never eats breakfast.` = Ella nunca desayuna.\n\nCon el verbo **to be**, el adverbio va **después** del verbo: `I am always happy.` = Siempre estoy feliz.",
+      "description_md_target": "**Adverbs of frequency** tell us **how often** we do something. In English, they go **before the main verb**.\n\n- **always** = 100%\n- **usually** = 80%\n- **often** = 60%\n- **sometimes** = 40%\n- **never** = 0%\n\n**Structure:** `Subject + adverb + verb`\n\nExamples:\n- `I always drink coffee.`\n- `She never eats breakfast.`\n\nWith the verb **to be**, the adverb goes **after** the verb: `I am always happy.`",
+      "grammar_structure": "Subject + adverb of frequency + main verb",
+      "conjugation_table": {
+        "name": "adverbs_of_frequency",
+        "headers": [
+          "Adverbio",
+          "Frecuencia",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "always",
+            "100%",
+            "I always study."
+          ],
+          [
+            "usually",
+            "80%",
+            "She usually walks."
+          ],
+          [
+            "often",
+            "60%",
+            "We often read."
+          ],
+          [
+            "sometimes",
+            "40%",
+            "He sometimes writes."
+          ],
+          [
+            "never",
+            "0%",
+            "They never clean."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "always_adv",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I always drink coffee in the morning.",
+          "translation_form": "Siempre tomo café en la mañana.",
+          "highlight_words": [
+            "always"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "never_adv",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "They never have breakfast.",
+          "translation_form": "Ellos nunca desayunan.",
+          "highlight_words": [
+            "never"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Posición del adverbio:** con verbos normales, el adverbio va **antes** del verbo: `I always read.` Con el verbo **to be**, va **después**: `I am always happy.`"
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** no digas `I drink always coffee`. El adverbio va antes del verbo, no después: `I always drink coffee.`"
+        }
+      ],
+      "common_errors_es": [
+        "Colocar el adverbio después del verbo: ✗ `I drink always coffee` → ✓ `I always drink coffee`.",
+        "Olvidar que con el verbo to be el adverbio va después: ✗ `I always am happy` → ✓ `I am always happy`.",
+        "Usar 'never' con verbo en negativo: ✗ `I never don't study` → ✓ `I never study`."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'always'?",
+      "options": [
+        "siempre",
+        "nunca",
+        "a veces",
+        "a menudo"
+      ],
+      "correct_answer": "siempre",
+      "explanation_md": "'Always' significa 'siempre' en español.",
+      "related_lexeme_ids": [
+        "always_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'never'?",
+      "options": [
+        "nunca",
+        "siempre",
+        "usualmente",
+        "a veces"
+      ],
+      "correct_answer": "nunca",
+      "explanation_md": "'Never' significa 'nunca' en español.",
+      "related_lexeme_ids": [
+        "never_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada adverbio con su significado:",
+      "options": [
+        "usually",
+        "a menudo",
+        "often",
+        "usualmente",
+        "sometimes",
+        "a veces"
+      ],
+      "correct_answer": [
+        "usually=usualmente",
+        "often=a menudo",
+        "sometimes=a veces"
+      ],
+      "explanation_md": "Estos adverbios indican la frecuencia de una acción.",
+      "related_lexeme_ids": [
+        "usually_adv",
+        "often_adv",
+        "sometimes_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración: 'I ___ drink coffee in the morning.' (Siempre tomo café en la mañana.)",
+      "options": [
+        "always",
+        "never",
+        "sometimes",
+        "usually"
+      ],
+      "correct_answer": "always",
+      "explanation_md": "'Always' significa 'siempre' y va antes del verbo.",
+      "related_lexeme_ids": [
+        "always_adv"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el adverbio correcto: 'She ___ walks to work.' (Ella usualmente camina al trabajo.)",
+      "options": null,
+      "correct_answer": "usually",
+      "explanation_md": "'Usually' significa 'usualmente' y va antes del verbo 'walks'.",
+      "related_lexeme_ids": [
+        "usually_adv",
+        "walk_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ellos nunca desayunan.'",
+      "options": null,
+      "correct_answer": "They never have breakfast.",
+      "explanation_md": "'Never' va antes del verbo 'have'. 'Breakfast' es 'desayuno'.",
+      "related_lexeme_ids": [
+        "never_adv",
+        "breakfast"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'We often read books on the weekend.'",
+      "options": null,
+      "correct_answer": "Nosotros a menudo leemos libros en el fin de semana.",
+      "explanation_md": "'Often' significa 'a menudo' y 'read' es 'leer'.",
+      "related_lexeme_ids": [
+        "often_adv",
+        "read_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué adverbio completa mejor esta oración? 'I ___ study English.' (A veces estudio inglés.)",
+      "options": [
+        "sometimes",
+        "always",
+        "never",
+        "usually"
+      ],
+      "correct_answer": "sometimes",
+      "explanation_md": "'Sometimes' significa 'a veces'.",
+      "related_lexeme_ids": [
+        "sometimes_adv",
+        "study_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hace Tom los domingos?",
+      "options": [
+        "He reads books.",
+        "He works.",
+        "He drinks coffee."
+      ],
+      "correct_answer": "He reads books.",
+      "explanation_md": "El audio dice que Tom 'often reads books' los domingos.",
+      "related_lexeme_ids": [
+        "often_adv",
+        "read_verb",
+        "write_verb",
+        "never_adv",
+        "get_up_verb",
+        "work_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom is a student. He usually gets up at eight. On Sundays, he often reads books. He sometimes writes to his grandmother. He never works on Sundays.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué hace Ana los fines de semana?",
+      "options": null,
+      "correct_answer": "She often reads with her family and sometimes writes to them.",
+      "explanation_md": "El texto dice que Ana 'often reads with her family' y 'sometimes writes to them' los fines de semana.",
+      "related_lexeme_ids": [
+        "always_adv",
+        "usually_adv",
+        "often_adv",
+        "sometimes_adv",
+        "never_adv",
+        "walk_verb",
+        "get_up_verb",
+        "work_verb",
+        "lunch"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana is a teacher. She always gets up early. She usually walks to work. On weekends, she often reads with her family. She sometimes writes to them. She never works on weekends. She loves her family.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu rutina diaria usando adverbios de frecuencia (always, usually, often, sometimes, never).",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de los adverbios de frecuencia antes del verbo.",
+      "related_lexeme_ids": [
+        "always_adv",
+        "usually_adv",
+        "never_adv",
+        "walk_verb",
+        "breakfast"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I always drink coffee in the morning.",
+        "I usually walk to work.",
+        "I never have breakfast."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con el adverbio correcto: 'They ___ clean the house.' (Ellos a menudo limpian la casa.)",
+      "options": null,
+      "correct_answer": "often",
+      "explanation_md": "'Often' significa 'a menudo' y va antes del verbo 'clean'.",
+      "related_lexeme_ids": [
+        "often_adv",
+        "clean_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "always",
+      "back": "siempre",
+      "hint": "frecuencia",
+      "lexeme_id": "always_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "frequency"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "usually",
+      "back": "usualmente / normalmente",
+      "hint": "frecuencia",
+      "lexeme_id": "usually_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "frequency"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "often",
+      "back": "a menudo",
+      "hint": "frecuencia",
+      "lexeme_id": "often_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "frequency"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "sometimes",
+      "back": "a veces",
+      "hint": "frecuencia",
+      "lexeme_id": "sometimes_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "frequency"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "never",
+      "back": "nunca",
+      "hint": "frecuencia",
+      "lexeme_id": "never_adv",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "frequency"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "walk",
+      "back": "caminar",
+      "hint": "verbo de acción",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "clean",
+      "back": "limpiar",
+      "hint": "verbo de acción",
+      "lexeme_id": "clean_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "read",
+      "back": "leer",
+      "hint": "verbo de acción",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "write",
+      "back": "escribir",
+      "hint": "verbo de acción",
+      "lexeme_id": "write_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "study",
+      "back": "estudiar",
+      "hint": "verbo de acción",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "learn",
+      "back": "aprender",
+      "hint": "verbo de acción",
+      "lexeme_id": "learn_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "How often?",
+      "back": "¿Con qué frecuencia?",
+      "hint": "pregunta de frecuencia",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_often",
+      "target_term": null,
+      "tags": [
+        "lesson_018",
+        "A1",
+        "frequency"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "always",
+      "reading": "",
+      "translation": "siempre",
+      "pos": "adverb",
+      "example": "I always drink coffee in the morning.",
+      "example_translation": "Siempre tomo café en la mañana.",
+      "lexeme_id": "always_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "usually",
+      "reading": "",
+      "translation": "usualmente / normalmente",
+      "pos": "adverb",
+      "example": "She usually walks to work.",
+      "example_translation": "Ella usualmente camina al trabajo.",
+      "lexeme_id": "usually_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "often",
+      "reading": "",
+      "translation": "a menudo",
+      "pos": "adverb",
+      "example": "We often read books on the weekend.",
+      "example_translation": "Nosotros a menudo leemos libros en el fin de semana.",
+      "lexeme_id": "often_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sometimes",
+      "reading": "",
+      "translation": "a veces",
+      "pos": "adverb",
+      "example": "He sometimes writes to his grandmother.",
+      "example_translation": "Él a veces escribe a su abuela.",
+      "lexeme_id": "sometimes_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "never",
+      "reading": "",
+      "translation": "nunca",
+      "pos": "adverb",
+      "example": "They never have breakfast.",
+      "example_translation": "Ellos nunca desayunan.",
+      "lexeme_id": "never_adv",
+      "chunk_id": null
+    },
+    {
+      "target_word": "walk",
+      "reading": "",
+      "translation": "caminar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "clean",
+      "reading": "",
+      "translation": "limpiar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "clean_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "read",
+      "reading": "",
+      "translation": "leer",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "read_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "write",
+      "reading": "",
+      "translation": "escribir",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "write_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "study",
+      "reading": "",
+      "translation": "estudiar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "study_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "learn",
+      "reading": "",
+      "translation": "aprender",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "learn_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "How often? — always / usually / often / sometimes / never",
+      "reading": "",
+      "translation": "¿Con qué frecuencia? — siempre / usualmente / a menudo / a veces / nunca",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_often"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "always",
+      "role": "support",
+      "status": "practiced",
+      "translation": "siempre",
+      "lexeme_id": "always_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_004",
+        "ex_010",
+        "ex_011",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "usually",
+      "role": "support",
+      "status": "practiced",
+      "translation": "usualmente / normalmente",
+      "lexeme_id": "usually_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_003",
+        "ex_005",
+        "ex_010",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "often",
+      "role": "support",
+      "status": "practiced",
+      "translation": "a menudo",
+      "lexeme_id": "often_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "sometimes",
+      "role": "support",
+      "status": "practiced",
+      "translation": "a veces",
+      "lexeme_id": "sometimes_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_008",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "never",
+      "role": "support",
+      "status": "practiced",
+      "translation": "nunca",
+      "lexeme_id": "never_adv",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_002",
+        "ex_006",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "walk",
+      "role": "support",
+      "status": "practiced",
+      "translation": "caminar",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_010",
+        "ex_011",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "clean",
+      "role": "support",
+      "status": "practiced",
+      "translation": "limpiar",
+      "lexeme_id": "clean_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "read",
+      "role": "support",
+      "status": "practiced",
+      "translation": "leer",
+      "lexeme_id": "read_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "ex_009",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "write",
+      "role": "support",
+      "status": "practiced",
+      "translation": "escribir",
+      "lexeme_id": "write_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "practiced",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "learn",
+      "role": "support",
+      "status": "introduced",
+      "translation": "aprender",
+      "lexeme_id": "learn_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "How often? — always / usually / often / sometimes / never",
+      "role": "support",
+      "status": "introduced",
+      "translation": "¿Con qué frecuencia? — siempre / usualmente / a menudo / a veces / nunca",
+      "lexeme_id": null,
+      "chunk_id": "chunk_how_often",
+      "source": "cart",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "breakfast",
+      "role": "support",
+      "status": "review",
+      "translation": "desayuno",
+      "lexeme_id": "breakfast",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_006",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "get up",
+      "role": "support",
+      "status": "review",
+      "translation": "levantarse",
+      "lexeme_id": "get_up_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "review",
+      "translation": "trabajar",
+      "lexeme_id": "work_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "sometime",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ex- / antiguo",
+      "lexeme_id": "sometime",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "ex_010",
+        "fc_004",
+        "quiz_001:q_003",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_010",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "eat",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comer",
+      "lexeme_id": "eat_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011",
+        "quiz_001:q_007",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "drink",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "how often",
+      "role": "support",
+      "status": "emergent",
+      "translation": "con qué frecuencia",
+      "lexeme_id": "how_often",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_012",
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "drink coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar café",
+      "lexeme_id": "drink_coffee_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "book",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "letter",
+      "role": "support",
+      "status": "emergent",
+      "translation": "carta",
+      "lexeme_id": "letter",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "grandmother",
+      "role": "support",
+      "status": "emergent",
+      "translation": "abuela",
+      "lexeme_id": "grandmother",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "clean",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "frequency",
+      "role": "support",
+      "status": "emergent",
+      "translation": "frecuencia",
+      "lexeme_id": "frequency",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "get",
+      "role": "support",
+      "status": "emergent",
+      "translation": "obtener / conseguir / llegar",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "order",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ordenar / pedir",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "lunch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "almuerzo",
+      "lexeme_id": "lunch",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_011"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 12,
+    "review_support_count": 3,
+    "emergent_count": 22,
+    "emergent_terms": [
+      "sometime",
+      "work",
+      "eat",
+      "morning",
+      "coffee",
+      "drink",
+      "how often",
+      "home",
+      "drink coffee",
+      "book",
+      "letter",
+      "weekend",
+      "grandmother",
+      "clean",
+      "frequency",
+      "get",
+      "school",
+      "student",
+      "word",
+      "order",
+      "lunch",
+      "main"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Adverbios de frecuencia",
+      "title_target": "Quiz: Using Adverbs of Frequency",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'never'?",
+          "prompt_target": "What does 'never' mean?",
+          "options": [
+            "siempre",
+            "nunca",
+            "a veces",
+            "a menudo"
+          ],
+          "correct_answer": "nunca",
+          "explanation_form": "'Never' significa 'nunca'.",
+          "explanation_target": "'Never' means 'never'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "never_adv"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "always",
+            "walk",
+            "to",
+            "school"
+          ],
+          "correct_answer": "I always walk to school",
+          "explanation_form": "El adverbio de frecuencia va antes del verbo principal: 'I always walk to school'.",
+          "explanation_target": "The adverb of frequency goes before the main verb: 'I always walk to school'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "always_adv",
+            "walk_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué hace ella los domingos?",
+          "prompt_target": "Listen and answer: What does she do on Sundays?",
+          "options": [
+            "She reads and writes.",
+            "She works on Sundays.",
+            "She walks to school."
+          ],
+          "correct_answer": "She reads and writes.",
+          "explanation_form": "Ella usualmente lee y a veces escribe, pero nunca mira TV.",
+          "explanation_target": "She usually reads and sometimes writes, but she never watches TV.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "usually_adv",
+            "sometimes_adv",
+            "never_adv",
+            "read_verb",
+            "write_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "She usually reads on Sundays. She sometimes writes. She never works on Sundays.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'She ____ studies English.' (ella siempre estudia inglés)",
+          "prompt_target": "Complete the sentence: 'She ____ studies English.' (she always studies English)",
+          "options": null,
+          "correct_answer": "always",
+          "explanation_form": "'Always' significa 'siempre' y va antes del verbo.",
+          "explanation_target": "'Always' means 'always' and goes before the verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "always_adv",
+            "study_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Con qué frecuencia limpia Tom?",
+          "prompt_target": "Read the text and answer: How often does Tom clean?",
+          "options": [
+            "He always cleans on Saturdays.",
+            "He never cleans.",
+            "He cleans every day."
+          ],
+          "correct_answer": "He always cleans on Saturdays.",
+          "explanation_form": "El texto dice que Tom siempre limpia los sábados.",
+          "explanation_target": "The text says Tom always cleans on Saturdays.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "always_adv",
+            "clean_verb",
+            "get_up_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Tom is a student. He usually gets up at seven. He often walks to school. He always cleans his room on Saturdays. He never cleans on Sundays.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para preguntar con qué frecuencia?",
+          "prompt_target": "Which is the correct question to ask how often?",
+          "options": [
+            "How often do you study?",
+            "What do you study?",
+            "When do you study?"
+          ],
+          "correct_answer": "How often do you study?",
+          "explanation_form": "'How often' se usa para preguntar sobre frecuencia.",
+          "explanation_target": "'How often' is used to ask about frequency.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_how_often",
+            "study_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la palabra correcta: 'I ____ have breakfast.' (a veces como desayuno)",
+          "prompt_target": "Complete with the correct word: 'I ____ have breakfast.' (I sometimes have breakfast)",
+          "options": null,
+          "correct_answer": "sometimes",
+          "explanation_form": "'Sometimes' significa 'a veces'.",
+          "explanation_target": "'Sometimes' means 'sometimes'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sometimes_adv",
+            "breakfast"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su traducción:",
+          "prompt_target": "Match each word with its translation:",
+          "options": [
+            "always",
+            "siempre",
+            "usually",
+            "usualmente",
+            "often",
+            "a menudo",
+            "never",
+            "nunca"
+          ],
+          "correct_answer": [
+            "always=siempre",
+            "usually=usualmente",
+            "often=a menudo",
+            "never=nunca"
+          ],
+          "explanation_form": "Estos son los adverbios de frecuencia más comunes.",
+          "explanation_target": "These are the most common adverbs of frequency.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "always_adv",
+            "usually_adv",
+            "often_adv",
+            "never_adv"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué hace él por la mañana?",
+          "prompt_target": "Listen and answer: What does he do in the morning?",
+          "options": [
+            "He walks and drinks coffee.",
+            "He drinks milk.",
+            "He studies English."
+          ],
+          "correct_answer": "He walks and drinks coffee.",
+          "explanation_form": "Él a menudo camina y siempre toma café, pero nunca toma leche.",
+          "explanation_target": "He often walks and always drinks coffee, but he never drinks milk.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "often_adv",
+            "always_adv",
+            "never_adv",
+            "walk_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "He often walks in the morning. He always drinks coffee. He never drinks milk.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: 'We ____ have lunch.' (usualmente comemos almuerzo)",
+          "prompt_target": "Complete the sentence: 'We ____ have lunch.' (we usually have lunch)",
+          "options": null,
+          "correct_answer": "usually",
+          "explanation_form": "'Usually' significa 'usualmente'.",
+          "explanation_target": "'Usually' means 'usually'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "usually_adv",
+            "lunch"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el orden correcto de las palabras?",
+          "prompt_target": "What is the correct word order?",
+          "options": [
+            "She always reads books.",
+            "She reads always books.",
+            "Always she reads books."
+          ],
+          "correct_answer": "She always reads books.",
+          "explanation_form": "El adverbio de frecuencia va entre el sujeto y el verbo principal.",
+          "explanation_target": "The adverb of frequency goes between the subject and the main verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "always_adv",
+            "read_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la palabra correcta: 'They ____ study at night.' (ellos nunca estudian de noche)",
+          "prompt_target": "Complete with the correct word: 'They ____ study at night.' (they never study at night)",
+          "options": null,
+          "correct_answer": "never",
+          "explanation_form": "'Never' significa 'nunca'.",
+          "explanation_target": "'Never' means 'never'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "never_adv",
+            "study_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El secreto de los adverbios de frecuencia\n\nEn español decimos \"siempre\", \"nunca\", \"a veces\". En inglés, estos adverbios van **antes del verbo principal**: *I always read*, *She never walks*. ¡Pero ojo! Con el verbo *to be* van **después**: *I am always happy*. Es un error muy común ponerlos al final de la oración.\n\n## Pregunta la frecuencia\n\nPara preguntar con qué frecuencia alguien hace algo, usa *How often...?*: *How often do you study?* La respuesta natural usa un adverbio: *I usually study in the morning*. Piensa en tu rutina diaria: ¿qué haces *always*, *usually* o *never*? ¡Úsalo para hablar de ti mismo!",
+  "metadata": {
+    "generated_at": "2026-08-31T21:33:23Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

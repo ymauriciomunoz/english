@@ -1,0 +1,1495 @@
+{
+  "id": "lesson_034",
+  "position": 34,
+  "unit_id": 5,
+  "course_id": "en.A2",
+  "title_form": "Asking about prices",
+  "title_target": "Preguntando por los precios",
+  "theme_focus": "shopping",
+  "learning_objectives": [
+    "Can ask the price of an item using 'How much does it cost?'.",
+    "Can state the price of an item using 'It costs...'."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_033"
+  ],
+  "grammar_focus": [
+    "present simple: questions with do/does (review)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "affordable_adj",
+        "spend_verb",
+        "cash",
+        "item"
+      ],
+      "chunk_ids": [
+        "chunk_a2_how_much_does_cost"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "store",
+        "product"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana está de compras en una tienda de ropa. Quiere comprar una chaqueta, pero primero pregunta el precio. Después decide si es accesible para ella y piensa en cuánto dinero puede gastar. Al final, paga en efectivo y sale contenta con su compra.",
+  "introduction_md": "## Preguntando por los precios\n\nEn esta lección vas a aprender a preguntar cuánto cuesta algo y a decir su precio. Esto te va a servir en tiendas, mercados y cafés.\n\n**Vas a practicar:**\n\n- La pregunta **How much does it cost?** (¿Cuánto cuesta?)\n- La respuesta **It costs...** (Cuesta...)\n- Palabras útiles como *affordable* (accesible), *spend* (gastar), *cash* (efectivo) e *item* (artículo).\n\nImagina que estás de viaje y quieres comprar un recuerdo. Saber preguntar el precio y entender la respuesta te da confianza para comprar sin miedo. ¡Vamos a practicar con situaciones reales!",
+  "intro_target": "## Asking about prices\n\nIn this lesson, you will learn how to ask how much something costs and how to say its price. This will help you in stores, markets, and cafés.\n\n**You will practice:**\n\n- The question **How much does it cost?**\n- The answer **It costs...**\n- Useful words like *affordable*, *spend*, *cash*, and *item*.\n\nImagine you are traveling and you want to buy a souvenir. Knowing how to ask the price and understand the answer gives you confidence to buy without fear. Let's practice with real situations!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_how_much_does_cost",
+      "grammar_slug": null,
+      "text_target": "How much does this item cost? I want to buy it.",
+      "translation_form": "¿Cuánto cuesta este artículo? Quiero comprarlo.",
+      "highlight_words": [
+        "item",
+        "cost"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "cash",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Do you pay with cash or with a card at this store?",
+      "translation_form": "¿Pagas con efectivo o con tarjeta en esta tienda?",
+      "highlight_words": [
+        "cash",
+        "store"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "affordable_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "This product is affordable, so I can spend my money here.",
+      "translation_form": "Este producto es económico, así que puedo gastar mi dinero aquí.",
+      "highlight_words": [
+        "affordable",
+        "product",
+        "spend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "spend_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "How much do you spend on food every week?",
+      "translation_form": "¿Cuánto gastas en comida cada semana?",
+      "highlight_words": [
+        "spend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "item",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Does this store sell that item? I need it for my trip.",
+      "translation_form": "¿Esta tienda vende ese artículo? Lo necesito para mi viaje.",
+      "highlight_words": [
+        "item",
+        "store"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "cash",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I don't have cash today, so I can't buy this product.",
+      "translation_form": "No tengo efectivo hoy, así que no puedo comprar este producto.",
+      "highlight_words": [
+        "cash",
+        "product"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: questions with do/does (review)",
+      "title_form": "Preguntas con do/does en presente simple",
+      "title_target": "Questions with do/does in present simple",
+      "description_md_form": "Para preguntar sobre precios y compras en presente simple, usamos **do** o **does** al inicio de la pregunta.\n\n- Usamos **do** con *I, you, we, they*.\n- Usamos **does** con *he, she, it*.\n\nLa estructura es: **Do/Does + sujeto + verbo + ...?**\n\nEjemplos:\n- **Do** you pay with cash?\n- **Does** this store sell that item?\n\n**Importante:** cuando usamos **does**, el verbo principal va en su forma base, sin *-s*. Decimos *Does it cost...?*, no *Does it costs...?*.\n\nPara preguntar por el precio, usamos la estructura fija **How much does it cost?** (¿Cuánto cuesta?). Esta pregunta ya incluye *does*, así que no la cambiamos.",
+      "description_md_target": "To ask about prices and shopping in present simple, we use **do** or **does** at the start of the question.\n\n- We use **do** with *I, you, we, they*.\n- We use **does** with *he, she, it*.\n\nThe structure is: **Do/Does + subject + verb + ...?**\n\nExamples:\n- **Do** you pay with cash?\n- **Does** this store sell that item?\n\n**Important:** when we use **does**, the main verb goes in its base form, without *-s*. We say *Does it cost...?*, not *Does it costs...?*.\n\nTo ask about the price, we use the fixed structure **How much does it cost?**. This question already includes *does*, so we do not change it.",
+      "grammar_structure": "Do/Does + subject + base verb + ...?",
+      "conjugation_table": {
+        "name": "present_simple_questions",
+        "headers": [
+          "Sujeto",
+          "Auxiliar",
+          "Verbo base",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "do",
+            "spend",
+            "Do I spend a lot?"
+          ],
+          [
+            "you",
+            "do",
+            "pay",
+            "Do you pay with cash?"
+          ],
+          [
+            "he/she/it",
+            "does",
+            "cost",
+            "Does it cost much?"
+          ],
+          [
+            "we",
+            "do",
+            "buy",
+            "Do we buy this item?"
+          ],
+          [
+            "they",
+            "do",
+            "sell",
+            "Do they sell this product?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_a2_how_much_does_cost",
+          "grammar_slug": null,
+          "text_target": "How much does it cost? I want to buy this item.",
+          "translation_form": "¿Cuánto cuesta? Quiero comprar este artículo.",
+          "highlight_words": [
+            "how",
+            "much",
+            "does",
+            "cost"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "spend_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "How much do you spend on food every week?",
+          "translation_form": "¿Cuánto gastas en comida cada semana?",
+          "highlight_words": [
+            "do",
+            "spend"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No digas:** *Does it costs...?* — con **does**, el verbo va sin *-s*: *Does it cost...?*"
+        },
+        {
+          "type": "tip",
+          "text_md": "**How much does it cost?** es una frase fija. No la cambies a *How much do it cost?* — *it* siempre usa *does*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar *do* con *he/she/it*: *Do it cost?* → correcto: *Does it cost?*",
+        "Agregar *-s* al verbo después de *does*: *Does it costs?* → correcto: *Does it cost?*",
+        "Olvidar el auxiliar: *You pay with cash?* → correcto: *Do you pay with cash?*"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'affordable'?",
+      "options": [
+        "económico",
+        "caro",
+        "rápido",
+        "grande"
+      ],
+      "correct_answer": "económico",
+      "explanation_md": "'Affordable' significa que algo tiene un precio razonable, que puedes pagarlo.",
+      "related_lexeme_ids": [
+        "affordable_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'spend'?",
+      "options": [
+        "gastar",
+        "ahorrar",
+        "comprar",
+        "vender"
+      ],
+      "correct_answer": "gastar",
+      "explanation_md": "'Spend' se usa para hablar de gastar dinero o tiempo.",
+      "related_lexeme_ids": [
+        "spend_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'cash'?",
+      "options": [
+        "efectivo",
+        "tarjeta",
+        "moneda",
+        "billete"
+      ],
+      "correct_answer": "efectivo",
+      "explanation_md": "'Cash' se refiere al dinero en billetes y monedas.",
+      "related_lexeme_ids": [
+        "cash"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'item'?",
+      "options": [
+        "artículo",
+        "precio",
+        "tienda",
+        "producto"
+      ],
+      "correct_answer": "artículo",
+      "explanation_md": "'Item' es una palabra general para referirse a una cosa u objeto.",
+      "related_lexeme_ids": [
+        "item"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "affordable",
+        "económico",
+        "spend",
+        "gastar",
+        "cash",
+        "efectivo",
+        "item",
+        "artículo"
+      ],
+      "correct_answer": [
+        "affordable=económico",
+        "spend=gastar",
+        "cash=efectivo",
+        "item=artículo"
+      ],
+      "explanation_md": "Estas son las palabras nuevas de la lección sobre precios.",
+      "related_lexeme_ids": [
+        "affordable_adj",
+        "spend_verb",
+        "cash",
+        "item"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la pregunta correcta para preguntar el precio de un artículo?",
+      "options": [
+        "How much does this item cost?",
+        "How much this item cost?",
+        "Does this item cost how much?",
+        "How much cost this item?"
+      ],
+      "correct_answer": "How much does this item cost?",
+      "explanation_md": "Para preguntar el precio usamos 'How much does' + sujeto + 'cost'.",
+      "related_lexeme_ids": [
+        "item"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_how_much_does_cost"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la pregunta: '______ much does this item cost?'",
+      "options": null,
+      "correct_answer": "How",
+      "explanation_md": "La pregunta comienza con 'How much' para preguntar por el precio.",
+      "related_lexeme_ids": [
+        "item"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_how_much_does_cost"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase: 'I ______ a lot of money on food every week.'",
+      "options": null,
+      "correct_answer": "spend",
+      "explanation_md": "Usamos 'spend' para hablar de gastar dinero.",
+      "related_lexeme_ids": [
+        "spend_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿Pagas con efectivo o con tarjeta?'",
+      "options": null,
+      "correct_answer": "Do you pay with cash or with a card?",
+      "explanation_md": "Para preguntar usamos 'Do you pay' + 'with cash' + 'or with a card'.",
+      "related_lexeme_ids": [
+        "cash"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'This product is affordable.'",
+      "options": null,
+      "correct_answer": "Este producto es económico.",
+      "explanation_md": "'Affordable' se traduce como 'económico' o 'asequible'.",
+      "related_lexeme_ids": [
+        "affordable_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuánto gasta Ana en el supermercado?",
+      "options": [
+        "About fifty dollars.",
+        "About fifteen dollars.",
+        "About thirty dollars.",
+        "About twenty dollars."
+      ],
+      "correct_answer": "About fifty dollars.",
+      "explanation_md": "El texto dice 'She spends about fifty dollars on food every week'.",
+      "related_lexeme_ids": [
+        "spend_verb",
+        "affordable_adj",
+        "cash"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Ana goes to the supermarket every week. She buys food for her family. This week, she sees a new product. It is affordable, so she wants to buy it. She pays with cash at the store. She spends about fifty dollars on food every week.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cuánto cuesta el artículo?",
+      "options": [
+        "Ten dollars.",
+        "Twenty dollars.",
+        "Five dollars.",
+        "Fifteen dollars."
+      ],
+      "correct_answer": "Ten dollars.",
+      "explanation_md": "El audio dice 'It costs ten dollars'.",
+      "related_lexeme_ids": [
+        "item"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_how_much_does_cost"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Excuse me, how much does this item cost? It is very nice. I want to buy it for my friend. The salesperson says it is affordable. It costs ten dollars.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre algo que quieres comprar. Usa 'How much does... cost?' y las palabras 'item', 'affordable' o 'cash'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de la pregunta de precio y el vocabulario de la lección.",
+      "related_lexeme_ids": [
+        "item",
+        "affordable_adj",
+        "cash"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_how_much_does_cost"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "How much does this item cost? It is affordable. I can pay with cash.",
+        "I want to buy a new jacket. How much does it cost? I hope it is affordable."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "affordable",
+      "back": "asequible / económico",
+      "hint": "se usa para describir precios",
+      "lexeme_id": "affordable_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_034",
+        "A2",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "spend",
+      "back": "gastar (dinero, tiempo)",
+      "hint": "verbo irregular: spend / spent",
+      "lexeme_id": "spend_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_034",
+        "A2",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "cash",
+      "back": "efectivo",
+      "hint": "dinero en billetes y monedas",
+      "lexeme_id": "cash",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_034",
+        "A2",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "item",
+      "back": "artículo",
+      "hint": "una cosa que compras",
+      "lexeme_id": "item",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_034",
+        "A2",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "How much does it cost?",
+      "back": "¿Cuánto cuesta?",
+      "hint": "pregunta para saber el precio",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_how_much_does_cost",
+      "target_term": null,
+      "tags": [
+        "lesson_034",
+        "A2",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "store",
+      "back": "tienda",
+      "hint": "lugar donde compras cosas",
+      "lexeme_id": "store",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_034",
+        "A2",
+        "shopping"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "product",
+      "back": "producto",
+      "hint": "algo que se vende",
+      "lexeme_id": "product",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_034",
+        "A2",
+        "shopping"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "affordable",
+      "reading": "",
+      "translation": "asequible / económico",
+      "pos": "adjective",
+      "example": "This product is affordable, so I can spend my money here.",
+      "example_translation": "Este producto es económico, así que puedo gastar mi dinero aquí.",
+      "lexeme_id": "affordable_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "spend",
+      "reading": "",
+      "translation": "gastar (dinero, tiempo)",
+      "pos": "verb",
+      "example": "How much do you spend on food every week?",
+      "example_translation": "¿Cuánto gastas en comida cada semana?",
+      "lexeme_id": "spend_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cash",
+      "reading": "",
+      "translation": "efectivo",
+      "pos": "noun",
+      "example": "Do you pay with cash or with a card at this store?",
+      "example_translation": "¿Pagas con efectivo o con tarjeta en esta tienda?",
+      "lexeme_id": "cash",
+      "chunk_id": null
+    },
+    {
+      "target_word": "item",
+      "reading": "",
+      "translation": "artículo",
+      "pos": "noun",
+      "example": "Does this store sell that item? I need it for my trip.",
+      "example_translation": "¿Esta tienda vende ese artículo? Lo necesito para mi viaje.",
+      "lexeme_id": "item",
+      "chunk_id": null
+    },
+    {
+      "target_word": "How much does it cost?",
+      "reading": "",
+      "translation": "¿Cuánto cuesta?",
+      "pos": "chunk",
+      "example": "How much does this item cost? I want to buy it.",
+      "example_translation": "¿Cuánto cuesta este artículo? Quiero comprarlo.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_how_much_does_cost"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "affordable",
+      "role": "support",
+      "status": "practiced",
+      "translation": "asequible / económico",
+      "lexeme_id": "affordable_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_001",
+        "ex_005",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "spend",
+      "role": "support",
+      "status": "practiced",
+      "translation": "gastar (dinero, tiempo)",
+      "lexeme_id": "spend_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_005",
+        "ex_008",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "cash",
+      "role": "support",
+      "status": "practiced",
+      "translation": "efectivo",
+      "lexeme_id": "cash",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_006",
+        "ex_003",
+        "ex_005",
+        "ex_009",
+        "ex_011",
+        "ex_013",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "item",
+      "role": "support",
+      "status": "practiced",
+      "translation": "artículo",
+      "lexeme_id": "item",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_004",
+        "ex_005",
+        "ex_006",
+        "ex_007",
+        "ex_012",
+        "ex_013",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "How much does it cost?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Cuánto cuesta?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_how_much_does_cost",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_006",
+        "ex_007",
+        "ex_012",
+        "ex_013",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "store",
+      "role": "support",
+      "status": "review",
+      "translation": "tienda",
+      "lexeme_id": "store",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_006"
+      ]
+    },
+    {
+      "term": "product",
+      "role": "support",
+      "status": "review",
+      "translation": "producto",
+      "lexeme_id": "product",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "cost",
+      "role": "support",
+      "status": "emergent",
+      "translation": "costar",
+      "lexeme_id": "cost_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_012",
+        "ex_013",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "buy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comprar",
+      "lexeme_id": "buy_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_006",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "food",
+      "role": "support",
+      "status": "emergent",
+      "translation": "comida",
+      "lexeme_id": "food",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "pay",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pagar",
+      "lexeme_id": "pay_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_013",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "card",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tarjeta / carta",
+      "lexeme_id": "card",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "today",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "sell",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vender",
+      "lexeme_id": "sell_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "trip",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viaje",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "dollar",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dólar",
+      "lexeme_id": "dollar",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "price",
+      "role": "support",
+      "status": "emergent",
+      "translation": "precio",
+      "lexeme_id": "price",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "subject",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "fifty",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "order",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ordenar / pedir",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "excuse me",
+      "role": "support",
+      "status": "emergent",
+      "translation": "disculpe",
+      "lexeme_id": "excuse_me_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "supermarket",
+      "role": "support",
+      "status": "emergent",
+      "translation": "supermercado",
+      "lexeme_id": "supermarket",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "meaning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "significado",
+      "lexeme_id": "meaning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_007",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "present",
+      "role": "support",
+      "status": "emergent",
+      "translation": "actual",
+      "lexeme_id": "present_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "review",
+      "role": "support",
+      "status": "emergent",
+      "translation": "revisión",
+      "lexeme_id": "review",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "reasonable",
+      "role": "support",
+      "status": "emergent",
+      "translation": "razonable",
+      "lexeme_id": "reasonable_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 5,
+    "review_support_count": 2,
+    "emergent_count": 26,
+    "emergent_terms": [
+      "cost",
+      "buy",
+      "want",
+      "week",
+      "food",
+      "pay",
+      "card",
+      "today",
+      "need",
+      "sell",
+      "trip",
+      "dollar",
+      "price",
+      "word",
+      "person",
+      "subject",
+      "fifty",
+      "good",
+      "ask",
+      "order",
+      "excuse me",
+      "supermarket",
+      "meaning",
+      "present",
+      "review",
+      "reasonable"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Asking about prices",
+      "title_target": "Quiz: Asking about prices",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta para saber el precio de un producto: '____ this item cost?'",
+          "prompt_target": "Complete the question to ask the price of a product: '____ this item cost?'",
+          "options": null,
+          "correct_answer": "How much does",
+          "explanation_form": "Para preguntar por el precio de algo usamos 'How much does' + sujeto + verbo. 'How much does this item cost?' significa '¿Cuánto cuesta este artículo?'.",
+          "explanation_target": "To ask about the price of something we use 'How much does' + subject + verb. 'How much does this item cost?' means '¿Cuánto cuesta este artículo?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_how_much_does_cost",
+            "item"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para saber cuánto cuesta un producto?",
+          "prompt_target": "Which is the correct question to ask how much a product costs?",
+          "options": [
+            "How much does this item cost?",
+            "How much this item costs?",
+            "Does how much this item cost?",
+            "How much cost this item?"
+          ],
+          "correct_answer": "How much does this item cost?",
+          "explanation_form": "La estructura correcta es 'How much does' + sujeto + verbo. Las otras opciones tienen el orden de palabras incorrecto.",
+          "explanation_target": "The correct structure is 'How much does' + subject + verb. The other options have incorrect word order.",
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "chunk_a2_how_much_does_cost",
+            "item"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la forma correcta del verbo: 'How much ____ you spend on food every week?'",
+          "prompt_target": "Complete with the correct form of the verb: 'How much ____ you spend on food every week?'",
+          "options": null,
+          "correct_answer": "do",
+          "explanation_form": "Con 'you' usamos 'do' para formar preguntas en presente simple. 'How much do you spend...?' significa '¿Cuánto gastas...?'.",
+          "explanation_target": "With 'you' we use 'do' to form questions in present simple. 'How much do you spend...?' means '¿Cuánto gastas...?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "spend_verb",
+            "present simple: questions with do/does (review)"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'affordable'?",
+          "prompt_target": "What does 'affordable' mean?",
+          "options": [
+            "Que tiene un precio razonable",
+            "Que es muy caro",
+            "Que es gratis",
+            "Que es de mala calidad"
+          ],
+          "correct_answer": "Que tiene un precio razonable",
+          "explanation_form": "'Affordable' significa que algo tiene un precio que se puede pagar, es decir, que es accesible o razonable.",
+          "explanation_target": "'Affordable' means that something has a price that can be paid, that is, it is accessible or reasonable.",
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "affordable_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I don't have ____. Can I pay with my card?'",
+          "prompt_target": "Complete the sentence: 'I don't have ____. Can I pay with my card?'",
+          "options": null,
+          "correct_answer": "cash",
+          "explanation_form": "'Cash' significa 'efectivo' o 'dinero en efectivo'. La frase completa es 'I don't have cash. Can I pay with my card?'.",
+          "explanation_target": "'Cash' means 'efectivo' or 'dinero en efectivo'. The complete sentence is 'I don't have cash. Can I pay with my card?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cash"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Cuánto cuesta el producto?",
+          "prompt_target": "Listen and answer: How much does the product cost?",
+          "options": [
+            "Twenty dollars",
+            "Twelve dollars",
+            "Thirty dollars",
+            "Fifty dollars"
+          ],
+          "correct_answer": "Twenty dollars",
+          "explanation_form": "En el audio dice 'It is twenty dollars', así que el producto cuesta veinte dólares.",
+          "explanation_target": "The audio says 'It is twenty dollars', so the product costs twenty dollars.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_how_much_does_cost",
+            "item"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Excuse me. How much does this item cost? It is twenty dollars. That is a good price. I want to buy it.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué dice la persona sobre el precio?",
+          "prompt_target": "Listen and answer: What does the person say about the price?",
+          "options": [
+            "The prices are affordable",
+            "The prices are expensive",
+            "The store is closed",
+            "The products are bad"
+          ],
+          "correct_answer": "The prices are affordable",
+          "explanation_form": "La persona dice 'The prices are affordable', es decir, que los precios son accesibles o razonables.",
+          "explanation_target": "The person says 'The prices are affordable', meaning the prices are reasonable.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "affordable_adj",
+            "store"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "This store has good products. The prices are affordable. I can spend fifty dollars here. I am happy.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Cuánto gasta la persona en el supermercado?",
+          "prompt_target": "Read the text and answer: How much does the person spend at the supermarket?",
+          "options": [
+            "About fifty dollars",
+            "About fifteen dollars",
+            "About one hundred dollars",
+            "About twenty dollars"
+          ],
+          "correct_answer": "About fifty dollars",
+          "explanation_form": "El texto dice 'I usually spend about fifty dollars', así que la persona gasta unos cincuenta dólares.",
+          "explanation_target": "The text says 'I usually spend about fifty dollars', so the person spends about fifty dollars.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "spend_verb",
+            "cash",
+            "affordable_adj"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I go to the supermarket every week. I buy food and other items. I usually spend about fifty dollars. Sometimes I pay with cash, but I prefer to use my card. The prices at this supermarket are very affordable.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "How",
+            "much",
+            "does",
+            "this",
+            "item",
+            "cost"
+          ],
+          "correct_answer": "How much does this item cost",
+          "explanation_form": "La estructura de la pregunta es: How much + does + sujeto + verbo. 'How much does this item cost?' significa '¿Cuánto cuesta este artículo?'.",
+          "explanation_target": "The question structure is: How much + does + subject + verb. 'How much does this item cost?' means '¿Cuánto cuesta este artículo?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_how_much_does_cost",
+            "item"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "affordable",
+            "accesible",
+            "cash",
+            "efectivo",
+            "item",
+            "artículo",
+            "spend",
+            "gastar"
+          ],
+          "correct_answer": [
+            "affordable=accesible",
+            "cash=efectivo",
+            "item=artículo",
+            "spend=gastar"
+          ],
+          "explanation_form": "Estas son las palabras clave de la lección: 'affordable' (accesible), 'cash' (efectivo), 'item' (artículo) y 'spend' (gastar).",
+          "explanation_target": "These are the key words of the lesson: 'affordable' (accesible), 'cash' (efectivo), 'item' (artículo) and 'spend' (gastar).",
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "affordable_adj",
+            "cash",
+            "item",
+            "spend_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'do' o 'does': '____ this product cost a lot of money?'",
+          "prompt_target": "Complete with 'do' or 'does': '____ this product cost a lot of money?'",
+          "options": null,
+          "correct_answer": "Does",
+          "explanation_form": "Con 'this product' (tercera persona singular) usamos 'does' para formar la pregunta en presente simple.",
+          "explanation_target": "With 'this product' (third person singular) we use 'does' to form the question in present simple.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "present simple: questions with do/does (review)",
+            "product"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Como preguntar por precios\n\nPara preguntar el precio de algo, usa la estructura **How much does it cost?** (¿Cuánto cuesta?). Es una pregunta fija, como una formula magica: no la cambies. Para responder, usa **It costs...** (Cuesta...).\n\n- **How much does this item cost?** → **It costs 10 dollars.**\n- **How much does that product cost?** → **It costs 5 dollars.**\n\n## Errores comunes\n\n- No digas *How much it costs?* en una pregunta. La forma correcta es **How much does it cost?** (con *does*).\n- Recuerda que *cash* significa efectivo. Si pagas con tarjeta, dices *card*. Si pagas en efectivo, dices *cash*.\n- *Affordable* significa que algo tiene un buen precio, que no es caro. Por ejemplo: *This store is affordable.* (Esta tienda es economica).",
+  "metadata": {
+    "generated_at": "2026-08-31T18:55:10Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

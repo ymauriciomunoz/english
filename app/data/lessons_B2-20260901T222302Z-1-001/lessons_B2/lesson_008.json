@@ -1,0 +1,2103 @@
+{
+  "id": "lesson_008",
+  "position": 8,
+  "unit_id": 3,
+  "course_id": "en.B2",
+  "title_form": "Discussing project progress and deadlines",
+  "title_target": "Discussing project progress and deadlines",
+  "theme_focus": "plans",
+  "learning_objectives": [
+    "Can discuss project progress and deadlines in a status meeting.",
+    "Can use the present perfect passive to report recent actions and their results.",
+    "Can ask and answer questions about what has been completed and what remains."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_007"
+  ],
+  "grammar_focus": [
+    "passive voice: present perfect passive for recent actions and results"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "meet_deadlines_phrase",
+        "meet_requirements_phrase"
+      ],
+      "chunk_ids": [
+        "chunk_b2_colloc_deadlines"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "stage",
+        "target",
+        "resource",
+        "set_up_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "progress",
+        "role": "topic",
+        "rationale": "The main topic of a status meeting."
+      },
+      {
+        "term": "deadline",
+        "role": "topic",
+        "rationale": "A key constraint to discuss."
+      },
+      {
+        "term": "task",
+        "role": "topic",
+        "rationale": "The unit of work being tracked."
+      },
+      {
+        "term": "milestone",
+        "role": "topic",
+        "rationale": "A significant point in the project timeline."
+      },
+      {
+        "term": "stage",
+        "role": "topic",
+        "rationale": "A project phase whose current progress can be reported."
+      },
+      {
+        "term": "target",
+        "role": "topic",
+        "rationale": "An expected result used to judge whether the project is on track."
+      },
+      {
+        "term": "resource",
+        "role": "topic",
+        "rationale": "A person, material or tool whose availability affects project progress."
+      },
+      {
+        "term": "update",
+        "role": "functional",
+        "rationale": "The main communicative function of the meeting."
+      },
+      {
+        "term": "complete",
+        "role": "functional",
+        "rationale": "To describe the state of a task."
+      },
+      {
+        "term": "set up",
+        "role": "functional",
+        "rationale": "Action used to report that a project system or resource has been prepared."
+      },
+      {
+        "term": "has been finished",
+        "role": "grammar_support",
+        "rationale": "Present perfect passive to report a completed action."
+      },
+      {
+        "term": "has been completed",
+        "role": "grammar_support",
+        "rationale": "Present perfect passive to report a completed action."
+      },
+      {
+        "term": "has been delayed",
+        "role": "grammar_support",
+        "rationale": "Present perfect passive to report a problem."
+      },
+      {
+        "term": "has been scheduled",
+        "role": "grammar_support",
+        "rationale": "Present perfect passive to report a plan."
+      }
+    ]
+  },
+  "scenario": "Ana y su equipo están en una reunión semanal de estado del proyecto. Cada miembro reporta qué tareas se han completado, cuáles se han retrasado y qué recursos se necesitan para cumplir con los plazos. Ana debe presentar el avance de su etapa y negociar una nueva fecha para una entrega.",
+  "introduction_md": "## Discussing project progress and deadlines\n\nEn esta lección vas a participar en una reunión de estado de proyecto (status meeting). Aprenderás a reportar qué tareas ya se completaron y cuáles siguen pendientes, usando la voz pasiva en presente perfecto.\n\n**¿Qué vas a lograr?**\n\n- Reportar acciones recientes y sus resultados: *The report has been finished.*\n- Preguntar y responder sobre lo completado y lo pendiente: *Has the design been completed?*\n- Discutir plazos y requisitos: *We need to meet the deadlines.*\n- Hablar de etapas, metas y recursos del proyecto.\n\n**Contexto real:**\n\nImagina que estás en una reunión semanal con tu equipo. Cada persona presenta el avance de sus tareas. Tú necesitas entender qué se ha hecho, qué falta y si el proyecto va según lo planeado.\n\nEsta lección te da las frases exactas para sonar profesional y claro en inglés. ¡Vamos a practicar!",
+  "intro_target": "## Discussing project progress and deadlines\n\nIn this lesson, you will take part in a project status meeting. You will learn to report which tasks have already been completed and which ones are still pending, using the passive voice in the present perfect.\n\n**What will you achieve?**\n\n- Report recent actions and their results: *The report has been finished.*\n- Ask and answer questions about what is done and what is pending: *Has the design been completed?*\n- Discuss deadlines and requirements: *We need to meet the deadlines.*\n- Talk about project stages, targets, and resources.\n\n**Real context:**\n\nImagine you are in a weekly meeting with your team. Each person presents the progress of their tasks. You need to understand what has been done, what is missing, and whether the project is on track.\n\nThis lesson gives you the exact phrases to sound professional and clear in English. Let's practice!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "meet_deadlines_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We have been working on this project for three months, and so far we have managed to meet all our deadlines.",
+      "translation_form": "Hemos estado trabajando en este proyecto durante tres meses, y hasta ahora hemos logrado cumplir todos nuestros plazos.",
+      "highlight_words": [
+        "meet",
+        "deadlines"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "meet_requirements_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The new software has been tested, and it meets all the requirements that the client specified.",
+      "translation_form": "El nuevo software ha sido probado, y cumple todos los requisitos que el cliente especificó.",
+      "highlight_words": [
+        "meets",
+        "requirements"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_colloc_deadlines",
+      "grammar_slug": null,
+      "text_target": "The team must meet its deadlines, otherwise the whole project will be delayed.",
+      "translation_form": "El equipo debe cumplir sus plazos, de lo contrario todo el proyecto se retrasará.",
+      "highlight_words": [
+        "meet",
+        "deadlines"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "meet_deadlines_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Although the resources were limited, the team managed to meet the deadlines and deliver the project on time.",
+      "translation_form": "Aunque los recursos eran limitados, el equipo logró cumplir los plazos y entregar el proyecto a tiempo.",
+      "highlight_words": [
+        "meet",
+        "deadlines"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "meet_requirements_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The final report has been reviewed, and it meets the requirements for the next stage of the project.",
+      "translation_form": "El informe final ha sido revisado, y cumple los requisitos para la siguiente etapa del proyecto.",
+      "highlight_words": [
+        "meets",
+        "requirements"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_colloc_deadlines",
+      "grammar_slug": null,
+      "text_target": "We have been informed that the deadline has been moved up, so the team must meet its deadlines sooner than expected.",
+      "translation_form": "Nos han informado que la fecha límite se ha adelantado, así que el equipo debe cumplir sus plazos antes de lo esperado.",
+      "highlight_words": [
+        "meet",
+        "deadlines"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "meet_deadlines_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The project has been scheduled for completion next month, and we are confident we will meet the deadlines.",
+      "translation_form": "El proyecto ha sido programado para completarse el próximo mes, y estamos seguros de que cumpliremos los plazos.",
+      "highlight_words": [
+        "meet",
+        "deadlines"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "meet_requirements_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The prototype has been finished, but it does not meet the requirements for mass production yet.",
+      "translation_form": "El prototipo ha sido terminado, pero aún no cumple los requisitos para la producción en masa.",
+      "highlight_words": [
+        "meet",
+        "requirements"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "passive voice: present perfect passive for recent actions and results",
+      "title_form": "Voz pasiva en presente perfecto para acciones recientes y sus resultados",
+      "title_target": "Present Perfect Passive for Recent Actions and Results",
+      "description_md_form": "La **voz pasiva en presente perfecto** se usa para reportar acciones recientes cuyo resultado es relevante ahora. La estructura es: **has/have + been + participio pasado**. El foco está en la acción y su resultado, no en quién la hizo.\n\n**¿Cuándo usarla?**\n- Para reportar lo que **ya se ha completado** en un proyecto: *The report **has been finished**.*\n- Para describir resultados de acciones recientes: *The software **has been tested**.*\n- Para informar problemas o cambios: *The meeting **has been delayed**.*\n\n**Estructura:**\n- Afirmativo: *The task **has been completed**.*\n- Negativo: *The task **has not been completed**.*\n- Pregunta: ***Has** the task **been completed**?*\n\n**Diferencia con el presente perfecto activo:**\n- Activo: *We have completed the task.* (foco en quién lo hizo)\n- Pasivo: *The task has been completed.* (foco en el resultado)\n\nEn reuniones de estado, esta forma es ideal para reportar avances: *All the requirements **have been met**.*",
+      "description_md_target": "The **present perfect passive** is used to report recent actions whose results are relevant now. The structure is: **has/have + been + past participle**. The focus is on the action and its result, not on who did it.\n\n**When to use it?**\n- To report what **has already been completed** in a project: *The report **has been finished**.*\n- To describe results of recent actions: *The software **has been tested**.*\n- To inform about problems or changes: *The meeting **has been delayed**.*\n\n**Structure:**\n- Affirmative: *The task **has been completed**.*\n- Negative: *The task **has not been completed**.*\n- Question: ***Has** the task **been completed**?*\n\n**Difference from active present perfect:**\n- Active: *We have completed the task.* (focus on who did it)\n- Passive: *The task has been completed.* (focus on the result)\n\nIn status meetings, this form is ideal for reporting progress: *All the requirements **have been met**.*",
+      "grammar_structure": "Subject + has/have + been + past participle (+ by + agent)",
+      "conjugation_table": {
+        "name": "present_perfect_passive",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Negativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "I have been met",
+            "I have not been met",
+            "Have I been met?"
+          ],
+          [
+            "You",
+            "You have been met",
+            "You have not been met",
+            "Have you been met?"
+          ],
+          [
+            "He/She/It",
+            "It has been met",
+            "It has not been met",
+            "Has it been met?"
+          ],
+          [
+            "We",
+            "We have been met",
+            "We have not been met",
+            "Have we been met?"
+          ],
+          [
+            "They",
+            "They have been met",
+            "They have not been met",
+            "Have they been met?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "passive voice: present perfect passive for recent actions and results",
+          "text_target": "All the requirements have been met, so the project can move to the next stage.",
+          "translation_form": "Todos los requisitos han sido cumplidos, así que el proyecto puede pasar a la siguiente etapa.",
+          "highlight_words": [
+            "have been met"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "passive voice: present perfect passive for recent actions and results",
+          "text_target": "The deadline has been met, and the final report has been reviewed.",
+          "translation_form": "El plazo ha sido cumplido, y el informe final ha sido revisado.",
+          "highlight_words": [
+            "has been met",
+            "has been reviewed"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Usa 'been' siempre.** En la voz pasiva del presente perfecto, la estructura es *has/have + been + participio*. No olvides el *been*: *The task has been completed*, no *The task has completed*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No confundas con el activo.** *We have met the deadline* (activo, foco en el equipo) vs. *The deadline has been met* (pasivo, foco en el resultado). En reuniones de estado, el pasivo suena más profesional."
+        },
+        {
+          "type": "warning",
+          "text_md": "**Cuidado con el participio.** *Meet* es irregular: *meet - met - met*. Así que decimos *has been met*, no *has been meeted*."
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar 'been': *The report has reviewed* en lugar de *The report has been reviewed*.",
+        "Usar el participio incorrecto: *has been meeted* en lugar de *has been met*.",
+        "Confundir el foco: usar el activo cuando el resultado es lo importante en una reunión de estado.",
+        "No concordar el auxiliar: *The requirements has been met* en lugar de *The requirements have been met*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'meet deadlines'?",
+      "options": [
+        "Cumplir plazos",
+        "Perder plazos",
+        "Crear plazos",
+        "Ignorar plazos"
+      ],
+      "correct_answer": "Cumplir plazos",
+      "explanation_md": "La frase 'meet deadlines' significa cumplir o respetar los plazos establecidos.",
+      "related_lexeme_ids": [
+        "meet_deadlines_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'meet requirements'?",
+      "options": [
+        "Cumplir requisitos",
+        "Crear requisitos",
+        "Olvidar requisitos",
+        "Cambiar requisitos"
+      ],
+      "correct_answer": "Cumplir requisitos",
+      "explanation_md": "La frase 'meet requirements' significa cumplir o satisfacer los requisitos.",
+      "related_lexeme_ids": [
+        "meet_requirements_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada frase con su traducción:",
+      "options": [
+        "meet deadlines",
+        "Cumplir plazos",
+        "meet requirements",
+        "Cumplir requisitos"
+      ],
+      "correct_answer": [
+        "meet deadlines=Cumplir plazos",
+        "meet requirements=Cumplir requisitos"
+      ],
+      "explanation_md": "Estas frases son esenciales para hablar de proyectos y obligaciones.",
+      "related_lexeme_ids": [
+        "meet_deadlines_phrase",
+        "meet_requirements_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta en voz pasiva del presente perfecto?",
+      "options": [
+        "The report has been finished.",
+        "The report has finished.",
+        "The report is finished.",
+        "The report was finished."
+      ],
+      "correct_answer": "The report has been finished.",
+      "explanation_md": "La voz pasiva en presente perfecto se forma con 'has/have been' + participio pasado.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la forma correcta del verbo en voz pasiva (presente perfecto):",
+      "options": null,
+      "correct_answer": "has been completed",
+      "explanation_md": "La forma correcta es 'has been completed' para reportar que una tarea ha sido completada.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'El proyecto ha sido retrasado.'",
+      "options": null,
+      "correct_answer": "The project has been delayed.",
+      "explanation_md": "Usamos 'has been delayed' para reportar un problema en voz pasiva.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'The meeting has been scheduled for Friday.'",
+      "options": null,
+      "correct_answer": "La reunión ha sido programada para el viernes.",
+      "explanation_md": "La voz pasiva en presente perfecto se usa para reportar un plan.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué ha sido completado y qué ha sido retrasado?",
+      "options": null,
+      "correct_answer": "The first stage has been completed and the second stage has been delayed.",
+      "explanation_md": "El texto dice que la primera etapa ha sido completada y la segunda ha sido retrasada.",
+      "related_lexeme_ids": [
+        "meet_deadlines_phrase",
+        "meet_requirements_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "The team has been working on the new software for three months. The first stage has been completed, and it meets all the requirements that the client specified. However, the second stage has been delayed because some resources were not available. The project manager has scheduled a meeting for next week to discuss the new deadlines. The team believes they can meet the new deadlines if they receive the necessary resources soon.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué el equipo cree que puede cumplir los nuevos plazos?",
+      "options": null,
+      "correct_answer": "Because the budget has been approved.",
+      "explanation_md": "El texto dice que el presupuesto ha sido aprobado, por lo que el equipo puede cumplir los plazos.",
+      "related_lexeme_ids": [
+        "meet_deadlines_phrase",
+        "meet_requirements_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "The marketing team has been preparing the launch of a new product. The design has been finished, and it has been approved by the manager. The final report has been reviewed, and it meets the requirements for the next stage. The team has been waiting for the budget to be approved. Fortunately, the budget has been approved today, so the team can now meet the deadlines. The launch has been scheduled for the first of May.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué ha sido completado y qué ha sido retrasado?",
+      "options": null,
+      "correct_answer": "The foundation has been completed and the installation of the windows has been delayed.",
+      "explanation_md": "El texto dice que los cimientos han sido completados y la instalación de las ventanas ha sido retrasada.",
+      "related_lexeme_ids": [
+        "meet_deadlines_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "The construction project has been progressing well. The foundation has been completed, and it meets all the safety requirements. However, the installation of the windows has been delayed because the materials have not been delivered. The project manager has been negotiating with the supplier to get the materials sooner. The new deadline has been scheduled for the end of the month. The team is confident they can meet the deadlines if the materials arrive on time.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué ha sido completado?",
+      "options": [
+        "The design has been completed.",
+        "The testing has been completed.",
+        "The final version has been completed.",
+        "The website has been completed."
+      ],
+      "correct_answer": "The design has been completed.",
+      "explanation_md": "El audio dice que el diseño ha sido completado.",
+      "related_lexeme_ids": [
+        "meet_deadlines_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The team has been working on the new website. The design has been completed and it looks great. The developer has been testing the site all week. The final version has been scheduled for next Monday. The team is happy because they have met all the deadlines so far.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Por qué la reunión ha sido retrasada?",
+      "options": [
+        "Because the final report has not been finished.",
+        "Because the manager is not available.",
+        "Because the team is on vacation.",
+        "Because the data has been lost."
+      ],
+      "correct_answer": "Because the final report has not been finished.",
+      "explanation_md": "El audio dice que la reunión ha sido retrasada porque el informe final no ha sido terminado.",
+      "related_lexeme_ids": [
+        "meet_deadlines_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The project meeting has been delayed until next week. The manager has been waiting for the final report. The report has not been finished yet because some data is missing. The team has been working hard to complete it. They hope to meet the new deadline.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué ha sido aprobado?",
+      "options": [
+        "The new project has been approved.",
+        "The budget has been approved.",
+        "The first stage has been approved.",
+        "The requirements have been approved."
+      ],
+      "correct_answer": "The new project has been approved.",
+      "explanation_md": "El audio dice que el nuevo proyecto ha sido aprobado.",
+      "related_lexeme_ids": [
+        "meet_requirements_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The new project has been approved by the board. The budget has been scheduled for review next week. The team has been preparing the first stage. They have been working to meet all the requirements. The manager is confident they can meet the deadlines.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre un proyecto en tu trabajo o estudios. Usá la voz pasiva en presente perfecto (has/have been + participio) y las frases 'meet deadlines' o 'meet requirements'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de la voz pasiva en presente perfecto y las frases de la lección.",
+      "related_lexeme_ids": [
+        "meet_deadlines_phrase",
+        "meet_requirements_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "The report has been finished and it meets all the requirements.",
+        "The project has been delayed, but we can meet the new deadlines.",
+        "The first stage has been completed and the team has been working hard."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "free_production",
+      "prompt_md": "Imaginá que sos el líder de un proyecto. Escribí 2-3 oraciones para actualizar a tu equipo sobre el progreso. Usá la voz pasiva en presente perfecto.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la capacidad de reportar acciones recientes usando la voz pasiva en presente perfecto.",
+      "related_lexeme_ids": [
+        "meet_requirements_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "The design has been completed and it has been approved.",
+        "The resources have been scheduled for next week.",
+        "The final report has been reviewed and it meets the requirements."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_016",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre un proyecto que haya tenido problemas. Usá 'has been delayed' y explica cómo el equipo puede 'meet the deadlines'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de la voz pasiva para reportar problemas y soluciones.",
+      "related_lexeme_ids": [
+        "meet_deadlines_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "The launch has been delayed because the materials have not arrived.",
+        "The team has been working extra hours to meet the deadlines.",
+        "The new schedule has been approved and we can meet the requirements."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "meet deadlines",
+      "back": "cumplir los plazos",
+      "hint": "se usa en contextos de trabajo y proyectos",
+      "lexeme_id": "meet_deadlines_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "meet requirements",
+      "back": "cumplir los requisitos",
+      "hint": "se usa para hablar de condiciones o estándares",
+      "lexeme_id": "meet_requirements_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "The team must meet its deadlines.",
+      "back": "El equipo debe cumplir sus plazos.",
+      "hint": "frase completa con verbo modal",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_colloc_deadlines",
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "progress",
+      "back": "progreso, avance",
+      "hint": "tema principal de una reunión de estado",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "progress",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "deadline",
+      "back": "plazo, fecha límite",
+      "hint": "restricción clave en un proyecto",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "deadline",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "task",
+      "back": "tarea",
+      "hint": "unidad de trabajo que se sigue",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "task",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "milestone",
+      "back": "hito, logro importante",
+      "hint": "punto significativo en la línea de tiempo",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "milestone",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "stage",
+      "back": "etapa, fase",
+      "hint": "fase de un proyecto",
+      "lexeme_id": "stage",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "target",
+      "back": "objetivo, meta",
+      "hint": "resultado esperado",
+      "lexeme_id": "target",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "resource",
+      "back": "recurso",
+      "hint": "persona, material o herramienta",
+      "lexeme_id": "resource",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "update",
+      "back": "actualización, informe de novedades",
+      "hint": "función principal de la reunión",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "update",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "complete",
+      "back": "completar, terminar",
+      "hint": "describe el estado de una tarea",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "complete",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "set up",
+      "back": "preparar, configurar",
+      "hint": "acción de preparar un sistema o recurso",
+      "lexeme_id": "set_up_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_008",
+        "B2",
+        "work"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "has been finished",
+      "back": "ha sido terminado",
+      "hint": "present perfect passive",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "has been finished",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "has been completed",
+      "back": "ha sido completado",
+      "hint": "present perfect passive",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "has been completed",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_016",
+      "front": "has been delayed",
+      "back": "ha sido retrasado",
+      "hint": "present perfect passive",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "has been delayed",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_017",
+      "front": "has been scheduled",
+      "back": "ha sido programado",
+      "hint": "present perfect passive",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "has been scheduled",
+      "tags": [
+        "lesson_008",
+        "B2",
+        "grammar"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "meet deadlines",
+      "reading": "",
+      "translation": "cumplir los plazos",
+      "pos": "phrase",
+      "example": "We have been working on this project for three months, and so far we have managed to meet all our deadlines.",
+      "example_translation": "Hemos estado trabajando en este proyecto durante tres meses, y hasta ahora hemos logrado cumplir todos nuestros plazos.",
+      "lexeme_id": "meet_deadlines_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "meet requirements",
+      "reading": "",
+      "translation": "cumplir los requisitos",
+      "pos": "phrase",
+      "example": "The new software has been tested, and it meets all the requirements that the client specified.",
+      "example_translation": "El nuevo software ha sido probado, y cumple todos los requisitos que el cliente especificó.",
+      "lexeme_id": "meet_requirements_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "The team must meet its deadlines.",
+      "reading": "",
+      "translation": "El equipo debe cumplir sus plazos.",
+      "pos": "chunk",
+      "example": "The team must meet its deadlines, otherwise the whole project will be delayed.",
+      "example_translation": "El equipo debe cumplir sus plazos, de lo contrario todo el proyecto se retrasará.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_colloc_deadlines"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "progress",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "progreso",
+      "lexeme_id": "progress",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "passive voice: present perfect passive for recent actions and results",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "deadline",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "fecha límite",
+      "lexeme_id": "deadline",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_006",
+        "passive voice: present perfect passive for recent actions and results",
+        "ex_010",
+        "ex_012",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_009",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "task",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "faena / labor / tarea",
+      "lexeme_id": "task",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "passive voice: present perfect passive for recent actions and results",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "milestone",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "stage",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "etapa",
+      "lexeme_id": "stage",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_005",
+        "passive voice: present perfect passive for recent actions and results",
+        "ex_008",
+        "ex_009",
+        "ex_013",
+        "ex_014",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "target",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "objetivo",
+      "lexeme_id": "target",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "resource",
+      "role": "topic",
+      "status": "introduced",
+      "translation": "recurso",
+      "lexeme_id": "resource",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "update",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "actualizar / actualización",
+      "lexeme_id": "update",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "complete",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "completo",
+      "lexeme_id": "complete",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "ex_012",
+        "fc_012",
+        "quiz_001:q_007",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "set up",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "montar / instalar",
+      "lexeme_id": "set_up_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_013",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "has been finished",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_008",
+        "passive voice: present perfect passive for recent actions and results",
+        "ex_009",
+        "ex_014",
+        "fc_014",
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "has been completed",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "passive voice: present perfect passive for recent actions and results",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "ex_014",
+        "ex_015",
+        "fc_015",
+        "quiz_001:q_001",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "has been delayed",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "passive voice: present perfect passive for recent actions and results",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "ex_014",
+        "ex_016",
+        "fc_016",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "has been scheduled",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "fc_017",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "meet deadlines",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cumplir los plazos",
+      "lexeme_id": "meet_deadlines_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "exm_007",
+        "ex_001",
+        "ex_003",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_014",
+        "ex_016",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "meet requirements",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cumplir los requisitos",
+      "lexeme_id": "meet_requirements_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "exm_005",
+        "exm_008",
+        "ex_002",
+        "ex_003",
+        "ex_008",
+        "ex_009",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "The team must meet its deadlines.",
+      "role": "support",
+      "status": "introduced",
+      "translation": "El equipo debe cumplir sus plazos.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_b2_colloc_deadlines",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "exm_006",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "meet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conocer / encontrar a alguien",
+      "lexeme_id": "meet_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_003",
+        "exm_004",
+        "exm_005",
+        "exm_006",
+        "exm_007",
+        "exm_008",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "fc_001",
+        "fc_002",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "exm_004",
+        "exm_005",
+        "exm_007",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "team",
+      "role": "support",
+      "status": "emergent",
+      "translation": "equipo",
+      "lexeme_id": "team",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_004",
+        "exm_006",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_016",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "ex_016",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "yet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "todavía / aún (negativo e interrogativo)",
+      "lexeme_id": "yet_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "final",
+      "role": "support",
+      "status": "emergent",
+      "translation": "final",
+      "lexeme_id": "final_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_015"
+      ]
+    },
+    {
+      "term": "client",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cliente",
+      "lexeme_id": "client",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_008",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "confident",
+      "role": "support",
+      "status": "emergent",
+      "translation": "confianza",
+      "lexeme_id": "confident",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_010",
+        "ex_013",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "on time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "a tiempo / puntual",
+      "lexeme_id": "on_time_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "far",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lejos",
+      "lexeme_id": "far_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "expect",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar / prever",
+      "lexeme_id": "expect_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "deliver",
+      "role": "support",
+      "status": "emergent",
+      "translation": "entregar",
+      "lexeme_id": "deliver",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "production",
+      "role": "support",
+      "status": "emergent",
+      "translation": "producto / producción / presentación",
+      "lexeme_id": "production",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "otherwise",
+      "role": "support",
+      "status": "emergent",
+      "translation": "de otra manera",
+      "lexeme_id": "otherwise_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "inform",
+      "role": "support",
+      "status": "emergent",
+      "translation": "avisar / advertir / anunciar",
+      "lexeme_id": "inform_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "prototype",
+      "role": "support",
+      "status": "emergent",
+      "translation": "prototipo",
+      "lexeme_id": "prototype",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "mass",
+      "role": "support",
+      "status": "emergent",
+      "translation": "masa",
+      "lexeme_id": "mass",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "manager",
+      "role": "support",
+      "status": "emergent",
+      "translation": "gerente / director/a",
+      "lexeme_id": "manager",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "design",
+      "role": "support",
+      "status": "emergent",
+      "translation": "diseñar",
+      "lexeme_id": "design_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "prepare",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preparar",
+      "lexeme_id": "prepare_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "budget",
+      "role": "support",
+      "status": "emergent",
+      "translation": "presupuesto",
+      "lexeme_id": "budget",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_013",
+        "quiz_001:q_002",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "launch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lancha / lanzamiento",
+      "lexeme_id": "launch",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_016",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "believe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "creer",
+      "lexeme_id": "believe_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "wait",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "arrive",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llegar",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_016"
+      ]
+    },
+    {
+      "term": "order",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ordenar / pedir",
+      "lexeme_id": "order_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "hour",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora",
+      "lexeme_id": "hour",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_016",
+        "quiz_001:q_001"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 14,
+    "lexical_target_count": 10,
+    "covered_lexical_target_count": 10,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 3,
+    "review_support_count": 0,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "meet",
+      "project",
+      "team",
+      "work",
+      "yet",
+      "final",
+      "client",
+      "confident",
+      "time",
+      "on time",
+      "far",
+      "expect",
+      "deliver",
+      "production",
+      "otherwise",
+      "inform",
+      "prototype",
+      "mass",
+      "manager",
+      "week",
+      "design",
+      "prepare",
+      "budget",
+      "word",
+      "main",
+      "launch",
+      "believe",
+      "ask",
+      "wait",
+      "arrive",
+      "order",
+      "hour"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Discussing project progress and deadlines",
+      "title_target": "Quiz: Discussing project progress and deadlines",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué ha sido completado según el informe?",
+          "prompt_target": "Read the text and answer: What has been completed according to the report?",
+          "options": [
+            "The design phase and the main pages",
+            "The payment system",
+            "The testing phase",
+            "The final report"
+          ],
+          "correct_answer": "The design phase and the main pages",
+          "explanation_form": "El texto dice que la fase de diseño ha sido terminada y las páginas principales han sido creadas. El sistema de pago no ha sido configurado todavía.",
+          "explanation_target": "The text says the design phase has been finished and the main pages have been created. The payment system has not been set up yet.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_deadlines_phrase",
+            "chunk_b2_colloc_deadlines",
+            "passive_voice_present_perfect"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "The project team has been working on the new website for three months. The design phase has been finished, and the main pages have been created. However, the payment system has not been set up yet. The team has also prepared a detailed report about the progress. In the report, they explain that the testing phase has been scheduled for next week. The manager has reviewed the report and has asked for some changes. She has suggested that the team focus on the payment system first. The deadline has been moved to the end of the month because of the delay. The team has agreed to work extra hours to meet the new deadline. They have also requested more resources to speed up the process. Everyone believes that the project will be successful if they meet the requirements.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "reading_comprehension",
+          "prompt_form": "Según el texto, ¿por qué se movió la fecha límite?",
+          "prompt_target": "According to the text, why was the deadline moved?",
+          "options": [
+            "Because the product is not ready",
+            "Because the manager is on vacation",
+            "Because the budget was reduced",
+            "Because the campaign was approved"
+          ],
+          "correct_answer": "Because the product is not ready",
+          "explanation_form": "El texto dice que la fecha de lanzamiento fue cambiada porque el producto no está listo.",
+          "explanation_target": "The text says the launch date was changed because the product is not ready.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_deadlines_phrase",
+            "chunk_b2_colloc_deadlines"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "The marketing team has been preparing the launch of a new product. They have completed the market research and have identified the main competitors. The advertising campaign has been designed, but it has not been approved yet. The team has had some problems with the budget, so they have requested more money. The manager has not responded to their request yet. The launch date has been changed because the product is not ready. The team has been working on the packaging, but it has not been finished. They have also been testing the product with some customers. The results have been positive, but there are still some issues. The team has promised to solve the issues before the new deadline. They have also hired a new designer to help with the packaging. The project has been delayed, but the team is confident that they will meet the new deadline.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué ha sido terminado?",
+          "prompt_target": "Listen and answer: What has been finished?",
+          "options": [
+            "The main features",
+            "The design",
+            "The progress report",
+            "The client's changes"
+          ],
+          "correct_answer": "The main features",
+          "explanation_form": "El transcript dice que las funciones principales han sido desarrolladas, pero el diseño no ha sido actualizado todavía.",
+          "explanation_target": "The transcript says the main features have been developed, but the design has not been updated yet.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_deadlines_phrase",
+            "chunk_b2_colloc_deadlines",
+            "passive_voice_present_perfect"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The team has been working on the new app. The main features have been developed, but the design has not been updated yet. The manager has asked for a progress report. The report has been prepared and sent to the client. The client has requested some changes to the interface. The team has agreed to make the changes next week. The deadline has been extended by two weeks.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué ha sido solicitado por el cliente?",
+          "prompt_target": "Listen and answer: What has been requested by the client?",
+          "options": [
+            "More details about the budget",
+            "A visit to the site",
+            "A new deadline",
+            "A progress report"
+          ],
+          "correct_answer": "More details about the budget",
+          "explanation_form": "El transcript dice que el cliente ha solicitado más detalles sobre el presupuesto.",
+          "explanation_target": "The transcript says the client has requested more details about the budget.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_requirements_phrase",
+            "chunk_b2_colloc_deadlines"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The construction project has been running for six months. The first phase has been completed, and the second phase has been started. The client has visited the site and has reviewed the progress. He has requested more details about the budget. The project manager has promised to send the details tomorrow. The team has been working hard to meet the deadline. The deadline has been set for the end of the year.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "has",
+            "The",
+            "deadline",
+            "been",
+            "moved",
+            "already"
+          ],
+          "correct_answer": "The deadline has already been moved",
+          "explanation_form": "La forma correcta es 'The deadline has already been moved' (La fecha límite ya ha sido movida).",
+          "explanation_target": "The correct form is 'The deadline has already been moved'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_deadlines_phrase",
+            "chunk_b2_colloc_deadlines",
+            "passive_voice_present_perfect"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "requirements",
+            "The",
+            "have",
+            "been",
+            "met",
+            "all"
+          ],
+          "correct_answer": "All the requirements have been met",
+          "explanation_form": "La forma correcta es 'All the requirements have been met' (Todos los requisitos han sido cumplidos).",
+          "explanation_target": "The correct form is 'All the requirements have been met'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_requirements_phrase",
+            "passive_voice_present_perfect"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'The project ____ been completed on time.'",
+          "prompt_target": "Complete the sentence: 'The project ____ been completed on time.'",
+          "options": null,
+          "correct_answer": "has",
+          "explanation_form": "En la voz pasiva con 'project' (singular), usamos 'has' + 'been' + participio pasado.",
+          "explanation_target": "In the passive voice with 'project' (singular), we use 'has' + 'been' + past participle.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "passive_voice_present_perfect"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'The report ____ been reviewed by the manager.'",
+          "prompt_target": "Complete the sentence: 'The report ____ been reviewed by the manager.'",
+          "options": null,
+          "correct_answer": "has",
+          "explanation_form": "Con 'report' (singular), usamos 'has' + 'been' + participio pasado.",
+          "explanation_target": "With 'report' (singular), we use 'has' + 'been' + past participle.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "passive_voice_present_perfect"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta en voz pasiva?",
+          "prompt_target": "Which is the correct passive form?",
+          "options": [
+            "The deadline has been met",
+            "The deadline has met",
+            "The deadline has been meet",
+            "The deadline have been met"
+          ],
+          "correct_answer": "The deadline has been met",
+          "explanation_form": "La voz pasiva en presente perfecto es 'has/have + been + participio pasado'. Con 'deadline' (singular), usamos 'has'.",
+          "explanation_target": "The present perfect passive is 'has/have + been + past participle'. With 'deadline' (singular), we use 'has'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_deadlines_phrase",
+            "passive_voice_present_perfect"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta en voz pasiva?",
+          "prompt_target": "Which is the correct passive form?",
+          "options": [
+            "The requirements have been met",
+            "The requirements has been met",
+            "The requirements have been meet",
+            "The requirements have met"
+          ],
+          "correct_answer": "The requirements have been met",
+          "explanation_form": "Con 'requirements' (plural), usamos 'have' + 'been' + participio pasado.",
+          "explanation_target": "With 'requirements' (plural), we use 'have' + 'been' + past participle.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_requirements_phrase",
+            "passive_voice_present_perfect"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "matching",
+          "prompt_form": "Empareja cada expresión con su significado:",
+          "prompt_target": "Match each expression with its meaning:",
+          "options": [
+            "meet the deadline",
+            "cumplir con la fecha límite",
+            "meet the requirements",
+            "cumplir con los requisitos"
+          ],
+          "correct_answer": [
+            "meet the deadline=cumplir con la fecha límite",
+            "meet the requirements=cumplir con los requisitos"
+          ],
+          "explanation_form": "Estas son las dos expresiones clave de la lección: 'meet the deadline' y 'meet the requirements'.",
+          "explanation_target": "These are the two key expressions of the lesson: 'meet the deadline' and 'meet the requirements'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_deadlines_phrase",
+            "meet_requirements_phrase"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "deadline",
+            "fecha límite",
+            "requirements",
+            "requisitos"
+          ],
+          "correct_answer": [
+            "deadline=fecha límite",
+            "requirements=requisitos"
+          ],
+          "explanation_form": "Estas son las palabras clave del vocabulario de la lección.",
+          "explanation_target": "These are the key vocabulary words of the lesson.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meet_deadlines_phrase",
+            "meet_requirements_phrase"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El presente perfecto pasivo en reuniones de proyecto\n\nEn una reunión de estado, el presente perfecto pasivo (has/have been + participio) es tu mejor aliado para reportar acciones recientes sin nombrar quién las hizo. Es natural y profesional: *The report has been finished* suena mejor que *I finished the report*.\n\n**Errores comunes:**\n- No digas *The report has been finished by us* — el pasivo en inglés evita el agente cuando no aporta información.\n- Cuidado con la concordancia: *The tasks have been completed* (plural) vs. *The deadline has been met* (singular).\n\n## Colocaciones clave: meet deadlines y meet requirements\n\nEstas dos frases son colocaciones fijas que los nativos usan constantemente. *Meet* aquí significa 'cumplir', no 'encontrarse con'. Memorízalas como bloques: *meet the deadline*, *meet the requirements*.\n\n**Tip mnemotécnico:** piensa en *meet* como 'llegar a la altura de' — llegas a la altura de la fecha límite o de los requisitos. En el pasivo: *The deadline has been met* (se ha cumplido el plazo).",
+  "metadata": {
+    "generated_at": "2026-08-31T01:27:49Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

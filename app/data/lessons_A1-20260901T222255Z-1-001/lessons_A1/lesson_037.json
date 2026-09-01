@@ -1,0 +1,1479 @@
+{
+  "id": "lesson_037",
+  "position": 37,
+  "unit_id": 6,
+  "course_id": "en.A1",
+  "title_form": "Deseos con want to",
+  "title_target": "Expressing Wishes with Want To",
+  "theme_focus": "Expresar deseos y necesidades usando want to.",
+  "learning_objectives": [
+    "Can express wishes using 'want to'.",
+    "Can ask about someone's wishes."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_036"
+  ],
+  "grammar_focus": [
+    "want + infinitive: affirmative (I want to ...) and questions (Do you want to ...?)"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "eat_verb",
+        "drink_verb",
+        "talk_verb",
+        "wash_verb",
+        "dress_verb",
+        "choose_verb",
+        "wait_verb",
+        "hope_verb"
+      ],
+      "chunk_ids": [
+        "chunk_i_want_to",
+        "chunk_a1_i_hope_to_see_you_soon",
+        "chunk_do_you_want_to"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "go_verb",
+        "come_verb",
+        "buy_verb",
+        "travel_verb",
+        "visit_verb",
+        "want_verb",
+        "need_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana está en un café con su amigo Tom. Quieren decidir qué hacer: comer algo, tomar un café o simplemente hablar. Ana pregunta qué quiere Tom y él responde. Luego, Ana piensa en sus planes para el día y expresa sus deseos.",
+  "introduction_md": "En esta lección vas a aprender a expresar tus deseos y necesidades en inglés usando **want to**. Es una estructura muy útil para la vida diaria: pedir comida, hablar de planes o preguntar qué quiere otra persona.\n\nVas a practicar:\n- **I want to...** (Yo quiero...)\n- **Do you want to...?** (¿Quieres...?)\n- Verbos comunes como *eat*, *drink*, *talk*, *wait* y más.\n\nCon esto podrás comunicar lo que quieres hacer y entender lo que otros quieren. ¡Vamos a empezar!",
+  "intro_target": "In this lesson, you will learn to express your wishes and needs in English using **want to**. It is a very useful structure for daily life: ordering food, talking about plans, or asking what another person wants.\n\nYou will practice:\n- **I want to...**\n- **Do you want to...?**\n- Common verbs like *eat*, *drink*, *talk*, *wait* and more.\n\nWith this, you can communicate what you want to do and understand what others want. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_want_to",
+      "grammar_slug": null,
+      "text_target": "I want to eat a salad.",
+      "translation_form": "Quiero comer una ensalada.",
+      "highlight_words": [
+        "want",
+        "eat"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_want_to",
+      "grammar_slug": null,
+      "text_target": "Do you want to drink coffee?",
+      "translation_form": "¿Quieres beber café?",
+      "highlight_words": [
+        "want",
+        "drink"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I want to talk to my friend.",
+      "translation_form": "Quiero hablar con mi amigo.",
+      "highlight_words": [
+        "want",
+        "talk"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "wash_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Do you want to wash the car?",
+      "translation_form": "¿Quieres lavar el coche?",
+      "highlight_words": [
+        "want",
+        "wash"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a1_i_hope_to_see_you_soon",
+      "grammar_slug": null,
+      "text_target": "I hope to see you soon.",
+      "translation_form": "Espero verte pronto.",
+      "highlight_words": [
+        "hope",
+        "see"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "dress_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I want to dress and go to the park.",
+      "translation_form": "Quiero vestirme e ir al parque.",
+      "highlight_words": [
+        "want",
+        "dress",
+        "go"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "want + infinitive: affirmative (I want to ...) and questions (Do you want to ...?)",
+      "title_form": "Querer + infinitivo: afirmativo y preguntas",
+      "title_target": "Want + Infinitive: Affirmative and Questions",
+      "description_md_form": "Para expresar un deseo, usamos **want to** + verbo en infinitivo. La estructura es simple: **sujeto + want to + verbo**. Por ejemplo: *I want to eat a salad.* (Quiero comer una ensalada).\n\nPara preguntar sobre los deseos de otra persona, usamos **Do you want to...?** al inicio de la pregunta. Por ejemplo: *Do you want to drink coffee?* (¿Quieres beber café?).\n\n**Importante:** el verbo después de *want to* siempre va en su forma base (sin *to* adicional ni cambios). No decimos *I want to eating* ni *I want eat*. La forma *want to* es fija para todas las personas: I, you, we, they.",
+      "description_md_target": "To express a wish, we use **want to** + verb in the infinitive. The structure is simple: **subject + want to + verb**. For example: *I want to eat a salad.*\n\nTo ask about someone's wishes, we use **Do you want to...?** at the start of the question. For example: *Do you want to drink coffee?*\n\n**Important:** the verb after *want to* always goes in its base form. We don't say *I want to eating* or *I want eat*. The form *want to* is fixed for all persons: I, you, we, they.",
+      "grammar_structure": "Subject + want to + base verb (affirmative) / Do + subject + want to + base verb? (question)",
+      "conjugation_table": {
+        "name": "want_to_present",
+        "headers": [
+          "Pronombre",
+          "Afirmativo",
+          "Pregunta"
+        ],
+        "rows": [
+          [
+            "I",
+            "I want to eat.",
+            "Do I want to eat?"
+          ],
+          [
+            "You",
+            "You want to drink.",
+            "Do you want to drink?"
+          ],
+          [
+            "We",
+            "We want to talk.",
+            "Do we want to talk?"
+          ],
+          [
+            "They",
+            "They want to wash.",
+            "Do they want to wash?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "want + infinitive: affirmative (I want to ...) and questions (Do you want to ...?)",
+          "text_target": "I want to eat a salad.",
+          "translation_form": "Quiero comer una ensalada.",
+          "highlight_words": [
+            "want",
+            "to",
+            "eat"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "want + infinitive: affirmative (I want to ...) and questions (Do you want to ...?)",
+          "text_target": "Do you want to drink coffee?",
+          "translation_form": "¿Quieres beber café?",
+          "highlight_words": [
+            "do",
+            "you",
+            "want",
+            "to",
+            "drink"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Piensa en *want to* como una sola unidad.** No la separes: *I want to eat*, no *I want eat*. El *to* es parte de la expresión."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No digas *I want eat*.** En español decimos *quiero comer* sin *to*, pero en inglés el *to* es obligatorio: *I want **to** eat*."
+        },
+        {
+          "type": "warning",
+          "text_md": "**En preguntas, *do* va al inicio.** No digas *You want to drink coffee?* (aunque se entiende, no es natural). Usa *Do you want to drink coffee?*"
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar el *to*: *I want eat* en lugar de *I want to eat*.",
+        "Usar *want* con gerundio: *I want eating* en lugar de *I want to eat*.",
+        "Formar la pregunta sin *do*: *You want to drink?* en lugar de *Do you want to drink?*.",
+        "Confundir *want* (querer) con *need* (necesitar): *I want to eat* expresa deseo, *I need to eat* expresa necesidad."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'I want to eat'?",
+      "options": [
+        "Quiero comer",
+        "Quiero beber",
+        "Quiero hablar",
+        "Quiero dormir"
+      ],
+      "correct_answer": "Quiero comer",
+      "explanation_md": "'I want to eat' significa 'Quiero comer'. Usamos 'want to' + verbo para expresar deseos.",
+      "related_lexeme_ids": [
+        "eat_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_want_to"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'Do you want to drink coffee?'",
+      "options": [
+        "¿Quieres beber café?",
+        "¿Quieres comer café?",
+        "¿Quieres comprar café?",
+        "¿Quieres beber agua?"
+      ],
+      "correct_answer": "¿Quieres beber café?",
+      "explanation_md": "'Do you want to drink coffee?' es la pregunta '¿Quieres beber café?'. 'Do you want to...' se usa para preguntar por deseos.",
+      "related_lexeme_ids": [
+        "drink_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_do_you_want_to"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'I want to ____ to my friend.'",
+      "options": [
+        "talk",
+        "eat",
+        "wash",
+        "wait"
+      ],
+      "correct_answer": "talk",
+      "explanation_md": "'Talk to my friend' significa 'hablar con mi amigo'. 'Talk' es el verbo correcto para hablar con alguien.",
+      "related_lexeme_ids": [
+        "talk_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_want_to"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la pregunta correcta para invitar a alguien a comer?",
+      "options": [
+        "Do you want to eat?",
+        "I want to eat.",
+        "You want to eat.",
+        "Do you eat?"
+      ],
+      "correct_answer": "Do you want to eat?",
+      "explanation_md": "Para invitar a alguien usamos 'Do you want to...?' + verbo. 'Do you want to eat?' significa '¿Quieres comer?'.",
+      "related_lexeme_ids": [
+        "eat_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_do_you_want_to"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con el verbo correcto: 'I want to ____ the car.' (lavar)",
+      "options": null,
+      "correct_answer": "wash",
+      "explanation_md": "'Wash the car' significa 'lavar el coche'. 'Wash' es el verbo para lavar.",
+      "related_lexeme_ids": [
+        "wash_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_want_to"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la pregunta: '____ you want to choose a movie?'",
+      "options": null,
+      "correct_answer": "Do",
+      "explanation_md": "Para formar preguntas con 'want to' usamos 'Do' al principio: 'Do you want to...?'.",
+      "related_lexeme_ids": [
+        "choose_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_do_you_want_to"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Quiero hablar con mi amigo.'",
+      "options": null,
+      "correct_answer": "I want to talk to my friend.",
+      "explanation_md": "La estructura es 'I want to' + verbo + complemento. 'Talk to my friend' = 'hablar con mi amigo'.",
+      "related_lexeme_ids": [
+        "talk_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_want_to"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: '¿Quieres beber café?'",
+      "options": null,
+      "correct_answer": "Do you want to drink coffee?",
+      "explanation_md": "Para preguntar usamos 'Do you want to' + verbo. 'Drink coffee' = 'beber café'.",
+      "related_lexeme_ids": [
+        "drink_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_do_you_want_to"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "matching",
+      "prompt_md": "Empareja cada verbo con su significado:",
+      "options": [
+        "eat",
+        "comer",
+        "drink",
+        "beber",
+        "talk",
+        "hablar",
+        "wait",
+        "esperar"
+      ],
+      "correct_answer": [
+        "eat=comer",
+        "drink=beber",
+        "talk=hablar",
+        "wait=esperar"
+      ],
+      "explanation_md": "Estos son verbos de acción cotidianos. 'Eat' es comer, 'drink' es beber, 'talk' es hablar y 'wait' es esperar.",
+      "related_lexeme_ids": [
+        "eat_verb",
+        "drink_verb",
+        "talk_verb",
+        "wait_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿qué quiere hacer Ana?",
+      "options": null,
+      "correct_answer": "Ana wants to eat a salad and watch a movie.",
+      "explanation_md": "El texto dice que Ana quiere comer una ensalada y ver una película.",
+      "related_lexeme_ids": [
+        "eat_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_want_to",
+        "chunk_do_you_want_to"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is at home. She is tired. She wants to eat a salad for dinner. After dinner, she wants to watch a movie. Her friend calls her. Ana says, 'Do you want to come to my house? We can watch a movie together.' Her friend says yes. Ana is happy.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿qué quiere hacer Tom?",
+      "options": [
+        "Tom wants to play tennis.",
+        "Tom wants to play football.",
+        "Tom wants to go home."
+      ],
+      "correct_answer": "Tom wants to play football.",
+      "explanation_md": "Tom dice 'I want to play football', así que quiere jugar al fútbol.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_i_want_to",
+        "chunk_do_you_want_to"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom is at the park. He is with his friend. Tom says, I want to play football. His friend says, Do you want to play tennis? Tom says no. He wants to play football.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre lo que quieres hacer hoy. Usá 'I want to...' y verbos de la lección (eat, drink, talk, wash, dress, choose, wait, hope).",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'I want to' + verbo en infinitivo para expresar deseos.",
+      "related_lexeme_ids": [
+        "eat_verb",
+        "drink_verb",
+        "talk_verb"
+      ],
+      "related_chunk_ids": [
+        "chunk_i_want_to"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I want to eat a salad.",
+        "I want to talk to my friend.",
+        "I want to drink coffee."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "eat",
+      "back": "comer",
+      "hint": "acción con la comida",
+      "lexeme_id": "eat_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "drink",
+      "back": "beber",
+      "hint": "acción con líquidos",
+      "lexeme_id": "drink_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "talk",
+      "back": "hablar",
+      "hint": "conversar con alguien",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "communication"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "wash",
+      "back": "lavar(se)",
+      "hint": "limpiar con agua",
+      "lexeme_id": "wash_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "dress",
+      "back": "vestir(se)",
+      "hint": "ponerse ropa",
+      "lexeme_id": "dress_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "choose",
+      "back": "elegir",
+      "hint": "decidir entre opciones",
+      "lexeme_id": "choose_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "wait",
+      "back": "esperar",
+      "hint": "quedarse hasta que algo pase",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "hope",
+      "back": "esperar (desear)",
+      "hint": "tener esperanza",
+      "lexeme_id": "hope_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "I want to ...",
+      "back": "Quiero ...",
+      "hint": "para expresar deseos",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_want_to",
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "Do you want to ...?",
+      "back": "¿Quieres ...?",
+      "hint": "para hacer una pregunta",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_want_to",
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "I hope to see you soon.",
+      "back": "Espero verte pronto.",
+      "hint": "despedida con esperanza",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a1_i_hope_to_see_you_soon",
+      "target_term": null,
+      "tags": [
+        "lesson_037",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "eat",
+      "reading": "",
+      "translation": "comer",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "eat_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "drink",
+      "reading": "",
+      "translation": "beber",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "drink_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "talk",
+      "reading": "",
+      "translation": "hablar",
+      "pos": "verb",
+      "example": "I want to talk to my friend.",
+      "example_translation": "Quiero hablar con mi amigo.",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "wash",
+      "reading": "",
+      "translation": "lavar(se)",
+      "pos": "verb",
+      "example": "Do you want to wash the car?",
+      "example_translation": "¿Quieres lavar el coche?",
+      "lexeme_id": "wash_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "dress",
+      "reading": "",
+      "translation": "vestir(se)",
+      "pos": "verb",
+      "example": "I want to dress and go to the park.",
+      "example_translation": "Quiero vestirme e ir al parque.",
+      "lexeme_id": "dress_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "choose",
+      "reading": "",
+      "translation": "elegir",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "choose_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "wait",
+      "reading": "",
+      "translation": "esperar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "hope",
+      "reading": "",
+      "translation": "esperar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "hope_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "I want to ...",
+      "reading": "",
+      "translation": "Quiero ...",
+      "pos": "chunk",
+      "example": "I want to eat a salad.",
+      "example_translation": "Quiero comer una ensalada.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_want_to"
+    },
+    {
+      "target_word": "I hope to see you soon.",
+      "reading": "",
+      "translation": "Expresar un deseo o esperanza.",
+      "pos": "chunk",
+      "example": "I hope to see you soon.",
+      "example_translation": "Espero verte pronto.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a1_i_hope_to_see_you_soon"
+    },
+    {
+      "target_word": "Do you want to ...?",
+      "reading": "",
+      "translation": "¿Quieres ...?",
+      "pos": "chunk",
+      "example": "Do you want to drink coffee?",
+      "example_translation": "¿Quieres beber café?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_want_to"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "eat",
+      "role": "support",
+      "status": "practiced",
+      "translation": "comer",
+      "lexeme_id": "eat_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_004",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "drink",
+      "role": "support",
+      "status": "practiced",
+      "translation": "beber",
+      "lexeme_id": "drink_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_002",
+        "ex_008",
+        "ex_009",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "practiced",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_007",
+        "ex_009",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "wash",
+      "role": "support",
+      "status": "practiced",
+      "translation": "lavar(se)",
+      "lexeme_id": "wash_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_005",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "dress",
+      "role": "support",
+      "status": "introduced",
+      "translation": "vestir(se)",
+      "lexeme_id": "dress_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "choose",
+      "role": "support",
+      "status": "practiced",
+      "translation": "elegir",
+      "lexeme_id": "choose_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "wait",
+      "role": "support",
+      "status": "practiced",
+      "translation": "esperar",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "hope",
+      "role": "support",
+      "status": "introduced",
+      "translation": "esperar",
+      "lexeme_id": "hope_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_008"
+      ]
+    },
+    {
+      "term": "I want to ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Quiero ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_i_want_to",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_003",
+        "ex_005",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "I hope to see you soon.",
+      "role": "support",
+      "status": "introduced",
+      "translation": "Expresar un deseo o esperanza.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a1_i_hope_to_see_you_soon",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "Do you want to ...?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Quieres ...?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_do_you_want_to",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_004",
+        "ex_006",
+        "ex_008",
+        "ex_010",
+        "ex_011",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_003",
+        "exm_004",
+        "exm_006",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_009",
+        "fc_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "see",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver",
+      "lexeme_id": "see_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "fc_011",
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "drink",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_012",
+        "fc_002",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "soon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pronto",
+      "lexeme_id": "soon_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "fc_011",
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "dress",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "fc_005",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "talk to",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar con",
+      "lexeme_id": "talk_to_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "drink coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar café",
+      "lexeme_id": "drink_coffee_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "coffee",
+      "role": "support",
+      "status": "emergent",
+      "translation": "café",
+      "lexeme_id": "coffee",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "salad",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ensalada",
+      "lexeme_id": "salad",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "car",
+      "role": "support",
+      "status": "emergent",
+      "translation": "coche / carro",
+      "lexeme_id": "car",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "park",
+      "role": "support",
+      "status": "emergent",
+      "translation": "parque",
+      "lexeme_id": "park",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "home",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hogar / casa",
+      "lexeme_id": "home",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_003",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "watch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar / ver",
+      "lexeme_id": "watch_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "call",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llamar",
+      "lexeme_id": "call_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "movie",
+      "role": "support",
+      "status": "emergent",
+      "translation": "película",
+      "lexeme_id": "movie",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "tire",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansar",
+      "lexeme_id": "tire_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "tired",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cansado",
+      "lexeme_id": "tired_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "dinner",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cena",
+      "lexeme_id": "dinner",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 11,
+    "review_support_count": 0,
+    "emergent_count": 19,
+    "emergent_terms": [
+      "want",
+      "see",
+      "drink",
+      "soon",
+      "dress",
+      "friend",
+      "talk to",
+      "drink coffee",
+      "coffee",
+      "salad",
+      "car",
+      "park",
+      "home",
+      "watch",
+      "call",
+      "movie",
+      "tire",
+      "tired",
+      "dinner"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Deseos con want to",
+      "title_target": "Quiz: Expressing Wishes with Want To",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cómo se dice 'quiero comer' en inglés?",
+          "prompt_target": "How do you say 'quiero comer' in English?",
+          "options": [
+            "I want to eat",
+            "I want eat",
+            "I eat to want",
+            "I want to drink"
+          ],
+          "correct_answer": "I want to eat",
+          "explanation_form": "La estructura correcta es 'I want to + verbo'. 'Eat' significa 'comer'.",
+          "explanation_target": "The correct structure is 'I want to + verb'. 'Eat' means 'comer'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "want_verb",
+            "eat_verb",
+            "chunk_i_want_to"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "you",
+            "Do",
+            "to",
+            "want",
+            "drink",
+            "?"
+          ],
+          "correct_answer": "Do you want to drink?",
+          "explanation_form": "Para preguntar usamos 'Do you want to + verbo?'. La estructura es: Do + sujeto + want to + verbo.",
+          "explanation_target": "To ask, we use 'Do you want to + verb?'. The structure is: Do + subject + want to + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "want_verb",
+            "drink_verb",
+            "chunk_do_you_want_to"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué quiere hacer la persona?",
+          "prompt_target": "Listen and answer: What does the person want to do?",
+          "options": [
+            "Talk to a friend",
+            "Wash the car",
+            "Eat a cake",
+            "Buy a ticket"
+          ],
+          "correct_answer": "Talk to a friend",
+          "explanation_form": "La persona dice 'I want to talk to my friend' (quiero hablar con mi amiga).",
+          "explanation_target": "The person says 'I want to talk to my friend'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "talk_verb",
+            "chunk_i_want_to",
+            "chunk_a1_i_hope_to_see_you_soon"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I want to talk to my friend. She is at home. I want to see her soon.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo con su significado:",
+          "prompt_target": "Match each verb with its meaning:",
+          "options": [
+            "wash",
+            "lavar",
+            "choose",
+            "elegir",
+            "dress",
+            "vestirse",
+            "wait",
+            "esperar"
+          ],
+          "correct_answer": [
+            "wash=lavar",
+            "choose=elegir",
+            "dress=vestirse",
+            "wait=esperar"
+          ],
+          "explanation_form": "Estos son verbos de acciones cotidianas: wash (lavar), choose (elegir), dress (vestirse), wait (esperar).",
+          "explanation_target": "These are everyday action verbs: wash, choose, dress, wait.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "wash_verb",
+            "choose_verb",
+            "dress_verb",
+            "wait_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'She ____ to wash the car.' (ella quiere lavar el auto)",
+          "prompt_target": "Complete the sentence: 'She ____ to wash the car.'",
+          "options": null,
+          "correct_answer": "wants",
+          "explanation_form": "Con 'she' (ella), el verbo 'want' cambia a 'wants'. La estructura es: She wants to + verbo.",
+          "explanation_target": "With 'she', the verb 'want' changes to 'wants'. The structure is: She wants to + verb.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "want_verb",
+            "wash_verb",
+            "present_simple"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué quiere hacer Tom?",
+          "prompt_target": "Read the text and answer: What does Tom want to do?",
+          "options": [
+            "Eat dinner and watch a movie",
+            "Wash his car",
+            "Go to the bank",
+            "Buy a ticket"
+          ],
+          "correct_answer": "Eat dinner and watch a movie",
+          "explanation_form": "El texto dice que Tom quiere comer y luego ver una película: 'He wants to eat dinner and then he wants to watch a movie'.",
+          "explanation_target": "The text says Tom wants to eat dinner and then watch a movie.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "eat_verb",
+            "chunk_i_want_to",
+            "chunk_a1_i_hope_to_see_you_soon",
+            "want_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Tom is at home. He is tired. He wants to eat dinner and then he wants to watch a movie. His friend calls him. She wants to talk to him. Tom says: 'I want to eat first. I hope to see you soon.'",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traducí al español: 'Do you want to drink coffee?'",
+          "prompt_target": "Translate to Spanish: 'Do you want to drink coffee?'",
+          "options": null,
+          "correct_answer": "¿Quieres tomar café?",
+          "explanation_form": "La pregunta 'Do you want to drink coffee?' se traduce como '¿Quieres tomar café?'.",
+          "explanation_target": "The question 'Do you want to drink coffee?' translates to '¿Quieres tomar café?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "drink_verb",
+            "chunk_do_you_want_to"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El truco de \"want to\"\n\nEn español decimos \"quiero comer\" con un solo verbo, pero en inglés necesitas dos: **want** + **to** + verbo. Piensa en \"want to\" como una unidad fija: *I want to eat* (quiero comer), *Do you want to drink?* (¿quieres beber?). Nunca digas \"I want eat\" — el \"to\" es obligatorio.\n\n## Errores comunes\n\n- ✗ *I want wash my hands.* → ✓ *I want to wash my hands.*\n- ✗ *Do you want talk?* → ✓ *Do you want to talk?*\n\nUsa **Do you want to...?** para invitar a alguien: *Do you want to eat?* (¿quieres comer?). Es más natural que \"Do you want?\" solo. Y recuerda: *I hope to see you soon* es una frase fija muy útil para despedirte.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:39:21Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

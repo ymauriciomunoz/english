@@ -1,0 +1,1601 @@
+{
+  "id": "lesson_031",
+  "position": 31,
+  "unit_id": 11,
+  "course_id": "en.B1",
+  "title_form": "Reparar malentendidos",
+  "title_target": "Repairing a misunderstanding",
+  "theme_focus": "travel and transport",
+  "learning_objectives": [
+    "Can explain a straightforward misunderstanding and restate the information in another way."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_030"
+  ],
+  "grammar_focus": [
+    "Clarification questions and polite indirect questions."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "source"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "ask_verb",
+        "repeat_verb"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "information",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the travel and transport situation."
+      },
+      {
+        "term": "traveller",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the travel and transport situation."
+      },
+      {
+        "term": "Could you clarify ...?",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "What I mean is ...",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "could you",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "do you mean",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Un viajero está en la estación de trenes tratando de encontrar la plataforma correcta para su destino. Surge una confusión sobre la información del boleto y el origen de los datos. El viajero habla con el agente de atención para aclarar la situación educadamente y reconfirmar el horario.",
+  "introduction_md": "¡Bienvenido a esta lección! Cuando viajamos por el mundo, es muy común que ocurran pequeños malentendidos al pedir información sobre boletos, horarios o plataformas en las estaciones. En esta lección aprenderás las mejores herramientas para reparar esos malentendidos de forma clara, educada y natural en inglés.\n\nDurante esta lección vas a practicar cómo:\n- Explicar un problema de comunicación de forma sencilla y directa.\n- Formular preguntas indirectas y muy corteses como *Could you clarify...?* o *Do you mean...?*.\n- Explicar mejor tu idea principal diciendo *What I mean is...* cuando no te hayan comprendido.\n- Confirmar la fuente (*source*) de los datos sobre tu viaje.\n\nDominar estas expresiones te dará la tranquilidad necesaria para comunicarte con éxito en cualquier trayecto. ¡Comencemos a practicar hoy mismo!",
+  "intro_target": "Welcome to this lesson! When traveling around the world, it is very common to have small misunderstandings when asking for information about tickets, schedules, or platforms at stations. In this lesson, you will learn the best tools to repair those misunderstandings clearly, politely, and naturally in English.\n\nDuring this lesson, you will practice how to:\n- Explain a communication problem simply and directly.\n- Ask polite and indirect questions like *Could you clarify...?* or *Do you mean...?*.\n- Explain your main idea better by saying *What I mean is...* when someone does not understand you.\n- Confirm the source (*source*) of your travel information.\n\nMastering these phrases will give you the confidence you need to communicate successfully on any trip. Let us start practicing right now!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Could you tell me the source of this travel information, please?",
+      "translation_form": "¿Podría decirme la fuente de esta información de viaje, por favor?",
+      "highlight_words": [
+        "source",
+        "information"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "repeat_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Excuse me, could you repeat that because I did not understand what you mean?",
+      "translation_form": "Disculpe, ¿podría repetir eso porque no entendí qué quiere decir?",
+      "highlight_words": [
+        "repeat",
+        "mean"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "May I ask what you mean by that sentence, or could you explain it again?",
+      "translation_form": "¿Puedo preguntar qué quiere decir con esa frase, o podría explicarla de nuevo?",
+      "highlight_words": [
+        "ask",
+        "mean"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Do you mean that the passenger needs to show new information at the gate?",
+      "translation_form": "¿Quiere decir que el pasajero necesita mostrar nueva información en la puerta?",
+      "highlight_words": [
+        "mean",
+        "information"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I wanted to ask if this public website is a good source of information.",
+      "translation_form": "Quería preguntar si este sitio web público es una buena fuente de información.",
+      "highlight_words": [
+        "ask",
+        "source",
+        "information"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Clarification questions and polite indirect questions.",
+      "title_form": "Preguntas de aclaración y preguntas indirectas corteses",
+      "title_target": "Clarification questions and polite indirect questions",
+      "description_md_form": "Cuando viajas, hacer preguntas indirectas y pedir aclaraciones de forma cortés te ayuda a resolver malentendidos con amabilidad. En lugar de hacer preguntas directas o bruscas, usamos estructuras secundarias que suavizan la interacción.\n\n### Estructuras principales\n* **Preguntas indirectas:** Comienzan con frases como `Could you tell me...` o `May I ask...`. Recuerda mantener el orden normal de sujeto y verbo después del conector.\n* **Aclaraciones educadas:** Usa `Could you repeat that...?` o `Do you mean...?` para confirmar si entendiste bien un dato.\n\n### Consejos útiles\n1. **Evita sonar brusco:** En lugar de decir *What do you mean?*, opta por *May I ask what you mean by that sentence?*.\n2. **Confirmar información:** Puedes verificar detalles de viaje preguntando por la **source** (fuente) de la información de manera respetuosa.\n\nEstas formas te permitirán comunicarte eficazmente con viajeros y personal sin generar tensión.",
+      "description_md_target": "When travelling, asking indirect questions and requesting clarification politely helps you resolve misunderstandings smoothly. Instead of direct or abrupt questions, we use introductory phrases that soften the interaction.\n\n### Main Structures\n* **Indirect questions:** Start with phrases like `Could you tell me...` or `May I ask...`. Remember to keep normal subject-verb order after the connector.\n* **Polite clarification:** Use `Could you repeat that...?` or `Do you mean...?` to confirm if you understood correctly.\n\n### Practical Tips\n1. **Avoid sounding abrupt:** Instead of asking *What do you mean?*, choose *May I ask what you mean by that sentence?*.\n2. **Confirming information:** You can verify travel details by asking about the **source** of the information respectfully.\n\nThese expressions help you communicate effectively with travellers and staff without friction.",
+      "grammar_structure": "Polite phrase (Could you tell me / May I ask) + question word/if + subject + verb",
+      "conjugation_table": {
+        "name": "polite_questions_structures",
+        "headers": [
+          "Intención",
+          "Frase inicial",
+          "Ejemplo en inglés"
+        ],
+        "rows": [
+          [
+            "Pedir aclaración",
+            "Could you repeat...",
+            "Could you repeat that because I did not understand?"
+          ],
+          [
+            "Pregunta indirecta",
+            "Could you tell me...",
+            "Could you tell me the source of this travel information?"
+          ],
+          [
+            "Confirmar significado",
+            "Do you mean...",
+            "Do you mean that the passenger needs to show new information?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Clarification questions and polite indirect questions.",
+          "text_target": "Could you tell me the source of this travel information, please?",
+          "translation_form": "¿Podría decirme la fuente de esta información de viaje, por favor?",
+          "highlight_words": [
+            "could",
+            "you",
+            "tell",
+            "me"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "source",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "I wanted to ask if this public website is a good source of information.",
+          "translation_form": "Quería preguntar si este sitio web público es una buena fuente de información.",
+          "highlight_words": [
+            "source"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "Para sonar más formal y educado en entornos de viaje, inicia la consulta con **Could you tell me...** o **May I ask...**."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No inviertas el sujeto y el verbo tras la frase indirecta. Di **Could you tell me where the information is?** y no *where is the information*."
+        }
+      ],
+      "common_errors_es": [
+        "Invertir el orden de las palabras en la sección indirecta de la pregunta (como en la pregunta directa).",
+        "Usar expresiones cortantes como 'What?' o 'Why?' en lugar de alternativas corteses como 'Could you repeat that?'."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa **source** en español?",
+      "options": [
+        "fuente",
+        "destino",
+        "boleto",
+        "pasajero"
+      ],
+      "correct_answer": "fuente",
+      "explanation_md": "La palabra 'source' se traduce como 'fuente' u origen de una información o dato.",
+      "related_lexeme_ids": [
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "Estás en el mostrador de información del aeropuerto. Elige la opción correcta para pedir que repitan una indicación de forma cortés:",
+      "options": [
+        "Could you repeat the information, please?",
+        "Repeat the information now.",
+        "You must repeat information.",
+        "What is information?"
+      ],
+      "correct_answer": "Could you repeat the information, please?",
+      "explanation_md": "Usamos 'Could you...' seguido del verbo principal ('repeat') para hacer una solicitud cortés.",
+      "related_lexeme_ids": [
+        "repeat_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra o expresión en inglés con su traducción correspondiente:",
+      "options": [
+        "source",
+        "fuente",
+        "information",
+        "información",
+        "traveller",
+        "viajero",
+        "repeat",
+        "repetir"
+      ],
+      "correct_answer": [
+        "source=fuente",
+        "information=información",
+        "traveller=viajero",
+        "repeat=repetir"
+      ],
+      "explanation_md": "Emparejamiento correcto de los términos clave de la lección.",
+      "related_lexeme_ids": [
+        "source",
+        "repeat_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase con la palabra adecuada sobre el origen de los datos de viaje:",
+      "options": null,
+      "correct_answer": "source",
+      "explanation_md": "En esta oración se pregunta cuál es la fuente ('source') de la información de viaje.",
+      "related_lexeme_ids": [
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "What is the ____ of this travel information?",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés la siguiente frase de aclaración en la estación de trenes: '¿Podría repetir esa información, por favor?'",
+      "options": null,
+      "correct_answer": "Could you repeat that information, please?",
+      "explanation_md": "'Could you repeat...' es la estructura indirecta y cortés para pedir a alguien que vuelva a decir algo.",
+      "related_lexeme_ids": [
+        "repeat_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la frase utilizada por un agente para aclarar un mensaje:",
+      "options": null,
+      "correct_answer": "Lo que quiero decir es que el tren está retrasado.",
+      "explanation_md": "'What I mean is...' se utiliza para aclarar o reinterpretar lo que acabas de decir.",
+      "related_lexeme_ids": [
+        "ask_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "What I mean is that the train is delayed.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la pregunta para solicitar una aclaración educadamente en la recepción del hotel:",
+      "options": null,
+      "correct_answer": "ask",
+      "explanation_md": "'May I ask...' es una forma muy educada de preguntar o pedir una aclaración.",
+      "related_lexeme_ids": [
+        "ask_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "May I ____ what you mean by that notice?",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "Un pasajero en la puerta de embarque no entendió las instrucciones del boleto. ¿Qué pregunta de aclaración debe hacer?",
+      "options": [
+        "Do you mean I need a new ticket?",
+        "Do you source a new ticket?",
+        "Do you repeat a new ticket?",
+        "Do you ask a new ticket?"
+      ],
+      "correct_answer": "Do you mean I need a new ticket?",
+      "explanation_md": "'Do you mean...?' se emplea para comprobar si entendiste correctamente lo que la otra persona quiso decir.",
+      "related_lexeme_ids": [
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el aviso para pasajeros y responde a la pregunta de comprensión:",
+      "options": [
+        "Verificar la fuente de su itinerario en el sitio web público.",
+        "Comprar un nuevo boleto en la estación.",
+        "Llamar por teléfono al chofer del tren.",
+        "Esperar en la recepción sin hacer nada."
+      ],
+      "correct_answer": "Verificar la fuente de su itinerario en el sitio web público.",
+      "explanation_md": "El texto pide explícitamente al viajero: 'check the source of your travel schedule on our public website'.",
+      "related_lexeme_ids": [
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Hello traveller, please check the source of your travel schedule on our public website. If you do not understand the time, you can ask the receptionist at the station. What I mean is that some trains leave early today.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha la grabación corta y responde a la pregunta:",
+      "options": [
+        "Porque la información en el sitio web no está clara.",
+        "Porque perdió su maleta en el tren.",
+        "Porque no tiene boleto de avión.",
+        "Porque la puerta de salida está cerrada."
+      ],
+      "correct_answer": "Porque la información en el sitio web no está clara.",
+      "explanation_md": "El hablante menciona 'The information on the website is not clear', por lo que busca ayuda de un trabajador.",
+      "related_lexeme_ids": [
+        "repeat_verb",
+        "ask_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "Excuse me, could you repeat the departure gate? The information on the website is not clear, so I want to ask a worker.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce la siguiente oración al inglés para consultar sobre la validez de un sitio de viajes: '¿Es este sitio web una buena fuente de información para el viajero?'",
+      "options": null,
+      "correct_answer": "Is this website a good source of information for the traveller?",
+      "explanation_md": "'Is this website a good source of information for the traveller?' combina 'source', 'information' y 'traveller' de manera natural.",
+      "related_lexeme_ids": [
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribe un diálogo natural de cuatro turnos entre un viajero y un agente de información. Usa dos avisos contradictorios sobre un cambio de andén: el viajero debe explicar qué no entendió, hacer una pregunta cortés ('Could you clarify...', 'Could you repeat...' o 'Do you mean...'), reformular con 'What I mean is...' y cerrar confirmando el andén y la hora correctos. No te limites a escribir preguntas aisladas.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la reparación completa de un malentendido en un contexto de viaje: explicar la confusión, pedir aclaración cortésmente, reformular el mensaje con 'What I mean is...' y confirmar la información correcta al final.",
+      "related_lexeme_ids": [
+        "ask_verb",
+        "repeat_verb",
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Traveller: Excuse me, the old notice says Platform 4, but my ticket says Platform 6. Could you clarify which platform I should use? Officer: Of course. Do you mean the 10:30 train to Brighton? Traveller: Yes. What I mean is that I need the 10:30 train, and I want to check whether its platform has changed. Officer: The platform has changed to Platform 6, and the train leaves at 10:30. Please follow the new sign.",
+        "Traveller: I am confused because the website says Platform 2, but the station screen says Platform 5. Could you repeat the latest information, please? Officer: Certainly. Do you mean the 11:15 train to Leeds? Traveller: Yes. What I mean is that I am asking about the 11:15 train, not the earlier service. Officer: The 11:15 train now leaves from Platform 5 at 11:15, so your ticket is correct."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el diálogo breve y responde: ¿Qué confirmó la agente? / Read the short dialogue and answer: What did the agent confirm?",
+      "options": [
+        "The train leaves from Platform 6 at 10:20.",
+        "The train leaves from Platform 4 at 12:20.",
+        "The website is the only source of information.",
+        "The traveller must buy a new ticket."
+      ],
+      "correct_answer": "The train leaves from Platform 6 at 10:20.",
+      "explanation_md": "La agente confirmó que el tren sale del andén 6 a las 10:20. / The agent confirmed that the train leaves from Platform 6 at 10:20.",
+      "related_lexeme_ids": [
+        "source",
+        "ask_verb",
+        "repeat_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I showed my ticket to the station agent because the platform number was unclear. I asked, \"Could you clarify whether this train goes to Bristol?\" The agent replied, \"Yes, but it leaves from Platform 6, not Platform 4.\" I repeated the information to confirm: \"Do you mean Platform 6 at 10:20?\" She said yes. What I mean is that I wanted to check the correct platform before boarding. I also checked the source of the announcement on the station screen, so the information was clear.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Qué hizo la persona para verificar la información? / Listen to the short story and answer: What did the speaker do to check the information?",
+      "options": [
+        "Asked a staff member to clarify the gate and repeated the number.",
+        "Bought another ticket without asking anyone.",
+        "Ignored the different information on the screens.",
+        "Called the driver to change the departure time."
+      ],
+      "correct_answer": "Asked a staff member to clarify the gate and repeated the number.",
+      "explanation_md": "La persona pidió una aclaración y repitió el número de la puerta para confirmarlo. / The speaker asked for clarification and repeated the gate number to confirm it.",
+      "related_lexeme_ids": [
+        "source",
+        "ask_verb",
+        "repeat_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "I am at the airport, and the departure information on my phone is different from the screen. What I mean is that I need to check which notice is current. I asked a staff member, \"Could you tell me which gate is correct?\" She said, \"Gate 18.\" I repeated the number and asked, \"Do you mean Gate 18 for the 10:30 flight?\" She confirmed it and told me to check the official screen, which is the source. I thanked her because I understood the information.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "source",
+      "back": "fuente (origen de información)",
+      "hint": "origen o principio de algo",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "tags": [
+        "lesson_031",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "ask",
+      "back": "preguntar / pedir",
+      "hint": "hacer una pregunta",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_031",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "repeat",
+      "back": "repetir",
+      "hint": "decir o hacer algo de nuevo",
+      "lexeme_id": "repeat_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_031",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "information source",
+      "back": "fuente de información",
+      "hint": "origen de las noticias o datos",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "tags": [
+        "lesson_031",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "ask a question",
+      "back": "hacer una pregunta",
+      "hint": "solicitar aclaración a alguien",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_031",
+        "B1",
+        "basics"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "source",
+      "reading": "",
+      "translation": "fuente",
+      "pos": "noun",
+      "example": "Could you tell me the source of this travel information, please?",
+      "example_translation": "¿Podría decirme la fuente de esta información de viaje, por favor?",
+      "lexeme_id": "source",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "information",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "información",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "exm_005",
+        "Clarification questions and polite indirect questions.",
+        "ex_004",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_004",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "traveller",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "Could you clarify ...?",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "What I mean is ...",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "ex_006",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "could you",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_002",
+        "exm_003",
+        "Clarification questions and polite indirect questions.",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_002",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "do you mean",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "Clarification questions and polite indirect questions.",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "source",
+      "role": "support",
+      "status": "practiced",
+      "translation": "fuente",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_003",
+        "ex_004",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_001",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "repeat",
+      "role": "support",
+      "status": "review",
+      "translation": "repetir",
+      "lexeme_id": "repeat_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_003",
+        "ex_005",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "review",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_006",
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_002",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "tell",
+      "role": "support",
+      "status": "emergent",
+      "translation": "decir / contar",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_014",
+        "quiz_001:q_002",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012",
+        "ex_014",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "website",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sitio web / página web",
+      "lexeme_id": "website",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009",
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "excuse me",
+      "role": "support",
+      "status": "emergent",
+      "translation": "disculpe",
+      "lexeme_id": "excuse_me_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "gate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "puerta",
+      "lexeme_id": "gate",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "understand",
+      "role": "support",
+      "status": "emergent",
+      "translation": "entender / comprender",
+      "lexeme_id": "understand_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_003",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "public",
+      "role": "support",
+      "status": "emergent",
+      "translation": "público",
+      "lexeme_id": "public_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "again",
+      "role": "support",
+      "status": "emergent",
+      "translation": "otra vez / de nuevo",
+      "lexeme_id": "again_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "passenger",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pasajero",
+      "lexeme_id": "passenger",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "polite",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_004",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "train",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tren",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_006",
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "screen",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pantalla",
+      "lexeme_id": "screen_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "station",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estación",
+      "lexeme_id": "station",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "leave",
+      "role": "support",
+      "status": "emergent",
+      "translation": "irse / salir / dejar",
+      "lexeme_id": "leave_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "notice",
+      "role": "support",
+      "status": "emergent",
+      "translation": "notar / aviso",
+      "lexeme_id": "notice",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_012",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "departure",
+      "role": "support",
+      "status": "emergent",
+      "translation": "salida",
+      "lexeme_id": "departure",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_014",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "platform",
+      "role": "support",
+      "status": "emergent",
+      "translation": "andén",
+      "lexeme_id": "platform",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "clear",
+      "role": "support",
+      "status": "emergent",
+      "translation": "claro",
+      "lexeme_id": "clear_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_013",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "follow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "seguir",
+      "lexeme_id": "follow_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "speaker",
+      "role": "support",
+      "status": "emergent",
+      "translation": "altavoz",
+      "lexeme_id": "speaker",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "confirm",
+      "role": "support",
+      "status": "emergent",
+      "translation": "confirmar",
+      "lexeme_id": "confirm",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "official",
+      "role": "support",
+      "status": "emergent",
+      "translation": "oficial",
+      "lexeme_id": "official_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_005",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "agent",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agente",
+      "lexeme_id": "agent",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_013",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "airport",
+      "role": "support",
+      "status": "emergent",
+      "translation": "aeropuerto",
+      "lexeme_id": "airport",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "ticket",
+      "role": "support",
+      "status": "emergent",
+      "translation": "boleto / billete / ticket",
+      "lexeme_id": "ticket",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_012",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "flight",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vuelo",
+      "lexeme_id": "flight",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_014",
+        "quiz_001:q_011"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 2,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "tell",
+      "want",
+      "need",
+      "website",
+      "excuse me",
+      "gate",
+      "understand",
+      "explain",
+      "public",
+      "good",
+      "again",
+      "passenger",
+      "polite",
+      "check",
+      "train",
+      "screen",
+      "station",
+      "leave",
+      "notice",
+      "departure",
+      "platform",
+      "clear",
+      "follow",
+      "speaker",
+      "confirm",
+      "official",
+      "now",
+      "time",
+      "agent",
+      "airport",
+      "ticket",
+      "flight"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Reparar malentendidos",
+      "title_target": "Quiz: Repairing misunderstandings",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál de las siguientes opciones es una pregunta indirecta y educada para pedir una aclaración?",
+          "prompt_target": "Which of the following options is a polite indirect question to ask for clarification?",
+          "options": [
+            "Could you tell me what you mean?",
+            "What do you mean right now?",
+            "Tell me what you mean.",
+            "You mean what?"
+          ],
+          "correct_answer": "Could you tell me what you mean?",
+          "explanation_form": "'Could you tell me...?' es una estructura indirecta y educada ideal para pedir aclaraciones sin sonar demasiado directo o brusco.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase para pedir la fuente de información de manera educada: 'Could you tell me the ____ of this news?'",
+          "prompt_target": "Complete the sentence to politely ask for the information source: 'Could you tell me the ____ of this news?'",
+          "options": null,
+          "correct_answer": "source",
+          "explanation_form": "El sustantivo 'source' significa 'fuente' (de información o datos).",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "source",
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Por qué el hablante le hizo una pregunta a su colega?",
+          "prompt_target": "Why did the speaker ask their colleague a question?",
+          "options": [
+            "Porque no entendió la causa del retraso y quería saber la fuente de la información.",
+            "Porque su colega no quiso entregar el informe del proyecto a tiempo.",
+            "Porque el proyecto ya había terminado sin ningún inconveniente.",
+            "Porque no tenía tiempo suficiente para leer el informe completo."
+          ],
+          "correct_answer": "Porque no entendió la causa del retraso y quería saber la fuente de la información.",
+          "explanation_form": "El texto explica que el hablante no entendió la causa del retraso y por eso le pidió a su colega explicar la fuente de su información.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "source",
+            "Clarification questions and polite indirect questions.",
+            "ask_verb",
+            "repeat_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Yesterday, my colleague gave me a report about our project. I did not understand the main cause of the delay. I decided to ask him a polite question. I asked if he could explain the source of his information. He agreed and repeated the explanation slowly. Now everything is clear.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué solicita la persona en el audio?",
+          "prompt_target": "What does the person in the audio ask for?",
+          "options": [
+            "Que la otra persona repita su última frase para verificar la fuente del informe.",
+            "Que le envíen un correo electrónico con la lista de precios de la empresa.",
+            "Que llamen a un cliente importante para reprogramar una cita urgente.",
+            "Que borren el informe completo porque contenía información falsa."
+          ],
+          "correct_answer": "Que la otra persona repita su última frase para verificar la fuente del informe.",
+          "explanation_form": "En el audio, la persona dice 'Could you please repeat that? I would like to check the source of the report.'",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "source",
+            "repeat_verb",
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": "I am sorry, but I did not hear your last sentence clearly. Could you please repeat that? I would like to check the source of the report.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Cuál es el propósito del hablante según el audio?",
+          "prompt_target": "What is the speaker's purpose according to the audio?",
+          "options": [
+            "Preguntar por la fuente oficial antes de terminar el documento.",
+            "Cancelar la reunión prevista con el gerente del área.",
+            "Confirmar que el documento ya está finalizado y revisado.",
+            "Solicitar permiso para retirarse temprano de la oficina."
+          ],
+          "correct_answer": "Preguntar por la fuente oficial antes de terminar el documento.",
+          "explanation_form": "El hablante pregunta en forma indirecta ('could you tell me where you found this information?') para consultar con su gerente sobre la fuente oficial.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "source",
+            "ask_verb",
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Excuse me, could you tell me where you found this information? I need to ask my manager about the official source before we finish the document.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una pregunta indirecta educada:",
+          "prompt_target": "Order the words to form a polite indirect question:",
+          "options": [
+            "could",
+            "you",
+            "tell",
+            "me",
+            "the",
+            "source?"
+          ],
+          "correct_answer": "could you tell me the source?",
+          "explanation_form": "El orden correcto de la pregunta indirecta es: modal (could) + sujeto (you) + verbo principal (tell) + objeto indirecto (me) + objeto directo (the source?).",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "source",
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: '¿Podrías repetir la pregunta?'",
+          "prompt_target": "Translate to English: '¿Podrías repetir la pregunta?'",
+          "options": null,
+          "correct_answer": "Could you repeat the question?",
+          "explanation_form": "'Could you' se usa para peticiones corteses, seguido del verbo en infinitivo sin 'to' ('repeat').",
+          "explanation_target": null,
+          "references_exercise_id": "ex_002",
+          "references_lesson_topics": [
+            "repeat_verb",
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "matching",
+          "prompt_form": "Empareja cada expresión en inglés con su traducción correspondiente en español:",
+          "prompt_target": "Match each English expression with its corresponding Spanish translation:",
+          "options": [
+            "the source of information",
+            "la fuente de información",
+            "could you repeat that?",
+            "¿podrías repetir eso?",
+            "may I ask a question?",
+            "¿puedo hacer una pregunta?",
+            "polite explanation",
+            "explicación educada"
+          ],
+          "correct_answer": [
+            "the source of information=la fuente de información",
+            "could you repeat that?=¿podrías repetir eso?",
+            "may I ask a question?=¿puedo hacer una pregunta?",
+            "polite explanation=explicación educada"
+          ],
+          "explanation_form": "Revisar el vocabulario clave ayuda a reparar malentendidos con fluidez y cortesía.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "source",
+            "repeat_verb",
+            "ask_verb",
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "translation_target_to_form",
+          "prompt_form": "Traduce al español: 'I would like to ask about the source.'",
+          "prompt_target": "Translate to Spanish: 'I would like to ask about the source.'",
+          "options": null,
+          "correct_answer": "Me gustaría preguntar sobre la fuente.",
+          "explanation_form": "'I would like to ask' se traduce como 'Me gustaría preguntar', y 'about the source' como 'sobre la fuente'.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "source",
+            "ask_verb",
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Cómo confirmó la persona la información del tren?",
+          "prompt_target": "Read the story and answer: How did the speaker confirm the train information?",
+          "options": [
+            "By repeating the platform and time in a question.",
+            "By buying a new ticket without checking.",
+            "By asking another traveller to leave the station.",
+            "By changing the train's departure time."
+          ],
+          "correct_answer": "By repeating the platform and time in a question.",
+          "explanation_form": "La persona repitió el andén y la hora en una pregunta para confirmar la información. / The speaker repeated the platform and time in a question to confirm the information.",
+          "explanation_target": "The speaker repeated the platform and time in a question to confirm the information.",
+          "references_exercise_id": "ex_013",
+          "references_lesson_topics": [
+            "source",
+            "ask_verb",
+            "repeat_verb",
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I was waiting at the station when the screen showed two platform numbers. I asked an agent, \"Could you clarify the departure platform?\" She explained that the train left from Platform 3. I repeated, \"Do you mean Platform 3 at 9:15?\" She confirmed the time, and I boarded calmly.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Qué puerta confirmó la persona de atención?",
+          "prompt_target": "Listen to the story and answer: Which gate did the staff member confirm?",
+          "options": [
+            "Gate 21.",
+            "Gate 12.",
+            "Gate 18.",
+            "Gate 30."
+          ],
+          "correct_answer": "Gate 21.",
+          "explanation_form": "La persona de atención confirmó que la puerta correcta era la 21. / The staff member confirmed that Gate 21 was correct.",
+          "explanation_target": "The staff member confirmed that Gate 21 was correct.",
+          "references_exercise_id": "ex_014",
+          "references_lesson_topics": [
+            "source",
+            "ask_verb",
+            "repeat_verb",
+            "Clarification questions and polite indirect questions."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "I was checking my travel information at the airport. The app showed Gate 12, but the official screen showed Gate 21. I asked a staff member, \"Could you clarify which gate is correct?\" She checked the source and said Gate 21. I repeated, \"Do you mean Gate 21 for my flight?\" She confirmed it, so I followed the sign.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cortesía al aclarar malentendidos\n\nEn situaciones de viaje (como una reserva equivocada o un cambio de itinerario), hacer preguntas directas como *\"What?\"* o *\"What do you mean?\"* puede sonar muy severo. Para resolver un problema con educación, utiliza **preguntas indirectas** y frases de aclaración:\n\n- En lugar de pedir una orden (*\"Repeat that\"*), usa: *\"Could you repeat that, please?\"*\n- Para pedir información con tacto: *\"Could you tell me where this gate is?\"*\n\n## Identificar el origen: *source*\n\nLa palabra **source** significa \"fuente\" u \"origen\". En un contexto de transporte o servicios, te permite indagar sobre el origen de un error o de un dato sin culpar a tu interlocutor:\n\n- *\"What is the source of the confusion?\"* (¿Cuál es la causa o fuente de la confusión?)\n- *\"I am trying to find the source of this booking error.\"* (Estoy intentando encontrar el origen de este error de reserva.)\n\nUtilizar estas expresiones te dará mayor seguridad para mediar y resolver imprevistos en tu viaje de manera eficaz.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:39:56Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

@@ -1,0 +1,1806 @@
+{
+  "id": "lesson_051",
+  "position": 51,
+  "unit_id": 7,
+  "course_id": "en.A2",
+  "title_form": "Talking about your studies",
+  "title_target": "Hablando de tus estudios",
+  "theme_focus": "school",
+  "learning_objectives": [
+    "Can describe their current studies and educational background.",
+    "Can name school subjects and academic levels."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_049"
+  ],
+  "grammar_focus": [
+    "present simple: affirmative with study"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "college",
+        "high_school",
+        "secondary_school",
+        "degree",
+        "math",
+        "grade",
+        "score",
+        "research",
+        "history",
+        "art",
+        "look_up_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "permit",
+        "skill",
+        "shift",
+        "off",
+        "business"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana es una estudiante que acaba de mudarse a una nueva ciudad. En su primera semana, conoce a su vecino Tom en el ascensor. Tom le pregunta sobre sus estudios y Ana le cuenta que estudia historia en la universidad. Durante la lección, Ana aprende a describir sus materias, su nivel y sus notas, y practica conversaciones similares.",
+  "introduction_md": "En esta lección vas a aprender a hablar sobre tus estudios en inglés. Vas a poder decir qué estudias, dónde estudias y qué materias te gustan. Este tema es muy útil para conversaciones cotidianas, como cuando conoces a alguien nuevo o hablas con amigos.\n\n**En esta lección vas a aprender:**\n- Los nombres de lugares de estudio (colegio, secundaria, universidad).\n- Materias escolares comunes (matemáticas, historia, arte).\n- Cómo describir tu nivel académico y tus notas.\n- El verbo *study* en presente simple.\n\n¡Vamos a empezar!",
+  "intro_target": "In this lesson, you will learn to talk about your studies in English. You will be able to say what you study, where you study, and what subjects you like. This topic is very useful for everyday conversations, like when you meet someone new or talk with friends.\n\n**In this lesson, you will learn:**\n- The names of study places (school, high school, college).\n- Common school subjects (math, history, art).\n- How to describe your academic level and your grades.\n- The verb *study* in the present simple.\n\nLet's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "college",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I study at college, and my brother studies at high school.",
+      "translation_form": "Yo estudio en la universidad, y mi hermano estudia en la escuela secundaria.",
+      "highlight_words": [
+        "college"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "degree",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She studies for her degree in history at the university.",
+      "translation_form": "Ella estudia para su grado en historia en la universidad.",
+      "highlight_words": [
+        "degree",
+        "history"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "math",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "We study math and science every morning before work.",
+      "translation_form": "Nosotros estudiamos mates y ciencias cada mañana antes del trabajo.",
+      "highlight_words": [
+        "math"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "grade",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He studies hard, so he gets a good grade in every test.",
+      "translation_form": "Él estudia mucho, así que saca una buena nota en cada examen.",
+      "highlight_words": [
+        "grade"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "score",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "My score in the exam is high because I study with my friend.",
+      "translation_form": "Mi puntuación en el examen es alta porque estudio con mi amigo.",
+      "highlight_words": [
+        "score"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "research",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She does research for her project on the weekend.",
+      "translation_form": "Ella hace investigación para su proyecto el fin de semana.",
+      "highlight_words": [
+        "research"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "art",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I study art at secondary school, and I love it.",
+      "translation_form": "Yo estudio arte en la escuela secundaria, y me encanta.",
+      "highlight_words": [
+        "art"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "look_up_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I look up new words in the dictionary when I study English.",
+      "translation_form": "Yo busco palabras nuevas en el diccionario cuando estudio inglés.",
+      "highlight_words": [],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "present simple: affirmative with study",
+      "title_form": "Presente simple: afirmativo con study",
+      "title_target": "Present Simple: Affirmative with Study",
+      "description_md_form": "El **presente simple** se usa para hablar de **rutinas**, **hechos** y **cosas que son verdad en general**. Con el verbo **study** (estudiar), la forma es muy fácil:\n\n- Con **I, you, we, they** → **study** (sin cambios).\n- Con **he, she, it** → **studies** (añadimos **-es**).\n\n**Ejemplos:**\n- `I study at college.` (Yo estudio en la universidad.)\n- `She studies history.` (Ella estudia historia.)\n\n**Regla clave:** con **he/she/it**, el verbo cambia a **studies**. No olvides la **-s** final. Es el error más común para hispanohablantes, porque en español el verbo no cambia de forma de la misma manera.\n\nUsa este tiempo para describir tus estudios actuales, tu horario y las materias que te gustan.",
+      "description_md_target": "The **present simple** is used to talk about **routines**, **facts**, and **things that are generally true**. With the verb **study**, the form is very easy:\n\n- With **I, you, we, they** → **study** (no change).\n- With **he, she, it** → **studies** (we add **-es**).\n\n**Examples:**\n- `I study at college.`\n- `She studies history.`\n\n**Key rule:** with **he/she/it**, the verb changes to **studies**. Don't forget the final **-s**. It's the most common mistake for Spanish speakers, because in Spanish the verb doesn't change in the same way.\n\nUse this tense to describe your current studies, your schedule, and the subjects you like.",
+      "grammar_structure": "Subject + study/studies + (object/complement)",
+      "conjugation_table": {
+        "name": "present_simple_study",
+        "headers": [
+          "Pronombre",
+          "Forma",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "study",
+            "I study math."
+          ],
+          [
+            "you",
+            "study",
+            "You study art."
+          ],
+          [
+            "he",
+            "studies",
+            "He studies history."
+          ],
+          [
+            "she",
+            "studies",
+            "She studies for her degree."
+          ],
+          [
+            "it",
+            "studies",
+            "It studies."
+          ],
+          [
+            "we",
+            "study",
+            "We study at college."
+          ],
+          [
+            "they",
+            "study",
+            "They study at high school."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: affirmative with study",
+          "text_target": "I study at college, and my brother studies at high school.",
+          "translation_form": "Yo estudio en la universidad, y mi hermano estudia en la escuela secundaria.",
+          "highlight_words": [
+            "study",
+            "studies"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "present simple: affirmative with study",
+          "text_target": "She studies for her degree in history at the university.",
+          "translation_form": "Ella estudia para su grado en historia en la universidad.",
+          "highlight_words": [
+            "studies"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**No olvides la -s con he/she/it.** Decimos `She studies`, NO `She study`. Es el error más común."
+        },
+        {
+          "type": "tip",
+          "text_md": "**study** termina en **-y**, pero como va precedida de consonante, cambia a **-ies**: `study` → `studies`. ¡No es `studys`!"
+        }
+      ],
+      "common_errors_es": [
+        "Olvidar la -s en la tercera persona: escribir 'She study' en lugar de 'She studies'.",
+        "Usar el presente continuo para rutinas: decir 'I am studying at college' cuando se refiere a un hecho general, en lugar de 'I study at college'.",
+        "Confundir 'study' con 'learn': 'study' es el acto de estudiar, mientras que 'learn' es el resultado de aprender."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'college'?",
+      "options": [
+        "universidad",
+        "escuela secundaria",
+        "colegio primario",
+        "biblioteca"
+      ],
+      "correct_answer": "universidad",
+      "explanation_md": "En inglés, 'college' se refiere a la universidad o instituto de educación superior.",
+      "related_lexeme_ids": [
+        "college"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'score'?",
+      "options": [
+        "puntuación",
+        "tarea",
+        "libro",
+        "maestro"
+      ],
+      "correct_answer": "puntuación",
+      "explanation_md": "'Score' es la puntuación o calificación que obtienes en un examen o prueba.",
+      "related_lexeme_ids": [
+        "score"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "degree",
+        "título",
+        "research",
+        "investigación",
+        "grade",
+        "nota"
+      ],
+      "correct_answer": [
+        "degree=título",
+        "research=investigación",
+        "grade=nota"
+      ],
+      "explanation_md": "Estas palabras se usan mucho en el contexto de los estudios.",
+      "related_lexeme_ids": [
+        "degree",
+        "research",
+        "grade"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración: 'She studies ______ at the university.'",
+      "options": [
+        "history",
+        "college",
+        "score",
+        "grade"
+      ],
+      "correct_answer": "history",
+      "explanation_md": "La oración necesita una materia de estudio. 'History' (historia) es una materia.",
+      "related_lexeme_ids": [
+        "history"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta del presente simple para 'he'?",
+      "options": [
+        "He study math.",
+        "He studies math.",
+        "He studying math.",
+        "He studied math."
+      ],
+      "correct_answer": "He studies math.",
+      "explanation_md": "Con 'he', 'she' o 'it', el verbo 'study' cambia a 'studies'.",
+      "related_lexeme_ids": [
+        "math"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración con la forma correcta del verbo: 'I ______ at high school.'",
+      "options": null,
+      "correct_answer": "study",
+      "explanation_md": "Con 'I', usamos la forma base del verbo: 'study'.",
+      "related_lexeme_ids": [
+        "high_school"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración: 'We ______ for our degree in art.'",
+      "options": null,
+      "correct_answer": "study",
+      "explanation_md": "Con 'we', usamos la forma base del verbo: 'study'.",
+      "related_lexeme_ids": [
+        "degree",
+        "art"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Él estudia en la escuela secundaria.'",
+      "options": null,
+      "correct_answer": "He studies at secondary school.",
+      "explanation_md": "Recuerda que con 'he' el verbo cambia a 'studies'.",
+      "related_lexeme_ids": [
+        "secondary_school"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'She gets a good score in the test.'",
+      "options": null,
+      "correct_answer": "Ella saca una buena puntuación en el examen.",
+      "explanation_md": "'Score' se traduce como 'puntuación' o 'nota'.",
+      "related_lexeme_ids": [
+        "score"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué estudia María?",
+      "options": null,
+      "correct_answer": "María estudia historia.",
+      "explanation_md": "El texto dice que su materia favorita es historia y quiere obtener un título en historia.",
+      "related_lexeme_ids": [
+        "college",
+        "history",
+        "degree",
+        "research",
+        "look_up_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "María is a student. She studies at college. Her favorite subject is history. She also studies math and art. She wants to get a degree in history. She studies every day after work. She looks up information for her research on the internet.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué materia estudia Tom?",
+      "options": [
+        "math",
+        "history",
+        "art",
+        "science"
+      ],
+      "correct_answer": "math",
+      "explanation_md": "El audio dice que su materia favorita es matemáticas.",
+      "related_lexeme_ids": [
+        "high_school",
+        "math",
+        "grade"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Tom studies at high school. He likes math and science. His favorite subject is math. He studies with his friend after school. He wants a good grade in the test.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tus estudios. Usa 'study' en presente simple y vocabulario de la lección (college, high school, degree, math, history, etc.).",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto del presente simple con 'study' y el vocabulario de estudios.",
+      "related_lexeme_ids": [
+        "college",
+        "high_school",
+        "math",
+        "history",
+        "score"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I study at college. I study math and history. I want a good score in my exam.",
+        "My brother studies at high school. He studies art and science."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "college",
+      "back": "universidad / colegio",
+      "hint": "lugar de estudios superiores",
+      "lexeme_id": "college",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "high school",
+      "back": "escuela secundaria / bachillerato",
+      "hint": "antes de la universidad",
+      "lexeme_id": "high_school",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "secondary school",
+      "back": "escuela secundaria",
+      "hint": "sinónimo de high school",
+      "lexeme_id": "secondary_school",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "degree",
+      "back": "grado / título universitario",
+      "hint": "lo que obtienes al terminar la universidad",
+      "lexeme_id": "degree",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "math",
+      "back": "mates / matemática",
+      "hint": "asignatura de números",
+      "lexeme_id": "math",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "grade",
+      "back": "grado / nota",
+      "hint": "puede ser un nivel escolar o una calificación",
+      "lexeme_id": "grade",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "score",
+      "back": "puntuación",
+      "hint": "resultado de un examen o juego",
+      "lexeme_id": "score",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "research",
+      "back": "investigación",
+      "hint": "estudio profundo de un tema",
+      "lexeme_id": "research",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "history",
+      "back": "historia",
+      "hint": "asignatura sobre el pasado",
+      "lexeme_id": "history",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "art",
+      "back": "arte",
+      "hint": "asignatura creativa",
+      "lexeme_id": "art",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "look up",
+      "back": "buscar (en un diccionario)",
+      "hint": "acción de buscar información",
+      "lexeme_id": "look_up_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "permit",
+      "back": "permitir",
+      "hint": "dar permiso",
+      "lexeme_id": "permit",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "skill",
+      "back": "habilidad",
+      "hint": "capacidad para hacer algo",
+      "lexeme_id": "skill",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "shift",
+      "back": "turno (de trabajo)",
+      "hint": "periodo de trabajo",
+      "lexeme_id": "shift",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "off",
+      "back": "libre / apagado / fuera",
+      "hint": "no trabajar, no estar activo",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_051",
+        "A2",
+        "school"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "college",
+      "reading": "",
+      "translation": "universidad / colegio",
+      "pos": "noun",
+      "example": "I study at college, and my brother studies at high school.",
+      "example_translation": "Yo estudio en la universidad, y mi hermano estudia en la escuela secundaria.",
+      "lexeme_id": "college",
+      "chunk_id": null
+    },
+    {
+      "target_word": "high school",
+      "reading": "",
+      "translation": "escuela secundaria / bachillerato",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "high_school",
+      "chunk_id": null
+    },
+    {
+      "target_word": "secondary school",
+      "reading": "",
+      "translation": "escuela secundaria",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "secondary_school",
+      "chunk_id": null
+    },
+    {
+      "target_word": "degree",
+      "reading": "",
+      "translation": "grado",
+      "pos": "noun",
+      "example": "She studies for her degree in history at the university.",
+      "example_translation": "Ella estudia para su grado en historia en la universidad.",
+      "lexeme_id": "degree",
+      "chunk_id": null
+    },
+    {
+      "target_word": "math",
+      "reading": "",
+      "translation": "mates / matemática / matemático",
+      "pos": "noun",
+      "example": "We study math and science every morning before work.",
+      "example_translation": "Nosotros estudiamos mates y ciencias cada mañana antes del trabajo.",
+      "lexeme_id": "math",
+      "chunk_id": null
+    },
+    {
+      "target_word": "grade",
+      "reading": "",
+      "translation": "grado",
+      "pos": "noun",
+      "example": "He studies hard, so he gets a good grade in every test.",
+      "example_translation": "Él estudia mucho, así que saca una buena nota en cada examen.",
+      "lexeme_id": "grade",
+      "chunk_id": null
+    },
+    {
+      "target_word": "score",
+      "reading": "",
+      "translation": "puntuación",
+      "pos": "noun",
+      "example": "My score in the exam is high because I study with my friend.",
+      "example_translation": "Mi puntuación en el examen es alta porque estudio con mi amigo.",
+      "lexeme_id": "score",
+      "chunk_id": null
+    },
+    {
+      "target_word": "research",
+      "reading": "",
+      "translation": "investigación",
+      "pos": "noun",
+      "example": "She does research for her project on the weekend.",
+      "example_translation": "Ella hace investigación para su proyecto el fin de semana.",
+      "lexeme_id": "research",
+      "chunk_id": null
+    },
+    {
+      "target_word": "history",
+      "reading": "",
+      "translation": "historia",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "history",
+      "chunk_id": null
+    },
+    {
+      "target_word": "art",
+      "reading": "",
+      "translation": "arte",
+      "pos": "noun",
+      "example": "I study art at secondary school, and I love it.",
+      "example_translation": "Yo estudio arte en la escuela secundaria, y me encanta.",
+      "lexeme_id": "art",
+      "chunk_id": null
+    },
+    {
+      "target_word": "look up",
+      "reading": "",
+      "translation": "buscar (en un diccionario)",
+      "pos": "verb",
+      "example": "I look up new words in the dictionary when I study English.",
+      "example_translation": "Yo busco palabras nuevas en el diccionario cuando estudio inglés.",
+      "lexeme_id": "look_up_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "college",
+      "role": "support",
+      "status": "practiced",
+      "translation": "universidad / colegio",
+      "lexeme_id": "college",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_010",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "high school",
+      "role": "support",
+      "status": "practiced",
+      "translation": "escuela secundaria / bachillerato",
+      "lexeme_id": "high_school",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_011",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "secondary school",
+      "role": "support",
+      "status": "practiced",
+      "translation": "escuela secundaria",
+      "lexeme_id": "secondary_school",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_008",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "degree",
+      "role": "support",
+      "status": "practiced",
+      "translation": "grado",
+      "lexeme_id": "degree",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_003",
+        "ex_007",
+        "ex_010",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "math",
+      "role": "support",
+      "status": "practiced",
+      "translation": "mates / matemática / matemático",
+      "lexeme_id": "math",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_005",
+        "ex_011",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "grade",
+      "role": "support",
+      "status": "practiced",
+      "translation": "grado",
+      "lexeme_id": "grade",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_011",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "score",
+      "role": "support",
+      "status": "practiced",
+      "translation": "puntuación",
+      "lexeme_id": "score",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_002",
+        "ex_009",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "research",
+      "role": "support",
+      "status": "practiced",
+      "translation": "investigación",
+      "lexeme_id": "research",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_003",
+        "ex_010",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "history",
+      "role": "support",
+      "status": "practiced",
+      "translation": "historia",
+      "lexeme_id": "history",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_010",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "art",
+      "role": "support",
+      "status": "practiced",
+      "translation": "arte",
+      "lexeme_id": "art",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_007",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "look up",
+      "role": "support",
+      "status": "practiced",
+      "translation": "buscar (en un diccionario)",
+      "lexeme_id": "look_up_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_010",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "permit",
+      "role": "support",
+      "status": "review",
+      "translation": "permiso / licencia",
+      "lexeme_id": "permit",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_012"
+      ]
+    },
+    {
+      "term": "skill",
+      "role": "support",
+      "status": "review",
+      "translation": "habilidad",
+      "lexeme_id": "skill",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_013"
+      ]
+    },
+    {
+      "term": "shift",
+      "role": "support",
+      "status": "review",
+      "translation": "turno",
+      "lexeme_id": "shift",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_014"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "review",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_015"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_003",
+        "exm_004",
+        "exm_005",
+        "exm_007",
+        "exm_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "school",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuela / colegio",
+      "lexeme_id": "school",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_007",
+        "ex_011",
+        "ex_012",
+        "fc_002",
+        "fc_003",
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "look",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mirar",
+      "lexeme_id": "look_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_010",
+        "fc_011",
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "good",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bueno",
+      "lexeme_id": "good_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_006",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "university",
+      "role": "support",
+      "status": "emergent",
+      "translation": "universidad",
+      "lexeme_id": "university",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "science",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ciencia",
+      "lexeme_id": "science",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "get",
+      "role": "support",
+      "status": "emergent",
+      "translation": "obtener / conseguir / llegar",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "test",
+      "role": "support",
+      "status": "emergent",
+      "translation": "examen / prueba",
+      "lexeme_id": "test",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "exam",
+      "role": "support",
+      "status": "emergent",
+      "translation": "test / examen / prueba",
+      "lexeme_id": "exam",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_012",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_011"
+      ]
+    },
+    {
+      "term": "brother",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hermano",
+      "lexeme_id": "brother",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "dictionary",
+      "role": "support",
+      "status": "emergent",
+      "translation": "léxico / diccionario",
+      "lexeme_id": "dictionary",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "love",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amar / encantar",
+      "lexeme_id": "love_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "morning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mañana (parte del día)",
+      "lexeme_id": "morning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "weekend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fin de semana",
+      "lexeme_id": "weekend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "project",
+      "role": "support",
+      "status": "emergent",
+      "translation": "proyecto",
+      "lexeme_id": "project",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "subject",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "favorite",
+      "role": "support",
+      "status": "emergent",
+      "translation": "favorito",
+      "lexeme_id": "favorite",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "information",
+      "role": "support",
+      "status": "emergent",
+      "translation": "información",
+      "lexeme_id": "information",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "internet",
+      "role": "support",
+      "status": "emergent",
+      "translation": "internet",
+      "lexeme_id": "internet",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_005",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "day",
+      "role": "support",
+      "status": "emergent",
+      "translation": "día",
+      "lexeme_id": "day",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "mark",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nota / calificacion",
+      "lexeme_id": "mark",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "higher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "más alto",
+      "lexeme_id": "higher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "education",
+      "role": "support",
+      "status": "emergent",
+      "translation": "educación",
+      "lexeme_id": "education",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 11,
+    "review_support_count": 4,
+    "emergent_count": 28,
+    "emergent_terms": [
+      "study",
+      "school",
+      "look",
+      "good",
+      "university",
+      "science",
+      "get",
+      "word",
+      "test",
+      "exam",
+      "work",
+      "friend",
+      "brother",
+      "dictionary",
+      "love",
+      "morning",
+      "weekend",
+      "project",
+      "subject",
+      "want",
+      "student",
+      "favorite",
+      "information",
+      "internet",
+      "day",
+      "mark",
+      "higher",
+      "education"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Talking about your studies",
+      "title_target": "Quiz: Talking about your studies",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué estudia una persona en la universidad?",
+          "prompt_target": "What does a person study at university?",
+          "options": [
+            "college",
+            "high school",
+            "secondary school",
+            "grade"
+          ],
+          "correct_answer": "college",
+          "explanation_form": "College es la universidad o instituto superior. High school y secondary school son la escuela secundaria.",
+          "explanation_target": "College is the university or higher education institution. High school and secondary school are secondary education.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "college",
+            "high_school",
+            "secondary_school"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'She has a ____ in history.' (Ella tiene un título en historia.)",
+          "prompt_target": "Complete the sentence: 'She has a ____ in history.'",
+          "options": null,
+          "correct_answer": "degree",
+          "explanation_form": "Degree significa título universitario. Se usa con 'in' + la materia: a degree in history.",
+          "explanation_target": "Degree means university qualification. It is used with 'in' + the subject: a degree in history.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "degree",
+            "history"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué materia le gusta a Tom?",
+          "prompt_target": "Listen and answer: What subject does Tom like?",
+          "options": [
+            "math",
+            "science",
+            "history",
+            "art"
+          ],
+          "correct_answer": "math",
+          "explanation_form": "Tom dice que su materia favorita es math (matemáticas).",
+          "explanation_target": "Tom says his favorite subject is math.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "math",
+            "history",
+            "college"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Tom studies at college. He likes math and science. His favorite subject is math. He does not like history.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "I",
+            "study",
+            "art",
+            "at",
+            "college"
+          ],
+          "correct_answer": "I study art at college",
+          "explanation_form": "El orden correcto es: sujeto + verbo + objeto + lugar. 'I study art at college.'",
+          "explanation_target": "The correct order is: subject + verb + object + place. 'I study art at college.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "art",
+            "college",
+            "present simple: affirmative with study"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'to look up'?",
+          "prompt_target": "What does 'to look up' mean?",
+          "options": [
+            "buscar información",
+            "mirar arriba",
+            "esperar",
+            "encontrar"
+          ],
+          "correct_answer": "buscar información",
+          "explanation_form": "To look up significa buscar información, por ejemplo en un diccionario o en internet.",
+          "explanation_target": "To look up means to search for information, for example in a dictionary or on the internet.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "look_up_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué nota sacó María en el examen?",
+          "prompt_target": "Listen and answer: What score did Maria get on the exam?",
+          "options": [
+            "85",
+            "90",
+            "95",
+            "100"
+          ],
+          "correct_answer": "95",
+          "explanation_form": "María dice que su nota (score) fue 95.",
+          "explanation_target": "Maria says her score was 95.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "score",
+            "math",
+            "college",
+            "exam"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Maria is a student. She studies math at college. Yesterday she had an exam. She got a good score. Her score was 95.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué estudia Ana?",
+          "prompt_target": "Read the text and answer: What does Ana study?",
+          "options": [
+            "math",
+            "history and art",
+            "science",
+            "art only"
+          ],
+          "correct_answer": "history and art",
+          "explanation_form": "El texto dice que Ana estudia history y art en la universidad.",
+          "explanation_target": "The text says Ana studies history and art at college.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "history",
+            "art",
+            "degree",
+            "research",
+            "look_up_verb",
+            "college"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Ana is a student at college. She studies history and art. Her favorite subject is history. She has a degree in history. She wants to do research about old cities. She looks up information on the internet every day.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'She got a good ____ on the math test.' (Ella sacó una buena nota en el examen de matemáticas.)",
+          "prompt_target": "Complete: 'She got a good ____ on the math test.'",
+          "options": null,
+          "correct_answer": "grade",
+          "explanation_form": "Grade significa nota o calificación. También se puede usar 'score'.",
+          "explanation_target": "Grade means mark or score. You can also use 'score'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "grade",
+            "math"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "matching",
+          "prompt_form": "Emparejá cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "research",
+            "investigación",
+            "grade",
+            "nota",
+            "score",
+            "puntuación",
+            "degree",
+            "título"
+          ],
+          "correct_answer": [
+            "research=investigación",
+            "grade=nota",
+            "score=puntuación",
+            "degree=título"
+          ],
+          "explanation_form": "Research es investigación, grade es nota, score es puntuación y degree es título universitario.",
+          "explanation_target": "Research is investigation, grade is mark, score is score, and degree is university qualification.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "research",
+            "grade",
+            "score",
+            "degree"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿En qué lugar estudian los estudiantes de secundaria?",
+          "prompt_target": "Where do secondary school students study?",
+          "options": [
+            "college",
+            "high school",
+            "university",
+            "office"
+          ],
+          "correct_answer": "high school",
+          "explanation_form": "High school y secondary school son la escuela secundaria. College y university son educación superior.",
+          "explanation_target": "High school and secondary school are secondary education. College and university are higher education.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "high_school",
+            "secondary_school",
+            "college"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El presente simple para hablar de tus estudios\n\nUsa el presente simple para hablar de tu rutina de estudios: *I study math*, *She studies history*. Recuerda la **-s** en la tercera persona (he/she/it): *He studies art*. Para preguntar, usa *do/does*: *Do you study at college?*\n\n## Errores comunes y trucos\n\n- **No digas** *I study in the college* si hablas de tu centro en general. Usa *I study at college* o *I go to high school*.\n- **Grade** es el curso o nota en EE. UU. *I am in 10th grade* (curso) vs. *My score is 90* (nota de un examen).\n- **Look up** es \"buscar\": *I look up a word in the dictionary*. ¡No lo confundas con *look at* (mirar)!\n- **Truco**: *research* es \"investigación\" (sustantivo) y también \"investigar\" (verbo). *I do research for my degree*.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:58:52Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

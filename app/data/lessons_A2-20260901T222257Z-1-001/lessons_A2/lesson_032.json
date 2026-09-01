@@ -1,0 +1,1586 @@
+{
+  "id": "lesson_032",
+  "position": 32,
+  "unit_id": 4,
+  "course_id": "en.A2",
+  "title_form": "Describing places and landscapes",
+  "title_target": "Describiendo lugares y paisajes",
+  "theme_focus": "places",
+  "learning_objectives": [
+    "Can describe simple geographical features and places using basic adjectives and phrases."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_028"
+  ],
+  "grammar_focus": [
+    "there was / there were"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "coast",
+        "lake",
+        "desert",
+        "ocean",
+        "forest",
+        "east_adj",
+        "deep_adj",
+        "dry_adj"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "gate",
+        "get_in_verb",
+        "get_off_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "María acaba de volver de un viaje por el oeste del país. Le muestra fotos a su amigo Tom y le describe los lugares que visitó: la costa, el desierto, el lago y el bosque. Tom le hace preguntas sobre cómo eran esos lugares y María usa 'there was' y 'there were' para contarle.",
+  "introduction_md": "En esta lección vas a aprender a **describir lugares y paisajes** en inglés. Imagina que estás de viaje y quieres contarle a alguien cómo es el lugar donde estás: ¿hay un lago cerca? ¿La costa es rocosa? ¿El desierto es seco?\n\nVamos a practicar con:\n\n- **Palabras nuevas** para hablar de la naturaleza: *coast*, *lake*, *desert*, *ocean*, *forest*.\n- **Adjetivos** útiles: *deep*, *dry*, *east*.\n- La estructura **there was / there were** para hablar del pasado.\n\nAl final, podrás describir un paisaje y entender descripciones simples. ¡Vamos a explorar!",
+  "intro_target": "In this lesson you will learn to **describe places and landscapes** in English. Imagine you are traveling and you want to tell someone about the place where you are: is there a lake nearby? Is the coast rocky? Is the desert dry?\n\nWe will practice with:\n\n- **New words** to talk about nature: *coast*, *lake*, *desert*, *ocean*, *forest*.\n- **Useful adjectives**: *deep*, *dry*, *east*.\n- The structure **there was / there were** to talk about the past.\n\nAt the end, you will be able to describe a landscape and understand simple descriptions. Let's explore!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "coast",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There was a small village near the coast.",
+      "translation_form": "Había un pueblo pequeño cerca de la costa.",
+      "highlight_words": [
+        "coast"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "lake",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There was a lake behind the forest, and it was very deep.",
+      "translation_form": "Había un lago detrás del bosque, y era muy profundo.",
+      "highlight_words": [
+        "lake",
+        "forest",
+        "deep"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "desert",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The desert was dry and hot, but we had water.",
+      "translation_form": "El desierto estaba seco y caluroso, pero teníamos agua.",
+      "highlight_words": [
+        "desert",
+        "dry"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "ocean",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There was a big ocean to the east of the city.",
+      "translation_form": "Había un océano grande al este de la ciudad.",
+      "highlight_words": [
+        "ocean",
+        "east"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "forest",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There was a forest near the lake, and we walked there.",
+      "translation_form": "Había un bosque cerca del lago, y caminamos allí.",
+      "highlight_words": [
+        "forest",
+        "lake"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "east_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The east side of the island was quiet and beautiful.",
+      "translation_form": "El lado este de la isla era tranquilo y hermoso.",
+      "highlight_words": [
+        "east"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "deep_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "That lake is deep, so be careful when you swim.",
+      "translation_form": "Ese lago es profundo, así que ten cuidado cuando nades.",
+      "highlight_words": [
+        "lake",
+        "deep"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "dry_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The weather was dry, so we didn't need an umbrella.",
+      "translation_form": "El clima estaba seco, así que no necesitamos un paraguas.",
+      "highlight_words": [
+        "dry"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "there was / there were",
+      "title_form": "There was / There were (Había)",
+      "title_target": "There was / There were",
+      "description_md_form": "Usamos **there was** (singular) y **there were** (plural) para hablar de cosas que existían en el pasado. Es el pasado de *there is* y *there are*.\n\n- **There was** + sustantivo singular: `There was a lake.` (Había un lago.)\n- **There were** + sustantivo plural: `There were two forests.` (Había dos bosques.)\n\n**Importante:** En español decimos \"había\" para ambos, pero en inglés la forma cambia según el número. La estructura es: **There + was/were + lugar**.\n\nPara negar, usamos **there wasn't** (singular) y **there weren't** (plural): `There wasn't a desert.` (No había un desierto.)",
+      "description_md_target": "We use **there was** (singular) and **there were** (plural) to talk about things that existed in the past. It is the past of *there is* and *there are*.\n\n- **There was** + singular noun: `There was a lake.`\n- **There were** + plural noun: `There were two forests.`\n\n**Important:** In Spanish, we say \"había\" for both, but in English the form changes depending on the number. The structure is: **There + was/were + place**.\n\nFor negatives, we use **there wasn't** (singular) and **there weren't** (plural): `There wasn't a desert.`",
+      "grammar_structure": "There + was/were + (not) + noun + place",
+      "conjugation_table": {
+        "name": "there_was_were",
+        "headers": [
+          "Forma",
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "Afirmativo",
+            "There was a lake.",
+            "There were two lakes."
+          ],
+          [
+            "Negativo",
+            "There wasn't a lake.",
+            "There weren't two lakes."
+          ],
+          [
+            "Pregunta",
+            "Was there a lake?",
+            "Were there two lakes?"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "there was / there were",
+          "text_target": "There was a small village near the coast.",
+          "translation_form": "Había un pueblo pequeño cerca de la costa.",
+          "highlight_words": [
+            "there",
+            "was"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "there was / there were",
+          "text_target": "There were many trees in the forest.",
+          "translation_form": "Había muchos árboles en el bosque.",
+          "highlight_words": [
+            "there",
+            "were"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Tip:** En español, \"había\" sirve para singular y plural. En inglés, debes elegir **was** (singular) o **were** (plural). Piensa en el sustantivo que sigue."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas *\"There was two lakes\"*. Como *two lakes* es plural, debes usar **were**: *\"There were two lakes\"*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'there was' con sustantivos plurales: 'There was two forests' → correcto: 'There were two forests'.",
+        "Olvidar la palabra 'there': 'Was a lake' → correcto: 'There was a lake'.",
+        "Confundir 'was' y 'were' con 'había': en español no cambia, pero en inglés sí depende del número."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'coast'?",
+      "options": [
+        "Costa",
+        "Lago",
+        "Bosque",
+        "Desierto"
+      ],
+      "correct_answer": "Costa",
+      "explanation_md": "'Coast' significa 'costa', la tierra junto al mar.",
+      "related_lexeme_ids": [
+        "coast"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'deep'?",
+      "options": [
+        "Seco",
+        "Profundo",
+        "Grande",
+        "Cálido"
+      ],
+      "correct_answer": "Profundo",
+      "explanation_md": "'Deep' significa 'profundo', como un lago o un océano.",
+      "related_lexeme_ids": [
+        "deep_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "lake",
+        "Lago",
+        "desert",
+        "Desierto",
+        "ocean",
+        "Océano",
+        "forest",
+        "Bosque"
+      ],
+      "correct_answer": [
+        "lake=Lago",
+        "desert=Desierto",
+        "ocean=Océano",
+        "forest=Bosque"
+      ],
+      "explanation_md": "Estas palabras describen lugares naturales: lake (lago), desert (desierto), ocean (océano) y forest (bosque).",
+      "related_lexeme_ids": [
+        "lake",
+        "desert",
+        "ocean",
+        "forest"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración: 'The desert was very ____ and hot.'",
+      "options": [
+        "deep",
+        "dry",
+        "east",
+        "large"
+      ],
+      "correct_answer": "dry",
+      "explanation_md": "'Dry' significa 'seco'. Los desiertos son secos y calurosos.",
+      "related_lexeme_ids": [
+        "dry_adj",
+        "desert"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'there was' o 'there were': '____ a big ocean near the coast.'",
+      "options": null,
+      "correct_answer": "There was",
+      "explanation_md": "Usamos 'there was' para singular (a big ocean).",
+      "related_lexeme_ids": [
+        "ocean",
+        "coast"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'there was' o 'there were': '____ two lakes behind the forest.'",
+      "options": null,
+      "correct_answer": "There were",
+      "explanation_md": "Usamos 'there were' para plural (two lakes).",
+      "related_lexeme_ids": [
+        "lake",
+        "forest"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Había un desierto seco al este de la ciudad.'",
+      "options": null,
+      "correct_answer": "There was a dry desert to the east of the city.",
+      "explanation_md": "Usamos 'there was' para singular y 'to the east of' para indicar dirección.",
+      "related_lexeme_ids": [
+        "desert",
+        "dry_adj",
+        "east_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'There was a deep lake behind the forest.'",
+      "options": null,
+      "correct_answer": "Había un lago profundo detrás del bosque.",
+      "explanation_md": "'There was' se traduce como 'había' en singular.",
+      "related_lexeme_ids": [
+        "deep_adj",
+        "lake",
+        "forest"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué había cerca del lago?",
+      "options": null,
+      "correct_answer": "There was a forest behind the lake.",
+      "explanation_md": "El texto dice: 'Behind the lake, there was a forest with tall trees.'",
+      "related_lexeme_ids": [
+        "lake",
+        "coast",
+        "forest",
+        "dry_adj",
+        "deep_adj",
+        "east_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Last year, I visited a beautiful place. There was a big lake near the coast. Behind the lake, there was a forest with tall trees. To the east, there was a dry desert. The water in the lake was very deep and cold. It was a wonderful trip.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Cómo era el desierto?",
+      "options": [
+        "It was dry and hot.",
+        "It was deep and cold.",
+        "It was green and wet."
+      ],
+      "correct_answer": "It was dry and hot.",
+      "explanation_md": "El audio dice: 'It was very dry and hot.'",
+      "related_lexeme_ids": [
+        "desert",
+        "dry_adj",
+        "lake",
+        "forest"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "We walked through the desert. It was very dry and hot. There were no lakes or forests there. We had water, so we were fine. The trip was hard but exciting.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones describiendo un lugar que visitaste. Usa 'there was' o 'there were'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'there was/were' y vocabulario de lugares.",
+      "related_lexeme_ids": [
+        "lake",
+        "forest",
+        "desert",
+        "east_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "There was a beautiful lake near my house.",
+        "There were many trees in the forest.",
+        "There was a dry desert to the east."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta? '____ a big ocean to the east of the village.'",
+      "options": [
+        "There was",
+        "There were",
+        "There is",
+        "There are"
+      ],
+      "correct_answer": "There was",
+      "explanation_md": "Usamos 'there was' para singular en pasado (a big ocean).",
+      "related_lexeme_ids": [
+        "ocean",
+        "east_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "coast",
+      "back": "costa",
+      "hint": "la tierra junto al mar",
+      "lexeme_id": "coast",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "lake",
+      "back": "lago",
+      "hint": "agua dulce rodeada de tierra",
+      "lexeme_id": "lake",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "desert",
+      "back": "desierto",
+      "hint": "lugar muy seco con arena",
+      "lexeme_id": "desert",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "ocean",
+      "back": "océano",
+      "hint": "el mar grande y profundo",
+      "lexeme_id": "ocean",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "forest",
+      "back": "bosque",
+      "hint": "lugar con muchos árboles",
+      "lexeme_id": "forest",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "east",
+      "back": "este",
+      "hint": "dirección del sol al amanecer",
+      "lexeme_id": "east_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "deep",
+      "back": "profundo",
+      "hint": "el opuesto de poco fondo",
+      "lexeme_id": "deep_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "dry",
+      "back": "seco",
+      "hint": "sin agua",
+      "lexeme_id": "dry_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "gate",
+      "back": "puerta de embarque",
+      "hint": "en el aeropuerto",
+      "lexeme_id": "gate",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "get in",
+      "back": "subir (a un vehículo)",
+      "hint": "entrar a un coche",
+      "lexeme_id": "get_in_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "get off",
+      "back": "bajarse (de un vehículo)",
+      "hint": "salir de un autobús",
+      "lexeme_id": "get_off_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "coast",
+      "reading": "",
+      "translation": "costa",
+      "pos": "noun",
+      "example": "There was a small village near the coast.",
+      "example_translation": "Había un pueblo pequeño cerca de la costa.",
+      "lexeme_id": "coast",
+      "chunk_id": null
+    },
+    {
+      "target_word": "lake",
+      "reading": "",
+      "translation": "lago",
+      "pos": "noun",
+      "example": "There was a lake behind the forest, and it was very deep.",
+      "example_translation": "Había un lago detrás del bosque, y era muy profundo.",
+      "lexeme_id": "lake",
+      "chunk_id": null
+    },
+    {
+      "target_word": "desert",
+      "reading": "",
+      "translation": "desierto",
+      "pos": "noun",
+      "example": "The desert was dry and hot, but we had water.",
+      "example_translation": "El desierto estaba seco y caluroso, pero teníamos agua.",
+      "lexeme_id": "desert",
+      "chunk_id": null
+    },
+    {
+      "target_word": "ocean",
+      "reading": "",
+      "translation": "océano",
+      "pos": "noun",
+      "example": "There was a big ocean to the east of the city.",
+      "example_translation": "Había un océano grande al este de la ciudad.",
+      "lexeme_id": "ocean",
+      "chunk_id": null
+    },
+    {
+      "target_word": "forest",
+      "reading": "",
+      "translation": "bosque",
+      "pos": "noun",
+      "example": "There was a forest near the lake, and we walked there.",
+      "example_translation": "Había un bosque cerca del lago, y caminamos allí.",
+      "lexeme_id": "forest",
+      "chunk_id": null
+    },
+    {
+      "target_word": "east",
+      "reading": "",
+      "translation": "este",
+      "pos": "adjective",
+      "example": "The east side of the island was quiet and beautiful.",
+      "example_translation": "El lado este de la isla era tranquilo y hermoso.",
+      "lexeme_id": "east_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "deep",
+      "reading": "",
+      "translation": "profundo",
+      "pos": "adjective",
+      "example": "That lake is deep, so be careful when you swim.",
+      "example_translation": "Ese lago es profundo, así que ten cuidado cuando nades.",
+      "lexeme_id": "deep_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "dry",
+      "reading": "",
+      "translation": "seco / secar",
+      "pos": "adjective",
+      "example": "The weather was dry, so we didn't need an umbrella.",
+      "example_translation": "El clima estaba seco, así que no necesitamos un paraguas.",
+      "lexeme_id": "dry_adj",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "coast",
+      "role": "support",
+      "status": "practiced",
+      "translation": "costa",
+      "lexeme_id": "coast",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_005",
+        "ex_009",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "lake",
+      "role": "support",
+      "status": "practiced",
+      "translation": "lago",
+      "lexeme_id": "lake",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_003",
+        "ex_006",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "desert",
+      "role": "support",
+      "status": "practiced",
+      "translation": "desierto",
+      "lexeme_id": "desert",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_004",
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "ocean",
+      "role": "support",
+      "status": "practiced",
+      "translation": "océano",
+      "lexeme_id": "ocean",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_003",
+        "ex_005",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "forest",
+      "role": "support",
+      "status": "practiced",
+      "translation": "bosque",
+      "lexeme_id": "forest",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_003",
+        "ex_006",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "east",
+      "role": "support",
+      "status": "practiced",
+      "translation": "este",
+      "lexeme_id": "east_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "deep",
+      "role": "support",
+      "status": "practiced",
+      "translation": "profundo",
+      "lexeme_id": "deep_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_002",
+        "ex_008",
+        "ex_009",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "dry",
+      "role": "support",
+      "status": "practiced",
+      "translation": "seco / secar",
+      "lexeme_id": "dry_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_004",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "gate",
+      "role": "support",
+      "status": "review",
+      "translation": "puerta",
+      "lexeme_id": "gate",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "get in",
+      "role": "support",
+      "status": "review",
+      "translation": "subir / meterse en",
+      "lexeme_id": "get_in_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "get off",
+      "role": "support",
+      "status": "review",
+      "translation": "bajar (de un vehículo)",
+      "lexeme_id": "get_off_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "near",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_005",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "get",
+      "role": "support",
+      "status": "emergent",
+      "translation": "obtener / conseguir / llegar",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_010",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "water",
+      "role": "support",
+      "status": "emergent",
+      "translation": "agua",
+      "lexeme_id": "water",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_010",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_009",
+        "quiz_001:q_003",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "walk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caminar",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "hot",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caliente",
+      "lexeme_id": "hot_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "village",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pueblo",
+      "lexeme_id": "village",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "careful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cuidadoso",
+      "lexeme_id": "careful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "weather",
+      "role": "support",
+      "status": "emergent",
+      "translation": "clima / tiempo",
+      "lexeme_id": "weather",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "swim",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nadar",
+      "lexeme_id": "swim_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "umbrella",
+      "role": "support",
+      "status": "emergent",
+      "translation": "parasol / paraguas / sombrilla",
+      "lexeme_id": "umbrella",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "island",
+      "role": "support",
+      "status": "emergent",
+      "translation": "isla",
+      "lexeme_id": "island",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "emergent",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "tree",
+      "role": "support",
+      "status": "emergent",
+      "translation": "árbol",
+      "lexeme_id": "tree",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_004",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "place",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lugar",
+      "lexeme_id": "place",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_002",
+        "quiz_001:q_006",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "talk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hablar",
+      "lexeme_id": "talk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "visit",
+      "role": "support",
+      "status": "emergent",
+      "translation": "visitar",
+      "lexeme_id": "visit_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "cold",
+      "role": "support",
+      "status": "emergent",
+      "translation": "frío",
+      "lexeme_id": "cold_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "thing",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cosa",
+      "lexeme_id": "thing",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "trip",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viaje",
+      "lexeme_id": "trip",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "fill",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llenar",
+      "lexeme_id": "fill",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "fill in",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rellenar",
+      "lexeme_id": "fill_in_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "wonderful",
+      "role": "support",
+      "status": "emergent",
+      "translation": "maravilloso",
+      "lexeme_id": "wonderful_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "blank",
+      "role": "support",
+      "status": "emergent",
+      "translation": "espacio en blanco",
+      "lexeme_id": "blank",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 8,
+    "review_support_count": 3,
+    "emergent_count": 28,
+    "emergent_terms": [
+      "near",
+      "get",
+      "water",
+      "big",
+      "walk",
+      "city",
+      "small",
+      "hot",
+      "village",
+      "need",
+      "careful",
+      "weather",
+      "swim",
+      "umbrella",
+      "island",
+      "off",
+      "tree",
+      "place",
+      "word",
+      "talk",
+      "visit",
+      "cold",
+      "thing",
+      "trip",
+      "fill",
+      "fill in",
+      "wonderful",
+      "blank"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Describing places and landscapes",
+      "title_target": "Quiz: Describing places and landscapes",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "coast",
+            "costa",
+            "lake",
+            "lago",
+            "desert",
+            "desierto",
+            "ocean",
+            "océano"
+          ],
+          "correct_answer": [
+            "coast=costa",
+            "lake=lago",
+            "desert=desierto",
+            "ocean=océano"
+          ],
+          "explanation_form": "Estas son las palabras para los accidentes geográficos más grandes. Recordá: coast es la costa, lake es un lago, desert es un desierto y ocean es el océano.",
+          "explanation_target": "These are the words for the biggest geographic features. Remember: coast is the coast, lake is a lake, desert is a desert and ocean is the ocean.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "coast",
+            "lake",
+            "desert",
+            "ocean"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra describe un lugar con mucha agua?",
+          "prompt_target": "Which word describes a place with a lot of water?",
+          "options": [
+            "dry",
+            "deep",
+            "east",
+            "forest"
+          ],
+          "correct_answer": "deep",
+          "explanation_form": "Deep significa profundo. Un lago o un océano pueden ser deep (profundos). Dry significa seco, east significa este y forest es bosque.",
+          "explanation_target": "Deep means deep. A lake or an ocean can be deep. Dry means dry, east means east and forest is forest.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "deep_adj",
+            "dry_adj",
+            "east_adj",
+            "forest"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'There ____ a big lake near the city.' (había)",
+          "prompt_target": "Fill in the blank: 'There ____ a big lake near the city.'",
+          "options": null,
+          "correct_answer": "was",
+          "explanation_form": "Usamos 'there was' para hablar de una cosa en el pasado. Como 'a big lake' es singular, usamos 'was'.",
+          "explanation_target": "We use 'there was' to talk about one thing in the past. Because 'a big lake' is singular, we use 'was'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "there was / there were",
+            "lake"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'There ____ many trees in the forest.' (había)",
+          "prompt_target": "Fill in the blank: 'There ____ many trees in the forest.'",
+          "options": null,
+          "correct_answer": "were",
+          "explanation_form": "Usamos 'there were' para hablar de varias cosas en el pasado. Como 'many trees' es plural, usamos 'were'.",
+          "explanation_target": "We use 'there were' to talk about several things in the past. Because 'many trees' is plural, we use 'were'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "there was / there were",
+            "forest"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y respondé: ¿Qué había en el este?",
+          "prompt_target": "Read the text and answer: What was in the east?",
+          "options": [
+            "A big forest",
+            "A dry desert",
+            "A big lake",
+            "A deep ocean"
+          ],
+          "correct_answer": "A big forest",
+          "explanation_form": "El texto dice: 'In the east, there was a big forest.' (En el este, había un bosque grande).",
+          "explanation_target": "The text says: 'In the east, there was a big forest.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "east_adj",
+            "forest",
+            "coast",
+            "dry_adj"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Last summer, I visited a small village near the coast. The village was quiet and beautiful. In the east, there was a big forest. In the west, there was a dry desert. The people were friendly and the food was wonderful.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Cómo era el lago?",
+          "prompt_target": "Listen and answer: What was the lake like?",
+          "options": [
+            "Deep and cold",
+            "Dry and hot",
+            "Big and warm",
+            "Small and clean"
+          ],
+          "correct_answer": "Deep and cold",
+          "explanation_form": "El audio dice: 'The water was deep and cold.' (El agua era profunda y fría).",
+          "explanation_target": "The audio says: 'The water was deep and cold.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "lake",
+            "deep_adj"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "We walked to the lake yesterday. The water was deep and cold. There were many fish in the water. It was a beautiful place.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué había en el desierto?",
+          "prompt_target": "Listen and answer: What was in the desert?",
+          "options": [
+            "Trees and water",
+            "Sand and sun",
+            "Fish and boats",
+            "Houses and shops"
+          ],
+          "correct_answer": "Sand and sun",
+          "explanation_form": "El audio dice: 'There was only sand and sun.' (Solo había arena y sol).",
+          "explanation_target": "The audio says: 'There was only sand and sun.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "desert",
+            "dry_adj"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The desert was very dry. There were no trees and no water. There was only sand and sun. It was a hard place to live.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una frase correcta:",
+          "prompt_target": "Order the words to make a correct sentence:",
+          "options": [
+            "There",
+            "was",
+            "a",
+            "deep",
+            "ocean",
+            "near",
+            "the",
+            "coast"
+          ],
+          "correct_answer": "There was a deep ocean near the coast",
+          "explanation_form": "La frase correcta es: 'There was a deep ocean near the coast.' (Había un océano profundo cerca de la costa).",
+          "explanation_target": "The correct sentence is: 'There was a deep ocean near the coast.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "there was / there were",
+            "deep_adj",
+            "ocean",
+            "coast"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## There was / There were: el pasado de \"hay\"\n\nPara hablar de lugares en el pasado, usamos **there was** (singular) y **there were** (plural). Es el pasado de *there is / there are*. Ejemplo: *There was a lake near the coast* (Había un lago cerca de la costa) vs. *There were two forests* (Había dos bosques).\n\n## Errores comunes y trucos\n\n- **No digas \"there was two\"**: si el sustantivo es plural, siempre *there were*. El error más típico es olvidar el plural.\n- **Piensa en \"había\"**: en español usamos una sola palabra, pero en inglés la forma cambia con el número. Pregúntate: ¿es uno o varios?\n- **Truco visual**: *was* es para un solo lugar (a lake, a desert), *were* para varios (lakes, forests). Si dudas, mira el sustantivo que sigue.",
+  "metadata": {
+    "generated_at": "2026-08-31T18:54:45Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

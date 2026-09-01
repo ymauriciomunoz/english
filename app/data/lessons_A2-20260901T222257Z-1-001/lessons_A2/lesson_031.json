@@ -1,0 +1,1675 @@
+{
+  "id": "lesson_031",
+  "position": 31,
+  "unit_id": 4,
+  "course_id": "en.A2",
+  "title_form": "Finding your way around the airport",
+  "title_target": "Encontrando el camino en el aeropuerto",
+  "theme_focus": "transport",
+  "learning_objectives": [
+    "Can ask for and understand simple information about gates, platforms and routes."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_028"
+  ],
+  "grammar_focus": [
+    "imperatives: directions"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "platform",
+        "route",
+        "tour",
+        "guide",
+        "get_lost_phrase",
+        "get_on_verb",
+        "get_off_verb",
+        "get_in_verb",
+        "gate"
+      ],
+      "chunk_ids": [
+        "chunk_a2_where_is_the_gate"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "airport",
+        "flight",
+        "plane",
+        "arrive_verb"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana llega al aeropuerto internacional para tomar un vuelo. Necesita encontrar su gate, pero no sabe dónde está. Le pregunta a un guía, quien le da indicaciones claras con imperativos. Ana sigue la ruta, sube al tren interno del aeropuerto y baja en la plataforma correcta para llegar a tiempo a su vuelo.",
+  "introduction_md": "¡Bienvenido a tu lección sobre el aeropuerto! ✈️\n\nHoy vas a aprender a moverte con confianza en un aeropuerto internacional. Imagina que llegas a un país nuevo y necesitas encontrar tu puerta de embarque (gate) o la plataforma (platform) correcta.\n\nEn esta lección vas a:\n\n- **Preguntar** dónde está tu gate.\n- **Entender** indicaciones simples sobre rutas y plataformas.\n- **Usar** verbos como *get on* y *get off* para describir acciones.\n- **Seguir** instrucciones con imperativos (¡ve, gira, toma!).\n\nTodo esto te ayudará a sentirte más seguro cuando viajes. ¡Vamos a empezar!",
+  "intro_target": "Welcome to your lesson about the airport! ✈️\n\nToday you will learn to move with confidence in an international airport. Imagine you arrive in a new country and you need to find your gate or the correct platform.\n\nIn this lesson you will:\n\n- **Ask** where your gate is.\n- **Understand** simple directions about routes and platforms.\n- **Use** verbs like *get on* and *get off* to describe actions.\n- **Follow** instructions with imperatives (go, turn, take!).\n\nAll of this will help you feel more confident when you travel. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "get_lost_phrase",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Excuse me, where is the gate? I don't want to get lost.",
+      "translation_form": "Disculpe, ¿dónde está la puerta de embarque? No quiero perderme.",
+      "highlight_words": [
+        "gate"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "get_on_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Get on the train at platform 3, and get off at the airport.",
+      "translation_form": "Sube al tren en el andén 3 y bájate en el aeropuerto.",
+      "highlight_words": [
+        "platform",
+        "airport"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "get_off_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Get off the bus at the main station, then take the plane.",
+      "translation_form": "Bájate del autobús en la estación principal, luego toma el avión.",
+      "highlight_words": [
+        "plane"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "get_in_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Get in the taxi and tell the driver the route to the hotel.",
+      "translation_form": "Métete en el taxi y dile al conductor la ruta al hotel.",
+      "highlight_words": [
+        "route"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "platform",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The train to the airport leaves from platform 5.",
+      "translation_form": "El tren al aeropuerto sale del andén 5.",
+      "highlight_words": [
+        "platform",
+        "airport"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": "route",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Follow this route and you will arrive at the airport on time.",
+      "translation_form": "Sigue esta ruta y llegarás al aeropuerto a tiempo.",
+      "highlight_words": [
+        "route",
+        "arrive",
+        "airport"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": "tour",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The guide offers a tour of the city after the flight arrives.",
+      "translation_form": "El guía ofrece una gira por la ciudad después de que llegue el vuelo.",
+      "highlight_words": [
+        "guide",
+        "tour",
+        "flight"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "imperatives: directions",
+      "title_form": "Imperativos para dar direcciones",
+      "title_target": "Imperatives for directions",
+      "description_md_form": "Para dar direcciones en inglés, usamos el **imperativo**: la forma base del verbo sin sujeto. Es directo y claro.\n\n**Estructura:** `Verbo base + complemento`\n\n- `Get on the train.` (Sube al tren.)\n- `Get off at the airport.` (Bájate en el aeropuerto.)\n- `Get in the taxi.` (Métete en el taxi.)\n\nCon los verbos de movimiento, usamos **partículas** que cambian el significado:\n\n| Verbo | Significado |\n|-------|-------------|\n| `get on` | subir (a un vehículo grande) |\n| `get off` | bajar (de un vehículo) |\n| `get in` | subir / meterse (a un coche) |\n\nPara preguntar por una dirección, usamos el chunk: `Where is the gate?` (¿Dónde está la puerta?).",
+      "description_md_target": "To give directions in English, we use the **imperative**: the base form of the verb without a subject. It is direct and clear.\n\n**Structure:** `Base verb + complement`\n\n- `Get on the train.`\n- `Get off at the airport.`\n- `Get in the taxi.`\n\nWith movement verbs, we use **particles** that change the meaning:\n\n| Verb | Meaning |\n|------|---------|\n| `get on` | to board (a large vehicle) |\n| `get off` | to leave (a vehicle) |\n| `get in` | to enter (a car) |\n\nTo ask for directions, use the chunk: `Where is the gate?`",
+      "grammar_structure": "Base verb + complement",
+      "conjugation_table": {
+        "name": "imperative_directions",
+        "headers": [
+          "Verbo",
+          "Uso",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "get on",
+            "subir a un vehículo grande (tren, bus)",
+            "Get on the train."
+          ],
+          [
+            "get off",
+            "bajar de un vehículo",
+            "Get off at the airport."
+          ],
+          [
+            "get in",
+            "subir a un vehículo pequeño (taxi, coche)",
+            "Get in the taxi."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": "get_on_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Get on the train at platform 3.",
+          "translation_form": "Sube al tren en el andén 3.",
+          "highlight_words": [
+            "get",
+            "on"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": "get_off_verb",
+          "chunk_id": null,
+          "grammar_slug": null,
+          "text_target": "Get off the bus at the main station.",
+          "translation_form": "Bájate del autobús en la estación principal.",
+          "highlight_words": [
+            "get",
+            "off"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Recuerda:** `get on` y `get off` son para vehículos grandes (tren, bus, avión). `get in` es para vehículos pequeños (taxi, coche)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** No digas `get in the train`. Para trenes y buses, usa siempre `get on`."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'get in the train' en lugar de 'get on the train'.",
+        "Olvidar la partícula: 'get the bus' en lugar de 'get on the bus'.",
+        "Confundir 'get off' (bajar) con 'get on' (subir)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'gate'?",
+      "options": [
+        "Puerta de embarque",
+        "Andén",
+        "Ruta",
+        "Maleta"
+      ],
+      "correct_answer": "Puerta de embarque",
+      "explanation_md": "'Gate' es la puerta de embarque en un aeropuerto.",
+      "related_lexeme_ids": [
+        "gate"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'platform'?",
+      "options": [
+        "Andén",
+        "Puerta de embarque",
+        "Boleto",
+        "Avión"
+      ],
+      "correct_answer": "Andén",
+      "explanation_md": "'Platform' es el andén de una estación de tren.",
+      "related_lexeme_ids": [
+        "platform"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la frase: 'Get ____ the train at platform 3.'",
+      "options": [
+        "on",
+        "off",
+        "in",
+        "lost"
+      ],
+      "correct_answer": "on",
+      "explanation_md": "Se usa 'get on' para subir a un tren o autobús.",
+      "related_lexeme_ids": [
+        "get_on_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Qué frase usás para preguntar dónde está la puerta de embarque?",
+      "options": [
+        "Where is the gate?",
+        "Where is the platform?",
+        "Where is the route?",
+        "Where is the tour?"
+      ],
+      "correct_answer": "Where is the gate?",
+      "explanation_md": "La frase 'Where is the gate?' es la forma natural de preguntar por la puerta de embarque.",
+      "related_lexeme_ids": [
+        "gate"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_where_is_the_gate"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la frase: 'Get ____ the bus at the main station.' (bajarse)",
+      "options": null,
+      "correct_answer": "off",
+      "explanation_md": "Se usa 'get off' para bajarse de un tren o autobús.",
+      "related_lexeme_ids": [
+        "get_off_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la frase: 'Get ____ the taxi and tell the driver the route.' (meterse)",
+      "options": null,
+      "correct_answer": "in",
+      "explanation_md": "Se usa 'get in' para meterse en un taxi o auto.",
+      "related_lexeme_ids": [
+        "get_in_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "matching",
+      "prompt_md": "Empareja cada palabra con su significado:",
+      "options": [
+        "route",
+        "tour",
+        "guide",
+        "Ruta",
+        "Tour",
+        "Guía"
+      ],
+      "correct_answer": [
+        "route=Ruta",
+        "tour=Tour",
+        "guide=Guía"
+      ],
+      "explanation_md": "Estas palabras se usan para hablar de viajes y visitas.",
+      "related_lexeme_ids": [
+        "route",
+        "tour",
+        "guide"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'No quiero perderme.'",
+      "options": null,
+      "correct_answer": "I don't want to get lost.",
+      "explanation_md": "La frase 'get lost' significa 'perderse'.",
+      "related_lexeme_ids": [
+        "get_lost_phrase"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'Get on the train at platform 5.'",
+      "options": null,
+      "correct_answer": "Sube al tren en el andén 5.",
+      "explanation_md": "'Get on' es subir y 'platform' es andén.",
+      "related_lexeme_ids": [
+        "get_on_verb",
+        "platform"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Dónde está el tren?",
+      "options": [
+        "At the cafe",
+        "Near the cafe",
+        "At platform 5",
+        "At the station"
+      ],
+      "correct_answer": "Near the cafe",
+      "explanation_md": "El trabajador dice que la puerta está cerca del café.",
+      "related_lexeme_ids": [
+        "gate",
+        "get_lost_phrase"
+      ],
+      "related_chunk_ids": [
+        "chunk_a2_where_is_the_gate"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is at the airport. She has a flight at 3 o'clock. She asks a worker: 'Excuse me, where is the gate?' The worker says: 'Walk straight and turn left. The gate is near the cafe.' Ana thanks him and walks to the gate. She doesn't want to get lost.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hace el hombre?",
+      "options": [
+        "He gets on the train",
+        "He gets off the bus",
+        "He gets in a taxi",
+        "He gets lost"
+      ],
+      "correct_answer": "He gets on the train",
+      "explanation_md": "El hombre sube al tren en el andén 3.",
+      "related_lexeme_ids": [
+        "get_on_verb",
+        "get_off_verb",
+        "platform"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "The man is at the station. He gets on the train at platform 3. He gets off at the airport. He is happy because he doesn't get lost.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones dando direcciones en un aeropuerto. Usá 'get on', 'get off' o 'get lost'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de los phrasal verbs y las direcciones.",
+      "related_lexeme_ids": [
+        "get_on_verb",
+        "get_off_verb",
+        "get_lost_phrase",
+        "gate"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Get on the train at platform 2. Get off at the airport. Don't get lost.",
+        "Walk straight to the gate. Get on the plane and enjoy the flight."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "platform",
+      "back": "andén",
+      "hint": "en la estación de tren",
+      "lexeme_id": "platform",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "route",
+      "back": "ruta",
+      "hint": "el camino para ir de un lugar a otro",
+      "lexeme_id": "route",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "tour",
+      "back": "gira",
+      "hint": "visita guiada por un lugar",
+      "lexeme_id": "tour",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "guide",
+      "back": "guía",
+      "hint": "la persona que muestra el lugar",
+      "lexeme_id": "guide",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "get lost",
+      "back": "perderse",
+      "hint": "no saber dónde estás",
+      "lexeme_id": "get_lost_phrase",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "get on",
+      "back": "subir (a un vehículo)",
+      "hint": "entrar al tren o al autobús",
+      "lexeme_id": "get_on_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "get off",
+      "back": "bajar (de un vehículo)",
+      "hint": "salir del tren o del autobús",
+      "lexeme_id": "get_off_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "get in",
+      "back": "subir / meterse en",
+      "hint": "entrar a un coche o taxi",
+      "lexeme_id": "get_in_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "transport"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "gate",
+      "back": "puerta",
+      "hint": "la puerta de embarque en el aeropuerto",
+      "lexeme_id": "gate",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "Where is the gate?",
+      "back": "¿Dónde está la puerta (de embarque)?",
+      "hint": "pregunta para encontrar la puerta",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_where_is_the_gate",
+      "target_term": null,
+      "tags": [
+        "lesson_031",
+        "A2",
+        "travel"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "platform",
+      "reading": "",
+      "translation": "andén",
+      "pos": "noun",
+      "example": "The train to the airport leaves from platform 5.",
+      "example_translation": "El tren al aeropuerto sale del andén 5.",
+      "lexeme_id": "platform",
+      "chunk_id": null
+    },
+    {
+      "target_word": "route",
+      "reading": "",
+      "translation": "ruta",
+      "pos": "noun",
+      "example": "Follow this route and you will arrive at the airport on time.",
+      "example_translation": "Sigue esta ruta y llegarás al aeropuerto a tiempo.",
+      "lexeme_id": "route",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tour",
+      "reading": "",
+      "translation": "gira",
+      "pos": "noun",
+      "example": "The guide offers a tour of the city after the flight arrives.",
+      "example_translation": "El guía ofrece una gira por la ciudad después de que llegue el vuelo.",
+      "lexeme_id": "tour",
+      "chunk_id": null
+    },
+    {
+      "target_word": "guide",
+      "reading": "",
+      "translation": "guía",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "guide",
+      "chunk_id": null
+    },
+    {
+      "target_word": "get lost",
+      "reading": "",
+      "translation": "perderse",
+      "pos": "phrase",
+      "example": "Excuse me, where is the gate? I don't want to get lost.",
+      "example_translation": "Disculpe, ¿dónde está la puerta de embarque? No quiero perderme.",
+      "lexeme_id": "get_lost_phrase",
+      "chunk_id": null
+    },
+    {
+      "target_word": "get on",
+      "reading": "",
+      "translation": "subir (a un vehículo)",
+      "pos": "verb",
+      "example": "Get on the train at platform 3, and get off at the airport.",
+      "example_translation": "Sube al tren en el andén 3 y bájate en el aeropuerto.",
+      "lexeme_id": "get_on_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "get off",
+      "reading": "",
+      "translation": "bajar (de un vehículo)",
+      "pos": "verb",
+      "example": "Get off the bus at the main station, then take the plane.",
+      "example_translation": "Bájate del autobús en la estación principal, luego toma el avión.",
+      "lexeme_id": "get_off_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "get in",
+      "reading": "",
+      "translation": "subir / meterse en",
+      "pos": "verb",
+      "example": "Get in the taxi and tell the driver the route to the hotel.",
+      "example_translation": "Métete en el taxi y dile al conductor la ruta al hotel.",
+      "lexeme_id": "get_in_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "gate",
+      "reading": "",
+      "translation": "puerta",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "gate",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Where is the gate?",
+      "reading": "",
+      "translation": "¿Dónde está la puerta (de embarque)?",
+      "pos": "chunk",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_where_is_the_gate"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "platform",
+      "role": "support",
+      "status": "practiced",
+      "translation": "andén",
+      "lexeme_id": "platform",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_002",
+        "ex_009",
+        "ex_011",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "route",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ruta",
+      "lexeme_id": "route",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_007",
+        "ex_007",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "tour",
+      "role": "support",
+      "status": "practiced",
+      "translation": "gira",
+      "lexeme_id": "tour",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_008",
+        "ex_007",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "guide",
+      "role": "support",
+      "status": "practiced",
+      "translation": "guía",
+      "lexeme_id": "guide",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "get lost",
+      "role": "support",
+      "status": "practiced",
+      "translation": "perderse",
+      "lexeme_id": "get_lost_phrase",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_008",
+        "ex_010",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "get on",
+      "role": "support",
+      "status": "practiced",
+      "translation": "subir (a un vehículo)",
+      "lexeme_id": "get_on_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_003",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "get off",
+      "role": "support",
+      "status": "practiced",
+      "translation": "bajar (de un vehículo)",
+      "lexeme_id": "get_off_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_005",
+        "ex_011",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "get in",
+      "role": "support",
+      "status": "practiced",
+      "translation": "subir / meterse en",
+      "lexeme_id": "get_in_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_006",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "gate",
+      "role": "support",
+      "status": "practiced",
+      "translation": "puerta",
+      "lexeme_id": "gate",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_001",
+        "ex_004",
+        "ex_010",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "Where is the gate?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿Dónde está la puerta (de embarque)?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_a2_where_is_the_gate",
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_010",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "get",
+      "role": "support",
+      "status": "emergent",
+      "translation": "obtener / conseguir / llegar",
+      "lexeme_id": "get_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "exm_004",
+        "exm_005",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_005",
+        "fc_006",
+        "fc_007",
+        "fc_008",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_008",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "airport",
+      "role": "support",
+      "status": "emergent",
+      "translation": "aeropuerto",
+      "lexeme_id": "airport",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_006",
+        "exm_007",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "off",
+      "role": "support",
+      "status": "emergent",
+      "translation": "libre (de trabajo); apagado",
+      "lexeme_id": "off",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_004",
+        "ex_011",
+        "ex_012",
+        "fc_007",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "get lost",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_005",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "train",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tren",
+      "lexeme_id": "train",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_006",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "arrive",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llegar",
+      "lexeme_id": "arrive_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "exm_008"
+      ]
+    },
+    {
+      "term": "bus",
+      "role": "support",
+      "status": "emergent",
+      "translation": "autobús",
+      "lexeme_id": "bus",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_004",
+        "quiz_001:q_005",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "flight",
+      "role": "support",
+      "status": "emergent",
+      "translation": "vuelo",
+      "lexeme_id": "flight",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "station",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estación",
+      "lexeme_id": "station",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_011",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "excuse me",
+      "role": "support",
+      "status": "emergent",
+      "translation": "disculpe",
+      "lexeme_id": "excuse_me_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "follow",
+      "role": "support",
+      "status": "emergent",
+      "translation": "seguir",
+      "lexeme_id": "follow_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_004",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "plane",
+      "role": "support",
+      "status": "emergent",
+      "translation": "avión",
+      "lexeme_id": "plane",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "take",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tomar",
+      "lexeme_id": "take_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "tell",
+      "role": "support",
+      "status": "emergent",
+      "translation": "decir / contar",
+      "lexeme_id": "tell_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "leave",
+      "role": "support",
+      "status": "emergent",
+      "translation": "irse / salir / dejar",
+      "lexeme_id": "leave_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "offer",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ofrecer / oferta",
+      "lexeme_id": "offer",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "driver",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conductor / chofer",
+      "lexeme_id": "driver",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "hotel",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hotel",
+      "lexeme_id": "hotel",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "on time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "a tiempo / puntual",
+      "lexeme_id": "on_time_phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "taxi",
+      "role": "support",
+      "status": "emergent",
+      "translation": "taxi",
+      "lexeme_id": "taxi",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "person",
+      "role": "support",
+      "status": "emergent",
+      "translation": "persona",
+      "lexeme_id": "person",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "cafe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "walk",
+      "role": "support",
+      "status": "emergent",
+      "translation": "caminar",
+      "lexeme_id": "walk_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "straight",
+      "role": "support",
+      "status": "emergent",
+      "translation": "recto / derecho",
+      "lexeme_id": "straight_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "word",
+      "role": "support",
+      "status": "emergent",
+      "translation": "palabra",
+      "lexeme_id": "word",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "near",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "fill",
+      "role": "support",
+      "status": "emergent",
+      "translation": "llenar",
+      "lexeme_id": "fill",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_005",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 10,
+    "review_support_count": 0,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "get",
+      "airport",
+      "off",
+      "get lost",
+      "train",
+      "arrive",
+      "bus",
+      "flight",
+      "station",
+      "excuse me",
+      "follow",
+      "main",
+      "want",
+      "plane",
+      "city",
+      "take",
+      "time",
+      "tell",
+      "leave",
+      "offer",
+      "driver",
+      "hotel",
+      "on time",
+      "taxi",
+      "person",
+      "cafe",
+      "ask",
+      "walk",
+      "straight",
+      "word",
+      "near",
+      "fill"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Finding your way around the airport",
+      "title_target": "Quiz: Finding your way around the airport",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "matching",
+          "prompt_form": "Empareja cada palabra con su significado:",
+          "prompt_target": "Match each word with its meaning:",
+          "options": [
+            "gate",
+            "puerta de embarque",
+            "platform",
+            "andén",
+            "route",
+            "ruta",
+            "guide",
+            "guía"
+          ],
+          "correct_answer": [
+            "gate=puerta de embarque",
+            "platform=andén",
+            "route=ruta",
+            "guide=guía"
+          ],
+          "explanation_form": "Estas son palabras clave para moverte en el aeropuerto y la estación.",
+          "explanation_target": "These are key words to move around the airport and the station.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "gate",
+            "platform",
+            "route",
+            "guide"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta correcta:",
+          "prompt_target": "Order the words to form a correct question:",
+          "options": [
+            "Where",
+            "is",
+            "the",
+            "gate",
+            "?"
+          ],
+          "correct_answer": "Where is the gate?",
+          "explanation_form": "La pregunta correcta es 'Where is the gate?' (¿Dónde está la puerta de embarque?).",
+          "explanation_target": "The correct question is 'Where is the gate?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_where_is_the_gate",
+            "gate"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué dice la persona?",
+          "prompt_target": "Listen and answer: What does the person say?",
+          "options": [
+            "She asks where the gate is.",
+            "She asks where the cafe is.",
+            "She asks where the platform is.",
+            "She asks where the guide is."
+          ],
+          "correct_answer": "She asks where the gate is.",
+          "explanation_form": "La persona pregunta 'Where is the gate?' (¿Dónde está la puerta de embarque?).",
+          "explanation_target": "The person asks 'Where is the gate?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_where_is_the_gate",
+            "gate",
+            "flight"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Excuse me. Where is the gate? I have a flight at three. Is it near the cafe?",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué debe hacer la persona?",
+          "prompt_target": "Read the text and answer: What must the person do?",
+          "options": [
+            "Get on the bus and get off at the last platform.",
+            "Get in the car and drive to the airport.",
+            "Get off the bus and walk to the cafe.",
+            "Get on the train and go to the station."
+          ],
+          "correct_answer": "Get on the bus and get off at the last platform.",
+          "explanation_form": "El guía dice 'Get on the bus and get off at the last platform' (Sube al bus y baja en el último andén).",
+          "explanation_target": "The guide says 'Get on the bus and get off at the last platform'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "get_on_verb",
+            "get_off_verb",
+            "platform",
+            "guide",
+            "tour",
+            "route",
+            "get_lost_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "The tour starts at the main gate. The guide says: 'Get on the bus and get off at the last platform. Then, follow the route to the airport. Do not get lost!'",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: '____ the bus at the airport.'",
+          "prompt_target": "Fill in the blank: '____ the bus at the airport.'",
+          "options": null,
+          "correct_answer": "Get off",
+          "explanation_form": "La frase correcta es 'Get off the bus at the airport' (Baja del bus en el aeropuerto).",
+          "explanation_target": "The correct phrase is 'Get off the bus at the airport'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "get_off_verb",
+            "airport"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'get lost'?",
+          "prompt_target": "What does 'get lost' mean?",
+          "options": [
+            "Perderse",
+            "Encontrar",
+            "Llegar",
+            "Salir"
+          ],
+          "correct_answer": "Perderse",
+          "explanation_form": "'Get lost' significa 'perderse'.",
+          "explanation_target": "'Get lost' means 'to become lost'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "get_lost_phrase"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: '¿Dónde está la puerta de embarque?'",
+          "prompt_target": "Translate to English: 'Where is the gate?'",
+          "options": null,
+          "correct_answer": "Where is the gate?",
+          "explanation_form": "La traducción correcta es 'Where is the gate?'.",
+          "explanation_target": "The correct translation is 'Where is the gate?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_a2_where_is_the_gate",
+            "gate"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué verbo usamos para 'subir a un bus'?",
+          "prompt_target": "Which verb do we use for 'to get on a bus'?",
+          "options": [
+            "Get on",
+            "Get off",
+            "Get in",
+            "Get lost"
+          ],
+          "correct_answer": "Get on",
+          "explanation_form": "Usamos 'get on' para subir a un bus o tren.",
+          "explanation_target": "We use 'get on' to board a bus or train.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "get_on_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué instrucción da la persona?",
+          "prompt_target": "Listen and answer: What instruction does the person give?",
+          "options": [
+            "Get in the car and follow the guide.",
+            "Get on the bus and follow the guide.",
+            "Get off the train and follow the guide.",
+            "Get lost and follow the guide."
+          ],
+          "correct_answer": "Get in the car and follow the guide.",
+          "explanation_form": "La persona dice 'Get in the car' (Sube al auto) y 'Follow me' (Sígueme).",
+          "explanation_target": "The person says 'Get in the car' and 'Follow me'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "get_in_verb",
+            "guide",
+            "route",
+            "get_lost_phrase"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Get in the car. The guide will show you the route. Do not get lost. Follow me.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: 'The ____ starts at the main gate.'",
+          "prompt_target": "Fill in: 'The ____ starts at the main gate.'",
+          "options": null,
+          "correct_answer": "tour",
+          "explanation_form": "La frase correcta es 'The tour starts at the main gate' (El tour comienza en la puerta principal).",
+          "explanation_target": "The correct phrase is 'The tour starts at the main gate'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "tour",
+            "gate"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Imperativos para dar direcciones\n\nEn esta lección usamos el imperativo para dar instrucciones claras en el aeropuerto. Fíjate que en inglés el imperativo es muy simple: usamos el verbo sin sujeto. Por ejemplo, **\"Go to gate 5\"** o **\"Take the train\"**. No necesitas decir \"you\".\n\n## Errores comunes\n\n- **\"Get in\" vs \"get on\"**: usamos **get on** para aviones, trenes y autobuses (cosas donde caminas o subes). Usamos **get in** para coches y taxis (donde te sientas).\n- **\"Get off\" vs \"get out of\"**: lo mismo al revés. **Get off** para aviones y trenes; **get out of** para coches.\n- No digas **\"I lost\"** para \"me perdí\". En inglés necesitas el pronombre: **\"I got lost\"**.\n\nRecuerda: **gate** es la puerta de embarque, **platform** es el andén del tren. ¡Pregunta con confianza: **\"Where is the gate?\"**!",
+  "metadata": {
+    "generated_at": "2026-08-31T18:54:36Z",
+    "generated_by": "deepseek/deepseek-chat",
+    "model": "deepseek-chat",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

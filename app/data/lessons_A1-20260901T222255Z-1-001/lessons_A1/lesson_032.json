@@ -1,0 +1,1531 @@
+{
+  "id": "lesson_032",
+  "position": 32,
+  "unit_id": 5,
+  "course_id": "en.A1",
+  "title_form": "Animales y naturaleza",
+  "title_target": "Talking About Animals and Nature",
+  "theme_focus": "Identificar animales y describir paisajes naturales sencillos.",
+  "learning_objectives": [
+    "Can identify and name common animals and natural places.",
+    "Can describe a simple natural scene using there is/there are and basic adjectives."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_031"
+  ],
+  "grammar_focus": [
+    "there is/there are: affirmative descriptions with prepositions of place",
+    "singular and plural regular nouns"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "animal",
+        "bird",
+        "horse",
+        "cow",
+        "pig",
+        "sheep",
+        "elephant",
+        "mountain",
+        "river",
+        "tree",
+        "sea",
+        "small_adj",
+        "mouse",
+        "lion"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "dog",
+        "cat",
+        "farm",
+        "garden",
+        "island",
+        "there_is_verb",
+        "there_are_verb",
+        "big_adj",
+        "in_prep",
+        "near_prep"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Tomás visita una granja y un parque natural cerca de su casa. Camina por el campo, ve animales y describe el paisaje. Luego, en el parque, observa un río, montañas y árboles. A lo largo de la lección, Tomás aprende a nombrar lo que ve y a describir la escena con there is y there are.",
+  "introduction_md": "¡Bienvenido a la lección **Animales y naturaleza**! Hoy vas a aprender a nombrar animales comunes y lugares naturales. También vas a describir escenas simples con *there is* y *there are*. \n\n- Aprenderás 14 palabras nuevas: animales y paisajes.  \n- Practicarás con ejemplos de la vida real.  \n- Terminarás con un quiz para comprobar tu progreso.  \n\nImagina que estás en un parque o en una granja: ¿qué ves? Con esta lección podrás decirlo en inglés. ¡Vamos a empezar!",
+  "intro_target": "Welcome to the lesson **Animals and Nature**! Today you will learn to name common animals and natural places. You will also describe simple scenes with *there is* and *there are*. \n\n- You will learn 14 new words: animals and landscapes.  \n- You will practice with real-life examples.  \n- You will finish with a quiz to check your progress.  \n\nImagine you are in a park or on a farm: what do you see? With this lesson you can say it in English. Let's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "there_is_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There is a small bird in the garden.",
+      "translation_form": "Hay un pájaro pequeño en el jardín.",
+      "highlight_words": [
+        "bird",
+        "small",
+        "garden",
+        "in"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": "there_are_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There are two cows and a horse on the farm.",
+      "translation_form": "Hay dos vacas y un caballo en la granja.",
+      "highlight_words": [
+        "cow",
+        "horse",
+        "farm"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "animal",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The lion is a big animal.",
+      "translation_form": "El león es un animal grande.",
+      "highlight_words": [
+        "lion",
+        "animal",
+        "big"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "mountain",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There is a river near the mountain.",
+      "translation_form": "Hay un río cerca de la montaña.",
+      "highlight_words": [
+        "river",
+        "mountain",
+        "near"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "sheep",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There are three sheep and a pig on the farm.",
+      "translation_form": "Hay tres ovejas y un cerdo en la granja.",
+      "highlight_words": [
+        "sheep",
+        "pig",
+        "farm"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "sea",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "There is an elephant and a mouse near the sea.",
+      "translation_form": "Hay un elefante y un ratón cerca del mar.",
+      "highlight_words": [
+        "elephant",
+        "mouse",
+        "sea",
+        "near"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "there is/there are: affirmative descriptions with prepositions of place",
+      "title_form": "There is / There are: descripciones afirmativas con preposiciones de lugar",
+      "title_target": "There is / There are: affirmative descriptions with prepositions of place",
+      "description_md_form": "Usamos **there is** para una cosa y **there are** para dos o más. Es la forma de decir *hay* en inglés.\n\n- **There is** + una cosa: `There is a bird in the tree.`\n- **There are** + dos o más cosas: `There are two cows on the farm.`\n\nPara decir *dónde* está algo, usamos preposiciones como **in** (en) y **near** (cerca de).\n\n| Singular | Plural |\n|----------|--------|\n| There is a river. | There are two rivers. |\n\nLa estructura es simple: **There is/are + cosa + lugar**. No cambia con la persona, solo con singular o plural.",
+      "description_md_target": "We use **there is** for one thing and **there are** for two or more. It is the way to say *hay* in English.\n\n- **There is** + one thing: `There is a bird in the tree.`\n- **There are** + two or more things: `There are two cows on the farm.`\n\nTo say *where* something is, we use prepositions like **in** and **near**.\n\n| Singular | Plural |\n|----------|--------|\n| There is a river. | There are two rivers. |\n\nThe structure is simple: **There is/are + thing + place**. It does not change with the person, only with singular or plural.",
+      "grammar_structure": "There is/are + noun + preposition + place",
+      "conjugation_table": {
+        "name": "there_is_there_are",
+        "headers": [
+          "Forma",
+          "Uso",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "There is",
+            "Una cosa (singular)",
+            "There is a mountain."
+          ],
+          [
+            "There are",
+            "Dos o más cosas (plural)",
+            "There are three sheep."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "there is/there are: affirmative descriptions with prepositions of place",
+          "text_target": "There is a small bird in the garden.",
+          "translation_form": "Hay un pájaro pequeño en el jardín.",
+          "highlight_words": [
+            "there",
+            "is",
+            "in"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "there is/there are: affirmative descriptions with prepositions of place",
+          "text_target": "There are two cows and a horse on the farm.",
+          "translation_form": "Hay dos vacas y un caballo en la granja.",
+          "highlight_words": [
+            "there",
+            "are",
+            "on"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**There is** se usa solo con una cosa. **There are** se usa con dos o más. No digas *there is two cows*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "En español decimos *hay* para todo. En inglés, **siempre** debes elegir entre **there is** (singular) y **there are** (plural)."
+        }
+      ],
+      "common_errors_es": [
+        "Decir 'there are a bird' en lugar de 'there is a bird' (singular).",
+        "Olvidar la preposición: 'there is a bird the tree' en lugar de 'there is a bird in the tree'.",
+        "Usar 'there is' con plural: 'there is two cows' en lugar de 'there are two cows'."
+      ]
+    },
+    {
+      "slug": "singular and plural regular nouns",
+      "title_form": "Singular y plural de sustantivos regulares",
+      "title_target": "Singular and Plural Regular Nouns",
+      "description_md_form": "En inglés, para hablar de **una sola cosa** usamos el singular: *a bird* (un pájaro). Para hablar de **dos o más cosas** usamos el plural. La regla más común es añadir **-s** al final: *bird* → *birds*.\n\nSi la palabra termina en **-s, -sh, -ch, -x** o **-z**, añadimos **-es**: *horse* → *horses*.\n\nSi termina en **consonante + -y**, cambiamos la **-y** por **-ies**: *cow* → *cows* (esto es regular, pero con cambio de letra).\n\n**¡Ojo!** Algunas palabras son irregulares y no siguen estas reglas, como *sheep* → *sheep* o *mouse* → *mice*. Las veremos en las tarjetas.",
+      "description_md_target": "In English, to talk about **one thing** we use the singular: *a bird*. To talk about **two or more things** we use the plural. The most common rule is to add **-s** at the end: *bird* → *birds*.\n\nIf the word ends in **-s, -sh, -ch, -x** or **-z**, we add **-es**: *horse* → *horses*.\n\nIf it ends in **consonant + -y**, we change the **-y** to **-ies**: *cow* → *cows* (this is regular, but with a letter change).\n\n**Careful!** Some words are irregular and do not follow these rules, like *sheep* → *sheep* or *mouse* → *mice*. We will see them in the flashcards.",
+      "grammar_structure": "Singular: a/an + noun | Plural: noun + -s / -es / -ies",
+      "conjugation_table": {
+        "name": "regular_plural_rules",
+        "headers": [
+          "Regla",
+          "Singular",
+          "Plural"
+        ],
+        "rows": [
+          [
+            "Añadir -s",
+            "bird",
+            "birds"
+          ],
+          [
+            "Añadir -es (termina en -s, -sh, -ch, -x, -z)",
+            "horse",
+            "horses"
+          ],
+          [
+            "Cambiar -y por -ies (consonante + -y)",
+            "cow",
+            "cows"
+          ],
+          [
+            "Irregular (no sigue la regla)",
+            "sheep",
+            "sheep"
+          ],
+          [
+            "Irregular (no sigue la regla)",
+            "mouse",
+            "mice"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "singular and plural regular nouns",
+          "text_target": "There are two cows and a horse on the farm.",
+          "translation_form": "Hay dos vacas y un caballo en la granja.",
+          "highlight_words": [
+            "cows",
+            "horse"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "singular and plural regular nouns",
+          "text_target": "There is a small bird in the garden.",
+          "translation_form": "Hay un pájaro pequeño en el jardín.",
+          "highlight_words": [
+            "bird"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Pista:** Si no estás seguro de cómo formar el plural, piensa en la última letra. Si termina en **-s, -sh, -ch, -x** o **-z**, usa **-es**. Si no, usa **-s**."
+        },
+        {
+          "type": "warning",
+          "text_md": "**¡Cuidado!** *Sheep* (oveja) es igual en singular y plural: *one sheep*, *two sheep*. No digas *sheeps*."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** *Mouse* (ratón) se convierte en *mice* en plural, no *mouses*. Es una palabra irregular."
+        }
+      ],
+      "common_errors_es": [
+        "Decir *sheeps* en lugar de *sheep* para el plural de oveja.",
+        "Decir *mouses* en lugar de *mice* para el plural de ratón.",
+        "Olvidar añadir **-es** a palabras que terminan en **-s, -sh, -ch, -x** o **-z**, como *horse* → *horses*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'sheep'?",
+      "options": [
+        "oveja",
+        "cerdo",
+        "vaca",
+        "caballo"
+      ],
+      "correct_answer": "oveja",
+      "explanation_md": "'Sheep' significa 'oveja'. Es un animal de la granja.",
+      "related_lexeme_ids": [
+        "sheep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'mountain'?",
+      "options": [
+        "río",
+        "montaña",
+        "mar",
+        "árbol"
+      ],
+      "correct_answer": "montaña",
+      "explanation_md": "'Mountain' significa 'montaña'. Es una elevación natural del terreno.",
+      "related_lexeme_ids": [
+        "mountain"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "matching",
+      "prompt_md": "Empareja cada animal con su nombre en inglés:",
+      "options": [
+        "caballo",
+        "horse",
+        "cerdo",
+        "pig",
+        "león",
+        "lion",
+        "elefante",
+        "elephant"
+      ],
+      "correct_answer": [
+        "horse=caballo",
+        "pig=cerdo",
+        "lion=león",
+        "elephant=elefante"
+      ],
+      "explanation_md": "Estos son los nombres de animales en inglés.",
+      "related_lexeme_ids": [
+        "horse",
+        "pig",
+        "lion",
+        "elephant"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "multiple_choice",
+      "prompt_md": "Completá la oración: 'There is a ____ in the garden.' (Hay un pájaro en el jardín.)",
+      "options": [
+        "bird",
+        "cow",
+        "sea",
+        "tree"
+      ],
+      "correct_answer": "bird",
+      "explanation_md": "'Bird' significa 'pájaro'. La oración completa es 'There is a bird in the garden.'",
+      "related_lexeme_ids": [
+        "bird"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con 'is' o 'are': 'There ____ two cows on the farm.'",
+      "options": null,
+      "correct_answer": "are",
+      "explanation_md": "Usamos 'are' porque 'two cows' es plural.",
+      "related_lexeme_ids": [
+        "cow"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con 'is' o 'are': 'There ____ a river near the mountain.'",
+      "options": null,
+      "correct_answer": "is",
+      "explanation_md": "Usamos 'is' porque 'a river' es singular.",
+      "related_lexeme_ids": [
+        "river",
+        "mountain"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Hay un elefante en el zoológico.'",
+      "options": null,
+      "correct_answer": "There is an elephant in the zoo.",
+      "explanation_md": "Usamos 'There is' para singular y 'an' antes de vocal.",
+      "related_lexeme_ids": [
+        "elephant"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'There are three sheep and a pig on the farm.'",
+      "options": null,
+      "correct_answer": "Hay tres ovejas y un cerdo en la granja.",
+      "explanation_md": "La oración describe animales en la granja.",
+      "related_lexeme_ids": [
+        "sheep",
+        "pig"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué hay en el jardín?",
+      "options": null,
+      "correct_answer": "There is a big tree and a small bird. There are two cats near the tree.",
+      "explanation_md": "El texto describe los elementos del jardín: un árbol grande, un pájaro pequeño y dos gatos.",
+      "related_lexeme_ids": [
+        "tree",
+        "bird",
+        "small_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "This is my garden. There is a big tree and a small bird in it. There are two cats near the tree. The cats are small. I like my garden.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué hay cerca de la montaña?",
+      "options": [
+        "Un río",
+        "Un mar",
+        "Un árbol",
+        "Una casa"
+      ],
+      "correct_answer": "Un río",
+      "explanation_md": "El audio dice 'There is a river near the mountain'.",
+      "related_lexeme_ids": [
+        "river",
+        "mountain",
+        "horse",
+        "cow"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "There is a river near the mountain. There are two horses and a cow on the farm. The farm is near the river.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué animal es grande?",
+      "options": [
+        "El león y el elefante",
+        "El ratón y el pájaro",
+        "El león y el ratón",
+        "El elefante y el pájaro"
+      ],
+      "correct_answer": "El león y el elefante",
+      "explanation_md": "El audio dice que el león y el elefante son grandes.",
+      "related_lexeme_ids": [
+        "lion",
+        "elephant",
+        "mouse",
+        "bird",
+        "small_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Look at the animals. The lion is big. The mouse is small. The elephant is very big. The bird is small.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones sobre tu granja o jardín imaginario. Usá 'There is' o 'There are' y los animales o elementos de la naturaleza que aprendiste.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de 'There is/are' y el vocabulario de animales y naturaleza.",
+      "related_lexeme_ids": [
+        "animal",
+        "bird",
+        "horse",
+        "cow",
+        "pig",
+        "sheep",
+        "elephant",
+        "mountain",
+        "river",
+        "tree",
+        "sea",
+        "small_adj",
+        "mouse",
+        "lion"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "There is a small bird in my garden.",
+        "There are two cows and a horse on my farm.",
+        "There is a river near my house."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "animal",
+      "back": "animal",
+      "hint": "ser vivo que no es planta",
+      "lexeme_id": "animal",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "bird",
+      "back": "pájaro",
+      "hint": "tiene alas y vuela",
+      "lexeme_id": "bird",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "horse",
+      "back": "caballo",
+      "hint": "animal grande de la granja",
+      "lexeme_id": "horse",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "cow",
+      "back": "vaca",
+      "hint": "da leche",
+      "lexeme_id": "cow",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "pig",
+      "back": "cerdo",
+      "hint": "animal rosado de la granja",
+      "lexeme_id": "pig",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "sheep",
+      "back": "oveja",
+      "hint": "tiene lana",
+      "lexeme_id": "sheep",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "general"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "elephant",
+      "back": "elefante",
+      "hint": "animal muy grande con trompa",
+      "lexeme_id": "elephant",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "mountain",
+      "back": "montaña",
+      "hint": "elevación natural del terreno",
+      "lexeme_id": "mountain",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "nature"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "river",
+      "back": "río",
+      "hint": "agua que fluye",
+      "lexeme_id": "river",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "nature"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "tree",
+      "back": "árbol",
+      "hint": "planta alta con tronco",
+      "lexeme_id": "tree",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "nature"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "sea",
+      "back": "mar",
+      "hint": "agua salada grande",
+      "lexeme_id": "sea",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "small",
+      "back": "pequeño",
+      "hint": "opuesto de grande",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "appearance"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "mouse",
+      "back": "ratón",
+      "hint": "animal pequeño",
+      "lexeme_id": "mouse",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "lion",
+      "back": "león",
+      "hint": "rey de la selva",
+      "lexeme_id": "lion",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_032",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "animal",
+      "reading": "",
+      "translation": "animal",
+      "pos": "noun",
+      "example": "The lion is a big animal.",
+      "example_translation": "El león es un animal grande.",
+      "lexeme_id": "animal",
+      "chunk_id": null
+    },
+    {
+      "target_word": "bird",
+      "reading": "",
+      "translation": "pájaro",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "bird",
+      "chunk_id": null
+    },
+    {
+      "target_word": "horse",
+      "reading": "",
+      "translation": "caballo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "horse",
+      "chunk_id": null
+    },
+    {
+      "target_word": "cow",
+      "reading": "",
+      "translation": "vaca",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "cow",
+      "chunk_id": null
+    },
+    {
+      "target_word": "pig",
+      "reading": "",
+      "translation": "cerdo",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "pig",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sheep",
+      "reading": "",
+      "translation": "oveja",
+      "pos": "noun",
+      "example": "There are three sheep and a pig on the farm.",
+      "example_translation": "Hay tres ovejas y un cerdo en la granja.",
+      "lexeme_id": "sheep",
+      "chunk_id": null
+    },
+    {
+      "target_word": "elephant",
+      "reading": "",
+      "translation": "elefante",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "elephant",
+      "chunk_id": null
+    },
+    {
+      "target_word": "mountain",
+      "reading": "",
+      "translation": "montaña",
+      "pos": "noun",
+      "example": "There is a river near the mountain.",
+      "example_translation": "Hay un río cerca de la montaña.",
+      "lexeme_id": "mountain",
+      "chunk_id": null
+    },
+    {
+      "target_word": "river",
+      "reading": "",
+      "translation": "río",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "river",
+      "chunk_id": null
+    },
+    {
+      "target_word": "tree",
+      "reading": "",
+      "translation": "árbol",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "tree",
+      "chunk_id": null
+    },
+    {
+      "target_word": "sea",
+      "reading": "",
+      "translation": "mar",
+      "pos": "noun",
+      "example": "There is an elephant and a mouse near the sea.",
+      "example_translation": "Hay un elefante y un ratón cerca del mar.",
+      "lexeme_id": "sea",
+      "chunk_id": null
+    },
+    {
+      "target_word": "small",
+      "reading": "",
+      "translation": "pequeño",
+      "pos": "adjective",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "small_adj",
+      "chunk_id": null
+    },
+    {
+      "target_word": "mouse",
+      "reading": "",
+      "translation": "ratón",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "mouse",
+      "chunk_id": null
+    },
+    {
+      "target_word": "lion",
+      "reading": "",
+      "translation": "león",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "lion",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "animal",
+      "role": "support",
+      "status": "practiced",
+      "translation": "animal",
+      "lexeme_id": "animal",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_012",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "bird",
+      "role": "support",
+      "status": "practiced",
+      "translation": "pájaro",
+      "lexeme_id": "bird",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "horse",
+      "role": "support",
+      "status": "practiced",
+      "translation": "caballo",
+      "lexeme_id": "horse",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_010",
+        "ex_012",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "cow",
+      "role": "support",
+      "status": "practiced",
+      "translation": "vaca",
+      "lexeme_id": "cow",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_010",
+        "ex_012",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "pig",
+      "role": "support",
+      "status": "practiced",
+      "translation": "cerdo",
+      "lexeme_id": "pig",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_008",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "sheep",
+      "role": "support",
+      "status": "practiced",
+      "translation": "oveja",
+      "lexeme_id": "sheep",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_001",
+        "ex_008",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "elephant",
+      "role": "support",
+      "status": "practiced",
+      "translation": "elefante",
+      "lexeme_id": "elephant",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_007",
+        "ex_011",
+        "ex_012",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "mountain",
+      "role": "support",
+      "status": "practiced",
+      "translation": "montaña",
+      "lexeme_id": "mountain",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_002",
+        "ex_006",
+        "ex_010",
+        "ex_012",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "river",
+      "role": "support",
+      "status": "practiced",
+      "translation": "río",
+      "lexeme_id": "river",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_006",
+        "ex_010",
+        "ex_012",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "tree",
+      "role": "support",
+      "status": "practiced",
+      "translation": "árbol",
+      "lexeme_id": "tree",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "fc_010"
+      ]
+    },
+    {
+      "term": "sea",
+      "role": "support",
+      "status": "practiced",
+      "translation": "mar",
+      "lexeme_id": "sea",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "ex_012",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "small",
+      "role": "support",
+      "status": "practiced",
+      "translation": "pequeño",
+      "lexeme_id": "small_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "mouse",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ratón",
+      "lexeme_id": "mouse",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "lion",
+      "role": "support",
+      "status": "practiced",
+      "translation": "león",
+      "lexeme_id": "lion",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_003",
+        "ex_011",
+        "ex_012",
+        "fc_014"
+      ]
+    },
+    {
+      "term": "there is",
+      "role": "support",
+      "status": "review",
+      "translation": "hay (singular)",
+      "lexeme_id": "there_is_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "there are",
+      "role": "support",
+      "status": "review",
+      "translation": "hay (plural)",
+      "lexeme_id": "there_are_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "near",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "exm_006",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "farm",
+      "role": "support",
+      "status": "emergent",
+      "translation": "finca / fundo / masía",
+      "lexeme_id": "farm",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_005",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "big",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grande",
+      "lexeme_id": "big_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_003",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "garden",
+      "role": "support",
+      "status": "emergent",
+      "translation": "jardín",
+      "lexeme_id": "garden",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "too",
+      "role": "support",
+      "status": "emergent",
+      "translation": "también; demasiado",
+      "lexeme_id": "too_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_004",
+        "quiz_001:q_005"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 14,
+    "review_support_count": 2,
+    "emergent_count": 5,
+    "emergent_terms": [
+      "near",
+      "farm",
+      "big",
+      "garden",
+      "too"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Animales y naturaleza",
+      "title_target": "Quiz: Talking About Animals and Nature",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "matching",
+          "prompt_form": "Empareja cada animal con su traducción:",
+          "prompt_target": null,
+          "options": [
+            "horse",
+            "caballo",
+            "cow",
+            "vaca",
+            "sheep",
+            "oveja",
+            "pig",
+            "cerdo"
+          ],
+          "correct_answer": [
+            "horse=caballo",
+            "cow=vaca",
+            "sheep=oveja",
+            "pig=cerdo"
+          ],
+          "explanation_form": "Estos son animales de granja comunes. Horse es caballo, cow es vaca, sheep es oveja y pig es cerdo.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "horse",
+            "cow",
+            "sheep",
+            "pig"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": null,
+          "options": [
+            "There",
+            "is",
+            "a",
+            "mouse",
+            "in",
+            "the",
+            "garden"
+          ],
+          "correct_answer": "There is a mouse in the garden",
+          "explanation_form": "La estructura correcta es 'There is' + sustantivo singular + lugar. 'There is a mouse in the garden' significa 'Hay un ratón en el jardín'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "mouse",
+            "there_is_verb",
+            "garden"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Qué animal está en la montaña?",
+          "prompt_target": null,
+          "options": [
+            "The lion",
+            "The cow",
+            "The horse",
+            "The mouse"
+          ],
+          "correct_answer": "The lion",
+          "explanation_form": "El audio dice 'There is a lion on the mountain', así que el animal en la montaña es el león.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "lion",
+            "mountain",
+            "there_is_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "There is a lion on the mountain. The lion is big. The river is near the mountain.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿Dónde está el elefante?",
+          "prompt_target": null,
+          "options": [
+            "Near the river",
+            "On the mountain",
+            "In the sea",
+            "In the garden"
+          ],
+          "correct_answer": "Near the river",
+          "explanation_form": "El audio dice 'The elephant is near the river', así que el elefante está cerca del río.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "elephant",
+            "river",
+            "near_prep"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "The elephant is near the river. The river is long. There are trees near the river too.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Qué hay en la granja?",
+          "prompt_target": null,
+          "options": [
+            "A cow, a pig and a horse",
+            "A lion and an elephant",
+            "A mouse and a bird",
+            "A sheep and a cat"
+          ],
+          "correct_answer": "A cow, a pig and a horse",
+          "explanation_form": "El texto dice 'There is a cow and a pig on the farm' y 'There is a horse near the farm too'. Así que hay una vaca, un cerdo y un caballo.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "cow",
+            "pig",
+            "horse",
+            "farm",
+            "there_is_verb",
+            "mountain"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "This is a small farm. There is a cow and a pig on the farm. There is a horse near the farm too. The farm is near a big mountain. There are trees and a small river near the farm.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta para hablar de un animal pequeño?",
+          "prompt_target": null,
+          "options": [
+            "A small mouse",
+            "A big mouse",
+            "A small lion",
+            "A big elephant"
+          ],
+          "correct_answer": "A small mouse",
+          "explanation_form": "Un ratón es un animal pequeño, así que 'a small mouse' es la opción correcta. 'Small' significa pequeño.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "small_adj",
+            "mouse"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración: '____ a bird in the tree.' (Hay un pájaro en el árbol)",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "There is",
+          "explanation_form": "Para hablar de un objeto singular usamos 'There is'. 'There is a bird in the tree' significa 'Hay un pájaro en el árbol'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "bird",
+            "tree",
+            "there_is_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué animal vive en el mar?",
+          "prompt_target": null,
+          "options": [
+            "A fish",
+            "A cow",
+            "A horse",
+            "A sheep"
+          ],
+          "correct_answer": "A fish",
+          "explanation_form": "Un pez (fish) vive en el mar. Los otros animales viven en la granja.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "sea",
+            "fish"
+          ],
+          "points": 5,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## El truco de \"there is\" y \"there are\"\n\nUsa **there is** para UNA cosa (singular) y **there are** para VARIAS (plural).\n\n- There is a mouse in the garden. (Hay un ratón en el jardín.)\n- There are two birds on the tree. (Hay dos pájaros en el árbol.)\n\nCon **there are** agrega una **-s** al sustantivo: one cow, two cows; one horse, three horses.\n\n## Errores comunes\n\n- No digas \"there is two cows\". Usa **there are** con plural.\n- Cuidado con *sheep*: es igual en singular y plural. One sheep, five sheep.\n- *Mouse* es irregular: one mouse, two **mice**. ¡No digas \"mouses\"!\n\nConsejo: para describir un paisaje, piensa en lo que VES: \"There is a river near the mountain. There are trees and animals.\" Así suenas natural y usas el vocabulario de la lección.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:37:55Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

@@ -1,0 +1,1742 @@
+{
+  "id": "lesson_007",
+  "position": 7,
+  "unit_id": 2,
+  "course_id": "en.A1",
+  "title_form": "Información personal básica",
+  "title_target": "Exchanging Basic Personal Information",
+  "theme_focus": "Intercambio de información personal: nombre, edad, origen, residencia.",
+  "learning_objectives": [
+    "Can ask and answer questions about name, age, and origin.",
+    "Can state where he/she lives."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_001",
+    "lesson_004"
+  ],
+  "grammar_focus": [
+    "wh-questions: where/what with be"
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "country",
+        "live_verb",
+        "where_wh",
+        "what_wh",
+        "from_prep",
+        "in_prep",
+        "your_det",
+        "be_verb_2",
+        "be_verb_3",
+        "be_verb_4",
+        "it_pronoun",
+        "who_wh",
+        "when_wh",
+        "why_wh"
+      ],
+      "chunk_ids": [
+        "chunk_where_are_you_from",
+        "chunk_im_from"
+      ]
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "name",
+        "age",
+        "how_old_wh",
+        "i_pronoun",
+        "my_det",
+        "student"
+      ]
+    },
+    "target_vocabulary": []
+  },
+  "scenario": "Ana es una estudiante nueva en una escuela de inglés. En su primera clase, conoce a otros estudiantes y al profesor. Todos se presentan, dicen su nombre, su edad, de dónde son y dónde viven. Ana practica hacer y responder preguntas personales básicas.",
+  "introduction_md": "## Información personal básica\n\nEn esta lección vas a aprender a intercambiar información personal: tu nombre, tu edad, tu origen y dónde vives. Son preguntas y respuestas que usas todos los días, en clase, en un viaje o con gente nueva.\n\nVas a practicar:\n\n- Preguntar y responder sobre tu nombre y edad.\n- Decir de dónde eres y dónde vives.\n- Usar preguntas con *where* y *what*.\n\n¡Vamos a empezar!",
+  "intro_target": "## Basic Personal Information\n\nIn this lesson, you will learn to exchange personal information: your name, your age, your origin, and where you live. These are questions and answers you use every day, in class, on a trip, or with new people.\n\nYou will practice:\n\n- Asking and answering about your name and age.\n- Saying where you are from and where you live.\n- Using questions with *where* and *what*.\n\nLet's start!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": null,
+      "chunk_id": "chunk_where_are_you_from",
+      "grammar_slug": null,
+      "text_target": "Where are you from?",
+      "translation_form": "¿De dónde eres?",
+      "highlight_words": [
+        "where",
+        "are",
+        "you",
+        "from"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_from",
+      "grammar_slug": null,
+      "text_target": "I'm from Spain.",
+      "translation_form": "Soy de España.",
+      "highlight_words": [
+        "i'm",
+        "from"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "where_wh",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Where is your friend?",
+      "translation_form": "¿Dónde está tu amigo?",
+      "highlight_words": [
+        "where",
+        "is",
+        "your",
+        "friend"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": "what_wh",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "What is your name?",
+      "translation_form": "¿Cuál es tu nombre?",
+      "highlight_words": [
+        "what",
+        "is",
+        "your",
+        "name"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "live_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I live in Mexico.",
+      "translation_form": "Vivo en México.",
+      "highlight_words": [
+        "live",
+        "in"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": "who_wh",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Who is your friend?",
+      "translation_form": "¿Quién es tu amigo?",
+      "highlight_words": [
+        "who",
+        "is",
+        "your"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "wh-questions: where/what with be",
+      "title_form": "Preguntas con where y what + be",
+      "title_target": "Questions with where and what + be",
+      "description_md_form": "Para preguntar por **lugar** o **información**, usamos **where** (dónde) y **what** (qué) con el verbo **be**.\n\n**Estructura:** *Wh-word + be + sujeto + ...?*\n\n- **Where** + *is* + sujeto → *Where is your friend?* (¿Dónde está tu amigo?)\n- **What** + *is* + sujeto → *What is your name?* (¿Cuál es tu nombre?)\n\nCon **you**, usamos **are**: *Where are you from?* (¿De dónde eres?).\n\nLa respuesta corta con **from** usa **I'm from + país**: *I'm from Spain.* (Soy de España).",
+      "description_md_target": "To ask about **place** or **information**, we use **where** (dónde) and **what** (qué) with the verb **be**.\n\n**Structure:** *Wh-word + be + subject + ...?*\n\n- **Where** + *is* + subject → *Where is your friend?*\n- **What** + *is* + subject → *What is your name?*\n\nWith **you**, we use **are**: *Where are you from?*\n\nThe short answer with **from** uses **I'm from + country**: *I'm from Spain.*",
+      "grammar_structure": "Wh-word + be + subject + ...?",
+      "conjugation_table": {
+        "name": "present_simple_be",
+        "headers": [
+          "Pronombre",
+          "Forma de be",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "I",
+            "am",
+            "I am from Spain."
+          ],
+          [
+            "you",
+            "are",
+            "Where are you from?"
+          ],
+          [
+            "he/she/it",
+            "is",
+            "Where is your friend?"
+          ],
+          [
+            "we",
+            "are",
+            "We are from Mexico."
+          ],
+          [
+            "they",
+            "are",
+            "They are students."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": "chunk_where_are_you_from",
+          "grammar_slug": null,
+          "text_target": "Where are you from?",
+          "translation_form": "¿De dónde eres?",
+          "highlight_words": [
+            "where",
+            "are",
+            "you",
+            "from"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "wh-questions: where/what with be",
+          "text_target": "What is your name?",
+          "translation_form": "¿Cuál es tu nombre?",
+          "highlight_words": [
+            "what",
+            "is",
+            "your",
+            "name"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "**Where** pregunta por lugar: *Where is your friend?* (¿Dónde está tu amigo?). **What** pregunta por información: *What is your name?* (¿Cuál es tu nombre?)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "En español decimos *¿De dónde eres?* con **de** al inicio. En inglés, **from** va al final: *Where are you from?*"
+        }
+      ],
+      "common_errors_es": [
+        "Decir *Where you are from?* en vez de *Where are you from?* — el verbo **be** va después de la wh-word.",
+        "Olvidar **from** al final: *Where are you?* significa *¿Dónde estás?*, no *¿De dónde eres?*",
+        "Usar *What is your name?* para preguntar por lugar — **what** es para información, **where** es para lugar."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'where'?",
+      "options": [
+        "dónde",
+        "qué",
+        "cuándo",
+        "quién"
+      ],
+      "correct_answer": "dónde",
+      "explanation_md": "'Where' se usa para preguntar por un lugar.",
+      "related_lexeme_ids": [
+        "where_wh"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'I'm from'?",
+      "options": [
+        "soy de",
+        "estoy en",
+        "vivo en",
+        "soy"
+      ],
+      "correct_answer": "soy de",
+      "explanation_md": "'I'm from' se usa para decir de dónde eres.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [
+        "chunk_im_from"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la pregunta: '___ are you from?'",
+      "options": [
+        "What",
+        "Where",
+        "Who",
+        "When"
+      ],
+      "correct_answer": "Where",
+      "explanation_md": "Usamos 'Where' para preguntar por el lugar de origen.",
+      "related_lexeme_ids": [
+        "where_wh"
+      ],
+      "related_chunk_ids": [
+        "chunk_where_are_you_from"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la respuesta: 'I'm ___ Spain.'",
+      "options": null,
+      "correct_answer": "from",
+      "explanation_md": "Usamos 'from' después de 'I'm' para decir el país de origen.",
+      "related_lexeme_ids": [
+        "from_prep"
+      ],
+      "related_chunk_ids": [
+        "chunk_im_from"
+      ],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "matching",
+      "prompt_md": "Empareja cada pregunta con su respuesta:",
+      "options": [
+        "Where are you from?",
+        "I'm from Mexico.",
+        "What is your name?",
+        "My name is Ana.",
+        "Where is your friend?",
+        "He is in Spain."
+      ],
+      "correct_answer": [
+        "Where are you from?=I'm from Mexico.",
+        "What is your name?=My name is Ana.",
+        "Where is your friend?=He is in Spain."
+      ],
+      "explanation_md": "Cada pregunta de 'where' o 'what' tiene una respuesta con 'be'.",
+      "related_lexeme_ids": [
+        "where_wh",
+        "what_wh",
+        "be_verb_2",
+        "be_verb_3"
+      ],
+      "related_chunk_ids": [
+        "chunk_where_are_you_from",
+        "chunk_im_from"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: '¿De dónde eres?'",
+      "options": null,
+      "correct_answer": "Where are you from?",
+      "explanation_md": "La pregunta 'Where are you from?' se usa para preguntar el origen.",
+      "related_lexeme_ids": [
+        "where_wh"
+      ],
+      "related_chunk_ids": [
+        "chunk_where_are_you_from"
+      ],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'I live in Mexico.'",
+      "options": null,
+      "correct_answer": "Vivo en México.",
+      "explanation_md": "'I live in' + país se usa para decir dónde vives.",
+      "related_lexeme_ids": [
+        "live_verb",
+        "in_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la respuesta correcta a 'Where is your friend?'",
+      "options": [
+        "He is in Spain.",
+        "He is 10 years old.",
+        "He is my friend.",
+        "He is a student."
+      ],
+      "correct_answer": "He is in Spain.",
+      "explanation_md": "La pregunta 'Where' pide un lugar, así que la respuesta debe indicar dónde está.",
+      "related_lexeme_ids": [
+        "where_wh",
+        "be_verb_3"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa con 'is' o 'are': 'What ___ your name?'",
+      "options": null,
+      "correct_answer": "is",
+      "explanation_md": "Usamos 'is' con 'your name' porque es singular.",
+      "related_lexeme_ids": [
+        "what_wh",
+        "be_verb_2"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿De dónde es Ana?",
+      "options": [
+        "Spain",
+        "Mexico",
+        "a student",
+        "a friend"
+      ],
+      "correct_answer": "Spain",
+      "explanation_md": "El texto dice 'She is from Spain', así que Ana es de España.",
+      "related_lexeme_ids": [
+        "country",
+        "from_prep",
+        "live_verb",
+        "in_prep"
+      ],
+      "related_chunk_ids": [
+        "chunk_im_from"
+      ],
+      "difficulty": "medium",
+      "passage_md": "Ana is a student. She is from Spain. She lives in Mexico now. Her friend is in Spain. Ana is a student. She is happy.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Dónde está el amigo?",
+      "options": [
+        "In Spain",
+        "In Mexico",
+        "In Mexico",
+        "In the country"
+      ],
+      "correct_answer": "In Spain",
+      "explanation_md": "El audio dice 'He is in Spain', así que el amigo está en España.",
+      "related_lexeme_ids": [
+        "where_wh",
+        "be_verb_3",
+        "in_prep"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Where is your friend? He is in Spain. He is from Mexico. He lives in Spain now.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones presentándote: di tu nombre, de dónde eres y dónde vives.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso de 'I'm from' y 'I live in' para presentarse.",
+      "related_lexeme_ids": [
+        "name",
+        "from_prep",
+        "live_verb",
+        "in_prep"
+      ],
+      "related_chunk_ids": [
+        "chunk_im_from"
+      ],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "country",
+      "back": "país",
+      "hint": "un lugar grande con fronteras",
+      "lexeme_id": "country",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "places"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "live",
+      "back": "vivir",
+      "hint": "dónde está tu casa",
+      "lexeme_id": "live_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "where",
+      "back": "dónde",
+      "hint": "pregunta por un lugar",
+      "lexeme_id": "where_wh",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "questions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "what",
+      "back": "qué",
+      "hint": "pregunta por una cosa",
+      "lexeme_id": "what_wh",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "questions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "from",
+      "back": "de / desde",
+      "hint": "indica origen",
+      "lexeme_id": "from_prep",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "prepositions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "in",
+      "back": "en / dentro de",
+      "hint": "indica lugar o tiempo",
+      "lexeme_id": "in_prep",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "prepositions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "your",
+      "back": "tu / su",
+      "hint": "posesivo para 'tú'",
+      "lexeme_id": "your_det",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "be (I am)",
+      "back": "ser / estar (yo soy/estoy)",
+      "hint": "primera persona singular",
+      "lexeme_id": "be_verb_2",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "be (he/she/it is)",
+      "back": "ser / estar (él/ella es/está)",
+      "hint": "tercera persona singular",
+      "lexeme_id": "be_verb_3",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "be (they are)",
+      "back": "ser / estar (ellos son/están)",
+      "hint": "plural",
+      "lexeme_id": "be_verb_4",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "it",
+      "back": "ello (cosas, animales)",
+      "hint": "pronombre para cosas",
+      "lexeme_id": "it_pronoun",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "basics"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "who",
+      "back": "quién",
+      "hint": "pregunta por una persona",
+      "lexeme_id": "who_wh",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "questions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "when",
+      "back": "cuándo",
+      "hint": "pregunta por tiempo",
+      "lexeme_id": "when_wh",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "questions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "why",
+      "back": "por qué",
+      "hint": "pregunta por razón",
+      "lexeme_id": "why_wh",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "questions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "Where are you from?",
+      "back": "¿De dónde eres?",
+      "hint": "pregunta de origen",
+      "lexeme_id": null,
+      "chunk_id": "chunk_where_are_you_from",
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "questions"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_016",
+      "front": "I'm from ...",
+      "back": "Soy de ...",
+      "hint": "respuesta de origen",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_from",
+      "target_term": null,
+      "tags": [
+        "lesson_007",
+        "A1",
+        "personal_info"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "country",
+      "reading": "",
+      "translation": "país",
+      "pos": "noun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "country",
+      "chunk_id": null
+    },
+    {
+      "target_word": "live",
+      "reading": "",
+      "translation": "vivir",
+      "pos": "verb",
+      "example": "I live in Mexico.",
+      "example_translation": "Vivo en México.",
+      "lexeme_id": "live_verb",
+      "chunk_id": null
+    },
+    {
+      "target_word": "where",
+      "reading": "",
+      "translation": "dónde",
+      "pos": "other",
+      "example": "Where is your friend?",
+      "example_translation": "¿Dónde está tu amigo?",
+      "lexeme_id": "where_wh",
+      "chunk_id": null
+    },
+    {
+      "target_word": "what",
+      "reading": "",
+      "translation": "qué",
+      "pos": "other",
+      "example": "What is your name?",
+      "example_translation": "¿Cuál es tu nombre?",
+      "lexeme_id": "what_wh",
+      "chunk_id": null
+    },
+    {
+      "target_word": "from",
+      "reading": "",
+      "translation": "de / desde",
+      "pos": "preposition",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "from_prep",
+      "chunk_id": null
+    },
+    {
+      "target_word": "in",
+      "reading": "",
+      "translation": "en / dentro de",
+      "pos": "preposition",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "in_prep",
+      "chunk_id": null
+    },
+    {
+      "target_word": "your",
+      "reading": "",
+      "translation": "tu / su",
+      "pos": "determiner",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "your_det",
+      "chunk_id": null
+    },
+    {
+      "target_word": "be",
+      "reading": "",
+      "translation": "ser / estar",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "be_verb_2",
+      "chunk_id": null
+    },
+    {
+      "target_word": "be",
+      "reading": "",
+      "translation": "ser / estar (3a pers. sing.)",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "be_verb_3",
+      "chunk_id": null
+    },
+    {
+      "target_word": "be",
+      "reading": "",
+      "translation": "ser / estar (plurales y 2a pers.)",
+      "pos": "verb",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "be_verb_4",
+      "chunk_id": null
+    },
+    {
+      "target_word": "it",
+      "reading": "",
+      "translation": "ello (cosas, animales)",
+      "pos": "pronoun",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "it_pronoun",
+      "chunk_id": null
+    },
+    {
+      "target_word": "who",
+      "reading": "",
+      "translation": "quién",
+      "pos": "other",
+      "example": "Who is your friend?",
+      "example_translation": "¿Quién es tu amigo?",
+      "lexeme_id": "who_wh",
+      "chunk_id": null
+    },
+    {
+      "target_word": "when",
+      "reading": "",
+      "translation": "cuándo",
+      "pos": "other",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "when_wh",
+      "chunk_id": null
+    },
+    {
+      "target_word": "why",
+      "reading": "",
+      "translation": "por qué",
+      "pos": "other",
+      "example": "",
+      "example_translation": "",
+      "lexeme_id": "why_wh",
+      "chunk_id": null
+    },
+    {
+      "target_word": "Where are you from?",
+      "reading": "",
+      "translation": "¿De dónde eres?",
+      "pos": "chunk",
+      "example": "Where are you from?",
+      "example_translation": "¿De dónde eres?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_where_are_you_from"
+    },
+    {
+      "target_word": "I'm from ...",
+      "reading": "",
+      "translation": "Soy de ...",
+      "pos": "chunk",
+      "example": "I'm from Spain.",
+      "example_translation": "Soy de España.",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_from"
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "country",
+      "role": "support",
+      "status": "practiced",
+      "translation": "país",
+      "lexeme_id": "country",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_010",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "live",
+      "role": "support",
+      "status": "practiced",
+      "translation": "vivir",
+      "lexeme_id": "live_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_005",
+        "ex_007",
+        "ex_010",
+        "ex_012",
+        "fc_002"
+      ]
+    },
+    {
+      "term": "where",
+      "role": "support",
+      "status": "practiced",
+      "translation": "dónde",
+      "lexeme_id": "where_wh",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_003",
+        "ex_001",
+        "ex_003",
+        "ex_005",
+        "ex_006",
+        "ex_008",
+        "ex_011",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "what",
+      "role": "support",
+      "status": "practiced",
+      "translation": "qué",
+      "lexeme_id": "what_wh",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_004",
+        "ex_005",
+        "ex_009",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "from",
+      "role": "support",
+      "status": "practiced",
+      "translation": "de / desde",
+      "lexeme_id": "from_prep",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_004",
+        "ex_010",
+        "ex_012",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "in",
+      "role": "support",
+      "status": "practiced",
+      "translation": "en / dentro de",
+      "lexeme_id": "in_prep",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_007",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_006"
+      ]
+    },
+    {
+      "term": "your",
+      "role": "support",
+      "status": "introduced",
+      "translation": "tu / su",
+      "lexeme_id": "your_det",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_007"
+      ]
+    },
+    {
+      "term": "be",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ser / estar",
+      "lexeme_id": "be_verb_2",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_009",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "be",
+      "role": "support",
+      "status": "practiced",
+      "translation": "ser / estar (3a pers. sing.)",
+      "lexeme_id": "be_verb_3",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "ex_005",
+        "ex_008",
+        "ex_011",
+        "fc_009"
+      ]
+    },
+    {
+      "term": "be",
+      "role": "support",
+      "status": "introduced",
+      "translation": "ser / estar (plurales y 2a pers.)",
+      "lexeme_id": "be_verb_4",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_010"
+      ]
+    },
+    {
+      "term": "it",
+      "role": "support",
+      "status": "introduced",
+      "translation": "ello (cosas, animales)",
+      "lexeme_id": "it_pronoun",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_011"
+      ]
+    },
+    {
+      "term": "who",
+      "role": "support",
+      "status": "introduced",
+      "translation": "quién",
+      "lexeme_id": "who_wh",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_006",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "when",
+      "role": "support",
+      "status": "introduced",
+      "translation": "cuándo",
+      "lexeme_id": "when_wh",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_013"
+      ]
+    },
+    {
+      "term": "why",
+      "role": "support",
+      "status": "introduced",
+      "translation": "por qué",
+      "lexeme_id": "why_wh",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "fc_014"
+      ]
+    },
+    {
+      "term": "Where are you from?",
+      "role": "support",
+      "status": "practiced",
+      "translation": "¿De dónde eres?",
+      "lexeme_id": null,
+      "chunk_id": "chunk_where_are_you_from",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_003",
+        "ex_005",
+        "ex_006",
+        "fc_015"
+      ]
+    },
+    {
+      "term": "I'm from ...",
+      "role": "support",
+      "status": "practiced",
+      "translation": "Soy de ...",
+      "lexeme_id": null,
+      "chunk_id": "chunk_im_from",
+      "source": "cart",
+      "evidence_refs": [
+        "exm_002",
+        "ex_002",
+        "ex_004",
+        "ex_005",
+        "ex_010",
+        "ex_012",
+        "fc_016"
+      ]
+    },
+    {
+      "term": "country",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_001",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_011",
+        "quiz_001:q_012",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "friend",
+      "role": "support",
+      "status": "emergent",
+      "translation": "amigo/a",
+      "lexeme_id": "friend",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_007",
+        "quiz_001:q_011",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "name",
+      "role": "support",
+      "status": "emergent",
+      "translation": "nombre",
+      "lexeme_id": "name",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_004",
+        "quiz_001:q_006",
+        "quiz_001:q_009",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "teacher",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor/a",
+      "lexeme_id": "teacher",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    },
+    {
+      "term": "ask",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_005",
+        "quiz_001:q_009",
+        "quiz_001:q_010",
+        "quiz_001:q_014",
+        "quiz_001:q_015"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_004",
+        "quiz_001:q_007",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "ex_011",
+        "quiz_001:q_007"
+      ]
+    },
+    {
+      "term": "old",
+      "role": "support",
+      "status": "emergent",
+      "translation": "viejo / antiguo",
+      "lexeme_id": "old_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "age",
+      "role": "support",
+      "status": "emergent",
+      "translation": "edad",
+      "lexeme_id": "age",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "year",
+      "role": "support",
+      "status": "emergent",
+      "translation": "año",
+      "lexeme_id": "year",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_010",
+        "quiz_001:q_011"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 0,
+    "lexical_target_count": 0,
+    "covered_lexical_target_count": 0,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 16,
+    "review_support_count": 0,
+    "emergent_count": 10,
+    "emergent_terms": [
+      "country",
+      "friend",
+      "name",
+      "teacher",
+      "ask",
+      "student",
+      "now",
+      "old",
+      "age",
+      "year"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Información personal básica",
+      "title_target": "Quiz: Exchanging Basic Personal Information",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la pregunta correcta para saber de dónde es alguien?",
+          "prompt_target": "Which is the correct question to ask where someone is from?",
+          "options": [
+            "Where are you from?",
+            "What is your name?",
+            "How old are you?",
+            "Where do you live?"
+          ],
+          "correct_answer": "Where are you from?",
+          "explanation_form": "Para preguntar de dónde es alguien, usamos 'Where are you from?'.",
+          "explanation_target": "To ask where someone is from, we use 'Where are you from?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_where_are_you_from",
+            "where_wh",
+            "be_verb_2"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la respuesta: 'I ____ from Spain.'",
+          "prompt_target": "Complete the answer: 'I ____ from Spain.'",
+          "options": null,
+          "correct_answer": "am",
+          "explanation_form": "Con 'I' usamos 'am': 'I am from Spain.'",
+          "explanation_target": "With 'I' we use 'am': 'I am from Spain.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "be_verb_2",
+            "chunk_im_from",
+            "from_prep"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una pregunta:",
+          "prompt_target": "Order the words to form a question:",
+          "options": [
+            "you",
+            "are",
+            "Where",
+            "from",
+            "?"
+          ],
+          "correct_answer": "Where are you from?",
+          "explanation_form": "La pregunta correcta es 'Where are you from?'.",
+          "explanation_target": "The correct question is 'Where are you from?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_where_are_you_from",
+            "where_wh",
+            "be_verb_2"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y elegí la respuesta correcta:",
+          "prompt_target": "Listen and choose the correct answer:",
+          "options": [
+            "Anna is from Italy.",
+            "Anna is from Spain.",
+            "Anna is a student.",
+            "Anna lives in Madrid."
+          ],
+          "correct_answer": "Anna is from Italy.",
+          "explanation_form": "Anna dice 'I am from Italy', así que es de Italia.",
+          "explanation_target": "Anna says 'I am from Italy', so she is from Italy.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "country",
+            "from_prep",
+            "live_verb",
+            "in_prep",
+            "name",
+            "student"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Hello. My name is Anna. I am from Italy. I live in Rome. I am a student.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'Where do you live?'?",
+          "prompt_target": "What does 'Where do you live?' mean?",
+          "options": [
+            "¿Dónde vives?",
+            "¿Cómo te llamas?",
+            "¿Cuántos años tienes?",
+            "¿De dónde eres?"
+          ],
+          "correct_answer": "¿Dónde vives?",
+          "explanation_form": "'Where do you live?' pregunta por el lugar donde vives.",
+          "explanation_target": "'Where do you live?' asks about the place where you live.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "where_wh",
+            "live_verb"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con 'is' o 'are': 'What ____ your name?'",
+          "prompt_target": "Complete with 'is' or 'are': 'What ____ your name?'",
+          "options": null,
+          "correct_answer": "is",
+          "explanation_form": "Con 'your name' (singular) usamos 'is': 'What is your name?'",
+          "explanation_target": "With 'your name' (singular) we use 'is': 'What is your name?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "what_wh",
+            "be_verb_3",
+            "your_det"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escuchá y respondé: ¿De dónde es Tom?",
+          "prompt_target": "Listen and answer: Where is Tom from?",
+          "options": [
+            "Tom is from Canada.",
+            "Tom is from Italy.",
+            "Tom is from Spain.",
+            "Tom is from the USA."
+          ],
+          "correct_answer": "Tom is from Canada.",
+          "explanation_form": "El audio dice 'He is from Canada', así que Tom es de Canadá.",
+          "explanation_target": "The audio says 'He is from Canada', so Tom is from Canada.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "country",
+            "from_prep",
+            "live_verb",
+            "in_prep",
+            "friend",
+            "student"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "This is my friend Tom. He is from Canada. He lives in Toronto now. He is a student.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la respuesta correcta a 'Where are you from?'?",
+          "prompt_target": "Which is the correct answer to 'Where are you from?'?",
+          "options": [
+            "I am from Mexico.",
+            "I am a student.",
+            "My name is Luis.",
+            "I live in Spain."
+          ],
+          "correct_answer": "I am from Mexico.",
+          "explanation_form": "Para responder de dónde eres, usamos 'I am from + país'.",
+          "explanation_target": "To answer where you are from, we use 'I am from + country'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "chunk_im_from",
+            "from_prep",
+            "country",
+            "be_verb_2"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la pregunta: '____ is your name?'",
+          "prompt_target": "Complete the question: '____ is your name?'",
+          "options": null,
+          "correct_answer": "What",
+          "explanation_form": "Para preguntar por el nombre usamos 'What': 'What is your name?'",
+          "explanation_target": "To ask for a name we use 'What': 'What is your name?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "what_wh",
+            "be_verb_3",
+            "your_det"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué pregunta usamos para saber la edad de alguien?",
+          "prompt_target": "Which question do we use to ask someone's age?",
+          "options": [
+            "How old are you?",
+            "Where are you from?",
+            "What is your name?",
+            "Where do you live?"
+          ],
+          "correct_answer": "How old are you?",
+          "explanation_form": "Para preguntar la edad usamos 'How old are you?'.",
+          "explanation_target": "To ask someone's age we use 'How old are you?'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "how_old_wh",
+            "be_verb_2"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "reading_comprehension",
+          "prompt_form": "Leé el texto y respondé: ¿Dónde vive María?",
+          "prompt_target": "Read the text and answer: Where does Maria live?",
+          "options": [
+            "Maria lives in Buenos Aires.",
+            "Maria lives in Argentina.",
+            "Maria lives in Spain.",
+            "Maria lives in Mexico."
+          ],
+          "correct_answer": "Maria lives in Buenos Aires.",
+          "explanation_form": "El texto dice 'She lives in Buenos Aires', así que María vive en Buenos Aires.",
+          "explanation_target": "The text says 'She lives in Buenos Aires', so Maria lives in Buenos Aires.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "live_verb",
+            "in_prep",
+            "country",
+            "name",
+            "student",
+            "age"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Maria is my friend. She is from Argentina. She lives in Buenos Aires. She is a student. Her name is Maria. She is 22 years old.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta?",
+          "prompt_target": "Which is the correct form?",
+          "options": [
+            "She is from Spain.",
+            "She are from Spain.",
+            "She am from Spain.",
+            "She be from Spain."
+          ],
+          "correct_answer": "She is from Spain.",
+          "explanation_form": "Con 'she' usamos 'is': 'She is from Spain.'",
+          "explanation_target": "With 'she' we use 'is': 'She is from Spain.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "be_verb_3",
+            "from_prep",
+            "country"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_013",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá: '____ is my friend. He is from Italy.'",
+          "prompt_target": "Complete: '____ is my friend. He is from Italy.'",
+          "options": null,
+          "correct_answer": "This",
+          "explanation_form": "Usamos 'This' para presentar a alguien: 'This is my friend.'",
+          "explanation_target": "We use 'This' to introduce someone: 'This is my friend.'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "it_pronoun",
+            "friend",
+            "from_prep",
+            "country"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_014",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'Who is she?'?",
+          "prompt_target": "What does 'Who is she?' mean?",
+          "options": [
+            "¿Quién es ella?",
+            "¿Dónde está ella?",
+            "¿Cómo está ella?",
+            "¿Cuándo viene ella?"
+          ],
+          "correct_answer": "¿Quién es ella?",
+          "explanation_form": "'Who' pregunta por una persona: 'Who is she?' = ¿Quién es ella?",
+          "explanation_target": "'Who' asks about a person: 'Who is she?' = Who is she?",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "who_wh",
+            "be_verb_3"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_015",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué pregunta usamos para saber el momento?",
+          "prompt_target": "Which question do we use to ask about time?",
+          "options": [
+            "When is your birthday?",
+            "What is your birthday?",
+            "Why is your birthday?",
+            "How is your birthday?"
+          ],
+          "correct_answer": "When is your birthday?",
+          "explanation_form": "'When' pregunta por el momento: 'When is your birthday?'",
+          "explanation_target": "'When' asks about time: 'When is your birthday?'",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "when_wh",
+            "be_verb_3",
+            "birthday"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Preguntas con where y what\n\nPara preguntar por origen o residencia, usa **where** (dónde) y **what** (qué). Fíjate que el verbo **be** cambia: *Where are you from?* (¿De dónde eres?) y *What is your name?* (¿Cuál es tu nombre?). En inglés, el orden es: palabra interrogativa + verbo + sujeto.\n\n## Errores comunes\n\n- No digas *Where you are from?* El verbo **be** va antes del sujeto.\n- No traduzcas *¿De dónde eres?* como *From where are you?* Usa el chunk **Where are you from?**\n- Para responder, usa **I am from** + país, no *I from*.",
+  "metadata": {
+    "generated_at": "2026-08-31T21:30:32Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

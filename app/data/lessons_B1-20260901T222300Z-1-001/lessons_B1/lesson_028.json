@@ -1,0 +1,1545 @@
+{
+  "id": "lesson_028",
+  "position": 28,
+  "unit_id": 10,
+  "course_id": "en.B1",
+  "title_form": "Leer y resumir una noticia",
+  "title_target": "Reading and summarising a news report",
+  "theme_focus": "news and media",
+  "learning_objectives": [
+    "Can identify the main claims in a straightforward news report and summarise who said them."
+  ],
+  "estimated_minutes": 40,
+  "prerequisites": [
+    "lesson_027"
+  ],
+  "grammar_focus": [
+    "Reporting verbs for statements, claims and denials in a factual summary."
+  ],
+  "vocabulary_focus_mirror": {
+    "new_vocabulary": {
+      "lexeme_ids": [
+        "publish_verb"
+      ],
+      "chunk_ids": []
+    },
+    "complementary_vocabulary": {
+      "lexeme_ids": [
+        "treatment"
+      ]
+    },
+    "target_vocabulary": [
+      {
+        "term": "article",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the news and media situation."
+      },
+      {
+        "term": "source",
+        "role": "topic",
+        "rationale": "Concrete vocabulary for the news and media situation."
+      },
+      {
+        "term": "claimed that",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "according to",
+        "role": "functional",
+        "rationale": "Language needed to complete the communicative task."
+      },
+      {
+        "term": "said",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      },
+      {
+        "term": "claimed",
+        "role": "grammar_support",
+        "rationale": "Controlled language for the central B1 grammar pattern."
+      }
+    ]
+  },
+  "scenario": "Elena lee un artículo periodístico sobre un nuevo tratamiento médico. Identifica la fuente de la noticia y redacta un resumen destacando lo que dijeron y afirmaron los investigadores.",
+  "introduction_md": "En esta lección aprenderás a leer noticias en inglés y resumir sus puntos clave de forma clara y objetiva. Cuando informamos sobre lo que otros dicen o escriben, usamos verbos de reporte (*reporting verbs*) como **said**, **claimed** o expresiones como **according to**. Estos recursos te permiten atribuir información a una fuente (*source*) específica sin asumir la responsabilidad de cada afirmación.\n\nAprenderás a:\n- Identificar la fuente principal (*source*) y el tema de un artículo (*article*).\n- Reportar declaraciones usando verbos como **publish**, **said** y **claimed that**.\n- Sintetizar noticias breves con precisión y objetividad.\n\nAl finalizar, podrás resumir información de medios digitales y periódicos en inglés con total confianza.",
+  "intro_target": "In this lesson, you will learn to read news reports in English and summarise their key points clearly and objectively. When reporting what others say or write, we use reporting verbs such as **said**, **claimed**, or expressions like **according to**. These tools allow you to attribute information to a specific source without taking direct responsibility for every claim.\n\nYou will learn to:\n- Identify the main source and topic of an article.\n- Report statements using verbs like **publish**, **said**, and **claimed that**.\n- Summarise short news stories with accuracy and objectivity.\n\nBy the end, you will be able to summarise news from digital media and newspapers in English with confidence.",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The famous newspaper will publish an article about the medical treatment tomorrow.",
+      "translation_form": "El periódico famoso publicará un artículo sobre el tratamiento médico mañana.",
+      "highlight_words": [
+        "publish",
+        "treatment"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The doctor claimed that the medical treatment was safe, but the reporter said more tests were required.",
+      "translation_form": "El médico afirmó que el tratamiento médico era seguro, pero el reportero dijo que se requerían más pruebas.",
+      "highlight_words": [
+        "treatment"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "According to the main article, they will publish the results of the research next week.",
+      "translation_form": "Según el artículo principal, publicarán los resultados de la investigación la próxima semana.",
+      "highlight_words": [
+        "publish"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The scientist claimed that the treatment was safe, according to the main newspaper article.",
+      "translation_form": "El científico afirmó que el tratamiento era seguro, según el artículo del periódico principal.",
+      "highlight_words": [
+        "treatment"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She said that the journalist will publish a second article about the event soon.",
+      "translation_form": "Ella dijo que el periodista publicará un segundo artículo sobre el evento pronto.",
+      "highlight_words": [
+        "publish"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "Reporting verbs for statements, claims and denials in a factual summary.",
+      "title_form": "Verbos de reporte para resumir noticias",
+      "title_target": "Reporting verbs in factual summaries",
+      "description_md_form": "Al resumir noticias o reportajes, es fundamental atribuir la información a sus fuentes originales. En inglés se utilizan verbos de reporte (*reporting verbs*) como **say** (decir) o **claim** (afirmar) y expresiones como **according to** (según).\n\n**Estructuras principales:**\n- **Subject + verb + (that) + clause**: Se usa para presentar declaraciones de manera directa o neutra (*said*) o afirmaciones hechas por una fuente (*claimed*).\n  - *The doctor claimed that the treatment was safe.*\n- **According to + source + clause**: Permite citar directamente una fuente o artículo sin alterar la estructura gramatical de la oración principal.\n  - *According to the article, they will publish the results.*\n\n**Diferencia clave:**\n- **Say**: Informa un hecho o declaración de forma neutra.\n- **Claim**: Sostiene una afirmación o postura que proviene de una fuente específica.",
+      "description_md_target": "When summarizing news reports, attributing information to original sources is essential. In English, reporting verbs such as **say** or **claim** and expressions like **according to** are used.\n\n**Main structures:**\n- **Subject + verb + (that) + clause**: Used to present statements neutrally (*said*) or to report assertions (*claimed*).\n  - *The doctor claimed that the treatment was safe.*\n- **According to + source + clause**: Allows citing an informative source or article directly without changing sentence structure.\n  - *According to the article, they will publish the results.*\n\n**Key distinction:**\n- **Say**: Reports a neutral fact or statement.\n- **Claim**: Highlights an assertion or stance made by a source.",
+      "grammar_structure": "Subject + reporting verb + (that) + clause / According to + source, + clause",
+      "conjugation_table": {
+        "name": "reporting_verbs_usage",
+        "headers": [
+          "Verbo / Expresión",
+          "Uso principal",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "say (said)",
+            "Información neutra o declaración general",
+            "She said that they will publish the article."
+          ],
+          [
+            "claim (claimed)",
+            "Afirmación o postura de una fuente",
+            "The doctor claimed the treatment was safe."
+          ],
+          [
+            "according to",
+            "Citación directa de una fuente o documento",
+            "According to the article, more tests are needed."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Reporting verbs for statements, claims and denials in a factual summary.",
+          "text_target": "The doctor claimed that the medical treatment was safe, but the reporter said more tests were required.",
+          "translation_form": "El médico afirmó que el tratamiento médico era seguro, pero el reportero dijo que se requerían más pruebas.",
+          "highlight_words": [
+            "claimed",
+            "said"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "Reporting verbs for statements, claims and denials in a factual summary.",
+          "text_target": "According to the main article, they will publish the results next week.",
+          "translation_form": "Según el artículo principal, publicarán los resultados la próxima semana.",
+          "highlight_words": [
+            "according to",
+            "publish"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "tip",
+          "text_md": "La conjunción **that** después de verbos como *say* o *claim* es opcional. Puedes omitirla en contextos informales o periodísticos."
+        },
+        {
+          "type": "common_error",
+          "text_md": "No utilices **according to** con *me* para dar tu propia opinión (*according to me* es incorrecto; usa *in my opinion*)."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'according to me' en lugar de 'in my opinion' para dar una opinión personal.",
+        "Olvidar incluir el sujeto o la fuente antes del verbo de reporte 'claimed'.",
+        "Confundir 'say' (declarar algo) con 'tell' (decirle algo a un oyente específico)."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa el verbo 'publish' en español?",
+      "options": [
+        "Publicar",
+        "Escribir",
+        "Leer",
+        "Comprar"
+      ],
+      "correct_answer": "Publicar",
+      "explanation_md": "'Publish' significa publicar una noticia, libro o artículo en un medio de comunicación.",
+      "related_lexeme_ids": [
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada expresión o palabra de prensa con su traducción:",
+      "options": [
+        "article",
+        "artículo",
+        "publish",
+        "publicar",
+        "source",
+        "fuente",
+        "treatment",
+        "tratamiento"
+      ],
+      "correct_answer": [
+        "article=artículo",
+        "publish=publicar",
+        "source=fuente",
+        "treatment=tratamiento"
+      ],
+      "explanation_md": "Asocia correctamente los sustantivos y verbos del ámbito periodístico con su significado en español.",
+      "related_lexeme_ids": [
+        "publish_verb",
+        "treatment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Elige el verbo adecuado para completar el reporte de prensa: 'The newspaper will ____ an article about the new treatment tomorrow.'",
+      "options": [
+        "publish",
+        "boil",
+        "dance",
+        "sleep"
+      ],
+      "correct_answer": "publish",
+      "explanation_md": "Usamos 'publish' para indicar la difusión o publicación de un artículo en el periódico.",
+      "related_lexeme_ids": [
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la oración según la noticia: 'According to the main source, the doctor ____ that the treatment was safe.'",
+      "options": null,
+      "correct_answer": "claimed",
+      "explanation_md": "'Claimed' (afirmó/aseguró) es un verbo de reporte habitual para atribuir declaraciones factuales.",
+      "related_lexeme_ids": [
+        "publish_verb",
+        "treatment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce la siguiente oración al inglés: 'Según el artículo principal, el tratamiento es seguro.'",
+      "options": null,
+      "correct_answer": "According to the main article, the treatment is safe.",
+      "explanation_md": "'According to' traduce 'según', y 'main article' expresa 'artículo principal'.",
+      "related_lexeme_ids": [
+        "treatment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español la declaración reportada: 'The doctor claimed that the medical treatment was safe.'",
+      "options": null,
+      "correct_answer": "El médico afirmó que el tratamiento médico era seguro.",
+      "explanation_md": "'Claimed' traduce 'afirmó' o 'aseguró', indicando una declaración en estilo indirecto.",
+      "related_lexeme_ids": [
+        "treatment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el siguiente resumen de noticias y responde: ¿Qué afirmaron los científicos sobre el tratamiento médico?",
+      "options": [
+        "Afirmaron que el tratamiento era seguro y bueno.",
+        "Dijeron que el tratamiento era peligroso.",
+        "Publicaron que el hospital cerraría mañana.",
+        "Afirmaron que no tenían información sobre la salud."
+      ],
+      "correct_answer": "Afirmaron que el tratamiento era seguro y bueno.",
+      "explanation_md": "El texto especifica: 'The main scientists claimed that the new medical treatment was safe and good.'",
+      "related_lexeme_ids": [
+        "publish_verb",
+        "treatment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Yesterday, an official news source published a clear report about health. The main scientists claimed that the new medical treatment was safe and good. According to the newspaper article, more tests are required next week. The reporter said that the final results will be public soon.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha la nota periodística y responde: ¿Cuándo publicará el periódico el segundo artículo?",
+      "options": [
+        "Mañana por la mañana.",
+        "La próxima semana.",
+        "Ayer por la tarde.",
+        "En dos meses."
+      ],
+      "correct_answer": "Mañana por la mañana.",
+      "explanation_md": "En el audio se escucha: 'the newspaper will publish a second article tomorrow morning'.",
+      "related_lexeme_ids": [
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "The journalist said that the first report was finished. According to the main source, the newspaper will publish a second article tomorrow morning.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "free_production",
+      "prompt_md": "Escribe un resumen neutral de exactamente seis oraciones sobre una noticia de un tratamiento médico. Presenta el tema y la fuente, resume las afirmaciones principales y el próximo paso, y atribuye cada información con 'According to', 'said' o 'claimed that'. No añadas tu opinión ni información que no aparezca en la noticia.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la capacidad de resumir una noticia de forma neutral en exactamente seis oraciones, identificar la fuente y atribuir cada afirmación con verbos de reporte como 'said' y 'claimed' o con 'according to', sin añadir opiniones.",
+      "related_lexeme_ids": [
+        "publish_verb",
+        "treatment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "According to the main newspaper article, a hospital has tested a new medical treatment. The lead doctor said that the treatment was safe for adult patients. The research team claimed that the early results were positive. However, the reporter explained that more tests are required. The health authority said that it will review the evidence next week. The newspaper will publish a further report after the review.",
+        "According to the local newspaper, a new treatment is being tested at the city hospital. The lead scientist said that the treatment could help patients with a common illness. The hospital claimed that no serious side effects had appeared in the first tests. The reporter explained that the study included only a small group. The health authority said that more tests are required before approval. The newspaper will publish an update after the next review."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "multiple_choice",
+      "prompt_md": "Selecciona la frase gramaticalmente correcta para citar una fuente de información en una noticia:",
+      "options": [
+        "According to the source, the reporter said that the news is clear.",
+        "According for the source, the reporter said that the news is clear.",
+        "According of the source, the reporter said that the news is clear.",
+        "According on the source, the reporter said that the news is clear."
+      ],
+      "correct_answer": "According to the source, the reporter said that the news is clear.",
+      "explanation_md": "La locución correcta es siempre 'According to' seguida de la fuente de información.",
+      "related_lexeme_ids": [
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Lee el relato breve y responde: ¿Qué afirmó el grupo de residentes? / Read the short story and answer: What did the residents' group claim?",
+      "options": [
+        "That more consultation was needed.",
+        "That the project had already finished.",
+        "That traffic had disappeared.",
+        "That the newspaper was closing."
+      ],
+      "correct_answer": "That more consultation was needed.",
+      "explanation_md": "El relato dice que el grupo de residentes afirmó que se necesitaba más consulta. / The story says that the residents' group claimed that more consultation was needed.",
+      "related_lexeme_ids": [
+        "publish_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "I work as a local reporter. Yesterday, I read an article about a new bus lane. According to the transport department, the change will reduce traffic. The mayor said that the project would start in June, but a residents' group claimed that more consultation was needed. I checked both sources and wrote a neutral summary. The newspaper will publish it tomorrow.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escucha el relato breve y responde: ¿Qué afirmó el grupo de pacientes? / Listen to the short story and answer: What did the patient group claim?",
+      "options": [
+        "That more tests were necessary.",
+        "That the clinic had closed permanently.",
+        "That the treatment was unavailable yesterday.",
+        "That the report had been cancelled."
+      ],
+      "correct_answer": "That more tests were necessary.",
+      "explanation_md": "El audio explica que el grupo de pacientes afirmó que eran necesarias más pruebas. / The audio explains that the patient group claimed that more tests were necessary.",
+      "related_lexeme_ids": [
+        "publish_verb",
+        "treatment"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Today, I prepared a short news report about a community health clinic. The doctor said that the new treatment was safe for most patients. However, a patient group claimed that more tests were necessary. According to the hospital, the results would be reviewed next week, so I included both views in my summary. I will publish the report this evening.",
+      "sample_answers": [],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "publish",
+      "back": "publicar",
+      "hint": "hacer público un libro, artículo o informe",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_028",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "treatment",
+      "back": "tratamiento",
+      "hint": "cuidado o procedimiento médico",
+      "lexeme_id": "treatment",
+      "chunk_id": null,
+      "tags": [
+        "lesson_028",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "publish a report",
+      "back": "publicar un informe",
+      "hint": "dar a conocer los resultados de un trabajo",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_028",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "publish an article",
+      "back": "publicar un artículo",
+      "hint": "hacer visible un escrito periodístico o académico",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "tags": [
+        "lesson_028",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "medical treatment",
+      "back": "tratamiento médico",
+      "hint": "atención para curar o aliviar una enfermedad",
+      "lexeme_id": "treatment",
+      "chunk_id": null,
+      "tags": [
+        "lesson_028",
+        "B1",
+        "daily_routine"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "publish",
+      "reading": "",
+      "translation": "publicar",
+      "pos": "verb",
+      "example": "The famous newspaper will publish an article about the medical treatment tomorrow.",
+      "example_translation": "El periódico famoso publicará un artículo sobre el tratamiento médico mañana.",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "article",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "artículo",
+      "lexeme_id": "article",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_003",
+        "exm_004",
+        "exm_005",
+        "Reporting verbs for statements, claims and denials in a factual summary.",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "fc_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "source",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "fuente",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "Reporting verbs for statements, claims and denials in a factual summary.",
+        "ex_007",
+        "ex_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "claimed that",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "Reporting verbs for statements, claims and denials in a factual summary.",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "according to",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "exm_004",
+        "Reporting verbs for statements, claims and denials in a factual summary.",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "said",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_005",
+        "Reporting verbs for statements, claims and denials in a factual summary.",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "claimed",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_004",
+        "Reporting verbs for statements, claims and denials in a factual summary.",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "publish",
+      "role": "support",
+      "status": "practiced",
+      "translation": "publicar",
+      "lexeme_id": "publish_verb",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "exm_003",
+        "exm_005",
+        "ex_001",
+        "ex_002",
+        "ex_003",
+        "ex_004",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_001",
+        "fc_003",
+        "fc_004"
+      ]
+    },
+    {
+      "term": "treatment",
+      "role": "support",
+      "status": "review",
+      "translation": "tratamiento",
+      "lexeme_id": "treatment",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_002",
+        "ex_004",
+        "ex_005",
+        "ex_006",
+        "ex_007",
+        "ex_009",
+        "ex_012",
+        "fc_002",
+        "fc_005"
+      ]
+    },
+    {
+      "term": "medical",
+      "role": "support",
+      "status": "emergent",
+      "translation": "médico",
+      "lexeme_id": "medical_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "ex_007",
+        "ex_009",
+        "fc_005",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "newspaper",
+      "role": "support",
+      "status": "emergent",
+      "translation": "periódico",
+      "lexeme_id": "newspaper",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_004",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "safe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "seguro",
+      "lexeme_id": "safe_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_004",
+        "ex_007",
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "main",
+      "role": "support",
+      "status": "emergent",
+      "translation": "principal / independiente",
+      "lexeme_id": "main_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "exm_004",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "result",
+      "role": "support",
+      "status": "emergent",
+      "translation": "resultar",
+      "lexeme_id": "result_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "reporter",
+      "role": "support",
+      "status": "emergent",
+      "translation": "reportero",
+      "lexeme_id": "reporter",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "doctor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "test",
+      "role": "support",
+      "status": "emergent",
+      "translation": "examen / prueba",
+      "lexeme_id": "test",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007",
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "week",
+      "role": "support",
+      "status": "emergent",
+      "translation": "semana",
+      "lexeme_id": "week",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_007",
+        "ex_009",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "required",
+      "role": "support",
+      "status": "emergent",
+      "translation": "requerido / necesario",
+      "lexeme_id": "required_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007",
+        "ex_009",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "require",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pedir / exigir / mandar",
+      "lexeme_id": "require_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "ex_007",
+        "ex_009",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "scientist",
+      "role": "support",
+      "status": "emergent",
+      "translation": "científico / científica",
+      "lexeme_id": "scientist",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_007",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "soon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pronto",
+      "lexeme_id": "soon_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_007"
+      ]
+    },
+    {
+      "term": "journalist",
+      "role": "support",
+      "status": "emergent",
+      "translation": "periodista",
+      "lexeme_id": "journalist",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_008"
+      ]
+    },
+    {
+      "term": "research",
+      "role": "support",
+      "status": "emergent",
+      "translation": "investigación",
+      "lexeme_id": "research",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009"
+      ]
+    },
+    {
+      "term": "famous",
+      "role": "support",
+      "status": "emergent",
+      "translation": "famosa / famoso / célebre",
+      "lexeme_id": "famous_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "event",
+      "role": "support",
+      "status": "emergent",
+      "translation": "evento",
+      "lexeme_id": "event",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "summary",
+      "role": "support",
+      "status": "emergent",
+      "translation": "resumen",
+      "lexeme_id": "summary",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "ex_012",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "denial",
+      "role": "support",
+      "status": "emergent",
+      "translation": "mentís / negación / abnegación",
+      "lexeme_id": "denial",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "statement",
+      "role": "support",
+      "status": "emergent",
+      "translation": "declaración",
+      "lexeme_id": "statement",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_006",
+        "quiz_001:q_007",
+        "quiz_001:q_008",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "yesterday",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "patient",
+      "role": "support",
+      "status": "emergent",
+      "translation": "paciente",
+      "lexeme_id": "patient",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "hospital",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hospital",
+      "lexeme_id": "hospital",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "group",
+      "role": "support",
+      "status": "emergent",
+      "translation": "grupo",
+      "lexeme_id": "group",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_011",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "include",
+      "role": "support",
+      "status": "emergent",
+      "translation": "incluir",
+      "lexeme_id": "include_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "ex_012",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "news",
+      "role": "support",
+      "status": "emergent",
+      "translation": "noticias",
+      "lexeme_id": "news",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_012",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "check",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_009",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "health",
+      "role": "support",
+      "status": "emergent",
+      "translation": "salud",
+      "lexeme_id": "health",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_007",
+        "ex_009",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "city",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_009",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "work",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "need",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesitar",
+      "lexeme_id": "need_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_011",
+        "quiz_001:q_010"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 6,
+    "lexical_target_count": 4,
+    "covered_lexical_target_count": 4,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 1,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "medical",
+      "newspaper",
+      "safe",
+      "main",
+      "result",
+      "reporter",
+      "doctor",
+      "test",
+      "week",
+      "required",
+      "require",
+      "scientist",
+      "soon",
+      "journalist",
+      "research",
+      "famous",
+      "event",
+      "summary",
+      "denial",
+      "statement",
+      "yesterday",
+      "patient",
+      "hospital",
+      "group",
+      "include",
+      "news",
+      "check",
+      "explain",
+      "health",
+      "city",
+      "work",
+      "need"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Leer y resumir una noticia",
+      "title_target": "Quiz: Reading and summarising a news report",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "¿Qué va a publicar el periódico mañana?",
+          "prompt_target": "What will the newspaper publish tomorrow?",
+          "options": [
+            "Una nueva historia sobre un tratamiento médico",
+            "Un libro sobre la ciudad",
+            "Una carta del alcalde",
+            "Una foto del costo"
+          ],
+          "correct_answer": "Una nueva historia sobre un tratamiento médico",
+          "explanation_form": "El texto menciona que el periódico principal publicará una nueva historia mañana sobre un tratamiento médico.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "publish_verb",
+            "Reporting verbs for statements, claims and denials in a factual summary."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": "The main newspaper will publish a new story tomorrow. The reporter explained that a hospital is testing a new medical treatment. The newspaper said that the doctor claimed the treatment was safe, but more tests were still required. The newspaper wanted to inform the public about the results.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Qué hizo la reportera en la televisión?",
+          "prompt_target": "What did the reporter do on television?",
+          "options": [
+            "Explicó las noticias",
+            "Ofreció un tratamiento",
+            "Compró una televisión",
+            "Escribió una carta"
+          ],
+          "correct_answer": "Explicó las noticias",
+          "explanation_form": "En el audio, la reportera explicó las noticias usando el verbo de reporte 'explained'.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reporting verbs for statements, claims and denials in a factual summary."
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": "The reporter explained the news on television. She said that the doctor suggested a new treatment, but the patient disagreed with the idea.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "¿Cuándo publicará el equipo el texto en línea?",
+          "prompt_target": "When will the team publish the text online?",
+          "options": [
+            "Esta noche",
+            "Mañana por la mañana",
+            "La próxima semana",
+            "Ayer por la tarde"
+          ],
+          "correct_answer": "Esta noche",
+          "explanation_form": "El locutor indica que publicarán el texto en línea esta noche ('tonight').",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "publish_verb",
+            "Reporting verbs for statements, claims and denials in a factual summary."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Our team will publish the text online tonight. The manager informed us that everyone agreed with the results, so we can finish the work.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completa la frase con el verbo correcto: 'They will ____ the new book next month.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "publish",
+          "explanation_form": "'Publish' significa publicar una obra o libro.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_001",
+          "references_lesson_topics": [
+            "publish_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "ordering",
+          "prompt_form": "Ordena las palabras para formar una oración que resume lo que dijo el periodista:",
+          "prompt_target": null,
+          "options": [
+            "The",
+            "reporter",
+            "explained",
+            "that",
+            "the",
+            "story",
+            "was",
+            "true"
+          ],
+          "correct_answer": "The reporter explained that the story was true",
+          "explanation_form": "Se utiliza 'explained that' para presentar información de forma factual en un resumen.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reporting verbs for statements, claims and denials in a factual summary."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "Selecciona el verbo de reporte adecuado para señalar un desacuerdo en un resumen:",
+          "prompt_target": null,
+          "options": [
+            "disagreed",
+            "agreed",
+            "published",
+            "invited"
+          ],
+          "correct_answer": "disagreed",
+          "explanation_form": "'Disagreed' (no estuvo de acuerdo) es el reporting verb usado para señalar desacuerdo.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "Reporting verbs for statements, claims and denials in a factual summary."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo en inglés con su significado en español:",
+          "prompt_target": null,
+          "options": [
+            "publish",
+            "publicar",
+            "explain",
+            "explicar",
+            "disagree",
+            "no estar de acuerdo",
+            "warn",
+            "advertir"
+          ],
+          "correct_answer": [
+            "publish=publicar",
+            "explain=explicar",
+            "disagree=no estar de acuerdo",
+            "warn=advertir"
+          ],
+          "explanation_form": "Estos verbos son clave para reportar declaraciones y hechos en resúmenes periodísticos.",
+          "explanation_target": null,
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "publish_verb",
+            "Reporting verbs for statements, claims and denials in a factual summary."
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traduce al inglés: 'La doctora advirtió que el tratamiento era necesario.'",
+          "prompt_target": null,
+          "options": null,
+          "correct_answer": "The doctor warned that the treatment was necessary.",
+          "explanation_form": "Usamos 'warned that' para reportar una advertencia y 'treatment' para referirnos al tratamiento médico.",
+          "explanation_target": null,
+          "references_exercise_id": "ex_003",
+          "references_lesson_topics": [
+            "Reporting verbs for statements, claims and denials in a factual summary."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el relato y responde: ¿Qué afirmaron los residentes?",
+          "prompt_target": "Read the story and answer: What did the residents claim?",
+          "options": [
+            "That parking would become difficult.",
+            "That the centre would open in September.",
+            "That the article was inaccurate.",
+            "That more visitors were unwanted."
+          ],
+          "correct_answer": "That parking would become difficult.",
+          "explanation_form": "El relato dice que los residentes afirmaron que el aparcamiento se volvería difícil. / The story says that the residents claimed that parking would become difficult.",
+          "explanation_target": "Los residentes afirmaron que el aparcamiento se volvería difícil. / The residents claimed that parking would become difficult.",
+          "references_exercise_id": "ex_011",
+          "references_lesson_topics": [
+            "publish_verb",
+            "Reporting verbs for statements, claims and denials in a factual summary."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": "I was asked to summarise a local article about a new recycling centre. According to the city council, the centre would open in September. The shop owners said that it would bring more visitors, but residents claimed that parking would become difficult. I checked the sources and wrote a neutral summary without adding my opinion.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el relato y responde: ¿Qué afirmaron los artistas locales?",
+          "prompt_target": "Listen to the story and answer: What did the local artists claim?",
+          "options": [
+            "That the programme needed more funding.",
+            "That the performances had been cancelled.",
+            "That the council had published no information.",
+            "That the opening had already happened."
+          ],
+          "correct_answer": "That the programme needed more funding.",
+          "explanation_form": "El audio dice que los artistas locales afirmaron que el programa necesitaba más financiación. / The audio says that the local artists claimed that the programme needed more funding.",
+          "explanation_target": "Los artistas locales afirmaron que el programa necesitaba más financiación. / The local artists claimed that the programme needed more funding.",
+          "references_exercise_id": "ex_012",
+          "references_lesson_topics": [
+            "publish_verb",
+            "Reporting verbs for statements, claims and denials in a factual summary."
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Yesterday, I reported on a new community theatre programme. The director said that free performances would begin in July. Local artists claimed that the programme needed more funding, while the council denied that the opening would be delayed. I included each view in my summary and checked the source labels before the report was published.",
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Cómo reportar lo que otros dicen en noticias\n\nAl resumir una noticia en inglés, es fundamental usar verbos de reporte (*reporting verbs*) como *state*, *claim*, *deny* o *report*. En español solemos repetir la frase \"dijo que...\", pero en inglés variamos estos verbos para indicar la postura de la fuente o la certeza de la información.\n\n- **Hechos y declaraciones oficiales:** Usa *state* o *report* cuando una fuente entrega información comprobada o formal.\n- **Declaraciones no confirmadas:** Usa *claim* cuando alguien sostiene algo que no ha sido probado de forma independiente.\n- **Negaciones:** Usa *deny* para expresar que alguien rechaza o niega una acusación o afirmación.\n\n## El verbo *publish* en contexto periodístico\n\nEl verbo *publish* se utiliza específicamente para la difusión de textos, noticias o artículos en medios impresos o digitales (*The newspaper published the story*). Ten en cuenta los siguientes detalles de uso:\n\n- **Diferencia léxica:** No confundas *publish* (hacer público un escrito o reporte) con *announce* (dar un aviso verbal a la audiencia).\n- **Pronunciación útil:** La vocal inicial en *publish* no suena como la \"u\" castellana, sino como una \"a\" corta y relajada (/ˈpʌblɪʃ/). Al resumir noticias sobre temas médicos o científicos, verás con frecuencia combinaciones como *publish a treatment study*.",
+  "metadata": {
+    "generated_at": "2026-08-29T18:38:42Z",
+    "generated_by": "gemini/gemini-3.6-flash",
+    "model": "gemini-3.6-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}
