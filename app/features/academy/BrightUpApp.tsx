@@ -11,6 +11,7 @@ import { AppTopbar } from "./components/AppTopbar";
 import { HomeView } from "./components/HomeView";
 import { LearningRoute } from "./components/LearningRoute";
 import { PracticeView } from "../practice/PracticeView";
+import { AdSenseLoader } from "../adsense/AdSenseSlot";
 
 export function BrightUpApp() {
   const academy = useAcademyState();
@@ -37,6 +38,7 @@ export function BrightUpApp() {
   }
 
   return <main className="app-shell">
+    <AdSenseLoader />
     <AppSidebar
       activeView={academy.activeView}
       menuOpen={academy.menuOpen}

@@ -1,6 +1,7 @@
 "use client";
 
 import { Fragment, type CSSProperties } from "react";
+import { AdSenseSlot } from "../../adsense/AdSenseSlot";
 import { academyVisibility } from "../academy-visibility";
 import { a1Lessons, allLessons, levelData, levels, levelSummaries, levelVisuals } from "../course-data";
 import { getLevelCompleted, getLevelLessons, isLessonUnlocked, isLevelUnlocked } from "../course-utils";
@@ -62,6 +63,8 @@ export function LearningRoute({ completed, selectedLevel, onSelectLevel, onOpenL
         <div className="lb-copy"><span className="lb-stage">{levelVisuals[selectedLevel].stage} · NIVEL {selectedLevel}</span><h3>{levelData[selectedLevel].label}</h3><em>{levelVisuals[selectedLevel].motto}</em><p>{levelSummaries[selectedLevel]}</p></div>
         <div className="lb-stats"><div className="lb-stat"><div className="lb-orb" style={{ background: `conic-gradient(rgba(255,255,255,.9) ${(selectedCompleted / selectedTotal) * 360}deg, rgba(255,255,255,.18) 0deg)` }}><span><strong>{selectedCompleted}</strong><small>/{selectedTotal}</small></span></div><p>lecciones</p></div><div className="lb-divider" /><div className="lb-kpi"><strong>{selectedCompleted * 20}</strong><span>XP ganados</span></div><div className="lb-kpi"><strong>{selectedTotal - selectedCompleted}</strong><span>restantes</span></div></div>
       </div>
+
+      <AdSenseSlot placement="route" />
 
       <div className="lesson-deck">
         {visibleLessons.map((lesson, index) => {

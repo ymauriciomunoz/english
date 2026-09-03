@@ -32,7 +32,28 @@ test("server-renders the BrightUp academy with the expanded course total", async
   assert.match(html, /217/);
   assert.match(html, /Práctica guiada|Pr&#xE1;ctica guiada/);
   assert.match(html, /Progreso guardado/);
+  assert.doesNotMatch(html, /pagead2\.googlesyndication\.com/, "AdSense debe permanecer inactivo hasta configurar la cuenta");
   assert.doesNotMatch(html, /codex-preview|react-loading-skeleton|Building your site/i);
+});
+
+test("keeps child-safe AdSense placements ready but disabled", async () => {
+  const [config, component, app, home, route, practice] = await Promise.all([
+    readFile(new URL("../app/features/adsense/adsense-config.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/adsense/AdSenseSlot.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/academy/BrightUpApp.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/academy/components/HomeView.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/academy/components/LearningRoute.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/practice/PracticeView.tsx", import.meta.url), "utf8"),
+  ]);
+
+  assert.match(config, /enabled:\s*false/);
+  assert.match(config, /\^ca-pub-/);
+  assert.match(component, /data-tag-for-age-treatment="1"/);
+  assert.match(component, /AdSenseLoader/);
+  assert.match(app, /<AdSenseLoader/);
+  assert.match(home, /AdSenseSlot placement="home"/);
+  assert.match(route, /AdSenseSlot placement="route"/);
+  assert.match(practice, /AdSenseSlot placement="practice"/);
 });
 
 test("validates every roadmap and all 217 lesson files", async () => {

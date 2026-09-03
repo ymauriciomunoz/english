@@ -1,6 +1,7 @@
 "use client";
 
 import type { FormEvent } from "react";
+import { AdSenseSlot } from "../../adsense/AdSenseSlot";
 
 type HomeViewProps = {
   studentName: string;
@@ -59,5 +60,6 @@ export function HomeView({ studentName, studentInitials, nameDraft, editingName,
         <button onClick={courseCompleted ? onPractice : onRoute}>{completedCount === 0 ? "Comenzar A1" : courseCompleted ? "Seguir practicando" : "Continuar mi ruta"} <span>→</span></button>
       </article>
     </section>
+    <AdSenseSlot placement="home" />
   </>;
 }

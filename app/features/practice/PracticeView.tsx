@@ -8,6 +8,7 @@ import { getDailySeed, shuffledWithSeed } from "./practice-utils";
 import { FlashcardLab } from "./components/FlashcardLab";
 import { ListeningLab } from "./components/ListeningLab";
 import { UsefulPhrases } from "./components/UsefulPhrases";
+import { AdSenseSlot } from "../adsense/AdSenseSlot";
 
 type PracticeViewProps = {
   voiceAccent: VoiceAccent;
@@ -91,5 +92,6 @@ export function PracticeView({ voiceAccent, speechMessage, onAccentChange, onSpe
     </div>
 
     <UsefulPhrases phrases={phrases} onMix={mixPhrases} onSpeak={onSpeak} />
+    <AdSenseSlot placement="practice" />
   </section>;
 }
