@@ -9,6 +9,7 @@ const coursePackages = [
   { level: "A2", count: 64, path: "lessons_A2-20260901T222257Z-1-001/lessons_A2" },
   { level: "B1", count: 33, path: "lessons_B1-20260901T222300Z-1-001/lessons_B1" },
   { level: "B2", count: 34, path: "lessons_B2-20260901T222302Z-1-001/lessons_B2" },
+  { level: "C1", count: 31, path: "lessons_C1" },
 ];
 
 async function render() {
@@ -28,13 +29,13 @@ test("server-renders the BrightUp academy with the expanded course total", async
   assert.match(html, /<html lang="es">/i);
   assert.match(html, /<title>BrightUp/);
   assert.match(html, /Tu academia de ingl/);
-  assert.match(html, /206/);
+  assert.match(html, /217/);
   assert.match(html, /Práctica guiada|Pr&#xE1;ctica guiada/);
   assert.match(html, /Progreso guardado/);
   assert.doesNotMatch(html, /codex-preview|react-loading-skeleton|Building your site/i);
 });
 
-test("validates every new roadmap and all 186 lesson files", async () => {
+test("validates every roadmap and all 217 lesson files", async () => {
   let totalLessons = 0;
   let totalActivities = 0;
   const observedKinds = new Set();
@@ -99,7 +100,7 @@ test("validates every new roadmap and all 186 lesson files", async () => {
     }
   }
 
-  assert.equal(totalLessons, 186);
+  assert.equal(totalLessons, 217);
   assert.ok(totalActivities > 4000);
   assert.deepEqual([...observedKinds].sort(), [
     "fill_in_blank", "flashcard_recognition", "free_production", "listening_comprehension", "matching",
@@ -131,8 +132,8 @@ test("lazy-loads the first and last lesson of every new level", async () => {
   }
 });
 
-test("uses one full-page lesson component for A1 through B2 and keeps C1 intact", async () => {
-  const [app, controller, courseData, catalog, lessonPage, sections, questionCard, activityInput, c1Source] = await Promise.all([
+test("uses one full-page lesson component for A1 through C1", async () => {
+  const [app, controller, courseData, catalog, lessonPage, sections, questionCard, activityInput] = await Promise.all([
     readFile(new URL("../app/features/academy/BrightUpApp.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/features/academy/hooks/use-academy-state.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/features/academy/course-data.ts", import.meta.url), "utf8"),
@@ -141,7 +142,6 @@ test("uses one full-page lesson component for A1 through B2 and keeps C1 intact"
     readFile(new URL("../app/features/a1/components/LessonSections.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/features/a1/components/QuestionCard.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/features/a1/components/ActivityInput.tsx", import.meta.url), "utf8"),
-    readFile(new URL("../app/c1-course.ts", import.meta.url), "utf8"),
   ]);
 
   assert.match(catalog, /roadmap\.approved\.json/);
@@ -149,17 +149,18 @@ test("uses one full-page lesson component for A1 through B2 and keeps C1 intact"
   assert.doesNotMatch(catalog, /data\/en/);
   assert.match(courseData, /courseRoadmaps\[level\]/);
   assert.match(controller, /activeCourseEntry/);
-  assert.match(controller, /level === "C1"/);
-  assert.match(app, /activeLesson\.level !== "C1"/);
-  assert.match(app, /LegacyLessonModal/);
+  assert.match(controller, /loadCourseEntry\(lesson\.level/);
+  assert.doesNotMatch(app, /activeLesson\.level !== "C1"/);
+  assert.doesNotMatch(app, /LegacyLessonModal/);
   assert.match(lessonPage, /courseEntries/);
   assert.match(lessonPage, /free_production/);
   assert.match(sections, /lesson\.lesson_vocabulary/);
   assert.match(sections, /entry\.lesson_brief/);
+  assert.match(sections, /lesson\.notes_md_target/);
   assert.match(questionCard, /Escuchar audio/);
   assert.match(questionCard, /item\.passage_md/);
   assert.match(activityInput, /a1-production-answer/);
-  assert.equal((c1Source.match(/\bvocabulary:\s*\[/g) ?? []).length, 20, "C1 debe conservar sus 20 lecciones anteriores");
+  assert.match(courseData, /"A1", "A2", "B1", "B2", "C1"/);
 });
 
 test("keeps the suggested lesson order visual without blocking free access", async () => {

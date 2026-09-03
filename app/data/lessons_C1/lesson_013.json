@@ -1,0 +1,1824 @@
+{
+  "id": "lesson_013",
+  "position": 13,
+  "unit_id": 4,
+  "course_id": "en.C1",
+  "title_form": "Clarifying What Was Said",
+  "title_target": "Clarifying What Was Said",
+  "theme_focus": "communication",
+  "learning_objectives": [
+    "Can clarify a speaker's intended meaning by reporting and checking complex questions.",
+    "Can paraphrase a reported question for a specific listener and confirm the intended interpretation."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_012"
+  ],
+  "grammar_focus": [
+    "reported questions: wh- and yes/no"
+  ],
+  "vocabulary_focus_mirror": {
+    "lexeme_ids": [
+      "clarify_verb",
+      "meaning",
+      "intention",
+      "tone",
+      "context",
+      "meaningful_adj"
+    ],
+    "chunk_ids": [],
+    "review_lexeme_ids": [
+      "ask_for_help_phrase",
+      "understand_verb",
+      "hear_verb",
+      "explain_verb",
+      "point_out_verb"
+    ],
+    "target_vocabulary": [
+      {
+        "term": "ask",
+        "role": "grammar_support",
+        "rationale": "reporting verb for questions"
+      },
+      {
+        "term": "wonder",
+        "role": "grammar_support",
+        "rationale": "reporting verb for indirect questions"
+      },
+      {
+        "term": "explain",
+        "role": "topic",
+        "rationale": "reporting verb for clarifying"
+      },
+      {
+        "term": "point out",
+        "role": "topic",
+        "rationale": "phrasal verb for highlighting a detail"
+      },
+      {
+        "term": "clarify",
+        "role": "functional",
+        "rationale": "verb for the task of making things clear"
+      },
+      {
+        "term": "paraphrase",
+        "role": "functional",
+        "rationale": "verb for restating an idea"
+      },
+      {
+        "term": "misunderstanding",
+        "role": "topic",
+        "rationale": "noun for a common issue in mediation"
+      },
+      {
+        "term": "intention",
+        "role": "topic",
+        "rationale": "noun for what a speaker meant"
+      },
+      {
+        "term": "whether",
+        "role": "grammar_support",
+        "rationale": "conjunction for yes/no reported questions"
+      },
+      {
+        "term": "if",
+        "role": "grammar_support",
+        "rationale": "conjunction for yes/no reported questions"
+      }
+    ]
+  },
+  "scenario": "En una reunión de trabajo, Laura escucha una pregunta compleja de su jefe pero no está segura de haber entendido la intención exacta. Decide parafrasear la pregunta para confirmar con su colega antes de responder, evitando así un malentendido que podría costar caro al equipo.",
+  "introduction_md": "## Clarifying What Was Said\n\n¿Alguna vez has estado en una conversación y no has entendido exactamente lo que la otra persona quería decir? A veces, lo que escuchamos no coincide con la intención real del hablante. En esta lección, aprenderás a **aclarar** y **parafrasear** preguntas reportadas para evitar malentendidos.\n\n### ¿Qué vas a lograr?\n\n- **Reportar preguntas** que alguien hizo, usando *ask* y *wonder*.\n- **Parafrasear** una pregunta para un interlocutor específico.\n- **Confirmar** la interpretación correcta de lo que se dijo.\n\n### ¿Por qué es importante?\n\nEn contextos formales o académicos, la precisión es clave. Saber reformular una pregunta y verificar que has entendido bien demuestra competencia comunicativa y evita errores costosos. Esta habilidad es esencial para la **mediación** entre hablantes y para participar en discusiones complejas.\n\n### Ejemplo rápido\n\n- **Original:** \"What did she ask?\"\n- **Parafraseada:** \"She asked whether the report was ready.\"\n- **Confirmación:** \"Did I understand that correctly?\"\n\nVamos a practicar con escenarios reales para que domines estas estrategias. ¡Empecemos!",
+  "intro_target": "## Clarifying What Was Said\n\nHave you ever been in a conversation and not understood exactly what the other person meant? Sometimes, what we hear does not match the speaker's real intention. In this lesson, you will learn to **clarify** and **paraphrase** reported questions to avoid misunderstandings.\n\n### What will you achieve?\n\n- **Report questions** that someone asked, using *ask* and *wonder*.\n- **Paraphrase** a question for a specific listener.\n- **Confirm** the correct interpretation of what was said.\n\n### Why is it important?\n\nIn formal or academic contexts, precision is key. Knowing how to rephrase a question and verify that you have understood correctly demonstrates communicative competence and avoids costly errors. This skill is essential for **mediation** between speakers and for participating in complex discussions.\n\n### Quick example\n\n- **Original:** \"What did she ask?\"\n- **Paraphrased:** \"She asked whether the report was ready.\"\n- **Confirmation:** \"Did I understand that correctly?\"\n\nLet us practice with real scenarios so you can master these strategies. Let us begin!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "meaningful_adj",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "When you paraphrase a complex idea, you make it more meaningful for your audience.",
+      "translation_form": "Cuando parafraseas una idea compleja, la haces más significativa para tu audiencia.",
+      "highlight_words": [
+        "meaningful"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She asked whether the report was accurate, and I clarified that the data came from a reliable source.",
+      "translation_form": "Ella preguntó si el informe era preciso, y yo aclaré que los datos provenían de una fuente confiable.",
+      "highlight_words": [
+        "clarified"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "He wondered if the tone of the email might cause a misunderstanding, so he asked for help to rephrase it.",
+      "translation_form": "Se preguntó si el tono del correo podría causar un malentendido, así que pidió ayuda para reformularlo.",
+      "highlight_words": [
+        "wondered",
+        "misunderstanding"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The professor explained why the context was crucial and pointed out that the intention behind the statement mattered.",
+      "translation_form": "El profesor explicó por qué el contexto era crucial y señaló que la intención detrás de la declaración importaba.",
+      "highlight_words": [
+        "explained",
+        "pointed"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "Could you clarify whether you heard the announcement correctly, or did you only catch part of it?",
+      "translation_form": "¿Podrías aclarar si escuchaste el anuncio correctamente, o solo captaste parte de él?",
+      "highlight_words": [
+        "clarify",
+        "heard"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I asked if she could explain the meaning of that phrase again, because I did not understand the first time.",
+      "translation_form": "Le pregunté si podía explicar el significado de esa frase otra vez, porque no la entendí la primera vez.",
+      "highlight_words": [
+        "explain",
+        "meaning",
+        "understand"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "reported questions: wh- and yes/no",
+      "title_form": "Preguntas reportadas: wh- y sí/no",
+      "title_target": "Reported Questions: Wh- and Yes/No",
+      "description_md_form": "Cuando **reportamos** una pregunta (la contamos a otra persona), no usamos el orden directo de la pregunta. En inglés, la pregunta reportada **pierde la inversión** y se convierte en una afirmación con la conjunción adecuada.\n\n**Preguntas wh- (what, where, why, how...)**\n\nMantenemos la palabra wh- y cambiamos el orden a sujeto + verbo:\n\n- *\"Why did she leave?\"* → `She asked why she left.`\n- *\"Where is the meeting?\"* → `He wondered where the meeting was.`\n\n**Preguntas sí/no**\n\nUsamos `whether` o `if` (si) para introducir la pregunta reportada:\n\n- *\"Did you hear the news?\"* → `She asked whether I heard the news.`\n- *\"Is the report accurate?\"* → `He asked if the report was accurate.`\n\n**Reglas clave:**\n\n1. **Sin inversión**: el sujeto va antes del verbo, como en una afirmación.\n2. **Sin auxiliar do/does/did** en preguntas wh- reportadas.\n3. **Backshift**: si el verbo introductor está en pasado (`asked`, `wondered`), el tiempo verbal suele retroceder un paso (presente → pasado).\n4. **Sin signo de interrogación** al final: la pregunta reportada termina con punto.\n\n**Verbos introductores útiles**: `ask`, `wonder`, `explain`, `point out`. Con `explain` y `point out` a menudo añadimos *why* o *whether* para aclarar la intención del hablante.",
+      "description_md_target": "When we **report** a question (we tell it to someone else), we do not use the direct question word order. In English, the reported question **loses the inversion** and becomes a statement with the appropriate conjunction.\n\n**Wh- questions (what, where, why, how...)**\n\nWe keep the wh- word and change the order to subject + verb:\n\n- *\"Why did she leave?\"* → `She asked why she left.`\n- *\"Where is the meeting?\"* → `He wondered where the meeting was.`\n\n**Yes/no questions**\n\nWe use `whether` or `if` to introduce the reported question:\n\n- *\"Did you hear the news?\"* → `She asked whether I heard the news.`\n- *\"Is the report accurate?\"* → `He asked if the report was accurate.`\n\n**Key rules:**\n\n1. **No inversion**: the subject goes before the verb, as in a statement.\n2. **No auxiliary do/does/did** in reported wh- questions.\n3. **Backshift**: if the introductory verb is in the past (`asked`, `wondered`), the tense usually moves one step back (present → past).\n4. **No question mark** at the end: the reported question ends with a period.\n\n**Useful reporting verbs**: `ask`, `wonder`, `explain`, `point out`. With `explain` and `point out` we often add *why* or *whether* to clarify the speaker's intention.",
+      "grammar_structure": "Wh-: Subject + reporting verb + wh-word + subject + verb... | Yes/No: Subject + reporting verb + whether/if + subject + verb...",
+      "conjugation_table": {
+        "name": "reported_questions_structure",
+        "headers": [
+          "Tipo",
+          "Directa",
+          "Reportada"
+        ],
+        "rows": [
+          [
+            "Wh-",
+            "\"Why did she leave?\"",
+            "She asked why she left."
+          ],
+          [
+            "Wh-",
+            "\"Where is the meeting?\"",
+            "He wondered where the meeting was."
+          ],
+          [
+            "Yes/No",
+            "\"Did you hear the news?\"",
+            "She asked whether I heard the news."
+          ],
+          [
+            "Yes/No",
+            "\"Is the report accurate?\"",
+            "He asked if the report was accurate."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "reported questions: wh- and yes/no",
+          "text_target": "She asked whether the report was accurate, and I clarified that the data came from a reliable source.",
+          "translation_form": "Ella preguntó si el informe era preciso, y yo aclaré que los datos provenían de una fuente confiable.",
+          "highlight_words": [
+            "whether",
+            "clarified"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "reported questions: wh- and yes/no",
+          "text_target": "He wondered if the tone of the email might cause a misunderstanding, so he asked for help to rephrase it.",
+          "translation_form": "Se preguntó si el tono del correo podría causar un malentendido, así que pidió ayuda para reformularlo.",
+          "highlight_words": [
+            "wondered",
+            "if",
+            "misunderstanding"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "text_md": "**Cuidado con la inversión**: en la pregunta reportada NO invertimos sujeto y verbo. Decimos `She asked where the meeting was`, NO `She asked where was the meeting`."
+        },
+        {
+          "type": "tip",
+          "text_md": "**`Whether` vs `if`**: ambos significan \"si\" para preguntas sí/no. `Whether` suena más formal y se prefiere en contextos académicos o profesionales. `If` es más coloquial."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No uses auxiliares**: en preguntas wh- reportadas, eliminamos `do/does/did`. Decimos `He asked why she left`, NO `He asked why did she leave`."
+        }
+      ],
+      "common_errors_es": [
+        "Mantener la inversión de la pregunta directa: ✗ `She asked where was the meeting` → ✓ `She asked where the meeting was`.",
+        "Usar el auxiliar do/does/did en la pregunta reportada: ✗ `He asked why did she leave` → ✓ `He asked why she left`.",
+        "Olvidar el backshift del tiempo verbal cuando el verbo introductor está en pasado: ✗ `She asked if the report is accurate` → ✓ `She asked if the report was accurate`.",
+        "Confundir el orden con `whether/if`: el sujeto siempre va antes del verbo después de la conjunción: ✗ `She asked whether was the report accurate` → ✓ `She asked whether the report was accurate`."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'meaningful'?",
+      "options": [
+        "significativo",
+        "confuso",
+        "silencioso",
+        "rápido"
+      ],
+      "correct_answer": "significativo",
+      "explanation_md": "'Meaningful' describe algo que tiene importancia o valor real.",
+      "related_lexeme_ids": [
+        "meaningful_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "matching",
+      "prompt_md": "Empareja cada verbo con su significado:",
+      "options": [
+        "clarify",
+        "aclarar",
+        "paraphrase",
+        "parafrasear",
+        "explain",
+        "explicar",
+        "wonder",
+        "preguntarse"
+      ],
+      "correct_answer": [
+        "clarify=aclarar",
+        "paraphrase=parafrasear",
+        "explain=explicar",
+        "wonder=preguntarse"
+      ],
+      "explanation_md": "Estos verbos son clave para mediar y aclarar información en una conversación.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "multiple_choice",
+      "prompt_md": "Completa la oración con la palabra correcta: 'She asked ___ the meeting was on Tuesday.'",
+      "options": [
+        "whether",
+        "what",
+        "because",
+        "although"
+      ],
+      "correct_answer": "whether",
+      "explanation_md": "Para reportar preguntas de sí/no usamos 'whether' o 'if'.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completa la frase con la palabra correcta: 'He wondered ___ the email was too direct.'",
+      "options": null,
+      "correct_answer": "if",
+      "explanation_md": "En preguntas reportadas de sí/no, usamos 'if' o 'whether'.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traduce al inglés: 'Ella preguntó si el informe era preciso.'",
+      "options": null,
+      "correct_answer": "She asked whether the report was accurate.",
+      "explanation_md": "En preguntas reportadas, el verbo principal cambia a pasado y el orden de la oración es afirmativo.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traduce al español: 'He wondered if the tone of the email might cause a misunderstanding.'",
+      "options": null,
+      "correct_answer": "Se preguntó si el tono del correo podría causar un malentendido.",
+      "explanation_md": "La estructura 'wondered if' se traduce como 'se preguntó si' en español.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la forma correcta de reportar la pregunta 'Did you hear the announcement?'",
+      "options": [
+        "She asked if I heard the announcement.",
+        "She asked if did I hear the announcement.",
+        "She asked whether I did hear the announcement.",
+        "She asked if I hear the announcement."
+      ],
+      "correct_answer": "She asked if I heard the announcement.",
+      "explanation_md": "En preguntas reportadas, el orden es sujeto + verbo, sin el auxiliar 'did'.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué le pidió María a su colega?",
+      "options": null,
+      "correct_answer": "María le pidió a David que revisara otra sección del informe.",
+      "explanation_md": "El texto dice que María le preguntó a David si podía revisar otra sección.",
+      "related_lexeme_ids": [
+        "clarify_verb",
+        "meaningful_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "María estaba revisando un informe importante para su jefe. Encontró una sección que no entendía completamente. El tono del texto parecía demasiado formal para la situación. Le preocupaba que el lector pudiera malinterpretar la intención del mensaje.\n\nMaría decidió hablar con su colega David. Le explicó el contexto del informe y le señaló un párrafo específico. Le preguntó si el lenguaje era apropiado para la audiencia. David leyó el párrafo cuidadosamente y le sugirió una versión más clara.\n\nMaría le agradeció y le preguntó si podía revisar otra sección. David aceptó y le pidió que le explicara el propósito de esa parte. María le dijo que quería destacar los resultados del proyecto. David le recomendó usar un ejemplo concreto para hacer el punto más significativo.\n\nAl final, María se sintió más segura sobre el informe. Había aclarado sus dudas y mejorado el texto. Sabía que la comunicación clara era esencial para evitar malentendidos en el trabajo.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Por qué Tomás llamó a su hermana?",
+      "options": null,
+      "correct_answer": "Tomás llamó a su hermana para pedirle ayuda porque no estaba seguro de si había entendido el mensaje correctamente.",
+      "explanation_md": "El texto dice que Tomás llamó a su hermana para pedirle ayuda porque estaba confundido sobre la reunión.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "Tomás recibió un mensaje de su jefe que lo confundió. El mensaje decía que la reunión del viernes se había cancelado, pero Tomás pensaba que la reunión era el jueves. No estaba seguro de si había entendido correctamente.\n\nTomás llamó a su hermana para pedirle ayuda. Le leyó el mensaje y le preguntó si ella interpretaba lo mismo. Su hermana le explicó que el mensaje era claro: la reunión se había movido al lunes. Tomás le agradeció y le dijo que el contexto le había causado confusión.\n\nSu hermana le señaló que era importante verificar los detalles cuando algo no estaba claro. Tomás estuvo de acuerdo y decidió enviar un correo a su jefe para confirmar. Quería asegurarse de que no habría más malentendidos.\n\nAl final, Tomás se sintió aliviado. Había aclarado la situación y aprendido a preguntar cuando tenía dudas.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué le recomendó la profesora a Ana?",
+      "options": null,
+      "correct_answer": "La profesora le recomendó a Ana que usara un ejemplo del texto para ilustrar su punto.",
+      "explanation_md": "El texto dice que la profesora le sugirió usar un ejemplo para hacer su argumento más claro.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": "Ana estaba trabajando en un ensayo para su clase de literatura. Había escrito un párrafo sobre el tema principal del libro, pero sentía que su argumento no era lo suficientemente claro. Decidió visitar a su profesora durante las horas de oficina.\n\nAna le explicó su idea principal y le preguntó si su enfoque era correcto. La profesora leyó el párrafo y le señaló que la conexión entre dos ideas no estaba bien explicada. Le sugirió que usara un ejemplo del texto para ilustrar su punto.\n\nAna le preguntó si podía reformular una oración específica. La profesora le mostró cómo hacerlo y le explicó por qué la nueva versión era más efectiva. Ana se dio cuenta de que el contexto era crucial para que el lector entendiera su intención.\n\nAntes de irse, Ana le preguntó si podía enviarle el ensayo completo para una revisión final. La profesora aceptó y le recordó que la claridad era más importante que la complejidad.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué le preguntó Laura a su compañero?",
+      "options": [
+        "Le preguntó si la reunión era el martes o el miércoles.",
+        "Le preguntó si la presentación era el jueves.",
+        "Le preguntó si había escuchado el anuncio.",
+        "Le preguntó si podía ayudarla con la presentación."
+      ],
+      "correct_answer": "Le preguntó si la reunión era el martes o el miércoles.",
+      "explanation_md": "El audio dice que Laura preguntó si la reunión era el martes o el miércoles.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Laura estaba confundida sobre la fecha de la presentación. Le preguntó a su compañero si la reunión era el martes o el miércoles. Él le explicó que la presentación era el jueves. Laura le agradeció y le dijo que había escuchado mal el anuncio.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Por qué Carlos pidió ayuda?",
+      "options": [
+        "Porque no entendía el idioma del correo.",
+        "Porque no estaba seguro de si el cliente estaba molesto.",
+        "Porque no sabía cómo responder el correo.",
+        "Porque el correo era demasiado largo."
+      ],
+      "correct_answer": "Porque no estaba seguro de si el cliente estaba molesto.",
+      "explanation_md": "El audio dice que Carlos no estaba seguro de si el cliente estaba molesto o solo tenía prisa.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Carlos estaba leyendo un correo de un cliente. El tono del mensaje le parecía extraño. No estaba seguro de si el cliente estaba molesto o solo tenía prisa. Carlos le pidió ayuda a su supervisora para interpretar la intención del mensaje.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué le sugirió la doctora a su paciente?",
+      "options": [
+        "Le sugirió que hablara con su jefe sobre su horario.",
+        "Le sugirió que dejara de trabajar.",
+        "Le sugirió que tomara más medicación.",
+        "Le sugirió que visitara a otro doctor."
+      ],
+      "correct_answer": "Le sugirió que hablara con su jefe sobre su horario.",
+      "explanation_md": "El audio dice que la doctora le sugirió hablar con su jefe sobre su horario.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": "La doctora le explicó al paciente que necesitaba descansar más. El paciente le preguntó si podía seguir trabajando. La doctora le dijo que era importante reducir el estrés. Le sugirió que hablara con su jefe sobre su horario.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "free_production",
+      "prompt_md": "Pensá en una situación reciente en la que tuviste que aclarar algo. Escribí 2-3 oraciones describiendo qué preguntaste y cómo lo aclaraste. Usá preguntas reportadas con 'whether' o 'if'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de preguntas reportadas y verbos como 'ask', 'wonder' y 'clarify'.",
+      "related_lexeme_ids": [
+        "clarify_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "I asked my teacher whether the exam was next week. She explained that it was the following Monday.",
+        "I wondered if my friend was upset about my message. I asked her to clarify her intention."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "meaningful",
+      "back": "significativo",
+      "hint": "adjetivo para algo con valor o importancia",
+      "lexeme_id": "meaningful_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_013",
+        "C1",
+        "descriptors"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "ask",
+      "back": "preguntar",
+      "hint": "verbo para formular una pregunta",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "ask",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "wonder",
+      "back": "preguntarse",
+      "hint": "verbo para expresar curiosidad o duda",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "wonder",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "explain",
+      "back": "explicar",
+      "hint": "verbo para aclarar algo",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "explain",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "topic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "point out",
+      "back": "señalar",
+      "hint": "phrasal verb para destacar un detalle",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "point out",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "topic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "clarify",
+      "back": "aclarar",
+      "hint": "verbo para hacer algo más claro",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "clarify",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "paraphrase",
+      "back": "parafrasear",
+      "hint": "verbo para reformular una idea",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "paraphrase",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "misunderstanding",
+      "back": "malentendido",
+      "hint": "sustantivo para un problema de comunicación",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "misunderstanding",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "topic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "intention",
+      "back": "intención",
+      "hint": "sustantivo para lo que alguien quiere decir",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "intention",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "topic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "whether",
+      "back": "si (en preguntas indirectas)",
+      "hint": "conjunción para preguntas de sí/no",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "whether",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "if",
+      "back": "si (en preguntas indirectas)",
+      "hint": "conjunción para preguntas de sí/no",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "if",
+      "tags": [
+        "lesson_013",
+        "C1",
+        "grammar_support"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "clarify",
+      "back": "aclarar",
+      "hint": "verbo para hacer algo más claro",
+      "lexeme_id": "clarify_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_013",
+        "C1",
+        "functional"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "meaning",
+      "back": "significado",
+      "hint": "sustantivo para lo que algo quiere decir",
+      "lexeme_id": "meaning",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_013",
+        "C1",
+        "topic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_014",
+      "front": "intention",
+      "back": "intención",
+      "hint": "sustantivo para lo que alguien quiere decir",
+      "lexeme_id": "intention",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_013",
+        "C1",
+        "topic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_015",
+      "front": "tone",
+      "back": "tono",
+      "hint": "sustantivo para la actitud en la voz",
+      "lexeme_id": "tone",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_013",
+        "C1",
+        "topic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_016",
+      "front": "context",
+      "back": "contexto",
+      "hint": "sustantivo para la situación que rodea algo",
+      "lexeme_id": "context",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_013",
+        "C1",
+        "topic"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "meaningful",
+      "reading": "",
+      "translation": "significativo",
+      "pos": "adjective",
+      "example": "When you paraphrase a complex idea, you make it more meaningful for your audience.",
+      "example_translation": "Cuando parafraseas una idea compleja, la haces más significativa para tu audiencia.",
+      "lexeme_id": "meaningful_adj",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "ask",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "preguntar / pedir",
+      "lexeme_id": "ask_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "reported questions: wh- and yes/no",
+        "fc_002",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_007",
+        "quiz_001:q_011",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "wonder",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "reported questions: wh- and yes/no",
+        "fc_003"
+      ]
+    },
+    {
+      "term": "explain",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "explicar",
+      "lexeme_id": "explain_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_006",
+        "reported questions: wh- and yes/no",
+        "fc_004",
+        "quiz_001:q_002",
+        "quiz_001:q_008",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "point out",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "señalar / hacer notar",
+      "lexeme_id": "point_out_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "reported questions: wh- and yes/no",
+        "fc_005",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "clarify",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "aclarar",
+      "lexeme_id": "clarify_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_005",
+        "reported questions: wh- and yes/no",
+        "ex_002",
+        "ex_003",
+        "ex_004",
+        "ex_005",
+        "ex_006",
+        "ex_007",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_014",
+        "fc_006",
+        "fc_012",
+        "quiz_001:q_001",
+        "quiz_001:q_007",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "paraphrase",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "misunderstanding",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "reported questions: wh- and yes/no",
+        "fc_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "intention",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "intención",
+      "lexeme_id": "intention",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "reported questions: wh- and yes/no",
+        "ex_014",
+        "fc_009",
+        "fc_014",
+        "quiz_001:q_002",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "whether",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "si (conjunción)",
+      "lexeme_id": "whether_conj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_002",
+        "exm_005",
+        "reported questions: wh- and yes/no",
+        "ex_014",
+        "fc_010",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "if",
+      "role": "grammar_support",
+      "status": "practiced",
+      "translation": "si (condicional)",
+      "lexeme_id": "if_conj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "exm_006",
+        "reported questions: wh- and yes/no",
+        "ex_014",
+        "fc_011",
+        "quiz_001:q_004",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "meaningful",
+      "role": "support",
+      "status": "practiced",
+      "translation": "significativo",
+      "lexeme_id": "meaningful_adj",
+      "chunk_id": null,
+      "source": "cart",
+      "evidence_refs": [
+        "exm_001",
+        "ex_001",
+        "ex_008",
+        "fc_001"
+      ]
+    },
+    {
+      "term": "meaning",
+      "role": "support",
+      "status": "review",
+      "translation": "significado",
+      "lexeme_id": "meaning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_013"
+      ]
+    },
+    {
+      "term": "tone",
+      "role": "support",
+      "status": "review",
+      "translation": "tono",
+      "lexeme_id": "tone",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_015"
+      ]
+    },
+    {
+      "term": "context",
+      "role": "support",
+      "status": "review",
+      "translation": "contexto",
+      "lexeme_id": "context",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "fc_016"
+      ]
+    },
+    {
+      "term": "understand",
+      "role": "support",
+      "status": "emergent",
+      "translation": "entender / comprender",
+      "lexeme_id": "understand_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_011",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "catch",
+      "role": "support",
+      "status": "emergent",
+      "translation": "atrapar / tomar (un tren, un bus)",
+      "lexeme_id": "catch_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_008",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "again",
+      "role": "support",
+      "status": "emergent",
+      "translation": "otra vez / de nuevo",
+      "lexeme_id": "again_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "idea",
+      "role": "support",
+      "status": "emergent",
+      "translation": "idea",
+      "lexeme_id": "idea",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_010",
+        "quiz_001:q_002",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "make",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hacer / fabricar",
+      "lexeme_id": "make_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_010",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "professor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor",
+      "lexeme_id": "professor",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "quiz_001:q_001",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "time",
+      "role": "support",
+      "status": "emergent",
+      "translation": "hora / tiempo",
+      "lexeme_id": "time",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "complex",
+      "role": "support",
+      "status": "emergent",
+      "translation": "complejo",
+      "lexeme_id": "complex",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "quiz_001:q_001"
+      ]
+    },
+    {
+      "term": "phrase",
+      "role": "support",
+      "status": "emergent",
+      "translation": "frase",
+      "lexeme_id": "phrase",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "correctly",
+      "role": "support",
+      "status": "emergent",
+      "translation": "correctamente",
+      "lexeme_id": "correctly_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "crucial",
+      "role": "support",
+      "status": "emergent",
+      "translation": "crucial / importante",
+      "lexeme_id": "crucial_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "email",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003"
+      ]
+    },
+    {
+      "term": "announcement",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pregón / anuncio / proclama",
+      "lexeme_id": "announcement",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "accurate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "preciso",
+      "lexeme_id": "accurate",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "reliable",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fiable",
+      "lexeme_id": "reliable_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "source",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fuente",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "statement",
+      "role": "support",
+      "status": "emergent",
+      "translation": "declaración",
+      "lexeme_id": "statement",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "audience",
+      "role": "support",
+      "status": "emergent",
+      "translation": "audiencia",
+      "lexeme_id": "audience",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001"
+      ]
+    },
+    {
+      "term": "data",
+      "role": "support",
+      "status": "emergent",
+      "translation": "datos",
+      "lexeme_id": "data",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002"
+      ]
+    },
+    {
+      "term": "sorry",
+      "role": "support",
+      "status": "emergent",
+      "translation": "lo siento",
+      "lexeme_id": "sorry_interj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_011",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "want",
+      "role": "support",
+      "status": "emergent",
+      "translation": "querer",
+      "lexeme_id": "want_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "quite",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bastante",
+      "lexeme_id": "quite_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "way",
+      "role": "support",
+      "status": "emergent",
+      "translation": "manera / camino",
+      "lexeme_id": "way",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_009",
+        "quiz_001:q_012"
+      ]
+    },
+    {
+      "term": "conversation",
+      "role": "support",
+      "status": "emergent",
+      "translation": "conversación",
+      "lexeme_id": "conversation",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_003",
+        "quiz_001:q_006",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "deeply",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profundamente",
+      "lexeme_id": "deeply_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_008",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "final",
+      "role": "support",
+      "status": "emergent",
+      "translation": "final",
+      "lexeme_id": "final_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_008",
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "carefully",
+      "role": "support",
+      "status": "emergent",
+      "translation": "cuidadosamente / precavidamente",
+      "lexeme_id": "carefully_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "sure",
+      "role": "support",
+      "status": "emergent",
+      "translation": "seguro / seguro que sí",
+      "lexeme_id": "sure_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_009",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "now",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ahora",
+      "lexeme_id": "now",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "listen to",
+      "role": "support",
+      "status": "emergent",
+      "translation": "escuchar",
+      "lexeme_id": "listen_to_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_002",
+        "quiz_001:q_008"
+      ]
+    },
+    {
+      "term": "give",
+      "role": "support",
+      "status": "emergent",
+      "translation": "dar",
+      "lexeme_id": "give_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_010"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "quiz_001:q_001",
+        "quiz_001:q_008"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 10,
+    "lexical_target_count": 6,
+    "covered_lexical_target_count": 6,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 1,
+    "review_support_count": 3,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "understand",
+      "catch",
+      "again",
+      "idea",
+      "make",
+      "professor",
+      "time",
+      "complex",
+      "phrase",
+      "correctly",
+      "crucial",
+      "email",
+      "announcement",
+      "accurate",
+      "reliable",
+      "source",
+      "statement",
+      "audience",
+      "data",
+      "sorry",
+      "want",
+      "quite",
+      "way",
+      "conversation",
+      "deeply",
+      "final",
+      "carefully",
+      "sure",
+      "now",
+      "listen to",
+      "give",
+      "student"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Clarifying What Was Said",
+      "title_target": "Quiz: Clarifying What Was Said",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Qué le pide la profesora a su estudiante que haga cuando no entiende una palabra?",
+          "prompt_target": "Read the text and answer: What does the teacher ask her student to do when he does not understand a word?",
+          "options": [
+            "He should wait until the end of the class.",
+            "He should ask for clarification when something is not clear.",
+            "He should read the textbook at home.",
+            "He should not interrupt the professor at all."
+          ],
+          "correct_answer": "He should ask for clarification when something is not clear.",
+          "explanation_form": "El texto dice que la profesora animó al estudiante a seguir haciendo preguntas cuando algo no estaba claro. Pedir aclaración es una señal de fortaleza intelectual.",
+          "explanation_target": "The text says the professor encouraged the student to keep asking questions whenever something was not clear. Asking for clarification is a sign of intellectual strength.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "clarify_verb",
+            "meaningful_adj",
+            "reported questions: wh- and yes/no"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "In a university seminar on philosophy, a professor was explaining a complex theory about the nature of reality. She used several terms that were new to her students. One student, a young man from Spain, listened carefully but soon felt lost. He did not want to interrupt the whole class, so he waited until the professor paused. Then he raised his hand and said, \"Excuse me, professor. I am sorry, but I did not quite catch the meaning of the word 'epistemology'. Could you clarify what you meant by that?\" The professor smiled. She appreciated his honesty and his desire to understand the subject deeply. She explained the term again, using simpler language and giving a clear example from everyday life. She also pointed out that asking for clarification was a sign of intellectual strength, not weakness. The student felt relieved. He realized that his question had helped not only himself but also other classmates who had been too shy to speak. After the seminar, he thanked the professor for her patience. She told him that his question had made the discussion more meaningful for everyone. She encouraged him to keep asking questions whenever something was not clear. The student left the room feeling more confident and more engaged with the material.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el audio y responde: ¿Qué le pregunta el hombre a su colega?",
+          "prompt_target": "Listen to the audio and answer: What does the man ask his colleague?",
+          "options": [
+            "He asks her to explain her idea again.",
+            "He asks her to leave the meeting.",
+            "He asks her to write a report.",
+            "He asks her to speak more loudly."
+          ],
+          "correct_answer": "He asks her to explain her idea again.",
+          "explanation_form": "El hombre dice: \"Could you explain your idea again?\" porque no entendió el punto de su colega.",
+          "explanation_target": "The man says: \"Could you explain your idea again?\" because he did not understand his colleague's point.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "clarify_verb",
+            "explain_verb",
+            "intention"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "In a meeting, a man did not understand his colleague's point about the new project. He said, \"I am sorry, but I did not quite catch what you meant by that. Could you explain your idea again?\" His colleague nodded and repeated the main points more slowly. The man listened carefully and then said, \"Thank you. Now I understand your intention much better.\"",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de reportar la pregunta 'What did you mean?' en una conversación formal?",
+          "prompt_target": "Which is the correct way to report the question 'What did you mean?' in a formal conversation?",
+          "options": [
+            "She asked me what I meant.",
+            "She asked me what did I mean.",
+            "She asked me what I mean.",
+            "She asked me what did you mean."
+          ],
+          "correct_answer": "She asked me what I meant.",
+          "explanation_form": "En las preguntas reportadas (reported questions), el orden es sujeto + verbo, sin inversión ni auxiliar 'did'. El tiempo verbal retrocede: 'did mean' → 'meant'.",
+          "explanation_target": "In reported questions, the order is subject + verb, without inversion or the auxiliary 'did'. The tense moves back: 'did mean' → 'meant'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reported questions: wh- and yes/no"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase para reportar una pregunta de sí/no: 'He asked me ____ I had understood his point.'",
+          "prompt_target": "Complete the sentence to report a yes/no question: 'He asked me ____ I had understood his point.'",
+          "options": null,
+          "correct_answer": "whether",
+          "explanation_form": "Para reportar preguntas de sí/no usamos 'if' o 'whether'. En contextos formales, 'whether' es más común.",
+          "explanation_target": "To report yes/no questions we use 'if' or 'whether'. In formal contexts, 'whether' is more common.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reported questions: wh- and yes/no"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'meaningful' en la frase 'a meaningful conversation'?",
+          "prompt_target": "What does 'meaningful' mean in the phrase 'a meaningful conversation'?",
+          "options": [
+            "Una conversación que tiene sentido e importancia",
+            "Una conversación muy larga",
+            "Una conversación difícil",
+            "Una conversación silenciosa"
+          ],
+          "correct_answer": "Una conversación que tiene sentido e importancia",
+          "explanation_form": "'Meaningful' describe algo que tiene significado, valor o importancia. Una 'meaningful conversation' es una conversación profunda y valiosa.",
+          "explanation_target": "'Meaningful' describes something that has significance, value, or importance. A 'meaningful conversation' is a deep and valuable conversation.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "meaningful_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "translation_form_to_target",
+          "prompt_form": "Traducí al inglés: '¿Podrías aclarar lo que quisiste decir?'",
+          "prompt_target": "Translate into English: 'Could you clarify what you meant?'",
+          "options": null,
+          "correct_answer": "Could you clarify what you meant?",
+          "explanation_form": "Para pedir aclaración formalmente usamos 'Could you clarify...' seguido de la pregunta indirecta 'what you meant'.",
+          "explanation_target": "To ask for clarification formally we use 'Could you clarify...' followed by the indirect question 'what you meant'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "clarify_verb",
+            "reported questions: wh- and yes/no"
+          ],
+          "points": 10,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha el audio y responde: ¿Qué dijo el hombre que no había entendido?",
+          "prompt_target": "Listen to the audio and answer: What did the man say he had not understood?",
+          "options": [
+            "He did not understand the professor's point about global markets.",
+            "He did not understand the homework assignment.",
+            "He did not understand the schedule for the exam.",
+            "He did not understand the meaning of a single word."
+          ],
+          "correct_answer": "He did not understand the professor's point about global markets.",
+          "explanation_form": "El estudiante dice: \"I did not catch the professor's point about global markets.\"",
+          "explanation_target": "The student says: \"I did not catch the professor's point about global markets.\"",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "clarify_verb",
+            "meaning",
+            "point_out_verb"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "During a lecture on economics, a student whispered to his friend, \"I did not catch the professor's point about global markets.\" His friend replied, \"She said that local economies are now deeply connected. Do you want me to explain it again?\" The student nodded, grateful for the help.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es la forma correcta de reportar la pregunta 'Are you sure about that?'",
+          "prompt_target": "Which is the correct way to report the question 'Are you sure about that?'",
+          "options": [
+            "She asked me if I was sure about that.",
+            "She asked me if I am sure about that.",
+            "She asked me was I sure about that.",
+            "She asked me if I were sure about that."
+          ],
+          "correct_answer": "She asked me if I was sure about that.",
+          "explanation_form": "Para reportar preguntas de sí/no usamos 'if' o 'whether' y cambiamos el tiempo: 'are' → 'was'.",
+          "explanation_target": "To report yes/no questions we use 'if' or 'whether' and change the tense: 'are' → 'was'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "reported questions: wh- and yes/no"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "matching",
+          "prompt_form": "Empareja cada verbo con su uso principal para aclarar:",
+          "prompt_target": "Match each verb with its main use for clarifying:",
+          "options": [
+            "clarify",
+            "explicar algo para hacerlo más claro",
+            "explain",
+            "hacer algo más claro o fácil de entender",
+            "point out",
+            "señalar o indicar algo específico",
+            "mean",
+            "tener la intención de decir algo"
+          ],
+          "correct_answer": [
+            "clarify=hacer algo más claro o fácil de entender",
+            "explain=explicar algo para hacerlo más claro",
+            "point out=señalar o indicar algo específico",
+            "mean=tener la intención de decir algo"
+          ],
+          "explanation_form": "Estos verbos son clave para pedir y dar aclaraciones. 'Clarify' se enfoca en hacer algo más claro; 'explain' en dar detalles; 'point out' en señalar algo; 'mean' en la intención.",
+          "explanation_target": "These verbs are key for asking and giving clarifications. 'Clarify' focuses on making something clearer; 'explain' on giving details; 'point out' on indicating something; 'mean' on intention.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "clarify_verb",
+            "explain_verb",
+            "point_out_verb",
+            "mean"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Por qué la conversación fue significativa para ambos?",
+          "prompt_target": "Read the text and answer: Why was the conversation meaningful for both of them?",
+          "options": [
+            "Because they discovered they had different assumptions and avoided a misunderstanding.",
+            "Because they finished the project quickly.",
+            "Because they agreed on everything from the start.",
+            "Because Maria taught John a new word."
+          ],
+          "correct_answer": "Because they discovered they had different assumptions and avoided a misunderstanding.",
+          "explanation_form": "El texto dice que al aclarar sus significados temprano, evitaron un malentendido serio y construyeron confianza. Por eso la conversación fue significativa.",
+          "explanation_target": "The text says that by clarifying their meanings early, they avoided a serious misunderstanding and built trust. That is why the conversation was meaningful.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "clarify_verb",
+            "meaningful_adj",
+            "intention",
+            "misunderstanding"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "Two colleagues, Maria and John, were working on a difficult project about environmental policy. During a break, Maria mentioned a term that John did not recognize. Instead of pretending to understand, John decided to ask for clarification. He said, \"Maria, I am sorry to interrupt, but could you clarify what you meant by 'carbon offset'? I want to make sure I understand your intention correctly.\" Maria appreciated his honesty. She explained the concept with a simple example from their own work. John listened carefully and then repeated the idea in his own words to confirm his understanding. Maria nodded and said, \"Exactly. You have got it.\" The conversation continued, and they discovered that they had different assumptions about the project's goals. By clarifying their meanings early, they avoided a serious misunderstanding later. Both felt that the short discussion had been deeply meaningful. It saved them time and built trust between them. John realized that asking a simple question could turn a confusing moment into a productive and honest exchange.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la frase: 'I am sorry, but I did not quite ____ your point. Could you repeat it?'",
+          "prompt_target": "Complete the sentence: 'I am sorry, but I did not quite ____ your point. Could you repeat it?'",
+          "options": null,
+          "correct_answer": "catch",
+          "explanation_form": "La expresión 'did not quite catch' significa 'no entendí completamente'. Es una forma natural y educada de pedir aclaración.",
+          "explanation_target": "The expression 'did not quite catch' means 'I did not fully understand'. It is a natural and polite way to ask for clarification.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "clarify_verb",
+            "understand_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Clarificar con preguntas indirectas\n\nCuando repites una pregunta para confirmar que entendiste bien, en inglés el orden cambia: ya no es \"What did you mean?\" sino \"**what you meant**\". Es un error muy común entre hispanohablantes mantener el orden de la pregunta directa. Piensa en la pregunta indirecta como una afirmación: el sujeto va antes del verbo.\n\n## Truco para el \"if/whether\"\n\nPara preguntas de sí/no, usa **if** o **whether** al reportar: \"She asked **if** the tone was clear\". Un truco: si en español dirías \"si\", en inglés usas **if**. Y recuerda que el verbo retrocede un tiempo: \"is\" se vuelve \"was\", \"did\" se vuelve \"had done\". Practica convirtieno preguntas directas en indirectas en voz alta para que el patrón se vuelva automático.",
+  "metadata": {
+    "generated_at": "2026-09-02T21:20:51Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}

@@ -18,7 +18,7 @@ export function LessonIntroduction({ level, entry, lesson, objectives, prerequis
 
 export function LessonTheory({ lesson, grammarFocus, onSpeak, onNext }: { entry: CourseEntry; lesson: FullLesson; grammarFocus: string[]; onSpeak: EnglishSpeaker; onNext: () => void }) {
   return <section className="a1-content-section">
-    <header className="a1-section-title"><span>01 · COMPRENDE</span><h2>Explicación y ejemplos</h2><p className="a1-long-copy">{cleanMarkdown(lesson.notes_md_form)}</p></header>
+    <header className="a1-section-title"><span>01 · COMPRENDE</span><h2>Explicación y ejemplos</h2><p className="a1-long-copy">{cleanMarkdown(lesson.notes_md_form)}</p>{lesson.notes_md_target && <details><summary>Ver explicación en inglés</summary><p className="a1-long-copy">{cleanMarkdown(lesson.notes_md_target)}</p></details>}</header>
     {grammarFocus.length > 0 && <div className="a1-focus-strip"><strong>En esta lección</strong>{grammarFocus.map((focus) => <span key={focus}>{readableFocus(focus)}</span>)}</div>}
     <div className="a1-examples">{lesson.examples.map((example) => <article key={example.id}><button onClick={() => onSpeak(example.text_target)} aria-label={`Escuchar ${example.text_target}`}>🔊</button><div><strong>{example.text_target}</strong><p>{example.translation_form}</p>{example.reading_target && <small>{example.reading_target}</small>}</div></article>)}</div>
     {lesson.grammar_explanations.length > 0 ? <div className="a1-grammar-list">{lesson.grammar_explanations.map((grammar) => <article key={grammar.slug}>

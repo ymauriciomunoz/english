@@ -10,7 +10,6 @@ import { AppSidebar } from "./components/AppSidebar";
 import { AppTopbar } from "./components/AppTopbar";
 import { HomeView } from "./components/HomeView";
 import { LearningRoute } from "./components/LearningRoute";
-import { LegacyLessonModal } from "./components/LegacyLessonModal";
 import { PracticeView } from "../practice/PracticeView";
 
 export function BrightUpApp() {
@@ -19,7 +18,7 @@ export function BrightUpApp() {
   const studentInitials = getStudentInitials(academy.studentName);
   const activeLesson = academy.activeLesson;
 
-  if (activeLesson && activeLesson.level !== "C1") {
+  if (activeLesson) {
     const level = activeLesson.level;
     const courseEntries = courseRoadmaps[level];
     if (!academy.activeCourseEntry) return <main className="a1-lesson-page"><section className="course-lesson-loading"><span>{academy.courseLessonError ? "!" : "B"}</span><h1>{academy.courseLessonError ? "No se pudo abrir la lección" : "Preparando tu lección…"}</h1><p>{academy.courseLessonError || `${level} · Lección ${activeLesson.number} · ${activeLesson.title}`}</p>{academy.courseLessonError && <button onClick={academy.exitCourseLesson}>Volver a mi ruta</button>}</section></main>;
@@ -84,19 +83,5 @@ export function BrightUpApp() {
     </section>
 
     {academy.menuOpen && <button className="menu-overlay" onClick={() => academy.setMenuOpen(false)} aria-label="Cerrar menú" />}
-    {academy.activeLesson && academy.activeContent && <LegacyLessonModal
-      lesson={academy.activeLesson}
-      content={academy.activeContent}
-      activity={academy.activeActivity}
-      step={academy.lessonStep}
-      answer={academy.selectedAnswer}
-      feedback={academy.feedback}
-      options={academy.displayedOptions}
-      onAnswer={academy.setSelectedAnswer}
-      onFeedback={academy.setFeedback}
-      onCheck={academy.checkLegacyAnswer}
-      onContinue={academy.continueLegacyLesson}
-      onClose={academy.closeLesson}
-    />}
   </main>;
 }

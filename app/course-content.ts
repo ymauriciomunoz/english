@@ -4,8 +4,9 @@ import a1RoadmapJson from "./data/lessons_A1-20260901T222255Z-1-001/lessons_A1/r
 import a2RoadmapJson from "./data/lessons_A2-20260901T222257Z-1-001/lessons_A2/roadmap.approved.json";
 import b1RoadmapJson from "./data/lessons_B1-20260901T222300Z-1-001/lessons_B1/roadmap.approved.json";
 import b2RoadmapJson from "./data/lessons_B2-20260901T222302Z-1-001/lessons_B2/roadmap.approved.json";
+import c1RoadmapJson from "./data/lessons_C1/roadmap.approved.json";
 
-export type ContentLevel = "A1" | "A2" | "B1" | "B2";
+export type ContentLevel = "A1" | "A2" | "B1" | "B2" | "C1";
 export type LessonAnswer = string | string[];
 
 export type LessonExample = {
@@ -136,6 +137,7 @@ export type FullLesson = {
   lesson_vocabulary?: LessonVocabularyItem[];
   quiz: LessonQuiz[];
   notes_md_form: string;
+  notes_md_target?: string | null;
 };
 
 export type LessonBrief = {
@@ -184,7 +186,10 @@ export type CourseEntry = CourseCatalogEntry & {
 };
 
 const lessonModules = import.meta.glob<FullLesson>(
-  "./data/lessons_*/lessons_*/lesson_*.json",
+  [
+    "./data/lessons_*/lessons_*/lesson_*.json",
+    "./data/lessons_C1/lesson_*.json",
+  ],
   { import: "default" },
 );
 
@@ -193,6 +198,7 @@ const roadmapFiles: Record<ContentLevel, CourseRoadmapFile> = {
   A2: a2RoadmapJson as unknown as CourseRoadmapFile,
   B1: b1RoadmapJson as unknown as CourseRoadmapFile,
   B2: b2RoadmapJson as unknown as CourseRoadmapFile,
+  C1: c1RoadmapJson as unknown as CourseRoadmapFile,
 };
 
 const lessonLoaders: Record<ContentLevel, Record<string, () => Promise<FullLesson>>> = {
@@ -200,10 +206,11 @@ const lessonLoaders: Record<ContentLevel, Record<string, () => Promise<FullLesso
   A2: {},
   B1: {},
   B2: {},
+  C1: {},
 };
 
 for (const [filePath, loadLesson] of Object.entries(lessonModules)) {
-  const levelMatch = filePath.match(/\/lessons_(A1|A2|B1|B2)\/lesson_\d+\.json$/);
+  const levelMatch = filePath.match(/\/lessons_(A1|A2|B1|B2|C1)\/lesson_\d+\.json$/);
   const lessonMatch = filePath.match(/(lesson_\d+)\.json$/);
   if (levelMatch && lessonMatch) lessonLoaders[levelMatch[1] as ContentLevel][lessonMatch[1]] = loadLesson;
 }
@@ -228,6 +235,7 @@ export const courseRoadmaps: Record<ContentLevel, CourseCatalogEntry[]> = {
   A2: buildCourse("A2"),
   B1: buildCourse("B1"),
   B2: buildCourse("B2"),
+  C1: buildCourse("C1"),
 };
 
 export async function loadCourseEntry(level: ContentLevel, lessonId: string): Promise<CourseEntry> {
@@ -242,6 +250,7 @@ export const courseUnits: Record<ContentLevel, CourseUnit[]> = {
   A2: roadmapFiles.A2.units,
   B1: roadmapFiles.B1.units,
   B2: roadmapFiles.B2.units,
+  C1: roadmapFiles.C1.units,
 };
 
 export const a1Roadmap = courseRoadmaps.A1;

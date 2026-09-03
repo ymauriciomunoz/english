@@ -1,0 +1,2119 @@
+{
+  "id": "lesson_015",
+  "position": 15,
+  "unit_id": 4,
+  "course_id": "en.C1",
+  "title_form": "Synthesizing Sources for a Balanced Summary",
+  "title_target": "Synthesizing Sources for a Balanced Summary",
+  "theme_focus": "academic",
+  "learning_objectives": [
+    "Can synthesise two complex sources for a named audience, preserving their viewpoints and register.",
+    "Can use reporting verbs, nominalisation and ellipsis to compare evidence concisely."
+  ],
+  "estimated_minutes": 30,
+  "prerequisites": [
+    "lesson_012",
+    "lesson_013",
+    "lesson_014"
+  ],
+  "grammar_focus": [
+    "reporting verbs: suggest + that + subjunctive, deny + -ing",
+    "ellipsis: so do I / neither do I / if necessary"
+  ],
+  "vocabulary_focus_mirror": {
+    "lexeme_ids": [
+      "research",
+      "source",
+      "criteria",
+      "extensive_adj"
+    ],
+    "chunk_ids": [],
+    "review_lexeme_ids": [
+      "assert_verb",
+      "concede_verb",
+      "contend_verb",
+      "data"
+    ],
+    "target_vocabulary": [
+      {
+        "term": "establish",
+        "role": "grammar_support",
+        "rationale": "verb for the chunk on criteria"
+      },
+      {
+        "term": "criteria",
+        "role": "topic",
+        "rationale": "noun for the chunk on evaluation"
+      },
+      {
+        "term": "derive",
+        "role": "grammar_support",
+        "rationale": "verb for the chunk on data"
+      },
+      {
+        "term": "extensive",
+        "role": "topic",
+        "rationale": "adjective for the chunk on research"
+      },
+      {
+        "term": "data",
+        "role": "topic",
+        "rationale": "noun for the chunk on evidence"
+      },
+      {
+        "term": "research",
+        "role": "topic",
+        "rationale": "noun for the chunk on studies"
+      },
+      {
+        "term": "essential",
+        "role": "functional",
+        "rationale": "adjective for the chunk on necessity"
+      },
+      {
+        "term": "synthesize",
+        "role": "functional",
+        "rationale": "verb for the core task"
+      },
+      {
+        "term": "summarize",
+        "role": "functional",
+        "rationale": "verb for the core task"
+      },
+      {
+        "term": "source",
+        "role": "topic",
+        "rationale": "noun for a text being mediated"
+      }
+    ]
+  },
+  "scenario": "Laura trabaja en un centro de investigación. Su jefa le pide un resumen equilibrado de dos estudios recientes sobre el impacto de la tecnología en la productividad: uno es optimista y el otro escéptico. Laura debe sintetizar ambas fuentes, usando verbos de reporte y criterios claros de evaluación, para presentarlo ante su equipo.",
+  "introduction_md": "## Sintetizando fuentes para un resumen equilibrado\n\nEn esta lección vas a aprender a **combinar dos fuentes complejas** para crear un resumen equilibrado, dirigido a una audiencia específica. Este es un paso clave en el trabajo académico y profesional: no se trata solo de copiar ideas, sino de **comparar evidencias** y **preservar los puntos de vista** de cada autor.\n\n### ¿Qué vas a lograr?\n\n- **Sintetizar** información de dos fuentes, manteniendo el registro y la perspectiva de cada una.\n- Usar **verbos de reporte** (suggest, deny) para atribuir ideas con precisión.\n- Aplicar **nominalización** y **elipsis** para comparar evidencias de forma concisa.\n\n### El escenario\n\nImagina que trabajas en un centro de investigación. Tu jefa te pide un resumen breve de dos estudios recientes sobre el mismo tema, pero con conclusiones opuestas. Tu tarea es presentar ambos lados sin sesgo, para que el equipo decida.\n\n### Consejo\n\nPiensa en los **criterios** que usas para evaluar una fuente: ¿es confiable? ¿qué evidencia presenta? ¿qué supuestos esconde? Un buen resumen no solo informa, sino que **revela** cómo se construye el conocimiento.\n\n¡Vamos a ello!",
+  "intro_target": "## Synthesizing Sources for a Balanced Summary\n\nIn this lesson, you will learn to **combine two complex sources** to create a balanced summary, aimed at a specific audience. This is a key step in academic and professional work: it is not just about copying ideas, but about **comparing evidence** and **preserving the viewpoints** of each author.\n\n### What will you achieve?\n\n- **Synthesize** information from two sources, maintaining the register and perspective of each one.\n- Use **reporting verbs** (suggest, deny) to attribute ideas accurately.\n- Apply **nominalisation** and **ellipsis** to compare evidence concisely.\n\n### The scenario\n\nImagine you work at a research center. Your boss asks you for a brief summary of two recent studies on the same topic, but with opposing conclusions. Your task is to present both sides without bias, so the team can decide.\n\n### Tip\n\nThink about the **criteria** you use to evaluate a source: is it reliable? what evidence does it present? what assumptions does it hide? A good summary not only informs, but also **reveals** how knowledge is constructed.\n\nLet's go!",
+  "examples": [
+    {
+      "id": "exm_001",
+      "lexeme_id": "criteria",
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "When evaluating these studies, the criteria must include both the sample size and the methodology, as the data can otherwise be misleading.",
+      "translation_form": "Al evaluar estos estudios, los criterios deben incluir tanto el tamaño de la muestra como la metodología, ya que los datos pueden ser engañosos de otro modo.",
+      "highlight_words": [
+        "criteria",
+        "studies",
+        "data"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_002",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The committee suggests that the report be revised before publication, and I suggest that we wait for the final data as well.",
+      "translation_form": "El comité sugiere que el informe sea revisado antes de la publicación, y yo sugiero que esperemos los datos finales también.",
+      "highlight_words": [
+        "suggests",
+        "report",
+        "data"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_003",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The author denies having manipulated the results, but the extensive research from other sources contradicts this assertion.",
+      "translation_form": "El autor niega haber manipulado los resultados, pero la extensa investigación de otras fuentes contradice esta afirmación.",
+      "highlight_words": [
+        "denies",
+        "research",
+        "sources"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_004",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "I found the first source quite convincing, and I found the second one convincing as well, although the criteria differ slightly.",
+      "translation_form": "Encontré la primera fuente bastante convincente, y la segunda también me pareció convincente, aunque los criterios difieren ligeramente.",
+      "highlight_words": [
+        "source",
+        "criteria"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_005",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "She contends that the economy will recover, but he denies that this will happen soon; neither do I believe it will be rapid.",
+      "translation_form": "Ella sostiene que la economía se recuperará, pero él niega que esto suceda pronto; yo tampoco creo que sea rápido.",
+      "highlight_words": [
+        "contends",
+        "denies",
+        "economy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_006",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The professor asserts that the theory is flawed, and she suggests that the students examine the evidence more carefully before concluding.",
+      "translation_form": "El profesor afirma que la teoría es defectuosa, y sugiere que los estudiantes examinen la evidencia más cuidadosamente antes de concluir.",
+      "highlight_words": [
+        "asserts",
+        "suggests",
+        "evidence"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_007",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The government denies having ignored the warnings, but the data from the last decade suggests otherwise; if necessary, we will review the policy.",
+      "translation_form": "El gobierno niega haber ignorado las advertencias, pero los datos de la última década sugieren lo contrario; si es necesario, revisaremos la política.",
+      "highlight_words": [
+        "denies",
+        "data",
+        "policy"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    },
+    {
+      "id": "exm_008",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "grammar_slug": null,
+      "text_target": "The journalist concedes that the source is unreliable, and neither do I trust it, so we will not include it in the final article.",
+      "translation_form": "El periodista concede que la fuente no es confiable, y yo tampoco confío en ella, así que no la incluiremos en el artículo final.",
+      "highlight_words": [
+        "concedes",
+        "source",
+        "article"
+      ],
+      "audio_url": null,
+      "reading_target": null
+    }
+  ],
+  "grammar_explanations": [
+    {
+      "slug": "reporting verbs: suggest + that + subjunctive, deny + -ing",
+      "title_form": "Verbos de reporte: suggest + that + subjuntivo, deny + -ing",
+      "title_target": "Reporting Verbs: suggest + that + subjunctive, deny + -ing",
+      "description_md_form": "En escritura académica, los **verbos de reporte** permiten citar y evaluar ideas ajenas. Aquí practicamos dos patrones para sintetizar fuentes: **suggest + that + subjuntivo** y **deny + -ing**.\n\n### suggest + that + subjuntivo\nCuando **suggest** significa *proponer* o *recomendar*, va seguido de **that** + forma base, sin *-s* en tercera persona:\n\n- *The committee suggests that the report **be** revised.*\n- *I suggest that we **wait** for the final data.*\n\nSi **suggest** significa *indicar* o *implicar*, usa indicativo: *The data suggests that the economy is recovering.*\n\n### deny + -ing\n**Deny** significa *negar*. Para negar haber hecho algo, usa **deny + gerundio (-ing)**; también admite **deny + that + cláusula**:\n\n- *The author denies **having manipulated** the results.*\n- *He denies **that** this will happen soon.*\n\n### Síntesis\nUsa ambos patrones para contrastar posturas: un autor **sugiere** una acción y otro **niega** haber cometido un error. Así comparas evidencias con precisión.",
+      "description_md_target": "In academic writing, **reporting verbs** let you cite and evaluate other authors' ideas. Practise two patterns for synthesising sources: **suggest + that + subjunctive** and **deny + -ing**.\n\n### suggest + that + subjunctive\nWhen **suggest** means *to propose* or *recommend*, use **that** + the base verb, without *-s* in the third person:\n\n- *The committee suggests that the report **be** revised.*\n- *I suggest that we **wait** for the final data.*\n\nWhen **suggest** means *to indicate* or *imply*, use the indicative: *The data suggests that the economy is recovering.*\n\n### deny + -ing\n**Deny** means to say something is untrue. To deny having done something, use **deny + gerund (-ing)**; it can also take **deny + that + clause**:\n\n- *The author denies **having manipulated** the results.*\n- *He denies **that** this will happen soon.*\n\n### Synthesis\nUse both patterns to contrast positions: one author **suggests** an action and another **denies** having made an error. This lets you compare evidence precisely.",
+      "grammar_structure": "suggest + that + subject + base verb | deny + gerund (-ing) | deny + that + clause",
+      "conjugation_table": {
+        "name": "subjunctive_forms",
+        "headers": [
+          "Verbo",
+          "Forma base (subjuntivo)",
+          "Ejemplo con suggest"
+        ],
+        "rows": [
+          [
+            "be",
+            "be",
+            "The committee suggests that the report be revised."
+          ],
+          [
+            "wait",
+            "wait",
+            "I suggest that we wait for the final data."
+          ],
+          [
+            "include",
+            "include",
+            "The criteria suggest that we include both samples."
+          ],
+          [
+            "revise",
+            "revise",
+            "She suggests that the author revise the study."
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "reporting verbs: suggest + that + subjunctive, deny + -ing",
+          "text_target": "The committee suggests that the report be revised before publication, and I suggest that we wait for the final data as well.",
+          "translation_form": "El comité sugiere que el informe sea revisado antes de la publicación, y yo sugiero que esperemos los datos finales también.",
+          "highlight_words": [
+            "suggests",
+            "be",
+            "suggest",
+            "wait"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "reporting verbs: suggest + that + subjunctive, deny + -ing",
+          "text_target": "The author denies having manipulated the results, but the extensive research from other sources contradicts this assertion.",
+          "translation_form": "El autor niega haber manipulado los resultados, pero la extensa investigación de otras fuentes contradice esta afirmación.",
+          "highlight_words": [
+            "denies",
+            "having",
+            "manipulated"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "warning",
+          "text_md": "**Cuidado con el subjuntivo:** en inglés, el subjuntivo usa la forma base del verbo, sin *-s* en tercera persona. No digas *The committee suggests that the report **is** revised*; lo correcto es *...that the report **be** revised*."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Distingue los dos usos de suggest:** si significa *proponer*, usa subjuntivo (*I suggest that we wait*). Si significa *indicar/implicar*, usa indicativo (*The data suggests that the economy is recovering*)."
+        },
+        {
+          "type": "common_error",
+          "text_md": "**No uses 'to' después de deny:** en español decimos *negar **hacer** algo*, pero en inglés es *deny **doing** something*, nunca *deny to do*."
+        }
+      ],
+      "common_errors_es": [
+        "Usar indicativo en lugar de subjuntivo tras suggest: *The report suggests that the data **is** reliable* → *...that the data **be** reliable* (cuando significa proponer).",
+        "Usar infinitivo en lugar de gerundio tras deny: *He denies **to manipulate** the results* → *He denies **manipulating** the results*.",
+        "Olvidar que el subjuntivo no lleva -s en tercera persona: *She suggests that he **waits*** → *She suggests that he **wait***.",
+        "Confundir suggest (proponer, con subjuntivo) con suggest (indicar, con indicativo): *The data suggests that the study **be** flawed* → *...that the study **is** flawed*."
+      ]
+    },
+    {
+      "slug": "ellipsis: so do I / neither do I / if necessary",
+      "title_form": "Elipsis: so do I / neither do I / if necessary",
+      "title_target": "Ellipsis: so do I / neither do I / if necessary",
+      "description_md_form": "La **elipsis** evita repetir información y hace el discurso más fluido. Usa una estructura breve que retoma lo dicho.\n\n**So do I** expresa acuerdo con una afirmación positiva: `so + auxiliar + sujeto`. El auxiliar debe coincidir con el tiempo original.\n\n- *She contends that the economy will recover, and **so do I**.*\n\n**Neither do I** expresa acuerdo con una afirmación negativa: `neither + auxiliar + sujeto`.\n\n- *He denies that this will happen soon; **neither do I** believe it will be rapid.*\n\n**If necessary** es la forma abreviada de *if it is necessary* y evita repetir una cláusula condicional.\n\n- *We can revise the criteria **if necessary**.*\n\nSi la afirmación contiene otro auxiliar, repítelo: *She can revise it, and so can I*; *They have finished, and neither have we*. Con modales o tiempos compuestos, no sustituyas el auxiliar por `do`.\n\n**Regla clave:** si el verbo original está en presente simple, usa `do`; con pasado, usa `did`.",
+      "description_md_target": "**Ellipsis** avoids repetition and makes discourse more fluent. Use a short structure that picks up what has already been said.\n\n**So do I** agrees with a positive statement: `so + auxiliary + subject`. The auxiliary must match the original tense.\n\n- *She contends that the economy will recover, and **so do I**.*\n\n**Neither do I** agrees with a negative statement: `neither + auxiliary + subject`.\n\n- *He denies that this will happen soon; **neither do I** believe it will be rapid.*\n\n**If necessary** is the shortened form of *if it is necessary* and avoids repeating a conditional clause.\n\n- *We can revise the criteria **if necessary**.*\n\n**Key rule:** use `do` when the original verb is in the present simple and `did` for the past.",
+      "grammar_structure": "so + auxiliary + subject | neither + auxiliary + subject | if necessary",
+      "conjugation_table": {
+        "name": "auxiliary_agreement",
+        "headers": [
+          "Tiempo original",
+          "Auxiliar en so/neither",
+          "Ejemplo"
+        ],
+        "rows": [
+          [
+            "Present simple (contends)",
+            "do",
+            "so do I / neither do I"
+          ],
+          [
+            "Past simple (contended)",
+            "did",
+            "so did I / neither did I"
+          ],
+          [
+            "Present perfect (has contended)",
+            "has",
+            "so has she / neither has he"
+          ],
+          [
+            "Modal (will contend)",
+            "will",
+            "so will I / neither will I"
+          ]
+        ]
+      },
+      "examples": [
+        {
+          "id": "exm_gex_001",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "ellipsis: so do I / neither do I / if necessary",
+          "text_target": "She contends that the economy will recover, and so do I; however, we apply different criteria to the second source.",
+          "translation_form": "Ella sostiene que la economía se recuperará, y yo también; sin embargo, aplicamos criterios diferentes a la segunda fuente.",
+          "highlight_words": [
+            "so",
+            "do",
+            "i"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        },
+        {
+          "id": "exm_gex_002",
+          "lexeme_id": null,
+          "chunk_id": null,
+          "grammar_slug": "ellipsis: so do I / neither do I / if necessary",
+          "text_target": "He denies that this will happen soon; neither do I believe it will be rapid, so we can revise the criteria if necessary.",
+          "translation_form": "Él niega que esto suceda pronto; yo tampoco creo que sea rápido, así que podemos revisar los criterios si es necesario.",
+          "highlight_words": [
+            "neither",
+            "do",
+            "i",
+            "if",
+            "necessary"
+          ],
+          "audio_url": null,
+          "reading_target": null
+        }
+      ],
+      "callouts": [
+        {
+          "type": "common_error",
+          "text_md": "**Error común:** En español decimos *yo también* para ambos casos, pero en inglés `so do I` es para oraciones **positivas** y `neither do I` para **negativas**. No digas *I also don't believe* cuando puedes usar `neither do I`."
+        },
+        {
+          "type": "tip",
+          "text_md": "**Tip:** El auxiliar en `so`/`neither` debe **coincidir con el tiempo** de la oración original. Si la oración usa *contends* (presente), usa `do`; si usara *contended* (pasado), usarías `did`."
+        }
+      ],
+      "common_errors_es": [
+        "Usar 'so do I' con oraciones negativas: *He doesn't agree, so do I* → incorrecto. Debe ser *neither do I*.",
+        "Olvidar la inversión sujeto-auxiliar: *so I do* en lugar de *so do I*.",
+        "Usar el auxiliar incorrecto: *so am I* cuando la oración original usa un verbo léxico en presente simple (*contends* → *so do I*, no *so am I*).",
+        "Traducir literalmente 'si es necesario' como *if it is necessary* en lugar de la forma abreviada *if necessary*."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ex_001",
+      "kind": "flashcard_recognition",
+      "prompt_md": "¿Qué significa 'criteria' en español?",
+      "options": [
+        "criterios",
+        "datos",
+        "fuentes",
+        "resultados"
+      ],
+      "correct_answer": "criterios",
+      "explanation_md": "'Criteria' es el plural de 'criterion' y significa 'criterios'.",
+      "related_lexeme_ids": [
+        "criteria"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_002",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál de estas oraciones usa correctamente 'suggest + that + subjuntivo'?",
+      "options": [
+        "The researcher suggests that the data is clear.",
+        "The researcher suggests that the data be reviewed.",
+        "The researcher suggests that the data was reviewed.",
+        "The researcher suggests that the data will be reviewed."
+      ],
+      "correct_answer": "The researcher suggests that the data be reviewed.",
+      "explanation_md": "Después de 'suggest + that' usamos el subjuntivo (la forma base del verbo), por lo que 'be reviewed' es correcto.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_003",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá la oración con la forma correcta del verbo: The author denies ______ (manipulate) the results.",
+      "options": null,
+      "correct_answer": "having manipulated",
+      "explanation_md": "Después de 'deny' usamos la forma '-ing' (gerundio). Para acciones pasadas, usamos 'having + participio'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_004",
+      "kind": "matching",
+      "prompt_md": "Emparejá cada verbo de reporte con su significado:",
+      "options": [
+        "assert",
+        "concede",
+        "contend",
+        "afirmar",
+        "admitir",
+        "sostener"
+      ],
+      "correct_answer": [
+        "assert=afirmar",
+        "concede=admitir",
+        "contend=sostener"
+      ],
+      "explanation_md": "Estos verbos de reporte se usan para citar o parafrasear lo que otros dicen.",
+      "related_lexeme_ids": [
+        "assert_verb",
+        "concede_verb",
+        "contend_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "easy",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_005",
+      "kind": "translation_form_to_target",
+      "prompt_md": "Traducí al inglés: 'Ella niega haber manipulado los datos.'",
+      "options": null,
+      "correct_answer": "She denies having manipulated the data.",
+      "explanation_md": "Usamos 'deny + having + participio' para negar acciones pasadas.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_006",
+      "kind": "translation_target_to_form",
+      "prompt_md": "Traducí al español: 'The committee suggests that the report be revised.'",
+      "options": null,
+      "correct_answer": "El comité sugiere que el informe sea revisado.",
+      "explanation_md": "En español, usamos el subjuntivo después de 'sugerir que'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_007",
+      "kind": "multiple_choice",
+      "prompt_md": "¿Cuál es la respuesta correcta usando elipsis? 'I found the first source convincing.'",
+      "options": [
+        "So did I.",
+        "Neither did I.",
+        "So I did.",
+        "Neither I did."
+      ],
+      "correct_answer": "So did I.",
+      "explanation_md": "La oración usa el pasado simple 'found', así que el auxiliar de la elipsis es 'did': 'so + did + sujeto'.",
+      "related_lexeme_ids": [
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_008",
+      "kind": "fill_in_blank",
+      "prompt_md": "Completá con la elipsis correcta: 'I don't believe the economy will recover.' → '______ do I.'",
+      "options": null,
+      "correct_answer": "Neither",
+      "explanation_md": "Para estar de acuerdo con una afirmación negativa, usamos 'neither + auxiliar + sujeto'.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_009",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Cuál es el criterio principal que la autora usa para evaluar las fuentes?",
+      "options": [
+        "The author's reputation",
+        "The quality of the data",
+        "The length of the study",
+        "The number of pages"
+      ],
+      "correct_answer": "The quality of the data",
+      "explanation_md": "El texto dice que el criterio esencial es la calidad de los datos, no la reputación del autor.",
+      "related_lexeme_ids": [
+        "criteria",
+        "research",
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "When evaluating sources for a research paper, the criteria must be clear from the start. Dr. Elena Marsh, a professor of political science, contends that the most essential criterion is not the author's reputation but the quality of the data. She asserts that a study with extensive data from multiple independent sources is more reliable than a study from a famous scholar who provides little evidence. She concedes that reputation can be a useful indicator, but she suggests that students look beyond the name and examine the methodology. In her recent publication, she synthesizes findings from over fifty studies and summarizes the main conclusions. She denies having selected only the studies that support her own view. Instead, she explains that she established her criteria before reading any of the research. This approach, she argues, reduces bias and produces a more balanced summary. Her work serves as a model for students who wish to write objective and comprehensive reviews of the literature.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_010",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué método usa el autor para evitar el sesgo en su resumen?",
+      "options": [
+        "He only reads studies from famous authors.",
+        "He established strict criteria before beginning his research.",
+        "He ignores studies from other countries.",
+        "He writes his summary without reading any sources."
+      ],
+      "correct_answer": "He established strict criteria before beginning his research.",
+      "explanation_md": "El texto dice que el profesor Carter estableció criterios estrictos antes de comenzar su investigación para evitar el sesgo.",
+      "related_lexeme_ids": [
+        "criteria",
+        "research",
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "In academic writing, synthesizing multiple sources requires careful planning. Professor James Carter, an economist, recently published a review of studies on globalization. He contends that many summaries fail because they rely on too few sources. To avoid this problem, he established a set of criteria before beginning his research. First, he decided to include only studies with extensive data from at least three different countries. Second, he chose to exclude any research that did not clearly explain its methodology. He asserts that this process helps him remain objective. He concedes that his criteria are strict, but he argues that they are necessary for a balanced summary. He also suggests that other researchers adopt a similar approach. By following these steps, he believes that writers can produce summaries that accurately represent the current state of knowledge. His work demonstrates the importance of careful source selection and transparent evaluation.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_011",
+      "kind": "reading_comprehension",
+      "prompt_md": "Leé el texto y respondé: ¿Qué sugiere la autora sobre el uso de fuentes en línea?",
+      "options": [
+        "That online sources are always reliable",
+        "That students should cross-reference with at least two other sources",
+        "That speed is more important than accuracy",
+        "That print sources are no longer useful"
+      ],
+      "correct_answer": "That students should cross-reference with at least two other sources",
+      "explanation_md": "La autora sugiere que los estudiantes verifiquen la información cruzando referencias con al menos otras dos fuentes independientes.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": "The internet has transformed how we access information, but it has also created new challenges for researchers. Dr. Sarah Chen, a media scholar, argues that online sources require even more careful evaluation than traditional print sources. She contends that the criteria for evaluating a website should include the author's credentials, the date of publication, and the presence of citations. She concedes that some online sources are excellent, but she warns that many contain unverified claims. She suggests that students verify information by cross-referencing with at least two other independent sources. She also denies that speed should be prioritized over accuracy. In her view, a slower but more thorough approach produces better research. She summarizes her advice in a simple rule: if the data seems too good to be true, it probably is. Her work encourages students to be critical consumers of digital information.",
+      "transcript": null,
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_012",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué sugiere el profesor sobre el informe?",
+      "options": [
+        "That the student abandon the project",
+        "That the student revise the methodology section",
+        "That the student use fewer sources",
+        "That the student change the topic"
+      ],
+      "correct_answer": "That the student revise the methodology section",
+      "explanation_md": "El profesor sugiere que el estudiante revise la sección de metodología.",
+      "related_lexeme_ids": [
+        "research",
+        "source",
+        "extensive_adj"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Professor: I have read your draft, and I have some concerns. The data is interesting, but the criteria for selecting your sources are not clear. I suggest that you revise the methodology section. Also, I suggest that you include more recent research. The current sources are extensive, but some are quite old. If necessary, I can recommend a few new studies. Overall, the argument is solid, but the presentation needs work.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_013",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Qué opina la investigadora sobre el estudio?",
+      "options": [
+        "That the study is perfect",
+        "That the study should be repeated with a different design",
+        "That the author is always right",
+        "That the data is conclusive"
+      ],
+      "correct_answer": "That the study should be repeated with a different design",
+      "explanation_md": "La investigadora sugiere que el estudio se repita con un diseño diferente.",
+      "related_lexeme_ids": [
+        "criteria",
+        "contend_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Researcher: I have reviewed the study, and I must say I am not convinced. The author contends that the new drug is effective, but the data does not support this claim. He denies having made any errors, yet the methodology is clearly flawed. I concede that the sample size is large, but the criteria for measuring success are vague. I suggest that the study be repeated with a different design. Until then, I cannot accept the conclusions.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_014",
+      "kind": "listening_comprehension",
+      "prompt_md": "Escuchá el audio y respondé: ¿Está de acuerdo el segundo investigador con el primero?",
+      "options": [
+        "Yes, he agrees with the first researcher",
+        "No, he completely disagrees",
+        "He is not sure",
+        "He thinks the economy will never recover"
+      ],
+      "correct_answer": "Yes, he agrees with the first researcher",
+      "explanation_md": "El segundo investigador dice 'So do I', lo que indica que está de acuerdo con el primero.",
+      "related_lexeme_ids": [],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": "Researcher 1: I believe that the economy will recover quickly. Researcher 2: So do I, but only if the government acts now. Researcher 1: I also think that the new policy is essential. Researcher 2: Neither do I believe that it will be enough on its own. We need a comprehensive approach. Researcher 1: I agree. If necessary, we should consider additional measures.",
+      "sample_answers": [],
+      "reading_target": null
+    },
+    {
+      "id": "ex_015",
+      "kind": "free_production",
+      "prompt_md": "Escribí 2-3 oraciones resumiendo un artículo que hayas leído recientemente. Usá al menos un verbo de reporte (assert, concede, contend) y la estructura 'suggest + that + subjuntivo'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de los verbos de reporte y la estructura 'suggest + that + subjuntivo'.",
+      "related_lexeme_ids": [
+        "assert_verb",
+        "concede_verb",
+        "contend_verb"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "hard",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "The author contends that remote work increases productivity. He concedes that it is not suitable for all jobs. He suggests that companies adopt a hybrid model."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_016",
+      "kind": "free_production",
+      "prompt_md": "En un debate, tu compañero dice: 'I don't think the new policy will work.' Respondé usando 'neither do I' o 'so do I' y agregá una oración con 'if necessary'.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa el uso correcto de la elipsis 'neither do I' y la expresión 'if necessary'.",
+      "related_lexeme_ids": [
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Neither do I, but if necessary, we should try it for a year."
+      ],
+      "reading_target": null
+    },
+    {
+      "id": "ex_017",
+      "kind": "free_production",
+      "prompt_md": "Escribí un resumen breve (3-4 oraciones) de dos fuentes que tengan opiniones opuestas sobre un tema. Usá 'assert' para una y 'concede' para la otra, y mencioná los criterios que usaste para evaluarlas.",
+      "options": null,
+      "correct_answer": "",
+      "explanation_md": "Se evalúa la capacidad de sintetizar fuentes con opiniones opuestas usando verbos de reporte y criterios de evaluación.",
+      "related_lexeme_ids": [
+        "criteria",
+        "assert_verb",
+        "concede_verb",
+        "source"
+      ],
+      "related_chunk_ids": [],
+      "difficulty": "medium",
+      "passage_md": null,
+      "transcript": null,
+      "sample_answers": [
+        "Source A asserts that artificial intelligence will create more jobs than it destroys. Source B concedes that some jobs will disappear but contends that new ones will emerge. My criteria for evaluating them included the quality of their data and the date of publication."
+      ],
+      "reading_target": null
+    }
+  ],
+  "flashcards": [
+    {
+      "id": "fc_001",
+      "front": "criteria",
+      "back": "criterios",
+      "hint": "se usa para evaluar o decidir",
+      "lexeme_id": "criteria",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_002",
+      "front": "establish",
+      "back": "establecer",
+      "hint": "verbo para fijar criterios",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "establish",
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_003",
+      "front": "derive",
+      "back": "derivar, obtener",
+      "hint": "se usa con data",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "derive",
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_004",
+      "front": "extensive",
+      "back": "extenso, amplio",
+      "hint": "adjetivo para research",
+      "lexeme_id": "extensive_adj",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_005",
+      "front": "data",
+      "back": "datos",
+      "hint": "plural en inglés, se usa con verbos en plural",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "data",
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_006",
+      "front": "research",
+      "back": "investigación",
+      "hint": "sustantivo incontable",
+      "lexeme_id": "research",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_007",
+      "front": "essential",
+      "back": "esencial, imprescindible",
+      "hint": "adjetivo para necesidad",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "essential",
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_008",
+      "front": "synthesize",
+      "back": "sintetizar",
+      "hint": "verbo para la tarea central",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "synthesize",
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_009",
+      "front": "summarize",
+      "back": "resumir",
+      "hint": "verbo para la tarea central",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "target_term": "summarize",
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_010",
+      "front": "source",
+      "back": "fuente",
+      "hint": "se usa para citar información",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_011",
+      "front": "assert",
+      "back": "afirmar, sostener",
+      "hint": "verbo de reporte",
+      "lexeme_id": "assert_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_012",
+      "front": "concede",
+      "back": "conceder, admitir",
+      "hint": "verbo de reporte",
+      "lexeme_id": "concede_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    },
+    {
+      "id": "fc_013",
+      "front": "contend",
+      "back": "sostener, argumentar",
+      "hint": "verbo de reporte",
+      "lexeme_id": "contend_verb",
+      "chunk_id": null,
+      "target_term": null,
+      "tags": [
+        "lesson_015",
+        "C1",
+        "academic"
+      ],
+      "reading": null
+    }
+  ],
+  "vocabulary": [
+    {
+      "target_word": "criteria",
+      "reading": "",
+      "translation": "criterios",
+      "pos": "noun",
+      "example": "When evaluating these studies, the criteria must include both the sample size and the methodology, as the data can otherwise be misleading.",
+      "example_translation": "Al evaluar estos estudios, los criterios deben incluir tanto el tamaño de la muestra como la metodología, ya que los datos pueden ser engañosos de otro modo.",
+      "lexeme_id": "criteria",
+      "chunk_id": null
+    }
+  ],
+  "lesson_vocabulary": [
+    {
+      "term": "establish",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "establecer",
+      "lexeme_id": "establish_verb",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_002"
+      ]
+    },
+    {
+      "term": "criteria",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "criterios",
+      "lexeme_id": "criteria",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_001",
+        "exm_004",
+        "reporting verbs: suggest + that + subjunctive, deny + -ing",
+        "ellipsis: so do I / neither do I / if necessary",
+        "ex_001",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_017",
+        "fc_001",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_009",
+        "quiz_001:q_014"
+      ]
+    },
+    {
+      "term": "derive",
+      "role": "grammar_support",
+      "status": "introduced",
+      "translation": "derivar",
+      "lexeme_id": "derive_adj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_003"
+      ]
+    },
+    {
+      "term": "extensive",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "extenso",
+      "lexeme_id": "extensive_adj",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_003",
+        "reporting verbs: suggest + that + subjunctive, deny + -ing",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "fc_004",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_015"
+      ]
+    },
+    {
+      "term": "data",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "datos",
+      "lexeme_id": "data",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "exm_001",
+        "exm_002",
+        "exm_007",
+        "reporting verbs: suggest + that + subjunctive, deny + -ing",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_017",
+        "fc_005",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_006"
+      ]
+    },
+    {
+      "term": "research",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "investigación",
+      "lexeme_id": "research",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_003",
+        "reporting verbs: suggest + that + subjunctive, deny + -ing",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "fc_006",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_004",
+        "quiz_001:q_010",
+        "quiz_001:q_015"
+      ]
+    },
+    {
+      "term": "essential",
+      "role": "functional",
+      "status": "practiced",
+      "translation": "esencial",
+      "lexeme_id": "essential",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "ex_009",
+        "ex_014",
+        "fc_007"
+      ]
+    },
+    {
+      "term": "synthesize",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "fc_008"
+      ]
+    },
+    {
+      "term": "summarize",
+      "role": "functional",
+      "status": "introduced",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "fc_009"
+      ]
+    },
+    {
+      "term": "source",
+      "role": "topic",
+      "status": "practiced",
+      "translation": "fuente",
+      "lexeme_id": "source",
+      "chunk_id": null,
+      "source": "target",
+      "evidence_refs": [
+        "introduction",
+        "exm_004",
+        "exm_008",
+        "reporting verbs: suggest + that + subjunctive, deny + -ing",
+        "ellipsis: so do I / neither do I / if necessary",
+        "ex_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_017",
+        "fc_010",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_007",
+        "quiz_001:q_011"
+      ]
+    },
+    {
+      "term": "assert",
+      "role": "support",
+      "status": "review",
+      "translation": "afirmar",
+      "lexeme_id": "assert_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_003",
+        "ex_004",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_015",
+        "ex_017",
+        "fc_011"
+      ]
+    },
+    {
+      "term": "concede",
+      "role": "support",
+      "status": "review",
+      "translation": "conceder",
+      "lexeme_id": "concede_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_004",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_015",
+        "ex_017",
+        "fc_012"
+      ]
+    },
+    {
+      "term": "contend",
+      "role": "support",
+      "status": "review",
+      "translation": "sostener",
+      "lexeme_id": "contend_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "ex_004",
+        "ex_008",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_013",
+        "ex_014",
+        "ex_015",
+        "ex_016",
+        "ex_017",
+        "fc_013"
+      ]
+    },
+    {
+      "term": "suggest",
+      "role": "support",
+      "status": "emergent",
+      "translation": "sugerir",
+      "lexeme_id": "suggest_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_006",
+        "exm_007",
+        "ex_009",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_013",
+        "ex_015",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_005",
+        "quiz_001:q_009"
+      ]
+    },
+    {
+      "term": "include",
+      "role": "support",
+      "status": "emergent",
+      "translation": "incluir",
+      "lexeme_id": "include_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_008",
+        "ex_010",
+        "ex_011",
+        "ex_012",
+        "ex_017",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "final",
+      "role": "support",
+      "status": "emergent",
+      "translation": "final",
+      "lexeme_id": "final_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "exm_008"
+      ]
+    },
+    {
+      "term": "otherwise",
+      "role": "support",
+      "status": "emergent",
+      "translation": "de otra manera",
+      "lexeme_id": "otherwise_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "exm_007"
+      ]
+    },
+    {
+      "term": "study",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiar",
+      "lexeme_id": "study_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "ex_013",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "author",
+      "role": "support",
+      "status": "emergent",
+      "translation": "autor",
+      "lexeme_id": "author",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "ex_009",
+        "ex_011",
+        "ex_013",
+        "ex_015",
+        "quiz_001:q_013"
+      ]
+    },
+    {
+      "term": "evaluate",
+      "role": "support",
+      "status": "emergent",
+      "translation": "evaluar",
+      "lexeme_id": "evaluate_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_009",
+        "ex_011",
+        "ex_017",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "necessary",
+      "role": "support",
+      "status": "emergent",
+      "translation": "necesario",
+      "lexeme_id": "necessary_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_010",
+        "ex_012",
+        "ex_014",
+        "ex_016",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "believe",
+      "role": "support",
+      "status": "emergent",
+      "translation": "creer",
+      "lexeme_id": "believe_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_010",
+        "ex_014",
+        "quiz_001:q_003",
+        "quiz_001:q_004"
+      ]
+    },
+    {
+      "term": "evidence",
+      "role": "support",
+      "status": "emergent",
+      "translation": "evidencia",
+      "lexeme_id": "evidence",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "professor",
+      "role": "support",
+      "status": "emergent",
+      "translation": "profesor",
+      "lexeme_id": "professor",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "ex_010",
+        "ex_012",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "student",
+      "role": "support",
+      "status": "emergent",
+      "translation": "estudiante",
+      "lexeme_id": "student",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "ex_011",
+        "quiz_001:q_005"
+      ]
+    },
+    {
+      "term": "wait",
+      "role": "support",
+      "status": "emergent",
+      "translation": "esperar",
+      "lexeme_id": "wait_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_001",
+        "quiz_001:q_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "examine",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ver / mirar / probar",
+      "lexeme_id": "examine_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006",
+        "ex_009",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "result",
+      "role": "support",
+      "status": "emergent",
+      "translation": "resultar",
+      "lexeme_id": "result_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_003",
+        "quiz_001:q_001",
+        "quiz_001:q_002"
+      ]
+    },
+    {
+      "term": "policy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "político",
+      "lexeme_id": "policy_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_014",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "review",
+      "role": "support",
+      "status": "emergent",
+      "translation": "revisión",
+      "lexeme_id": "review",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "ex_009",
+        "ex_010"
+      ]
+    },
+    {
+      "term": "well",
+      "role": "support",
+      "status": "emergent",
+      "translation": "",
+      "lexeme_id": null,
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_002",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "quite",
+      "role": "support",
+      "status": "emergent",
+      "translation": "bastante",
+      "lexeme_id": "quite_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_012"
+      ]
+    },
+    {
+      "term": "size",
+      "role": "support",
+      "status": "emergent",
+      "translation": "tamaño",
+      "lexeme_id": "size",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "decade",
+      "role": "support",
+      "status": "emergent",
+      "translation": "década",
+      "lexeme_id": "decade",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007",
+        "quiz_001:q_003"
+      ]
+    },
+    {
+      "term": "economy",
+      "role": "support",
+      "status": "emergent",
+      "translation": "economía",
+      "lexeme_id": "economy",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "convince",
+      "role": "support",
+      "status": "emergent",
+      "translation": "convencer / persuadir",
+      "lexeme_id": "convince_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "sample",
+      "role": "support",
+      "status": "emergent",
+      "translation": "muestra",
+      "lexeme_id": "sample",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_001",
+        "ex_013"
+      ]
+    },
+    {
+      "term": "recover",
+      "role": "support",
+      "status": "emergent",
+      "translation": "recuperarse",
+      "lexeme_id": "recover_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005",
+        "ex_014"
+      ]
+    },
+    {
+      "term": "soon",
+      "role": "support",
+      "status": "emergent",
+      "translation": "pronto",
+      "lexeme_id": "soon_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "slightly",
+      "role": "support",
+      "status": "emergent",
+      "translation": "ligeramente",
+      "lexeme_id": "slightly_adv",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "journalist",
+      "role": "support",
+      "status": "emergent",
+      "translation": "periodista",
+      "lexeme_id": "journalist",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_008"
+      ]
+    },
+    {
+      "term": "rapid",
+      "role": "support",
+      "status": "emergent",
+      "translation": "rápido",
+      "lexeme_id": "rapid",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_005"
+      ]
+    },
+    {
+      "term": "warning",
+      "role": "support",
+      "status": "emergent",
+      "translation": "advertencia",
+      "lexeme_id": "warning",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_007"
+      ]
+    },
+    {
+      "term": "found",
+      "role": "support",
+      "status": "emergent",
+      "translation": "fundar",
+      "lexeme_id": "found_verb",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_004"
+      ]
+    },
+    {
+      "term": "theory",
+      "role": "support",
+      "status": "emergent",
+      "translation": "teoría",
+      "lexeme_id": "theory_adj",
+      "chunk_id": null,
+      "source": "content",
+      "evidence_refs": [
+        "exm_006"
+      ]
+    }
+  ],
+  "vocabulary_coverage": {
+    "target_count": 10,
+    "lexical_target_count": 8,
+    "covered_lexical_target_count": 8,
+    "coverage_ratio": 1.0,
+    "uncovered_targets": [],
+    "cart_support_count": 0,
+    "review_support_count": 3,
+    "emergent_count": 32,
+    "emergent_terms": [
+      "suggest",
+      "include",
+      "final",
+      "otherwise",
+      "study",
+      "author",
+      "evaluate",
+      "necessary",
+      "believe",
+      "evidence",
+      "professor",
+      "student",
+      "wait",
+      "examine",
+      "result",
+      "policy",
+      "review",
+      "well",
+      "quite",
+      "size",
+      "decade",
+      "economy",
+      "convince",
+      "sample",
+      "recover",
+      "soon",
+      "slightly",
+      "journalist",
+      "rapid",
+      "warning",
+      "found",
+      "theory"
+    ]
+  },
+  "quiz": [
+    {
+      "id": "quiz_001",
+      "title_form": "Quiz: Synthesizing Sources for a Balanced Summary",
+      "title_target": "Quiz: Synthesizing Sources for a Balanced Summary",
+      "questions": [
+        {
+          "id": "q_001",
+          "kind": "reading_comprehension",
+          "prompt_form": "Lee el texto y responde: ¿Cuál es la idea principal del pasaje?",
+          "prompt_target": "Read the text and answer: What is the main idea of the passage?",
+          "options": [
+            "A balanced summary should synthesize multiple sources and weigh their evidence carefully.",
+            "Researchers should always trust the first study they read.",
+            "Medical treatments are never safe enough to use.",
+            "Writers should avoid mentioning disagreements between sources."
+          ],
+          "correct_answer": "A balanced summary should synthesize multiple sources and weigh their evidence carefully.",
+          "explanation_form": "El pasaje explica que un resumen equilibrado no solo enumera posiciones, sino que las sintetiza, identificando acuerdos y desacuerdos entre fuentes.",
+          "explanation_target": "The passage explains that a balanced summary does not simply list positions but synthesizes them, identifying agreements and disagreements between sources.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "criteria",
+            "suggest",
+            "deny",
+            "ellipsis"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "When researchers evaluate a new medical treatment, they rarely rely on a single study. Instead, they examine extensive data from multiple sources, each with its own criteria for success. One team may contend that a drug works because patients improved quickly, while another may assert that the same results are meaningless without long-term observation. A third group might concede that the treatment shows promise but argue that the side effects remain unacceptable.\n\nA balanced summary does not simply list these positions. It synthesizes them, identifying where the sources agree and where they diverge. The writer must weigh each source's evidence, noting whether the research was extensive enough to support its conclusions. If one study used narrow criteria, its findings may carry less weight than a broader investigation.\n\nCritics of this approach suggest that too much caution can paralyze progress. They deny that waiting for perfect data is always wise, especially when patients need help now. Yet supporters of rigorous synthesis respond that hasty decisions based on weak sources have caused real harm in the past. The goal, they argue, is not to delay action but to ensure that the action taken rests on the most reliable foundation available.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_002",
+          "kind": "reading_comprehension",
+          "prompt_form": "Según el texto, ¿por qué un estudio con criterios limitados podría tener menos peso?",
+          "prompt_target": "According to the text, why might a study with narrow criteria carry less weight?",
+          "options": [
+            "Because narrow criteria may not capture the full picture that broader research would reveal.",
+            "Because narrow criteria always lead to dangerous side effects.",
+            "Because researchers with narrow criteria are usually dishonest.",
+            "Because narrow criteria make the study too expensive to complete."
+          ],
+          "correct_answer": "Because narrow criteria may not capture the full picture that broader research would reveal.",
+          "explanation_form": "El texto sugiere que un estudio con criterios limitados puede no reflejar la realidad completa, a diferencia de una investigación más amplia.",
+          "explanation_target": "The text suggests that a study with narrow criteria may not reflect the full reality, unlike a broader investigation.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "criteria",
+            "research",
+            "source"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": "When researchers evaluate a new medical treatment, they rarely rely on a single study. Instead, they examine extensive data from multiple sources, each with its own criteria for success. One team may contend that a drug works because patients improved quickly, while another may assert that the same results are meaningless without long-term observation. A third group might concede that the treatment shows promise but argue that the side effects remain unacceptable.\n\nA balanced summary does not simply list these positions. It synthesizes them, identifying where the sources agree and where they diverge. The writer must weigh each source's evidence, noting whether the research was extensive enough to support its conclusions. If one study used narrow criteria, its findings may carry less weight than a broader investigation.\n\nCritics of this approach suggest that too much caution can paralyze progress. They deny that waiting for perfect data is always wise, especially when patients need help now. Yet supporters of rigorous synthesis respond that hasty decisions based on weak sources have caused real harm in the past. The goal, they argue, is not to delay action but to ensure that the action taken rests on the most reliable foundation available.",
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_003",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué posición defiende la segunda investigadora?",
+          "prompt_target": "Listen and answer: What position does the second researcher defend?",
+          "options": [
+            "She defends the idea that the criteria are too narrow and more factors should be included.",
+            "She argues that no action should be taken at all.",
+            "She claims that the first researcher's data is completely false.",
+            "She suggests that the report should be ignored entirely."
+          ],
+          "correct_answer": "She defends the idea that the criteria are too narrow and more factors should be included.",
+          "explanation_form": "La segunda investigadora concede que la evidencia es fuerte, pero sugiere que los criterios son demasiado limitados y deberían incluir factores económicos.",
+          "explanation_target": "The second researcher concedes that the evidence is strong, but she suggests that the criteria are too narrow and should include economic factors.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "assert_verb",
+            "concede_verb",
+            "contend_verb",
+            "suggest",
+            "criteria"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "In a university debate, two researchers discuss a new report on climate policy. The first researcher asserts that the data clearly show a need for immediate action. She contends that waiting another decade would be irresponsible. The second researcher concedes that the evidence is strong, but she suggests that the proposed criteria for measuring success are too narrow. She argues that a more extensive study should include economic factors as well. The first researcher denies that adding more variables would change the conclusion. She believes the current research is sufficient. The second researcher disagrees and insists that a balanced summary must consider every relevant source.",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_004",
+          "kind": "listening_comprehension",
+          "prompt_form": "Escucha y responde: ¿Qué implica la frase 'So do I' en la conversación?",
+          "prompt_target": "Listen and answer: What does the phrase 'So do I' imply in the conversation?",
+          "options": [
+            "It implies that the second colleague shares the same belief as the first.",
+            "It implies that the second colleague disagrees completely.",
+            "It implies that the second colleague has no opinion.",
+            "It implies that the second colleague wants to end the conversation."
+          ],
+          "correct_answer": "It implies that the second colleague shares the same belief as the first.",
+          "explanation_form": "'So do I' es una elipsis que indica que la segunda persona comparte la misma opinión o sentimiento que la primera.",
+          "explanation_target": "'So do I' is an ellipsis that indicates the second person shares the same opinion or feeling as the first.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ellipsis",
+            "extensive_adj",
+            "research"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": "Two colleagues are preparing a presentation about their research findings. The first colleague says, 'I believe our extensive data supports the main conclusion.' The second colleague replies, 'So do I, but I think we should also acknowledge the limitations.' The first colleague nods and says, 'Neither do I want to ignore the critics, but we must present a clear argument.' They both agree that a balanced summary requires careful synthesis of all sources. The second colleague adds, 'If necessary, we can revise our criteria tomorrow.' The first colleague smiles and says, 'I will prepare the new outline if necessary.'",
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_005",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá la oración con la forma correcta del verbo: 'The professor suggested that the student ____ more sources for the essay.'",
+          "prompt_target": "Complete the sentence with the correct verb form: 'The professor suggested that the student ____ more sources for the essay.'",
+          "options": null,
+          "correct_answer": "consult",
+          "explanation_form": "Después de 'suggest that', se usa el subjuntivo (la forma base del verbo) sin 's' en tercera persona.",
+          "explanation_target": "After 'suggest that', the subjunctive (base form of the verb) is used without 's' in the third person.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "suggest"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_006",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la forma correcta: 'She denied ____ any knowledge of the missing data.'",
+          "prompt_target": "Complete with the correct form: 'She denied ____ any knowledge of the missing data.'",
+          "options": null,
+          "correct_answer": "having",
+          "explanation_form": "Después de 'deny', se usa el gerundio (-ing).",
+          "explanation_target": "After 'deny', the gerund (-ing) is used.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "deny"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_007",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la elipsis correcta: 'I trust this source completely.' '____ do I.'",
+          "prompt_target": "Complete with the correct ellipsis: 'I trust this source completely.' '____ do I.'",
+          "options": null,
+          "correct_answer": "So",
+          "explanation_form": "'So do I' se usa para expresar acuerdo con una afirmación positiva.",
+          "explanation_target": "'So do I' is used to express agreement with a positive statement.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ellipsis"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_008",
+          "kind": "fill_in_blank",
+          "prompt_form": "Completá con la elipsis correcta: 'I don't agree with that conclusion.' '____ do I.'",
+          "prompt_target": "Complete with the correct ellipsis: 'I don't agree with that conclusion.' '____ do I.'",
+          "options": null,
+          "correct_answer": "Neither",
+          "explanation_form": "'Neither do I' se usa para expresar acuerdo con una afirmación negativa.",
+          "explanation_target": "'Neither do I' is used to express agreement with a negative statement.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ellipsis"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_009",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "suggested",
+            "that",
+            "the",
+            "criteria",
+            "be",
+            "revised",
+            "she"
+          ],
+          "correct_answer": "She suggested that the criteria be revised.",
+          "explanation_form": "La estructura correcta usa 'suggested that' + subjuntivo ('be revised').",
+          "explanation_target": "The correct structure uses 'suggested that' + subjunctive ('be revised').",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "suggest",
+            "criteria"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_010",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "denied",
+            "the",
+            "researcher",
+            "manipulating",
+            "the",
+            "data"
+          ],
+          "correct_answer": "The researcher denied manipulating the data.",
+          "explanation_form": "La estructura correcta usa 'denied' + gerundio ('manipulating').",
+          "explanation_target": "The correct structure uses 'denied' + gerund ('manipulating').",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "deny",
+            "research"
+          ],
+          "points": 15,
+          "difficulty": "hard",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_011",
+          "kind": "ordering",
+          "prompt_form": "Ordená las palabras para formar una oración correcta:",
+          "prompt_target": "Order the words to form a correct sentence:",
+          "options": [
+            "neither",
+            "do",
+            "I",
+            "believe",
+            "that",
+            "source"
+          ],
+          "correct_answer": "Neither do I believe that source.",
+          "explanation_form": "La elipsis 'Neither do I' expresa acuerdo con una afirmación negativa.",
+          "explanation_target": "The ellipsis 'Neither do I' expresses agreement with a negative statement.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "ellipsis",
+            "source"
+          ],
+          "points": 15,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_012",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el significado más cercano de 'contend' en el contexto académico?",
+          "prompt_target": "What is the closest meaning of 'contend' in an academic context?",
+          "options": [
+            "To argue or maintain a position",
+            "To deny everything",
+            "To remain silent",
+            "To change one's mind"
+          ],
+          "correct_answer": "To argue or maintain a position",
+          "explanation_form": "'Contend' significa sostener o argumentar una posición, especialmente en un debate o texto académico.",
+          "explanation_target": "'Contend' means to argue or maintain a position, especially in a debate or academic text.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "contend_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_013",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué significa 'concede' en la frase: 'The author concedes that the study has limitations'?",
+          "prompt_target": "What does 'concede' mean in the sentence: 'The author concedes that the study has limitations'?",
+          "options": [
+            "To admit something is true, often reluctantly",
+            "To strongly deny something",
+            "To ignore a problem",
+            "To celebrate a success"
+          ],
+          "correct_answer": "To admit something is true, often reluctantly",
+          "explanation_form": "'Concede' significa admitir que algo es cierto, a menudo de mala gana o después de un argumento.",
+          "explanation_target": "'Concede' means to admit something is true, often reluctantly or after an argument.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "concede_verb"
+          ],
+          "points": 10,
+          "difficulty": "medium",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_014",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Cuál es el plural correcto de 'criterion'?",
+          "prompt_target": "What is the correct plural of 'criterion'?",
+          "options": [
+            "criteria",
+            "criterions",
+            "criterias",
+            "criterion's"
+          ],
+          "correct_answer": "criteria",
+          "explanation_form": "'Criterion' es una palabra de origen griego; su plural es 'criteria'.",
+          "explanation_target": "'Criterion' is a word of Greek origin; its plural is 'criteria'.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "criteria"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        },
+        {
+          "id": "q_015",
+          "kind": "multiple_choice",
+          "prompt_form": "¿Qué palabra completa mejor la oración? 'The report was based on ____ research conducted over five years.'",
+          "prompt_target": "Which word best completes the sentence? 'The report was based on ____ research conducted over five years.'",
+          "options": [
+            "extensive",
+            "narrow",
+            "brief",
+            "superficial"
+          ],
+          "correct_answer": "extensive",
+          "explanation_form": "'Extensive' significa amplio o exhaustivo, lo que encaja con una investigación de cinco años.",
+          "explanation_target": "'Extensive' means broad or thorough, which fits research conducted over five years.",
+          "references_exercise_id": null,
+          "references_lesson_topics": [
+            "extensive_adj"
+          ],
+          "points": 10,
+          "difficulty": "easy",
+          "passage_md": null,
+          "transcript": null,
+          "sample_answers": [],
+          "reading_target": null
+        }
+      ],
+      "passing_score": 80
+    }
+  ],
+  "notes_md_form": "## Sintetizar sin plagiar: el arte de combinar fuentes\n\nAl sintetizar dos fuentes para un resumen equilibrado, no se trata de resumir cada una por separado. Se trata de **combinar sus ideas** para mostrar cómo dialogan entre sí. Usa verbos de reporte para atribuir claramente cada punto de vista: *suggest + that + subjuntivo* (The author suggests that the data be reviewed) y *deny + -ing* (The researcher denies overlooking the evidence). Esto le dice a tu audiencia quién dice qué, sin que tengas que repetir frases enteras.\n\n## La elipsis: tu aliada para la concisión\n\nEn inglés académico, la brevedad es una virtud. La elipsis te permite evitar repeticiones innecesarias: *so do I* y *neither do I* para mostrar acuerdo o desacuerdo con una afirmación previa, y *if necessary* para condicionar sin repetir toda la cláusula. Por ejemplo: *The first study supports the policy, and so does the second.* No digas *the second study supports the policy* otra vez. Para hispanohablantes, el error típico es traducir literalmente 'yo también' como *I also*, cuando en contexto de acuerdo con una idea compleja, *so do I* es más natural y preciso.",
+  "notes_md_target": "## Strategy\nAttribute ideas precisely with reporting verbs: use *suggest that + base verb* for recommendations and *deny + -ing* for rejected actions. Use *so do I* and *neither do I* to avoid repetition, matching the auxiliary to the original tense. When a condition is understood, *if necessary* keeps the summary concise.\n\n## Quick check\nBefore submitting a synthesis, name each source, compare its criteria, and separate what it asserts from what it concedes. A concise summary should preserve disagreement without repeating every sentence.",
+  "metadata": {
+    "generated_at": "2026-09-02T21:20:52Z",
+    "generated_by": "deepseek/deepseek-v4-flash",
+    "model": "deepseek-v4-flash",
+    "phase": "phase2_content",
+    "status": "complete",
+    "version": 1,
+    "error": null,
+    "retries": 0
+  }
+}
