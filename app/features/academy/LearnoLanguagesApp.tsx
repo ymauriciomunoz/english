@@ -23,7 +23,7 @@ export function LearnoLanguagesApp() {
   if (activeLesson) {
     const level = activeLesson.level;
     const courseEntries = courseRoadmaps[level];
-    if (!academy.activeCourseEntry) return <main className="a1-lesson-page"><section className="course-lesson-loading"><BrandLogo compact className={academy.courseLessonError ? "loading-brand-error" : "loading-brand"} /><h1>{academy.courseLessonError ? "No se pudo abrir la lección" : "Preparando tu lección…"}</h1><p>{academy.courseLessonError || `${level} · Lección ${activeLesson.number} · ${activeLesson.title}`}</p>{academy.courseLessonError && <button onClick={academy.exitCourseLesson}>Volver a mi ruta</button>}</section></main>;
+    if (!academy.activeCourseEntry) return <main className="a1-lesson-page"><section className="course-lesson-loading">{academy.courseLessonError ? <span aria-hidden="true">!</span> : <BrandLogo compact className="loading-brand" />}<h1>{academy.courseLessonError ? "No se pudo abrir la lección" : "Preparando tu lección…"}</h1><p>{academy.courseLessonError || `${level} · Lección ${activeLesson.number} · ${activeLesson.title}`}</p>{academy.courseLessonError && <button onClick={academy.exitCourseLesson}>Volver a mi ruta</button>}</section></main>;
     return <A1LessonPage
       key={activeLesson.id}
       level={level}
