@@ -24,8 +24,8 @@ export function PracticeView({ voiceAccent, speechMessage, onAccentChange, onSpe
   const [phraseMixSeed, setPhraseMixSeed] = useState(dailySeed + 41);
   const [cardIndex, setCardIndex] = useState(0);
   const [cardFlipped, setCardFlipped] = useState(false);
-  const [masteredCards, setMasteredCards] = usePersistentState<string[]>("brightup-mastered-cards", []);
-  const [practiceXp, setPracticeXp] = usePersistentState<number>("brightup-practice-xp", 0);
+  const [masteredCards, setMasteredCards] = usePersistentState<string[]>("learno-mastered-cards", []);
+  const [practiceXp, setPracticeXp] = usePersistentState<number>("learno-practice-xp", 0);
   const [listeningIndex, setListeningIndex] = useState(0);
   const [listeningAnswer, setListeningAnswer] = useState("");
   const [listeningResult, setListeningResult] = useState<Exclude<Feedback, "idle"> | null>(null);

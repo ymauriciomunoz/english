@@ -2,6 +2,7 @@
 
 import type { AppView } from "../types";
 import { academyVisibility } from "../academy-visibility";
+import { BrandLogo } from "./BrandLogo";
 
 type AppSidebarProps = {
   activeView: AppView;
@@ -16,8 +17,8 @@ type AppSidebarProps = {
 
 export function AppSidebar({ activeView, menuOpen, studentName, studentInitials, onHome, onRoute, onPractice, onEditName }: AppSidebarProps) {
   return <aside className={`sidebar ${menuOpen ? "open" : ""}`}>
-    <a className="brand" href="#inicio" onClick={(event) => { event.preventDefault(); onHome(); }} aria-label="BrightUp inicio">
-      <span className="brand-mark">B</span><span>Bright<span>Up</span></span>
+    <a className="brand" href="#inicio" onClick={(event) => { event.preventDefault(); onHome(); }} aria-label="Ir al inicio de Learno Languages">
+      <BrandLogo />
     </a>
     <nav className="main-nav" aria-label="Navegación principal">
       <button className={activeView === "home" ? "active" : ""} onClick={onHome}><span>⌂</span> Inicio</button>

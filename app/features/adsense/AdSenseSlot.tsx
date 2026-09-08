@@ -9,7 +9,7 @@ declare global {
   }
 }
 
-const ADSENSE_SCRIPT_ID = "brightup-adsense-script";
+const ADSENSE_SCRIPT_ID = "learno-adsense-script";
 
 export function AdSenseLoader() {
   const anyPlacementReady = (Object.keys(adsenseSettings.slots) as AdSensePlacement[])

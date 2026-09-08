@@ -17,8 +17,8 @@ function parseName(value: unknown) {
 }
 
 export function useAcademyState() {
-  const [completed, setCompleted] = usePersistentState<string[]>("brightup-progress-v2", [], parseCompleted);
-  const [studentName, setStudentName] = usePersistentState<string>("brightup-student-name", "Explorador", parseName);
+  const [completed, setCompleted] = usePersistentState<string[]>("learno-progress-v2", [], parseCompleted);
+  const [studentName, setStudentName] = usePersistentState<string>("learno-student-name", "Explorador", parseName);
   const [selectedLevel, setSelectedLevel] = useState<Level>("A1");
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null);
   const [activeCourseEntry, setActiveCourseEntry] = useState<CourseEntry | null>(null);

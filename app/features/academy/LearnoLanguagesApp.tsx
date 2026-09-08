@@ -12,8 +12,9 @@ import { HomeView } from "./components/HomeView";
 import { LearningRoute } from "./components/LearningRoute";
 import { PracticeView } from "../practice/PracticeView";
 import { AdSenseLoader } from "../adsense/AdSenseSlot";
+import { BrandLogo } from "./components/BrandLogo";
 
-export function BrightUpApp() {
+export function LearnoLanguagesApp() {
   const academy = useAcademyState();
   const speech = useEnglishSpeech();
   const studentInitials = getStudentInitials(academy.studentName);
@@ -22,7 +23,7 @@ export function BrightUpApp() {
   if (activeLesson) {
     const level = activeLesson.level;
     const courseEntries = courseRoadmaps[level];
-    if (!academy.activeCourseEntry) return <main className="a1-lesson-page"><section className="course-lesson-loading"><span>{academy.courseLessonError ? "!" : "B"}</span><h1>{academy.courseLessonError ? "No se pudo abrir la lección" : "Preparando tu lección…"}</h1><p>{academy.courseLessonError || `${level} · Lección ${activeLesson.number} · ${activeLesson.title}`}</p>{academy.courseLessonError && <button onClick={academy.exitCourseLesson}>Volver a mi ruta</button>}</section></main>;
+    if (!academy.activeCourseEntry) return <main className="a1-lesson-page"><section className="course-lesson-loading"><BrandLogo compact className={academy.courseLessonError ? "loading-brand-error" : "loading-brand"} /><h1>{academy.courseLessonError ? "No se pudo abrir la lección" : "Preparando tu lección…"}</h1><p>{academy.courseLessonError || `${level} · Lección ${activeLesson.number} · ${activeLesson.title}`}</p>{academy.courseLessonError && <button onClick={academy.exitCourseLesson}>Volver a mi ruta</button>}</section></main>;
     return <A1LessonPage
       key={activeLesson.id}
       level={level}
@@ -51,7 +52,7 @@ export function BrightUpApp() {
     />
 
     <section className="content" id="inicio">
-      <AppTopbar studentName={academy.studentName} studentInitials={studentInitials} onMenu={() => academy.setMenuOpen((open) => !open)} />
+      <AppTopbar studentName={academy.studentName} studentInitials={studentInitials} onMenu={() => academy.setMenuOpen((open) => !open)} onHome={academy.showHome} />
       {academy.activeView === "home" && <HomeView
         studentName={academy.studentName}
         studentInitials={studentInitials}

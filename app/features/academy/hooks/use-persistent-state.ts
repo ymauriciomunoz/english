@@ -11,11 +11,18 @@ import {
 
 type Parser<T> = (storedValue: unknown) => T;
 
-const localStorageEvent = "brightup-local-storage";
+const localStorageEvent = "learno-local-storage";
+const currentStoragePrefix = "learno-";
+const legacyStoragePrefix = "brightup-";
 
 function readStoredValue(key: string) {
   try {
-    return window.localStorage.getItem(key);
+    const currentValue = window.localStorage.getItem(key);
+    if (currentValue !== null || !key.startsWith(currentStoragePrefix)) return currentValue;
+
+    // Conserva el progreso creado antes del cambio de nombre de la academia.
+    const legacyKey = `${legacyStoragePrefix}${key.slice(currentStoragePrefix.length)}`;
+    return window.localStorage.getItem(legacyKey);
   } catch {
     return null;
   }

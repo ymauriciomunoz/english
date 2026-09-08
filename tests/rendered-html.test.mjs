@@ -21,13 +21,13 @@ async function render() {
   }, { waitUntil() {}, passThroughOnException() {} });
 }
 
-test("server-renders the BrightUp academy with the expanded course total", async () => {
+test("server-renders the Learno Languages academy with the expanded course total", async () => {
   const response = await render();
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
   assert.match(html, /<html lang="es">/i);
-  assert.match(html, /<title>BrightUp/);
+  assert.match(html, /<title>Learno Languages/);
   assert.match(html, /Tu academia de ingl/);
   assert.match(html, /217/);
   assert.match(html, /Práctica guiada|Pr&#xE1;ctica guiada/);
@@ -40,7 +40,7 @@ test("keeps child-safe AdSense placements ready but disabled", async () => {
   const [config, component, app, home, route, practice] = await Promise.all([
     readFile(new URL("../app/features/adsense/adsense-config.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/features/adsense/AdSenseSlot.tsx", import.meta.url), "utf8"),
-    readFile(new URL("../app/features/academy/BrightUpApp.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/academy/LearnoLanguagesApp.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/features/academy/components/HomeView.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/features/academy/components/LearningRoute.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/features/practice/PracticeView.tsx", import.meta.url), "utf8"),
@@ -155,7 +155,7 @@ test("lazy-loads the first and last lesson of every new level", async () => {
 
 test("uses one full-page lesson component for A1 through C1", async () => {
   const [app, controller, courseData, catalog, lessonPage, sections, questionCard, activityInput] = await Promise.all([
-    readFile(new URL("../app/features/academy/BrightUpApp.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/academy/LearnoLanguagesApp.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/features/academy/hooks/use-academy-state.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/features/academy/course-data.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/course-content.ts", import.meta.url), "utf8"),
@@ -208,10 +208,10 @@ test("keeps the feature-based shell and removes the old A1 data dependency", asy
   ]);
 
   assert.ok(page.split("\n").length <= 8, "page.tsx debe seguir siendo solo el punto de entrada");
-  assert.match(page, /BrightUpApp/);
+  assert.match(page, /LearnoLanguagesApp/);
   assert.match(compatibility, /course-content/);
   assert.doesNotMatch(compatibility, /data\/en/);
-  assert.match(layout, /BrightUp/);
+  assert.match(layout, /Learno Languages/);
   assert.doesNotMatch(packageJson, /react-loading-skeleton/);
   await assert.rejects(access(new URL("../app/_sites-preview/SkeletonPreview.tsx", import.meta.url)));
 });

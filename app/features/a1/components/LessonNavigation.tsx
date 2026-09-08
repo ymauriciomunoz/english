@@ -3,11 +3,12 @@
 import type { CourseEntry } from "../../../course-content";
 import type { CourseContentLevel } from "../../academy/types";
 import { lessonSections, type LessonSectionId } from "../types";
+import { BrandLogo } from "../../academy/components/BrandLogo";
 
 export function LessonTopbar({ level, entry, lessonNumber, totalLessons, progress, onExit }: { level: CourseContentLevel; entry: CourseEntry; lessonNumber: number; totalLessons: number; progress: number; onExit: () => void }) {
   return <header className="a1-lesson-topbar">
     <button onClick={onExit} aria-label="Volver a la ruta">←</button>
-    <div className="a1-lesson-brand"><span>B</span><div><strong>BrightUp</strong><small>{level} · Unidad {entry.unit_id}</small></div></div>
+    <div className="a1-lesson-brand"><BrandLogo /><div className="a1-lesson-brand-meta"><small>{level} · Unidad {entry.unit_id}</small></div></div>
     <div className="a1-global-progress"><span><strong>Lección {lessonNumber}</strong> de {totalLessons}</span><div><i style={{ width: `${progress}%` }} /></div><b>{progress}%</b></div>
     <button onClick={onExit} aria-label="Cerrar lección">×</button>
   </header>;
