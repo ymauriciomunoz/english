@@ -13,12 +13,15 @@ const coursePackages = [
 ];
 
 async function render() {
-  const workerUrl = new URL("../dist/server/index.js", import.meta.url);
-  workerUrl.searchParams.set("test", `${process.pid}-${Date.now()}`);
-  const { default: worker } = await import(workerUrl.href);
-  return worker.fetch(new Request("http://localhost/", { headers: { accept: "text/html" } }), {
-    ASSETS: { fetch: async () => new Response("Not found", { status: 404 }) },
-  }, { waitUntil() {}, passThroughOnException() {} });
+  const html = await readFile(
+    new URL("../.next/server/app/index.html", import.meta.url),
+    "utf8",
+  );
+
+  return new Response(html, {
+    status: 200,
+    headers: { "content-type": "text/html; charset=utf-8" },
+  });
 }
 
 test("server-renders the Learno Languages academy with the expanded course total", async () => {
@@ -166,7 +169,8 @@ test("uses one full-page lesson component for A1 through C1", async () => {
   ]);
 
   assert.match(catalog, /roadmap\.approved\.json/);
-  assert.match(catalog, /import\.meta\.glob/);
+  assert.match(catalog, /await import\(`/);
+  assert.doesNotMatch(catalog, /import\.meta\.glob/);
   assert.doesNotMatch(catalog, /data\/en/);
   assert.match(courseData, /courseRoadmaps\[level\]/);
   assert.match(controller, /activeCourseEntry/);

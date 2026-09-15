@@ -1,5 +1,3 @@
-/// <reference types="vite/client" />
-
 import a1RoadmapJson from "./data/lessons_A1-20260901T222255Z-1-001/lessons_A1/roadmap.approved.json";
 import a2RoadmapJson from "./data/lessons_A2-20260901T222257Z-1-001/lessons_A2/roadmap.approved.json";
 import b1RoadmapJson from "./data/lessons_B1-20260901T222300Z-1-001/lessons_B1/roadmap.approved.json";
@@ -185,14 +183,6 @@ export type CourseEntry = CourseCatalogEntry & {
   content: FullLesson;
 };
 
-const lessonModules = import.meta.glob<FullLesson>(
-  [
-    "./data/lessons_*/lessons_*/lesson_*.json",
-    "./data/lessons_C1/lesson_*.json",
-  ],
-  { import: "default" },
-);
-
 const roadmapFiles: Record<ContentLevel, CourseRoadmapFile> = {
   A1: a1RoadmapJson as unknown as CourseRoadmapFile,
   A2: a2RoadmapJson as unknown as CourseRoadmapFile,
@@ -201,18 +191,19 @@ const roadmapFiles: Record<ContentLevel, CourseRoadmapFile> = {
   C1: c1RoadmapJson as unknown as CourseRoadmapFile,
 };
 
-const lessonLoaders: Record<ContentLevel, Record<string, () => Promise<FullLesson>>> = {
-  A1: {},
-  A2: {},
-  B1: {},
-  B2: {},
-  C1: {},
-};
-
-for (const [filePath, loadLesson] of Object.entries(lessonModules)) {
-  const levelMatch = filePath.match(/\/lessons_(A1|A2|B1|B2|C1)\/lesson_\d+\.json$/);
-  const lessonMatch = filePath.match(/(lesson_\d+)\.json$/);
-  if (levelMatch && lessonMatch) lessonLoaders[levelMatch[1] as ContentLevel][lessonMatch[1]] = loadLesson;
+async function loadLessonFile(level: ContentLevel, lessonId: string): Promise<FullLesson> {
+  switch (level) {
+    case "A1":
+      return (await import(`./data/lessons_A1-20260901T222255Z-1-001/lessons_A1/${lessonId}.json`)).default as FullLesson;
+    case "A2":
+      return (await import(`./data/lessons_A2-20260901T222257Z-1-001/lessons_A2/${lessonId}.json`)).default as FullLesson;
+    case "B1":
+      return (await import(`./data/lessons_B1-20260901T222300Z-1-001/lessons_B1/${lessonId}.json`)).default as FullLesson;
+    case "B2":
+      return (await import(`./data/lessons_B2-20260901T222302Z-1-001/lessons_B2/${lessonId}.json`)).default as FullLesson;
+    case "C1":
+      return (await import(`./data/lessons_C1/${lessonId}.json`)).default as FullLesson;
+  }
 }
 
 function buildCourse(level: ContentLevel) {
@@ -240,9 +231,8 @@ export const courseRoadmaps: Record<ContentLevel, CourseCatalogEntry[]> = {
 
 export async function loadCourseEntry(level: ContentLevel, lessonId: string): Promise<CourseEntry> {
   const entry = courseRoadmaps[level].find((candidate) => candidate.id === lessonId);
-  const loadLesson = lessonLoaders[level][lessonId];
-  if (!entry || !loadLesson) throw new Error(`No se encontró el contenido de ${level} / ${lessonId}`);
-  return { ...entry, content: await loadLesson() };
+  if (!entry) throw new Error(`No se encontró el contenido de ${level} / ${lessonId}`);
+  return { ...entry, content: await loadLessonFile(level, lessonId) };
 }
 
 export const courseUnits: Record<ContentLevel, CourseUnit[]> = {
