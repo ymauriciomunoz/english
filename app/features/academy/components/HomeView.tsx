@@ -24,11 +24,11 @@ export function HomeView({ studentName, studentInitials, nameDraft, editingName,
   return <>
     <section className="academy-home" aria-labelledby="academy-title">
       <div className="academy-copy">
-        <span className="eyebrow">BIENVENIDO A LEARNO LANGUAGES</span>
-        <h2 id="academy-title">Tu academia de inglés, simple y a tu ritmo.</h2>
-        <p>Practica con lecciones cortas, supera retos y guarda cada paso de tu avance. Puedes cerrar y volver cuando quieras: tu ruta te estará esperando.</p>
-        <div className="academy-benefits"><span>✓ {totalLessons} lecciones</span><span>✓ Práctica guiada</span><span>✓ Progreso guardado</span></div>
-        <button className="academy-link" onClick={onRoute}>Explorar mi ruta <span>→</span></button>
+        <span className="eyebrow">APRENDE INGLÉS PASO A PASO</span>
+        <h2 id="academy-title">De tus primeras palabras a conversaciones avanzadas.</h2>
+        <p>Learno Languages es una academia de inglés en línea para aprender desde A1 hasta C1. Sigue una ruta ordenada de lecciones, estudia gramática y vocabulario, practica comprensión y pronunciación, y comprueba lo aprendido con ejercicios interactivos.</p>
+        <div className="academy-benefits"><span>✓ Niveles A1–C1</span><span>✓ {totalLessons} lecciones</span><span>✓ Práctica guiada</span><span>✓ Progreso guardado</span></div>
+        <button className="academy-link" onClick={onRoute}>Ver los cursos y empezar <span>→</span></button>
       </div>
       <div className="name-card">
         <div className="name-card-top"><div className="avatar name-avatar">{studentInitials}</div><div className="mini-progress"><strong>{completedCount}</strong><span>de {totalLessons}</span></div></div>
@@ -47,11 +47,11 @@ export function HomeView({ studentName, studentInitials, nameDraft, editingName,
 
     <section className="home-overview" aria-label="Cómo funciona Learno Languages">
       <article className="how-card">
-        <div className="home-section-title"><span className="eyebrow dark">EMPIEZA EN TRES PASOS</span><h2>Aprender aquí es muy fácil</h2></div>
+        <div className="home-section-title"><span className="eyebrow dark">TODO EN UN SOLO LUGAR</span><h2>¿Qué puedes hacer en Learno Languages?</h2></div>
         <div className="how-steps">
-          <div><span>1</span><i>🎯</i><strong>Elige tu lección</strong><p>Tu ruta te muestra siempre cuál sigue.</p></div>
-          <div><span>2</span><i>💬</i><strong>Practica jugando</strong><p>Aprende con ejemplos y retos cortos.</p></div>
-          <div><span>3</span><i>🌟</i><strong>Mira cómo avanzas</strong><p>Cada logro queda guardado automáticamente.</p></div>
+          <div><span>1</span><i>🧭</i><strong>Sigue una ruta completa</strong><p>Avanza por los niveles A1, A2, B1, B2 y C1 con un orden claro.</p></div>
+          <div><span>2</span><i>💬</i><strong>Aprende y practica</strong><p>Trabaja vocabulario, gramática, lectura, escucha y pronunciación.</p></div>
+          <div><span>3</span><i>🌟</i><strong>Comprueba tu avance</strong><p>Resuelve actividades y continúa desde donde lo dejaste.</p></div>
         </div>
       </article>
       <article className="home-progress-card">
