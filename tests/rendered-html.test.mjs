@@ -259,6 +259,9 @@ test("keeps the suggested lesson order visual without blocking free access", asy
   assert.doesNotMatch(route, /disabled=\{!sequentiallyUnlocked\}/);
   assert.doesNotMatch(controller, /if \(!isLessonUnlocked/);
   assert.match(styles, /\.lrail-item\.locked\{cursor:pointer/);
+  assert.match(styles, /html\[data-theme="dark"\] \.a1-lesson-page/);
+  assert.match(styles, /html\[data-theme="dark"\] \.a1-answer-grid button/);
+  assert.match(styles, /html\[data-theme="dark"\] \.brand-wordmark-image/);
 });
 
 test("keeps the feature-based shell and removes the old A1 data dependency", async () => {
