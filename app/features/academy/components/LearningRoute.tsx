@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { Fragment, type CSSProperties } from "react";
 import { AdSenseSlot } from "../../adsense/AdSenseSlot";
 import { academyVisibility } from "../academy-visibility";
@@ -44,7 +45,7 @@ export function LearningRoute({ completed, selectedLevel, onSelectLevel, onOpenL
     </section>
 
     <section className="ruta-section" id="ruta">
-      <div className="ruta-head"><div><span className="eyebrow dark">TU CAMINO</span><h2>Ruta de aprendizaje</h2></div><div className="ruta-progress-row"><span className="ruta-progress-label">{completed.length}/{allLessons.length}</span><div className="ruta-bar" role="progressbar" aria-valuenow={totalProgress} aria-valuemin={0} aria-valuemax={100}><i style={{ width: `${totalProgress}%` }} /></div><span className="ruta-progress-pct">{totalProgress}%</span></div></div>
+      <div className="ruta-head"><div><span className="eyebrow dark">CURSOS DE INGLÉS A1–C1</span><h1>Ruta de aprendizaje de inglés</h1></div><div className="ruta-progress-row"><span className="ruta-progress-label">{completed.length}/{allLessons.length}</span><div className="ruta-bar" role="progressbar" aria-valuenow={totalProgress} aria-valuemin={0} aria-valuemax={100}><i style={{ width: `${totalProgress}%` }} /></div><span className="ruta-progress-pct">{totalProgress}%</span></div></div>
 
       <div className="level-rail" role="tablist" aria-label="Niveles de inglés">
         {levels.map((level) => {
@@ -52,9 +53,9 @@ export function LearningRoute({ completed, selectedLevel, onSelectLevel, onOpenL
           const count = getLevelCompleted(level, completed);
           const total = getLevelLessons(level).length;
           const percentage = Math.round((count / total) * 100);
-          return <button key={level} className={`lrail-item ${selectedLevel === level ? "active" : ""} ${!sequentiallyUnlocked ? "locked" : ""}`} onClick={() => onSelectLevel(level)} style={{ "--lc": levelData[level].color, "--ls": levelVisuals[level].secondary } as CSSProperties} role="tab" aria-selected={selectedLevel === level} aria-label={`${level}, ${levelData[level].label}${!sequentiallyUnlocked ? ", disponible fuera del orden sugerido" : ""}`}>
+          return <Link key={level} href={`/cursos/${level.toLowerCase()}`} className={`lrail-item ${selectedLevel === level ? "active" : ""} ${!sequentiallyUnlocked ? "locked" : ""}`} onClick={(event) => { event.preventDefault(); onSelectLevel(level); }} style={{ "--lc": levelData[level].color, "--ls": levelVisuals[level].secondary } as CSSProperties} role="tab" aria-selected={selectedLevel === level} aria-label={`${level}, ${levelData[level].label}${!sequentiallyUnlocked ? ", disponible fuera del orden sugerido" : ""}`}>
             <span className="lrail-badge">{sequentiallyUnlocked ? levelVisuals[level].icon : "◆"}</span><div className="lrail-meta"><strong>{level}</strong><small>{levelData[level].label}</small></div><div className="lrail-count">{sequentiallyUnlocked ? `${count}/${total}` : "—"}</div><div className="lrail-bar"><i style={{ width: `${percentage}%` }} /></div>
-          </button>;
+          </Link>;
         })}
       </div>
 

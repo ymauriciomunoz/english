@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import type { FormEvent } from "react";
 import { AdSenseSlot } from "../../adsense/AdSenseSlot";
 
@@ -25,10 +26,10 @@ export function HomeView({ studentName, studentInitials, nameDraft, editingName,
     <section className="academy-home" aria-labelledby="academy-title">
       <div className="academy-copy">
         <span className="eyebrow">APRENDE INGLÉS PASO A PASO</span>
-        <h2 id="academy-title">De tus primeras palabras a conversaciones avanzadas.</h2>
+        <h1 id="academy-title">Aprende inglés online de A1 a C1, paso a paso.</h1>
         <p>Learno Languages es una academia de inglés en línea para aprender desde A1 hasta C1. Sigue una ruta ordenada de lecciones, estudia gramática y vocabulario, practica comprensión y pronunciación, y comprueba lo aprendido con ejercicios interactivos.</p>
         <div className="academy-benefits"><span>✓ Niveles A1–C1</span><span>✓ {totalLessons} lecciones</span><span>✓ Práctica guiada</span><span>✓ Progreso guardado</span></div>
-        <button className="academy-link" onClick={onRoute}>Ver los cursos y empezar <span>→</span></button>
+        <Link className="academy-link" href="/cursos" onClick={(event) => { event.preventDefault(); onRoute(); }}>Ver los cursos y empezar <span>→</span></Link>
       </div>
       <div className="name-card">
         <div className="name-card-top"><div className="avatar name-avatar">{studentInitials}</div><div className="mini-progress"><strong>{completedCount}</strong><span>de {totalLessons}</span></div></div>

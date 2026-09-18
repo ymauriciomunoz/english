@@ -78,7 +78,7 @@ export function PracticeView({ voiceAccent, speechMessage, onAccentChange, onSpe
     <div className="practice-hero">
       <div>
         <span className="eyebrow">LABORATORIO DE INGLÉS</span>
-        <h2>Escucha, juega y haz que el inglés se quede.</h2>
+        <h1>Practica inglés con audio, frases y tarjetas.</h1>
         <p>Practica sin presión con tarjetas, pronunciación y pequeños retos de oído. Cada sesión suma confianza.</p>
         <div className="practice-stats"><span><strong>{masteredCards.length}</strong> tarjetas dominadas</span><span><strong>{practiceXp}</strong> XP de práctica</span><span><strong>{practiceCardBank.length}</strong> palabras en el banco</span></div>
         <div className="voice-selector"><span>Elige pronunciación</span><button className={voiceAccent === "US" ? "active" : ""} onClick={() => onAccentChange("US")}>🇺🇸 Natural US</button><button className={voiceAccent === "UK" ? "active" : ""} onClick={() => onAccentChange("UK")}>🇬🇧 British</button></div>

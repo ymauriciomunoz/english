@@ -13,9 +13,11 @@ import { LearningRoute } from "./components/LearningRoute";
 import { PracticeView } from "../practice/PracticeView";
 import { AdSenseLoader } from "../adsense/AdSenseSlot";
 import { BrandLogo } from "./components/BrandLogo";
+import { SiteFooter } from "./components/SiteFooter";
+import type { AppView, Level } from "./types";
 
-export function LearnoLanguagesApp() {
-  const academy = useAcademyState();
+export function LearnoLanguagesApp({ initialView = "home", initialLevel = "A1" }: { initialView?: AppView; initialLevel?: Level }) {
+  const academy = useAcademyState(initialView, initialLevel);
   const speech = useEnglishSpeech();
   const studentInitials = getStudentInitials(academy.studentName);
   const activeLesson = academy.activeLesson;
@@ -79,10 +81,11 @@ export function LearnoLanguagesApp() {
       {academy.activeView === "route" && <LearningRoute
         completed={academy.completed}
         selectedLevel={academy.selectedLevel}
-        onSelectLevel={academy.setSelectedLevel}
+        onSelectLevel={academy.selectLevel}
         onOpenLesson={academy.openLesson}
         onPractice={academy.showPractice}
       />}
+      <SiteFooter />
     </section>
 
     {academy.menuOpen && <button className="menu-overlay" onClick={() => academy.setMenuOpen(false)} aria-label="Cerrar menú" />}
