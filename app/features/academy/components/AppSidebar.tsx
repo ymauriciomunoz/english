@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import type { AppView } from "../types";
 import { academyVisibility } from "../academy-visibility";
 import { BrandLogo } from "./BrandLogo";
@@ -17,13 +18,13 @@ type AppSidebarProps = {
 
 export function AppSidebar({ activeView, menuOpen, studentName, studentInitials, onHome, onRoute, onPractice, onEditName }: AppSidebarProps) {
   return <aside className={`sidebar ${menuOpen ? "open" : ""}`}>
-    <a className="brand" href="#inicio" onClick={(event) => { event.preventDefault(); onHome(); }} aria-label="Ir al inicio de Learno Languages">
+    <Link className="brand" href="/" onClick={(event) => { event.preventDefault(); onHome(); }} aria-label="Ir al inicio de Learno Languages">
       <BrandLogo />
-    </a>
+    </Link>
     <nav className="main-nav" aria-label="Navegación principal">
-      <button className={activeView === "home" ? "active" : ""} onClick={onHome}><span>⌂</span> Inicio</button>
-      <button className={activeView === "route" ? "active" : ""} onClick={() => onRoute("ruta")}><span>♢</span> Mi ruta</button>
-      <button className={activeView === "practice" ? "active" : ""} onClick={onPractice}><span>◎</span> Práctica</button>
+      <Link className={activeView === "home" ? "active" : ""} href="/" onClick={(event) => { event.preventDefault(); onHome(); }}><span>⌂</span> Inicio</Link>
+      <Link className={activeView === "route" ? "active" : ""} href="/cursos" onClick={(event) => { event.preventDefault(); onRoute("ruta"); }}><span>♢</span> Cursos</Link>
+      <Link className={activeView === "practice" ? "active" : ""} href="/practica" onClick={(event) => { event.preventDefault(); onPractice(); }}><span>◎</span> Práctica</Link>
       {academyVisibility.achievements && <button onClick={() => onRoute("logros")}><span>☆</span> Logros</button>}
     </nav>
     {academyVisibility.sidebarStatus && <>

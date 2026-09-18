@@ -54,7 +54,6 @@ export function AdSenseSlot({ placement }: { placement: AdSensePlacement }) {
       data-ad-slot={adsenseSettings.slots[placement]}
       data-ad-format="auto"
       data-full-width-responsive="true"
-      data-tag-for-age-treatment="1"
     />
   </aside>;
 }

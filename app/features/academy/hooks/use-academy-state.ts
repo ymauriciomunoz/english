@@ -1,6 +1,7 @@
 "use client";
 
 import { useRef, useState, type FormEvent } from "react";
+import { useRouter } from "next/navigation";
 import { loadCourseEntry, type CourseEntry } from "../../../course-content";
 import { allLessons, validLessonIds } from "../course-data";
 import { getLevelLessons } from "../course-utils";
@@ -16,16 +17,17 @@ function parseName(value: unknown) {
   return typeof value === "string" && value.trim() ? value : "Explorador";
 }
 
-export function useAcademyState() {
+export function useAcademyState(initialView: AppView = "home", initialLevel: Level = "A1") {
+  const router = useRouter();
   const [completed, setCompleted] = usePersistentState<string[]>("learno-progress-v2", [], parseCompleted);
   const [studentName, setStudentName] = usePersistentState<string>("learno-student-name", "Explorador", parseName);
-  const [selectedLevel, setSelectedLevel] = useState<Level>("A1");
+  const [selectedLevel, setSelectedLevel] = useState<Level>(initialLevel);
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null);
   const [activeCourseEntry, setActiveCourseEntry] = useState<CourseEntry | null>(null);
   const [courseLessonError, setCourseLessonError] = useState("");
   const lessonRequest = useRef(0);
   const [menuOpen, setMenuOpen] = useState(false);
-  const [activeView, setActiveView] = useState<AppView>("home");
+  const [activeView, setActiveView] = useState<AppView>(initialView);
   const [nameDraft, setNameDraft] = useState("Explorador");
   const [editingName, setEditingName] = useState(false);
 
@@ -63,7 +65,7 @@ export function useAcademyState() {
   const exitCourseLesson = () => {
     closeLesson();
     setActiveView("route");
-    window.history.replaceState(null, "", "#ruta");
+    router.push(`/cursos/${selectedLevel.toLowerCase()}`);
   };
 
   const saveStudentName = (event: FormEvent<HTMLFormElement>) => {
@@ -88,21 +90,21 @@ export function useAcademyState() {
   const showHome = () => {
     setActiveView("home");
     setMenuOpen(false);
-    window.history.replaceState(null, "", "#inicio");
+    router.push("/");
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   const showRoute = (section = "ruta") => {
     setActiveView("route");
     setMenuOpen(false);
-    window.history.replaceState(null, "", `#${section}`);
+    router.push(`/cursos/${selectedLevel.toLowerCase()}${section === "ruta" ? "" : `#${section}`}`);
     window.setTimeout(() => document.getElementById(section)?.scrollIntoView({ behavior: "smooth" }), 0);
   };
 
   const showPractice = () => {
     setActiveView("practice");
     setMenuOpen(false);
-    window.history.replaceState(null, "", "#practica");
+    router.push("/practica");
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
@@ -113,8 +115,13 @@ export function useAcademyState() {
     else closeLesson();
   };
 
+  const selectLevel = (level: Level) => {
+    setSelectedLevel(level);
+    router.push(`/cursos/${level.toLowerCase()}`);
+  };
+
   return {
-    completed, selectedLevel, setSelectedLevel, activeLesson, activeCourseEntry, courseLessonError,
+    completed, selectedLevel, selectLevel, activeLesson, activeCourseEntry, courseLessonError,
     menuOpen, setMenuOpen, activeView, studentName, nameDraft, setNameDraft, editingName,
     courseCompleted, totalProgress, openLesson, closeLesson, completeCourseLesson, exitCourseLesson, nextCourseLesson,
     saveStudentName, startEditingName, cancelEditingName,

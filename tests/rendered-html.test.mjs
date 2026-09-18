@@ -30,8 +30,10 @@ test("server-renders the Learno Languages academy with the expanded course total
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
   const html = await response.text();
   assert.match(html, /<html lang="es">/i);
-  assert.match(html, /<title>Learno Languages/);
-  assert.match(html, /Tu academia de ingl/);
+  assert.match(html, /<title>Aprende ingl[^<]+Learno Languages/);
+  assert.match(html, /<h1[^>]*>Aprende ingl/i);
+  assert.match(html, /rel="canonical" href="https:\/\/learnolanguages\.com\/?"/);
+  assert.match(html, /tu academia de ingl/i);
   assert.match(html, /217/);
   assert.match(html, /Práctica guiada|Pr&#xE1;ctica guiada/);
   assert.match(html, /Progreso guardado/);
@@ -39,7 +41,7 @@ test("server-renders the Learno Languages academy with the expanded course total
   assert.doesNotMatch(html, /codex-preview|react-loading-skeleton|Building your site/i);
 });
 
-test("keeps child-safe AdSense placements ready but disabled", async () => {
+test("keeps general-audience AdSense placements ready but disabled", async () => {
   const [config, component, app, home, route, practice] = await Promise.all([
     readFile(new URL("../app/features/adsense/adsense-config.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/features/adsense/AdSenseSlot.tsx", import.meta.url), "utf8"),
@@ -51,12 +53,43 @@ test("keeps child-safe AdSense placements ready but disabled", async () => {
 
   assert.match(config, /enabled:\s*false/);
   assert.match(config, /\^ca-pub-/);
-  assert.match(component, /data-tag-for-age-treatment="1"/);
+  assert.doesNotMatch(component, /data-tag-for-age-treatment/);
   assert.match(component, /AdSenseLoader/);
   assert.match(app, /<AdSenseLoader/);
   assert.match(home, /AdSenseSlot placement="home"/);
   assert.match(route, /AdSenseSlot placement="route"/);
   assert.match(practice, /AdSenseSlot placement="practice"/);
+});
+
+test("exposes indexable SEO routes, metadata and trust pages", async () => {
+  const [layout, robots, sitemap, manifest, courses, levelPage, practice, about, privacy, sidebar] = await Promise.all([
+    readFile(new URL("../app/layout.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/robots.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/sitemap.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/manifest.ts", import.meta.url), "utf8"),
+    readFile(new URL("../app/cursos/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/cursos/[nivel]/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/practica/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/nosotros/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/privacidad/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/academy/components/AppSidebar.tsx", import.meta.url), "utf8"),
+  ]);
+
+  assert.match(layout, /metadataBase/);
+  assert.match(layout, /EducationalOrganization/);
+  assert.match(layout, /WebSite/);
+  assert.match(robots, /sitemap\.xml/);
+  assert.match(sitemap, /cursos\/\$\{level\}/);
+  assert.match(sitemap, /privacidad/);
+  assert.match(manifest, /Learno Languages/);
+  assert.match(courses, /alternates:\s*\{ canonical: "\/cursos"/);
+  assert.match(levelPage, /generateStaticParams/);
+  assert.match(levelPage, /"@type": "Course"/);
+  assert.match(practice, /canonical: "\/practica"/);
+  assert.match(about, /<h1>/);
+  assert.match(privacy, /Publicidad y cookies/);
+  assert.match(sidebar, /href="\/cursos"/);
+  assert.match(sidebar, /href="\/practica"/);
 });
 
 test("validates every roadmap and all 217 lesson files", async () => {
@@ -196,7 +229,8 @@ test("keeps the suggested lesson order visual without blocking free access", asy
   ]);
 
   assert.match(route, /!sequentiallyUnlocked \? "locked"/);
-  assert.match(route, /onClick=\{\(\) => onSelectLevel\(level\)\}/);
+  assert.match(route, /href=\{`\/cursos\/\$\{level\.toLowerCase\(\)\}`\}/);
+  assert.match(route, /onSelectLevel\(level\)/);
   assert.match(route, /\? "Empezar" : "Abrir"/);
   assert.doesNotMatch(route, /disabled=\{!sequentiallyUnlocked\}/);
   assert.doesNotMatch(controller, /if \(!isLessonUnlocked/);
