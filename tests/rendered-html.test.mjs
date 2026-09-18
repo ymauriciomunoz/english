@@ -51,18 +51,19 @@ test("keeps general-audience AdSense placements ready but disabled", async () =>
     readFile(new URL("../app/features/practice/PracticeView.tsx", import.meta.url), "utf8"),
   ]);
 
-  assert.match(config, /enabled:\s*false/);
+  assert.match(config, /NEXT_PUBLIC_ADSENSE_ENABLED === "true"/);
   assert.match(config, /\^ca-pub-/);
   assert.doesNotMatch(component, /data-tag-for-age-treatment/);
   assert.match(component, /AdSenseLoader/);
+  assert.match(component, /hasAdvertisingConsent/);
   assert.match(app, /<AdSenseLoader/);
   assert.match(home, /AdSenseSlot placement="home"/);
   assert.match(route, /AdSenseSlot placement="route"/);
   assert.match(practice, /AdSenseSlot placement="practice"/);
 });
 
-test("exposes indexable SEO routes, metadata and trust pages", async () => {
-  const [layout, robots, sitemap, manifest, courses, levelPage, practice, about, privacy, sidebar] = await Promise.all([
+test("exposes indexable SEO routes, metadata, trust pages and user preferences", async () => {
+  const [layout, robots, sitemap, manifest, courses, levelPage, practice, about, privacy, contact, terms, footer, sidebar, theme, consent, adsTxt] = await Promise.all([
     readFile(new URL("../app/layout.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/robots.ts", import.meta.url), "utf8"),
     readFile(new URL("../app/sitemap.ts", import.meta.url), "utf8"),
@@ -72,7 +73,13 @@ test("exposes indexable SEO routes, metadata and trust pages", async () => {
     readFile(new URL("../app/practica/page.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/nosotros/page.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/privacidad/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/contacto/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/terminos/page.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/academy/components/SiteFooter.tsx", import.meta.url), "utf8"),
     readFile(new URL("../app/features/academy/components/AppSidebar.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/preferences/ThemeToggle.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/features/preferences/CookieConsent.tsx", import.meta.url), "utf8"),
+    readFile(new URL("../app/ads.txt/route.ts", import.meta.url), "utf8"),
   ]);
 
   assert.match(layout, /metadataBase/);
@@ -81,15 +88,32 @@ test("exposes indexable SEO routes, metadata and trust pages", async () => {
   assert.match(robots, /sitemap\.xml/);
   assert.match(sitemap, /cursos\/\$\{level\}/);
   assert.match(sitemap, /privacidad/);
+  assert.match(sitemap, /contacto/);
+  assert.match(sitemap, /terminos/);
   assert.match(manifest, /Learno Languages/);
   assert.match(courses, /alternates:\s*\{ canonical: "\/cursos"/);
   assert.match(levelPage, /generateStaticParams/);
   assert.match(levelPage, /"@type": "Course"/);
   assert.match(practice, /canonical: "\/practica"/);
   assert.match(about, /<h1>/);
-  assert.match(privacy, /Publicidad y cookies/);
+  assert.match(about, /github\.com\/ymauriciomunoz\/english/);
+  assert.match(privacy, /Publicidad, cookies y consentimiento/);
+  assert.match(privacy, /adssettings\.google\.com/);
+  assert.match(contact, /github\.com\/ymauriciomunoz\/english\/issues\/new/);
+  assert.match(terms, /<h1>/);
+  assert.match(footer, /CookieSettingsButton/);
+  assert.match(footer, /href="\/contacto"/);
+  assert.match(footer, /href="\/terminos"/);
   assert.match(sidebar, /href="\/cursos"/);
   assert.match(sidebar, /href="\/practica"/);
+  assert.match(layout, /<ThemeToggle/);
+  assert.match(layout, /<CookieConsent/);
+  assert.match(theme, /learno-theme/);
+  assert.match(theme, /document\.documentElement\.dataset\.theme/);
+  assert.match(consent, /learno-cookie-consent-v1/);
+  assert.match(consent, /Solo necesarias/);
+  assert.match(adsTxt, /google\.com, \$\{match\[1\]\}, DIRECT, \$\{GOOGLE_CERTIFICATION_AUTHORITY\}/);
+  assert.match(adsTxt, /status: 404/);
 });
 
 test("validates every roadmap and all 217 lesson files", async () => {

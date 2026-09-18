@@ -22,6 +22,9 @@ export default function AboutPage() {
       <p>Cada lección combina objetivos, explicaciones, ejemplos, vocabulario, ejercicios, tarjetas y evaluación. La sección de práctica refuerza escucha, pronunciación y expresiones útiles, mientras el progreso queda guardado en el dispositivo del estudiante.</p>
       <h2>Contenido centrado en el estudiante</h2>
       <p>El contenido está diseñado para ayudar a aprender y practicar, no para rellenar páginas. Revisamos la estructura académica y la experiencia de uso para mantener una ruta útil, ordenada y fácil de recorrer.</p>
+      <h2>Quién mantiene el proyecto</h2>
+      <p>Learno Languages es un proyecto educativo independiente. Su código, decisiones de producto e historial de actualizaciones se mantienen públicamente para que los usuarios puedan comprobar su evolución y comunicar observaciones.</p>
+      <p className="info-inline-link"><a href="https://github.com/ymauriciomunoz/english" target="_blank" rel="noreferrer">Consultar el proyecto público en GitHub</a> · <Link href="/contacto">Contactar al equipo</Link></p>
       <Link className="info-cta" href="/cursos">Explorar los cursos →</Link>
     </article>
     <SiteFooter />

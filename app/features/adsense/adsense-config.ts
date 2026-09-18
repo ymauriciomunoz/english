@@ -9,12 +9,12 @@ export type AdSensePlacement = "home" | "route" | "practice";
  * lesson components.
  */
 export const adsenseSettings = {
-  enabled: false,
-  clientId: "",
+  enabled: process.env.NEXT_PUBLIC_ADSENSE_ENABLED === "true",
+  clientId: process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID ?? "",
   slots: {
-    home: "",
-    route: "",
-    practice: "",
+    home: process.env.NEXT_PUBLIC_ADSENSE_HOME_SLOT ?? "",
+    route: process.env.NEXT_PUBLIC_ADSENSE_ROUTE_SLOT ?? "",
+    practice: process.env.NEXT_PUBLIC_ADSENSE_PRACTICE_SLOT ?? "",
   },
 } as const;
 

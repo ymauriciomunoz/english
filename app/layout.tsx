@@ -1,4 +1,6 @@
 import type { Metadata } from "next";
+import { CookieConsent } from "./features/preferences/CookieConsent";
+import { ThemeToggle } from "./features/preferences/ThemeToggle";
 import "./globals.css";
 
 const siteUrl = "https://learnolanguages.com";
@@ -53,5 +55,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     ],
   };
 
-  return <html lang="es"><body>{children}<script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }} /></body></html>;
+  const themeScript = `(function(){try{var saved=localStorage.getItem('learno-theme');var theme=saved==='dark'||saved==='light'?saved:(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');document.documentElement.dataset.theme=theme;document.documentElement.style.colorScheme=theme}catch(e){}})()`;
+
+  return <html lang="es" suppressHydrationWarning><head><script dangerouslySetInnerHTML={{ __html: themeScript }} /></head><body>{children}<ThemeToggle /><CookieConsent /><script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, "\\u003c") }} /></body></html>;
 }

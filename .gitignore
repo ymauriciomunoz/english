@@ -29,8 +29,9 @@ yarn-error.log*
 .pnpm-debug.log*
 .codex-dev*.log
 
-# env files (can opt-in for committing if needed)
+# env files (keep the non-secret deployment template)
 .env*
+!.env.example
 
 # vercel
 .vercel
